@@ -12,7 +12,7 @@
 
 ## Open issues
 - K3: coupe weatherstrip 3966561-2 missing its fastening link (only the convertible one has it). K8: 3856691 torque 25-35 vs remote control text 35-50. Review in M2.
-- Copyright: p150–154 (K11–K15) and p296 copied procedure steps verbatim. Re-extract with the new rule 9 (own-words steps) before publishing.
+- Copyright: long procedure text on p143, 146, 147, 151, 153, 296 rewritten in own words (originals in work/notes_backup/, not committed). New extractions follow prompt rule 9.
 - p430 (U69 A6): two numbers unreadable, not in registry (option sheets aren't).
 - Prompt updates from pilot agents not yet applied: chart part numbers as parts with `source: "table"`, fill-down rule for tables, `uncertain` on torques, rotated-crop command, per-agent crop folders.
 - Glossary (`data/glossary.csv`) not started; "halo", "birdcage", "T-top" etc.
