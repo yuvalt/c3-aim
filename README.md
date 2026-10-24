@@ -38,3 +38,9 @@ Design and decisions: [docs/spec.md](docs/spec.md).
 - Facts only, in our own words: part numbers, names, torques, materials, sheet references. No scans, drawings or copied pages. You need your own AIM for the pictures; every answer cites the sheet so you can check it.
 - Unofficial. Not affiliated with GM, Chevrolet or NCRS. Verify everything against your manual.
 - Thanks to the 1970 Corvette Registry for their AIM index.
+
+## License
+
+- Code: [MIT](LICENSE).
+- Data (`data/`, and the pack built into `dist/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse it freely, credit "c3-aim".
+- GM part numbers, torques and other facts from the AIM aren't owned by anyone, including us; the licenses cover our wording and structure.
