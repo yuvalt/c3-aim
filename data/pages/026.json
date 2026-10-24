@@ -1,0 +1,273 @@
+{
+  "page": 26,
+  "group": "0",
+  "sheet": "D6",
+  "title": "CEMENTS & SEALERS",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Applied-material code table, part 1: plastisol sealer 9981257 (52a–52g, body bonding seams at dash/hinge pillar/underbody), sealer 9980664 (53a–53j, grommets, dash mat retainers, plenum panels), plastic seam cement 3753558 (54a–54c, lock pillar/door sill), black pumpable sealer 9985059 (55a–55e, heater seal, A/C evaporator, rear roof molding and weatherstrip) and adhesive 3711175 (56a–56e, body bonding, plugging holes). Assembly sheets cite these codes (e.g. 55d on the rear window sheet).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Chart sheet (no drawing, no callouts): applied-material codes. PART cell = GM part number + description from the left column, repeated on every row of its group (on the page it is printed once per group).",
+    "Words hyphenated across line breaks in USAGE are joined (e.g. RE-/TAINER -> RETAINER); multi-line cells joined with a space.",
+    "Model box reads 19000 (all models), so models = [].",
+    "54a UPC cell is wiped out by the binder hole; written '?'.",
+    "52f has blank UPC and SUB-GRP cells on the page.",
+    "52f usage: the final H of DASH runs into the column rule; read as 'HINGE PILLAR,DASH PANEL'.",
+    "56a UPC and 'SECTION O' print as a round O; taken as zero (UPC 0, sheet A8 = body bonding instructions).",
+    "No 55c row: gap between 55b and 55d; circled 2 sits there next to PUMPABLE. Rev 2 handwriting reads '55e' or '55c' (letter unclear), written '55?'; placement suggests 55c was removed.",
+    "Circled 4 and 1 beside 55e (removed rev 1, re-added rev 4); circled 3 beside 52g."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "55e SEALER REMOVED",
+      "was": null,
+      "item": "55e"
+    },
+    {
+      "date": "9-19-69",
+      "sym": "2",
+      "text": "55? USAGE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-30-69",
+      "sym": "3",
+      "text": "52G USAGE ADDED",
+      "was": null,
+      "item": "52g"
+    },
+    {
+      "date": "2-24-70",
+      "sym": "4",
+      "text": "55E USAGE ADDED",
+      "was": null,
+      "item": "55e"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "CEMENTS & SEALERS",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52a",
+          "DASH PANEL TO CAB FRAME",
+          "1",
+          "H"
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52b",
+          "BASE OF HINGE PILLAR SUPT",
+          "1",
+          "H"
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52c",
+          "BETWEEN BONDING STRIP & FRAME ASM.",
+          "1",
+          "A"
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52d",
+          "BETWEEN DASH PNL & FRAME W/S LOWER OUTER",
+          "1",
+          "A"
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52e",
+          "TOP SIDE OF THE U/B TO THE REAR UPPER PANEL",
+          "1",
+          "B"
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52f",
+          "BETWEEN HINGE PILLAR,DASH PANEL & DOOR SILL",
+          "",
+          ""
+        ],
+        [
+          "9981257 SEALER-PLASTISOL",
+          "52g",
+          "LOCATING PIN HOUSING SUPT RIVET",
+          "1",
+          "B"
+        ],
+        [
+          "9980664 SEALER",
+          "53a",
+          "DASH MAT RETAINERS",
+          "1",
+          "D"
+        ],
+        [
+          "9980664 SEALER",
+          "53b",
+          "PARKING BRAKE STUDS",
+          "5",
+          "C"
+        ],
+        [
+          "9980664 SEALER",
+          "53c",
+          "PLENUM SIDE PNL & PLENUM SIDE PNL EXTENSIONS",
+          "1",
+          "A"
+        ],
+        [
+          "9980664 SEALER",
+          "53d",
+          "STRG COLUMN LOWER MTG",
+          "9",
+          "A"
+        ],
+        [
+          "9980664 SEALER",
+          "53e",
+          "APPLY AROUND THE FUSE PNL OPENING AT FRONT OF DASH AFTER THE FUSE PNL HAS BEEN INSTAL",
+          "12",
+          "B"
+        ],
+        [
+          "9980664 SEALER",
+          "53f",
+          "SPEEDO CABLE GROMMET",
+          "12",
+          "C"
+        ],
+        [
+          "9980664 SEALER",
+          "53g",
+          "A/C HARNESS GROMMET",
+          "C60",
+          "E"
+        ],
+        [
+          "9980664 SEALER",
+          "53h",
+          "A/C VACUUM HOSE GROMMET",
+          "C60",
+          "E"
+        ],
+        [
+          "9980664 SEALER",
+          "53j",
+          "PLENUM PNL, EXT, UPPER & LOWER FRONT FENDER PNL",
+          "1",
+          "A"
+        ],
+        [
+          "3753558 CEMENT-PLASTIC SEAM",
+          "54a",
+          "LOCK PILLAR TO DOOR SILL",
+          "?",
+          "H"
+        ],
+        [
+          "3753558 CEMENT-PLASTIC SEAM",
+          "54b",
+          "LOCK PILLAR TO W/H",
+          "1",
+          "H"
+        ],
+        [
+          "3753558 CEMENT-PLASTIC SEAM",
+          "54c",
+          "DOOR SILL OVERLAPS LOCK PILLAR SUPPORT",
+          "1",
+          "H"
+        ],
+        [
+          "9985059 SEALER-BLACK PUMPABLE",
+          "55a",
+          "HEATER SEAL TO DASH",
+          "1",
+          "M"
+        ],
+        [
+          "9985059 SEALER-BLACK PUMPABLE",
+          "55b",
+          "EVAPORATOR TO DASH",
+          "C60",
+          "D"
+        ],
+        [
+          "9985059 SEALER-BLACK PUMPABLE",
+          "55d",
+          "ROOF REAR MLDG",
+          "1",
+          "F"
+        ],
+        [
+          "9985059 SEALER-BLACK PUMPABLE",
+          "55e",
+          "W/STRIP ASM TO ROOF PNL ASM",
+          "1",
+          "F"
+        ],
+        [
+          "3711175 ADHESIVE",
+          "56a",
+          "USED FOR BODY BONDING, SEE BONDING INSTRUCTIONS SECTION 0, SHEET A8",
+          "0",
+          "A"
+        ],
+        [
+          "3711175 ADHESIVE",
+          "56b",
+          "USED TO CLOSE W/S WASHER JAR BRACKET HOLES",
+          "C60",
+          "E"
+        ],
+        [
+          "3711175 ADHESIVE",
+          "56c",
+          "PLUG HTR HOSE CLIP BRKT MTG HOLES IN FDR SKIRT",
+          "C60",
+          "D"
+        ],
+        [
+          "3711175 ADHESIVE",
+          "56d",
+          "PLENUM SIDE PANELS L. & R.H.",
+          "1",
+          "A"
+        ],
+        [
+          "3711175 ADHESIVE",
+          "56e",
+          "BRAKE PEDAL HOUSING CVR",
+          "5",
+          "A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

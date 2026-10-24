@@ -1,0 +1,115 @@
+{
+  "page": 140,
+  "group": "1",
+  "sheet": "K1",
+  "title": "DOOR - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents sheet for the door section (UPC 1, sheets K1-K15): glass and frame, window glass seals/weatherstrip/striker, window guide cam and glass operating effort, window regulator, hinges, outside handle/lock/guide pin, lock and remote control, trim panel, and glass adjustment procedures for coupe (19437) and convertible (19467). An exploded door drawing points to where each sheet's parts sit. K10 is canceled (OPEN).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Drawing: a door with leader boxes K2 (glass), K3 (two leaders: seal along the door top and the door edge weatherstrip), K4 (guide cam at the front upper inner panel), K5 (regulator, lower front), K6 (hinges), K7 (outside handle area at the top rear), K8 (lock rods/remote, two leaders), K9 (trim panel edge).",
+    "Circled (2) sits next to the K10 OPEN line (rev 2, sheet K10 canceled). Circled (1) at lower right next to sideways 'K138'.",
+    "Title block: drawing 3965172, DR C0/C1, CK 4-18-69 C1, PREL 3-11-69, C/O K1, model 19000.",
+    "Rev 1 date read as 6-2-69; middle digit slightly smudged."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-13-70",
+      "sym": "2",
+      "text": "SHEET K10 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "UPC 1 DOORS CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "K1",
+          "CONTENTS"
+        ],
+        [
+          "K2",
+          "GLASS & FRAME"
+        ],
+        [
+          "K3",
+          "WINDOW GLASS SEALS, W/STRIP & STRIKER"
+        ],
+        [
+          "K4",
+          "WDO GUIDE CAM & GLASS OPER EFFORT"
+        ],
+        [
+          "K5",
+          "WINDOW REG"
+        ],
+        [
+          "K6",
+          "HINGE"
+        ],
+        [
+          "K7",
+          "HANDLE, LOCK & GUIDE PIN"
+        ],
+        [
+          "K8",
+          "LOCK & REMOTE CONTROL"
+        ],
+        [
+          "K9",
+          "TRIM PANEL ASM"
+        ],
+        [
+          "K10",
+          "OPEN"
+        ],
+        [
+          "K11",
+          "GLASS ADJ. PROCEDURE"
+        ],
+        [
+          "K12",
+          "GLASS ADJ. PROCEDURE-19437"
+        ],
+        [
+          "K13",
+          "GLASS ADJ. PROCEDURE-19437"
+        ],
+        [
+          "K14",
+          "GLASS ADJ. PROCEDURE-19467"
+        ],
+        [
+          "K15",
+          "GLASS ADJ. PROCEDURE-19467"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

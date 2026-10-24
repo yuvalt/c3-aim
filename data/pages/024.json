@@ -1,0 +1,108 @@
+{
+  "page": 24,
+  "group": "0",
+  "sheet": "D4",
+  "title": "LUBRICATION",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Lubrication chart, sheet 4: code 15a (9985014 rust-proofing oil, diluted 1:9, sprayed over the engine compartment after final assembly except under the hood), 18a and 18c (9985146 special lubricant: accelerator cable ball stud, M20 heavy-duty 4-speed fill), 32a (9985196 rust preventive on battery terminals) and 33a (9985169 hypoid lube, rear axle).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Table: PART column filled down to every code row of its block (printed once per block). Multi-line cells joined with single spaces; syllable hyphens at line breaks removed (e.g. 'CHAN-NELS' -> 'CHANNELS'), real dashes kept. Diamond symbol after each code omitted.",
+    "Circled 1 sits in the empty space below 15a (where the removed 9985192 entry was). Circled 2 and 3 sit between 18a and 18c (where removed 18b was). Circled 4 next to 33a.",
+    "Rev 1 'was' set to the removed lubricant pn 9985192 (removed, not replaced).",
+    "Revision text is handwritten; 'G81' read as the RPO code (positraction); first rev date reads 12-12-69, third 2-9-70.",
+    "Codes 16-17, 19-31 not on this sheet."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-69",
+      "sym": "1",
+      "text": "9985192 LUBRICANT REMOVED",
+      "was": "9985192",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "USAGE 18b REVISED AND UPC 4 WAS G81",
+      "was": null,
+      "item": "18b"
+    },
+    {
+      "date": "2-9-70",
+      "sym": "3",
+      "text": "USAGE 18b REMOVED",
+      "was": null,
+      "item": "18b"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "USAGE 33a REVISED & UPC 4 WAS G81.",
+      "was": null,
+      "item": "33a"
+    }
+  ],
+  "options": [
+    "M20"
+  ],
+  "tables": [
+    {
+      "title": "LUBRICATION D4",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9985014 OIL-RUST PROOFING DILUTE WITH 9 PARTS WATER",
+          "15a",
+          "SPRAY ENGINE COMPARTMENT & ALL PARTS THEREIN AFTER FINAL ASM EXCEPT UNDER SURFACE OF HOOD",
+          "0",
+          "C"
+        ],
+        [
+          "9985146 LUBRICANT SPECIAL",
+          "18a",
+          "BALL STUD BEFORE INSTAL SNAP ON ACCELERATOR CBL",
+          "6",
+          "D"
+        ],
+        [
+          "9985146 LUBRICANT SPECIAL",
+          "18c",
+          "HEAVY DUTY 4 SPEED TRANS-THRU FILLER HOLE IN CASE",
+          "M20",
+          "A"
+        ],
+        [
+          "9985196 RUST PREVENTIVE",
+          "32a",
+          "SPRAY OR BRUSH ON EACH BATTERY TERMINAL AFTER BATTERY CABLE HAS BEEN ATTACHED",
+          "12",
+          "A"
+        ],
+        [
+          "9985169 LUBRICANT-HYPOID",
+          "33a",
+          "RR AXLE",
+          "4",
+          "A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

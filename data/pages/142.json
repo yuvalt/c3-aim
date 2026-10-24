@@ -1,0 +1,369 @@
+{
+  "page": 142,
+  "group": "1",
+  "sheet": "K3",
+  "title": "WINDOW GLASS SEALS, WEATHER STRIP & STRIKER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door (all models) window-glass seals, door weatherstrip and door lock striker. The moulding and outer glass seal along the top of the door sit on the door upper panel assembly and are screwed in at the front end; a cushion is screwed under the panel; the door perimeter weatherstrip is glued on with adhesive and screwed at its upper ends; the striker bolts into the lock pillar through spacers as required. Coupe (19437) and convertible (19467) get different seal, panel and weatherstrip numbers.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3954525-6",
+      "name": "MOULDING",
+      "name_expanded": "Moulding – door top (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3954589-90",
+      "name": "SEAL ASM-OUTER",
+      "name_expanded": "Seal assembly – outer (door glass, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966641-2",
+      "name": "SEAL ASM-OUTER",
+      "name_expanded": "Seal assembly – outer (door glass, LH/RH), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419858",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3964175-6",
+      "name": "PANEL ASM.",
+      "name_expanded": "Panel assembly – door upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3966587-8",
+      "name": "PANEL ASM.",
+      "name_expanded": "Panel assembly – door upper (LH/RH), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3954529",
+      "name": "CUSHION",
+      "name_expanded": "Cushion",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3876340",
+      "name": "SPACER-AS REQ'D",
+      "name_expanded": "Spacer – striker, as required",
+      "models": [],
+      "qty": "as req'd",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "7660559",
+      "name": "STRIKER",
+      "name_expanded": "Striker – door lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9414711",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966561-2",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – door (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966569-70",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – door (LH/RH), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "476784",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9418719",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "?",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "4841194",
+      "name": "FASTENER",
+      "name_expanded": "Fastener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "35-50",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11b",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "bottom edge of the door, at the weatherstrip [9]"
+    },
+    {
+      "key": "B",
+      "code": "51c",
+      "description": "ADHESIVE",
+      "amount": "1.6 OZ.",
+      "where": "door weatherstrip [9] around the door opening edge (three tags in main view) and at the lock-pillar end (View B)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "11",
+        "10"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door upper panel [4] at the front end of the door top",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screws [11] and [10] go into the front end of the moulding [1]. View A (section at the door top): screw [11] goes in through the side of panel [4], below moulding [1] and outer seal [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "underside of door upper panel [4]",
+      "qty": null,
+      "torque_ref": "?",
+      "note": "View A: screw assembly [12] goes down through a slot in the panel into the cushion [5] below it. Torque triangle number unreadable.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "door, at the upper ends of the weatherstrip",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Main view: screw [3] at the upper front corner of the door holds the end of weatherstrip [9]. View B (lock-pillar end): screw [3] goes in horizontally through the bracket at the top of the weatherstrip [9], next to fastener [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "door, at the rear upper end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: push-in fastener [13] drops vertically into the rear end of upper panel [4]; it is also shown above the weatherstrip bracket in View B.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Striker [7] threads into the lock pillar with spacer [6] (as required) between striker and pillar. 35-50 LBS FT.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "9"
+      ],
+      "to": "door opening edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Weatherstrip [9] is bonded with adhesive 51c (1.6 oz) along the door edge and at the lock-pillar end (View B).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-5; visible '395' + '5-6'.",
+    "Item 2 second line and item 4 second line print only the model code 19437 in the name column; name carried over from the line above. Item 9 second line prints 19467. The unqualified lines carry no model code on the page.",
+    "Item 12: torque triangle in View A has an unreadable number.",
+    "Screw [8] (triangle 3): leader goes to a screw at the front upper corner of the door inner panel near the View A arrow; what it retains is not clear. Left out of fastening.",
+    "Outer seal [2]: View A shows it between moulding [1] and panel [4]; its own retention is not shown.",
+    "View B weatherstrip callout reads like '2' or '9'; rev 4 (SYM 9 WAS SYM 1) circle sits next to it, so read as [9].",
+    "Circled 3 sits next to spacer callout [6]; circled 2 next to callout [13] in the main view.",
+    "'K140' printed sideways near the material legend.",
+    "Rev 1-4 dates illegible."
+  ],
+  "revisions": [
+    {
+      "date": "",
+      "sym": "1",
+      "text": "ITEM 13 ADDED",
+      "was": null,
+      "item": "13"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "SYM. 13 WAS SYM 3",
+      "was": null,
+      "item": "13"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "W/STRIP DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SYM 9 WAS SYM 1",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "7-7-69",
+      "sym": "5",
+      "text": "3966587-8 19437 ADDED",
+      "was": null,
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "pn": "3831877",
+  "kind": "rivet",
+  "thread": null,
+  "length": "1/2",
+  "head": "flat",
+  "drive": null,
+  "finish": "aluminum",
+  "notes": "Forum-only: CorvetteForum snippet says 1/2\" long shaft (diameter not stated); NCRS 'C3 Rivet Identification' snippet lists '3831877= 1/2\"' without saying which dimension. Another CF post says the spare-tire V-bracket rivet is 'either 3828549 or 3831877' with 9/16 overall length (ambiguous). Exact CF thread URL for the quote is uncertain (search snippet; CF pages 403'd).",
+  "confidence": "low",
+  "sources": [
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3167815-wheel-tub-metal-rivets.html",
+      "title": "Wheel Tub - Metal Rivets - CorvetteForum",
+      "quote": "3831877 is a flathead soft aluminum rivet with a 1/2\" long shaft.",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion/85573-c3-rivet-identification?p=909264",
+      "title": "C3 Rivet Identification - NCRS",
+      "quote": "3831877= 1/2\"",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

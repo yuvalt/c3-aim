@@ -1,0 +1,19 @@
+{
+  "pn": "9422245",
+  "kind": "screw",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "1968 Camaro AIM lists 9422245 SCREW (no size); camaros.net poster says it is not in AMK catalog. Companion screw 3849634 is 8-18 x 5/8 but that is not a size for 9422245.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/type-of-screw-to-attach-base-rocker-moldings.182653/",
+      "title": "Type of screw to attach base rocker moldings? - camaros.net (search snippet)",
+      "quote": "that part number doesn't show on that page (nor any other)",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

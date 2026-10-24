@@ -1,0 +1,19 @@
+{
+ "pn": "3846202",
+ "kind": "screw",
+ "thread": "5/16-18",
+ "length": "7/8",
+ "head": ".75 conical washer",
+ "drive": null,
+ "finish": null,
+ "notes": "Single source: camaros.org '68 Camaro fastener documentation (screw with .75 conical washer; AMK/headmark notes). A search-engine summary also suggested a CorvetteForum mention but that page returned 403 and could not be verified.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.org/forum/index.php?action=profile&u=4708&area=showposts&start=1995",
+   "title": "Show posts - 68camaroz28 (Documenting 68 Camaro Fasteners & Hardware)",
+   "quote": "3846202-Pages 61, 63, 73, & 144/5  5/16-18X7/8 .75 Conical AMK 'E', B-13317 (6) & B-10876 (12)",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "pn": "3856691",
+  "kind": "bolt",
+  "thread": "1/4-20",
+  "length": "5/8",
+  "head": "indented hex with captured washer",
+  "drive": null,
+  "finish": null,
+  "notes": "'SCREW ASM.' in AIM = bolt with captured washer. Two vendors agree. Used in many C3 kits (door regulator/channel, hood latch, exhaust filler panel).",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.corvettecentral.com/68-69-grille-bracket-support-bolts-set-of-8-423112",
+      "title": "68-69 Grille Bracket Support Bolts - Set Of 8",
+      "quote": "Includes (8) 1/4-20 x 5/8\" indented hex head bolts with captured washers. ... GM Item No.: 3856691",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.zip-corvette.com/68-82-hood-release-top-latch-mount-bolts.html",
+      "title": "1968-1982 Corvette Hood Release/Top Latch Mount Bolts (GM Part 3856691)",
+      "quote": "1/4-20 x 5/8\" indented hex head with a captured washer",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

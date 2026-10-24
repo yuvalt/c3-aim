@@ -1,0 +1,334 @@
+{
+  "page": 254,
+  "group": "12",
+  "sheet": "D1",
+  "title": "WIRING DIAGRAM-ENGINE COMPARTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Wiring diagram, engine compartment, left-front portion (all models): LH headlamps (upper lamp labelled ...BEAM, lower lamp label illegible), LH headlamp door warning lamp switch, LH park & directional signal lamp, LH side marker lamp, horn relay & key warning buzzer, brake fluid warning switch, a fusible link and two ground eyelets, with the harness running back to connectors at the dash panel (firewall). Gives wire gauge and color for every lead; wires broken off at the top edge continue on the adjoining sheet. No part numbers on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Wire labels are gauge + color code as printed (B black, BRN brown, DBL dark blue, DG dark green, LBL light blue, LG light green, OR orange, P pink, PPL purple, R red, T tan, W white, Y yellow; slashes = tracer colors).",
+    "Component label 'HORN RLY & K' WARN BUZZ' is cut off after K (key warning buzzer).",
+    "Exact pin-to-pin routing inside the two large dash-panel connectors is not traceable at this resolution; tables list the leads at each component and at the sheet edges only.",
+    "Adjoining sheet number key printed lower left: D2 D4 D6 D8 / D1 D3 D5 D7 (D1 highlighted). Wires broken off at the top edge presumably continue on D2 and at the right on D3; the sheet does not say so explicitly.",
+    "Fusible link (zig-zag) is drawn on the line labelled 24 BRN/W that runs from the top edge down to the right-hand dash connector.",
+    "Title-block sheet id partly smudged; reads D1, matches PREL D1 and the highlighted key box.",
+    "'K252' printed sideways at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "Component leads (as labelled at each component)",
+      "columns": [
+        "component",
+        "wires"
+      ],
+      "rows": [
+        [
+          "L.H. H/L DOOR WARN LP SWITCH (headlamp door warning lamp switch)",
+          "connector beside switch; leads not individually labelled at the switch (nearby top-edge leads 18 B, 16 B, 16 T)"
+        ],
+        [
+          "Lower headlamp (label inside lamp illegible)",
+          "3-terminal connector; one lead labelled 16 B, others unlabelled; also takes the 18 LG lead from beside the upper lamp"
+        ],
+        [
+          "Upper headlamp (label inside lamp ends '...BEAM')",
+          "2-terminal connector: 18 LG, 16 B"
+        ],
+        [
+          "L.H. PARK & DIR SIG LP",
+          "16 LBL, 18 BRN, 18 W"
+        ],
+        [
+          "L.H. MARKER LP",
+          "20 BRN, 20 B"
+        ],
+        [
+          "HORN RLY & K[EY] WARN BUZZ",
+          "14 DG (in from top edge); terminals below: 10 R, 10 R, 20 OR, 16 B"
+        ],
+        [
+          "BRAKE FLUID WARNING SW",
+          "18 T"
+        ],
+        [
+          "FUSIBLE LINK",
+          "on 24 BRN/W line"
+        ],
+        [
+          "Ground eyelet near door warning switch",
+          "ground symbol, one lead"
+        ],
+        [
+          "Ground eyelet near headlamps",
+          "12 B"
+        ]
+      ]
+    },
+    {
+      "title": "Leads broken off at the top edge (left to right)",
+      "columns": [
+        "gauge",
+        "color"
+      ],
+      "rows": [
+        [
+          "18",
+          "B"
+        ],
+        [
+          "16",
+          "B"
+        ],
+        [
+          "16",
+          "T"
+        ],
+        [
+          "20",
+          "BRN"
+        ],
+        [
+          "20",
+          "BRN"
+        ],
+        [
+          "20",
+          "B"
+        ],
+        [
+          "20",
+          "B"
+        ],
+        [
+          "18",
+          "W/DG"
+        ],
+        [
+          "16",
+          "LG"
+        ],
+        [
+          "20",
+          "DBL"
+        ],
+        [
+          "14",
+          "DG"
+        ],
+        [
+          "12",
+          "B"
+        ],
+        [
+          "10",
+          "R"
+        ],
+        [
+          "24",
+          "BRN/W"
+        ],
+        [
+          "10",
+          "R"
+        ],
+        [
+          "18",
+          "DG"
+        ],
+        [
+          "20",
+          "W-R/B"
+        ],
+        [
+          "12",
+          "PPL"
+        ],
+        [
+          "10",
+          "R"
+        ],
+        [
+          "2",
+          "B"
+        ],
+        [
+          "14",
+          "OR"
+        ],
+        [
+          "20",
+          "P"
+        ],
+        [
+          "12",
+          "R/W/DBL"
+        ],
+        [
+          "18",
+          "Y"
+        ],
+        [
+          "18",
+          "LBL"
+        ],
+        [
+          "18",
+          "DBL"
+        ],
+        [
+          "18",
+          "LG"
+        ],
+        [
+          "14",
+          "B"
+        ]
+      ]
+    },
+    {
+      "title": "Leads at the right-hand dash-panel connector (top to bottom)",
+      "columns": [
+        "gauge",
+        "color"
+      ],
+      "rows": [
+        [
+          "18",
+          "T"
+        ],
+        [
+          "20",
+          "BRN"
+        ],
+        [
+          "16",
+          "T"
+        ],
+        [
+          "16",
+          "LG"
+        ],
+        [
+          "12",
+          "R"
+        ],
+        [
+          "24",
+          "BRN/W"
+        ],
+        [
+          "18",
+          "T"
+        ],
+        [
+          "16",
+          "B/DBL/W"
+        ],
+        [
+          "20",
+          "DBL"
+        ],
+        [
+          "18",
+          "DG"
+        ],
+        [
+          "20",
+          "LBL"
+        ],
+        [
+          "18",
+          "W/DBL/DG"
+        ],
+        [
+          "20",
+          "B"
+        ],
+        [
+          "16",
+          "LG"
+        ],
+        [
+          "20",
+          "P/DBL/B"
+        ],
+        [
+          "2",
+          "B"
+        ]
+      ]
+    },
+    {
+      "title": "Leads into the upper-right multi-pin connector (from top edge)",
+      "columns": [
+        "gauge",
+        "color"
+      ],
+      "rows": [
+        [
+          "20",
+          "W-R/B"
+        ],
+        [
+          "12",
+          "PPL"
+        ],
+        [
+          "14",
+          "OR"
+        ],
+        [
+          "20",
+          "P"
+        ],
+        [
+          "12",
+          "R/W/DBL"
+        ],
+        [
+          "18",
+          "Y"
+        ],
+        [
+          "18",
+          "LBL"
+        ],
+        [
+          "18",
+          "DBL"
+        ],
+        [
+          "18",
+          "LG"
+        ],
+        [
+          "14",
+          "B"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

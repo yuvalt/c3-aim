@@ -1,0 +1,20 @@
+{
+  "pn": "455624",
+  "kind": "rivet",
+  "thread": null,
+  "length": "1/2",
+  "head": "round",
+  "drive": null,
+  "finish": "aluminum",
+  "diameter": "3/16",
+  "notes": "Single vendor source with explicit GM Item No. Beware: Corvette Central and Ecklers also use '455624' as unrelated vendor SKUs (heater pipe seals; EK-25-455624-1 nylon nut).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.corvettecentral.com/c1-53-62/body-frame/body-mounts/53-67-aluminum-round-head-body-assembly-rivet-set-181306",
+      "title": "53-67 Aluminum Round Head Body Assembly Rivet Set 1/2\" (25 pcs)",
+      "quote": "Set of 25 round head 3/16\" X 1/2\" long aluminum body assembly rivets ... GM Item No. 455624",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

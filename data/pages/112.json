@@ -1,0 +1,315 @@
+{
+  "page": 112,
+  "group": "1",
+  "sheet": "F18",
+  "title": "REAR WINDOW GLASS & SIDE GLASS WEATHER STRIP ASM.",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) rear roof area: rear window glass, the rear roof upper molding (chrome strip above the rear window) and the vertical rear roof lower molding, plus the door glass rear seal (side glass weatherstrip) on the lock pillar and the sealing strip under the upper molding. The upper molding is held by screws driven up from under the rear roof panel through washers; the plate and guide at the molding ends are screwed down; the lower molding and the door glass seal are riveted, and the seal is also glued. Related sheets: F17, F19 (rear window).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3972307-8",
+      "name": "MOLDING-RR ROOF UPPER",
+      "name_expanded": "Molding – rear roof upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966796",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9431792",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9428715",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3964144",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3964145",
+      "name": "GUIDE",
+      "name_expanded": "Guide",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427987",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3935508",
+      "name": "MOLDING-RR ROOF LOWER",
+      "name_expanded": "Molding – rear roof lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3928470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3966685-6",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip – door glass rear seal at lock pillar (LH/RH); not the rear window seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3938098",
+      "name": "GLASS ASM.",
+      "name_expanded": "Rear window glass assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3851624",
+      "name": "SEALING STRIP",
+      "name_expanded": "Sealing strip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3928470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51n",
+      "description": "ADHESIVE",
+      "amount": "1.02 OZ",
+      "where": "View A, top of upper molding [1] at the weatherstrip"
+    },
+    {
+      "key": "B",
+      "code": "51bb",
+      "description": "ADHESIVE",
+      "amount": "2.00 OZ",
+      "where": "weatherstrip [10] at the lock pillar (arrow B)"
+    },
+    {
+      "key": "C",
+      "code": "55d",
+      "description": "SEALER",
+      "amount": "3/8\" DIA. BEAD",
+      "where": "View A, joint between upper molding [1] and weatherstrip [10]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear roof panel",
+      "qty": "2 per side",
+      "torque_ref": "1",
+      "note": "View C: screw [3] goes up through washer [2] from under the rear roof panel into the upper molding [1]. Drill 5/32 holes using the molding as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "body at the end of the upper molding",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [4] clamps plate [5] and guide [6] (View A arrow).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "how": "seals",
+      "holds": [
+        "1"
+      ],
+      "to": "rear roof panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealing strip [12] sits under the upper molding (View C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "rear roof pillar, beside the side-glass weatherstrip [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [7] go through the holes along the lower molding [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: rivet [9] retains the weatherstrip [10] at its lower end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "5/32 DIA HOLE (2) PLACES EA. SIDE. USE [1] AS TEMPLATE."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the first digits; visible '?' + '307-8'.",
+    "Item 3: first digit faint at 300 dpi; reads as 9 (Vision OCR read 3).",
+    "Rivet [13] (same pn as [9]): callout not found in the drawing; left out of fastening.",
+    "Glass [11]: drawing shows its position and a latch at the bottom edge, but not what retains it.",
+    "Title block sheet id is smudged; C/O box reads F18."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-3-69",
+      "sym": "2",
+      "text": "MLDG DWG REVISED (2) PLACES",
+      "was": null,
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "RR ROOF PNL DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "HOLE NOTE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-14-69",
+      "sym": "5",
+      "text": "WAS 3938097 GLASS",
+      "was": "3938097",
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

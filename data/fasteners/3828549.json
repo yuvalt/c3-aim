@@ -1,0 +1,31 @@
+{
+ "pn": "3828549",
+ "kind": "rivet",
+ "thread": "3/16",
+ "length": null,
+ "head": "flat",
+ "drive": null,
+ "finish": "aluminum",
+ "notes": "thread field = shank diameter. Length conflicts: MAM 601261 kit titled 3/16 x 5/8 long for 3828549; NCRS 'C3 Rivet Identification' thread list gives 3828549 = 9/16 (with 3828548=7/16, 3828550=5/8); MAM 670636 lumps 3828546-3828550 as 7/16 long. MAM also lists 1/2 in head dia. NCRS page itself returned 403; quote is from search snippet.",
+ "confidence": "conflict",
+ "sources": [
+  {
+   "url": "https://www.mamotorworks.com/corvette/product/1963-1982-corvette-aluminum-body-rivet-3-16-x-5-8-long-25-piece-kit-601261",
+   "title": "Corvette 1963-1982 C2-C3 Aluminum Body Rivet 3/16 x 5/8 Long 3828549 From Mid America Motorworks",
+   "quote": "Aluminum Body Rivet 3/16 x 5/8 Long 3828549",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.forums.ncrs.org/forum/technical-discussion/85573-c3-rivet-identification?p=909264",
+   "title": "C3 Rivet Identification - NCRS Discussion Boards (search snippet)",
+   "quote": "3828548= 7/16\", 3828549= 9/16\", and 3828550= 5/8\"",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.mamotorworks.com/corvette/product/corvette-rivets-1963-1982-flat-head-5-8-long-1-2-dia-head-100-pcs-670636",
+   "title": "1963-1982 Corvette Flat Head Rivets 7/16 Long 3/16 Diameter Shank 50 Pieces - 3828546,3828547,3828548,3828549,3828550",
+   "quote": "Flat Head Rivets 7/16 Long 3/16 Diameter Shank 50 Pieces - 3828546,3828547,3828548,3828549,3828550",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

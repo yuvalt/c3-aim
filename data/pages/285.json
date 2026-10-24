@@ -1,0 +1,350 @@
+{
+  "page": 285,
+  "group": "OPTION INDEX",
+  "sheet": "A1",
+  "title": "ALPHABETICAL OPTION LIST",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Master list of 1970 RPO option codes, grouped by the UPC system they belong to (body, suspension, axle ratios, brakes, engines L46/LT1/LS5/LS7, transmissions, steering, wheels and tires, electrical, bumpers, paint/trim combinations). Options marked * are indexed only and have no option sheets of their own; the rest have sheets in the option section under their RPO code.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "[1] SEE MISC SHIPPING LIST (UPC 0)",
+    "* DENOTES OPT INDEXED ONLY (SEE INTROD SHT)"
+  ],
+  "notes_internal": [
+    "Title block UPC box reads 'OPTION INDEX', not an RPO code; used that as group.",
+    "SPECIAL ITEMS '?00-936' and '?98-899': first digit is a blob, 8 or 9 (Vision OCR read 900-936 and 898-899); left as ?.",
+    "Axle ratios are printed with a comma-like low dot ('3,70'); written as '3.70'.",
+    "C50 line has a hand-drawn arrow pointing at it; circled revision 11 sits next to G81.",
+    "Groups FRAME - UPC 2, SHEET METAL - UPC 11, RADIATOR & GRILLE - UPC 13 list no options.",
+    "Revision date '12-12-6?' last digit unreadable. Title block: drawing 3965172, DR DP/C1, CK 4-18-69 C1, PREL 3-28-69, C/O A1, model 19000. Sideways 'K283' at lower left.",
+    "'COOLENT' is spelled that way on the page."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-6?",
+      "sym": "11",
+      "text": "RPO G81 OPT INDEXED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "ALPHABETICAL OPTION LIST",
+      "columns": [
+        "section",
+        "indexed_only",
+        "rpo",
+        "description"
+      ],
+      "rows": [
+        [
+          "BODY - UPC 1",
+          "",
+          "A85",
+          "HARNESS-Shldr-Frt Seat Deluxe (See UPC 1)"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "A31",
+          "WINDOW-Elec Cont"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "C60",
+          "AIR CONDITIONING"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "C08",
+          "COVER-Roof Xtr Soft Trim"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "C50",
+          "DEFROSTER-Rr Window"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "CD2",
+          "MONITOR-W/S Washer Fluid"
+        ],
+        [
+          "BODY - UPC 1",
+          "",
+          "C07",
+          "TOP-Auxiliary"
+        ],
+        [
+          "BODY - UPC 1",
+          "*",
+          "C05",
+          "TOP-Folding"
+        ],
+        [
+          "FRT SUSP - UPC 3",
+          "*",
+          "F41",
+          "SUSPENSION-Frt & Rr-Spl Perf."
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "G81",
+          "AXLE-Rr-Positraction"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GS4",
+          "AXLE-Rr-3.70 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GS5",
+          "AXLE-Rr-4.11 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GS6",
+          "AXLE-Rr-4.56 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV1",
+          "AXLE-Rr-2.73 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV2",
+          "AXLE-Rr-3.08 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV3",
+          "AXLE-Rr-3.08 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV4",
+          "AXLE-Rr-3.36 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV5",
+          "AXLE-Rr-3.36 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV6",
+          "AXLE-Rr-3.55 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV7",
+          "AXLE-Rr-3.55 Ratio"
+        ],
+        [
+          "REAR SUSP - UPC 4",
+          "*",
+          "GV8",
+          "AXLE-Rr-4.11 Ratio"
+        ],
+        [
+          "BRAKE - UPC 5",
+          "*",
+          "J56",
+          "BRAKE-H.D."
+        ],
+        [
+          "BRAKE - UPC 5",
+          "",
+          "J50",
+          "BRAKE-Vacuum Power"
+        ],
+        [
+          "ENGINE - UPC 6",
+          "",
+          "K05",
+          "HEATER-Eng Block"
+        ],
+        [
+          "ENGINE - UPC 6",
+          "*",
+          "L46",
+          "ENGINE-V-8-\"350\"-Hi Perf"
+        ],
+        [
+          "ENGINE - UPC 6",
+          "",
+          "LT1",
+          "ENGINE-V-8-\"350\"-Spl Hi Perf"
+        ],
+        [
+          "ENGINE - UPC 6",
+          "",
+          "LS7",
+          "ENGINE-V-8-\"454\"-H.D.-4 Bbl Carb"
+        ],
+        [
+          "ENGINE - UPC 6",
+          "",
+          "LS5",
+          "ENGINE-V-8-\"454\"-Hi-Perf-4 Bbl Carb"
+        ],
+        [
+          "TRANS - UPC 7",
+          "",
+          "M40",
+          "TRANSMISSION-3 Speed Auto"
+        ],
+        [
+          "TRANS - UPC 7",
+          "",
+          "M20",
+          "TRANSMISSION-4 Speed"
+        ],
+        [
+          "TRANS - UPC 7",
+          "",
+          "M21",
+          "TRANSMISSION-4 Speed C.R. (See M20)"
+        ],
+        [
+          "TRANS - UPC 7",
+          "",
+          "M22",
+          "TRANSMISSION-4 Speed H.D. (See M20)"
+        ],
+        [
+          "FUEL & EXHAUST - UPC 8",
+          "",
+          "NA9",
+          "EMISSION CONTROL-Evap"
+        ],
+        [
+          "STEERING - UPC 9",
+          "",
+          "N40",
+          "STEERING-Hydraulic"
+        ],
+        [
+          "STEERING - UPC 9",
+          "",
+          "N37",
+          "WHEEL-Strg-Tilt & Telescoping"
+        ],
+        [
+          "WHEEL & TIRE - UPC 10",
+          "",
+          "P02",
+          "COVER-Wheel Trim-Deluxe [1]"
+        ],
+        [
+          "WHEEL & TIRE - UPC 10",
+          "*",
+          "PT7",
+          "TIRE"
+        ],
+        [
+          "WHEEL & TIRE - UPC 10",
+          "*",
+          "PU9",
+          "TIRE"
+        ],
+        [
+          "ELECTRICAL - UPC 12",
+          "",
+          "UA6",
+          "ALARM SYSTEM-Horn"
+        ],
+        [
+          "ELECTRICAL - UPC 12",
+          "",
+          "U69",
+          "RADIO-AM/FM"
+        ],
+        [
+          "ELECTRICAL - UPC 12",
+          "",
+          "U79",
+          "RADIO-Stereo"
+        ],
+        [
+          "BUMPER & MISC - UPC 14",
+          "*",
+          "V48",
+          "COOLENT-Engine Incr Protection"
+        ],
+        [
+          "BUMPER & MISC - UPC 14",
+          "*",
+          "V78",
+          "PLATE-Less Certif-Compliance-(Export)"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "*",
+          "Z12",
+          "GEAR-Speedo Driven"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "*",
+          "?00-936",
+          "COLOR COMBINATION"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "",
+          "490-491",
+          "TRIM COMBINATION"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "",
+          "403",
+          "TRIM COMBINATION-Leather-(See UPC 1)"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "*",
+          "404-451",
+          "TRIM COMBINATION-Leather-(See 403)"
+        ],
+        [
+          "SPECIAL ITEMS",
+          "*",
+          "?98-899",
+          "TRIM COMBINATION-Leather"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

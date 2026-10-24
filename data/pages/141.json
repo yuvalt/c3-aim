@@ -1,0 +1,236 @@
+{
+  "page": 141,
+  "group": "1",
+  "sheet": "K2",
+  "title": "GLASS & FRAME",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door window glass (all models) and the lift channel bolted along its bottom edge. The channel is bolted to the glass at two holes (A and B), each with a bolt, washer, bushing, special nut and nut; a roller on a stud and a fastener with cap sit at the lower corner of the glass; a roller-and-slider block rides at the end of the channel. The channel is lubricated with 1f.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3953099",
+      "name": "GLASS CHART",
+      "name_expanded": "Door window glass (see glass chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3953070",
+      "name": "CHANNEL",
+      "name_expanded": "Channel – door glass lift (bottom of glass)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9710669",
+      "name": "ROLLER & SLIDER ASM",
+      "name_expanded": "Roller and slider assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "4786092",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3977745",
+      "name": "NUT -SPL.",
+      "name_expanded": "Nut – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "4491087",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "4491085",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "8712549",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3919799",
+      "name": "ROLLER ASM.",
+      "name_expanded": "Roller assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3704579",
+      "name": "WASHER-SPL.",
+      "name_expanded": "Washer – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "7698789",
+      "name": "FASTENER",
+      "name_expanded": "Fastener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "7698790",
+      "name": "CAP",
+      "name_expanded": "Cap (for fastener [11])",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1f",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "lift channel [2], along its track"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8",
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "door glass [1] at holes A and B",
+      "qty": "2 (holes A & B)",
+      "torque_ref": "1",
+      "note": "\"STACK-UP FOR HOLES A&B\": bolt [8] goes through washer [7], the glass hole, bushing [6], special nut [5] and the channel [2], and is secured by nut [4] on the far side of the channel, 35-50 LBS IN. The stack is drawn in full at hole B; hole A shows the same stack unlabelled.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "6",
+        "7",
+        "10",
+        "4"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "door glass [1] at its lower corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Roller assembly [9] (stud with roller) passes through special washer [10] and bushing [6] into a hole near the glass corner; washer [7], special washer [10] and nut [4] go on the other side, 35-50 LBS IN.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "12"
+      ],
+      "holds": [],
+      "to": "door glass [1] at its lower corner edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fastener [11] goes through a hole at the corner of the glass; cap [12] fits over it from the other side (dashed line). What part it retains is not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "STACK-UP FOR HOLES A&B"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-4; visible '3' + '099'. Number of hidden digits assumed to make 7.",
+    "Item 2: hole edge clips digits 2-3 ('3' + two partial glyphs + '3070'); Vision OCR read 3953070. Left as ?.",
+    "Roller & slider asm [3]: drawn at the end of the channel [2], below it; how it is retained is not shown.",
+    "Item 10 appears twice in the roller [9] stack (one callout above the glass, one below); item 6 also appears in both the A/B stack and the roller stack.",
+    "Circled (1) next to item 5 = rev 1 (WAS 4491088 NUT).",
+    "Title block: drawing 3965172, L-88683, DR DP/C1, CK 4-28-69 C1, PREL 4-10-69, C/O K2, model 19000. Sideways 'K139' by the torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "WAS 4491088 NUT",
+      "was": "4491088",
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

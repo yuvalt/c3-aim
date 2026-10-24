@@ -1,0 +1,31 @@
+{
+  "pn": "9419841",
+  "kind": "nut",
+  "thread": "10-24",
+  "length": null,
+  "head": "stamped hex 3/8 AF, external tooth star washer",
+  "drive": null,
+  "finish": null,
+  "notes": "AMK B-13383 per camaros.net hardware list (.5 OD). MAM repro: black zinc nut w/ external star washer (68-69 side marker lamp). ECP/Corvette Pacifica confirm GM 9419841 = side marker lamp nut kit. Finish of original not confirmed.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+      "title": "Original hardware - See Post #2 & #5 - camaros.net (search snippet; page behind bot wall)",
+      "quote": "AMK B-13383 (10) 9419841-P138 stamped nut 10-24 3/8AF .5 O.D.",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.mamotorworks.com/corvette/product/corvette-1968-1969-nut-set-marker-lights-car-set-8-pcs-670115",
+      "title": "Corvette 1968-1969 C3 Side Marker Light Nut Set 9419841 - Mid America Motorworks (search snippet)",
+      "quote": "black zinc-plated nuts with external tooth star washers, reproduction of GM 9419841",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvettepacifica.com/products/34469/nut-kit-side-marker-lamp-8-pieces-68-69/",
+      "title": "NUT KIT-SIDE MARKER LAMP-8 PIECES-68-69 (#E19163) - Corvette Pacifica",
+      "quote": "GM PART # 9419841",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

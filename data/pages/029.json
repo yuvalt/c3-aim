@@ -1,0 +1,172 @@
+{
+  "page": 29,
+  "group": "0",
+  "sheet": "D9",
+  "title": "CEMENTS & SEALERS",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Applied-material code table, part 4: adhesive 3976460 (alternate 3967848) for body bonding at plenum, hinge pillar, door sill, lock pillar and fenders (87a–87j); plastisol sealer at windshield frame/hinge pillar weld joints (122a–122g); and cement-adhesive 3977818 (226a–226c, folding-top compartment lid and roof molding supports).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Chart sheet (no drawing, no callouts): applied-material codes. PART cell = GM part number + description from the left column, repeated on every row of its group (on the page it is printed once per group).",
+    "Words hyphenated across line breaks in USAGE are joined (e.g. RE-/TAINER -> RETAINER); multi-line cells joined with a space.",
+    "Model box reads 19000 (all models), so models = [].",
+    "Sealer-plastisol part number: 6th digit broken in the scan (looks like 9, OCR read 5); written '99851?8'. Upper-right print is faint overall (122a row, SUB-GRP header).",
+    "'U/B' in 87d and 'W/S' in 122b/122c print with a faint slash ('U, B', 'W, S'); written with '/'.",
+    "87e UPC prints as a faint tick; read as 1.",
+    "No 87f or 122f rows; no removal marked for them on this sheet.",
+    "Only revision on this sheet is sym 7 (4-24-70); circled 7 sits in the blank lower-left where the removed 3893632 cement / 88a row was. 'was' = 3893632 (removed, no replacement)."
+  ],
+  "revisions": [
+    {
+      "date": "4-24-70",
+      "sym": "7",
+      "text": "3893632 CEMENT ADHESIVE & 88a USAGE REMOVED",
+      "was": "3893632",
+      "item": "88a"
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "CEMENTS & SEALERS",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87a",
+          "PLENUM TO W/S OUTER FRAME & HINGE PILLAR ASM.",
+          "1",
+          "A"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87b",
+          "BETWEEN HINGE PILLAR & HINGE PILLAR REINF",
+          "1",
+          "A"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87c",
+          "DOOR SILL TO DOOR SILL REINFORCEMENT",
+          "1",
+          "B"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87d",
+          "SUPT LOCK PILLAR BRACE TO U/B & SUPT TO U/B",
+          "1",
+          "B"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87e",
+          "LOCK PILLAR TO LOCK PILLAR REINFORCEMENT",
+          "1",
+          "B"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87g",
+          "UPR FND PNL TO STRIP (FRT FND UPR REINF BONDING)",
+          "11-13",
+          "A"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87h",
+          "RR QUARTER PNL TO FLANGE-SPLASH SHIELD",
+          "1",
+          "B"
+        ],
+        [
+          "3976460 ADHESIVE 3967848 OPT",
+          "87j",
+          "UPR FND PNL TO INB. & OUTBOARD REINFORCEMENTS",
+          "11-13",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122a",
+          "AT WELD JOINTS OF W/S UPR FRAME ASM & CORNER FRAME ASM",
+          "1",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122b",
+          "AT WELD JOINTS OF W/S CORNER FRAME ASM & HINGE PILLAR ASM",
+          "1",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122c",
+          "AT WELD JOINTS OF HINGE PILLAR ASM & W/S LOWER FRAME",
+          "1",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122d",
+          "AT WELD JOINTS OF REINF-UPPER CORNER OUTER & HINGE PILLAR ASM",
+          "1",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122e",
+          "AT WELD JOINTS OF UPPER OUTER CORNER OF REINF-UPPER OUTER CORNER",
+          "1",
+          "A"
+        ],
+        [
+          "99851?8 SEALER-PLASTISOL",
+          "122g",
+          "AT WELD JOINTS OF WEAR PLATES & BODY PANEL REAR UPPER",
+          "1",
+          "B"
+        ],
+        [
+          "3977818 CEMENT-ADHESIVE",
+          "226a",
+          "FOLDING TOP COMPT LID WEDGE PIN GUIDE SUPT",
+          "1",
+          "B"
+        ],
+        [
+          "3977818 CEMENT-ADHESIVE",
+          "226b",
+          "AT WELD JOINTS OF HINGE PILLAR & HINGE PILLAR REINFORCEMENT",
+          "1",
+          "A"
+        ],
+        [
+          "3977818 CEMENT-ADHESIVE",
+          "226c",
+          "SUPPORT TO ROOF MOLDING",
+          "1",
+          "B"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

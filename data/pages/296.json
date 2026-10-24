@@ -1,0 +1,117 @@
+{
+  "page": 296,
+  "group": "C07",
+  "sheet": "A7",
+  "title": "TOP AUXILIARY SIDE DOOR GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19467"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: 21-step factory procedure for fitting the hardtop and adjusting the door glass to seal against the windshield-side and roof-side weatherstrips. Covers hardtop positioning and mounting brackets, cementing the windshield-side weatherstrip, and setting the glass guide cams, idler cams, anti-rattle cushions and up/down stops, then rechecking after the body is mounted to the frame.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "(On Trim Line Before Body Drop)",
+    "1. Set removable hardtop on body leaving the header guide pin attaching screws loosely engaged.",
+    "2. Position the roof panel so that the front edge of the front drip molding is approximately .50 rearward and parallel with the front corner of the w/shield reveal molding. See section B-B.",
+    "3. Drill holes and make attachments for two hardtop mounting brackets to the folding top compartment lid. Maintain .10 to .20 inch dimension between lower edge of roof panel and mating surface on the body. See sections E-E and F-F.",
+    "4. Install three rear hardtop attachments and tighten to the specified torque.",
+    "5. Release the folding top compartment lid and lift the top off the w/shield header. Tighten the header guide pin attaching screws to the specified torque. (Leave roof in up position until completion of step 13).",
+    "6. Install w/shield side w/strip retainer with lower two screws \"A\" loosely engaged.",
+    "7. Cement the w/shield side w/strip in the retainer lining the top trim line of the w/strip flush with the upper outer corner of the corner header molding. (Do not apply cement to back of w/strip above retainer).",
+    "8. Install side door glass and all related parts with the attaching bolts to the door inner panel loosely engaged.",
+    "9. Roll the glass up until the front upper corner is approximately .50 inch below the front upper corner of the header molding.",
+    "10. Push the glass forward until it is slightly engaged in the groove in the w/shield side w/strip retainer.",
+    "11. Push the glass and w/strip retainer outboard at the belt line until the nylon stabilizer button on the glass contacts the wedge surface on the door inner panel. Set front edge of glass relationship to w/strip for proper engagement and parallel condition. See Section A-A. Tighten the following screws to the specified torque. A. Two front guide cam upper attaching bolts \"B\". B. Two idler cam attaching bolts \"C\".",
+    "12. Push front anti-rattle cushion outboard until it firmly contacts the glass and tighten bolt \"D\" to the specified torque.",
+    "13. Lower the glass to provide access to the w/shield side w/strip retainer attaching screws. Apply cement to the upper back surface of the w/strip and position it to the body with the upper end of the w/strip being flush with the upper corner of the header molding. Drill the attaching hole in the birdcage through the clearance hole provided in the w/strip. Tighten the three screws \"A\" to the specified torque. Set roof back on header and close the header locks.",
+    "14. Set glass up position to obtain glass to w/strip height relationship shown in Section C-C. Move glass fore and aft as required in height adjustment to maintain glass fit to w/shield side w/strip shown in Section A-A. Tighten the three screws \"F\" to the specified torque.",
+    "15. Set front and rear upper stops in contact with the window rollers and tighten the two screws \"E\" to the specified torque.",
+    "16. Roll glass down until the upper edge is flush with the door outer panel, set the lower stop to the roller and tighten two screws \"H\" to the specified torque.",
+    "17. Roll glass to up position and adjust the rear guide cam inboard and outboard at the belt line to bring the rear edge of glass as close as possible to the relationship shown in Section D-D. Tighten the following screws to the specified torque. A. Rear guide cam lower attaching bolt \"G\". B. Two rear guide cam upper attaching bolts \"B\".",
+    "18. Push rear anti-rattle cushion outboard until it firmly contacts the glass and tighten bolt \"D\" to the specified torque.",
+    "(After Body Drop)",
+    "19. Check door fit to body and door lock to striker relationship and correct as required for any misalignment derived from body mounting to frame.",
+    "20. Check the parallel condition and engagement of the front edge of glass to the w/shield side w/strip to determine if any misalignment has resulted from mounting the body to the frame. Correct as required by loosening two bolts \"C\", and three bolts \"F\"; reset as shown in section A-A and retorque the bolts.",
+    "21. Adjust roof panel side w/strip assemblies inboard and outboard as required to obtain seal interference as shown in sections C-C and D-D. Tighten w/strip attaching bolts to the specified torque.",
+    "NOTE See UPC 1 Doors."
+  ],
+  "notes_internal": [
+    "Text-only page: no drawing, no torque legend, no callouts. Sections A-A to F-F and the specified torques are on other C07 sheets (presumably the drawing sheets), not here.",
+    "The page abbreviates windshield/weatherstrip with a slash ('w/shield', 'w/strip') that often prints as 'w.' or 'w ' in the scan; normalized to 'w/shield' and 'w/strip'.",
+    "Lettered fasteners \"A\"-\"H\" are not item numbers; summarized in the FASTENER LETTERS table from the step text.",
+    "Title block: drawing 3965172, DR ?/C1 (first part of DR initials faint), CK 5-6-69 C1, PREL 5-5-69, C/O A7; revision record empty. Sideways 'K294' above title block."
+  ],
+  "revisions": [],
+  "options": [
+    "C07"
+  ],
+  "tables": [
+    {
+      "title": "FASTENER LETTERS (from step text)",
+      "columns": [
+        "letter",
+        "type",
+        "holds",
+        "steps"
+      ],
+      "rows": [
+        [
+          "A",
+          "screws",
+          "w/shield side w/strip retainer (to the birdcage)",
+          "6, 13"
+        ],
+        [
+          "B",
+          "bolts",
+          "front guide cam upper (two); rear guide cam upper (two)",
+          "11A, 17B"
+        ],
+        [
+          "C",
+          "bolts",
+          "idler cam (two)",
+          "11B, 20"
+        ],
+        [
+          "D",
+          "bolt",
+          "front anti-rattle cushion; rear anti-rattle cushion",
+          "12, 18"
+        ],
+        [
+          "E",
+          "screws",
+          "front and rear upper stops (two)",
+          "15"
+        ],
+        [
+          "F",
+          "screws",
+          "three screws, glass fore/aft and height adjustment",
+          "14, 20"
+        ],
+        [
+          "G",
+          "bolt",
+          "rear guide cam lower",
+          "17A"
+        ],
+        [
+          "H",
+          "screws",
+          "lower stop (two)",
+          "16"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

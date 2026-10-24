@@ -1,0 +1,222 @@
+{
+  "page": 143,
+  "group": "1",
+  "sheet": "K4",
+  "title": "WINDOW GUIDE CAM & GLASS OPERATING EFFORT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door window guide cams (all models): the front and rear cam assemblies are the vertical channels inside the door that guide the glass rollers. Each cam is screwed at its top to the door upper frame (front one with a plate) and at its bottom to the door inner panel; a stop is screwed to the lower end of the rear cam and another to the front cam top. The cam tracks are greased (1g). Also gives the maximum window crank effort.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3953083-4",
+      "name": "CAM ASM.-RR",
+      "name_expanded": "Cam assembly – rear, window guide (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966667",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3965153",
+      "name": "STOP",
+      "name_expanded": "Stop – window glass",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3953089-90",
+      "name": "CAM ASM.-FRT.",
+      "name_expanded": "Cam assembly – front, window guide (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966666",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418970",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "50-75",
+      "unit": "LBS IN."
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1g",
+      "description": "GREASE",
+      "amount": null,
+      "where": "main view, along the front cam [4] and rear cam [1] channels"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "door upper frame (top of front cam)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screws [2] go down from above through the door upper frame and plate [5] into the top flange of the front cam [4]. Four bolt heads are drawn along the frame; one is called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "top of front cam [4]",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View A: screw [2] goes in sideways through the slot of stop [3] into the front cam [4] just below its top flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "door inner panel (lower end of front cam)",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Main view: screw [2] goes in from inboard through the lower bracket of the front cam [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door inner panel (lower end of rear cam)",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Main view: screw [2] goes in from inboard through the lower end of the rear cam [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "lower end of rear cam [1]",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Main view: screw assembly [6] holds stop [3] on the lower end of the rear cam [1], from inboard.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door upper frame bracket (top of rear cam)",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View B: screw [2] goes down from above through the frame bracket into the top flange of the rear cam [1].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "SIDE DOOR GLASS OPERATING EFFORT: The side door window operating effort with the door in the closed position is not to exceed 25 inch lbs maximum at the regulator shaft when operating the window down or up to within 1-1/2\" of the top of the travel. The effort is not to exceed 50 inch lbs when operating window down or up during the last 1-1/2\" of the top of the travel."
+  ],
+  "notes_internal": [
+    "Item 2: binder hole covers digits 1-4; visible '667' (a speck at digit 1). Assumed 7 digits.",
+    "No part on the page now uses torque 1 (30-50 LBS IN): rev 2 changed item 2 from triangle 1 to 2 in 5 places and rev 3 changed item 6. All five item-2 callouts carry triangle 2 and circled (2); item 6 carries triangle 2 and circled (3). Circled (1) next to torque 2 in the legend.",
+    "Effort note prints '1-1 '2\"' and '1-1. 2\"' (slash lost in print); written as 1-1/2\". Hole punch also covers part of 'effort'.",
+    "Plate [5] in View A: leader goes to the strip on top of the frame where two of the bolt heads sit; read as the plate the screws pass through.",
+    "Rev 3 text handwritten 'TOEGUE'; read as TORQUE.",
+    "Title block DR/CK/PREL entries faded; C/O reads K4, model 19000. Sideways 'K141' by the torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "TORQUE (2) ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "TORQUE SYM (2) WAS SYM(1) 5 PLACES",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "3-13-70",
+      "sym": "3",
+      "text": "WAS TORQUE SYM (1)",
+      "was": null,
+      "item": "6"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

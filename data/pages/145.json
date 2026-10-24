@@ -1,0 +1,236 @@
+{
+  "page": 145,
+  "group": "1",
+  "sheet": "K6",
+  "title": "HINGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door hinges (all models). The upper and lower hinge assemblies bolt to the door with screw assemblies and to the hinge pillar with screw assemblies driven in through the pillar, with shims between hinge and pillar as needed; all hinge screws 25-30 lbs ft. Plugs close the access holes in the door and the pillar; a hinge cover with gasket is screwed over the hinge access pocket in the door. The upper hinge pivot is greased (12k).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976593-4",
+      "name": "HINGE ASM-UPR",
+      "name_expanded": "Hinge assembly – door upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3915706",
+      "name": "SHIM",
+      "name_expanded": "Shim – hinge to hinge pillar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3756953",
+      "name": "PLUG",
+      "name_expanded": "Plug – access hole",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918503",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – hinge",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3977701-2",
+      "name": "HINGE ASM-LWR",
+      "name_expanded": "Hinge assembly – door lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419303",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3919667-8",
+      "name": "COVER-HINGE",
+      "name_expanded": "Cover – hinge access (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3934836",
+      "name": "GASKET",
+      "name_expanded": "Gasket – hinge cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "12k",
+      "description": "GREASE",
+      "amount": ".008 GAL.",
+      "where": "upper hinge [1] pivot"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "hinge pillar",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw assemblies [4] go in from the inboard side of the hinge pillar, through the pillar and shim [2] (as needed) into the pillar leaf of the upper hinge [1]. 25-30 LBS FT.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "2"
+      ],
+      "to": "hinge pillar",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Same at the lower hinge [5]: screw assembly [4] through the hinge pillar and shim [2] into the hinge pillar leaf. 25-30 LBS FT.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "door, at the front lower corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lower-left [4]: screw assembly goes into the door near the lower hinge's door leaf, from the door side. 25-30 LBS FT.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door, inside the hinge access pocket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Upper-left [4]: screw assembly sits in the hinge access pocket of the door (under cover [7]), toward the upper hinge door leaf. 25-30 LBS FT.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7",
+        "8"
+      ],
+      "to": "door, over the hinge access pocket",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [6] holds hinge cover [7] over the access pocket, with gasket [8] around the pocket opening between cover and door. Cover shows three screw holes; one screw drawn. 15-25 LBS IN.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "how": "seals",
+      "holds": [],
+      "to": "access holes in the door hinge face and the hinge pillar",
+      "qty": "2 shown",
+      "torque_ref": null,
+      "note": "Plugs [3] press into round access holes: one in the door face between the hinges, one in the hinge pillar between the hinges.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 2: binder hole covers digits 2-5; visible '3', a clipped glyph (looks like 9; Vision OCR read 1), then '06'. Assumed 7 digits.",
+    "Upper-left [4]: what this screw holds is not fully clear; the leader ends at a screw head on the edge of the door hinge pocket. Read as the upper hinge door-leaf screw.",
+    "Hinge door leaves: the drawing shows the door leaves of both hinges against the door face but draws only the two left [4] screws on the door side; screw count not shown.",
+    "Circled (1) next to item 1 = rev 1; circled (2) next to item 5 = rev 2.",
+    "Rev 1 date read 10-17-69. Rev 1 old pn read 3935609-10; handwriting, 4th digit could be 5 or 3 but reads 5.",
+    "Title block C/O box reads K7 although the sheet box reads K6. DR entry faint; CK 4-21-69 C1, PREL 4-10-69, model 19000. Sideways 'K143' by the torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "10-17-69",
+      "sym": "1",
+      "text": "WAS 3935609-10 HINGE-ASM-UPR",
+      "was": "3935609-10",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3915701-2 HINGE-ASM-LWR",
+      "was": "3915701-2",
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

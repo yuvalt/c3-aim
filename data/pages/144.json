@@ -1,0 +1,256 @@
+{
+  "page": 144,
+  "group": "1",
+  "sheet": "K5",
+  "title": "WINDOW REGULATOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door window regulator (all models). The regulator is screwed to the door inner panel from inside; its lift arms ride in a channel screwed to the inner panel. The window crank shaft is pinned into the regulator drive, runs through a housing screwed to the regulator, and carries the escutcheon, plate and window crank handle on the trim side. Lift-arm channels get 1f lubricant; the regulator arm pivot gets 1h grease.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3915866",
+      "name": "CHANNEL ASM.",
+      "name_expanded": "Channel assembly – regulator arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966667",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3856691",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9714096-7",
+      "name": "REGULATOR",
+      "name_expanded": "Regulator – window (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "443147",
+      "name": "PIN",
+      "name_expanded": "Pin – crank shaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921580",
+      "name": "SHAFT",
+      "name_expanded": "Shaft – window crank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3758800",
+      "name": "WASHER-SPRING",
+      "name_expanded": "Washer – spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3945241-2",
+      "name": "HOUSING",
+      "name_expanded": "Housing – crank shaft (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3945300",
+      "name": "CHART-ESCUTCHEON",
+      "name_expanded": "Escutcheon – window crank (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "4506695",
+      "name": "PLATE",
+      "name_expanded": "Plate – crank handle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "7752485",
+      "name": "HANDLE ASM.",
+      "name_expanded": "Handle assembly – window crank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "50-75",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1f",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "main view, two leaders: the glass lift channel at the top of the regulator arms and the regulator arm channel [1]"
+    },
+    {
+      "key": "B",
+      "code": "1h",
+      "description": "GREASE",
+      "amount": null,
+      "where": "View A, regulator arm pivot hole at the lower end of the regulator"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "door inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [3] goes in from inboard through the regulator [4] mounting plate next to the drive gear. 50-75 LBS IN.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [2] goes in from inboard through the rear end of the regulator arm channel [1]. 50-75 LBS IN.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "regulator [4]",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View A: screw [3] goes through the upper ear of the crank shaft housing [8] into the regulator.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "regulator [4] drive",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: shaft [6] goes into the slotted regulator drive and is retained by cross pin [5]; spring washer [7] sits on the shaft between the drive and the housing [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "trim panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "NOTE: escutcheon [9] fastens to the trim panel by bending 3 tabs against the K-3 board. Plate [10] and handle [11] follow on the crank shaft [6].",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE Fasten to trim panel by bending 3 tabs against K-3 board."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-5; visible '39' + '66'. Assumed 7 digits.",
+    "Handle [11] and plate [10]: shown on the end of shaft [6] outboard of escutcheon [9] (View A); what retains the handle on the shaft is not shown.",
+    "Spring washer [7]: position on the shaft only; not a fastener entry of its own (covered in the pin [5] entry).",
+    "Circled (1) next to item 2 = rev 1 (WAS 9420849 SCREW). Circled (2) next to torque triangle 1 in the legend = rev 2.",
+    "Rev 1 date '12-11-69', last digit slightly smudged. Rev 2 handwritten 'TORGUE'; read as TORQUE.",
+    "Title block: drawing 3965172, L-88683, DR DP/C1, CK 4-21-69 C1, PREL 4-10-69, C/O K5, model 19000. Sideways 'K142' at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "12-11-69",
+      "sym": "1",
+      "text": "WAS 9420849 SCREW",
+      "was": "9420849",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "TORQUE (1) WAS 35-50LBS.IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

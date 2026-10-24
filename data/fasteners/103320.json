@@ -1,0 +1,25 @@
+{
+  "pn": "103320",
+  "kind": "lock washer",
+  "thread": null,
+  "length": null,
+  "head": "split",
+  "drive": null,
+  "finish": "plain",
+  "notes": "Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacked NSN 5310-00-010-3320 is a Fruehauf part, unrelated.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.tst.forums.ncrs.org/forum/technical-discussion/89467-c2-lock-washers-were-production-parts-not-available-as-service-parts",
+      "title": "C2 Lock washers; Were production parts not available as service parts? - NCRS",
+      "quote": "103320, 103321 and 103329 ... these are all split lockwashers with a 'plain' finish",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+      "title": "AIM Rant - CorvetteForum",
+      "quote": "Lock Washers/P-Washers 0103319-P82/103 0103320-P178 0103321-P70/81 3/8 Regular lock washer",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

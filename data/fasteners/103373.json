@@ -1,0 +1,19 @@
+{
+ "pn": "103373",
+ "kind": "cotter pin",
+ "thread": "3/32 (pin dia)",
+ "length": "3/4",
+ "head": null,
+ "drive": null,
+ "finish": "plain",
+ "notes": "Source is a search-result snippet of an NCRS thread (page itself 403). Thread field holds pin diameter. Snippet says GM Group 8.938 preferred-length list excludes this pin.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.forums.ncrs.org/forum/technical-discussion/122815-cotter-pin-sizes?p=1335776",
+   "title": "Cotter Pin Sizes - NCRS Discussion Boards",
+   "quote": "one excluded is 103373 3/4 x 3/32 plain",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

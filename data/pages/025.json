@@ -1,0 +1,359 @@
+{
+  "page": 25,
+  "group": "0",
+  "sheet": "D5",
+  "title": "CEMENTS & SEALERS",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Cements & sealers chart, sheet 1: codes 50a-50p (3840733 plastic seam cement: plenum panels, hinge pillar weatherstrip, striker screw holes, starter at clutch housing, door sill plates) and 51a-51ee (9981098 neoprene adhesive: weatherstrips to door/lid/hood/rear roof, carpets, insulators, A/C seals, speaker cloth). These are the 50x/51x tags used on body assembly sheets (e.g. 51n = rear roof weatherstrip adhesive on F18).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Table: PART column filled down to every code row of its block (printed once per block). Multi-line cells joined with single spaces; syllable hyphens at line breaks removed (e.g. 'CHAN-NELS' -> 'CHANNELS'), real dashes kept. Diamond symbol after each code omitted.",
+    "Code 51f is printed TWICE: bottom of left column ('BRACKET W/S/W STOP TO CUSHION', UPC 1, D, circled 9 = rev 9 '51f USAGE ADDED') and top of right column ('FRT W/STRIP ASM TO HD ASM', SUB-GRP E). Both kept in table order as printed (left column first).",
+    "Top-right 51f UPC cell is inside a binder hole: '?'.",
+    "Part name 'CEMENT-PLASTIC SEAM': binder hole covers the end of 'CEMENT' (T and any hyphen); reading completed from the visible 'CEMEN'.",
+    "Scan is faint/broken on many usage lines (50a-50f, 51a-51c, 51h-51j); words read in context: 'TAPPING PLATE TO', 'HINGE PILLAR', 'CTR PLENUM', 'STRIKER', 'HORIZ', 'TUNNEL', 'W/STRIP TO DOOR', 'DRAIN HOSE', 'TRIM PANEL'.",
+    "Circled 8 (rev 8, 51q removed) sits in the gap between 51p and 51r. Revisions 1-5 are not shown in this revision block.",
+    "No codes 50j, 50l, 50o, 51i, 51l, 51o, 51q (removed). Sealer codes (55x etc.) are not on this sheet; C/O box reads 'D5 & D6'."
+  ],
+  "revisions": [
+    {
+      "date": "12-30-69",
+      "sym": "6",
+      "text": "50d USAGE REVISED",
+      "was": null,
+      "item": "50d"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "51ee USAGE ADDED",
+      "was": null,
+      "item": "51ee"
+    },
+    {
+      "date": "2-24-70",
+      "sym": "8",
+      "text": "51Q USAGE REMOVED",
+      "was": null,
+      "item": "51q"
+    },
+    {
+      "date": "4-24-70",
+      "sym": "9",
+      "text": "51f USAGE ADDED",
+      "was": null,
+      "item": "51f"
+    }
+  ],
+  "options": [
+    "UA6",
+    "A31",
+    "C07",
+    "C60",
+    "U69"
+  ],
+  "tables": [
+    {
+      "title": "CEMENTS & SEALERS D5",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50a",
+          "CLIP STORAGE TRAY TAPPING PLATE TO PLENUM PNL",
+          "1",
+          "F"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50b",
+          "HINGE PILLAR W/STRIP",
+          "1",
+          "F"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50c",
+          "REINF TO CTR PLENUM PNL",
+          "1",
+          "A"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50d",
+          "STRIKER ATTACHING SCREW HOLES",
+          "1",
+          "F"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50e",
+          "W/S WIPER STOP BRACKET",
+          "1",
+          "A"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50f",
+          "START MTR AT CLUTCH HSG FROM CASE AT OUTBOARD AROUND BOTTOM & UP ON INSIDE TO HORIZ C/L OF STARTER",
+          "6",
+          "B"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50g",
+          "TO BE USED OVER THE PLUG",
+          "1",
+          "A"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50h",
+          "ANTI-THEFT ALARM HARNESS GROMMET",
+          "UA6",
+          "A"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50k",
+          "BODY LOCK PILLAR DIVERTER WATER STRIP",
+          "1",
+          "B"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50m",
+          "DOOR SILL PLATES",
+          "1",
+          "F"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50n",
+          "REAR PLENUM",
+          "1",
+          "B"
+        ],
+        [
+          "3840733 CEMENT-PLASTIC SEAM",
+          "50p",
+          "ANCHOR NUT TO RIVET",
+          "1",
+          "B"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51a",
+          "TUNNEL INSULATOR TO U/B",
+          "1",
+          "B"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51b",
+          "STORAGE COMPT TO U/B",
+          "1",
+          "E"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51c",
+          "W/STRIP TO DOOR",
+          "1",
+          "K"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51d",
+          "CARPETS TO FLOOR",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51e",
+          "INSULATORS TO DASH PANEL",
+          "1",
+          "D"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51f",
+          "BRACKET W/S/W STOP TO CUSHION",
+          "1",
+          "D"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51f",
+          "FRT W/STRIP ASM TO HD ASM",
+          "?",
+          "E"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51g",
+          "W/STRIP ASM TO LID ASM",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51h",
+          "REAR PLENUM DRAIN HOSE",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51j",
+          "CARPET TO TRIM PANEL",
+          "1",
+          "K"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51k",
+          "W/STRIP ASM TO REAR ROOF",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51m",
+          "SPACER TO W/S FRAME",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51n",
+          "REAR ROOF W/STRIP ASM",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51p",
+          "W/STRIP ASM TO W/STRIP ASM SIDE",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51r",
+          "W/STRIP LOWER OUTER W/S BONDING STRIP",
+          "1",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51s",
+          "ANTI-SQUEAK GAS TANK SUPT",
+          "8",
+          "B"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51t",
+          "INSULATOR TO HOOD",
+          "11-13",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51u",
+          "W/STRIP TO HOOD",
+          "11-13",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51v",
+          "PAD TO SIDE DOOR ACCESS CVR",
+          "A31",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51w",
+          "BETWEEN W/STRIP & MLDGS",
+          "C07",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51x",
+          "SPACER TO R.H. OUTLET",
+          "C60",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51y",
+          "CTR DUCT SEAL TO SEL DUCT",
+          "C60",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51z",
+          "GASKET TO FRAME",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51aa",
+          "RADIO SPEAKER CLOTH",
+          "U69",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51bb",
+          "REAR ROOF W/STRIP ASM.",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51cc",
+          "W/S W/STRIP TO RETAINER",
+          "1",
+          "F"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51dd",
+          "SEAL TO STRG COL SUPPORT",
+          "9",
+          "A"
+        ],
+        [
+          "9981098 ADHESIVE-NEOPRENE SOLVENT",
+          "51ee",
+          "CARPET RISER TO LOCK PILLAR SUPPORT",
+          "1",
+          "F"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

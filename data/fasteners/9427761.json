@@ -1,0 +1,25 @@
+{
+  "pn": "9427761",
+  "kind": "U nut",
+  "thread": "#8",
+  "length": null,
+  "head": "spring U-nut",
+  "drive": null,
+  "finish": "phosphate & oil",
+  "notes": "AMK B-11407 cross-ref (search snippet; 0.38 wide x 0.67 long, 0.08-0.13 panel range). Corvette Central lists GM Item No. 9427761 in 80-82 side louver screw/U-nut set and 70-77 gas door bezel set, no size.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7156",
+      "title": "Bulk Fasteners Listing - AMK Products",
+      "quote": "(OTI) 9427761 ... #8AB U-nut spring nut ... phosphate and oil ... AMK Part # B-11407",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvettecentral.com/c3-68-82/exterior-trim/luggage-racks-side-louvers/80-82-side-fender-louver-mount-screws-with-u-nut-343052",
+      "title": "80-82 Side Fender Louver Mount Screws With U-nut",
+      "quote": "Set includes 6 black torx screws and 6 U-nuts ... GM item numbers 11504478 and 9427761",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pn": "103321",
+  "kind": "lock washer",
+  "thread": "3/8",
+  "length": null,
+  "head": "split, regular",
+  "drive": null,
+  "finish": "plain",
+  "notes": "Size: AMK cross-reference and CorvetteForum AIM fastener list agree on 3/8 split (regular). Original finish 'plain' per NCRS forum snippet; AMK replacement is phosphate & oil. NCRS/AMK/CF pages 403'd; quotes are search snippets.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8935",
+      "title": "Bulk Fasteners Listing - AMK Products",
+      "quote": "34807-S2, 103321 (s), 9419871 B-13052 3/8 SPLIT LOCK WA",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+      "title": "AIM Rant - CorvetteForum",
+      "quote": "0103321-P70/81 3/8 Regular lock washer",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.tst.forums.ncrs.org/forum/technical-discussion/89467-c2-lock-washers-were-production-parts-not-available-as-service-parts",
+      "title": "C2 Lock washers; Were production parts not available as service parts? - NCRS",
+      "quote": "103320, 103321 and 103329 ... these are all split lockwashers with a 'plain' finish",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

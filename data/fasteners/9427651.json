@@ -1,0 +1,25 @@
+{
+ "pn": "9427651",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Mid America Motorworks lists 9427651 as GM reference for 1973-1974 front grille mounting screws (set of 12, black oxide) and also as an alternate number in a 1975-1979 parking light grille kit (primary GM 3846854; black phosphate flat head self-tapping). No thread/length given in any snippet; MAM pages returned 404 on fetch.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.mamotorworks.com/corvette/product/1973-1974-front-grille-mounting-screws-47565",
+   "title": "1973-1974 Front Grille Mounting Screws - Mid America Motorworks (search snippet)",
+   "quote": "GM reference 9427651 ... car set of 12 ... black oxide finish ... secure both the Left Hand (LH) and Right Hand (RH) front grilles",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.mamotorworks.com/corvette/product/corvette-1975-1979-parking-light-grilles-screw-kit-car-set-624716",
+   "title": "Corvette 1975-1979 Parking Light Grilles Screw Kit - Mid America Motorworks (search snippet)",
+   "quote": "10 black phosphate flat head self-tapping screws and 10 U-nuts to attach the front parking light grilles to the front fascia bumper",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

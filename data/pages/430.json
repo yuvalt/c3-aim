@@ -1,0 +1,90 @@
+{
+  "page": 430,
+  "group": "U69",
+  "sheet": "A6",
+  "title": "RADIO FM-S… & COIL …",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Ignition shield cover for the radio option (option group U69): a cover assembly that fits over the distributor and ignition coil to cut radio interference. Its ends sit on two brackets on the engine; at the ignition-shield end a wing bolt goes through the cover flange into the bracket tab, 20-30 LBS IN.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39??344",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly – ignition shield (over distributor and coil)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "37?8415",
+      "name": "WING BOLT",
+      "name_expanded": "Wing bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "tab of the ignition-shield bracket on the engine (distributor side)",
+      "qty": "1 shown",
+      "torque_ref": "1",
+      "note": "Wing bolt [2] goes through the end flange of cover [1] into the tab on the bracket beside the IGN SHIELD; the cover's other end lines up (dash-dot line) with the tab on the second bracket on the coil side. Brackets are marked ENGINE (supplied with the engine), not callouts on this sheet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Drawing is sideways on a portrait page (title block runs up the left edge). Read from crops rotated -90.",
+    "Callout list (lower right of the page) is a heavy, blotted print. Item 1 digits 3-4 and item 2 digit 3 unreadable; item 2's 4th digit reads 8 at two resolutions. Registry has no option-section rows to cross-check.",
+    "Item 2 callout box digit blotted in the list; drawing shows callout [2] on the wing bolt with triangle 1.",
+    "Title block badly smudged: title reads 'RADIO FM-S…' on line 1 and '& COIL …' on line 2; rest illegible. Model box illegible. UPC box reads U69, sheet A6.",
+    "Circled 4 next to the IGN SHIELD label = rev 4 (SHIELD DWG ADDED). Second wing bolt at the coil-side bracket not drawn; quantity not stated.",
+    "Rev 3 date middle digit unclear (reads 9; OCR read 5); rev 4 date middle digit unclear (reads 6). 'K428' printed near the title block."
+  ],
+  "revisions": [
+    {
+      "date": "1-?-70",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-?-70",
+      "sym": "4",
+      "text": "SHIELD DWG ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

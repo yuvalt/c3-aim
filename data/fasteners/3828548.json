@@ -1,0 +1,26 @@
+{
+  "pn": "3828548",
+  "kind": "rivet",
+  "thread": null,
+  "length": "3/8",
+  "head": "flat",
+  "drive": null,
+  "finish": "aluminum",
+  "diameter": "3/16",
+  "notes": "Size from Zip Corvette product title (search snippet; page returned 404 on fetch). Corvette Central lists GM Item No. 3828548 for 64-72 expansion tank bracket rivet set but gives no size. Zip also lists it in 68-79 rear storage door hinge rivet set and 65-67 grille mount kit. An unattributed search summary mentioned a 3/16 x 5/8 washer-jar rivet set in connection with this pn; not verified, ignored.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.zip-corvette.com/3-16-x-3-8-flat-head-aluminum-assembly-rivet-100-pack.html",
+      "title": "3/16 x 3/8\" Flat Head Aluminum Assembly Rivet (100 Pack) (GM Part 3828548)",
+      "quote": "3/16 x 3/8\" Flat Head Aluminum Assembly Rivet (100 Pack) (GM Part 3828548)",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvettecentral.com/c3-68-82/cooling/expansion-tank/64-72-expansion-tank-bracket-rivet-set-to-inner-242092",
+      "title": "64-72 Expansion Tank Bracket Rivet Set - To Inner Fender - 4 Pieces",
+      "quote": "GM Item No. 3828548",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

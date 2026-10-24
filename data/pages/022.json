@@ -1,0 +1,159 @@
+{
+  "page": 22,
+  "group": "0",
+  "sheet": "D2",
+  "title": "LUBRICATION",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Lubrication chart, sheet 2: codes 4a-4j (9985038 chassis grease: seat back lock, control arm ball studs, parking brake equalizer, steering linkage fittings), 5a (9985133 synchromesh transmission fluid), 6c (9985044 hypoid lube, M20 4-speed), 7a-7b (9985183 engine oil), 8a-8b (9985013 brake fluid) and 10a (9985005 rubber lubricant, tire mounting).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Table: PART column filled down to every code row of its block (printed once per block). Multi-line cells joined with single spaces; syllable hyphens at line breaks removed (e.g. 'CHAN-NELS' -> 'CHANNELS'), real dashes kept. Diamond symbol after each code omitted.",
+    "7a UPC: cell is entirely inside a binder-hole punch; unreadable ('?').",
+    "8b UPC and SUB-GRP cells are blank on the page (not damaged).",
+    "9985038: last digit near a binder hole but reads clearly as 8 (OCR agrees).",
+    "Revision record is empty. C/O box reads 'D2 & D3'.",
+    "No codes 4i, 6a, 6b, 9x on this sheet."
+  ],
+  "revisions": [],
+  "options": [
+    "M40",
+    "N40",
+    "M20"
+  ],
+  "tables": [
+    {
+      "title": "LUBRICATION D2",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9985038 GREASE-CHASSIS",
+          "4a",
+          "CNCT SURFACES ON CRANK ASM, SCREWS & SPRINGS-SEAT BACK LOCK",
+          "1",
+          "J"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4b",
+          "UPPER CONT ARM BALL STUD ASM- 1 FITTING EACH SIDE",
+          "3",
+          "A"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4c",
+          "LOWER CONT ARM BALL STUD ASM-1 FITTING EACH SIDE",
+          "3",
+          "A"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4d",
+          "PARKING BRAKE EQLZR BOLT, IDLER PULLEY & SPACER-WORKING AREAS",
+          "5",
+          "C"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4e",
+          "PARKING BRAKE EQLZR, CABLE CONTACTING AREA",
+          "5",
+          "C"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4f",
+          "STEERING RELAY & TIE ROD ASM-5 FITTINGS",
+          "9",
+          "A"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4g",
+          "PROP SHAFT YOKE-TRANS END ON OUTSIDE & INSIDE",
+          "M40",
+          "A"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4h",
+          "HYD STEERING CYL AT RELAY ROD END-1 FITTING",
+          "N40",
+          "A"
+        ],
+        [
+          "9985038 GREASE-CHASSIS",
+          "4j",
+          "HYD STEERING VALVE & ADAP ASM-1 FITTING",
+          "N40",
+          "A"
+        ],
+        [
+          "9985133 FLUID-SYNC TRANS",
+          "5a",
+          "THRU FILLER HOLE IN CASE",
+          "7",
+          "B"
+        ],
+        [
+          "9985044 LUBRICANT-HYPOID",
+          "6c",
+          "THRU FILLER HOLE IN CASE",
+          "M20",
+          "A"
+        ],
+        [
+          "9985183 OIL-ENGINE",
+          "7a",
+          "OIL PAN-THRU FILLER HOLE IN VALVE ROCKER COVER",
+          "?",
+          "B"
+        ],
+        [
+          "9985183 OIL-ENGINE",
+          "7b",
+          "OIL FILTER GASKET-DIP GASKET",
+          "6",
+          "B"
+        ],
+        [
+          "9985013 FLUID-HYDRAULIC",
+          "8a",
+          "HYDRAULIC BRAKE SYSTEM",
+          "5",
+          "A"
+        ],
+        [
+          "9985013 FLUID-HYDRAULIC",
+          "8b",
+          "HYDRAULIC BRAKE SYSTEM-VACUUM POWER BRAKE",
+          "",
+          ""
+        ],
+        [
+          "9985005 LUBRICANT-RUBBER DILUTE WITH FROM 4 - 8 PARTS WATER",
+          "10a",
+          "TO ASM TIRE TO RIM & FOR MISC APPLICATION TO FACILITATE ASM",
+          "10",
+          "A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

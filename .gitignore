@@ -1,0 +1,6 @@
+docs/*.pdf
+work/
+.venv/
+bin/
+__pycache__/
+dist/

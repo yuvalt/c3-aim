@@ -1,0 +1,195 @@
+{
+  "page": 23,
+  "group": "0",
+  "sheet": "D3",
+  "title": "LUBRICATION",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Lubrication chart, sheet 3: codes 11a-11g (9981117 lubricant: door lock strikers, door weatherstrip, guide pin holes, C07 hardtop weatherstrip/headliner), 12a-12m (3832534 grease: brake pedal, clutch pedal/fork/release bearing linkage, upper hinge spring rollers, M20 reverse interlock cable), 13a (3834716 Teflon grease, turn-signal cancel cam) and 14a (9985006 refrigerant oil, A/C compressor O-ring).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Table: PART column filled down to every code row of its block (printed once per block). Multi-line cells joined with single spaces; syllable hyphens at line breaks removed (e.g. 'CHAN-NELS' -> 'CHANNELS'), real dashes kept. Diamond symbol after each code omitted.",
+    "11e has two stacked UPC/SUB-GRP pairs printed on separate lines: '1' over 'C07' and 'F' over 'A'; written here as '1 / C07' and 'F / A' (slash not printed).",
+    "12f UPC: top of the character is inside a binder hole; only a lower stroke (looks like the foot of a 7) is visible. Left as '?'.",
+    "12f-12m sit in the right column with no PART text; treated as continuing 3832534 GREASE.",
+    "Revision date: middle digit after '6-1' unreadable (6-15/6-16?).",
+    "'GROVE' (sic) copied as printed. C/O box reads 'D3 & D4'."
+  ],
+  "revisions": [
+    {
+      "date": "6-1?-69",
+      "sym": "1",
+      "text": "SYM. 12m USAGE ADDED",
+      "was": null,
+      "item": "12m"
+    }
+  ],
+  "options": [
+    "C07",
+    "M20",
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "LUBRICATION D3",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9981117 LUBRICANT",
+          "11a",
+          "WIPE SURFACES OF LOCK STKR & AREAS CNCT BY LOCK STKR",
+          "1",
+          "E & F"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11b",
+          "COAT SIDE DOOR W/STRIP",
+          "1",
+          "K"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11c",
+          "WIPE SURFACE OF LOCK STKR ON SURFACE CNCT WDO",
+          "1",
+          "F"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11d",
+          "WIPE SURFACE OF GUIDE PIN HOLE",
+          "1",
+          "F"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11e",
+          "APPLY TO FRT INBOARD SURFACE OF W/STRIP WHERE IT CNCT GARNISH MLDG.",
+          "1 / C07",
+          "F / A"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11f",
+          "APPLY TO W/STRIP",
+          "C07",
+          "A"
+        ],
+        [
+          "9981117 LUBRICANT",
+          "11g",
+          "APPLY TO BOTTOM EDGE OF HEADLINER",
+          "C07",
+          "A"
+        ],
+        [
+          "3832534 GREASE",
+          "12a",
+          "BRAKE PEDAL ASM-INSIDE HUB",
+          "5",
+          "A"
+        ],
+        [
+          "3832534 GREASE",
+          "12b",
+          "BRAKE PEDAL RETURN SPRING BUSHING-SIGNAL SURFACE",
+          "5",
+          "A"
+        ],
+        [
+          "3832534 GREASE",
+          "12c",
+          "BRAKE PUSH ROD LINKAGE ON THE BRAKE PEDAL",
+          "5",
+          "A"
+        ],
+        [
+          "3832534 GREASE",
+          "12d",
+          "CLUTCH PEDAL PUSH ROD-UPPER END OF ROD & SWIVEL ON LOWER END OF ROD",
+          "7",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12e",
+          "CLUTCH RELEASE BEARING COLLAR-COAT O.D. GROVE LIGHTLY & FILL I.D. GROVE",
+          "7",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12f",
+          "BUSHING & RODS",
+          "?",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12g",
+          "CLUTCH LEVER SHAFT BALL STUDS-BALL CNCT I.D. OF SHAFT",
+          "7",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12h",
+          "CLUTCH FORK PUSH ROD-RR END & SWIVEL",
+          "7",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12j",
+          "CLUTCH FORK ASM BALL STUD",
+          "7",
+          "C"
+        ],
+        [
+          "3832534 GREASE",
+          "12k",
+          "UPPER HINGE SPRING ROLLERS",
+          "1",
+          "K"
+        ],
+        [
+          "3832534 GREASE",
+          "12m",
+          "INTERLOCK CABLE TO REVERSE & COLUMN LEVER",
+          "M20",
+          "A4"
+        ],
+        [
+          "3834716 GREASE-TEFLON",
+          "13a",
+          "DIRECTION SIGNAL CANC CAM",
+          "12",
+          "C"
+        ],
+        [
+          "9985006 OIL-REFRIGERANT",
+          "14a",
+          "COAT \"O\" RING SEAL AT A/C COMPRESSOR FITTING",
+          "C60",
+          "D"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

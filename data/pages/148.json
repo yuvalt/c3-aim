@@ -1,0 +1,230 @@
+{
+  "page": 148,
+  "group": "1",
+  "sheet": "K9",
+  "title": "DOOR-WATERPROOF PAPER & TRIM PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "preliminary",
+  "summary": "Door (all models) waterproof liner (the water shield / vapor barrier behind the door panel) and the interior door trim panel with its pull handle. The liner is stuck to the door inner panel with a sealer bead; the trim panel is screwed on through washers along its top and lower area, and clips engage slots in the door inner panel at the bottom. Trim panel and pull handle part numbers vary with trim and are listed on a chart.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3912971-2",
+      "name": "LINER",
+      "name_expanded": "Liner – door waterproof paper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963160",
+      "name": "TRIM PANEL ASM. CHART",
+      "name_expanded": "Door trim panel assembly (see trim chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "140270",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919999",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3932809",
+      "name": "CLIP",
+      "name_expanded": "Clip – trim panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9431733",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3863719",
+      "name": "PULL HANDLE ASM. CHART",
+      "name_expanded": "Door pull handle assembly (see trim chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3918654",
+      "name": "FASTENER",
+      "name_expanded": "Fastener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "9",
+      "pn": "9425144",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9423122",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "?",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "69b",
+      "description": "SEALER",
+      "amount": null,
+      "where": "continuous bead around the edge of the door inner panel, under the liner [1]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "door inner panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Liner [1] is laid onto a bead of sealer 69b running around the inner panel edge. Rear edge of the bead at least 2.0 in. from the rear edge of the inner panel, door lock to bottom of door (NOTE).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "door inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [4] go through washers [3] and the upper part of the trim panel [2]: one pair at the front/middle of the panel top, one pair at the rear upper corner. Washer locations [3] are also marked on the inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "door inner panel",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "Two screws [6] go through the trim panel [2] near and below the pull handle [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "9"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "slots along the bottom of the door inner panel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Clips [5] sit on the lower edge of the trim panel and in the slots at the bottom of the inner panel. View A: clip [5] at a SLOT with screw [9] beside it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Rear edge of sealer bead must be 2.0\" minimum from rear edge of inner door panel from door lock to bottom of door.",
+    "Locate 1.46 dia. hole & 3 slots in vinyl & foam at existing hole & slots in form board at asm."
+  ],
+  "notes_internal": [
+    "PRELIMINARY stamp, faint scan.",
+    "Item 8: 4th digit unclear (looks like a lowercase b, could be 6); OCR read 1915654.",
+    "Torque 1 legend faint; reads 10-15 LBS IN. Torque 2 value unreadable ('LBS IN' visible). Triangles 3-5 are blank.",
+    "Triangle numbers next to [4] and [6] read 1; next to [9] reads 2.",
+    "Pull handle [7]: leader to the handle on the trim panel; its own screws are not distinguished from [6]. No separate fastening entry.",
+    "Fastener [8]: leader goes to a small fastener at the upper rear of the inner panel near the sealer bead; what it holds is unclear. Left out of fastening.",
+    "Rivet [10]: View B shows it in a small two-hole bracket; the bracket and its location are not identified. Left out of fastening.",
+    "Some callout boxes in the drawing are blank or unreadable (one near the INSERT label at right, one on the trim panel left of center).",
+    "Revision 1 date and the C/O box are illegible (C/O looks like K10). 'K146' printed sideways at right."
+  ],
+  "revisions": [
+    {
+      "date": "",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

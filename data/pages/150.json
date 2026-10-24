@@ -1,0 +1,94 @@
+{
+  "page": 150,
+  "group": "1",
+  "sheet": "K11",
+  "title": "GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Door window (side glass) adjustment points, all models. No part list: the drawing letters the screws and bolts (A through H) that are loosened and retightened when fitting the door glass: the windshield-pillar weatherstrip retainer screws, the guide-cam bolts at the belt line (Views A and B), the mid-door cam bracket bolts, the anti-rattle cushion bolts (View C) and the window stop screws at the top and bottom of the glass channels.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "windshield side (front pillar) retainer strip",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Screws \"A\" (3) go through the long retainer strip at the front of the window opening, top, middle and bottom.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "door inner panel belt line, top of the front glass channel",
+      "qty": "2 B + 2 F",
+      "torque_ref": null,
+      "note": "View A: two bolts \"B\" at the outer ends and two bolts \"F\" in the middle go down through the bracket at the top of the front channel; screw \"E\" goes through a slot in the side of the channel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "door inner panel belt line, top of the rear glass channel",
+      "qty": "2 B + 1 D + 1 E",
+      "torque_ref": null,
+      "note": "View B: two bolts \"B\" go down through the bracket at the top of the rear channel; bolt \"D\" goes down through a slotted hole beside it; screw \"E\" goes through a slot in the side of the channel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "door belt line, front",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View C: bolt \"D\" goes down through the slotted bracket at the front of the belt line.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "door inner panel, upper front of the front glass channel",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Main view: screw \"E\" goes into the front channel just below the belt line.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "bracket at mid-door, rear",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Main view: two bolts \"C\" go through the bracket at mid-door; bolt \"G\" is at the lower end of the rear channel next to it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "lower ends of the front and rear glass channels",
+      "qty": "1 F + 2 H",
+      "torque_ref": null,
+      "note": "Main view: screw \"F\" and screw \"H\" go into the bracket at the lower end of the front channel; a second screw \"H\" goes into the bracket at the lower end of the rear channel.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "No callout list, no part numbers, torque legend triangles are blank, no revisions. Letters A-H key to written procedure steps that are not on this page.",
+    "Page 151 (sheet K12, coupe 19437, same title) carries a procedure text that names these letters: A = w/shield side w/strip retainer screws, B = guide cam upper attaching bolts, C = idler cam attaching bolts, D = anti-rattle cushion bolts, E = upper stop screws, F = fore/aft screws, G = rear guide cam lower attaching bolt, H = lower stop screws. Used here only as context; descriptions above are from the drawing.",
+    "A dimension arrow pair is drawn at the glass front edge near the top of the door (no value).",
+    "'K148' printed sideways at right."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

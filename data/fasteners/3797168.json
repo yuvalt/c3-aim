@@ -1,0 +1,31 @@
+{
+  "pn": "3797168",
+  "kind": "screw",
+  "thread": "1/4-20",
+  "length": null,
+  "head": "3/8 hex, anchor-over-T headmark, cone point, floating ring washer",
+  "drive": null,
+  "finish": null,
+  "notes": "Zip kit lists GM 3797168 and 9409107 together for 63-67 hood support bolts: one is 1/4-20 x 3/4 pinch point w/captured washer (Anchor headmark), the other 1/4-20 x 1/2 hex w/captured washer (E headmark); mapping not given, so length null. Dr Rebuild 73-75 hood duct repro of 3797168 is black phosphate hex washer head (repro finish). Length not stated; NCRS finish disputed (zinc vs cad vs black).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.zip-corvette.com/63-67-hood-support-mount-bolts.html",
+      "title": "1963-1967 Corvette Hood Support Bolts (GM Part 3797168, 9409107) - Zip",
+      "quote": "Includes (2) 1/4-20 x 3/4\" pinch point bolt w/captured washer and \"Anchor\" headmark (2) 1/4-20 x 1/2\" hex bolt w/captured washer and \"E\" headmark.",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1973-1975CorvetteHoodDuctCarriertoHoodMountBoltSetReproOfGM3797168.aspx",
+      "title": "1973-1975 Corvette Hood Duct Carrier to Hood Mount Bolt Set Repro Of GM 3797168 - Dr Rebuild",
+      "quote": "these Black Phosphate plated Hex Washer Head Bolts mount the fiberglass housing to the underside of the hood.",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion-archives/39755-c2-hood-support-screw-finish?p=441642",
+      "title": "C2 Hood Support screw finish? - NCRS Discussion Boards",
+      "quote": "3/8\" with the anchor above the T headmark, 1/4x20 cone point screw with a floating ring washer",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

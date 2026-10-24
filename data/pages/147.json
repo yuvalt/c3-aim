@@ -1,0 +1,400 @@
+{
+  "page": 147,
+  "group": "1",
+  "sheet": "K8",
+  "title": "LOCK & REMOTE CONTROL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Inside the door (all models): the rods that connect the outside handle, the lock control and the inside remote control (the interior door release handle) to the door latch, plus the lock-access cover on the inner panel. The control and remote control are screwed to the door inner panel, the inside handle is screwed to the remote control, the knob is held on by a retainer through the trim, rods pass through grommets and snap to levers with clips, and the access cover is screwed on over a gasket.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3945238",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3912989",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962782",
+      "name": "CLIP",
+      "name_expanded": "Clip – rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3940569",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3912984",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Control assembly – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3856691",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3940599",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly – remote control to lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3922279-80",
+      "name": "COVER",
+      "name_expanded": "Cover – door inner panel lock access (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419320",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3947947-8",
+      "name": "GASKET",
+      "name_expanded": "Gasket – cover (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3863687",
+      "name": "PLATE",
+      "name_expanded": "Plate – knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "4168122",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3915649",
+      "name": "KNOB",
+      "name_expanded": "Knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3962693-4",
+      "name": "HANDLE",
+      "name_expanded": "Handle – inside door remote (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "455698",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3966719-20",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Remote control assembly – inside door release (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-23",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1c",
+      "description": "GREASE",
+      "amount": null,
+      "where": "tag at the threaded rod ends below control asm. [5] (tag text faint, likely 1c)"
+    },
+    {
+      "key": "A",
+      "code": "1d",
+      "description": "GREASE",
+      "amount": null,
+      "where": "lock lever at the rod connections on the door lock, inside the door"
+    },
+    {
+      "key": "A",
+      "code": "1j",
+      "description": "GREASE",
+      "amount": null,
+      "where": "remote control asm. [16] mechanism and the rod [7] connection"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "door inner panel, upper",
+      "qty": "1 shown",
+      "torque_ref": "1",
+      "note": "Screw [6] (triangle 1) goes through control asm. [5] into the inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "door inner panel, at the remote handle opening",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "View A: screw [6] (triangle 2) goes through remote control asm. [16] into the inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "remote control asm. [16]",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "View A: screw [15] goes through the inside handle [14] into the remote control lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "13",
+        "11"
+      ],
+      "to": "control stem, through the trim asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: wire retainer [12] holds knob [13] on its stem; plate [11] sits behind the knob on the trim asm.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8",
+        "10"
+      ],
+      "to": "door inner panel, over the lock access hole at the rear",
+      "qty": "several around the cover edge; 1 called out",
+      "torque_ref": "3",
+      "note": "Screws [9] go through cover [8] and gasket [10] into the inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "how": "seals",
+      "holds": [
+        "8"
+      ],
+      "to": "door inner panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Gasket [10] between the cover [8] and the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "door inner panel holes",
+      "qty": "2 shown",
+      "torque_ref": null,
+      "note": "Grommets [1] on rods [2] and [4] where they pass through the inner structure.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2",
+        "7"
+      ],
+      "to": "levers at the outside handle and the door lock",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [3] snaps the threaded end of rod [2] to the outside-handle lever (top) and the rod ends to the lock lever (bottom). NOTE at [3] gives RH/LH clip numbers.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "control asm. [5] and door lock",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod [4] runs from control asm. [5] down to the lock; threaded end at the lock.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "remote control asm. [16] and door lock",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod [7] runs from the remote control [16] to the lock lever; adjusted per the clamp NOTE.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Adjust Rod [2] when lock lever is in full rearward travel position.",
+    "(1) NOTE Clamp the lock inside remote lever in a released position; position the lock lever and handle asm. in a released position; and then adjust [3] to lock lever.",
+    "NOTE [3] ??74183 R.H. 39?2782 L.H.",
+    "THREADED ENDS",
+    "THREADED END",
+    "View B: .060 (2 places)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-5; visible '3' + '38' with a partly clipped digit before it (looks like 2 or 7; OCR read 738).",
+    "Item [6] appears twice in the drawing: triangle 1 at control asm [5], triangle 2 at remote control [16]. Part torque_ref set to 1; both in fastening.",
+    "Hand-written NOTE at [3]: RH number's first two digits unreadable; LH third digit smudged.",
+    "Grease tag at right of control asm [5] reads '1?' (second character unreadable); legend lists 1c, 1d, 1j.",
+    "Boxes near the round housing in the lower middle ('5' and an unreadable box) and the box next to [12] (likely 13) are faint.",
+    "Rod [2] lower end and control asm [5] function not named on the sheet; descriptions kept generic.",
+    "Revision date handwritten, reads 5-26-69. 'K145' printed sideways at left of torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "5-26-69",
+      "sym": "1",
+      "text": "'CLAMP' NOTE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "page": 28,
+  "group": "0",
+  "sheet": "D8",
+  "title": "CEMENTS & SEALER",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Applied-material code table, part 3: glass primer 9981286 (77a), rubber-to-glass sealer 9985051 (78b), grease-base exhaust sealer 9985020 (82a), sealing compound 3710409 (84a–84m, windshield/roof weatherstrips and moldings), rubber & water base adhesive 9985105 (85a, jack-cover caution sticker) and adhesive-sealer 9885126 (86a, windshield weld flanges).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Chart sheet (no drawing, no callouts): applied-material codes. PART cell = GM part number + description from the left column, repeated on every row of its group (on the page it is printed once per group).",
+    "Words hyphenated across line breaks in USAGE are joined (e.g. RE-/TAINER -> RETAINER); multi-line cells joined with a space.",
+    "Model box reads 19000 (all models), so models = [].",
+    "Title block reads 'CEMENTS & SEALER' (singular), unlike D6/D7/D9.",
+    "Rows with two UPC/SUB-GRP lines (77a, 78b) are written '1 / C07' and 'F / A'.",
+    "82a and 84d have blank UPC and SUB-GRP cells on the page.",
+    "84a UPC '1' sits at the edge of the binder hole but is legible.",
+    "9885126 (86a) printed with 98..., not 99...; copied as printed.",
+    "Circled 1, 3, 2 beside the 9985051 group (78a/78c/78d removed, only 78b left). Circled 4 in the blank space below it: a removed group, 9985018 cement with 9985027 alternate (rev 4, '&' written as a ¢-like ampersand). Rev 4 'was' set to 9985018 since that cement was removed; no replacement given."
+  ],
+  "revisions": [
+    {
+      "date": "1-6-70",
+      "sym": "1",
+      "text": "78a USAGE REMOVED",
+      "was": null,
+      "item": "78a"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "78d USAGE REMOVED",
+      "was": null,
+      "item": "78d"
+    },
+    {
+      "date": "4-1-70",
+      "sym": "3",
+      "text": "78C USAGE REMOVED",
+      "was": null,
+      "item": "78c"
+    },
+    {
+      "date": "5-19-70",
+      "sym": "4",
+      "text": "9985018 CEMENT & 9985027 OPT RMV",
+      "was": "9985018",
+      "item": null
+    }
+  ],
+  "options": [
+    "C07",
+    "G81"
+  ],
+  "tables": [
+    {
+      "title": "CEMENTS & SEALER",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9981286 PRIMER 9985052 OPT",
+          "77a",
+          "GLASS SEALANT",
+          "1 / C07",
+          "F / A"
+        ],
+        [
+          "9985051 SEALER 9981310 OPT",
+          "78b",
+          "RUBBER TO GLASS",
+          "1 / C07",
+          "F / A"
+        ],
+        [
+          "9985020 SEALER-GREASE BASE",
+          "82a",
+          "EXHAUST PIPE TO MUFFLER & TAIL PIPE ASM.",
+          "",
+          ""
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84a",
+          "LOCATING WEDGE PLATE",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84b",
+          "W/STRIP TO SIDE RAIL",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84c",
+          "DRIP MOLDINGS",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84d",
+          "FOAM SEALING STRIP",
+          "",
+          ""
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84e",
+          "CENTER STRUT",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84f",
+          "WINDSHIELD HEADER",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84g",
+          "MOLDING W/S UPPER REVEAL",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84h",
+          "MLDG ASM W/S HEADER CORNER",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84j",
+          "W/STRIP TO DRIP MOLDING",
+          "C07",
+          "A"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84k",
+          "WINDSHIELD MOLDING",
+          "1",
+          "F"
+        ],
+        [
+          "3710409 SEALING-COMPOUND",
+          "84m",
+          "BETWEEN MLDG CAPS TO ROOF TOP",
+          "C07",
+          "A"
+        ],
+        [
+          "9985105 ADHESIVE-RUBBER & WATER BASE",
+          "85a",
+          "\"CAUTION\" STICKER TO JACK STOWAGE COVER",
+          "G81",
+          "A"
+        ],
+        [
+          "9885126 ADHESIVE-SEALER",
+          "86a",
+          "W/S AREA TO WELD FLANGES",
+          "1",
+          "A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

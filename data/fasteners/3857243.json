@@ -1,0 +1,19 @@
+{
+  "pn": "3857243",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "NCRS thread (72 side louver nut) says GM 3857243 = side louver stud nut, Paragon 15065K, a #10 nut but poster unsure 10-24 vs 10-32; another reply says the number is a wiper transmission nut kit. Thread left null.",
+  "confidence": "conflict",
+  "sources": [
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion/123454-72-side-louver-nut",
+      "title": "72 Side Louver Nut - NCRS (search snippet; page 403)",
+      "quote": "Paragon sells these as part 15065K, GM part is 3857243 ... the nut is a #10 ... Don't remember if it is 10-24 or 10-32",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

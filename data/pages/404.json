@@ -1,0 +1,186 @@
+{
+  "page": 404,
+  "group": "NA9",
+  "sheet": "A5",
+  "title": "EVAP EMISSION CONT.-ENG TO CANNISTER HOSES-RPO LJ2",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. Evaporative emission control hoses from the engine (carburetors, View A shows three carburetors) to the canister, for RPO LJ2 within option group NA9. Two long hoses run from the carburetors under the accelerator cable, are strapped to the existing vacuum hoses at the top of the dash, and run down aft of the vacuum tank to a clamp at the lower end; short hoses join at a tee with spring clamps (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap – hose bundle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3969893",
+      "name": "HOSE",
+      "name_expanded": "Hose – evaporative emission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9770783",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3969880",
+      "name": "HOSE",
+      "name_expanded": "Hose – evaporative emission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3969879",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3967078",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3970076",
+      "name": "TEE",
+      "name_expanded": "Tee – hose connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "existing vacuum hoses at top of dash, inboard of clip",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note B: strap [1] binds hoses [2] & [4] to the vacuum hose bundle at the top of the dash (firewall), inboard of the clip.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4",
+        "6",
+        "7"
+      ],
+      "to": "tee [8] and the end fittings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: hose [4] and hose [6] push onto the two ends of the tee and hose [7] onto its stem, each with a clamp [5]; clamps [5] also at the far end of hose [6] and the lower end of hose [7] (two [5] leaders to hose [7]).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "fitting on top of the round tank/canister at lower right",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view, lower right: clamp [3] at the lower end of the hose run where it meets the fitting.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Route 2 & 4 under accelerator control cable.",
+    "[B] Bind 2 & 4 to present vacuum hoses at top of dash, inboard of clip.",
+    "[C] Route 2 & 4 aft of vacuum tank and outboard of electrical harness."
+  ],
+  "notes_internal": [
+    "CANCELED sticker on the page (rev 2).",
+    "Tee [8] is drawn in View B but carries no visible callout; two callout boxes at the top edge of View B are cut off.",
+    "Clamp [3]: leader goes to the clamp at the fitting at the lower end of the hose run; which of hoses [2]/[4] it clamps is not certain (read as [2]).",
+    "Hose [2] and [4] upper ends: View A shows them at the carburetors (hose [4] near the distributor end), exact fittings not labelled.",
+    "Circled 2 printed beside the TEE line; circled 1 below the drawing near the title block. Neither maps clearly to a part.",
+    "Rev 1 date first digit handwritten; reads 6-30-69. No torque legend values (triangles 1-5 blank).",
+    "'K402' printed sideways at right."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "TITLE REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "CANCELLED STICKER ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

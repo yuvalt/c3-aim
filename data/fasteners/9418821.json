@@ -1,0 +1,19 @@
+{
+  "pn": "9418821",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "1",
+  "head": "hex, TR headmark, grade 5",
+  "drive": null,
+  "finish": null,
+  "notes": "Dr Rebuild repro of GM 9418821 or 122126 (spare tire lock bracket), zinc plated repro; original finish not stated. An NSN listing (parttarget) describes it as hex head cap screw, thread class 2A, thread length ~0.81-0.88 in (not fetched).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://shop.docrebuild.com/1963-1982CorvetteSpareTireBracketMountTRBoltSetReproOfGM9418821.aspx",
+      "title": "1963-1982 Corvette Spare Tire Lock Bolt Bracket Mount TR Bolt Set Repro Of GM 9418821 or 122126 - Dr Rebuild",
+      "quote": "Set includes two grade 5 TR head mark 3/8-16x1 inch Zinc plated bolts & two split lock washers.",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

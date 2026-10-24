@@ -1,0 +1,195 @@
+{
+  "page": 21,
+  "group": "0",
+  "sheet": "D1",
+  "title": "LUBRICATION",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Lubrication chart, sheet 1: applied-material codes 1a-1r (99851 lubricant-grease, e.g. door lock rods, window regulator channels, folding top hinges, hood support, headlamp housing bosses) and 2a-2e (9985158 automatic transmission fluid; 9985010 for N40 power steering). Each code gives where it is applied plus the UPC and sub-group of the assembly sheet that uses it.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Table: PART column filled down to every code row of its block (printed once per block). Multi-line cells joined with single spaces; syllable hyphens at line breaks removed (e.g. 'CHAN-NELS' -> 'CHANNELS'), real dashes kept. Diamond symbol after each code omitted.",
+    "Part '99851' is printed with only 5 digits (clear, not a hole); copied as printed.",
+    "1p UPC: a binder-hole arc sits immediately left of the '7'; '7' is clear but a leading character cannot be fully ruled out.",
+    "1p-1r are in the right column with no PART text; treated as continuing 99851 LUBRICANT-GREASE (codes 1a-1r).",
+    "2e is listed under the 9985010 block by position, but its usage (prop shaft yoke, UPC 4) does not look like power-steering fluid; block assignment by layout only.",
+    "Revision date handwritten, reads 10-24-69 (OCR garbled).",
+    "Codes 1i, 1l, 1o are not used (skipped letters)."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "\"1R\" USAGE ADDED",
+      "was": null,
+      "item": "1r"
+    }
+  ],
+  "options": [
+    "M40",
+    "N40"
+  ],
+  "tables": [
+    {
+      "title": "LUBRICATION D1",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "99851 LUBRICANT-GREASE",
+          "1a",
+          "FOLDING TOP LID HINGE ASM-WORKING PARTS",
+          "1",
+          "F"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1b",
+          "FOLDING TOP LID CONTROL & LOCK ASM WORKING AREAS-BOTH ENDS",
+          "1",
+          "F"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1c",
+          "SIDE DOOR LOCK REMOTE CONTROL ROD-BOTH ENDS",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1d",
+          "SIDE DOOR LOCK REMOTE CONTROL LOCKING ROD-BOTH ENDS",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1e",
+          "ASH TRAY COVER CLIP",
+          "1",
+          "E"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1f",
+          "SIDE DOOR WINDOW MECH ENTIRE LENGTH OF UPPER & LOWER REGULATOR CHANNELS",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1g",
+          "ENTIRE LENGTH OF IDLER CAM & FRT & RR CAM ASM",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1h",
+          "INNER BEARING SURFACE",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1j",
+          "SIDE DOOR REMOTE CONTROL ASM-MOVING PARTS",
+          "1",
+          "K"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1k",
+          "TRANS CONT LEVER SHAFT BRKT-SURFACES CONTACTING CONT SHAFT, LEVER BALL & SHAFT BOSS",
+          "7",
+          "B"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1m",
+          "2ND & 3RD, 1ST & REVERSE CONT RODS-CLEVIS END (IN AREAS CONTACTING SHIFT LEVERS) & ROD ENDS",
+          "7",
+          "B"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1n",
+          "HOOD SUPPORT-RAILS & CTH",
+          "11-13",
+          "A"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1p",
+          "THIN FILM TO THREADED PORTION OF SCREW",
+          "7",
+          "A"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1q",
+          "HOOD RELEASE HANDLE CBL",
+          "11-13",
+          "A"
+        ],
+        [
+          "99851 LUBRICANT-GREASE",
+          "1r",
+          "HEADLAMP HGS BOSSES",
+          "12",
+          "A"
+        ],
+        [
+          "9985158 FLUID-AUTO TRANS",
+          "2a",
+          "THRU FILLER NECK ON R.H. SIDE OF TRANS",
+          "M40",
+          "A"
+        ],
+        [
+          "9985158 FLUID-AUTO TRANS",
+          "2b",
+          "OIL FILLER TUBE \"O\" RING SEAL-LUB O.D. OF SEAL ONLY, AFTER ASM TO FILLER TUBE",
+          "M40",
+          "A"
+        ],
+        [
+          "9985158 FLUID-AUTO TRANS",
+          "2c",
+          "EXTENSION BUSHING-BEFORE INSTAL PROP SHAFT YOKE",
+          "7",
+          "B"
+        ],
+        [
+          "9985010 OPT FOR N40 ONLY",
+          "2d",
+          "HYDRAULIC STEERING PUMP",
+          "N40",
+          "A"
+        ],
+        [
+          "9985010 OPT FOR N40 ONLY",
+          "2e",
+          "PROP SHAFT YOKE-TRANS END ON OUTSIDE & INSIDE",
+          "4",
+          "A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

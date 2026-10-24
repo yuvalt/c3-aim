@@ -1,0 +1,19 @@
+{
+ "pn": "3866846",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": "serrated washer-in-head",
+ "drive": null,
+ "finish": null,
+ "notes": "Identified by Mid America Motorworks (kit 611534) as 1969-1982 exterior door handle attaching nut, self-locking; thread size not stated in any source found. MAM page 404 on fetch; quote from search snippet.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://mamotorworks.com/corvette/product/corvette-1969-1982-exterior-door-handle-attaching-nut-kit-611534",
+   "title": "1969-1982 Exterior Door Handle Attaching Nut Kit - Mid America Motorworks (search snippet)",
+   "quote": "includes 4 Serrated Washer-In-Head Nuts",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

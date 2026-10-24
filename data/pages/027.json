@@ -1,0 +1,218 @@
+{
+  "page": 27,
+  "group": "0",
+  "sheet": "D7",
+  "title": "CEMENTS & SEALERS",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Applied-material code table, part 2: plastic seam cement 3851624 (57a–57f), deadener 9981300 (58a), price-label adhesive 3764800 (59a), selector-plate adhesive 3849167 (62a), vinyl-roof cement 3903598 (68a, option C08), strip sealer 3912973 (69a–69b, soft top), windshield seal 3926350 (70a), glass-to-seal cement 3940692 (71a–71b), reclaimed-rubber sealer 9980621 (73a–73g, dash pass-throughs and windshield wiper mounts) and glass primer 9981282 (76a).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Chart sheet (no drawing, no callouts): applied-material codes. PART cell = GM part number + description from the left column, repeated on every row of its group (on the page it is printed once per group).",
+    "Words hyphenated across line breaks in USAGE are joined (e.g. RE-/TAINER -> RETAINER); multi-line cells joined with a space.",
+    "Model box reads 19000 (all models), so models = [].",
+    "Rows with two UPC/SUB-GRP lines (70a, 76a) are written '1 / C07' and 'F / A': UPC 1 subgroup F, and option C07 subgroup A.",
+    "70a UPC '1' is half under the binder hole but legible.",
+    "76a alternate part: first digit smudged (looks like S/9; OCR read '$'); written '?985052'. Page 28 prints the same alternate primer clearly as 9985052.",
+    "3851624 here is a cement; the same number is a sealing strip on F18 (p112). Copied as printed.",
+    "Rev 1 date: second digit of the day smeared ('12-1?-69'). Circled 1 beside 57f.",
+    "Codes jump 59a -> 62a -> 68a -> 69a -> 70a -> 71a -> 73a -> 76a; gaps are not marked as removed on this sheet."
+  ],
+  "revisions": [
+    {
+      "date": "12-1?-69",
+      "sym": "1",
+      "text": "57F USAGE ADDED",
+      "was": null,
+      "item": "57f"
+    }
+  ],
+  "options": [
+    "C07",
+    "C08"
+  ],
+  "tables": [
+    {
+      "title": "CEMENTS & SEALERS",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57a",
+          "BETWEEN MLDG & W/S RETAINER",
+          "1",
+          "F"
+        ],
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57b",
+          "AROUND SEAT BELT MTG HOLES-PNL U/B TO PLATE ASM",
+          "1",
+          "B"
+        ],
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57c",
+          "NO. 3 BODY MT ACCESS HOLE COVER-ALL AROUND COVER",
+          "1",
+          "G"
+        ],
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57d",
+          "CORNER REVEAL MOLDING",
+          "1",
+          "F"
+        ],
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57e",
+          "AROUND LOC PIN SUPT HOLES",
+          "1",
+          "B"
+        ],
+        [
+          "3851624 CEMENT-PLASTIC SEAM",
+          "57f",
+          "PLATE TO RR ROOF REINF.",
+          "1",
+          "F"
+        ],
+        [
+          "9981300 DEADENER",
+          "58a",
+          "REAR AREA OF W/H-FRT & RR",
+          "1",
+          "H"
+        ],
+        [
+          "3764800 ADHESIVE-WATER REMOVABLE",
+          "59a",
+          "PRICE LABEL TO WINDOW",
+          "0",
+          "B"
+        ],
+        [
+          "3849167 ADHESIVE-SOLVENT",
+          "62a",
+          "SELECTOR PLATE TO TRIM PLATE ASM.",
+          "1",
+          "E"
+        ],
+        [
+          "3903598 CEMENT-ADHESIVE",
+          "68a",
+          "VINYL COVER ASM. TO ROOF TOP",
+          "C08",
+          "A"
+        ],
+        [
+          "3912973 STRIP SEALER",
+          "69a",
+          "BETWEEN THE SOFT TOP FRAME & METAL CLIPS",
+          "1",
+          "F"
+        ],
+        [
+          "3912973 STRIP SEALER",
+          "69b",
+          "LINER TO INNER PANEL",
+          "1",
+          "K"
+        ],
+        [
+          "3926350 SEAL",
+          "70a",
+          "WINDSHIELD GLASS",
+          "1 / C07",
+          "F / A"
+        ],
+        [
+          "3940692 CEMENT-ADHESIVE",
+          "71a",
+          "WINDSHIELD GLASS TO SEAL",
+          "1",
+          "F"
+        ],
+        [
+          "3940692 CEMENT-ADHESIVE",
+          "71b",
+          "REAR WINDOW GLASS TO SEAL",
+          "C07",
+          "A"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73a",
+          "BETWEEN CYL ASM & DASH",
+          "5",
+          "A"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73b",
+          "OIL PRESS PIPE GROMMET-AT DASH PANEL",
+          "12",
+          "C"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73c",
+          "DASH PNL TO PLENUM CTR PANEL",
+          "1",
+          "A"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73d",
+          "APPLY AROUND W/S/W TRANS MTG PLATE ATCH BOLTS",
+          "1",
+          "A"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73e",
+          "APPLY AROUND W/S/W VACUUM SW MTG PLATE ATCH NUTS",
+          "1",
+          "D"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73f",
+          "APPLY AROUND W/S/W DOOR LINKAGE STAB BRKT ATCH BOLTS",
+          "1",
+          "D"
+        ],
+        [
+          "9980621 SEALER-RECLAIMED RUBBER",
+          "73g",
+          "UNDER WEATHER STRIP",
+          "1",
+          "F"
+        ],
+        [
+          "9981282 PRIMER ?985052 OPT.",
+          "76a",
+          "GLASS SEALANT TO LACQUER",
+          "1 / C07",
+          "F / A"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "page": 200,
+  "group": "6",
+  "sheet": "D2",
+  "title": "ACCELERATOR CONTROL CABLE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Accelerator (throttle) cable from the firewall to the carburetor, all models. At the firewall the cable flange is held by a screw assembly and washer; a plate is riveted at the cable hole. At the carburetor the cable passes through a bracket held under a carburetor attaching nut, is clamped to that bracket with a bolt, and its end snaps on a ball stud nutted to the throttle lever, with a return spring and grease.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3990560",
+      "name": "CABLE ASM.",
+      "name_expanded": "Accelerator cable assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3992386",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – cable, at carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3915747",
+      "name": "PLATE",
+      "name_expanded": "Plate – cable, at firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3972624",
+      "name": "SPRING",
+      "name_expanded": "Spring – throttle return",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3797168",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3921617",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419000",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3924414",
+      "name": "STUD",
+      "name_expanded": "Stud – ball, throttle lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "271172",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "45-65",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "18a",
+      "description": "GREASE",
+      "amount": ".0066 LBS.",
+      "where": "View B: ball of stud [10] where the cable end snaps on"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "firewall (dash panel)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw assembly [7] goes through washer [6] and the hole in the cable [1] mounting flange into the firewall, beside where the cable passes through.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "firewall, at the cable hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view, upper right: rivet [3] fastens plate [4] to the firewall where the cable enters.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "carburetor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: bracket [2] fits over a carburetor stud and is held by the carburetor attaching nut (not a callout on this sheet).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket [2]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Views B and C: clamp [8] wraps the cable [1] housing; bolt [9] goes through the clamp into bracket [2]. Position flange of cable [1] to edge of bracket [2] & clamp [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "carburetor throttle lever",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: ball stud [10] passes through the throttle lever and is secured by nut [11] from the other side; the cable [1] end socket snaps onto the stud ball, greased with 18a.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "throttle lever and bracket [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: return spring [5] hooks between the throttle lever and bracket [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Position flange of cable [1] to edge of bracket [2] & clamp [8]."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-7; '399' visible plus the left edge of a 4th digit (OCR read 3990).",
+    "Rev 1 old pn read as 3934091 (4th digit heavy/overwritten; OCR read 3930091).",
+    "Torque 1 second number reads 65 (OCR read 85).",
+    "PREL D2 2-6-69 in the title block; 'K198' printed sideways at right."
+  ],
+  "revisions": [
+    {
+      "date": "2-19-70",
+      "sym": "1",
+      "text": "WAS 3934091 CABLE ASM.",
+      "was": "3934091",
+      "item": "1"
+    },
+    {
+      "date": "5-19-70",
+      "sym": "2",
+      "text": "WAS 3972625 BRKT & DWG REVISED",
+      "was": "3972625",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

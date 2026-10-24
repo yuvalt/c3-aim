@@ -1,0 +1,143 @@
+{
+  "page": 14,
+  "group": "0",
+  "sheet": "A12",
+  "title": "SPRING CHART",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Front coil spring and rear transverse leaf spring selection for 1970 coupe and convertible (19437-67), by engine (350 or 454), suspension (standard or F41 special suspension) and sprung curb load per wheel. Gives each spring's rate, design load, GM part number and two-letter spring code, so a restorer can identify the correct spring from its code tag.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Rear table: the RATE PER SIDE cell '70 DWG & 85 CLAMPED', the SPRUNG CURB LOAD cell 'ALL' and the SPRING cell '680 3850839 EA' span both the 350 STD and 454 STD rows; repeated in each row.",
+    "'O --> 702' is printed with an arrow; written here as 'O -> 702'.",
+    "Spring part numbers (3931823-3931826, 3832518, 3850839, 3828811) appear only in the tables, not in parts, since the page has no callout items.",
+    "Title block: drawing number 3965172; DR SB, CK 12-12-69 HB; model 19000; revision record empty. A sideways 'K12' mark sits above the title block."
+  ],
+  "revisions": [],
+  "options": [
+    "F41"
+  ],
+  "tables": [
+    {
+      "title": "FRONT",
+      "columns": [
+        "GROUP (ENG)",
+        "MODELS",
+        "SUSP",
+        "RATE LB/IN",
+        "SPRUNG CURB LOAD LBS PER WHEEL",
+        "SPRING LOAD",
+        "SPRING PART NO.",
+        "SPRING CODE"
+      ],
+      "rows": [
+        [
+          "350 CU. IN.",
+          "19437-67",
+          "STD",
+          "250",
+          "O -> 702",
+          "1395",
+          "3931823",
+          "HS"
+        ],
+        [
+          "350 CU. IN.",
+          "19437-67",
+          "STD",
+          "264",
+          "OVER 702",
+          "1475",
+          "3931824",
+          "HT"
+        ],
+        [
+          "454 CU. IN.",
+          "19437-67",
+          "STD",
+          "284",
+          "O -> 777",
+          "1540",
+          "3931825",
+          "HU"
+        ],
+        [
+          "454 CU. IN.",
+          "19437-67",
+          "STD",
+          "325",
+          "OVER 777",
+          "1620",
+          "3931826",
+          "HV"
+        ],
+        [
+          "350 & 454 CU. IN.",
+          "19437-67",
+          "F41",
+          "550",
+          "ALL",
+          "1290",
+          "3832518",
+          "EA"
+        ]
+      ]
+    },
+    {
+      "title": "REAR",
+      "columns": [
+        "GROUP (ENG)",
+        "MODELS",
+        "SUSP",
+        "RATE PER SIDE LB/IN",
+        "SPRUNG CURB LOAD LBS PER WHEEL",
+        "SPRING LOAD",
+        "SPRING PART NO.",
+        "SPRING CODE"
+      ],
+      "rows": [
+        [
+          "350 CU. IN.",
+          "19437-67",
+          "STD",
+          "70 DWG & 85 CLAMPED",
+          "ALL",
+          "680",
+          "3850839",
+          "EA"
+        ],
+        [
+          "454 CU. IN.",
+          "19437-67",
+          "STD",
+          "70 DWG & 85 CLAMPED",
+          "ALL",
+          "680",
+          "3850839",
+          "EA"
+        ],
+        [
+          "350 & 454 CU. IN.",
+          "19437-67",
+          "F41",
+          "152 DWG",
+          "ALL",
+          "663",
+          "3828811",
+          "EB"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

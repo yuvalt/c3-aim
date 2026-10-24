@@ -1,0 +1,19 @@
+{
+ "pn": "124829",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Identified as a nut / lock nut in clutch linkage (camaros.org UPC 7 C3 p112 'Item 14 Nut #124829'; stevesnovasite '2 lock nuts #124829' snippet), but no size found. stevesnovasite redirected to a paywall/bot gate; not retried.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "http://www.camaros.org/forum/index.php?action=profile;u=4396;area=showposts;sa=topics;start=30",
+   "title": "Show Posts - Dave69x33",
+   "quote": "Item 14 Nut #124829",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

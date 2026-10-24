@@ -1,0 +1,31 @@
+{
+  "pn": "103328",
+  "kind": "lock washer",
+  "thread": "7/16",
+  "length": null,
+  "head": "split, heavy",
+  "drive": null,
+  "finish": null,
+  "notes": "CONFLICT: NCRS (quoting GM drawing) and CorvetteForum AIM list say 7/16 heavy; AMK cross-ref lists 103328 against B-13058 '1/2 REG SPLIT WA'. NCRS posters cite OD ~0.770 and AMK repro .45 x .77 x .14 (consistent with 7/16 heavy). Thread field reflects the two agreeing sources.",
+  "confidence": "conflict",
+  "sources": [
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion/112480-103328-lock-washer-od?p=1210905",
+      "title": "103328 Lock Washer OD - NCRS",
+      "quote": "from the drawing - 7/16\" Washer heavy helical spring lock. Carbon Steel SAE 1060 or Equivalent 38-46 HRC",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+      "title": "AIM Rant - CorvetteForum",
+      "quote": "0103328-P95 7/16 Heavy",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8935",
+      "title": "Bulk Fasteners Listing - AMK Products",
+      "quote": "34848-S2, 103328 (s), 123153 B-13058 1/2 REG SPLIT WA PHOS",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

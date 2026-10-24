@@ -1,0 +1,318 @@
+{
+  "page": 146,
+  "group": "1",
+  "sheet": "K7",
+  "title": "HANDLE, LOCK & GUIDE PIN",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door outside handle (the push-button handle at the top rear of the door), the key lock cylinder, the door latch (lock assembly) with its shield, the rod linking the handle to the latch, and the guide pin at the rear of the door. The outside handle bolts on from inside the door with nuts on its two studs over a seal; the key cylinder goes in through a gasket and is held from inside by a slide-on retainer clip; the latch and shield are screwed to the rear of the door, and the guide pin is held by a nut from inside.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966603-4",
+      "name": "PIN (194?7)",
+      "name_expanded": "Pin – door guide (LH/RH)",
+      "models": [
+        "194?7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9420506",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3966773-4",
+      "name": "SHIELD ASM.",
+      "name_expanded": "Shield assembly – door lock (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "4671989",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "5",
+      "pn": "9718280-1",
+      "name": "LOCK ASM.",
+      "name_expanded": "Door lock (latch) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "6",
+      "pn": "9720870-1",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly – outside handle to lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "7",
+      "pn": "3866846",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "8",
+      "pn": "4587931",
+      "name": "GASKET",
+      "name_expanded": "Gasket – lock cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3972340",
+      "name": "LOCK UNIT",
+      "name_expanded": "Lock unit – door key cylinder (includes key)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "4884405",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – lock cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3956022",
+      "name": "SEAL",
+      "name_expanded": "Seal (gasket) – outside handle to door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9718410-1",
+      "name": "HANDLE ASM.",
+      "name_expanded": "Handle assembly – door outside",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "271172",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3966779-80",
+      "name": "SEAL",
+      "name_expanded": "Seal (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "door outer panel, handle opening at the top of the door",
+      "qty": "2 studs on the handle; 1 nut called out",
+      "torque_ref": "2",
+      "note": "Handle asm. [12] drops in from outside with its two studs through seal [11]; nut [7] goes on a stud from inside the door.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "how": "seals",
+      "holds": [
+        "12"
+      ],
+      "to": "door outer panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [11] sits between the handle [12] flange and the door panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "door outer panel, lock cylinder hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: lock unit [9] goes in from outside through gasket [8]; U-shaped retainer [10] slides onto the cylinder from inside the door.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "how": "seals",
+      "holds": [
+        "9"
+      ],
+      "to": "door outer panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: gasket [8] between lock cylinder [9] and the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear (lock pillar) end of the door, near the top",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Guide pin [1] stud goes through the door from outside; nut [13] goes on from inside (dashed line from [1] to [13]).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "door rear end / inner structure",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "Two screws [2]: one goes into the upper rear face of the door beside the guide-pin area, one through the tab of shield [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "door rear end, lower part of the lock",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Screw [4] goes in at the lower end of lock asm. [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "12",
+        "5"
+      ],
+      "to": "outside handle lever and lock release lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod asm. [6] links the outside handle [12] to the lock [5]; threaded pin at the lower end goes into the lock lever (adjust per procedure).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "DOOR LOCK ADJ. PROCEDURE Adjust the threaded pin on the lower end of rod asm. to provide full travel of the handle in the outside door handle housing.",
+    "NOTE The outside release lever on the side door lock asm. is not to be pre-engaged with the release mechanism in the lock.",
+    "KEY (PART OF LOCK UNIT)",
+    "View B: FULL TRAVEL POSITION"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-5; visible '396' + '03-4' (OCR read 3980C03-1). Model code in parentheses reads '194?7' (4th digit unclear, 3 or 6).",
+    "Item 2: binder hole covers middle digits; visible '94' ... '0' + an unclear last character.",
+    "Item 3: faint print; reads 3966773-4 (OCR 39M6773-4).",
+    "Item 4: 5th digit faint (OCR read 4671989).",
+    "Item 5: 7th digit faint (OCR read 9718289-1).",
+    "Item 6: 5th and 7th digits faint (OCR read 3720070-1; first digit looks like 9).",
+    "Item 7: 4th digit faint (OCR read 3860846 / 3866846).",
+    "Procedure text partly faint ('threaded pin on the lower end', 'outside door handle housing', 'side door lock asm.' read through smudges).",
+    "Seal [14]: leader goes to the flat area at the top of the lock/shield on the door rear face; what clamps it is not shown. Left out of fastening.",
+    "Lock asm [5]: only screw [4] is shown going into it; the upper [2] may also go into the lock area, ambiguous.",
+    "No revisions entered. Sheet 'K144' printed sideways at right."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

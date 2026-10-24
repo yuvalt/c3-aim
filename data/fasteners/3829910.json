@@ -1,0 +1,19 @@
+{
+ "pn": "3829910",
+ "kind": "rivet",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Listed in NCRS 'C3 Rivet Identification' thread among common bracket-attaching rivets, but no size given in visible snippets; thread page returned 403.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.forums.ncrs.org/forum/technical-discussion/85573-c3-rivet-identification?p=909264",
+   "title": "C3 Rivet Identification - NCRS Discussion Boards",
+   "quote": "I am sure there are more but these appear to be most of the most common ones used for attaching brackests to the body.",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

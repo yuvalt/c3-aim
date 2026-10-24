@@ -1,0 +1,106 @@
+{
+  "page": 30,
+  "group": "0",
+  "sheet": "D10",
+  "title": "FILL ITEMS, GASOLINE & MISC.",
+  "models": [],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Fill items: antifreeze 9985012 (140a, cooling system), gasoline 9985015 (141a, at the filler neck), windshield washer solvent 9985129 (143a), liquid wax 9985022 (147a, hand-applied to the soft top), cooling-system sealer 1163105 (149a, put in the radiator) and A/C refrigerant 9985016 (150a). Note A: initial cold fill to 3 in. below the filler neck; open the water temperature control valve fully when filling.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "[A] QUANTITY OF INITIAL COLD FILL TO BE THREE INCHES BELOW BOTTOM OF FILLER NECK IN LINE WITH COLD FILL LEVEL.",
+    "NOTE Fully open water temperature control valve when filling to minimize trapped air."
+  ],
+  "notes_internal": [
+    "Chart sheet (no drawing, no callouts): applied-material codes. PART cell = GM part number + description from the left column, repeated on every row of its group (on the page it is printed once per group).",
+    "Words hyphenated across line breaks in USAGE are joined (e.g. RE-/TAINER -> RETAINER); multi-line cells joined with a space.",
+    "Model box reads 19000 (all models), so models = [].",
+    "[A] in 140a usage is a boxed note flag pointing to note A at the bottom of the sheet.",
+    "149a UPC: middle wiped out by the binder hole; visible '1' ... '3' (likely 11-13 like 140a, not inferred); written '1?-?3'.",
+    "1163105 first digit at the edge of the binder hole but legible.",
+    "Rev 1 date: first part reads 11 or 12; written '1?-11-69'. Circled 1 beside 143a; circled 2 beside note A."
+  ],
+  "revisions": [
+    {
+      "date": "1?-11-69",
+      "sym": "1",
+      "text": "143a USAGE REVISED",
+      "was": null,
+      "item": "143a"
+    },
+    {
+      "date": "2-25-70",
+      "sym": "2",
+      "text": "COOLING NOTE 'A' ADDED",
+      "was": null,
+      "item": "140a"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "FILL ITEMS, GASOLINE & MISC.",
+      "columns": [
+        "PART",
+        "CODE",
+        "USAGE",
+        "UPC",
+        "SUB-GRP."
+      ],
+      "rows": [
+        [
+          "9985012 ANTI-FREEZE (ETHYLENE GLYCOL)",
+          "140a",
+          "COOLING SYSTEM [A]",
+          "11-13",
+          "B"
+        ],
+        [
+          "9985015 GASOLINE",
+          "141a",
+          "GAS TANK FILLER NECK ASM",
+          "8",
+          "B"
+        ],
+        [
+          "9985129 SOLVENT WINDSHIELD WASHER",
+          "143a",
+          "WINDSHIELD WASHER JAR PER INSTRUCTIONS FURNISHED BY FACILITIES & PLANNING DEPT",
+          "1",
+          "D"
+        ],
+        [
+          "9985022 WAX-LIQUID",
+          "147a",
+          "HAND APPLIED-TO ALL AREAS OF THE SOFT TOP SUBSEQUENTLY TO BE SPRAYED WITH (79)",
+          "1",
+          "F"
+        ],
+        [
+          "1163105 SEALER-COOLING SYSTEM 9985040 OPT.",
+          "149a",
+          "PLACE IN RADIATOR",
+          "1?-?3",
+          "B"
+        ],
+        [
+          "9985016 REFRIGERANT-AIR CONDITIONING",
+          "150a",
+          "TO CHARGE A/C SYSTEM",
+          "C60",
+          "D"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

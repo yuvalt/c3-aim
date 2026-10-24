@@ -1,0 +1,39 @@
+{
+  "page": 154,
+  "group": "1",
+  "sheet": "K15",
+  "title": "GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19467"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Convertible (19467) section views for the K14 glass adjustment procedure: how the side door glass should sit against the windshield-side weatherstrip (A-A), convertible top front header (B-B), top side-rail weatherstrip (C-C), convertible top rear weatherstrip (D-D, E-E) and the top side rail (F-F). Dimensions are nominal design values.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Section A-A (glass front edge to w/shield side w/strip): .04 PARALLEL",
+    "Section B-B (top front header): .12 PARALLEL (REF.)",
+    "Section C-C (top side rail w/strip to glass upper edge): .30 PARALLEL; .06 PARALLEL",
+    "Section D-D (conv. top rear w/strip): .10 PARALLEL; 38 PARALLEL; label CONV. TOP REAR W/STRIP",
+    "Section E-E: labels CONV. TOP REAR W/STRIP, SIDE DOOR GLASS, DOOR W/STRIP",
+    "NOTE The dimensions given in these sections are nominal design dimensions."
+  ],
+  "notes_internal": [
+    "Drawing-only page for K14 (p153): no callouts, no parts, no torque legend, so no fastening entries.",
+    "Section cut lines A-A to F-F are marked on the door-glass/top perspective at upper right.",
+    "Section D-D '38 PARALLEL': no decimal point visible at 300 dpi (probably .38, not confirmed).",
+    "Section C-C '.30 PARALLEL': the leading dot is merged with the 3 in the scan; reads as on K13.",
+    "Title block: drawing 3965172, DR CB/C1, CK 4-21-69 C1 (smudged), PREL 4-10-69, C/O K15; revision record empty. Sideways 'K152' at right.",
+    "Section F-F (top side rail) shows no dimensions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

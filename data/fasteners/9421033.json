@@ -1,0 +1,19 @@
+{
+  "pn": "9421033",
+  "kind": "screw",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "CorvetteForum 'screw size' thread (403) only says AIM lists #9421033 'which is a common fastener for other uses'; no size. GMPartsWiki page exists (Corvair context) but no dims.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/4808506-screw-size.html",
+      "title": "screw size - CorvetteForum (search snippet; page 403)",
+      "quote": "#9421033 which is a common fastener for other uses",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

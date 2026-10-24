@@ -1,0 +1,211 @@
+{
+  "page": 149,
+  "group": "1",
+  "sheet": "K10",
+  "title": "DELUXE TRIM PANEL & INSERT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "Deluxe interior door trim panel (RPO 403 & 424 custom interior) with its pull handle, lower molding and carpet insert. This sheet was CANCELED 2-13-70. As drawn, the panel is screwed to the door at its front edge, the pull handle is screwed on at its rear end, a screw goes through the escutcheon by the inside handle, the lower molding pushes into holes along the panel's bottom, and the carpet insert is glued to the lower panel. Panel, handle and carpet numbers come from charts.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3963160",
+      "name": "CHART-TRIM PANEL ASM.",
+      "name_expanded": "Door trim panel assembly – deluxe (see trim chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3863719",
+      "name": "CHART-HANDLE ASM.",
+      "name_expanded": "Door pull handle assembly (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9431733",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966539-40",
+      "name": "MOLDING",
+      "name_expanded": "Molding – door trim panel lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9431527",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3966500",
+      "name": "CHART-CARPET",
+      "name_expanded": "Carpet – door trim panel lower insert (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9431550",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51j",
+      "description": "ADHESIVE",
+      "amount": ".10 oz. per job",
+      "where": "between the carpet insert [8] and the lower area of the trim panel [1] (two leaders: panel lower front and carpet edge)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door inner panel, front edge",
+      "qty": "1 shown",
+      "torque_ref": "3",
+      "note": "Screw [9] goes through the front edge of the trim panel [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "trim panel [1] / door, rear of the panel",
+      "qty": "1 shown",
+      "torque_ref": "1",
+      "note": "Screw [4] goes into the rear end of the pull handle [3]; dashed lines show the handle locating at two points on the panel (upper by the window-sill pad and middle).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door, at the inside remote handle opening",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Screw [7] goes through the star-shaped escutcheon beside the remote handle opening in the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "holes along the bottom of the trim panel [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Molding [5] has fasteners along its length that line up with a row of holes in the panel's lower edge (dashed lines).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "8"
+      ],
+      "to": "lower part of trim panel [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Carpet [8] glued with adhesive 51j; its front end lines up with the front lower hole (dashed line).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "B Use R.H. part for left door & L.H. part for right door."
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED; revision 7 (circled 7 beside the stamp) 'SHEET CANCELED'. Earlier revisions not shown.",
+    "Callout lines 2 and 6 are blank (box only, no pn/name); not entered as parts.",
+    "Item 1: binder hole covers digits 3-6; visible '39' + last digit '0'. Item 1 callout in the drawing has a half-filled circle symbol beside it (meaning not stated).",
+    "Note B is tagged on handle [3] in the drawing ([3][B]).",
+    "Model block reads '19000 (RPO 403 & 424)'; 403/424 entered in options.",
+    "Fasteners on molding [5] are not called out; what retains it is not identified.",
+    "'K147' printed sideways at left of torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "2-13-70",
+      "sym": "7",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "403",
+    "424"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

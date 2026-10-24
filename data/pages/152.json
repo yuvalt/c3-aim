@@ -1,0 +1,39 @@
+{
+  "page": 152,
+  "group": "1",
+  "sheet": "K13",
+  "title": "GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19437"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Coupe (19437) section views for the K12 glass adjustment procedure: how the side door glass should sit against the windshield-side weatherstrip (A-A), front roof panel (B-B), roof panel side weatherstrip (C-C), rear weatherstrip at the lock pillar (D-D, E-E), and the two gage blocks used to locate the glass rear edge (View A). Dimensions are nominal design values.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Section A-A (glass front edge to w/shield side w/strip): .04 PARALLEL",
+    "Section B-B (front roof panel): .50 PARALLEL (REF.)",
+    "Section C-C (roof panel side w/strip to glass upper edge): .30 PARALLEL; .06 PARALLEL",
+    "Section D-D (rear w/strip): .52 PARALLEL",
+    "Section E-E: labels SIDE DOOR GLASS, DOOR W/STRIP, REAR EDGE OF GLASS W/STRIP",
+    "View A (gage blocks at rear edge of glass): .44; .60; 8.00; .50",
+    "NOTE The dimensions given in these sections are nominal design dimensions."
+  ],
+  "notes_internal": [
+    "Drawing-only page for K12 (p151): no callouts, no parts, no torque legend, so no fastening entries.",
+    "Section cut lines A-A to E-E and View A arrow are marked on the door-glass/roof perspective at upper right.",
+    "View A: two hatched gage blocks between glass and rear roof seal rabbit; 8.00 spacing between blocks, .50 from the lower block to a reference edge; .44 and .60 are widths at top and middle (exact references not labelled).",
+    "Which dimension in Section C-C is .30 vs .06: .30 PARALLEL is the glass-to-flange offset at top, .06 PARALLEL the gap to the w/strip lip (matches step 13 '.06 minimum swing clearance').",
+    "Title block: drawing 3965172, DR CB/C1, CK 4-21-69 C1, PREL ?-10-6? (smudged), C/O K13; sheet box smudged, reads K13. Revision record empty. Sideways 'K150' at right."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

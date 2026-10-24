@@ -1,0 +1,25 @@
+{
+ "pn": "3828550",
+ "kind": "rivet",
+ "thread": null,
+ "length": "5/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "NCRS forum reply lists 3828548=7/16\", 3828549=9/16\", 3828550=5/8\"; poster in same thread says the differences among these are mostly length (grip), so 5/8 taken as length. Diameter not stated for this pn specifically (MAM sells a bundled 3/16 x 5/8 flat-head kit citing 3828546-3828550 together, not pn-specific). Hobbyist source; thread page itself returned 403, quote is from search snippet.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.forums.ncrs.org/forum/technical-discussion/85573-c3-rivet-identification?p=909264",
+   "title": "C3 Rivet Identification - NCRS Discussion Boards (search snippet)",
+   "quote": "3828548= 7/16\" 3828549= 9/16\" 3828550= 5/8\"",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.forums.ncrs.org/forum/technical-discussion/85573-c3-rivet-identification?p=909264",
+   "title": "C3 Rivet Identification - NCRS Discussion Boards (search snippet)",
+   "quote": "I strongly suspect that the difference with most or all of the rest of them is length.",
+   "accessed": "2026-10-24"
+  }
+ ]
+}

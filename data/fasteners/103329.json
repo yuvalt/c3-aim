@@ -1,0 +1,25 @@
+{
+  "pn": "103329",
+  "kind": "lock washer",
+  "thread": "1/2",
+  "length": null,
+  "head": "heavy split",
+  "drive": null,
+  "finish": null,
+  "notes": "AMK lists 103329 as 1/2 heavy split lock washer (AMK B-11346, also cross-refs 9420963). AMK row finish column says phosphate & oil while description says mech zinc; NCRS reply says 1033xx washers originally 'plain' finish. Second (forum) mention of 1/2 heavy seen in search summary only, URL not confirmed.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8935",
+      "title": "Bulk Fasteners Listing - AMK Products (search snippet; page 403)",
+      "quote": "10 pk Phosphate & Oil (LPM) 6028087 (Chry), 9420963, 103329 (s) B-11346 1/2 HVY SPLIT WA MECH ZC",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion/87123-do-washers-with-gm-103xxx-have-plain-finish-and-gm-131xxx-washers-are-zinc-plated?p=925695",
+      "title": "Do washers with GM 103XXX have plain finish... - NCRS (search snippet; page 403)",
+      "quote": "103320, 103321 and 103329 once were available ... These are all split lockwashers with a 'plain' finish",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

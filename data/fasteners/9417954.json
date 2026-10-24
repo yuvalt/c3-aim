@@ -1,0 +1,20 @@
+{
+  "pn": "9417954",
+  "kind": "nut",
+  "thread": "5/16-18",
+  "length": null,
+  "head": "hex",
+  "drive": null,
+  "finish": "phosphate & oil",
+  "grade": "5",
+  "notes": "Size from AMK cross-reference (B-12782, grade 5; also lists 33797-S2, 102634) via search snippet; AMK page 403'd. Paragon lists 187119 / 9417954 for 1960-73 engine fan clutch attaching kit (4 nuts + 4 lock washers) but no size was retrievable.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7105",
+      "title": "Hex Nuts - AMK Products bulk listing",
+      "quote": "9417954 ... 5/16-18 grade 5 hex nut ... phosphate and oil (AMK B-12782)",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

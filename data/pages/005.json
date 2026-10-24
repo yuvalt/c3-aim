@@ -1,0 +1,68 @@
+{
+  "page": 5,
+  "group": "0",
+  "sheet": "A3",
+  "title": "GENERAL INFORMATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Key to the symbols used on every AIM sheet: model 19000 means all models; a boxed number is a cross-reference, a numbered triangle is a torque (see the torque legend), a circled number is a revision, a half-filled circle marks RPO (option) parts installed like regular production, a tag such as '1a' is an applied material (grease, sealer, adhesive) listed in UPC 0, a 'Ref.' box above the sheet number points to related sheets, and a half-black square marks an existing item or part of an assembly.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "MODELS: SHEETS DESIGNATED 19000 REPRESENT ALL MODELS RELEASED FOR PRODUCTION"
+  ],
+  "notes_internal": [
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-24-69, C/O A3; model 19000. Revision record is empty.",
+    "Symbol column in the table describes the glyph in words; the page shows pictures."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "SYMBOLS",
+      "columns": [
+        "symbol",
+        "meaning"
+      ],
+      "rows": [
+        [
+          "boxed number [1]",
+          "INDICATES CROSS REFERENCING OF PART NUMBERS OR NOTES."
+        ],
+        [
+          "numbered triangle (1)",
+          "INDICATES TORQUE."
+        ],
+        [
+          "circled number (1)",
+          "INDICATES A REVISION"
+        ],
+        [
+          "half-filled circle",
+          "INDICATES RPO PARTS THAT ARE INSTALLED THE SAME AS REGULAR PRODUCTION OR INSTALLED THE SAME EXCEPT AS ILLUSTRATED."
+        ],
+        [
+          "tag '1a' with diamond",
+          "INDICATES APPLIED MATERIALS-ITEMIZED IN UPC 0. NUMERAL REPRESENTS A CERTAIN MATERIAL: LETTER REPRESENTS USAGE."
+        ],
+        [
+          "dashed box 'UPC 1 / Ref. A3 / A2' above sheet number",
+          "INDICATES RELATED SHEETS THAT CONTAIN INFORMATION REQUIRED TO COMPLETE A CERTAIN INSTALLATION. THIS IS NOTED ABOVE THE SHEET NUMBER"
+        ],
+        [
+          "half-black square",
+          "EXISTING ITEM(S) OR PART OF AN ASSEMBLY"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

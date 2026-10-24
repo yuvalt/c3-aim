@@ -1,0 +1,25 @@
+{
+  "pn": "3958062",
+  "kind": "screw",
+  "thread": "5/16-18",
+  "length": "9/16",
+  "head": "hex washer",
+  "drive": null,
+  "finish": "phosphate",
+  "notes": "Brake/fuel line clip to frame bolt, 1969-82. One other vendor listing (seen in search summary) described 5/16-24 x 1/2; Zip and AMK agree on 5/16-18 x 9/16. Downgraded in review: one vendor lists 5/16-24 x 1/2 (thread pitch disagrees); not resolved by majority.",
+  "confidence": "conflict",
+  "sources": [
+    {
+      "url": "https://www.zip-corvette.com/69-82-fuel-brake-line-clip-bolts.html",
+      "title": "1969-1982 Corvette Fuel/Brake Line Clip Bolts (GM Part 3958062) - Zip",
+      "quote": "The bolts are 5/16-18 x 9/16 hex washer head style.",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-products/?Product_ID=10415",
+      "title": "(MUH) 3958062 - AMK Products (search snippet; page 403)",
+      "quote": "5/16-18 X 9/16 HXWA T PHOS.",
+      "accessed": "2026-10-24"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "page": 151,
+  "group": "1",
+  "sheet": "K12",
+  "title": "GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19437"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Coupe (19437) side door glass adjustment, 19 steps: fit the windshield-side weatherstrip and retainer, set the door glass with its guide cams, idler cams, anti-rattle cushions and up/down stops against gage blocks at the rear roof seal rabbit, fit the rear glass weatherstrip, then recheck door fit, glass engagement and roof panel weatherstrip after the body is mounted to the frame. Sections and View A are on the next sheet (K13).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "A"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "birdcage (windshield pillar), through the w/shield side w/strip retainer",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Screws \"A\" hold the w/shield side w/strip retainer. Step 1: install retainer with the lower two screws \"A\" loosely engaged. Step 8: drill the upper attaching hole in the birdcage through the clearance hole in the w/strip, then tighten all three screws \"A\" to the specified torque.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "B"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "2 front + 2 rear",
+      "torque_ref": null,
+      "note": "Bolts \"B\" are the guide cam upper attaching bolts: two on the front guide cam (step 6a, tightened after setting front-edge engagement and parallel condition, Section A-A) and two on the rear guide cam (step 9b, after setting the rear edge to the gage blocks, View A). Step 18: loosen the four bolts \"B\" (with the two bolts \"D\") to reset the tumble home (lateral glass to w/strip interference) after body drop.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "C"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two idler cam attaching bolts \"C\" (step 6b). Step 14: loosen them to correct the angle (parallel condition of the glass front edge to the w/shield side w/strip) after body drop, then retorque.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "D"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "1 front + 1 rear",
+      "torque_ref": null,
+      "note": "Bolt \"D\" locks each anti-rattle cushion. Step 7: push the front anti-rattle cushion outboard until it firmly contacts the glass, tighten bolt \"D\". Step 9c: rear anti-rattle cushion bolt \"D\" (cushion adjustment used to zero-in on the gage blocks). Step 18: loosened with the bolts \"B\" to reset tumble home.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "E"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two screws \"E\" hold the front and rear upper stops; set the stops in contact with the window rollers, then tighten (step 16). Controls glass full-up height.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "F"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Three screws \"F\" set the glass fore and aft relationship (step 15).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "G"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Rear guide cam lower attaching bolt \"G\" (step 9a); rear guide cam is adjusted at the belt line to bring the rear edge of the glass into contact with the two gage blocks on the rear roof seal rabbit (View A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "H"
+      ],
+      "how": "holds",
+      "holds": [],
+      "to": "door inner panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two screws \"H\" hold the lower stop: roll glass down until the upper edge is flush with the door outer panel, set the lower stop to the roller and tighten (step 17).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "ON TRIM LINE BEFORE BODY DROP",
+    "1. Ins[tall] w/shield side w/strip retainer with lower two screws \"A\" loo[sel]y engaged.",
+    "2. Cement the w/shield side w/strip in the retainer lining the top trim line of the w/strip flush with the upper outer corner of the header molding. (Do not apply cement to back of w/strip above retainer).",
+    "3. Install side door glass and all related parts with the attaching bolts to the door inner panel loosely engaged.",
+    "4. Roll the glass up until the front corner is approximately .50 inch below the front upper corner of the header molding.",
+    "5. Push the glass forward until it is slightly engaged in the groove in the w/shield side w/strip.",
+    "6. Push the glass and w/strip retainer outboard at the belt line until the nylon stabilizer button on the glass contacts the wedge surface on the door inner panel. Maintain front edge of glass relationship to w/strip for proper engagement and parallel condition. See Section A-A. Tighten the following screws to the specified torque. a. Two front guide cam upper attaching bolts \"B\". b. Two idler cam attaching bolts \"C\".",
+    "7. Push front anti-rattle cushion outboard until it firmly contacts the glass and tighten bolt \"D\" to the specified torque.",
+    "8. Lower the glass to provide access to the w/shield side w/strip retainer attaching screws. Apply cement to the upper corner of the header molding. Drill the upper attaching hole in the bird-cage through the clearance hole provided in the w/strip. Tighten the three screws \"A\" to the specified torque.",
+    "9. Adjust the rear guide cam at the belt line to bring the rear edge of glass into contact with the two gage blocks on the rear roof seal rabbit. See View A. Use adjustment of rear anti-rattle cushion to zero-in on relationship to the gage blocks. Tighten the following screws to the specified torque. a. Rear guide cam lower attaching bolt \"G\". b. Two rear guide cam upper attaching bolts \"B\". c. Rear anti-rattle cushion bolt \"D\".",
+    "10. Remove gage blocks and install the side door glass rear w/strip. Position the lower molded end detail on the lock pillar. C[los]e the door and fit the lower surface of the glass rear w/strip t[o th]e top surface of the door w/strip. (See Section E-E). With the door closed cement the w/strip above the belt line to the w/strip retainer with the upper flange inserted under the rear roof molding. Open the door and seal and cement the lower portion to the lock pillar.",
+    "AFTER BODY DROP",
+    "11. Install the front roof panel as required to obtain proper fit to the rest of the body. (See Section B-B). The side w/strip is to be loosely attached to the roof panel before installation.",
+    "12. Check door fit to body and door lock to striker relationship and correct as required for any misalignment derived from body mounting to frame.",
+    "13. Roll side door glass up to .06 minimum swing clearance to the outer lip on the side w/strip. Move glass forward or rearward as required by final height determination to obtain proper interference fit to the w/shield side w/strip. (See Section A-A).",
+    "14. Check the parallel condition of the front edge of glass to the w/shield side w/strip to determine if any misalignment has resulted from mounting the body to the frame. Correct as required by loosening the two bolts \"C\", correcting the angle, and retorquing the bolts. If this step is required it is necessary to simultaneously control the relationship given in step no. 13.",
+    "15. Tighten the three screws \"F\", to set the fore and aft relationship, to the specified torque.",
+    "16. Set front and rear upper stops in contact with the window rollers and tighten the two screws \"E\" to the specified torque.",
+    "17. Roll glass down until the upper edge is flush with the door outer panel, set the lower stop to the roller and tighten two screws \"H\" to the specified torque.",
+    "18. Roll glass to the full up position to determine if the lateral glass to w/strip interference fit was changed when mounting the body to the frame. Correct as required by loosening the four bolts \"B\" and the two bolts \"D\", resetting the tumble home and retorquing the bolts.",
+    "19. Adjust the roof panel side w/strip inboard or outboard as required to obtain the proper seal compression and a parallel relationship to the upper edge of glass. See Section C-C.",
+    "NOTE See Sheet K11."
+  ],
+  "notes_internal": [
+    "Text-only page: no drawing, no callouts, no torque legend. Sections A-A to E-E and View A are on K13 (p152). 'Specified torque' values are not given here (probably on K11 or the door hardware sheets).",
+    "Binder-hole damage: bracketed letters restored from context, not visible: step 1 'Ins[tall]', 'loo[sel]y'; step 10 'C[los]e', 't[o th]e'. No digits affected.",
+    "'w/shield' and 'w/strip' print as 'w,'strip', 'w strip' etc. in the scan; normalized. 'bird-cage' hyphenated across a line break in step 8, kept.",
+    "Lettered fasteners \"A\"-\"H\" are not item numbers (page has no parts list); recorded in fastening with the letter as fastener_items and holds empty.",
+    "Title block: drawing 3965172, DR CB/C1, CK 4-21-69 C1, PREL 4-1?-69 (second digit of day unclear), C/O K12; revision record empty. Sideways 'K149' at left."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page": 4,
+  "group": "0",
+  "sheet": "A2",
+  "title": "GENERAL INDEX",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Table of contents for the whole 1970 AIM: the sheets of UPC 0 (general information, spring chart, trim heights, labels, VIN plate, shipping, lubrication, cements and sealers, paint and trim color charts, water test) and the section letters within each UPC group 1-14 (body, frame, suspension, brakes, engine, transmission, fuel and exhaust, steering, wheels, sheet metal, electrical, bumpers), plus the option index. Use it to find which UPC and sheet-letter series covers a system.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Sheet D?-D9: second sheet id is ambiguous between D5 and D6 at 300 dpi (Vision OCR read D5-D9); left as ?.",
+    "Revision 1 text: 'ITEM A1? THRU A22 REMOVED' - digit after A1 unreadable handwriting. Revision 1 and 3 dates are mostly illegible; only '-70' of rev 3 is clear.",
+    "Circled revision symbols on the page: (1) below the A13 line (where removed A1? thru A22 lines were), (3) next to the E1 a/b color chart lines, (2) at lower right next to a sideways 'K2' mark.",
+    "Hole punch obscures part of 'BOLTING & WELDING' heading under UPC 1 and the area left of 'Introduction'; no sheet id is printed for Introduction.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-26-69, C/O A2; model 19000 (all models). No schema field for drawing number.",
+    "UPC 7 subsections start at B (no A printed)."
+  ],
+  "revisions": [
+    {
+      "date": "",
+      "sym": "1",
+      "text": "ITEM A1? THRU A22 REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "CARRYOVER NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "?-?-70",
+      "sym": "3",
+      "text": "3966750-1 CHARTS ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "UPC 0 GENERAL INFORMATION",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "",
+          "Introduction"
+        ],
+        [
+          "A2",
+          "General Index"
+        ],
+        [
+          "A3-A4",
+          "General Information"
+        ],
+        [
+          "A5-A7",
+          "General Instructions"
+        ],
+        [
+          "A8",
+          "Bonding Instructions"
+        ],
+        [
+          "A9",
+          "Stapling Instructions"
+        ],
+        [
+          "A10",
+          "Cowl & Da Pnl Hole Piercing"
+        ],
+        [
+          "A11",
+          "Cowl & Da Pnl Hole Piercing Air Conditioning"
+        ],
+        [
+          "A12",
+          "Spring Chart"
+        ],
+        [
+          "A13",
+          "Trim Heights"
+        ],
+        [
+          "B1",
+          "Labels & Stickers"
+        ],
+        [
+          "B2",
+          "Vehicle Identification No. Plate, V.I.N. Specs"
+        ],
+        [
+          "B3",
+          "Vehicle Protect-O-Plate"
+        ],
+        [
+          "C1",
+          "Misc. Shipping List"
+        ],
+        [
+          "C2",
+          "Shipping Protection"
+        ],
+        [
+          "D1-D4",
+          "Lubrication"
+        ],
+        [
+          "D?-D9",
+          "Cements & Sealers"
+        ],
+        [
+          "D10",
+          "Fill Items, Gasoline & Misc."
+        ],
+        [
+          "E1",
+          "Paint & Trim"
+        ],
+        [
+          "E1 a",
+          "3966750 Chart-Color & Paint"
+        ],
+        [
+          "E1 b",
+          "3966751 Chart-Color & Trim"
+        ],
+        [
+          "F1",
+          "Water & Vacuum Water Test"
+        ],
+        [
+          "F2",
+          "Water & Vacuum Water Test"
+        ],
+        [
+          "G1",
+          "Export Information (Open)"
+        ]
+      ]
+    },
+    {
+      "title": "UPC GROUPS AND SECTIONS",
+      "columns": [
+        "upc",
+        "upc_title",
+        "section",
+        "section_title"
+      ],
+      "rows": [
+        [
+          "1",
+          "BODY",
+          "",
+          "BOLTING & WELDING"
+        ],
+        [
+          "1",
+          "BODY",
+          "A",
+          "Cowl, Dash & Door Frame"
+        ],
+        [
+          "1",
+          "BODY",
+          "B",
+          "Underbody, Roof & Sides"
+        ],
+        [
+          "1",
+          "BODY",
+          "C",
+          "Final & Checking"
+        ],
+        [
+          "1",
+          "BODY",
+          "",
+          "ASSEMBLY"
+        ],
+        [
+          "1",
+          "BODY",
+          "D",
+          "Dash Panel Area"
+        ],
+        [
+          "1",
+          "BODY",
+          "E",
+          "Instrument Panel Area"
+        ],
+        [
+          "1",
+          "BODY",
+          "F",
+          "Body Complete"
+        ],
+        [
+          "1",
+          "BODY",
+          "G",
+          "Mounting"
+        ],
+        [
+          "1",
+          "BODY",
+          "H",
+          "Sealing"
+        ],
+        [
+          "1",
+          "BODY",
+          "J",
+          "Seats"
+        ],
+        [
+          "1",
+          "BODY",
+          "K",
+          "Doors"
+        ],
+        [
+          "1",
+          "BODY",
+          "M",
+          "Heater"
+        ],
+        [
+          "2",
+          "FRAME",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "FRONT SUSPENSION",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "REAR SUSPENSION",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "BRAKES",
+          "A",
+          "Cylinder Mounting & Lever"
+        ],
+        [
+          "5",
+          "BRAKES",
+          "B",
+          "Pipes"
+        ],
+        [
+          "5",
+          "BRAKES",
+          "C",
+          "Parking"
+        ],
+        [
+          "6",
+          "ENGINE",
+          "A",
+          "Belt Trains"
+        ],
+        [
+          "6",
+          "ENGINE",
+          "B",
+          "Cooling, Electrical & Mtg."
+        ],
+        [
+          "6",
+          "ENGINE",
+          "C",
+          "Carburetion & Exhaust"
+        ],
+        [
+          "6",
+          "ENGINE",
+          "D",
+          "Controls"
+        ],
+        [
+          "7",
+          "TRANSMISSION",
+          "B",
+          "Floor Mounted Controls"
+        ],
+        [
+          "7",
+          "TRANSMISSION",
+          "C",
+          "Clutch"
+        ],
+        [
+          "8",
+          "FUEL & EXHAUST",
+          "A",
+          "Exhaust System"
+        ],
+        [
+          "8",
+          "FUEL & EXHAUST",
+          "B",
+          "Fuel System"
+        ],
+        [
+          "9",
+          "STEERING",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "WHEELS & TIRES",
+          "",
+          ""
+        ],
+        [
+          "11-13",
+          "SHEET METAL-RAD. GRILLE",
+          "A",
+          "Outer Panels"
+        ],
+        [
+          "11-13",
+          "SHEET METAL-RAD. GRILLE",
+          "B",
+          "Inner Panels"
+        ],
+        [
+          "12",
+          "ELECTRICAL",
+          "A",
+          "Engine"
+        ],
+        [
+          "12",
+          "ELECTRICAL",
+          "B",
+          "Instrument Panel"
+        ],
+        [
+          "12",
+          "ELECTRICAL",
+          "C",
+          "Body"
+        ],
+        [
+          "12",
+          "ELECTRICAL",
+          "D",
+          "Diagrams"
+        ],
+        [
+          "14",
+          "BUMPERS & MISCELLANEOUS",
+          "A",
+          "Front Bumpers"
+        ],
+        [
+          "14",
+          "BUMPERS & MISCELLANEOUS",
+          "B",
+          "Rear Bumpers"
+        ],
+        [
+          "14",
+          "BUMPERS & MISCELLANEOUS",
+          "C",
+          "Miscellaneous"
+        ],
+        [
+          "",
+          "OPTION INDEX",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-24"
+  }
+}
