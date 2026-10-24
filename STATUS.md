@@ -16,7 +16,7 @@
 - p430 (U69 A6): two numbers unreadable, not in registry (option sheets aren't).
 - Prompt updates from pilot agents not yet applied: chart part numbers as parts with `source: "table"`, fill-down rule for tables, `uncertain` on torques, rotated-crop command, per-agent crop folders.
 - Glossary (`data/glossary.csv`) not started; "halo", "birdcage", "T-top" etc.
-- Local model (Qwen-VL via Ollama) comparison: running on 112, 200, 142, 146.
+- Local model (Qwen-VL via Ollama, `local_read.py`): comparison run stopped before finishing; no results. Re-run if a free second reader is needed.
 - Fastener sizes: web search on top 50 (`data/fasteners/`, `prompts/fastener_lookup.md`): 13 sized (2 high, 11 medium), 4 conflicts, 31 not found. Covers only 11% of fastener callouts. Need the GM Standard Parts Catalog (user testing GMPartsWiki from home; forum ask).
 
 ## Next step
