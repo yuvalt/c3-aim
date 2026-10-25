@@ -1,0 +1,197 @@
+{
+  "page": 118,
+  "group": "1",
+  "sheet": "F24",
+  "title": "SILL PLATE & TRIM MOLDING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door sill plate (the scuff plate on top of the door sill) and the outside rocker/sill trim molding (the rocker molding below the door), LH/RH. The sill plate screws down onto the top of the sill; the rocker molding screws sideways into clip nuts on the body sill, with one screw from below at its front end into a nut at the front fender.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966607-8",
+      "name": "MOLDING",
+      "name_expanded": "Molding – rocker panel / sill trim molding (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966676",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3966677",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419322",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3846854",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "445109",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3912660",
+      "name": "PLATE",
+      "name_expanded": "Plate – door sill plate (sill scuff plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9423258",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50m",
+      "description": "CEMENT",
+      "amount": "Approx 10 in.",
+      "where": "upper right, on the body at the rear end of the door opening (lock pillar / sill area) above the molding's rear end"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "top of the door sill",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [8] go down through the sill plate [7] into the holes along the top of the sill (several places).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body sill / rocker area",
+      "qty": "3 shown",
+      "torque_ref": null,
+      "note": "Screws [2] go in from the outside through the molding [1] into clip nuts [6] on the body: one at the rear end, two at the front end and front-middle.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body sill (middle)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [3] goes in from the outside through the molding [1] near its middle/rear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "front fender lower rear edge",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [4] goes up from below through the front end of the molding [1] into nut [5] at the front of the door opening.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CEMENT-Approx 10 in."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips the bottoms of digits 3-4; the tops look like '66' but left as '??'.",
+    "Item 2: hole punch covers digits 3-5; visible '39' + '76'.",
+    "Torque triangles next to [2] and [3] are printed empty (no number); torque_ref left null.",
+    "Which clip nut [6] / [5] each screw [2] enters is read from dashed lines; nut [5] and one nut [6] are at the front, one nut [6] at the rear.",
+    "Exact placement of 50m cement is not clear from the tag alone.",
+    "Stamp 'K116' ignored. No revisions. C/O box is overwritten; PREL F1 1-10-69."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

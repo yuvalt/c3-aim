@@ -1,0 +1,125 @@
+{
+  "page": 78,
+  "group": "1",
+  "sheet": "D5",
+  "title": "W/'S WIPER ACCESS DOOR & VENT GRILLE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield wiper access door (the vacuum-operated wiper door / wiper cover panel at the rear of the hood) and the cowl vent grille panel, all models. The grille panel [6] is screwed down onto the mounting pads on the cowl with screws [2]; the access door panel [1] pivots on the door control linkage at each end, attached with bolt [5], washer [4] and bushings [3]. Related sheets: D3 (control linkage), D4 (actuator and limit switch).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3942792",
+      "name": "PANEL ASM. - ACCESS DR.",
+      "name_expanded": "Panel assembly – wiper access door (wiper door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9427723",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3922010",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3940537",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3922099",
+      "name": "BOLT",
+      "name_expanded": "Bolt (door pivot)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3938153",
+      "name": "GRILLE PANEL",
+      "name_expanded": "Grille panel – cowl vent grille",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "mounting pads on the cowl (left, center, right)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [2] go down through the grille panel [6] flange into the cowl pads; dashed lines show two holes at each of three pads.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "4",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "access door control linkage arm at the door end",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Right end shown: bolt [5] with washer [4] passes through bushings [3] in the linkage arm into the access door [1] end bracket.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque legend triangles 1-5 are blank (no values printed), although triangles 1 and 2 are tagged on [2] and [5].",
+    "Only the RH end of the door pivot is detailed; LH end assumed similar but not shown.",
+    "Margin stamp 'K76' near the title block. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

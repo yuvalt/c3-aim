@@ -1,0 +1,234 @@
+{
+  "page": 121,
+  "group": "1",
+  "sheet": "F27",
+  "title": "SEAT BELT & SHOULDER HARNESS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Seat belts (lap belts and buckles) for both seats, plus the coupe (19437) shoulder harness that runs from behind the seat over the guide pin on the seat back. Belt ends are bolted to floor anchors beside and behind the seats, a fitting behind the seat is bolted down through a hole in the carpet (View B), and a cable assembly is held to a plate by a lock nut (View A). Boots cover the belt ends; a small clip is screwed on near the front of the seat.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976580",
+      "name": "SHOULDER HARN. ASM CHART (19437)",
+      "name_expanded": "Shoulder harness assembly (see chart), coupe only",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "1",
+      "pn": "3977846",
+      "name": "SEAT BELT ASM CHART",
+      "name_expanded": "Seat belt (lap belt) assembly (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3958725",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9416166",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3977719",
+      "name": "BOLT",
+      "name_expanded": "Bolt – seat belt anchor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3956042",
+      "name": "BOLT",
+      "name_expanded": "Bolt – anchor behind seat (View B)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3977713",
+      "name": "CABLE ASM",
+      "name_expanded": "Cable assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3977710",
+      "name": "CHART-BOOT",
+      "name_expanded": "Boot – seat belt end (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9422299",
+      "name": "L. NUT",
+      "name_expanded": "Lock nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "30-45",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "floor anchors at the sides of the seat",
+      "qty": "2 shown (inboard buckle bracket and outboard belt end)",
+      "torque_ref": "4",
+      "note": "Main view, right seat: one bolt [4] goes sideways through the belt bracket into the anchor at the inboard side of the seat, the other through the eye of the outboard belt end into the floor anchor beside the seat.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "floor behind the seat",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B (arrow B, behind the seat by the rear quarter trim panel): bolt [5] goes down through the anchor fitting and the hole in the carpet into the floor; a tab on the fitting locates in the floor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "stud on the plate asm",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A (arrow A): the end bracket of cable [6] goes over a stud on the plate asm and is held by lock nut [8] from below; the cable is tab-crimped at the assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "panel at the lower front of the seat",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [3] goes through clip [2] into the panel below the front of the seat cushion.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Route shoulder harness over guide pin.",
+    "HOLE IN CARPET (View B)",
+    "TAB-CRIMP AT ASM. (View A)"
+  ],
+  "notes_internal": [
+    "Item 1 shoulder harness: binder hole covers the last digit; visible '397658' plus the top arc of one digit.",
+    "Boot [7]: slips over the belt end, no fastener.",
+    "View B fitting and View A cable [6]: the drawing does not say what each one is (retractor, anchor, ground); described by position only. Clip [2] mounting surface is not clear.",
+    "Label at top reads 'REAR QTR TRIM PANEL F' then the binder hole covers the rest of the word.",
+    "Revision 5 date reads 10-31-69 (handwritten, slightly smudged). Revision 7 'WAS 40-60': last 0 is open but reads as 0.",
+    "Title block drawing number 3965172; DR DD/C1, CK 4-18-69 C1, PREL F6, C/O 3-19-69 (as written); model 19000. 'K119' printed sideways at lower left. Torque triangle 5 printed with no value."
+  ],
+  "revisions": [
+    {
+      "date": "10-31-69",
+      "sym": "5",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-13-70",
+      "sym": "6",
+      "text": "3977846 WAS 3976570 SEAT BELT",
+      "was": "3976570",
+      "item": "1"
+    },
+    {
+      "date": "5-5-70",
+      "sym": "7",
+      "text": "TORQUE (4) WAS 40-60 LBS FT",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

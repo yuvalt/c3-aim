@@ -1,0 +1,208 @@
+{
+  "page": 97,
+  "group": "1",
+  "sheet": "F3",
+  "title": "SIDE RAIL WEATHER STRIP",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) soft top side rail weatherstrips (the rubber seals along the top's side rails that the door glass seals against): front and rear sections along the horizontal side rail and a vertical rear section down the rear rail. They are screwed up into the top's side rail frame from below, with nuts on the rail studs, set in sealing compound and lubricated at the glass contact.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3972329-30",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip, folding top side rail, front section (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3857243",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419329",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419350",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3945283-4",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip, folding top side rail, rear section (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9427651",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3919615-6",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip, folding top rear side rail, vertical section (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11c",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "front side rail weatherstrip [1], main view"
+    },
+    {
+      "key": "B",
+      "code": "84b",
+      "description": "SEALING COMPOUND",
+      "amount": "2.0 OZ.",
+      "where": "Views A and B, between weatherstrip retainers [1]/[5] and [7] and the side rail"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1",
+        "5"
+      ],
+      "to": "folding top side rail",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A and main view: screw [6] goes up from below through the weatherstrip channel into the side rail at the front end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "7"
+      ],
+      "to": "folding top side rail and rear rail",
+      "qty": "4 shown",
+      "torque_ref": "1",
+      "note": "Main view: screws [4] go up from below into the side rail at weatherstrip [5] and in from the side through the upper end of vertical weatherstrip [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1",
+        "5",
+        "7"
+      ],
+      "to": "folding top side rail",
+      "qty": "3 shown",
+      "torque_ref": null,
+      "note": "Main view: nut assemblies [2] thread onto weatherstrip studs, one on top of the side rail and two on the inboard side of the rear rail weatherstrip [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "folding top rear rail, lower end",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Main view: screw [3] goes through the lower end of weatherstrip [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "84b",
+      "holds": [
+        "1",
+        "5",
+        "7"
+      ],
+      "to": "folding top side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Views A and B: sealing compound 84b between the weatherstrip retainer and the rail.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".12 (View A, weatherstrip [1]/[5] to door glass, both sides)"
+  ],
+  "notes_internal": [
+    "Nut [2] placement: one on top of rail at weatherstrip [5], two on rear rail [7]; which weatherstrip each stud belongs to is not explicit.",
+    "View A callout reads '5 1', i.e. section applies to both [5] and [1].",
+    "Material 11c has no amount printed.",
+    "Revision block is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

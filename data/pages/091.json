@@ -1,0 +1,303 @@
+{
+  "page": 91,
+  "group": "1",
+  "sheet": "E8",
+  "title": "COMPARTMENT-UNDERBODY STORAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Behind-the-seat storage compartments: the storage compartment frame (the rear storage tray/door frame) with its hinges, and the center compartment box set over the floor tunnel. The frame is screwed down into spring nuts in the underbody; a striker with backing plate and a rubber bumper sit on the frame; the fiberboard center compartment and its shield are stapled together (4 + 18 places).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3962614",
+      "name": "HINGE ASM.",
+      "name_expanded": "Hinge assembly – storage compartment door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3962615",
+      "name": "HINGE ASM.",
+      "name_expanded": "Hinge assembly – storage compartment door (center)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919666",
+      "name": "COMPT-STORAGE",
+      "name_expanded": "Compartment – storage (frame/tray behind the seats)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9424862",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9423663",
+      "name": "STAPLE",
+      "name_expanded": "Staple",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9985028",
+      "name": "WIRE-OPT.",
+      "name_expanded": "Wire – optional (alternative to staple)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3926239",
+      "name": "SHIELD",
+      "name_expanded": "Shield – center compartment",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3926236",
+      "name": "COMPT-CENTER",
+      "name_expanded": "Compartment – center (box over the floor tunnel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9427761",
+      "name": "NUT-SPRING",
+      "name_expanded": "Nut – spring (clip nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3947935",
+      "name": "PLATE",
+      "name_expanded": "Plate – striker backing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9426552",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3945644",
+      "name": "STRIKER",
+      "name_expanded": "Striker – compartment door latch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3918670",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – rubber door stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3843505",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "14",
+        "9"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "underbody floor/tunnel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [14] go down through the storage compartment frame [4] into spring nuts [9] clipped on the underbody.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "12",
+        "10"
+      ],
+      "to": "storage compartment frame [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [11] goes down through the frame, striker [12] and backing plate [10] below it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "storage compartment frame [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bumper [13] pushes into a hole in the frame near the front corner.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "5"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "storage compartment frame [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [3] and [5] shown at the right end of the frame along the hinge line.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "center compartment [8]",
+      "qty": "4",
+      "torque_ref": null,
+      "note": "View A: staples [6] fasten the round shield [7] inside the center compartment [8], 4 places (A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "center compartment [8] (its own panels)",
+      "qty": "18",
+      "torque_ref": null,
+      "note": "Staples [6] along the side and end seams of the center compartment box, 18 places (B). Wire [6] is the optional alternative.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "floor tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Center compartment [8] sits on the tunnel between spring nuts [9]; no fastener drawn through it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A 4 Places.",
+    "B 18 Places."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes digits 3-5; visible '39' + '?14' (5th digit looks like 6, not certain).",
+    "Item 2: 3rd digit partly gone (bottom of a 6 or 0; Vision read 0); 4th digit shows only the base of a 2.",
+    "Rivets [3]/[5]: exactly which hinge or frame part they join is not clear in the drawing.",
+    "Center compartment [8]: how it is retained to the body is not shown.",
+    "'K89' printed sideways in the torque legend; meaning unknown. Triangles 3-5 blank. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

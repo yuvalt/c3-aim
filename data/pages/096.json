@@ -1,0 +1,224 @@
+{
+  "page": 96,
+  "group": "1",
+  "sheet": "F2",
+  "title": "FOLDING TOP LOCK ASM.",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) soft top front latches: the three locks (LH, center, RH paddle latches) in the folding top's front bow that clamp it to the windshield header, the header guides (alignment pins) on the windshield header, and the trim panel under the front bow. Locks are bolted into the front bow from the front (shimmed as required), the bracket and trim panel are screwed to the bow, and the guides are screwed up into the header. Locks are adjusted for a 13-16 lb release load at the paddle.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958703-4",
+      "name": "HEADER GUIDE",
+      "name_expanded": "Guide, windshield header (top front alignment guide, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3958726",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3962602",
+      "name": "LOCK ASM.-R.H.",
+      "name_expanded": "Lock assembly, folding top front, right hand",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3962601",
+      "name": "LOCK ASM.-L.H. & CENTER",
+      "name_expanded": "Lock assembly, folding top front, left hand and center",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3930361",
+      "name": "BRACKET",
+      "name_expanded": "Bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "588546",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3909073",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3930340",
+      "name": "TRIM PANEL",
+      "name_expanded": "Trim panel, folding top front bow (underside)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "140270",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3942704",
+      "name": "SHIM (LOCK ASM.)",
+      "name_expanded": "Shim, lock assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield header",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [2] goes up from below through header guide [1] into the windshield header; guides sit at each side (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4",
+        "5",
+        "11"
+      ],
+      "to": "front bow of folding top asm.",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Views B and C: screw assembly [3] goes in horizontally from the front through the bow into the lock [4]/[5]. Shim [11] is used at the forward location only, shim as required.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6",
+        "9"
+      ],
+      "to": "front bow of folding top asm.",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B and main view: screws [7] fasten bracket [6] to the top and the trim panel [9] up into the front bow from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "front bow of folding top asm., at the RH lock",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View C: screw [8] with washer [10] goes up from below through the trim panel [9].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "USE [11] AT FORWARD LOCATION ONLY & SHIM AS REQD",
+    "NOTE: Adjust locks to obtain a 13-16 lb release load at back edge of paddles."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-4; visible '39' + '703-4'.",
+    "Item 2: binder hole edge damages digits 3-4; looks like '3958726' but third and fourth digits not certain.",
+    "View C callouts for items 8 and 10 are hand-drawn and smudged (read as 8 and 10 by elimination of the callout list).",
+    "Tag [A] on locks [4]/[5] refers to the NOTE (adjust locks), not a material legend.",
+    "Revision block is empty; legend triangles 3-5 empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

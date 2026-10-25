@@ -1,0 +1,147 @@
+{
+  "page": 113,
+  "group": "1",
+  "sheet": "F19",
+  "title": "REAR WINDOW LOCKS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) removable rear window: the lock (latch) that holds the rear window at the rear roof, screwed on from below, and the rear window weatherstrip (rear window seal) glued along the window opening. The lock gets 11c lubricant; the weatherstrip is glued with 51k adhesive. Related sheets: F17 (rear window storage), F18 (rear window glass).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3964140",
+      "name": "WEATHERSTRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – rear window opening seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963103",
+      "name": "LOCK ASM.",
+      "name_expanded": "Lock assembly – rear window latch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9418894",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11c",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "View A, on lock [2]"
+    },
+    {
+      "key": "B",
+      "code": "51k",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "View A, under weatherstrip [1] in its channel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "rear roof panel at the rear window opening",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [3] goes up from below through the lock [2] into the panel; a second hole/stud is shown at the lock's other ear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51k",
+      "holds": [
+        "1"
+      ],
+      "to": "rear window opening flange",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Weatherstrip [1] runs around the rear window opening and is glued with 51k adhesive (View A).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Many items removed by revision (55e sealing compound, View B, cover 3963101-2, screw 159929); circled 1-4 symbols mark where they were.",
+    "C/O box reads F18.5; sheet F19 from the title block.",
+    "Only one screw [3] is drawn at the lock; the second ear shows a hole with a dashed line, fastener not called out."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "55e SEALING COMPOUND RMVD",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW B RMVD",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-3-70",
+      "sym": "3",
+      "text": "3963101-2 COVER RMV'D",
+      "was": "3963101-2",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "159929 SCREW (25-35 LBS IN) RMV'D",
+      "was": "159929",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "VIEW 'A' REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

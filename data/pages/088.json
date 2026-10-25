@@ -1,0 +1,191 @@
+{
+  "page": 88,
+  "group": "1",
+  "sheet": "E5",
+  "title": "FRONT CONSOLE & UNDERBODY TUNNEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front console (the center console over the transmission tunnel, under the shifter trim plate), all models. The shifter housing and the trim plate sit in the console opening and are held by a screw down through the trim plate into a U-nut on the console; the console's front edge clips over a reinforcement at the dash (View A) and its side is riveted at the front.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3843505",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3942780",
+      "name": "GUIDE",
+      "name_expanded": "Guide (shift lever slot, on housing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3958739",
+      "name": "HOUSING ASM.",
+      "name_expanded": "Housing assembly – shifter opening under the console trim plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963150",
+      "name": "CHART-FRONT CONSOLE ASM.",
+      "name_expanded": "Front console assembly (center console)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3918660",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement – front console, at instrument panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427761",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "front console [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes down from the top through the corner of the console trim plate and the flange of housing asm. [3] into U-nut [7] clipped on the front console [4] (dash-dot line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "housing asm. [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Guide [2] fits into the shift lever slot of housing [3]; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "reinforcement [6] at the instrument panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (assembled): the front edge of the console [4] hooks over the flange of reinforcement [6]; dash-dot lines show the reinforcement's holes lining up with the dash and console top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body at the front of the tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [5] goes in from the LH side through a hole in the front vertical part of the console [4].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "TRIM PLATE (labeled, top of console)",
+    "VIEW A ASSEMBLED"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-5; visible '3' + hole + '05'.",
+    "Reinforcement [6]: how it is fastened to the dash is not shown (dash-dot lines only).",
+    "Rivet [5]: what it goes into behind the console is not labeled.",
+    "Revision 1 text is faded: reads 'TRIM PLATE DWG REVISED' (first letters faint). Revision 2: first letter hidden by the column line, reads '(I)TEM (4) DWG REVISED'.",
+    "Circled 1 on the trim plate, circled 2 at the rear of console [4], circled 3 at rivet [5].",
+    "Triangles 2-5 blank. Sideways 'K86'. Title block: drawing 3965172, L-82112, L-83567, L-88646, DR DP/C1, CK 5-2-69 C1, PREL 5-1-69, C/O E5."
+  ],
+  "revisions": [
+    {
+      "date": "1-9-70",
+      "sym": "1",
+      "text": "TRIM PLATE DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM (4) DWG REVISED",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "RIVET LOCATION REVISED",
+      "was": null,
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

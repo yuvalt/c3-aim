@@ -1,0 +1,187 @@
+{
+  "page": 117,
+  "group": "1",
+  "sheet": "F23",
+  "title": "O/S R. VIEW MIRROR, EMBLEM & RADIO ANTENNA HOLE PLUG",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front nose emblem (the crossed-flags emblem on the front panel), the outside rear view mirror on the LH door, and the radio antenna hole plug. The emblem is held by nuts on its studs from behind the front panel; the mirror bracket and gasket screw to the existing tapping plate in the door and the mirror base locks onto the bracket with a set screw; the plug fills the antenna lead hole at the underbody closing panel behind the cockpit (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3912706",
+      "name": "EMBLEM",
+      "name_expanded": "Emblem – front (nose) emblem",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9419761",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3914529",
+      "name": "MIRROR ASM.",
+      "name_expanded": "Mirror assembly – outside rear view mirror (door mirror)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3839808",
+      "name": "SCREW",
+      "name_expanded": "Screw – mirror base set screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9417706",
+      "name": "SCREW",
+      "name_expanded": "Screw – mirror bracket to door",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3922027",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – mirror mounting bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3914599",
+      "name": "GASKET",
+      "name_expanded": "Gasket – mirror base gasket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3958717",
+      "name": "PLUG",
+      "name_expanded": "Plug – radio antenna hole plug",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "front panel (nose, between the headlamp doors)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Emblem [1] studs go through the front panel; nut asm. [2] is threaded on from underneath/behind (2 studs shown).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "existing tapping plate in the door",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [5] goes down through bracket [6] and gasket [7] into the existing tapping plate in the door outer panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: the mirror base slips over bracket [6]; screw [4] goes in from the side of the base to lock it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "antenna lead hole at the U/body closing panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: plug [8] is pushed (snap fit) into the hole beside the antenna lead grommet, rear of the cockpit (arrow A on the car view).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "EXISTING TAPPING PLATE.",
+    "U/BODY CLOSING PANEL"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digits 3-5; visible '39' + '06' (a partial digit before 06).",
+    "Item 2: fourth digit printed as a broken glyph ('y' shape), most likely a 9 but left as '?'.",
+    "View B shows one screw [5] but bracket [6] has two holes; qty not given.",
+    "View A: what plug [8] closes is inferred from the title (radio antenna hole plug); the drawing shows the plug next to a grommet with a lead through it.",
+    "Gasket [7] seals under bracket [6]; included in the screw [5] entry.",
+    "Stamp 'K115' in the torque legend ignored. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

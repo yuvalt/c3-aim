@@ -1,0 +1,233 @@
+{
+  "page": 82,
+  "group": "1",
+  "sheet": "D9",
+  "title": "DASH MAT, INSULATORS & SPLASH SHIELD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Firewall (dash panel) sound insulation and the underbody splash shields, all models: the LH and RH plenum panel insulators [6]/[1] glued (51e adhesive) along the cowl plenum, the dash mat [2], and the dash insulator [5] with its cover [3], held to the dash panel by push-in fasteners [4] with 53a sealer. The underbody splash shields [7] (inner wheelhouse / kick area, View A) attach at the top with nut [10], rivet [9] and bracket [8]; the lower attachment is on sheet UPC 1 B/W. Perforated areas marked C are removed only on cars with RPO C60 air conditioning.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3948154",
+      "name": "INSULATOR-PLENUM PNL R.H.",
+      "name_expanded": "Insulator – plenum panel, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3964154",
+      "name": "MAT ASM.",
+      "name_expanded": "Mat assembly – dash (firewall insulation mat)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3956189",
+      "name": "COVER-DASH",
+      "name_expanded": "Cover – dash (over dash insulator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3868790",
+      "name": "FASTENER",
+      "name_expanded": "Fastener (push-in retainer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3956230",
+      "name": "INSULATOR-DASH",
+      "name_expanded": "Insulator – dash",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3948153",
+      "name": "INSULATOR-PLENUM PNL L.H.",
+      "name_expanded": "Insulator – plenum panel, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3947977",
+      "name": "SHIELD-U/BODY SPLASH L.H.",
+      "name_expanded": "Shield – underbody splash, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3963112",
+      "name": "SHIELD-U/BODY SPLASH R.H.",
+      "name_expanded": "Shield – underbody splash, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3918535",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly (splash shield upper)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3866846",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51e",
+      "description": "ADHESIVE",
+      "amount": ".15 OZ.",
+      "where": "under plenum panel insulators [6] and [1] on the cowl plenum"
+    },
+    {
+      "key": "B",
+      "code": "53a",
+      "description": "SEALER",
+      "amount": ".5 OZ.",
+      "where": "at the fastener [4] holes in the dash panel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51e",
+      "holds": [
+        "6",
+        "1"
+      ],
+      "to": "cowl plenum panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plenum insulators [6] LH and [1] RH bonded along the plenum with 51e.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3",
+        "5"
+      ],
+      "to": "dash panel (firewall)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Push-in fasteners [4] go through cover [3] and insulator [5] into holes in the dash panel; 53a sealer at the holes. Three fasteners shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "dash panel (firewall)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Dash mat [2] positioned on the dash panel over the existing holes (dashed lines); attachment not called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket [8] / body at the top of the shield",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: at the top edge, nut [10] on a stud through the shield tab and rivet [9] next to it; bracket [8] at the upper end. Bottom edge fastener: see UPC 1 B/W.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "For hole drilling info, see UPC 0.",
+    "C: Remove along perforated area for RPO C60 only.",
+    "Splash shield lower attachment: see UPC 1 B/W."
+  ],
+  "notes_internal": [
+    "Item 1 name: hole punch wipes letters ('PLI M'); read as PLENUM by match with item 6.",
+    "View A: how bracket [8] itself is attached is not clear; rivet [9] leader forks to two points near nut [10].",
+    "Dash mat [2]: no fastener called out.",
+    "Title block C/O area shows 'PREL D3 1-31-69'. Torque triangles 2-5 blank. Margin stamp 'K80'. No revisions."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

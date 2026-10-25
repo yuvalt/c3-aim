@@ -1,0 +1,112 @@
+{
+  "page": 124,
+  "group": "1",
+  "sheet": "F30",
+  "title": "ROOF PANEL STOWAGE",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) roof panel stowage: the strap that holds the removable roof panels (T-tops) on the rear deck luggage rack area when stored. The strap assembly runs between two hangers, one at each end; each hanger sits on spacers over holes in the rear deck and is screwed down.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3781287",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3814762",
+      "name": "HANGER",
+      "name_expanded": "Hanger – roof panel strap anchor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9422205",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3936351",
+      "name": "STRAP ASM.-CHART",
+      "name_expanded": "Strap assembly – roof panel (T-top) stowage strap (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "rear deck, through the marked holes",
+      "qty": "2 hangers (one at each end of the strap)",
+      "torque_ref": "1",
+      "note": "Each hanger [2] sits on two spacers [1] placed over two holes in the deck; screw [3] goes down through the hanger and spacer into the hole. One screw is drawn per hanger.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear deck",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The end loops of strap [4] hook over the hangers [2] at the front and rear ends.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "HOLES (2 places, marked with a boxed symbol)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-6; visible '378' + '7'.",
+    "Item 2: binder hole covers the 5th digit and parts of the 4th and 6th; '4' and '6' read from their visible halves (OCR agrees: 3814762).",
+    "The boxed symbol next to HOLES has a mark inside that can't be read (a hole code reference).",
+    "Only one screw [3] is drawn per hanger though each hanger has two spacers; unclear what holds the other end.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-28-69 C1, PREL 4-24-69, C/O F29; model 19437. Revision record is empty. 'K122' printed sideways. Torque triangles 2-5 empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

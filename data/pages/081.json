@@ -1,0 +1,61 @@
+{
+  "page": 81,
+  "group": "1",
+  "sheet": "D8",
+  "title": "WINDSHIELD WIPER SETTING PROCEDURE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "How to set the windshield wiper arms and blades (wiper park position and sweep), all models; used with sheet D6. The arms and blades go onto the keyed transmission pivots, the linkage is attached to the motor crank with the ball centered in the slot, the blades are parked 1.00 below and then on the park stop bracket, and the sweep is adjusted with screws \"A\" so the blade tips stop .75 from the glass edge (DLO).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "wiper motor crank (sheet D6 linkage [3])",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nuts that come with the transmission assembly attach linkage [3] to the motor crank with the ball centered in the slot: finger tight at step 2, torqued at step 5 after both blades are positioned.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "A"
+      ],
+      "holds": [],
+      "to": "wiper arms (sheet D6 rod [2])",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screws \"A\" adjust the blade sweep so the blade tips stop .75 from the DLO (step 7).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Use with Sheet D6.",
+    "1. Fit rod [2] and blade [1] onto transmission [3]; the key on the transmission locates them in one position.",
+    "2. Attach linkage [3] to the motor crank with the ball in the center of the slot; finger-tighten the nuts (supplied with the transmission).",
+    "3. Set the toe of the LH blade 1.00 below the park stop bracket.",
+    "4. Set the toe of the RH blade above and touching the LH blade.",
+    "5. Torque the step-2 nuts.",
+    "6. Move the blades onto the upper surface of the park stop bracket.",
+    "7. Run the wipers on a wet windshield and adjust with screws \"A\" until the blade tips are .75 from the DLO.",
+    ".75 (blade tip to D.L.O., both ends of the sweep)",
+    "1.00 (below bracket stop)"
+  ],
+  "notes_internal": [
+    "Item numbers refer to sheet D6 (p79); no parts list on this sheet.",
+    "D.L.O. = daylight opening (visible glass edge).",
+    "Torque legend triangles blank; no revisions. Margin stamp 'K79'."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

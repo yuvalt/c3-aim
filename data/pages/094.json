@@ -1,0 +1,378 @@
+{
+  "page": 94,
+  "group": "1",
+  "sheet": "E11",
+  "title": "SUNSHADE & INSIDE REAR VIEW MIRROR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Sun visors (sunshades) and the inside rear view mirror on the windshield header. Each sunshade pivots on an outboard and an inboard support screwed to the header. View A shows the center of the header: on convertibles (19467) the top's header lock striker is screwed into a nut and greased, on coupes (19437) a shim and bracket are screwed on instead; the mirror bracket, retainer and cover screw on below, and the mirror is screwed to the bracket arm.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "565842",
+      "name": "SCREW",
+      "name_expanded": "Screw – mirror to support arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "565801",
+      "name": "COVER CHART",
+      "name_expanded": "Cover chart (mirror)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "916177",
+      "name": "MIRROR ASM.",
+      "name_expanded": "Mirror assembly – inside rear view",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "4",
+      "pn": "3952960",
+      "name": "SUNSHADE ASM. CHART",
+      "name_expanded": "Sunshade assembly chart (sun visor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9414766",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3952963-4",
+      "name": "SUPT.-OUTBOARD",
+      "name_expanded": "Support – sunshade outboard (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3952961-2",
+      "name": "SUPT.-INBOARD",
+      "name_expanded": "Support – sunshade inboard (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "455959",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9414755",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3934909",
+      "name": "STRIKER-HEADER LOCK",
+      "name_expanded": "Striker – convertible top header lock",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3934997",
+      "name": "SHIM",
+      "name_expanded": "Shim",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3934906",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – header",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9418378",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9427627",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3926381",
+      "name": "COVER CHART",
+      "name_expanded": "Cover chart (mirror bracket cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3926379",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3926378",
+      "name": "BRACKET-RR. VIEW MIRROR",
+      "name_expanded": "Bracket – rear view mirror",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "9427982",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "40-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11a",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "View A, top of header lock striker [10]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "windshield header",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [5] goes up through outboard support [6] into the header; the sunshade [4] pivot rod plugs into the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "windshield header",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [8] goes up through inboard support [7] into the header; the sunshade's inboard end clips onto the support rod.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "supports [6] and [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sunshade [4] pivots on the supports; after install it must take 7-15 lbs pull to raise or lower.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "mirror support arm",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes through the arm's pivot into the mirror's mounting ear; cover [2] on the opposite side of the ear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "18"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "windshield header (center)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A, convertible (19467): screws [9] go up through the header lock striker [10] into nut [18]; striker greased with 11a.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "12",
+        "11"
+      ],
+      "to": "windshield header (center)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A, coupe (19437): bracket [12] with shim [11] above it, held by screws [13]. Hole 11/64 + 1/64 dia. (19437).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "17"
+      ],
+      "to": "bracket [12] / header",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [9] goes up through the mirror bracket [17].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "16",
+        "15"
+      ],
+      "to": "mirror bracket area at the header",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: screw [14] holds retainer [16]; cover [15] fits over it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "After the sunshade is installed on the windshield header and raised and lowered 5 cycles, it must take a pull of 7 lbs. to 15 lbs. to raise or lower it, gauged near the center of the sunshade.",
+    "11/64 + 1/64 DIA. (19437)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes digits 2-4; '5' + '???' + '42'.",
+    "Item 3: first digit faint (looks like 9; Vision OCR read 5).",
+    "View A: exact stacking of bracket [12], shim [11] and mirror bracket [17] and which screws [9] go where is partly inferred from dash lines.",
+    "Cover [2] is drawn near mirror ear; whether it's a cap over screw [1] is not clear.",
+    "Torque triangle 5 blank. No revisions. 'K92' printed sideways; meaning unknown."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

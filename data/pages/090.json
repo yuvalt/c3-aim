@@ -1,0 +1,200 @@
+{
+  "page": 90,
+  "group": "1",
+  "sheet": "E7",
+  "title": "REAR CONSOLE-UNDERBODY TUNNEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear console (the console cover over the underbody tunnel behind the shifter). The console's studs pass down through the trim ring, seal and retainer and are held from below with stamped nuts; the trim ring's own studs are staked after assembly. View A (front end of the console) shows the insert, bezel and LH/RH clips riveted together and hooked under the console's front edge.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3977711",
+      "name": "CONSOLE ASM. - RR",
+      "name_expanded": "Console assembly – rear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3918667",
+      "name": "TRIM RING",
+      "name_expanded": "Trim ring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3918665",
+      "name": "SEAL",
+      "name_expanded": "Seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918666",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419841",
+      "name": "NUT-STAMPED",
+      "name_expanded": "Nut – stamped (push-on)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921541",
+      "name": "INSERT",
+      "name_expanded": "Insert",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3921542",
+      "name": "BEZEL",
+      "name_expanded": "Bezel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3921543-4",
+      "name": "CLIP",
+      "name_expanded": "Clip (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9409248",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-?0",
+      "unit": "LBS IN",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "to": "underbody tunnel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Studs on the underside of console [1] pass down through trim ring [2], seal [3] and retainer [4]; stamped nuts [5] go on from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "trim ring [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Studs on trim ring [2] pass through seal [3] and retainer [4]; NOTE: stake after assembly.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "6",
+        "7",
+        "8"
+      ],
+      "to": "front end of console [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivets [9] go down through insert [6], bezel [7] and clip [8]; the insert hooks under the console's front edge.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Stake after assembly"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch over the 5th digit; top stroke looks like 7, Vision OCR read 2.",
+    "Item 2: hole punch wipes digits 4-6; only '391' and final '7' readable.",
+    "Torque 1: second number reads '30' or '80' through speckle; first digit left as '?'.",
+    "Revision 1: last three digits after 'WAS 3956' are faint (look like 000) and left as '?'.",
+    "Second leader of the stake note runs toward the View A console edge; exact staked point there unclear.",
+    "'K88' printed sideways above the title block; meaning unknown."
+  ],
+  "revisions": [
+    {
+      "date": "11-18-69",
+      "sym": "1",
+      "text": "WAS 3956??? CHART-COVER",
+      "was": "3956???",
+      "item": "1"
+    },
+    {
+      "date": "5-18-70",
+      "sym": "2",
+      "text": "WAS 3958750 CONSOLE",
+      "was": "3958750",
+      "item": "1"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

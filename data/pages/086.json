@@ -1,0 +1,318 @@
+{
+  "page": 86,
+  "group": "1",
+  "sheet": "E3",
+  "title": "WIPER SWITCHES & MAP HOLDER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield wiper switch and the second (lower LH) switch with its valve, plus the map holder (the glove box / map pocket behind the RH dash door), all models. The wiper switch [2] is screwed to the back of the panel with its knob [4] in front; switch [10] is held from below by a lock washer and nut with knob [7] threaded on; the map pocket [14] is screwed to the door and the door assembly hangs on springs and rivets, screwed to the panel into a nut (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9420494",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "1993481",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – windshield wiper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3954231",
+      "name": "BUSHING",
+      "name_expanded": "Bushing (on switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937629",
+      "name": "KNOB",
+      "name_expanded": "Knob – wiper switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3928819",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9420345",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "1991063",
+      "name": "KNOB",
+      "name_expanded": "Knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "7235969",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "135629",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3975371",
+      "name": "SWITCH",
+      "name_expanded": "Switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "5638317",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly (vacuum)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3962616",
+      "name": "SPRING",
+      "name_expanded": "Spring – map holder door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "455622",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3962660",
+      "name": "POCKET CHART",
+      "name_expanded": "Map pocket (map holder liner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9423470",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "445194",
+      "name": "NUT",
+      "name_expanded": "Nut (clip-on)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "9423826",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20 - 30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10 - 15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "back of the instrument panel (console)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes through the ear of switch asm. [2] into the panel from behind; the switch shaft with bushing [3] comes through the panel and knob [4] goes on in front. Bushing [3] must be assembled to the switch before the switch is installed.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "instrument panel (RH lower, map holder area)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [6] threads on from behind onto the stud of cover asm. [5] (dashed line from the cover's mounting hole to the nut).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "bracket under the LH instrument panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Switch [10] goes down through the bracket; lock washer [9] and nut [8] go on from below, then knob [7] threads on the end. Valve asm. [11] sits beside it on the same bracket; the bracket is held by a screw (see UPC 12).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "map holder door/box",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: map pocket [14] is folded up, its flaps put in the slot, and it is screwed on with screws [15] through the row of holes along its edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17",
+        "16"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "instrument panel at the map holder opening",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [17] goes in from the side into nut [16] on the map holder's side flange; springs [12] hook between the panel and the holder.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [],
+      "to": "map holder door",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [13] at the top edge of the holder (pivot/attachment point).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Bushing must be asm to switch before switch is installed in console.",
+    "NOTE: Fold up, install flaps in slot as shown. (INSTALLED POSITION)",
+    "SCREW (SEE UPC 12)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-7; visible '942'.",
+    "Switch [10] / valve [11]: function not labeled on this sheet (sheet title says wiper switches; likely the wiper door override / washer controls).",
+    "Cover asm. [5]: oval part near arrow A on the RH lower dash; purpose not labeled.",
+    "Rivet [13] and spring [12]: exact what-to-what not clear in View A.",
+    "No revisions. Sideways 'K84'; triangles 4-5 blank. Title block: drawing 3965172, L-82111, L-86051, L-87807, L-9119?, DR DP/C1, CK 5-5-69 C1, PREL 4-17-69, C/O E2."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

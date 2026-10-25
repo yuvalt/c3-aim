@@ -1,0 +1,264 @@
+{
+  "page": 119,
+  "group": "1",
+  "sheet": "F25",
+  "title": "BODY REAR FILLER PNL, NAME & TAIL PIPE BEZEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear end of the body: the rear filler panel (rear valance below the rear bumpers, between the exhaust outlets), the 'CORVETTE' script letters on the rear panel, and the tail pipe (exhaust) bezels LH/RH. The letters are held by nuts on their studs from inside; the filler panel bolts and screws to the body and its brace; each exhaust bezel screws up into a clip nut on the filler panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3938140",
+      "name": "LETTER CHART",
+      "name_expanded": "Letters – 'CORVETTE' rear script nameplate letters",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966545",
+      "name": "FILLER PANEL",
+      "name_expanded": "Panel – rear filler panel (rear valance)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9419005",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "4816192",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3966543-4",
+      "name": "BEZEL",
+      "name_expanded": "Bezel – exhaust tail pipe bezel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9420137",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3866846",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3922304",
+      "name": "BRACE ASM.",
+      "name_expanded": "Brace assembly – filler panel brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9420202",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear body panel",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "The studs of each letter [1] go through holes in the rear panel; nuts [12] are threaded on from inside the body.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4",
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "rear body above the filler panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [3] with lock washer [4] and washer [5] goes from the rear through the upper inboard hole of the filler panel [2]; dashed line runs forward to the body at the brace [11] area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "rear body lower corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Upper screw asm. [6] goes up through the body's lower rear corner into the brace [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "body lower panel / tail pipe flange area",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lower screw asm. [6] (two more callouts) go in from the side: one at the outboard end of the body lower panel near the tail pipe flange, one through the filler panel [2] flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "body lower flange",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [10] on the stud/bolt at the outboard flange of the filler panel [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "filler panel [2] tail pipe opening",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [7] goes up through the tail pipe bezel [8] into clip nut [9] on the filler panel's opening tab.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "FLANGE-TAIL PIPE SEE UPC 1 BOLT WELD"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digits 1-3; visible '8140' (first digit's top looks like a 3, not used).",
+    "Item 2: hole punch covers digits 1-3; visible '6545' (first digit partly visible, possibly 3, not used).",
+    "Three callouts of [6] in the drawing; which part each lower screw holds is read from dashed lines on a busy exploded view and is approximate.",
+    "Revision block is blotted/smudged with no legible entries; revisions left empty.",
+    "Stamp 'K117' in the torque legend ignored. Title-block C/O field overwritten; PREL F3 2-11-69."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

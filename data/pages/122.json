@@ -1,0 +1,140 @@
+{
+  "page": 122,
+  "group": "1",
+  "sheet": "F28",
+  "title": "FRONT CARPETS & INSULATORS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front (passenger compartment) carpet set and the tunnel insulators (sound/heat pads under the carpet on the front, center and rear transmission tunnel), all models. The carpet edges are held by push-in fasteners at the top of the kick panel/toe board area and glued with 51d adhesive along the door sill under the sill trim plate; the front tunnel insulator differs between coupe (19437) and convertible (19467).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3726785",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – carpet retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3912669",
+      "name": "INSULATOR-FRT TUNNEL (19437)",
+      "name_expanded": "Insulator – front tunnel, coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3956067",
+      "name": "INSULATOR-FRT TUNNEL",
+      "name_expanded": "Insulator – front tunnel, convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3922037",
+      "name": "INSULATOR-CTR TUNNEL",
+      "name_expanded": "Insulator – center tunnel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3958800",
+      "name": "CHART-FRT CARPET ASM.",
+      "name_expanded": "Front carpet assembly (see chart; includes grommet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3921585",
+      "name": "INSULATOR-RR TUNNEL",
+      "name_expanded": "Insulator – rear tunnel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51d",
+      "description": "ADHESIVE",
+      "amount": "11 Oz.",
+      "where": "carpet [4] edge at the door sill, under the sill trim plate on the underbody"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body at the upper edge of the carpet in the footwell (kick panel / toe board)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fastener [1] pushes in from the carpet face through holes along the top edge of the front carpet [4]; several holes shown along that edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51d",
+      "holds": [
+        "4"
+      ],
+      "to": "underbody at the door sill",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Carpet edge wraps over the sill flange and is glued with 51d adhesive; the sill trim plate goes over it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "2.00±.30 (View A: accelerator pedal in full throttle position to carpet)",
+    "GROMMET PART OF [4]"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers most of the 4th digit; only its top hook is visible.",
+    "Item 2 (19437): binder hole covers digits 3-5; visible '39' + '69'.",
+    "Insulators [2], [3], [5]: shown lying on the tunnel under the carpet and console; no fastener or adhesive tag on them.",
+    "View A dimension 2.00±.30: the lower leader line ends at the carpet/floor below the pedal; reference surface read from the drawing.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-21-69 C1, PREL 4-10-69, C/O F27; model 19000. Revision record is empty. 'K120' printed sideways. Torque legend triangles printed empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

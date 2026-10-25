@@ -1,0 +1,506 @@
+{
+  "page": 115,
+  "group": "1",
+  "sheet": "F21",
+  "title": "BODY REAR GRILLE & REAR PLENUM AIR DOOR",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) rear deck air exhaust: rear plenum shut-off doors (air-outlet louver doors behind the cockpit) with their frame, vacuum actuator, rod linkage and gaskets. The actuator bolts to a support screwed to the door frame; the rod runs through riveted guides to the door crank arms; door gaskets are cemented on. The air outlet grille panel, its screws and nuts install as on the coupe (sheet F20).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3949885-6",
+      "name": "DOOR ASM.",
+      "name_expanded": "Door assembly – rear plenum air (shut-off) door (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3949890",
+      "name": "GUIDE",
+      "name_expanded": "Guide – rod guide",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3949891",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly – actuator-to-door link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3949893",
+      "name": "SUPPORT",
+      "name_expanded": "Support – actuator support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949892",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427761",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3955982",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – push-in retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3955972",
+      "name": "GASKET",
+      "name_expanded": "Gasket – frame gasket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3955981",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – flapper valve in the door frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949889",
+      "name": "PIN",
+      "name_expanded": "Pin – door pivot pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9419791",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9424862",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3949963-4",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3949888",
+      "name": "GASKET",
+      "name_expanded": "Gasket – air door seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9415163",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "120614",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "1998989",
+      "name": "ACTUATOR ASM.",
+      "name_expanded": "Actuator assembly – vacuum actuator for the plenum air doors",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3949883-4",
+      "name": "FRAME ASM.",
+      "name_expanded": "Frame assembly – air door frame / rear grille frame (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "21",
+      "pn": "381700",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "22",
+      "pn": "3792031",
+      "name": "WASHER-SPL.",
+      "name_expanded": "Washer – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": null,
+      "pn": "3936362",
+      "name": "PANEL-AIR OUTLET GRILLE",
+      "name_expanded": "Panel – air outlet grille (rear deck louver panel); installs as on 19437 (F20)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": null,
+      "pn": "3843505",
+      "name": "SCREW",
+      "name_expanded": "Screw – air outlet grille panel; installs as on 19437 (F20)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": null,
+      "pn": "9422654",
+      "name": "NUT",
+      "name_expanded": "Nut – air outlet grille panel; installs as on 19437 (F20)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51z",
+      "description": "CEMENT",
+      "amount": ".02 OZ",
+      "where": "View A, door gasket [15] to door [1] (51z tag at the gasket's end)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "17",
+        "18"
+      ],
+      "holds": [
+        "19"
+      ],
+      "to": "support [5]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: the actuator studs pass through support [5]; lock washer [18] and nut [17] on the far side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame asm. [20]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [16] fastens the actuator support [5] to the end of the door frame [20].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "21"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "actuator stud at support [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: nut [21] on the stud at the support, where the rod [4] starts.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "door frame / plenum structure above (dashed line runs up from the guide)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [3] goes up through each rod guide [2] (two guides). View B: the end of rod [4] hooks into the slot of guide [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "22"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "door asm. [1] crank arm",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Main view: two special washers [22] on the pins of the door crank arm where the rod linkage attaches.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "door asm. [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [13] attaches bracket [14] to the end of the door [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door linkage / frame",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [12] goes into the door [1] near its centre.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "door asm. [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: push-in fastener [8] retains gasket [15] on the door.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "15"
+      ],
+      "to": "door asm. [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: gasket [15] cemented to the door with 51z.",
+      "from": "drawing",
+      "material": "51z"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "how": "seals",
+      "holds": [
+        "20"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: gasket [9] along the lower edge of the frame [20].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "frame asm. [20]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pin [11] is the door pivot at the frame end; bend the frame tab up after the pin is installed.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "20",
+        "6"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip nuts [7] sit on the upper flange of the frame [20] (several places); plate [6] at the frame's outboard end. The screws that go into them are not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "The following parts install the same as 19437: 3936362 PANEL-AIR OUTLET GRILLE, 3843505 SCREW, 9422654 NUT.",
+    "All components of rear plenum shut-off door assemblies must be kept free of paint during body prime and paint operation.",
+    "Bend tap up on frame asm. after pin in installed."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digits 2-4; visible '3' + '885-6'.",
+    "Drawing error: View A labels the actuator with callout [9] (item 9 is GASKET); actuator is item 19. A second [9] correctly points at the gasket on the frame.",
+    "Three unnumbered parts below the callout list ('install the same as 19437') entered with item null.",
+    "Valve asm [10]: shown as flaps in the frame openings; retention not shown.",
+    "Stamp 'K113' in the torque legend area ignored.",
+    "Unnumbered panel/screw/nut: not drawn here; the sheet says they install as on 19437 (F20: screw goes down through the panel into the nuts). No fastening entry."
+  ],
+  "revisions": [
+    {
+      "date": "10-2-69",
+      "sym": "1",
+      "text": "WAS 9419663 SCREW",
+      "was": "9419663",
+      "item": "12"
+    },
+    {
+      "date": "12-23-69",
+      "sym": "2",
+      "text": "WAS 1998949 ACTUATOR",
+      "was": "1998949",
+      "item": "19"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

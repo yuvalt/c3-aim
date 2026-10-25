@@ -1,0 +1,375 @@
+{
+  "page": 92,
+  "group": "1",
+  "sheet": "E9",
+  "title": "COMPARTMENT-UNDERBODY STORAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Behind-the-seat storage compartment doors and tub: the lockable compartment door (outer storage door) with lock cylinder, escutcheon and pull handle, the center door with its pull handle and lock unit, the compartment cover/tub hanging in the frame, and the door seal glued to the frame with 51b adhesive. Lock retainers are screwed on under the doors; the center door handle is bolted through with washers and a nut. Continues sheet E8.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966578",
+      "name": "CYL & CASE ASM.",
+      "name_expanded": "Lock cylinder & case assembly – storage door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3930305",
+      "name": "ESCUTCHEON",
+      "name_expanded": "Escutcheon – lock cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962621",
+      "name": "CHART-DOOR ASM.",
+      "name_expanded": "Chart – door assembly (storage compartment door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937912",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418569",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3972350",
+      "name": "LOCK UNIT",
+      "name_expanded": "Lock unit – center door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3962620",
+      "name": "CHART-CENTER DOOR ASM.",
+      "name_expanded": "Chart – center door assembly (center storage door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3963114",
+      "name": "COVER",
+      "name_expanded": "Cover – storage compartment tub",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3918669",
+      "name": "SEAL",
+      "name_expanded": "Seal – storage door opening",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9418551",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3974037",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3919775",
+      "name": "BUMPER",
+      "name_expanded": "Bumper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3962622",
+      "name": "CHART-PULL HANDLE",
+      "name_expanded": "Chart – pull handle (door pull ring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "455959",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "446161",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – plain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Washer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "120361",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51b",
+      "description": "ADHESIVE",
+      "amount": null,
+      "where": "under seal [9] on the compartment frame"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "door [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lock cylinder [1] goes down through escutcheon [2] and the door [3] from the top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "underside of door [3] / center door [7]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Retainer [4] fits over the lock body under each door and is held by screw [5] driven up from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "center door [7]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [14] goes down through pull handle [13] and the center door [7]; plain washer [15], lock washer [16] and nut [17] go on underneath. Door [3] callouts '13 14 15 16 17' show the same handle hardware on that door.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "center door [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lock unit [6] sits in the center door beside the handle; retainer [4] below it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51b",
+      "holds": [
+        "9"
+      ],
+      "to": "compartment frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [9] laid around the door opening on the frame with 51b adhesive; no gap at the butt joint.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [],
+      "to": "compartment frame (rear edge, by the door hinge)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [10] driven down into the frame near the hinge of door [3]; .125 DIA (9) HOLES called out in the frame there.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [],
+      "to": "vertical wall of the compartment frame under door [3]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw assembly [11] goes in horizontally from the compartment side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "compartment frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cover/tub [8] drops into the frame opening; dash lines from its flange holes down to the frame, no fastener called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12"
+      ],
+      "to": "cover [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bumper [12] pushes into a hole in the side of the tub.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "7"
+      ],
+      "to": "hinges on the compartment frame (sheet E8)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Dash lines from the door underside holes to the hinge holes; no fastener called out.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Seal must be assembled so that there is no gap at the butt joint.",
+    ".125 DIA (9) HOLES"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digits 4-6; last digit shows only its right half (3 or 8).",
+    "The callout box above the center-door handle screw is wiped by a hole punch; taken as bolt [14] from the 13-17 group callout.",
+    "Screw [10] and screw assembly [11]: what they retain is not clear from the drawing.",
+    "Material legend gives no amount. 'K90' printed sideways near the legend; meaning unknown."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "\"SEAL\" NOTE ADDED",
+      "was": null,
+      "item": "9"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

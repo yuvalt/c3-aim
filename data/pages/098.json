@@ -1,0 +1,283 @@
+{
+  "page": 98,
+  "group": "1",
+  "sheet": "F4",
+  "title": "HEADER, WINDSHIELD SIDE, & LOCK PILLAR WEATHERSTRIPS",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Weatherstrips around the door opening: the windshield pillar (A-pillar) side weatherstrip that the door glass seals against, screwed at its lower end through special washers and cemented; on convertibles (19467) also the header weatherstrip glued into the soft top's front bow where it meets the windshield header, and the lock pillar (B-pillar) weatherstrip with a wedge, held by screws and nuts. A fastener near the windshield side reveal molding goes in a drilled hole.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974084",
+      "name": "W/STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly, folding top front header (seals soft top to windshield header)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966565-6",
+      "name": "W/STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly, windshield side (A-pillar) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9412180",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "155895",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3956077-8",
+      "name": "WEDGE W/STRIP",
+      "name_expanded": "Wedge, lock pillar weatherstrip (LH/RH)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3956075-6",
+      "name": "W/STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly, lock pillar (B-pillar) (LH/RH)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "120622",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9415631",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419327",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "4876498",
+      "name": "FASTENER",
+      "name_expanded": "Fastener, windshield side reveal molding area",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3922439",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50b",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "windshield side weatherstrip [2], upper end"
+    },
+    {
+      "key": "B",
+      "code": "51f",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "header weatherstrip [1] in the folding top front bow (main view and View C)"
+    },
+    {
+      "key": "C",
+      "code": "69a",
+      "description": "SEALER",
+      "amount": "",
+      "where": "View C, header weatherstrip [1] at the folding top front bow"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51f",
+      "holds": [
+        "1"
+      ],
+      "to": "front bow of folding top asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: header weatherstrip [1] glued into the channel on the underside of the top's front bow, sealed with 69a; it seals down onto the windshield header asm.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "12"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "windshield pillar",
+      "qty": "3 shown",
+      "torque_ref": "1",
+      "note": "Main view: screw [9] through special washer [12] into the pillar at the mid point, and two screws [9] through the lower end of weatherstrip [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "50b",
+      "holds": [
+        "2"
+      ],
+      "to": "windshield pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement 50b at the top of weatherstrip [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4",
+        "8",
+        "7"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: screws [3] and [4] go down through wedge [5] into the lock pillar weatherstrip [6]; washer [8] and nut [7] fasten from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [],
+      "to": "windshield pillar, beside the side reveal molding",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Main view: fastener [11] at the upper pillar; hole note: 140/144 dia. (1) hole, use side reveal molding as template.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "140/144 DIA. (1) HOLE USE SIDE REVEAL MLDG AS TEMPLATE",
+    "View A: HEADER CORNER .18 MAX. REF.; .08 INTERF.",
+    "View D: .08 INTERFERENCE (to door weatherstrip)"
+  ],
+  "notes_internal": [
+    "Item 1: second digit faint/partly hole-punched; reads '3?74084'.",
+    "Item 10 line is blank (removed by revision 7, circled 7 beside it); no part entry made.",
+    "Revision 7 pn handwritten: reads '394564' plus a last glyph that may be '1'; written as '394564?'.",
+    "'SEALING STRIP' still labeled in View C though rev 7 removed the seal strip.",
+    "Hole note 140/144 leader points near the lower windshield pillar; association with fastener [11] is my reading.",
+    "No legend amounts printed for 50b/51f/69a."
+  ],
+  "revisions": [
+    {
+      "date": "1-15-70",
+      "sym": "7",
+      "text": "394564? SEAL STRIP REMOVED",
+      "was": "394564?",
+      "item": "10"
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "VIEW \"C\" REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "VIEW 'B' RMV'D",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "page": 77,
+  "group": "1",
+  "sheet": "D4",
+  "title": "ACTUATOR VALVE & LIMIT SWITCH ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield wiper access door (wiper cover / wiper door) vacuum actuator and its limit switch, under the cowl, all models. The vacuum actuator & valve assembly [18] is pinned to a body bracket with nut [4]; its rod carries a boot [1], jam nut [2] and the adjusting nut [3] that links it to the door control linkage. The limit switch [13] sits in bracket [12], which is bolted to the body panel with bolt [5]; rod [11] runs from the linkage (bolt [9] and bushings [10]) to the switch, with extension [17], stud [16] and nut [15] at its end. Related sheet: D3 (door control linkage).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966577",
+      "name": "BOOT",
+      "name_expanded": "Boot (actuator rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut (jam nut on actuator rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3948074",
+      "name": "NUT-ADJUSTING",
+      "name_expanded": "Nut – adjusting (actuator rod to linkage)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "271172",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420680",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9421033",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3922395",
+      "name": "GROMMET",
+      "name_expanded": "Grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "423582",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3922099",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3922010",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3922390",
+      "name": "ROD",
+      "name_expanded": "Rod (linkage to limit switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3928809",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (limit switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3951280",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – wiper door limit switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "134530",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3922392",
+      "name": "STUD",
+      "name_expanded": "Stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3???787",
+      "name": "EXTENSION",
+      "name_expanded": "Extension (on switch rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "5638605",
+      "name": "ACTUATOR & VALVE ASM",
+      "name_expanded": "Actuator & valve assembly – wiper door vacuum actuator (vacuum cylinder)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "18"
+      ],
+      "to": "actuator mounting bracket on the body (under cowl)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: the pin at the actuator's mounting ear passes through the bracket and is secured by nut [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "actuator [18] rod",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: actuator rod passes out through boot [1]; jam nut [2] locks adjusting nut [3] on the rod; [3] connects the rod to the door control linkage lever. Set length so there is 3/8 + 1/8 in. as shown in View C.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "how": "seals",
+      "holds": [
+        "18"
+      ],
+      "to": "actuator rod end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: boot [1] covers the rod end of the actuator.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "body panel under cowl",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: bolt [5] goes horizontally through switch bracket [12] into the body panel hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "bracket [12]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [8] goes down through bracket [12] and the switch, nut [14] below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "17"
+      ],
+      "to": "rod [11]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [6] goes down into extension [17] on the end of the switch rod.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "15"
+      ],
+      "holds": [
+        "17"
+      ],
+      "to": "switch actuating end",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: stud [16] threaded through extension [17], locked by nut [15].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "door control linkage lever",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: bolt [9] passes through bushings [10] in the rod [11] eye into the linkage lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "bracket [12]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: grommet [7] in bracket [12] where the rod passes.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Assemble switch with short wire lead inboard.",
+    "3/8 + 1/8 in. when the piston is bottomed out in the vacuum cyl. & the door in the closed position."
+  ],
+  "notes_internal": [
+    "Item 2: hole punch wipes the middle digits; visible '94' + 3 missing + '54' (width matches 7 digits).",
+    "Item 17: hole punch wipes the middle digits; visible '3' + 3 missing + '787'.",
+    "Item 10 callout box is lost in the hole punch at top right of View B; two leaders point to the bushings on bolt [9].",
+    "View B linkage of [6], [16], [17], [11] read from a small isometric; roles of extension/stud are my best reading of the drawing.",
+    "Torque legend lists triangles 4 and 5 with no values; 'K75' printed sideways beside them.",
+    "Revision 1 date handwritten, reads 5-26-69."
+  ],
+  "revisions": [
+    {
+      "date": "5-26-69",
+      "sym": "1",
+      "text": "WAS 3922190 ROD",
+      "was": "3922190",
+      "item": "11"
+    },
+    {
+      "date": "2-5-70",
+      "sym": "2",
+      "text": "WAS 5638509 ACTUATOR & DRAWING REVISED",
+      "was": "5638509",
+      "item": "18"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

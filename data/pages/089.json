@@ -1,0 +1,280 @@
+{
+  "page": 89,
+  "group": "1",
+  "sheet": "E6",
+  "title": "FRONT CONSOLE TRIM PLATE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front console trim plate (the shifter/console bezel) with its shift-pattern chart plate and trim-plate decal, the sliding ashtray-area cover running in guides, and the tray and retainer underneath. The retainer is screwed up into the underside of the trim plate (with the ground terminal at one screw), the chart plate is glued on, and the cover's clip is greased. View A shows the insert used with RPO 403-424 (and C60).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3919620",
+      "name": "CHART-SELECTOR PLATE",
+      "name_expanded": "Chart – shift selector plate (shift pattern plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963148",
+      "name": "TRIM PLATE ASM.",
+      "name_expanded": "Trim plate assembly – front console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3915676",
+      "name": "GUIDE",
+      "name_expanded": "Guide – console cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3947951",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly – sliding console cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3823400",
+      "name": "TRAY ASM.",
+      "name_expanded": "Tray assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3915674",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – tray",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9415952",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3942119",
+      "name": "CLIP",
+      "name_expanded": "Clip – cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3958740",
+      "name": "CHART-TRIM PLATE DECAL",
+      "name_expanded": "Chart – trim plate decal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3964123",
+      "name": "INSERT RPO 403-424",
+      "name_expanded": "Insert – trim plate, RPO 403-424",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3964126",
+      "name": "RPO 403-424 & C60",
+      "name_expanded": "Insert – trim plate, RPO 403-424 & C60 (air conditioning)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "62a",
+      "description": "ADHESIVE",
+      "amount": null,
+      "where": "under chart-selector plate [1] on the trim plate [2]"
+    },
+    {
+      "key": "B",
+      "code": "1e",
+      "description": "GREASE",
+      "amount": null,
+      "where": "clip [8] at the end of cover [4]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "underside of trim plate [2]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [7] go up through the tabs of retainer [6] into the trim plate [2]; one screw also passes through the ground terminal (UPC 12).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "retainer [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tray [5] drops into retainer [6]; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "62a",
+      "holds": [
+        "1"
+      ],
+      "to": "trim plate [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Chart-selector plate [1] is bonded to the trim plate with 62a adhesive.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "trim plate [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Decal [9] applied to the trim plate beside the selector chart.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "trim plate [2] / retainer [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cover [4] slides between guide [3] and a matching guide on its other edge; clip [8] on the cover end, greased with 1e.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "trim plate [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: insert [10] laid into the trim plate openings.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "GROUND TERMINAL (UPC 12)"
+  ],
+  "notes_internal": [
+    "Guides [3]: drawing shows two guide pieces (one either side of cover [4]), only one callout; how the guides mount is not shown.",
+    "Clip [8]: shown at the end of cover [4]; what it engages is not shown.",
+    "Torque triangles 2-5 in the legend are blank.",
+    "'K87' printed sideways next to the torque legend; meaning unknown.",
+    "Material legend gives no amounts."
+  ],
+  "revisions": [
+    {
+      "date": "6-19-69",
+      "sym": "1",
+      "text": "ITEM 10 ADDED",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW A ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "9-19-69",
+      "sym": "3",
+      "text": "INSERT DRAWING REVISED",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "1-6-70",
+      "sym": "4",
+      "text": "TRIM PLATE DWG REVISED",
+      "was": null,
+      "item": "2"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

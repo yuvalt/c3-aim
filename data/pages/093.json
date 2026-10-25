@@ -1,0 +1,275 @@
+{
+  "page": 93,
+  "group": "1",
+  "sheet": "E10",
+  "title": "COWL VENTILATOR & KICK PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Cowl (kick panel) fresh-air vent controls: push-pull rod & tube cables run from the two vent control levers/knobs at the heater control housing under the dash to the vent valves in the left and right kick panels. The cable tube is clamped at the control housing with a screw and nut, the knobs are held with a set screw, the vent valve sits in the dash panel outlet with its bracket spot-welded to the dash panel, and the kick panel cover (the vent grille panel) is screwed on.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3946135",
+      "name": "ROD & TUBE ASM.",
+      "name_expanded": "Rod & tube assembly – cowl vent control cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3958728",
+      "name": "KNOB ASM.",
+      "name_expanded": "Knob assembly – cowl vent control",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "443874",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "381700",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3940636",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – cowl vent (kick panel fresh-air door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3962668",
+      "name": "BRKT R.H.",
+      "name_expanded": "Bracket – RH, cowl vent valve (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3918533-4",
+      "name": "BRKT R.H.",
+      "name_expanded": "Bracket – cowl vent valve (coupe, pair as printed)",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419699",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3964113-4",
+      "name": "COVER",
+      "name_expanded": "Cover – kick panel vent grille (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9432135",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "heater control housing (under the dash)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] and nut [4] clamp the tube end of rod & tube [1] at the control lever bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "heater control housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: nut [4] goes on the pivot stud of the vent control lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "SCREW"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "vent control lever",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: knob [2] pushes on the lever and is locked by a set screw (unnumbered 'SCREW', torque 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "welds",
+      "holds": [
+        "6"
+      ],
+      "to": "dash panel",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Note 1A: spotweld bracket [6] to dash panel, 3 places.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "dash panel outlet / bracket [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: valve [5] sits in the kick-panel outlet on bracket [6]; rod [1] connects to its lever. .120/.124 dia hole in the dash panel outlet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw [7] clamps the rod & tube [1] end at the valve bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "kick panel / dash panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw [9] goes in through the cover [8] from the passenger side.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Adjust the cowl vent control levers so they sit 0.10 to 0.15 from the seated position when the valve assembly is fully closed.",
+    "1A Spotweld 6 to dash panel 3 places.",
+    ".120/.124 DIA HOLE IN DASH PNL OUTLET",
+    "BRACE ASM. (SEE UPC 1 B/W)",
+    "HEATER CONTROL HOUSING",
+    "View B dimensions: .30, .24"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch over the 4th digit (top looks like 6, not certain).",
+    "Item 2: hole punch wipes digits 4-5; 3rd digit only partly visible (reads 5).",
+    "Item 6 second line printed as '3918533-4 19437' (pair) under 'BRKT R.H. -19467'.",
+    "View B circled 10 and 15 next to the .30/.24 dimensions are not revision symbols on this sheet; meaning unknown.",
+    "Screw [7]: which piece it clamps at the bracket is partly inferred from the drawing (tube end near the valve).",
+    "'K91' printed sideways in the torque legend; meaning unknown."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "SYM 1A WAS SYM 6A",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-9-69",
+      "sym": "2",
+      "text": "WAS 9414758 SCREW",
+      "was": "9414758",
+      "item": "9"
+    },
+    {
+      "date": "5-18-70",
+      "sym": "3",
+      "text": "LEVER ADJUSTMENT NOTE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

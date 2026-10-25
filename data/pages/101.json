@@ -1,0 +1,447 @@
+{
+  "page": 101,
+  "group": "1",
+  "sheet": "F7",
+  "title": "LID CONTROL",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) rear deck lid control: the release handle/control assembly on the underside of the folding-top compartment lid (the rear deck lid behind the seats) with rods running out to the lid locks at each side, plus the lever, stop and guide linkage (View B) and the cable to the lock (View A). The control is screwed to the lid inner panel; the rods are held to the lid by clips and a clamp, and the lever pivots on a screw. Pivots get 1b lubricant.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "120520",
+      "name": "CLIP",
+      "name_expanded": "Clip (rod retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3873951",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3815912",
+      "name": "CLAMP",
+      "name_expanded": "Clamp (rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "451924",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3846202",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3945236",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Control assembly – deck lid release handle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419107",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3976009",
+      "name": "CLIP",
+      "name_expanded": "Clip (rod retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3915885",
+      "name": "ROD",
+      "name_expanded": "Rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – push-on (P. washer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3941815-6",
+      "name": "ROD",
+      "name_expanded": "Rod – lid lock (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3903516",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3932924",
+      "name": "LEVER",
+      "name_expanded": "Lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3941817",
+      "name": "STOP",
+      "name_expanded": "Stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3942777",
+      "name": "SCREW",
+      "name_expanded": "Screw (lever pivot)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "134530",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "6",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3839173",
+      "name": "GROMMET",
+      "name_expanded": "Grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "375437",
+      "name": "GUIDE",
+      "name_expanded": "Guide",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3915883",
+      "name": "CABLE ASM.",
+      "name_expanded": "Cable assembly – lid lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "6",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1b",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "control assembly [6] pivot/rod ends, rod end at the RH lock, and the lever [13] pin in View B"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "deck lid inner panel",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [5] goes through the control assembly [6] bracket into the lid inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "deck lid inner panel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [4] (torque 2) at the forward end of the control assembly [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "deck lid inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [2] holds clamp [3] over the upper rod near the control assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "deck lid inner panel",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [7] holds the RH clip [1], which retains the rod running to the RH lock.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "deck lid inner panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Clips [1] retain the upper rods to the lid panel, one each side of the control.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "deck lid inner panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Clips [8] retain the lower rods running to the lid locks, one each side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17"
+      ],
+      "holds": [
+        "19"
+      ],
+      "to": "panel hole at the lock assembly",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: cable [19] passes through grommet [17] in the panel to the lock assembly; top view shows [17] at the LH rod end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "18"
+      ],
+      "to": "lid inner structure",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [4] goes through the guide [18] bracket into the lid structure.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "lid inner structure",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "View B: screw [15] is the pivot for lever [13], driven through the lever into the structure.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "lever [13] area",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: small screw [4] holds stop [14] beside the lever [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "threaded rod end at the guide [18]",
+      "qty": "2",
+      "torque_ref": "6",
+      "note": "View B: two nuts [16] on the threaded end of rod [9]; the other end of [9] hooks into the lever [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "12"
+      ],
+      "holds": [
+        "11",
+        "9"
+      ],
+      "to": "lever [13]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: rods [11] and [9] hook into lever [13]; P. washer [10] and washer [12] retain the rod ends on the lever.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers the leading digits; only '0520' visible, number of missing digits unknown.",
+    "Rev 1 circle sits next to item 8 in the callout list.",
+    "Exact pairing of washers [10]/[12] with rods [9]/[11] at the lever is not certain from the drawing.",
+    "Title block: drawing 3965172, PREL 4-10-69, CK 4-21-69 C1, C/O F6&F7. Sideways 'K99' stamp beside the torque legend.",
+    "Control assembly [6]: attachment inferred from screws [4] and [5] pointing at it in the top view."
+  ],
+  "revisions": [
+    {
+      "date": "6-23-69",
+      "sym": "1",
+      "text": "WAS 125912 CLIP",
+      "was": "125912",
+      "item": "8"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

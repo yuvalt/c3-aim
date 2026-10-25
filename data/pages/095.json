@@ -1,0 +1,226 @@
+{
+  "page": 95,
+  "group": "1",
+  "sheet": "F1",
+  "title": "TOP ASSEMBLY & REAR LOCK",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) soft top (folding top assembly) mounting and its rear lock: the top's side hinges bolt to the body brackets behind the doors, and at the rear center the top's rear bow carries a lock housing with a striker bolt that latches into a lock mounted through the folding top lid (the tonneau/top storage lid). The housing is screwed to the top over a shim; the lock is held to the lid by a cover and gasket with nuts. The top chart (item 1) lists the top assemblies by color.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958720",
+      "name": "FOLDING TOP ASM. CHART",
+      "name_expanded": "Folding top (convertible soft top) assembly, see chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3829442",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3958895",
+      "name": "HOUSING",
+      "name_expanded": "Housing, top rear lock (striker housing on rear bow)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918587",
+      "name": "COVER",
+      "name_expanded": "Cover, rear lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3915817",
+      "name": "GASKET",
+      "name_expanded": "Gasket, rear lock cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3942775-6",
+      "name": "LOCK ASM.",
+      "name_expanded": "Lock assembly, top rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "271172",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9418971",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3940635",
+      "name": "BOLT",
+      "name_expanded": "Bolt (striker pin under the lock housing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3935690",
+      "name": "SHIM",
+      "name_expanded": "Shim, under lock housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "23-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "45-65",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "147a",
+      "description": "WAX",
+      "amount": "",
+      "where": "folding top [1], tag on the top's edge in the main view"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body bracket at the side of the top (hinge mounting, behind the door)",
+      "qty": "2 per side shown",
+      "torque_ref": "1",
+      "note": "View B: screws [2] go through the top's side hinge plate into the body bracket, inserted from outboard. Hinge serrations must be fully engaged before torquing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "3",
+        "10"
+      ],
+      "to": "rear bow of folding top [1], rear center",
+      "qty": "2 shown",
+      "torque_ref": "3",
+      "note": "View A: screw assemblies [8] fasten the lock housing [3] to the top's rear bow with shim [10] between housing and bow.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [],
+      "to": "lock housing [3]",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "View A: bolt [9] threads into the underside of housing [3] and hangs down as the striker that engages lock [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4",
+        "5",
+        "6"
+      ],
+      "to": "folding top lid asm.",
+      "qty": "2 per lock shown",
+      "torque_ref": "2",
+      "note": "View A: stack top-down is cover [4], gasket [5], folding top lid, lock asm. [6]; studs from the cover pass through gasket, lid and lock and nuts [7] tighten from below.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Serrations to be fully engaged to align hinge before torquing screws."
+  ],
+  "notes_internal": [
+    "Torque legend has an empty triangle 5; omitted.",
+    "Material tag 147a (A, WAX) has no amount printed.",
+    "Shim [10] and housing [3] share the screws [8] per drawing; exact screw count not stated.",
+    "Revision block is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

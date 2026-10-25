@@ -1,0 +1,437 @@
+{
+  "page": 79,
+  "group": "1",
+  "sheet": "D6",
+  "title": "W/S WIPER MOTOR, SWITCH ASM & TRANSMISSION LINKAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield wiper motor, wiper transmissions (pivots and linkage), arms and blades, plus the park valve that controls the vacuum wiper door, all models. The motor [5] mounts to the dash panel (firewall) over gasket [4] with nuts [6]; the LH and RH transmissions [3] are held at the cowl by nuts [6] and carry the wiper arms [2] and blades [1]. The valve [7] is screwed to bracket [12] on the plenum (nut [11], rivet [10], reinforcement [9], sealer around the studs), and a cushion [14] is glued to the wiper stop bracket on the dash panel; the washer hose is held by clip [15] and clamp [16].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3938167",
+      "name": "BLADE ASM.",
+      "name_expanded": "Wiper blade assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3956245",
+      "name": "ROD ASM. L.H.",
+      "name_expanded": "Rod assembly LH (leader points at the wiper arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3965154",
+      "name": "ROD ASM. R.H.",
+      "name_expanded": "Rod assembly RH (leader points at the wiper arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4918792",
+      "name": "TRANS. ASM. L.H.",
+      "name_expanded": "Wiper transmission assembly LH (pivot and linkage)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4919036",
+      "name": "TRANS. ASM. R.H.",
+      "name_expanded": "Wiper transmission assembly RH (pivot and linkage)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3814877",
+      "name": "GASKET",
+      "name_expanded": "Gasket (wiper motor to dash panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "5044758",
+      "name": "MOTOR ASM.",
+      "name_expanded": "Wiper motor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3857243",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "5638487",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – wiper door park (vacuum) valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9409107",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "9",
+      "pn": "3956232",
+      "name": "REINF. ASM.",
+      "name_expanded": "Reinforcement assembly (plenum, under valve bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "271172",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3956079",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "13",
+      "pn": "3826920",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3930368",
+      "name": "CUSHION",
+      "name_expanded": "Cushion (wiper stop bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3976010",
+      "name": "CLIP",
+      "name_expanded": "Clip (washer hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3891759",
+      "name": "CLAMP",
+      "name_expanded": "Clamp (washer hose at arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "45-65",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51f",
+      "description": "ADHESIVE",
+      "amount": "1 OZ",
+      "where": "View B, cushion [14] on the wiper stop bracket at the dash panel"
+    },
+    {
+      "key": "B",
+      "code": "73e",
+      "description": "SEALER",
+      "amount": "Approx. 1 OZ.",
+      "where": "View A, around the valve bracket attaching studs on the plenum"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5",
+        "4"
+      ],
+      "to": "dash panel (firewall)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: wiper motor [5] mounts over gasket [4] to the dash panel; nuts [6] on the motor mounting studs. Motor mounting plate hole located within 1 in. ±.03 of each transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "cowl (wiper pivot opening)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: transmission [3] pivot housing studs go up through the cowl; nut [6] from the top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "wiper motor crank arm",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: 'TRANS.' label with torque triangle 2 at the transmission link to motor crank connection (existing-item symbol).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "1"
+      ],
+      "to": "transmission [3] pivot shaft",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Arm [2] on the transmission pivot; blade [1] on the arm. Drawing labels 'SCREW \"A\"' on both arms. Arm on the transmission linkage depresses valve [7] plunger in park.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket [12]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screws [8] go horizontally through the valve [7] flange into bracket [12]; nut [13] fitted at the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "plenum, with reinforcement [9] below",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: bracket [12] goes down over a plenum stud with nut [11] on top; rivet [10] through the bracket foot. Reinforcement [9] under the plenum.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "73e",
+      "holds": [
+        "12"
+      ],
+      "to": "plenum",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: sealer around the attaching studs.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51f",
+      "holds": [
+        "14"
+      ],
+      "to": "wiper stop bracket on the dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: cushion [14] bonded to the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [],
+      "to": "transmission [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: clip [15] holds the windshield washer hose to the transmission body.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [],
+      "to": "washer nozzle on arm [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: clamp [16] on the washer hose end at the arm nozzle.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Apply sealer around attaching studs as shown.",
+    "Arm on trans. linkage to depress valve [7] plunger to .50 + .12 in park position.",
+    "Motor mtg plate hole to be nominally located within 1\" ±.03 of each trans.",
+    "38.86 ±.03",
+    "17.43 ±.03"
+  ],
+  "notes_internal": [
+    "Item 2 LH: hole punch wipes middle digits; visible '395' + 3 missing + '5'.",
+    "Item 8: 4th digit broken (looks like 9, could be 8).",
+    "Item 12: 3rd and 4th digits broken print ('39' + 2 unclear + '079').",
+    "Item 9 callout in View A is faint, reads as 9 (points to plate under the plenum).",
+    "Dimensions 38.86 and 17.43 are drawn between the wiper stop bracket / arm positions; endpoints unclear.",
+    "Torque legend triangle 5 has no value. Margin stamp 'K77'.",
+    "Revision 1 old pn handwritten and illegible: reads 'WAS 12???1 CLIP' (glyph count uncertain).",
+    "Circled 1 at clip [15]; circled 2 at motor [5]; circled 3 at the arm note; circled 4 near valve [7]; circled 5 at legend A."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "WAS 12???1 CLIP",
+      "was": "12???1",
+      "item": "15"
+    },
+    {
+      "date": "10-31-69",
+      "sym": "2",
+      "text": "MOTOR DWG REVISED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "2-10-70",
+      "sym": "3",
+      "text": "\"ARM\" NOTE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "\"VALVE\" NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-24-70",
+      "sym": "5",
+      "text": "WAS 88a CEMENT",
+      "was": "88a",
+      "item": "A"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

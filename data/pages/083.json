@@ -1,0 +1,112 @@
+{
+  "page": 83,
+  "group": "1",
+  "sheet": "D10",
+  "title": "HEADLAMP WASHER SYSTEM-HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Headlamp washer system, all models: the washer nozzle assemblies at the headlamps and the washer hose routing from the engine compartment forward along the generator & front lamp wiring harness, held by clips, to the headlamp housings. Each nozzle assembly is held to the headlamp housing / bezel with a washer and nut (View A); the hose itself is detailed in UPC 12.",
+  "parts": [
+    {
+      "item": "6",
+      "pn": "3957029",
+      "name": "NOZZLE ASM.",
+      "name_expanded": "Headlamp washer nozzle assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "115854",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "2394722",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "?",
+      "unit": "?",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8",
+        "9"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "headlamp housing (top) and headlamp bezel (bottom)",
+      "qty": "2 per nozzle assembly (one top, one bottom)",
+      "torque_ref": "1",
+      "note": "View A: the nozzle assembly [6] has a threaded stem at each end. The upper stem goes up through a hole in the top of the headlamp housing and takes washer [9] and nut [8] from above; the lower stem goes down through a hole in the bezel and takes washer [9] and nut [8] from below, where the washer hose connects.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "HOSE-SEE UPC 12",
+    "CLIPS (hose clipped along the GEN & FWD LAMP WIRING HARNESS)"
+  ],
+  "notes_internal": [
+    "Callout boxes 1-5 and 7 are printed with no part number or name; left out.",
+    "Torque triangle 1 is drawn at nut [8] (both places in View A), but the torque legend triangles at lower left are blank; value not printed.",
+    "Circled 2 (hose routing revised) is at the hose near the cowl, RH side; circled 3 (clip added) at two clips along the harness.",
+    "Revision 1 date: first character is cut off at the border; visible '-19-69'.",
+    "Sideways 'K81' printed beside the legend triangles; title block: drawing 3965172, DR /C1, CK 5-6-69 C1, PREL 5-5-69, C/O D8.5."
+  ],
+  "revisions": [
+    {
+      "date": "?-19-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-18-69",
+      "sym": "2",
+      "text": "HOSE RTG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "CLIP ADDED (2 PLACES)",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

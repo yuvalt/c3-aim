@@ -1,0 +1,283 @@
+{
+  "page": 87,
+  "group": "1",
+  "sheet": "E4",
+  "title": "FRT & RR CONSOLE, WIPER RELAY & SIDE TRIM PANELS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front console (shifter / center console trim plate area) and rear console, the wiper relay under the dash, and the LH/RH side trim panels (kick panels at the lower dash ends), all models. The front console is screwed into U-nuts on a floor bracket and the dash; the rear console sits on a reinforcement and is held by nuts from below (View A); the kick panels are screwed to the hinge pillar (View B), with an extra RH cover on convertibles (19467).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3954504",
+      "name": "CHART-COVER R. H. (19467)",
+      "name_expanded": "Cover – RH side trim (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3954502",
+      "name": "CHART-PANEL R. H.",
+      "name_expanded": "Side trim panel – RH (kick panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918664",
+      "name": "REINF. ASM.",
+      "name_expanded": "Reinforcement assembly – rear console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3797168",
+      "name": "BOLT ASM.",
+      "name_expanded": "Bolt assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9422242",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3922441",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1115826",
+      "name": "RELAY",
+      "name_expanded": "Relay – windshield wiper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9427713",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419841",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3954501",
+      "name": "CHART-PANEL L. H.",
+      "name_expanded": "Side trim panel – LH (kick panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 - 15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35 - 50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "25 - 35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "20 - 30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "RH side of the lower dash / hinge pillar",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes through the flange of cover [2] (convertible only); the cover's two holes line up with two studs/tabs on the RH side trim panel [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "LH hinge pillar",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw asm. [7] goes through the LH side trim panel [12] into a hole in the pillar (triangle 1 in View B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [],
+      "to": "U-nuts [6] on the console floor bracket and dash",
+      "qty": "2 shown",
+      "torque_ref": "3",
+      "note": "Main view: screws asm. [7] go through the sides of the front console into U-nuts [6]; dashed lines run to U-nuts on the bracket on the floor tunnel and on the dash lower edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [],
+      "to": "front console upper LH side",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [10] goes in from the LH side at the top of the front console.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "bracket under the instrument panel, LH of the console",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [9] goes down through the mounting ear of wiper relay [8] into the bracket (U-nut [6] at the bracket end).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear console",
+      "qty": "4 studs shown",
+      "torque_ref": "5",
+      "note": "View A: studs on the underside of the rear console pass down through reinforcement [4]; nuts [11] go on from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "floor tunnel at the rear of the console",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt asm. [5] at the rear console end on the tunnel; dashed line from the reinforcement [4] end. Exact attachment not fully clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-3; visible '9' + '??' + '2245'.",
+    "Item 2: binder hole covers digits 1-3 (first digit bottom visible, not read); visible '4504'.",
+    "Screw [7] has triangle 3 in the main view but triangle 1 in View B; both recorded.",
+    "Screw [10] and the screws [7] on the front console: which hole each goes into is not fully clear.",
+    "Bolt [5]: what it clamps is not clear; recorded as reinforcement [4] to tunnel with low confidence.",
+    "No revisions. Sideways 'K85'. Title block: drawing 3965172, L-82112, DR DP/C1, CK 5-5-69 C1, PREL 4-10-69, C/O E2.5 & E3."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

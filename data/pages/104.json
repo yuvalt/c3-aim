@@ -1,0 +1,294 @@
+{
+  "page": 104,
+  "group": "1",
+  "sheet": "F10",
+  "title": "SIDE REVEAL MLDGS & SEALING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield side reveal moldings (the exterior trim running up each windshield pillar / A-pillar) and the sealing where the windshield upper reveal molding meets the roof center support (T-top center bar) reveal molding. A retainer is riveted to the pillar (4 holes) and screwed at its top; the molding snaps over it, with a cemented sealing strip between and sealing-compound beads at the windshield header joints.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9418719",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "396663??0",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – side reveal molding",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3966655-6",
+      "name": "MOLDING",
+      "name_expanded": "Molding – windshield side reveal (pillar) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "7657090",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "213516",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "7647551",
+      "name": "SEALING STRIP",
+      "name_expanded": "Sealing strip (cut lengths A1 = 26.5 in, A2 = 20 in)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "84e",
+      "code": "84e",
+      "description": "SEALING COMPOUND",
+      "amount": "4.0 OZ.",
+      "where": "3/4 dia bead at the windshield header, top of the reveal"
+    },
+    {
+      "key": "84f",
+      "code": "84f",
+      "description": "SEALING COMPOUND",
+      "amount": "4.0 OZ.",
+      "where": "View A, 1/2 dia bead at the joint of the W/S upper reveal molding and roof center support reveal molding"
+    },
+    {
+      "key": "84g",
+      "code": "84g",
+      "description": "SEALING COMPOUND",
+      "amount": "4.0 OZ.",
+      "where": "Views A and C, 1/8 dia bead at the W/S header"
+    },
+    {
+      "key": "84h",
+      "code": "84h",
+      "description": "SEALING COMPOUND",
+      "amount": "4.0 OZ.",
+      "where": "View C, 3/4 dia bead at the W/S upper reveal molding end"
+    },
+    {
+      "key": "84k",
+      "code": "84k",
+      "description": "SEALING COMPOUND",
+      "amount": "4.0 OZ.",
+      "where": "View D and main view, between sealing strip [6] and retainer [2] on the pillar"
+    },
+    {
+      "key": "57e",
+      "code": "57e",
+      "description": "CEMENT",
+      "amount": "38 IN.",
+      "where": "View D and main view, along retainer [2] / sealing strip [6]"
+    },
+    {
+      "key": "51cc",
+      "code": "51cc",
+      "description": "ADHESIVE",
+      "amount": "2 OZ.",
+      "where": "View E, weatherstrip beside retainer [2]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "windshield pillar",
+      "qty": "4",
+      "torque_ref": null,
+      "note": "Retainer [2] is riveted [5] to the pillar through .140/.144 dia holes, (4) places (View D note).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "top of windshield pillar",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Screw [1] goes through the upper end of retainer [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "retainer [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: clip [4] is riveted [5] to the top of retainer [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "windshield pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Side reveal molding [3] snaps over retainer [2] (Views B, D).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "57e",
+      "holds": [
+        "6"
+      ],
+      "to": "retainer [2] / pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealing strip [6] (A2, 20 in) is cemented with 57e and sealed with 84k under the molding (View D); A1 (26.5 in) piece at the W/S header (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "84f",
+      "holds": [
+        "3"
+      ],
+      "to": "W/S header and roof center support reveal molding",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Views A, C: sealing compound beads 84f (1/2 dia), 84g (1/8 dia), 84h and 84e (3/4 dia) at the joint of the W/S upper reveal molding and the roof center support reveal molding.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51cc",
+      "holds": [
+        "2"
+      ],
+      "to": "weatherstrip",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View E: adhesive 51cc between the weatherstrip and retainer [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".140/.144 DIA (4) PLACES",
+    "A: 1. 26.5 inches  2. 20 inches",
+    ".50 (View A)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch hides the last digit(s); visible '941871' then a partial character.",
+    "Item 2: hole punch covers the middle; visible '396663' ... '0'. Gap is about 2-3 characters wide and may include a dash (LH/RH pair).",
+    "84e legend tag in the top-right is partly punched ('?4e'); reads as 84e from the legend list.",
+    "Circled 4 at the .140/.144 note (rev 4), circled 5 at retainer [2] (rev 5), circled 2 at View E, circled 6 at View A; circled 1 and 3 float near the title block.",
+    "Clip [4]: what it engages (molding [3] top end?) is not clear.",
+    "Title block: drawing 3965172, PREL 4-10-69, CK 4-21-69 C1, C/O F10. Sideways 'K102' at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "TITLE REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "9-26-69",
+      "sym": "2",
+      "text": "VIEW \"E\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "NOTE \"D\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "11-18-69",
+      "sym": "4",
+      "text": "(4) PLACES WAS (3) PLACES",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "RETAINER DWG REVISED",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "1-7-70",
+      "sym": "6",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "page": 99,
+  "group": "1",
+  "sheet": "F5",
+  "title": "LID STRIKER, LOCATER PIN HOUSING & LID PIN SUPPORT",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) folding top lid (the rear deck lid over the soft top storage well) locating and latching hardware: locator pins under the front corners of the lid that drop into bushings in adjustable housings on the lid pin supports at the lock pillars, rubber bumpers on adjustable screws, a seal at the support, and the lid striker with spacer and a wedge on the body. Housings bolt to the supports and are aligned by closing the lid before final tightening.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966723-4",
+      "name": "PIN",
+      "name_expanded": "Pin, lid locator (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3958726",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4426757",
+      "name": "WEDGE",
+      "name_expanded": "Wedge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9421916",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3846202",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3821794",
+      "name": "STRIKER",
+      "name_expanded": "Striker, folding top lid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3821795",
+      "name": "SPACER",
+      "name_expanded": "Spacer, lid striker",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3995063-4",
+      "name": "HOUSING",
+      "name_expanded": "Housing, lid locator pin (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3976451",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3866846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3976442",
+      "name": "BUSHING",
+      "name_expanded": "Bushing, locator pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3995067",
+      "name": "SCREW",
+      "name_expanded": "Screw, bumper adjusting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3995062",
+      "name": "BUMPER",
+      "name_expanded": "Bumper, lid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3964163",
+      "name": "HOUSING",
+      "name_expanded": "Housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3954658",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3966557",
+      "name": "SEAL",
+      "name_expanded": "Seal, lid pin support at lock pillar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3966667",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "60-75",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50d",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "main view, at the lock pillar near housing [8] and seal [16] on the support"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underside of folding top lid asm., front corner",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Main view: screw [2] goes up through pin plate [1] into the lid's inner panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10",
+        "17"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "lid pin support at the lock pillar",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: bolt [9] goes down through housing [8] and the support with nut [10] below; screw [17] goes up from below through the support into the housing. Bushing [11] sits in the housing and receives pin [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "housing [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: bumper [13] sits on screw [12], which threads into the housing and is adjusted up to seat the bumper against the lid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "lid pin support",
+      "qty": "1 shown",
+      "torque_ref": "4",
+      "note": "View A: screw [15] goes down through housing [14] into the top of the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "body panel at the lid opening",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Main view: screw assembly [5] goes through striker [6] and spacer [7] into the body.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "body panel at the lid opening",
+      "qty": "1 shown",
+      "torque_ref": "1",
+      "note": "Main view: screw [4] through wedge [3], beside the striker.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Adjustment procedure: 1) Attach housing [8] to the support with bolt [9], nut [10] and screw [17] loose. 2) Run bumper screw [12] (bumper [13] installed) fully down. 3) Close the lid so pin [1] enters bushing [11]; this locates housing [8]. 4) Tighten [10] and [17] to spec. 5) Back screw [12] up until the bumper seats firmly against the underside of the lid."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-5; visible '39' then a clipped glyph (looks like 2) then '3-4'. Written '39???3-4'.",
+    "Revision date handwritten and clipped: reads '6-12-7?'.",
+    "Seal [16]: drawn on the support at the lock pillar; not clear if the 50d cement tag is for it.",
+    "Striker [6]/wedge [3] location on the body is not labeled beyond the main view."
+  ],
+  "revisions": [
+    {
+      "date": "6-12-7?",
+      "sym": "4",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

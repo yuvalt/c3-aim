@@ -1,0 +1,151 @@
+{
+  "page": 123,
+  "group": "1",
+  "sheet": "F29",
+  "title": "REAR CARPETS & INSULATORS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear carpet set behind the seats, all models: the riser carpet on the wall behind the seats (seat back reinforcement), the wheelhouse carpets, and the rear floor carpet around the rear storage compartments, plus a deadener mat and, on coupes, a spacer (View A). The carpets are glued with 51d/51ee adhesive; cut-outs are made on perforation lines for the rear compartment lamp and, on coupes, the storage tray hinge bracket.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958830",
+      "name": "CHART-RISER CARPET ASM.",
+      "name_expanded": "Riser carpet assembly – carpet on the wall behind the seats (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3966770",
+      "name": "CHART-WHEEL HOUSE CARPET ASM",
+      "name_expanded": "Wheelhouse carpet assembly (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3958810",
+      "name": "CHART-RR FLOOR CPT. ASM.",
+      "name_expanded": "Rear floor carpet assembly (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919716",
+      "name": "MAT-DEADENER",
+      "name_expanded": "Mat – sound deadener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3922301-2",
+      "name": "SPACER",
+      "name_expanded": "Spacer (LH/RH), coupe (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51d",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "upper right: carpet edge where it wraps the flange at the rear storage compartment"
+    },
+    {
+      "key": null,
+      "code": "51ee",
+      "description": "",
+      "amount": "2 OZ.",
+      "where": "riser carpet [1] at its outboard edge next to the wheelhouse"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51ee",
+      "holds": [
+        "1"
+      ],
+      "to": "body behind the seats, at the wheelhouse side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "51ee tag points to the outboard edge of the riser carpet [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51d",
+      "holds": [
+        "3"
+      ],
+      "to": "rear storage compartment flange",
+      "qty": null,
+      "torque_ref": null,
+      "note": "51d tag points to a carpet flap wrapped over the flange at the rear of the storage compartment area; read as part of the rear floor carpet [3].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Cut on perforation line in carpet and jute.",
+    "NOTE Remove carpet to clear storage tray hinge bracket (Coupe only)",
+    "NOTE Cut on perforation line in carpet for rear compartment lamp."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-3; only their tops show; visible '3' + '8830'.",
+    "Material legend layout: line 1 'A [51d] ADHESIVE', line 2 'circled 1 [51ee] 2 OZ.'; whether ADHESIVE and 2 OZ. apply to both codes is not clear, so copied line by line.",
+    "51d tag target: the flap at upper right is not called out; attributed to [3] by position.",
+    "Wheelhouse carpet [2]: shown in place on the wheelhouse; no fastener or adhesive tag on it.",
+    "Mat [4]: sits at the inboard end of the riser by the center console; no fastener shown.",
+    "Spacer [5]: View A (19437 only) shows it capping the top of a vertical channel at the rear compartment; no fastener shown. Callout list does not give a model code for it.",
+    "Revision 1 text is handwritten and clipped at the top; reads '51ee USAGE ADDED' (circled 1 sits next to 51ee in the legend). Revision 2 matches circled 2 under the first NOTE.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-21-69 C1, PREL 4-10-69, C/O F28; model 19000. 'K121' printed sideways. Torque triangles printed empty."
+  ],
+  "revisions": [
+    {
+      "date": "12-30-69",
+      "sym": "1",
+      "text": "51ee USAGE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-15-70",
+      "sym": "2",
+      "text": "NOTE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

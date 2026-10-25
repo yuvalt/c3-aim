@@ -1,0 +1,287 @@
+{
+  "page": 107,
+  "group": "1",
+  "sheet": "F13",
+  "title": "ROOF PANEL LOCKS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) removable roof panel (T-top) latching: the front and rear roof panel locks (paddle latches) screwed to the roof panel, the guide header (locating pin) and front roof center lock at the front edge over the windshield header, and the front roof locating wedge plates at the rear roof. Locks are adjusted for a 13-16 lb release load at the paddle edge; the wedge plates are screwed on and sealed/glued at the weatherstrip area.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "455464",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3956235-6",
+      "name": "PLATE-FRONT ROOF LOCATING WEDGE",
+      "name_expanded": "Plate – front roof (T-top) locating wedge (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418712",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3962605",
+      "name": "LOCK ASM.",
+      "name_expanded": "Roof panel lock assembly (also used on right rear)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3962606",
+      "name": "LOCK ASM.",
+      "name_expanded": "Roof panel lock assembly (also used on right front)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3956391-2",
+      "name": "GUIDE HEADER",
+      "name_expanded": "Guide – windshield header (roof panel locating pin) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3958726",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3932969",
+      "name": "SHIM (AS REQ'D)",
+      "name_expanded": "Shim (as required)",
+      "models": [],
+      "qty": "as req'd",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3932968",
+      "name": "LOCK-FRONT ROOF CENTER",
+      "name_expanded": "Lock – front roof center (windshield header center latch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3797168",
+      "name": "BOLT ASM.",
+      "name_expanded": "Bolt assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "45-65",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51p",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "View A, weatherstrip assembly side at the rear roof wedge plate area (tag A at item 4)"
+    },
+    {
+      "key": "B",
+      "code": "84q",
+      "description": "SEALING COMPOUND",
+      "amount": "",
+      "where": "View B, fill the pocket of wedge plate [3] (tag B at item 4)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "removable roof panel (T-top) underside",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [1] go horizontally into the lock housings [5] and [6] on the roof panel; adjust locks for 13-16 lb release load at back edge of paddles.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "10",
+        "9"
+      ],
+      "to": "front edge of roof panel / windshield header (drawing ambiguous)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolt [11] is shown below the front roof center lock [10] and shim [9]; dashed centerlines run up through [10] and [9] to the front edge of the roof panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "front edge of roof panel / windshield header (drawing ambiguous)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] is shown below guide header [7] (cone pin pointing down); centerline continues down to a hole in the windshield header.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear roof panel at the weatherstrip",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [2] goes in horizontally from the rear and screw [4] goes up from below into wedge plate [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "84q",
+      "holds": [
+        "3"
+      ],
+      "to": "rear roof",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: fill wedge plate [3] with 84q sealing compound.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51p",
+      "holds": [],
+      "to": "weatherstrip assembly side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: 51p adhesive on the weatherstrip assembly side at the wedge plate.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Fit roof panel locks such that fore and aft surfaces firmly contact plastic bushing in housings.",
+    "Fit roof panel locks so fore and aft surfaces firmly contact the plastic bushing in the housings; resulting assembly to be free of squeaks.",
+    "Adjust locks to obtain a 13-16 lb release load at back edge of paddles.",
+    "[6] Also use on right front.",
+    "[5] Also use on right rear.",
+    ".12 ±.06 CONSTANT (REF)",
+    ".18 ±.06 CONSTANT (REF)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out the middle digits; visible '3', then a gap, a partial digit, then '91'. Digit count under the punch assumed 7-digit pn.",
+    "Revision 1 date: third digit unclear ('5-2?-69').",
+    "View A '(REF SEE ...)' cross-reference text is blank/unreadable.",
+    "Model box reads 19437 only (coupe; roof panels).",
+    "Items 7-11: drawing does not make clear whether guide [7] and center lock [10] mount to the roof panel or the windshield header."
+  ],
+  "revisions": [
+    {
+      "date": "5-2?-69",
+      "sym": "1",
+      "text": "\"ADJUSTMENT NOTE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "6-11-69",
+      "sym": "2",
+      "text": "LOCK \"NOTE\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "page": 125,
+  "group": "1",
+  "sheet": "F31",
+  "title": "ROOF PANEL WEATHERSTRIPS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) removable roof panel (T-top) weatherstrips and drip moldings: the weatherstrip around the underside edge of each roof panel, its retainer, the side and front drip moldings (drip rails), and the corner cap and plate. The retainer and side drip molding are riveted to the roof panel, the weatherstrip is screwed and push-fastened into the retainer and sealed with 55e, and the plate at the rear corner is screwed on; the drip moldings are sealed with 84n/84c compound.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976313-4",
+      "name": "PLATE",
+      "name_expanded": "Plate – roof panel rear corner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3966777-8",
+      "name": "RETAINER-W/STRIP",
+      "name_expanded": "Retainer – roof panel weatherstrip (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3966571-2",
+      "name": "WEATHERSTRIP ASM",
+      "name_expanded": "Weatherstrip assembly – roof panel (T-top) seal (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "4876498",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – weatherstrip push-in",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427909",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3972305-6",
+      "name": "CAP",
+      "name_expanded": "Cap – weatherstrip/drip molding corner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3935667-8",
+      "name": "DRIP MLDG ASM.-FRT.",
+      "name_expanded": "Drip molding assembly – front (LH/RH), roof panel front drip rail",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9428712",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9431648",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3972303-4",
+      "name": "DRIP MLDG-SIDE",
+      "name_expanded": "Drip molding – side (LH/RH), roof panel side drip rail",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3972315-6",
+      "name": "ROOF PANEL ASM",
+      "name_expanded": "Roof panel assembly – removable T-top (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9418712",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "7585410",
+      "name": "SEALING STRIP",
+      "name_expanded": "Sealing strip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "55e",
+      "description": "SEALER",
+      "amount": "5 OZ.",
+      "where": "View A, weatherstrip [4] where it seats in the retainer [3]"
+    },
+    {
+      "key": "B",
+      "code": "84n",
+      "description": "SEALING COMPOUND",
+      "amount": "1.5 OZ.",
+      "where": "View A, side drip molding [12] against the roof panel"
+    },
+    {
+      "key": "C",
+      "code": "84c",
+      "description": "SEALING COMPOUND",
+      "amount": "1/4\" BEAD",
+      "where": "front drip molding [9]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "12",
+        "3"
+      ],
+      "to": "roof panel [13] edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view and View A: rivets [10] go up through the retainer [3] and side drip molding [12] into the row of holes along the roof panel edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "roof panel [13]",
+      "qty": "1 place",
+      "torque_ref": null,
+      "note": "Main view: one rivet [10] goes up through the weatherstrip [4] at the joint between its front and side sections (added by revision 6).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "retainer [3] / roof panel [13]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [11] goes up from below through the weatherstrip [4] into the retainer [3] (View A) and the roof panel (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "roof panel [13]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Push-in fasteners [6] go up through the weatherstrip [4]; a row of them is drawn along the weatherstrip's lower edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "roof panel [13] at the corner where front and side drip moldings meet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [7] goes up through cap [8] into the roof panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket on the roof panel [13] rear corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [15] goes up through plate [1] into the roof panel bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "55e",
+      "holds": [
+        "4"
+      ],
+      "to": "retainer [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: 55e sealer on the weatherstrip [4] (was 51q adhesive, revision 1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "84n",
+      "holds": [
+        "12"
+      ],
+      "to": "roof panel [13]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: 84n sealing compound at the side drip molding [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "84c",
+      "holds": [
+        "9"
+      ],
+      "to": "roof panel [13] front edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "84c 1/4\" bead at the front drip molding [9]; no mechanical fastener drawn for it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers the 5th digit (top only visible); visible '3976' + '13-4'.",
+    "Items 2, 5 and 14 are blank callout lines with circled 2, 3, 4: removed by revisions 2 (7648215 CLIP), 3 (9428046 RIVET), 4 (213516 RIVET). Not listed as parts.",
+    "Main view still shows a '51q' tag at the front of the weatherstrip [4]; legend no longer lists 51q (revision 1 changed it to 55e).",
+    "Legend prints '1,5 OZ.' for 84n; read as 1.5.",
+    "Sealing strip [16]: View A shows a U-section strip on an edge flange next to the side drip molding; no fastener and the mounting edge is not clear.",
+    "Roof panel [13]: how it latches to the car is not on this sheet.",
+    "Revision 6 date: first character cut off; reads '?-15-70'.",
+    "Title block drawing number 3965172; DR DP/C1, CK 5-9-69 C1, PREL 5-5-69; model 19437. 'K123' printed sideways. Torque triangles 2-5 empty."
+  ],
+  "revisions": [
+    {
+      "date": "2-24-70",
+      "sym": "1",
+      "text": "55E SEALER WAS 51Q ADHESIVE",
+      "was": "51q",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "7648215 CLIP REMOVED",
+      "was": "7648215",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "9428046 RIVET REMOVED",
+      "was": "9428046",
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "213516 RIVET REMOVED",
+      "was": "213516",
+      "item": "14"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM 3 DWG REVISED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "?-15-70",
+      "sym": "6",
+      "text": "ITEM 10 DWG ADDED (1 PLACE)",
+      "was": null,
+      "item": "10"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

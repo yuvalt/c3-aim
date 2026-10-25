@@ -1,0 +1,383 @@
+{
+  "page": 111,
+  "group": "1",
+  "sheet": "F17",
+  "title": "REAR WINDOW STORAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "The rear window storage tray behind the seats (where the coupe's removable rear window glass is stowed), with its clips, rubber bumpers, front reinforcement and handle. The tray hangs from brackets bolted to tapping plates on the underbody with a bolt and spacer into a weld-nut; clips and the reinforcement are riveted to the tray.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3920346",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3947966",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3947968",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3718496",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3926403",
+      "name": "CLIP & L. WASHER ASM.",
+      "name_expanded": "Clip and lock washer assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3769610",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9421033",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3956002",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – storage tray support at underbody",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3972537",
+      "name": "TRAY",
+      "name_expanded": "Tray – rear window storage",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3827411",
+      "name": "BUMPER",
+      "name_expanded": "Bumper (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3956040",
+      "name": "REINF. ASM.",
+      "name_expanded": "Reinforcement assembly – tray front edge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3972536",
+      "name": "BUMPER",
+      "name_expanded": "Bumper (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3956004",
+      "name": "HANDLE",
+      "name_expanded": "Handle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9415952",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3956001",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3926303-4",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – tray rear mounting (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3855554",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw (bolt) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3922010",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "75-95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "tapping plate on the underbody (UPC 1-B5)",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "View B: two screws [8] go through bracket [9] into the tapping plate on the underbody.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "18",
+        "19"
+      ],
+      "holds": [
+        "17",
+        "10"
+      ],
+      "to": "weld-nut on bracket [9]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [18] goes through spacer [19] and tray bracket [17] into the weld-nut on bracket [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "17",
+        "1",
+        "12"
+      ],
+      "to": "tray [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [2] fasten bracket [17] (View B), clip [1] (top centre) and the front edge/reinforcement [12] at the left end of the tray.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5",
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "tray [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [4] goes down through washer [5], clip and lock washer [6] and washer [7] into the tray.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "7"
+      ],
+      "holds": [],
+      "to": "tray [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [3] goes down through washer [7] into the tray beside clip [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "tray front edge",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] goes up from below into handle [14] at the tray front.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "16",
+        "14"
+      ],
+      "to": "handle [14]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [15] goes down through clip [16] into handle [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11",
+        "13"
+      ],
+      "to": "tray [10] / reinforcement [12]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bumpers [11] sit in holes at the ends of reinforcement [12]; bumper [13] sits in a hole in the tray floor.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "TAPPING PLATE (UPC 1-B5)"
+  ],
+  "notes_internal": [
+    "Item 1: top of the line is cut off at the page edge and hole-punched; only the lower halves of the last four digits show, of which only '4' (6th) is fairly clear.",
+    "Item 2: tops of the first three digits cut off ('???1877').",
+    "Reinforcement [12]: drawing shows it along the tray front edge with many holes; its own fasteners besides the rivet [2] at the left end are not called out.",
+    "Rivet [3]: what it retains besides washer [7] is not clear."
+  ],
+  "revisions": [
+    {
+      "date": "3-3-70",
+      "sym": "1",
+      "text": "WAS 3958899 BOLT",
+      "was": "3958899",
+      "item": "18"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 19 ADDED",
+      "was": null,
+      "item": "19"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

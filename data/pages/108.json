@@ -1,0 +1,268 @@
+{
+  "page": 108,
+  "group": "1",
+  "sheet": "F14",
+  "title": "ROOF PANEL TRIM & LOCKS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) removable roof panels (T-tops): the roof panel locks (paddle latches), guide header pin, front roof center lock with shims, and the roof panel trim (headliner panel on the underside of the T-top) held by clips and screws. Locks are adjusted for a 13-16 lb release load and the panels must sit within ±.03 in. of flush with the rear roof panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3962605",
+      "name": "LOCK ASM.",
+      "name_expanded": "Roof panel lock assembly (also used on right front)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962606",
+      "name": "LOCK ASM.",
+      "name_expanded": "Roof panel lock assembly (also used on right rear)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3958726",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3956391-2",
+      "name": "GUIDE HEADER",
+      "name_expanded": "Guide – header (roof panel locating pin) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9424862",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3918654",
+      "name": "FASTENER",
+      "name_expanded": "Fastener (plate at roof panel front edge)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3797168",
+      "name": "BOLT ASM.",
+      "name_expanded": "Bolt assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3932968",
+      "name": "LOCK-FRONT ROOF CENTER",
+      "name_expanded": "Lock – front roof center",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3932969",
+      "name": "SHIM",
+      "name_expanded": "Shim (as required)",
+      "models": [],
+      "qty": "as required",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3932970",
+      "name": "ROOF PANEL TRIM CHART",
+      "name_expanded": "Roof panel trim (T-top headliner / inner trim panel); see trim chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9431625",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3935638",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "45-65",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "removable roof panel underside",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [1] go horizontally into the lock housings [2] and [3] on the roof panel; adjust for 13-16 lb release load at back edge of paddles.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "9",
+        "10"
+      ],
+      "to": "front edge of roof panel / windshield header (drawing ambiguous)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [8] is shown below the front roof center lock [9]; shim(s) [10] (as required) sit between [9] and the roof panel along the dashed centerlines.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "front edge of roof panel / windshield header (drawing ambiguous)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [4] is shown below guide header [5] (cone pin pointing down); triangle at [4] has no number.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "roof panel front edge underside",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet(s) [6] attach the two-hole fastener plate [7]; dashed lines run from [7] up to the roof panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "13"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "removable roof panel",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Views A and B: screw [12] goes through clip [13] into the roof panel flange; the clips [13] grip the edge of trim panel [11] (sides and rear, arrows A and B).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[2] Also use on right front.",
+    "[3] Also use on right rear.",
+    "Adjust locks to obtain a 13-16 lb release load at back edge of paddles.",
+    "The removable roof panels must be within ±.03 in. of being flush with rear roof panel.",
+    ".12 ±.06 CONSTANT (REF)",
+    ".18 ±.06 CONSTANT (REF)",
+    "FLUSH ±.03",
+    "[A] As required."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digits 4-6; visible '385' and last digit '1'.",
+    "Item 4: torque triangle printed empty; torque_ref left null.",
+    "Revision block is empty.",
+    "Items 4-10: drawing does not make clear whether guide [5] and center lock [9] mount to the roof panel or the windshield header."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

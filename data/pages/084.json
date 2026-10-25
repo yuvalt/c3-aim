@@ -1,0 +1,152 @@
+{
+  "page": 84,
+  "group": "1",
+  "sheet": "E1",
+  "title": "INSTRUMENT PANEL-REINFORCEMENT & PAD ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Instrument panel pad (dash pad / crash pad with the defroster grille strip along the windshield), all models. The pad's front edge hooks over the lower windshield inner frame (View A); it is held by a screw up through a center reinforcement bracket and by screws up through a housing under its left end. Related: the pad's center reinforcement is screwed to the panel structure.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3963120",
+      "name": "CHART-PAD ASM.",
+      "name_expanded": "Instrument panel pad assembly (dash pad)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3974011",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement – instrument panel pad, center",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9421944",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966575",
+      "name": "HOUSING",
+      "name_expanded": "Housing (under LH end of pad)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 - 15",
+      "unit": "LBS IN."
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "instrument panel / lower windshield inner frame at center",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "One screw [3] goes up from below through the hole in reinforcement [2] into the underside of the pad [1] (dashed center line from the pad). The second screw [3] goes in at an angle through the lower flange of the reinforcement into the panel structure.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "1"
+      ],
+      "to": "underside of the LH end of the pad",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [4] goes up from below through a mounting tab of housing [5] into the pad [1]; the housing has tabs at its corners with dashed lines up to the pad.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "lower windshield inner frame asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the front (windshield) edge of the pad [1] hooks over the flange of the LWR W/S INNER FRAME ASM.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "DEFROSTER GRILLE (on pad)",
+    "LWR W/S INNER FRAME ASM. (View A)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-6; visible '396' + partial + hole + partial + '0'. Digit 4 top looks like 2 or 3, not read.",
+    "Item 2: binder hole covers digits 4-6; visible '397' + partial + hole + '1'.",
+    "Housing [5]: purpose not labeled; it sits under the LH end of the pad below a grille area.",
+    "Angled screw [3]: exactly what it threads into is not labeled.",
+    "Circled 1 (reinf. dwg removed) sits on the instrument panel front edge; circled 2 by the torque legend.",
+    "Torque triangles 2-5 blank. Sideways 'K82' near title block. Title block: drawing 3965172, L-91192, DR DP/C1, CK 4-18-69 C1, PREL E1, C/O 3-6-69."
+  ],
+  "revisions": [
+    {
+      "date": "11-28-69",
+      "sym": "1",
+      "text": "REINF. DWG REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-19-69",
+      "sym": "2",
+      "text": "TORQUE (1) WAS 15-20 LBS IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

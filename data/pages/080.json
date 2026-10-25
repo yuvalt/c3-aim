@@ -1,0 +1,250 @@
+{
+  "page": 80,
+  "group": "1",
+  "sheet": "D7",
+  "title": "WINDSHIELD WASHER HOSES & JAR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield washer jar (washer fluid bottle / reservoir) and hoses, all models. The jar [6] is screwed with screws [10] to bracket [7], which is riveted [8] to the fender skirt in the engine compartment; hose & filter [5] sits in the jar under cap [9], hose [4] feeds the washer pump on the wiper motor (View A), and the RH [1] and LH [2] hoses run along the top of the dash plenum through grommets [3] and clips to the wiper arms. The jar is filled with washer solvent (143a).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3768268",
+      "name": "HOSE R.H.",
+      "name_expanded": "Hose – washer, RH (pump to RH wiper arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3771256",
+      "name": "HOSE L.H.",
+      "name_expanded": "Hose – washer, LH (pump to LH wiper arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3824729",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (washer hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "4",
+      "pn": "3833213",
+      "name": "HOSE",
+      "name_expanded": "Hose – washer jar to pump on wiper motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3961561",
+      "name": "HOSE & FILTER ASM.",
+      "name_expanded": "Hose & filter assembly (pickup inside washer jar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3961557",
+      "name": "JAR",
+      "name_expanded": "Washer jar (washer fluid bottle / reservoir)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3976510",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – washer jar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3898372",
+      "name": "CAP",
+      "name_expanded": "Cap – washer jar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9420415",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "143a",
+      "description": "SOLVENT",
+      "amount": "AS REQ'D",
+      "where": "inside the washer jar [6]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "bracket [7]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw [10] goes through the ear on the side of the jar [6] into bracket [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "fender skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B / main view: bracket [7] riveted to the skirt with rivets [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "9"
+      ],
+      "to": "jar [6] filler neck",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose & filter [5] drops into the jar neck; cap [9] closes the neck.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "jar [6] outlet and washer pump on wiper motor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [4] runs from the jar along the engine wiring clips (UPC 12) to the pump on the wiper motor (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "dash plenum",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses [1] and [2] go from the pump nipples (View A) along the top of the dash plenum through grommets [3] to the wiper arms; RH hose passes between the door control switch and the wiper transmission.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Route the windshield washer hoses along the top surface of the dash plenum, through the clip to each wiper arm; the RH hose passes between the door control switch and the wiper transmission."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes middle digits; visible '3' + 3 missing + '268'.",
+    "Item 3: 2nd digit broken in print (8 or 9).",
+    "Revision block starts at sym 3; syms 1-2 not printed. Circled 5 next to torque legend; circled 6 at item 2; circled 4 at jar [6].",
+    "Torque legend triangles 2-5 have no values. Margin stamp 'K78'."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-69",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-30-69",
+      "sym": "4",
+      "text": "ITEM 6 DWG REV'D (2 PLACES)",
+      "was": null,
+      "item": "6"
+    },
+    {
+      "date": "1-9-70",
+      "sym": "5",
+      "text": "TORQUE (1) ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-13-70",
+      "sym": "6",
+      "text": "WAS 3772824 HOSE L.H.",
+      "was": "3772824",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

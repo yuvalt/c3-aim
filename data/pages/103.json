@@ -1,0 +1,322 @@
+{
+  "page": 103,
+  "group": "1",
+  "sheet": "F9",
+  "title": "WINDSHIELD GLASS & LOWER REVEAL MOLDING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield glass installation and the lower windshield reveal moldings (the trim along the bottom of the windshield at the cowl): the glass sits on spacers and is set in a 134-inch seal with primer and sealer; the center lower molding rides on the windshield wiper access door, held by clips and end screws; the LH/RH corner molding pieces are screwed down and clipped into the fender at the pillar.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3911121",
+      "name": "WINDSHIELD",
+      "name_expanded": "Windshield glass",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "4877156",
+      "name": "SPACER",
+      "name_expanded": "Spacer – windshield glass upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4871330",
+      "name": "SPACER",
+      "name_expanded": "Spacer – windshield glass lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3995050",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3938157-8",
+      "name": "MOLDING ASM",
+      "name_expanded": "Molding assembly – windshield lower reveal, corner/end (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3893979",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3962695",
+      "name": "MOLDING ASM-CTR",
+      "name_expanded": "Molding assembly – windshield lower reveal, center (on wiper access door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3922287",
+      "name": "CLIP",
+      "name_expanded": "Clip – center reveal molding",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "7711527",
+      "name": "SPACER-SPL",
+      "name_expanded": "Spacer – special (windshield glass lower)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3962679",
+      "name": "CLIP",
+      "name_expanded": "Clip – reveal molding end, in fender",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "51m",
+      "code": "51m",
+      "description": "ADHESIVE",
+      "amount": ".05 OZ.",
+      "where": "spacers [9]/[3] at the lower glass edge, both sides"
+    },
+    {
+      "key": "70a",
+      "code": "70a",
+      "description": "SEAL",
+      "amount": "134 INCHES",
+      "where": "around the windshield opening under the glass (top edge and View B)"
+    },
+    {
+      "key": "71a",
+      "code": "71a",
+      "description": "CEMENT",
+      "amount": ".24 OZ.",
+      "where": "lower windshield area at the end of the wiper access door"
+    },
+    {
+      "key": "76a",
+      "code": "76a",
+      "description": "PRIMER",
+      "amount": "1.28 OZ.",
+      "where": "View B, glass-to-frame bond line; 77a is the optional alternative"
+    },
+    {
+      "key": "77a",
+      "code": "77a",
+      "description": "OPT",
+      "amount": "",
+      "where": "View B, optional in place of 76a"
+    },
+    {
+      "key": "78b",
+      "code": "78b",
+      "description": "SEALER",
+      "amount": "16 OZ.",
+      "where": "View B, between glass [1] edge and the windshield frame"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "70a",
+      "holds": [
+        "1"
+      ],
+      "to": "windshield opening (frame)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Glass [1] is set in seal 70a over primer 76a (or optional 77a), with sealer 78b at the edge (View B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame upper",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spacers [2] sit under the top edge of the glass, located 15.85 and 18.10 SYM from centerline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "9"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame lower (cowl)",
+      "qty": "1 each per side",
+      "torque_ref": null,
+      "note": "Spacers [3] and [9] support the lower glass edge near each corner, set 20.75 and 18.15 SYM from centerline; glued with 51m adhesive.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51m",
+      "holds": [
+        "9",
+        "3"
+      ],
+      "to": "windshield frame lower",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Adhesive 51m on the lower spacers.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "wiper access door edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clips [8] hook over the edge of the wiper access door and hold the center molding [7]; keep .06 to .12 clearance between molding [7] and glass [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "wiper access door",
+      "qty": "1 per end",
+      "torque_ref": "2",
+      "note": "Screw [4] goes in from the side through the end of center molding [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "cowl/fender below the molding",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Screw [6] goes down through the flange of corner molding [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "fender",
+      "qty": "1 per side",
+      "torque_ref": null,
+      "note": "View C: clip [10] snaps into a .156/.160 dia hole in the fender at the pillar end of molding [5].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".06 TO .12 CLEARANCE (View A, molding [7] to glass [1])",
+    "View C: .156/.160 DIA IN FENDER; HOLE; dimensions 1.00 REF., .54, .15",
+    "Spacer locations: 15.85 SYM and 18.10 SYM (upper), 20.75 SYM and 18.15 SYM (lower), from centerline"
+  ],
+  "notes_internal": [
+    "Item 5: last digit of '-8' partly broken in the scan but reads as 8.",
+    "Rev 3 circle is next to item 4 in the callout list.",
+    "Legend shows five torque triangles but only 1 and 2 have values.",
+    "71a cement leader points at the end of the wiper access door / molding [7]; exact joint unclear.",
+    "Title block: drawing 3965172, PREL 4-1?-69, CK 4-21-69 C1, C/O F9. Sideways 'K101' in the torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "1-29-70",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED 16014",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-7-70",
+      "sym": "3",
+      "text": "WAS 145372 SCREW",
+      "was": "145372",
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

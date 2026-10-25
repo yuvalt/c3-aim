@@ -1,0 +1,229 @@
+{
+  "page": 109,
+  "group": "1",
+  "sheet": "F15",
+  "title": "CENTER & REAR ROOF INTERIOR TRIM",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) headliner at the center roof bar (T-top center bar) and the rear roof: the center and rear headlining panels (see charts for trim colors) screwed to the roof bows, with clip nuts on the center bow, plus the screws at the garnish molding. The rear headlining is screwed up into the roof inner/outer bow and the center headlining overlaps it with an equal gap front and rear.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3948150",
+      "name": "CHART-HEADLINING CTR",
+      "name_expanded": "Headlining – center roof (T-top center bar); see trim chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3922441",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3977800",
+      "name": "CHART-HEADLINING REAR",
+      "name_expanded": "Headlining – rear roof; see trim chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9422645",
+      "name": "NUT",
+      "name_expanded": "Nut (clip nut on center bow)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418962",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3893979",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9421137",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "4"
+      ],
+      "holds": [
+        "1",
+        "3"
+      ],
+      "to": "roof center bow",
+      "qty": "2 in View A",
+      "torque_ref": "1",
+      "note": "View A: screws [2] go up from below through the overlapping center headlining [1] and rear headlining [3] into clip nuts [4] on the center bow.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear roof",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: further screws [2] go up through the roof panel (rear) headlining into the roof structure, including one at the outer rear corner.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear roof at the rear window opening",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [5] goes in horizontally at the rear of the headlining near the rear window edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [],
+      "to": "front end of the center roof headlining, at the garnish molding",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [6] goes up from below through the bracket at the front of the headlining near the garnish molding.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bow-roof center outer",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [7] goes up through rear headlining [3] into a .144/.148 dia hole in the bow, .17 and .65 from the edges.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".120/.124 DIA HOLE (2) PLACES USE [3] AS TEMPLET",
+    "GAP TO BE EQUAL FRT & REAR",
+    ".12 ±.030",
+    "4.13 (from ℄ OF CAR)",
+    ".144/.148 DIA HOLE"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first digits; visible first digit is cut (3 or 8) followed by '150'. Assumed 7-digit pn.",
+    "Item 4: handwritten '54' over the last digits of printed 9422645; possibly a correction, not applied.",
+    "Faded ghost drawing in the upper middle (a hole dia. note '(2) PLACES' at left) is unreadable.",
+    "Screw [6]: what it holds is not clear (garnish molding or headlining bracket).",
+    "Item 7 torque ref 2 per revision 10 'TORQUE (2) ADDED'.",
+    "Revision 6 'WAS' pn handwritten and overwritten; digits 2-3 unreadable ('3??8100')."
+  ],
+  "revisions": [
+    {
+      "date": "2-3-70",
+      "sym": "6",
+      "text": "WAS 3??8100 CHART-HEADLINING",
+      "was": "3??8100",
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "ITEM 3 DWG REVISED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "VIEW 'B' ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "ITEM 7 ADDED",
+      "was": null,
+      "item": "7"
+    },
+    {
+      "date": "2-13-70",
+      "sym": "10",
+      "text": "TORQUE (2) ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

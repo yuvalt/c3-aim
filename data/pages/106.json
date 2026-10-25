@@ -1,0 +1,238 @@
+{
+  "page": 106,
+  "group": "1",
+  "sheet": "F12",
+  "title": "ROOF PANEL STRIKERS & HOUSING",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) T-top (removable roof panel) latch hardware on the body: the front and rear latch housings along the windshield header/roof opening, the striker plates, and the rear roof locating wedge pins on plates at the rear roof (behind the T-tops). Housings and strikers are screwed on from below; the locating wedge pin and its plate are screwed to the rear roof edge with the plate cemented (57f) and the wedge lubricated (11a).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3947909-10",
+      "name": "PLATE",
+      "name_expanded": "Plate – rear roof locating wedge pin (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "155938",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3934929",
+      "name": "PIN-RR ROOF LOCATING WEDGE",
+      "name_expanded": "Pin – rear roof locating wedge (T-top rear locator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "274598",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3948067-8",
+      "name": "STRIKER PLATE",
+      "name_expanded": "Striker plate – roof panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "4671989",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3932973-4",
+      "name": "HOUSING ASM.-RR",
+      "name_expanded": "Housing assembly – roof panel latch, rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3932971-2",
+      "name": "HOUSING ASM-FRT",
+      "name_expanded": "Housing assembly – roof panel latch, front (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11a",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "locating wedge pin [3] (View A) and striker plate [5]"
+    },
+    {
+      "key": "B",
+      "code": "57f",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "under plate [1] at the rear roof edge (View A, main view)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "windshield header / roof opening frame",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Screw [6] goes up from below into the front housing [8] at the outboard corner of the roof opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "roof opening frame near the center",
+      "qty": "1 shown",
+      "torque_ref": "2",
+      "note": "Screw [6] goes up from below into the rear housing [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "rear roof panel edge",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [4] goes up through striker plate [5] into the rear roof structure.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3",
+        "1"
+      ],
+      "to": "rear roof panel edge",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Screws [2] pass through the locating wedge pin [3] and plate [1] into the rear roof edge; View A shows two screws in plate [1], pin [3] set .24 +/-.03 from the plate edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "57f",
+      "holds": [
+        "1"
+      ],
+      "to": "rear roof panel edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plate [1] is cemented with 57f (View A, main view).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".24 +.03 -.03 (View A)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first digit; visible '947909-10'.",
+    "Item 2: first digit has a small mark at its top but reads as 1.",
+    "Rev 1 circle under item 8's line (3972499 seal removed); which item number the seal had is not shown.",
+    "Rev 2 circle at View A; rev 3 circle next to legend B (57f).",
+    "Main view shows only one side; housings [7]/[8] each with one screw [6] visible.",
+    "Title block: drawing 3965172, PREL 4-18-69, CK 4-21-69 C1, C/O F12. Sideways 'K104' at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "1",
+      "text": "3972499 SEAL REMOVED",
+      "was": "3972499",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "NOTE \"B\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

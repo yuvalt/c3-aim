@@ -1,0 +1,181 @@
+{
+  "page": 120,
+  "group": "1",
+  "sheet": "F26",
+  "title": "FUEL TANK FILLER DOOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Fuel tank filler door (gas door / fuel door on the rear deck) for all models: the round door, its emblem, and the bezel with the built-in hinge that sits in the filler opening. The door is screwed to the bezel hinge through washers, the bezel is screwed into clip nuts on the body opening, and a rubber bumper cushions the door; the screws are adjusted for a 4-6 lb opening effort.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3954544",
+      "name": "DOOR ASM.",
+      "name_expanded": "Fuel filler door assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "446618",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "138482",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9428928",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3849634",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3954576",
+      "name": "BEZEL ASM.",
+      "name_expanded": "Fuel filler door bezel assembly (with hinge)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427761",
+      "name": "NUT",
+      "name_expanded": "Nut (clip nut on the filler opening flange)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3954561",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – fuel door rubber stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3954546",
+      "name": "EMBLEM",
+      "name_expanded": "Emblem – fuel filler door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hinge plate of bezel [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [4] with washer [3] goes through the hinge plate on the bezel into the underside of the door [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "door [1]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [2] threads on a stud that comes through a hole in the door [1] from the outer face; the emblem [9] sits on the outer face with studs, so the nut appears to retain the emblem.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body fuel filler opening",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [5] goes from inside the bezel [6] out through its wall into clip nut [7] on the flange of the filler opening.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Adjust screws evenly to provide a 4 to 6 Pounds opening effort in the direction of arrow \"A\"."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the first two digits; visible '??' + '54544'.",
+    "Nut [2] to emblem [9]: the dashed lines are not fully clear; the emblem's studs point into the door, and nut [2] sits on the inner face over one door hole. Read as the emblem retainer but not certain.",
+    "Bumper [8]: shown pressed into the area next to the hinge; no fastener, so no fastening entry.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-21-69 C1, PREL 4-16-69, C/O F25; model 19000. Revision record is empty. 'K118' printed sideways at lower right.",
+    "Torque legend triangles 2-5 printed with no values."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

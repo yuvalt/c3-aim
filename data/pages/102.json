@@ -1,0 +1,222 @@
+{
+  "page": 102,
+  "group": "1",
+  "sheet": "F8",
+  "title": "WINDSHIELD GARNISH MOLDINGS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Interior windshield garnish moldings (windshield trim/reveal moldings inside the car): the upper molding across the windshield header and the side moldings down each windshield pillar (hinge pillar / A-pillar trim). The upper molding is screwed up into the windshield frame upper; each side molding is screwed at its top and snaps onto two fastener pads riveted to the hinge pillar (View B). Part numbers for the moldings come from charts (by color).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3956280",
+      "name": "CHART-UPPER GARNISH MOLDING",
+      "name_expanded": "Chart – upper windshield garnish molding (coupe)",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "1",
+      "pn": "3956270",
+      "name": "CHART-UPPER GARNISH MOLDING",
+      "name_expanded": "Chart – upper windshield garnish molding (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3909057",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3956200",
+      "name": "CHART SIDE-GARNISH MOLDING",
+      "name_expanded": "Chart – side windshield garnish molding (windshield pillar trim)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918654",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – pad on hinge pillar that the side molding presses onto",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9423122",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3922299",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "159612",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame-upper",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Screws [2] go up from below through the upper molding [1] into the windshield frame header (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame-upper",
+      "qty": "1 per end",
+      "torque_ref": "1",
+      "note": "View A: screw [6] goes through the end of upper molding [1] into the windshield frame-upper, at each corner.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "windshield frame-upper",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "View A: screw [2] goes up through the top end of side molding [3] into the windshield frame-upper. Holes .128/.131 dia., 6 places.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "top of hinge pillar",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Screw [7] with lock washer [8] goes into a bracket at the top of the hinge pillar, at the upper end of side molding [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "hinge pillar",
+      "qty": "2 fasteners per side",
+      "torque_ref": null,
+      "note": "View B: each fastener pad [4] is riveted [5] to the hinge pillar through holes at its ends.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hinge pillar",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "View B: side molding [3] presses onto the fastener pads [4] on the hinge pillar.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".128/.131 DIA. HOLE 6 PLACES"
+  ],
+  "notes_internal": [
+    "Item 1 (19437): hole punch wipes the 5th digit; reads 3956?80.",
+    "Screw [7]/washer [8]: drawing shows them at a bracket on top of the hinge pillar near the top of molding [3]; what they clamp is not fully clear.",
+    "View B shows one rivet [5] but the fastener pad [4] has two holes.",
+    "Title block: drawing 3965172, PREL 4-24-69, CK 4-28-69 C1, C/O F8. Sideways 'K100' at lower right. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

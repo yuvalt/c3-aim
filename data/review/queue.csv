@@ -27,9 +27,47 @@ page,sheet,item,pn,issue,hint
 59,1/B9,13,3974085-6,not in registry,
 60,1/B10,2,3936???,unreadable digits,no registry match
 60,1/B10,,.....99,"registry has it, we don't",BONDING STRIP
+77,1/D4,16,3922392,not in registry,
+77,1/D4,17,3???787,unreadable digits,no registry match
+77,1/D4,18,5638605,not in registry,
+78,1/D5,2,9427723,torque ref 1 not in legend,
+78,1/D5,5,3922099,torque ref 2 not in legend,
+79,1/D6,13,3826920,OCR disagrees,registry agrees
+79,1/D6,14,3930368,OCR disagrees,registry agrees
+80,1/D7,2,3771256,OCR disagrees,registry agrees
+85,1/E2,10,9422245,not in registry,
+85,1/E2,11,3799990,not in registry,
+85,1/E2,12,406306,not in registry,
+87,1/E4,9,9422404,OCR disagrees,registry agrees
+87,1/E4,10,9427713,OCR disagrees,registry agrees
+96,1/F2,4,3962602,not in registry,
+98,1/F4,9,9419327,OCR disagrees,registry agrees
+104,1/F10,2,396663??0,unreadable digits,no registry match
+104,1/F10,,3966640,"registry has it, we don't",RETAINER
+104,1/F10,,3966639,"registry has it, we don't",RETAINER
+105,1/F11,3,9414752,OCR disagrees,registry agrees
+105,1/F11,8,9414764,OCR disagrees,registry agrees
+105,1/F11,11,3936399,OCR disagrees,registry agrees
+108,1/F14,7,3918654,OCR disagrees,registry agrees
+108,1/F14,12,9431625,not in registry,
+108,1/F14,13,3935638,not in registry,
+109,1/F15,4,9422645,not in registry,
+109,1/F15,,9422654,"registry has it, we don't",NUT
+110,1/F16,13,9427868,not in registry,
+110,1/F16,14,140270,not in registry,
 112,1/F18,3,9431792,OCR disagrees,registry agrees
 112,1/F18,3,9431792,local model disagrees,registry agrees
 112,1/F18,11,3938098,local model disagrees,registry agrees
+115,1/F21,,3936362,not in registry,
+115,1/F21,,3843505,not in registry,
+115,1/F21,,9422654,not in registry,
+118,1/F24,4,9419322,not in registry,
+119,1/F25,10,3866846,OCR disagrees,registry agrees
+125,1/F31,6,4876498,not in registry,
+125,1/F31,8,3972305-6,OCR disagrees,registry agrees
+125,1/F31,15,9418712,not in registry,
+125,1/F31,16,7585410,not in registry,
+125,1/F31,,487498,"registry has it, we don't",FASTENER
 142,1/K3,12,3856691,torque ref ? not in legend,
 146,1/K7,3,3966773-4,OCR disagrees,registry agrees
 214,8/B2,10,3833120,not in registry,

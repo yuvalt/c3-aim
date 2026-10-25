@@ -1,0 +1,302 @@
+{
+  "page": 85,
+  "group": "1",
+  "sheet": "E2",
+  "title": "LOWER INSTRUMENT PANELS & STEERING COLUMN COVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Lower instrument panel trim pads (the LH pad around the speedometer/tach and steering column, and the RH dash pad over the glove-box area) and the steering column cover under the column, all models. The pads are screwed into U-nuts on the dash structure, the RH pad through painted eyelets, with a special clip at its RH end (View A); the column cover is screwed to the LH pad and up into a grommet at the column (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3909593",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9422242",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3934285",
+      "name": "EYELET",
+      "name_expanded": "Eyelet (paint body interior trim color)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963140",
+      "name": "CHART-PAD R. H.",
+      "name_expanded": "Lower instrument panel pad – RH (passenger side dash pad)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3934287",
+      "name": "EYELET",
+      "name_expanded": "Eyelet (paint body interior trim color)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9420554",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly (paint body interior trim color)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3963130",
+      "name": "CHART-PAD L. H.",
+      "name_expanded": "Lower instrument panel pad – LH (driver side, around speedometer/tach)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9427868",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3857912",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3799990",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "406306",
+      "name": "GROMMET",
+      "name_expanded": "Grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3945340",
+      "name": "CHART-COVER INST. PANEL",
+      "name_expanded": "Cover – instrument panel (steering column lower cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "14",
+      "pn": "3909073",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3922299",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 - 15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "5 - 10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "5",
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "instrument panel structure, into U-nuts [2] and [1]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [6] go from the front through eyelets [5] (lower) and [3] (along the top edge) in the RH pad [4]; dashed lines run to U-nuts [2] clipped on the center dash support and U-nut [1] on the upper panel. Exact screw-to-nut pairing not fully legible.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "LH end of the dash (cowl side), into U-nuts [2]",
+      "qty": "2 U-nuts shown at the LH end",
+      "torque_ref": "2",
+      "note": "Screw asm. [8] goes from the front through the outer (LH) end of the LH pad [7] into U-nuts [2] clipped to the dash edge; dashed lines from the pad's top tabs also run up to the upper dash.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "11",
+        "4"
+      ],
+      "to": "RH end of the dash",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A (RH outer end of the RH pad): special clip [11] grips the end of pad [4]; screw [10] with washer [9] goes through the clip's tab into the mounting behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "LH pad [7] / panel above the cover",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "View B: two screw asms. [15] go up from below through the steering column cover [13] into the underside of the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "grommet [12] at the steering column",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "View B: screw [14] goes up through the column end of the cover [13] into grommet [12] in a tab under the steering column.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Paint body intr. trim color. (items 3, 5, 6)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-4 (tops visible, round); visible '39' + '??' + '593'.",
+    "Item 2: binder hole covers digits 3-5; visible '94' + hole + '42' (digit 5 partly visible, looks like 2, not used).",
+    "Item 13: binder hole covers the last two digits; visible '39453'.",
+    "Grommet [12] mounting: what the grommet sits in is drawn as a tab under the column, not labeled.",
+    "Revision 1 date: third character unclear ('5-2?-69').",
+    "Revision 2 'SYMBOL 6 DWG REMOVED (1 PLACE)': circled 2 sits at the upper RH corner of LH pad [7]; read as callout 6 removed there.",
+    "Sideways 'K83' by torque legend; triangles 4-5 blank. Title block: drawing 3965172, L-82111, L-86?51, L-87807, L-91192, DR DP/C1, CK 5-5-69 C1, PREL 4-10-69, C/O E2 & E11."
+  ],
+  "revisions": [
+    {
+      "date": "5-2?-69",
+      "sym": "1",
+      "text": "WAS 7805495 GROMMET",
+      "was": "7805495",
+      "item": "12"
+    },
+    {
+      "date": "5-7-70",
+      "sym": "2",
+      "text": "SYMBOL 6 DWG REMOVED (1 PLACE)",
+      "was": null,
+      "item": "6"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

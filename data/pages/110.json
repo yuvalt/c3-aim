@@ -1,0 +1,374 @@
+{
+  "page": 110,
+  "group": "1",
+  "sheet": "F16",
+  "title": "REAR QUARTER & BACK WINDOW TRIM PANELS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Interior trim behind the seats: the rear quarter trim panels (the side panels behind the doors, LH/RH, different for coupe 19437 and convertible 19467), the coupe back window trim (garnish across the top of the rear window opening) and the coupe rear quarter trim panel extension. Panels are screwed into U-nuts on the body; along the lock pillar the panel edge hooks into retainers screwed to the pillar.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9422654",
+      "name": "NUT \"U\"",
+      "name_expanded": "U-nut (clip nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3922441",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3976350",
+      "name": "CHART-BACK WDO TRIM-19437",
+      "name_expanded": "Back window trim (rear window upper garnish), coupe; see trim chart",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3922299",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3974051-2",
+      "name": "PANEL-RR QTR TRIM-19467",
+      "name_expanded": "Panel – rear quarter trim (LH/RH), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966790",
+      "name": "PANEL-RR QTR TRIM",
+      "name_expanded": "Panel – rear quarter trim, coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9428015",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3930917-8",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – rear quarter trim panel at lock pillar (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3976309-10",
+      "name": "RETAINER-19467",
+      "name_expanded": "Retainer – upper lock pillar trim (LH/RH), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3930915-6",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – upper lock pillar trim (LH/RH), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3974063-4",
+      "name": "EXTENSION-RR QTR TRIM PNL-19437",
+      "name_expanded": "Extension – rear quarter trim panel (LH/RH), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9427761",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3923905",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9427868",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "140270",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lock pillar",
+      "qty": "2 places",
+      "torque_ref": "1",
+      "note": "Sec. A-A: screw [6] goes through retainer [7] into the lock pillar flange; the edge of rear quarter trim panel [5] hooks over the retainer.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sec. A-A: trim panel [5] front edge engages retainer [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "upper lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retainer [8] runs along the upper lock pillar above retainer [7]; its fasteners are not called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "1"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "rear quarter inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [13] goes in from the cabin side through trim panel [5] into a U-nut [1]. View A (19467): screw [13] through the convertible panel [5], with U-nut [1] on a retainer bracket behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "14"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "body (top at back window trim, bottom at floor)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [2] fasten the trim panel [5] at its lower end and at its upper end beside the back window trim [3]; washer [14] is under a screw at the upper end. Drill .120-.124 dia hole using [5] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "12"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear window header / roof",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [4] (torque 2) goes in at the outer end of back window trim [3]; screw [12] (torque 1) goes through the trim [3] bracket near its end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "1"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "rear quarter inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [10] goes through extension [9] into a U-nut [1] on the body bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [],
+      "to": "body bracket behind back window trim",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nut [11] is shown on a bracket at the upper rear; mating screw not clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Paint body intr. trim color.",
+    ".120-.124 DIA HOLE USE [5] AS TEMPLATE"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers digit 5 ('9422?54').",
+    "Item 2: hole punch covers digits 4-5 ('392??41').",
+    "Item 13: third digit smudged/overprinted; reads 2.",
+    "Item 6 is printed with torque triangle 1 and circled rev 12 ('TORQUE SYM 3 WAS SYM 1 (2) PLACES'); copied as printed (1). Torque 3 (5-10) is not seen on any callout.",
+    "Washer [14] sits on a screw near [2]; which screw is not certain.",
+    "[A] paint note applies to the 19467 panel [5] in View A and the body area at arrow A."
+  ],
+  "revisions": [
+    {
+      "date": "4-1-70",
+      "sym": "11",
+      "text": "TORQUE 3 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "12",
+      "text": "TORQUE SYM 3 WAS SYM 1 (2) PLACES",
+      "was": null,
+      "item": "6"
+    },
+    {
+      "date": "5-14-70",
+      "sym": "13",
+      "text": "ITEM 14 ADDED",
+      "was": null,
+      "item": "14"
+    },
+    {
+      "date": "",
+      "sym": "14",
+      "text": "HOLE DIM. ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

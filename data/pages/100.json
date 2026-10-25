@@ -1,0 +1,389 @@
+{
+  "page": 100,
+  "group": "1",
+  "sheet": "F6",
+  "title": "LID LOCK ASM., BUMPER & HINGE ASM.",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) folding top lid (the rear deck lid over the soft top storage compartment): lid hinges with assist springs, lid lock, lid weatherstrip, adjustable rubber bumpers and the spacer/plate at the lid edge. Hinges bolt to the lid with shims and to the body frame and floor bracket; the lock screws to the lid underside; the weatherstrip is glued around the lid edge.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966610",
+      "name": "LID ASM.",
+      "name_expanded": "Lid assembly, folding top compartment (rear deck lid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "4523881",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "4523882",
+      "name": "OPT.",
+      "name_expanded": "Spacer, optional (alternate thickness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4523880",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419286",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3912948",
+      "name": "WEATHER STRIP",
+      "name_expanded": "Weatherstrip, folding top lid edge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3755670",
+      "name": "SHIM",
+      "name_expanded": "Shim, hinge to lid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3958890",
+      "name": "HINGE ASM.",
+      "name_expanded": "Hinge assembly, folding top lid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3847758",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3824431",
+      "name": "SPRING",
+      "name_expanded": "Spring, lid hinge assist",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3825694",
+      "name": "SHIM",
+      "name_expanded": "Shim, hinge to floor bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3839741",
+      "name": "BOLT ASM.",
+      "name_expanded": "Bolt assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3846202",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3915781",
+      "name": "LOCK ASM.",
+      "name_expanded": "Lock assembly, folding top lid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3948107",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly, lid bumper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "124829",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3948108",
+      "name": "BUMPER",
+      "name_expanded": "Bumper, lid (adjustable)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "9409107",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "30-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51g",
+      "description": "ADHESIVE",
+      "amount": "3 OZ.",
+      "where": "lid weatherstrip [5] around the lid edge (main view)"
+    },
+    {
+      "key": "B",
+      "code": "1a",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "View A, hinge spring [9]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7",
+        "6"
+      ],
+      "to": "folding top lid asm. [1], rear corner",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: screw assembly [8] goes in from outboard through the hinge arm [7] into the lid, with shim [6] between hinge and lid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "body frame tube behind the compartment",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw assembly [12] fastens the upper hinge body to the frame tube (torque 3 here, 30-35 LBS FT).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "7",
+        "10"
+      ],
+      "to": "hinge floor bracket",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: bolt assembly [11] goes down through the hinge foot into the floor bracket, shim [10] under the foot. Spring [9] hooks between hinge arm and the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "underside of lid asm. [1]",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "View B: screw assemblies [12] go up from below through the lock [13] into the lid inner panel (torque 1 here, 15-20 LBS IN).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "lid asm. [1] edge flange",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [4] through plate [3] and spacer [2] into the lid flange near the front corner.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51g",
+      "holds": [
+        "5"
+      ],
+      "to": "lid asm. [1] edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Weatherstrip [5] glued around the lid edge with 51g adhesive.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "body at the lid opening",
+      "qty": "1 shown",
+      "torque_ref": "4",
+      "note": "View C: screw [17] goes in through the bracket [14] into the body panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "bracket [14]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: bumper [16] threads through the bracket and is locked by nut [15].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers last digits; visible '3966' and a clipped glyph that looks like 6.",
+    "Item 2 (first line): last two digits clipped by binder hole, look like '81'.",
+    "Item 12 carries torque 3 (30-35 LBS FT) in View A (hinge to frame) and torque 1 (15-20 LBS IN) in View B (lock to lid); part torque_ref left null.",
+    "Circled 2 near the material legend = revision 2 (50d cement removed).",
+    "Lid location of bracket [14] (View C) is not labeled further."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-30-69",
+      "sym": "2",
+      "text": "50d CEMENT REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}
