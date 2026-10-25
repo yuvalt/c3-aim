@@ -1,0 +1,125 @@
+{
+  "page": 263,
+  "group": "11/13",
+  "sheet": "A2",
+  "title": "FENDER UPPER, LOWER & LOWER GRILLE PANEL",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front end fiberglass panels: the front fender upper panel (hood surround/upper front body), the LH/RH front fender lower panels, and the radiator grille lower panel (lower front valance under the grilles). The panels are bonded together with bond 'H' (fender lower to upper along the fender seam, grille lower panel to the fender panels), with bonding strips at the joints. No screws or rivets shown.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966680",
+      "name": "PANEL-FENDER UPPER",
+      "name_expanded": "Panel – front fender upper (hood opening surround / upper front end)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3930411-2",
+      "name": "STRIP",
+      "name_expanded": "Strip – bonding strip, fender upper to lower panel joint (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962673-4",
+      "name": "PANEL-FENDER LOWER",
+      "name_expanded": "Panel – front fender lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3976465-6",
+      "name": "STRIP",
+      "name_expanded": "Strip – bonding strip at the radiator grille lower panel joint (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3963126",
+      "name": "PANEL-RAD. GRILLE LOWER",
+      "name_expanded": "Panel – radiator grille lower (lower front valance below the grilles)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3",
+        "1",
+        "2"
+      ],
+      "to": "fender upper panel [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bond 'H' along the joint between fender lower panel [3] and fender upper panel [1]; strip [2] lies along this seam.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5",
+        "4"
+      ],
+      "to": "fender panels at the front lower end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bond 'H' at the joint where the radiator grille lower panel [5] meets the fender panels; strip [4] at the joint.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE These areas to be cut out at assembly.",
+    "NOTE Cut out to dim. shown on vertical flange of [1] L.&R.H.",
+    "View A dimensions: 1.20, 1.95, 1.80, 2.30, 0.1; stations 10 S.V., 15 S.V., 25 S.V."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "Bond 'H' is a bonding-material designation with no legend on this page; no material code given, so 'material' omitted.",
+    "Strips [2] and [4]: drawing shows them along the bonded seams; exact role (bonding strip) inferred from position.",
+    "View A: dimension values read as printed; the '0.1' may be a partial value.",
+    "Title block: L-82101, L-82104, L-91027; DR JM/C1, CK 4-21-69 C1, C/O A2."
+  ],
+  "revisions": [
+    {
+      "date": "4-7-70",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

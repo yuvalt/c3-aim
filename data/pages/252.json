@@ -1,0 +1,219 @@
+{
+  "page": 252,
+  "group": "12",
+  "sheet": "C5",
+  "title": "REAR COMPT LAMP, TAIL & LICENSE LAMP MONITOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear storage compartment lamp (behind-the-seat courtesy lamp) and the tail & license lamp monitor leads (fiber-optic lamp monitor in the console), all models. The compartment lamp screws to the rear compartment lamp bracket (see UPC 1) and its wire is taped to the underbody; the lamp monitor lead, part of the rear body harness, runs forward along the floor in riveted clips to a bracket under the console trim plate that is held by a screw.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "4826802",
+      "name": "LAMP ASM.",
+      "name_expanded": "Lamp assembly – rear compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3724851",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "163448",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "4237257",
+      "name": "LENS",
+      "name_expanded": "Lens – rear compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "142453",
+      "name": "BULB",
+      "name_expanded": "Bulb – rear compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3937605",
+      "name": "CLIP",
+      "name_expanded": "Clip – lamp monitor lead",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Not listed on this page (callout list cut off); drawing shows the lamp monitor lead bracket under the console trim plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Not listed on this page (callout list cut off); drawing shows a bracket/clip for the monitor leads under the console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Not listed on this page (callout list cut off); drawing shows a screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "13-18",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "12-14",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear compartment lamp bracket (see UPC 1)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] through lamp [1] into the bracket; bulb [5] in the lamp, lens [4] closes it. View A: lamp plugs into the rear body harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [],
+      "to": "underbody",
+      "qty": "3 pieces, 2 in. each",
+      "torque_ref": null,
+      "note": "Tape [2] (A1) holds the rear compartment lamp wire to the underbody.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "floor / tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [6] hold the lamp monitor lead (part of the body rear harness) along the floor and up the tunnel; each riveted [7] (View B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "7"
+      ],
+      "holds": [
+        "8",
+        "9"
+      ],
+      "to": "under console trim plate",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw [10] and rivet [7] fasten the lamp monitor lead bracket parts [8]/[9]; green lead to RH side, yellow lead to LH side.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 1. 2 In. -3 places used to tape rear compt. lamp wire to underbody.",
+    "REAR COMPT LAMP BRACKET (SEE UPC 1)",
+    "CONSOLE SEE UPC 1 ASM",
+    "GREEN R.H. SIDE / YELLOW L.H. SIDE",
+    "LAMP MONITOR LEAD PART OF BODY RR HARN"
+  ],
+  "notes_internal": [
+    "Callouts 8, 9, 10 appear in View B but the callout list stops after 7 (edge of an 8th box visible, rest blank/cut off); part numbers unknown, entries left blank.",
+    "Torque 2 (12-14 LBS IN) not found next to any callout.",
+    "Circled 1 near the rear body harness in main view = revision 1 (harness dwg revised).",
+    "Small 'K250' printed sideways near lower right; meaning unclear."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "HARNESS DW'G. REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

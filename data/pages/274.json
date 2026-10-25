@@ -1,0 +1,201 @@
+{
+  "page": 274,
+  "group": "11/13",
+  "sheet": "B1",
+  "title": "FENDER SKIRT SEALS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front-end fender skirt seals (all models): rubber seal strips that close the gaps between the front fender skirts (inner fenders / wheelhouse panels), the frame, the front bumper brace and the lower radiator grille panel, plus a dust shield around the upper control arm opening. The seals are stapled on with staples [2] (6 places for code A, 9 for B, 4 for C); the retainer under the lower panel seal is bonded. Related sheets: B2 (skirt and splash shield to fender).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "???????",
+      "name": "?",
+      "name_expanded": "Seal on top edge of the front fender skirt (callout shown in drawing; list line missing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9985029",
+      "name": "STAPLE",
+      "name_expanded": "Staple",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3947933-4",
+      "name": "SHIELD ASM. -DUST",
+      "name_expanded": "Dust shield assembly (LH/RH), at the upper control arm opening in the fender skirt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3766251",
+      "name": "SEAL-SKIRT (RR)",
+      "name_expanded": "Seal – fender skirt, rear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3932907",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (for lower panel seal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3932904",
+      "name": "SEAL-LOWER PNL.",
+      "name_expanded": "Seal – lower radiator grille panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3934837",
+      "name": "SEAL-FRAME",
+      "name_expanded": "Seal – fender skirt to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3947927",
+      "name": "SEAL-BRACE",
+      "name_expanded": "Seal – front bumper brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "top edge of front fender skirt",
+      "qty": "code A (6 places total for A)",
+      "torque_ref": null,
+      "note": "Seal [1] is stapled along the top flange of the skirt with staples [2], callout 2-A.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear edge of fender skirt",
+      "qty": "code A",
+      "torque_ref": null,
+      "note": "Rear skirt seal [4] stapled with staples [2], callout 2-A.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "front bumper brace",
+      "qty": "code A",
+      "torque_ref": null,
+      "note": "Seal [8] wraps the front bumper brace where it passes through the skirt; stapled with [2], callout 2-A.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lower edge of skirt along the frame",
+      "qty": "4 places (code C)",
+      "torque_ref": null,
+      "note": "Frame seal [7] stapled with [2], callout 2-C.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "retainer [5] / lower radiator grille panel",
+      "qty": "9 places (code B)",
+      "torque_ref": null,
+      "note": "Lower panel seal [6] stapled with [2], callout 2-B.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5"
+      ],
+      "to": "lower radiator grille panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Leader BOND \"B\" points at the retainer [5] where it sits on the lower radiator grille panel.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A 6 Places",
+    "B 9 Places",
+    "C 4 Places"
+  ],
+  "notes_internal": [
+    "Item 1 appears in the drawing (seal on the skirt top, with staples 2-A) but there is no item 1 line in the callout list; probably lost above item 2 (top of page/hole punch). pn and name unknown.",
+    "Dust shield [3]: drawing shows it around the upper control arm opening in the skirt but no fastener; not shown how it is retained.",
+    "Group printed in UPC box as 11/13.",
+    "BOND \"B\" refers to a bond spec, not a legend material; no material legend on this sheet."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

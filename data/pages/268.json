@@ -1,0 +1,315 @@
+{
+  "page": 268,
+  "group": "11/13",
+  "sheet": "A7",
+  "title": "HOOD LOCK & RELEASE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Hood locks (the two latch assemblies on the plenum/cowl panel ahead of the windshield that catch the hood) and the hood release cable that runs from the release at the L.H. door pillar to the locks. Each lock is held down by nuts with lock and plain washers on studs that come up from the plate/reinforcement under it; one lock sits on a plate riveted into the plenum-center panel, the other on a reinforcement riveted in place. The cable is clipped to the L.H. pillar with a screw, passes through a grommet, and is clamped to the lock lever by a screw. Related: A8 (hood, hinge, support & catch).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut – hood lock to plate/reinforcement stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3852446",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3931650",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – hood release cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3856691",
+      "name": "SCREW",
+      "name_expanded": "Screw – hood release cable clip at L.H. pillar",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3931649",
+      "name": "CABLE ASM.",
+      "name_expanded": "Cable assembly – hood release",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "375437",
+      "name": "GUIDE",
+      "name_expanded": "Guide – hood lock (on lock assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3916702",
+      "name": "PLUG",
+      "name_expanded": "Plug – hole in plenum panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3914320",
+      "name": "REINF.",
+      "name_expanded": "Reinforcement – hood lock mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3966621-2",
+      "name": "HOOD LOCK ASM.",
+      "name_expanded": "Hood lock assembly (LH/RH) – hood latch on the plenum/cowl",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3976456",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly – hood lock mounting, riveted to plenum-center panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "451924",
+      "name": "SCREW",
+      "name_expanded": "Screw – cable to lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1q",
+      "description": "GREASE-LUBRICANT",
+      "amount": "",
+      "where": "cable [6] wire / lock lever area at the right-hand lock view"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2",
+        "3"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "studs on plate [12] / reinforcement [10] below the lock",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [1] over lock washer [2] and plain washer [3] on top of the lock base, both lock views. The studs come up from the plate/reinforcement and have no callout of their own (they are part of the plate/reinforcement or lock, not separate studs).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "9"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "plenum-center panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plate assembly [12] riveted into the plenum-center panel with rivets [14] at the side and rivet [9] from above (left view). Drill 7/32 holes (7) using [12] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "body under the other lock (right view)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [9] (two callouts) fasten reinforcement [10] under the lock in the right view.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "L.H. pillar",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [5] fastens the cable [6] end bracket/clip at the L.H. pillar (release end).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "hood lock [11] lever",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [13] clamps the cable wire to the lock lever; bend wire after assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "how": "seals",
+      "holds": [
+        "6"
+      ],
+      "to": "panel hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Grommet [4] where the cable passes through the panel near the lock.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "8"
+      ],
+      "to": "plenum panel hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [8] pressed into a hole in the plenum panel (left view).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "The center of the shoulder bolts of the lock assemblies must be accurately aligned with the centerline of the mating openings in the lock covers before the lock nuts are torqued.",
+    "Bend wire after asm.",
+    "7/32 +0/-1/64? DIA (7) HOLES IN PLENUM-CENTER PANEL - USE [12] AS TEMPLATE."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "Torque ref 4 (20-30 LBS FT) is tagged 'LOCK' beside a solid black square at each lock: the lock's own shoulder bolt/stud, which has no separate callout. Put on part 11.",
+    "Hole tolerance written by hand, read as '+0 / -1/64'; not certain.",
+    "Guide [7]: drawn on the lock; how it is attached isn't shown.",
+    "Torque legend has an empty 5th triangle.",
+    "Which lock view is LH vs RH isn't labelled; right view is near the L.H. pillar."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

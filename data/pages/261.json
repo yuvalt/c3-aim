@@ -1,0 +1,173 @@
+{
+  "page": 261,
+  "group": "12",
+  "sheet": "D8",
+  "title": "WIRING DIAGRAM-BODY & TAIL LAMP",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Rear body wiring, right side, all models (sheet D8): RH door ajar warning switch, glove compartment lamp and switch, fuel tank meter (fuel gauge sending unit), RH side marker lamp, RH backing (back-up) lamp, RH tail/stop/turn lamp (outboard) and license plate lamp, with grounds. Includes the legend: solid line = Chevrolet wiring, dashed = Chevrolet RPO wiring. Continues down to D7.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Revision 1 marker (circled 1) is on the 20 R wire to the glove compartment lamp; old wire was 20 OR (wire spec, 'was' left null). AUTH 25948, DR RS, CK CI.",
+    "Sheet number K259 printed at lower left.",
+    "Wiring diagram: no callout list, part numbers, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes are not traced in the tables; only sheet-edge wire lists and wires labelled at a component are listed.",
+    "Title block: drawing 3965172, 1970 CORVETTE SERIES, L-93230, DR RT/CI, CK 4-18-69 CI, PREL/C-O D8 3-12-69."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "GLOVE COMPT LP WIRE WAS 20 OR",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "Components and wires labelled at them",
+      "columns": [
+        "component (as printed)",
+        "wires (gauge color)"
+      ],
+      "rows": [
+        [
+          "R.H. DOOR AJAR WARNING SW",
+          "20 LBL, 20 B"
+        ],
+        [
+          "GLOVE COMPT LP. & SW.",
+          "20 B/OR, 20 B (from 20 R and 20 B at bottom edge)"
+        ],
+        [
+          "FUEL MTR",
+          "18 B, 18 T"
+        ],
+        [
+          "R.H. MARKER LP.",
+          "18 BRN, 18 B"
+        ],
+        [
+          "R.H. TAIL, STOP & DIR SIG LP. OUTBOARD",
+          "18 BRN, 18 DG (through GROMMET); 16 B ground"
+        ],
+        [
+          "R.H. BACKING LP.",
+          "18 LG (through GROMMET)"
+        ],
+        [
+          "LICENSE LP.",
+          "18 BRN (via inline connector)"
+        ],
+        [
+          "Ground eyelets",
+          "16 B, 16 B"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving bottom edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "20 LBL",
+          "D7"
+        ],
+        [
+          "2",
+          "20 B",
+          "D7"
+        ],
+        [
+          "3",
+          "20 B",
+          "D7"
+        ],
+        [
+          "4",
+          "20 R",
+          "D7"
+        ],
+        [
+          "5",
+          "18 B",
+          "D7"
+        ],
+        [
+          "6",
+          "18 T",
+          "D7"
+        ],
+        [
+          "7",
+          "18 BRN",
+          "D7"
+        ],
+        [
+          "8",
+          "18 LG",
+          "D7"
+        ],
+        [
+          "9",
+          "18 DG",
+          "D7"
+        ],
+        [
+          "10",
+          "18 BRN",
+          "D7"
+        ],
+        [
+          "11",
+          "18 BRN",
+          "D7"
+        ],
+        [
+          "12",
+          "18 B",
+          "D7"
+        ],
+        [
+          "13",
+          "16 B",
+          "D7"
+        ]
+      ]
+    },
+    {
+      "title": "LEGEND",
+      "columns": [
+        "line",
+        "meaning"
+      ],
+      "rows": [
+        [
+          "solid",
+          "CHEVROLET WRG"
+        ],
+        [
+          "dashed",
+          "CHEVROLET RPO WRG"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

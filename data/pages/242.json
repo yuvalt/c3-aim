@@ -1,0 +1,157 @@
+{
+  "page": 242,
+  "group": "12",
+  "sheet": "B4",
+  "title": "INSTRUMENT PANEL WIRING HARNESS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the instrument panel wiring harness (dash harness) behind the tach and speedometer, with the gauge bulbs (cluster illumination, high-beam 'bright' indicator, LH/RH turn indicators, 'park' alarm) and the courtesy lamp bulb, and its branches to the fuse panel, ignition switch, back-up lamp switch, stop lamp switch, clutch safety switch, dir. signal connector, W/S wiper override switch, body harness connector and LH door jamb switch. The harness is held with clips; a rivet goes into a 13/64 dia. hole under the panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "8901371",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Instrument panel wiring harness assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9417863",
+      "name": "BULB",
+      "name_expanded": "Bulb – gauge illumination / indicator (A–E)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "193125",
+      "name": "BULB-COURTESY LAMP",
+      "name_expanded": "Bulb – courtesy lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3928753",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3331877",
+      "name": "RIVET",
+      "name_expanded": "Rivet – harness clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3901794",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness retaining",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "84-120",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument panel structure",
+      "qty": "2 callouts",
+      "torque_ref": null,
+      "note": "Clips [6] hold the harness [1]: one at the upper harness bundle behind the tachometer, one push-in clip into a hole in the panel ahead of the 2.00 dimension.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument panel, 13/64 dia. hole",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Rivet [5] goes up into a 13/64 dia. hole under the panel (dimensioned 2.00 and 1.00 from the clip hole/edge) to retain the harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "tachometer and speedometer bulb sockets",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulbs [2] twist into harness sockets in the gauge backs: A cluster illumination, B 'bright' indicator, C L.H. direction indicator, D 'park' alarm, E R.H. direction indicator.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "courtesy lamp socket on harness, right side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Courtesy lamp bulb [3] plugs into the harness lamp socket at the right of the speedometer.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Route over air duct thru rear rect pillar hole, down thru pillar to SW.",
+    "13/64 DIA. HOLE; dimensions 2.00 and 1.00.",
+    "A Cluster Illumination; B \"Bright\" Indicator; C L.H. Direction Indicator; D \"Park\" Alarm; E R.H. Direction Indicator.",
+    "Branches: TACH GROUND, TO BACK-UP LAMP SW, TO IGN SW., TO RADIO CAPACITOR, TO STOP LAMP SW., TO DIR. SIG. CONNECTOR, TO CLUTCH SAFETY SW, TO W/S WIPER OVERIDE SWITCH, TO BODY WIRING HARN. CONN., SPEEDOMETER GROUND, FUSE PANEL, TO GROUND SCREW, TO L.H. DOOR JAMB SWITCH. Also GROMMET (UPC-12), RIVET (UPC5), BRAKE PEDAL HOUSING COVER."
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch covers the middle digits; visible '89' ... '1' (OCR '896 11', not trusted). Recorded 89????1.",
+    "Item 4 switch asm.: callout not found in the drawing; likely the switch reached by the NOTE routing, but not stated. No fastening entry.",
+    "Torque legend has one value (84-120 LBS IN, triangle 1) but no matching triangle found in the drawing.",
+    "Revision block is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

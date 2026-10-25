@@ -1,0 +1,222 @@
+{
+  "page": 276,
+  "group": "11/13",
+  "sheet": "B3",
+  "title": "RADIATOR SUPPORT & FAN SHROUD SEALS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Foam/rubber seals on the radiator support (core support) and the fan shroud, all models: the radiator-support-to-hood seal on top, upper, lower and side seals on the support frame, and the side seal around the fan shroud. The hood seal and lower seal are held by push-in fasteners [5], a side seal by fastener [7], a bracket on the top rail by screw [8], and the shroud seal is stapled on (16 places).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3919764",
+      "name": "SEAL-SIDE",
+      "name_expanded": "Seal – fan shroud side",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9985029",
+      "name": "STAPLE",
+      "name_expanded": "Staple",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3954564",
+      "name": "SEAL-UPPER",
+      "name_expanded": "Seal – radiator support upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3966643-4",
+      "name": "SEAL",
+      "name_expanded": "Seal – radiator support side (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966532",
+      "name": "FASTENER",
+      "name_expanded": "Fastener (push-in)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3966645",
+      "name": "SEAL-LOWER",
+      "name_expanded": "Seal – radiator support lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3654537",
+      "name": "FASTENER",
+      "name_expanded": "Fastener (push-in)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9419400",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3963192",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – on radiator support top rail",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3972379",
+      "name": "SEAL-RAD SUPT TO HOOD",
+      "name_expanded": "Seal – radiator support to hood",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "top of radiator support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Push-in fastener [5] goes down through the hood seal [10] into holes in the top of the radiator support (dash-dot lines show two hole locations).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "radiator support lower rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Push-in fastener [5] from the front through the lower seal [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "radiator support side post",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fastener [7] pushes in from the front through the side seal [4] on the LH post.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "radiator support top rail",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] from the front into the hole in bracket [9] on the top rail.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "fan shroud",
+      "qty": "16 places (A)",
+      "torque_ref": null,
+      "note": "Side seal [1] stapled around the fan shroud rim with staples [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A 16 places."
+  ],
+  "notes_internal": [
+    "Upper seal [3] and RH side seal [4]: shown in place on the support; no fastener drawn for them.",
+    "Revision 1 text reads 'WAS 392280 RETAINER' (6 digits as written); circled 1 is beside item 7.",
+    "Group printed in UPC box as 11/13."
+  ],
+  "revisions": [
+    {
+      "date": "1-5-70",
+      "sym": "1",
+      "text": "WAS 392280 RETAINER",
+      "was": "392280",
+      "item": "7"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

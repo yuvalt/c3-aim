@@ -1,0 +1,385 @@
+{
+  "page": 251,
+  "group": "12",
+  "sheet": "C4",
+  "title": "REAR WIRING HARNESS & COMPT LAMP",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear body wiring harness routing behind the seats (along the lock pillar, support-lock pillar brace and R.H. wheelhouse) plus the rear storage compartment lamp (center compartment courtesy lamp), switch and lens, all models. The harness is held by clips that are riveted or screwed to the body, passes through grommets, and plugs into the instrument panel harness; the door ajar switch screws into the lock pillar through a grommet and its wire is taped to the pillar and wheelhouse.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3894533",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness at lock pillar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3724851",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3977822",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – door ajar switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3929804",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – door ajar (door jamb switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3923961",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "8901531",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Rear body wiring harness assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3935510",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9419303",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3919057",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3952485",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3880976",
+      "name": "LENS ASM.",
+      "name_expanded": "Lens assembly – compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9417863",
+      "name": "BULB",
+      "name_expanded": "Bulb – compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3937605",
+      "name": "CLIP",
+      "name_expanded": "Clip – door ajar wire on support-lock pillar brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "23-33",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "60-80",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "1",
+        "6"
+      ],
+      "to": "lock pillar at the support-lock pillar brace",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [10] fastens clip [1] holding the harness; top of clip [1] must sit higher than the top edge of the support-lock pillar brace.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Door ajar switch [4] threads into the lock pillar through grommet [3]; its wire is taped [2] to the pillar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [],
+      "to": "forward surface of lock pillar and R.H. wheelhouse",
+      "qty": "5 in. ea. 2 places at pillar; 5 in. at wheelhouse",
+      "torque_ref": null,
+      "note": "Tape [2] holds the door ajar wire: A1 two 5 in. pieces on the lock pillar forward surface, A2 one 5 in. piece on the R.H. wheelhouse.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "body (rivets see UPC 1)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [5] hold the harness along the rear compartment and sill; the rivets are called out in UPC 1, not here.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "body holes",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: rivet [11] through clip [5] into the body holes. Rivet [11] also fastens clip [7] at the harness grommet near the R.H. wheelhouse.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "body near R.H. wheelhouse",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [7] holds the harness where it passes through the harness grommet toward the rear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7",
+        "6"
+      ],
+      "to": "floor near the instrument panel harness connector",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] fastens clip [7] holding harness [6] before it plugs into the instrument panel harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "how": "seals",
+      "holds": [
+        "6"
+      ],
+      "to": "body panel at the lock pillar base",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Harness passes through grommet [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [],
+      "to": "support-lock pillar brace",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [15] holds the door ajar wire on the brace; rivets (see UPC 1) shown 12.80 ref apart.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12",
+        "14",
+        "13"
+      ],
+      "to": "center compartment",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: lamp switch [12] and bulb [14] sit in the center compartment housing; lens [13] snaps on (called out 3 times in exploded steps). No separate fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Position top of [1] higher than top edge of support-lock pillar brace.",
+    "[A] 1. (5 in. ea 2 places) Door ajar wire to forward surface of Lock Pillar. 2. (5 in.) Door ajar wire to R.H. Wheelhouse",
+    "12.80 REF",
+    "RIVET (SEE UPC 1)",
+    "TO R.H. DOOR AJAR SW."
+  ],
+  "notes_internal": [
+    "Rev 7 old pn third digit unclear: '38?4523'.",
+    "Rev 8 date last digit hidden: '2-19-7?'. Rev 4 date read as 7-7-69.",
+    "'K249' printed vertically beside empty triangles 4-5; meaning unclear.",
+    "Circled 5 near clip [15] is revision 5 symbol (harness revised).",
+    "Harness [6] connector to instrument panel harness shown; its other end routing is per drawing."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "4",
+      "text": "ITEM (15) ADDED",
+      "was": null,
+      "item": "15"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "HARNESS ASM REVISED",
+      "was": null,
+      "item": "6"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "TORQUE 3 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "WAS 38?4523 CLIP",
+      "was": "38?4523",
+      "item": "1",
+      "uncertain": true
+    },
+    {
+      "date": "2-19-7?",
+      "sym": "8",
+      "text": "WAS 3901630 GROMMET",
+      "was": "3901630",
+      "item": "3"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "page": 255,
+  "group": "12",
+  "sheet": "D2",
+  "title": "WIRING DIAGRAM-ENGINE COMPARTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Engine compartment wiring diagram, all models (right-hand front half shown on this sheet): R.H. headlamps, park/turn signal and marker lamps, horns, starter solenoid, coil and distributor, alternator (A.C. generator) with fusible link, TCS (transmission controlled spark) solenoid, relay and switches, heater blower, temperature switch, wiper motor and limit switch, and the back-up lamp switch. Wire gauges and colors are listed per component; wires continue to the adjoining sheets D1-D8.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "RADIATOR SUPPORT",
+    "DASH PANEL",
+    "FUSIBLE LINK",
+    "ADJOINING SHEET NUMBER KEY: D2 D4 D6 D8 / D1 D3 D5 D7"
+  ],
+  "notes_internal": [
+    "Wiring diagram: no callout list, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes not traced; component table lists only labels printed next to each component. Headlamp, marker, horn and door-warning switch wires are unlabeled at the component.",
+    "Edge table lists the wire labels where the bundle leaves the bottom of the sheet, left to right.",
+    "'K253' printed sideways beside the adjoining sheet key."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "Components and wires (gauge + color as labeled)",
+      "columns": [
+        "component",
+        "wires"
+      ],
+      "rows": [
+        [
+          "R.H. PARK & DIR. SIG LP",
+          "18 W, 18 LBL, 18 BRN"
+        ],
+        [
+          "R.H. MARKER LP.",
+          "(wires not labeled at lamp)"
+        ],
+        [
+          "R.H. headlamps (two sealed beams)",
+          "18 LG, 16 B at lower lamp connector; upper lamp wires not labeled at lamp"
+        ],
+        [
+          "R.H. H/L DOOR WARN. LP. SWITCH",
+          "(wire not labeled at switch)"
+        ],
+        [
+          "HI HORN",
+          "(wire not labeled at horn)"
+        ],
+        [
+          "LOW HORN",
+          "(wire not labeled at horn)"
+        ],
+        [
+          "Engine ground TO FRAME",
+          "2 B"
+        ],
+        [
+          "START MTR / SOL terminal S",
+          "12 PPL"
+        ],
+        [
+          "START MTR / SOL terminal B",
+          "2 B; 12 R spliced to 14 BRN"
+        ],
+        [
+          "START MTR / SOL terminal R",
+          "20 Y to COIL +"
+        ],
+        [
+          "Ground near starter",
+          "14 B (to HTR BLO)"
+        ],
+        [
+          "COIL",
+          "+ : 20 Y; - : to DIST"
+        ],
+        [
+          "DIST / V-8 ENG",
+          "spark plug wires to cylinders 1-8 (firing layout shown)"
+        ],
+        [
+          "TCS SOL",
+          "20 B, 20 DBL"
+        ],
+        [
+          "TCS RELAY",
+          "18 DG"
+        ],
+        [
+          "TCS TEMP SW.",
+          "20 DG, 20 DG, 20 DG"
+        ],
+        [
+          "A.C. GEN.",
+          "10 R, 24 BRN/W, 10 R, 12 B"
+        ],
+        [
+          "FUSIBLE LINK",
+          "(shown in a lead near the coil; wire not labeled at the link)"
+        ],
+        [
+          "HTR BLO",
+          "14 OR, 14 B, 18 B"
+        ],
+        [
+          "TCS SW.",
+          "20 B"
+        ],
+        [
+          "TEMP SW.",
+          "20 DG, 20 DBL, 20 P"
+        ],
+        [
+          "Switch beside LIMIT SW. (unlabeled)",
+          "12 R/W, 12 R/W"
+        ],
+        [
+          "LIMIT SW.",
+          "18 R, 12 R/W/DBL"
+        ],
+        [
+          "WIPER MOTOR",
+          "18 B (from HTR BLO ground), 18 R; connector to 18 Y, 18 LBL, 18 DBL, 18 LG"
+        ],
+        [
+          "BACK LP. SWITCH",
+          "18 P, 18 LG"
+        ],
+        [
+          "Splice at dash panel",
+          "20 OR to 14 B"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving bottom edge (left to right)",
+      "columns": [
+        "wire"
+      ],
+      "rows": [
+        [
+          "14 DG"
+        ],
+        [
+          "18 B"
+        ],
+        [
+          "16 B"
+        ],
+        [
+          "16 T"
+        ],
+        [
+          "20 BRN"
+        ],
+        [
+          "20 BRN"
+        ],
+        [
+          "20 B"
+        ],
+        [
+          "20 B"
+        ],
+        [
+          "18 W/DG"
+        ],
+        [
+          "16 LG"
+        ],
+        [
+          "20 DBL"
+        ],
+        [
+          "14 DG"
+        ],
+        [
+          "12 B"
+        ],
+        [
+          "10 R"
+        ],
+        [
+          "24 BRN/W"
+        ],
+        [
+          "10 R"
+        ],
+        [
+          "18 DG"
+        ],
+        [
+          "20 W-R/B"
+        ],
+        [
+          "12 PPL"
+        ],
+        [
+          "10 R"
+        ],
+        [
+          "2 B"
+        ],
+        [
+          "14 OR"
+        ],
+        [
+          "20 P"
+        ],
+        [
+          "12 R/W/DBL"
+        ],
+        [
+          "18 Y"
+        ],
+        [
+          "18 LBL"
+        ],
+        [
+          "18 DBL"
+        ],
+        [
+          "18 LG"
+        ],
+        [
+          "14 B"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

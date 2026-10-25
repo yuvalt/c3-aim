@@ -1,0 +1,118 @@
+{
+  "page": 262,
+  "group": "11/13",
+  "sheet": "A1",
+  "title": "FRONT END SHEET METAL CONTENTS",
+  "models": [],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the front end sheet metal section (UPC 11/13): front fenders, lower grille panel and extension, fender-to-dash bonding, center and outer grilles, hood lock/release, hood hinge/support/catch, front fender emblem and side louver, body checking (A sheets), and fender skirt seals, splash shields, radiator support, radiator, fan shroud and supply (surge) tank (B sheets). Drawings of the front body and radiator support point to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts.",
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "Drawing callouts: front body view (A2-A10, B2) and radiator support/fender skirt view (B1-B6).",
+    "Title block: DR JM/C1, CK 4-18-69 C1, PREL 3-21-69, C/O A1, model 19000 (all). Rev 1 AUTH partly illegible, not stored."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "FRONT END SHEET METAL CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "FENDER UPPER, LOWER & LOWER GRILLE PNL."
+        ],
+        [
+          "A3",
+          "RADIATOR GRILLE LWR. PANEL EXTENSION"
+        ],
+        [
+          "A4",
+          "FENDER PANELS TO DASH PANEL"
+        ],
+        [
+          "A5",
+          "GRILLE-CENTER & REINFORCEMENT"
+        ],
+        [
+          "A6",
+          "GRILLE-OUTER LAMP & GRILLE ATTACHMENT"
+        ],
+        [
+          "A7",
+          "HOOD LOCK & RELEASE"
+        ],
+        [
+          "A8",
+          "HOOD, HINGE, SUPPORT & CATCH"
+        ],
+        [
+          "A9",
+          "FRONT FENDER EMBLEM & PIERCING"
+        ],
+        [
+          "A10",
+          "FRONT FENDER SIDE LOUVER"
+        ],
+        [
+          "A11",
+          "BODY CHECKING"
+        ],
+        [
+          "A12",
+          "BODY CHECKING"
+        ],
+        [
+          "B1",
+          "FENDER SKIRT SEALS"
+        ],
+        [
+          "B2",
+          "FENDER SKIRT & SPLASH SHIELD TO FENDER"
+        ],
+        [
+          "B3",
+          "RADIATOR SUPPORT & FAN SHROUD SEALS"
+        ],
+        [
+          "B4",
+          "RADIATOR TO SUPPORT"
+        ],
+        [
+          "B5",
+          "RADIATOR FAN SHROUD"
+        ],
+        [
+          "B6",
+          "RADIATOR SUPPLY TANK"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

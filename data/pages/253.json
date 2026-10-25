@@ -1,0 +1,328 @@
+{
+  "page": 253,
+  "group": "12",
+  "sheet": "C6",
+  "title": "REAR TAIL, LICENSE & BACK-UP LAMP & HARNESS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear lighting, all models: the round tail/stop/turn signal lamps (taillights) and back-up lamps (reverse lights) in the body rear lower panel, the rear side marker lamps in the rear quarter panels, the license lamp, and the body rear harness that feeds them. The tail and back-up lamps have their own threaded studs that pass through the rear panel and take nuts with special washers from inside; the marker lamp also has its own studs with nuts. The harness is clipped with a screw at the lamp monitor, and an LH-only ground lead screws to the frame.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3799990",
+      "name": "CLIP",
+      "name_expanded": "Clip – body rear harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9417075",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "134551",
+      "name": "NUT",
+      "name_expanded": "Nut – tail / back-up lamp stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "606404",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer – tail / back-up lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "910997",
+      "name": "LAMP ASM.-BACK-UP",
+      "name_expanded": "Back-up lamp (reverse light) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "910388",
+      "name": "LAMP ASM.-TAIL, DIR. SIG. & STOP",
+      "name_expanded": "Tail, turn signal & stop lamp (taillight) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(item removed, rev 1: was 5960511 gasket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3973653-4",
+      "name": "LAMP ASM.-MARKER",
+      "name_expanded": "Rear side marker lamp assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9421330",
+      "name": "BULB",
+      "name_expanded": "Bulb – side marker lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(item removed, rev 2: was 3919042 bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419841",
+      "name": "NUT",
+      "name_expanded": "Nut – marker lamp stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9420152",
+      "name": "SCREW",
+      "name_expanded": "Screw – ground lead to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9414713",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "916578",
+      "name": "LAMP ASM.-LICENSE",
+      "name_expanded": "License plate lamp assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "4770719",
+      "name": "CAP",
+      "name_expanded": "Cap (LH only)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "38-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "body rear lower panel (see UPC 1)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Tail lamps [6] and back-up lamps [5] carry their own threaded studs (no separate stud callout); the studs go through the rear lower panel from outside and take a special washer [4] and nut [3] from inside.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "rear quarter panel (see UPC 1)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Marker lamp [8] has its own studs (no separate callout) that go through the quarter panel; nut [11] from inside. Bulb [9] twists into the marker lamp socket from behind.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "14"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "lamp monitor bracket area at the rear panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [2] through clip [1] (holding the body rear harness) with lock washer [14] near the lamp monitor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [],
+      "to": "body, at the lamp monitor",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [15] driven up from below through the lamp monitor bracket; a second [15] callout points at the bracket mounting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "12"
+      ],
+      "holds": [],
+      "to": "frame",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "LH only: ground wire lead eyelet held to the frame by screw [13] with lock washer [12].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "GRD. WIRE LEAD L.H. ONLY",
+    "[17] L.H. ONLY",
+    "BODY RR LOWER PNL (SEE UPC 1)",
+    "RR QUARTER PNL (SEE UPC 1)",
+    "LAMP MONITOR"
+  ],
+  "notes_internal": [
+    "Torque 2 reads '38-50' at 900 dpi (unusual; could be a smudged 35); copied as printed.",
+    "License lamp [16] not shown in the drawing; no fastening.",
+    "Cap [17] (LH only) shown near the lamp monitor bracket; purpose not clear from drawing.",
+    "Items 7 and 10 lines are blank (removed per revisions 1 and 2).",
+    "'K251' printed sideways beside the torque legend.",
+    "Exact role of the bracket pointed at by the first [15] leader is unclear."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "5960511 GASKET RMVD",
+      "was": "5960511",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "3919042 BRACKET RMVD",
+      "was": "3919042",
+      "item": "10"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

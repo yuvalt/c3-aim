@@ -1,0 +1,204 @@
+{
+  "page": 239,
+  "group": "12",
+  "sheet": "B1",
+  "title": "FUSE PANEL ASM & DIMMER SWITCH",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Mounting of the fuse panel (fuse block, part of the instrument panel wiring harness) on the dash panel (firewall) under the instrument panel, with the hazard flasher plugged into it, and of the floor-mounted headlamp dimmer switch (foot dimmer switch) on the lower dash panel. The fuse panel is screwed to the dash panel with screws into plates; the dimmer switch is held by a rivet and a screw assembly into a plate.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3926215",
+      "name": "PLATE",
+      "name_expanded": "Plate – fuse panel mounting (on dash panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3928799",
+      "name": "FLASHER ASM-HAZARD",
+      "name_expanded": "Flasher assembly – hazard warning",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3904868",
+      "name": "OPT.",
+      "name_expanded": "Flasher – optional alternate for item 2",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3934200",
+      "name": "OPT.",
+      "name_expanded": "Flasher – optional alternate for item 2",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9428475",
+      "name": "SCREW",
+      "name_expanded": "Screw – fuse panel to dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet – dimmer switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1997028",
+      "name": "SWITCH ASM-DIMMER",
+      "name_expanded": "Headlamp dimmer switch assembly (foot dimmer switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3814824",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – dimmer switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3915692",
+      "name": "PLATE",
+      "name_expanded": "Plate – dimmer switch mounting (behind dash panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "fuse panel asm"
+      ],
+      "to": "dash panel, into plate [1] at the upper hole",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] goes through the upper mounting hole of the fuse panel into the dash panel at plate [1]. The fuse panel's lower hole lines up with a second hole near the RIVET (UPC-1) callout; the fastener there is not called out separately.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plate [1] sits on the dash panel at the fuse panel upper screw location; drawing shows two small holes in it but no separate fastener callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "fuse panel asm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hazard flasher [2] plugs into the socket at the top of the fuse panel; no fastener.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lower dash panel, with plate [7] behind",
+      "qty": "1 rivet + 1 screw asm.",
+      "torque_ref": "2",
+      "note": "Dimmer switch [5] is held to the lower dash panel by rivet [4] and screw assembly [6]; their holes line up with plate [7] on the other side of the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "lower dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plate [7] backs the dimmer switch fasteners on the opposite side of the dash panel; drawing shows multiple holes but no separate fastener for the plate itself.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "FUSE PANEL ASM (PART OF INSTRUMENT PANEL WIRING HARNESS).",
+    "RIVET (UPC-1) shown on dash panel."
+  ],
+  "notes_internal": [
+    "Item 2 has two extra lines 3904868 and 3934200 marked only 'OPT.'; which option each belongs to is not stated.",
+    "How plates [1] and [7] are attached to the dash panel is not clearly shown.",
+    "Revision block is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

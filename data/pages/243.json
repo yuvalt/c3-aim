@@ -1,0 +1,179 @@
+{
+  "page": 243,
+  "group": "12",
+  "sheet": "B5",
+  "title": "INSTRUMENT PANEL WIRING HARNESS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the instrument panel (dash) wiring harness behind the gauge cluster and down to the console area: connections to gauges, clock, wiper switch/solenoid/relay, heater controls, cigar lighter, neutral safety switch, back-up lamp switch, park brake alarm switch and RH door jamb switch. Indicator/illumination bulbs plug into the cluster; two harness clips are riveted to the panel/console structure with blind rivets, and the radio lead is taped to the harness.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9417863",
+      "name": "BULB",
+      "name_expanded": "Bulb – cluster illumination, headlamp, clock and door ajar indicator (callouts 1A–1D)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3983946",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness, near park brake alarm switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "454626",
+      "name": "BULB-HTR. CONTROL",
+      "name_expanded": "Bulb – heater control illumination",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3943600",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness, near cigar lighter reflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3724851",
+      "name": "TAPE",
+      "name_expanded": "Tape – radio lead to harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "panel below the cigar lighter reflector",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Rivet [2] goes through clip [5] into the panel; clip located 2.36 and 3.00 from reference edges.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "console/panel bracket near park brake alarm switch",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Rivet [2] goes through clip [3] into a .192/.199 dia hole drilled at the existing dimple (2.22 REF, .080 REF); an existing hole is also shown at the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "harness"
+      ],
+      "to": "radio lead",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Callout 6E: tape [6] wraps the radio lead (6 in.) to the harness assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument cluster sockets",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulbs [1] plug into the harness sockets at the cluster: 1A cluster illumination (two places), 1B headlamps, 1C clock, 1D door ajar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "heater control",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulb [4] plugs into the heater control lead socket.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Route over air duct thru rear rect pillar hole down thru pillar to SW.",
+    "A CLUSTER ILLUM.; B HEADLAMPS; C CLOCK; D DOOR AJAR; E (6 in.) Radio lead to harness asm.",
+    ".192/.199 DIA AT EXISTING DIMPLE",
+    "2.36; 3.00; 2.22 (REF); .080 (REF)"
+  ],
+  "notes_internal": [
+    "Circled 5 and 15 in the lower-left drawing point at harness branches (back-up lamp switch / neutral safety switch); meaning unclear (not a revision symbol; only revisions 1–2 exist). Possibly wire/dimension references.",
+    "Circled 2 near the console ground connector = revision 2 (console ground connection relocated).",
+    "A 'CLIP (UPC-1)' at the dir sig flasher is labelled but belongs to another group; not a part on this sheet.",
+    "NOTE route (over air duct, through pillar) applies to the RH door jamb switch lead, per leader line."
+  ],
+  "revisions": [
+    {
+      "date": "10-2-69",
+      "sym": "1",
+      "text": "WAS 3937606 CLIP",
+      "was": "3937606",
+      "item": "3"
+    },
+    {
+      "date": "1-16-70",
+      "sym": "2",
+      "text": "CONSOLE GRD. CONN. RELOCATED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

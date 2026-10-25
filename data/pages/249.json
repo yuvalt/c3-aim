@@ -1,0 +1,321 @@
+{
+  "page": 249,
+  "group": "12",
+  "sheet": "C2",
+  "title": "SPEEDO & TACHOMETER SHAFTS & ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the speedometer cable (speedo shaft, upper and lower halves) and tachometer cable (tach drive shaft) from the transmission and distributor through the firewall (dash panel) to the instrument cluster, all models. The tach cable passes through a sealed grommet in the firewall and is held by a brace clip and by the engine wiring harness clip; the speedo cable passes through a second grommet and is clipped and riveted along the way. At the transmission the speedo cable nut threads onto a fitting, seal and driven gear, held in by a retainer and screw.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3717266",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – tach cable through firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "6477908",
+      "name": "SHAFT ASM-TACH",
+      "name_expanded": "Tachometer drive cable (shaft assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3824713",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – speedo cable through firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3788712",
+      "name": "CLIP",
+      "name_expanded": "Clip – speedo cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6454863",
+      "name": "SHAFT ASM-SPEEDO -LWR",
+      "name_expanded": "Speedometer cable – lower (shaft assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6477213",
+      "name": "SHAFT ASM-SPEEDO -UPR",
+      "name_expanded": "Speedometer cable – upper (shaft assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "455622",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3925602",
+      "name": "GEAR-CHART",
+      "name_expanded": "Speedometer driven gear (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3708148",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – speedo driven gear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9409107",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3708146",
+      "name": "SEAL",
+      "name_expanded": "Seal – speedo driven gear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3775589",
+      "name": "FITTING",
+      "name_expanded": "Fitting – speedo cable to transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-80",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "73b",
+      "description": "SEALER",
+      "amount": ".08 OZ",
+      "where": "grommet [1] where the tach cable passes through the firewall"
+    },
+    {
+      "key": null,
+      "code": "53f",
+      "description": null,
+      "amount": null,
+      "where": "grommet [3] at the speedo cable firewall pass-through (no legend entry on this sheet)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "how": "seals",
+      "holds": [
+        "2"
+      ],
+      "to": "firewall (dash panel)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tach cable [2] passes through grommet [1] in the firewall; grommet sealed with 73b. View D shows the grommet also passing the oil pressure pipe (RPO A31 & K66) and the back-up lamp wiring (RPO M40).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "brace assembly (see UPC 1 B/W)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View E: tach cable [2] is clipped to the brace assembly near the cowl.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel wiring harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: retainer & clip are part of tach cable [2] (no separate callout); they hold the cable to the instrument panel wiring harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "distributor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: tach cable [2] connects to the tach drive on the distributor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "how": "seals",
+      "holds": [
+        "5"
+      ],
+      "to": "firewall (dash panel)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Speedo cable passes through grommet [3] in the firewall; 53f tag at the grommet. Also routed through the engine wiring harness clip.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "body below the firewall",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lower speedo cable [5] held by clip [4]; rivet [7] fastens the clip nearby.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "each other",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper [6] and lower [5] speedo cables couple together; an unnumbered torque triangle is shown at this joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "12",
+        "11",
+        "8"
+      ],
+      "to": "transmission speedo driven gear bore",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: the cable nut on [6] threads onto fitting [12] with seal [11]; driven gear [8] goes into the transmission case.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9",
+        "8"
+      ],
+      "to": "transmission case",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View B: screw [10] through retainer [9] holds driven gear [8] in the case.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "ENGINE WIRING HARNESS CLIP",
+    "RETAINER & CLIP (PART OF [2])",
+    "OIL PRESS PIPE - RPO A31 & K66",
+    "RPO M40 BACK UP LAMP",
+    "BRACE ASM - SEE UPC 1 B/W"
+  ],
+  "notes_internal": [
+    "Torque 1 reads '20-80' clearly at 600 dpi; copied as printed though the range is unusual.",
+    "Main view has an empty torque triangle next to callout [6] at the upper/lower speedo cable joint; its number is not legible, so no torque ref assigned there.",
+    "'K247' printed vertically beside triangles 3-5 in the torque legend; meaning unclear, not recorded as an option.",
+    "53f material tag at grommet [3] has no legend entry on this sheet.",
+    "Gear [8] 'GEAR-CHART' presumably refers to a gear chart on another sheet."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "1",
+      "text": "WAS 6477853 SHAFT ASM-TACH",
+      "was": "6477853",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "page": 247,
+  "group": "12",
+  "sheet": "B9",
+  "title": "HEADLAMP & W/S WIPER ACCESS DOOR SWITCH MOUNTING & VACUUM HARNESS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Under-dash vacuum controls for the pop-up headlamps and the windshield wiper door: the headlamp vacuum valve (at the light switch, View B) is screwed with a plain washer to the instrument panel support, and the wiper door control valve and switch sit under the LH instrument panel pad with a tag. A vacuum hose harness (stripe-coded: yellow, light blue, white, red) runs behind the gauges to the check valve, vacuum switch and valves. View A: the instrument panel cover is screwed to a bracket on the panel pad.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958714",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – instrument panel cover to pad",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(item removed, rev 4: was 9420908 screw)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3922299",
+      "name": "SCREW",
+      "name_expanded": "Screw – instrument panel cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "5638317",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – headlamp vacuum control at light switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9427832",
+      "name": "SCREW",
+      "name_expanded": "Screw – valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "131014",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3941915",
+      "name": "TAG",
+      "name_expanded": "Tag – on wiper door control valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3977698",
+      "name": "HOSE ASM-W/S WIPER VAC-INST PANEL",
+      "name_expanded": "Hose assembly – windshield wiper door vacuum harness, instrument panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "inst panel cover asm"
+      ],
+      "to": "bracket [1] on inst panel pad asm",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [3] goes up through the instrument panel cover tab into bracket [1], which sits under the instrument panel pad (dashed lines to two holes).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "instrument panel support near light switch",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View B: screw [5] with plain washer [6] goes up from below through the support into the valve [4]; the valve also locates on a pin/tab into a second hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "valve asm - W/S wiper door control",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tag [7] hangs from the wiper door control valve under the dash (View B arrow area of main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "check valve, vac switch, headlamp and wiper door valves",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose harness [8] runs behind the gauge cluster through grommets; stripes: yellow, lt blue, white, red (to vac switch). Taped to the light switch lead at one point (tape not called out).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Hose stripes: YELLOW STRIPE; LT BLUE STRIPE; WHITE STRIPE; RED STRIPE (TO VAC SWITCH)",
+    "VALVE PART OF TACH ASM; SWITCH (SEE UPC 1)"
+  ],
+  "notes_internal": [
+    "Item 2 blank on the page with circled 4 next to it: rev 4 removed 9420908 screw (10-15 LBS IN).",
+    "Bracket [1] attachment to the inst panel pad not shown clearly (pad appears to have studs/holes).",
+    "Exact hose end connections per stripe not traced."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-15-70",
+      "sym": "4",
+      "text": "9420908 SCREW 10-15 LBS IN, RM'D",
+      "was": "9420908",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "page": 270,
+  "group": "11/13",
+  "sheet": "A9",
+  "title": "FRONT FENDER EMBLEM & PIERCING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front fender 'Stingray' script emblem, on each front fender above the side louver (fender gill). The emblem is stick-on: remove paper backing and press on (no nuts; the nut was removed in a 12-69 revision). View A gives the locations of four .164 dia holes pierced in each fender.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3956216",
+      "name": "EMBLEM",
+      "name_expanded": "Emblem – front fender 'Stingray' script",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(blank callout line)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "front fender, above side louver",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Adhesive-backed emblem: remove paper backing, apply to cleaned surface. No separate studs/nuts (nut 9419753 removed, rev 1).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Mandatory installation sequence: 1) clean the paint where the emblem goes with a cloth soaked in Dupont Prep-sol; 2) dry with a clean cloth; 3) press the emblem on with a 10 lb load for 15 seconds.",
+    "Remove paper backing.",
+    ".164 DIA (4) HOLES EACH SIDE",
+    "View A R.H.: hole pattern 6.42, 3.72, 2.63, 1.09, 1.02, .61, .17, .10 from datum lines (15) and (+5).",
+    "View A L.H.: hole pattern 6.42, 3.72, 2.63, 2.75, 1.09, .71, .17, .10 from datum lines (15) and (0)."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "Callout 2 is printed empty (no pn/name).",
+    "Torque 1 (10-15 LBS IN) belonged to the removed nut; no triangle in the drawing now.",
+    "Revision date overwritten; second digit unreadable ('1?-23-69').",
+    "Circled 1 beside 'FRT FENDER ASSY' = rev 1."
+  ],
+  "revisions": [
+    {
+      "date": "1?-23-69",
+      "sym": "1",
+      "text": "9419753 NUT (10-15 LBS IN) RMVD",
+      "was": "9419753",
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "page": 267,
+  "group": "11/13",
+  "sheet": "A6",
+  "title": "OUTER LAMP & GRILLE ATTACHMENT",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Attachment of the outer lamp & grille assembly (outer front grille with parking/turn lamp, UPC 12) at the front corners. Its bottom edge carries studs (no callout) that go through the lower grille panel and take nuts [1]; the top inner side is screwed [8] into a U-nut [7] on bracket [6], which is screwed [4] to the front bumper guard bracket; the outer side is screwed [3] into a U-nut [2] on bracket [10], riveted [9] to the front fender lower panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9411467",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9427761",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949982",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9420751",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3849490",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3974009-0",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – outer grille upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9428069",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9427651",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3828547",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3976359-0",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – outer grille side, on front fender lower panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25 - 35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35 - 50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "radiator grille lower panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lamp & grille asm (UPC 12) has its own studs on the bottom flange (no separate stud part); they pass through the lower grille panel and nuts [1] go on from below/behind.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [8] goes through the grille asm side into U-nut [7] on bracket [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "front bumper guard bracket (UPC 14)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [4] goes down through the bumper guard bracket into U-nut [5] on bracket [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [],
+      "to": "bracket [10]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [3] goes through the grille asm side flange into U-nut [2] clipped on bracket [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "front fender lower panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: rivet [9] holds bracket [10] to the panel frt. fender lower.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "Lamp & grille asm is UPC 12, not in this parts list; fastening 'holds' left empty for it.",
+    "Item 6 pn 3974009-0: middle digit faint but reads 0 at 300 dpi.",
+    "Circled 7 by torque 1 = revision 7 (was 20-30 LBS IN).",
+    "Bumper guard bracket is UPC 14."
+  ],
+  "revisions": [
+    {
+      "date": "12-11-69",
+      "sym": "7",
+      "text": "WAS 20-30 LBS IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

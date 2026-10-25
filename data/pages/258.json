@@ -1,0 +1,384 @@
+{
+  "page": 258,
+  "group": "12",
+  "sheet": "D5",
+  "title": "WIRING DIAGRAM- INSTRUMENT PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Instrument panel wiring, left half, all models (sheet D5): ignition switch with radio capacitor, headlamp switch (light switch), windshield wiper door override switch and solenoid, LH courtesy lamp, LH door jamb and key warning switch, and the instrument panel cluster bulbs (cluster, high beam, turn and park brake indicator lamps) and tach/speedo grounds. Feeds come from sheet D3 at left and go to D6 above and to the rear body harness on D7.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Title printed on two lines 'WIRING DIAGRAM-' / 'INSTRUMENT PANEL'.",
+    "Dashed 12 PPL wires at the ignition switch are RPO wiring (legend on D8); M40 neutral safety switch shown on D6.",
+    "Cluster connector at right-centre: printed wire labels listed; which lamp/gauge each cavity feeds is not shown.",
+    "Sheet number K256 printed at lower right.",
+    "Wiring diagram: no callout list, part numbers, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes are not traced in the tables; only sheet-edge wire lists and wires labelled at a component are listed.",
+    "Title block: drawing 3965172, 1970 CORVETTE SERIES, L-93230, DR RT/CI, CK 4-18-69 CI, PREL/C-O D5 3-12-69."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Components and wires labelled at them",
+      "columns": [
+        "component (as printed)",
+        "wires (gauge color)"
+      ],
+      "rows": [
+        [
+          "IGN SW / RDO CAPAC",
+          "12 PPL, 12 PPL (dashed), 12 PPL (dashed)"
+        ],
+        [
+          "W/S/W SOL",
+          "18 Y, 18 Y (from top)"
+        ],
+        [
+          "W/S WIPER DR OVER RID SW.",
+          "12 R/W"
+        ],
+        [
+          "LGT SW",
+          "20 BRN, 16 DG, 20 W, 20 OR, 12 R, 14 LBL, 12 R, 12 R"
+        ],
+        [
+          "L.H. COURT LP",
+          "20 OR, 20 W"
+        ],
+        [
+          "L.H. DR JAMB & KEY WARN SW",
+          "20 B"
+        ],
+        [
+          "INST. PANEL CLUSTER: TACH GRD",
+          "14 B"
+        ],
+        [
+          "PARK BRK LP.",
+          "20 T"
+        ],
+        [
+          "CLUSTER LP. (x8)",
+          "20 GY each"
+        ],
+        [
+          "R.H. TURN LP.",
+          "20 DBL"
+        ],
+        [
+          "H/BEAM LP.",
+          "20 LG"
+        ],
+        [
+          "L.H. TURN LP.",
+          "20 LBL"
+        ],
+        [
+          "SPEEDO GRD",
+          "14 B"
+        ],
+        [
+          "Cluster connector (right)",
+          "20 W, 20 OR, 18 T, 20 BRN, 20 LBL, 18 LG, 20 DG, 20 Y"
+        ]
+      ]
+    },
+    {
+      "title": "Wires entering left edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "12 PPL",
+          "D3"
+        ],
+        [
+          "2",
+          "18 LG",
+          "D3"
+        ],
+        [
+          "3",
+          "18 DBL",
+          "D3"
+        ],
+        [
+          "4",
+          "12 BRN",
+          "D3"
+        ],
+        [
+          "5",
+          "18 LBL",
+          "D3"
+        ],
+        [
+          "6",
+          "20 DBL",
+          "D3"
+        ],
+        [
+          "7",
+          "12 BRN",
+          "D3"
+        ],
+        [
+          "8",
+          "20 GY",
+          "D3"
+        ],
+        [
+          "9",
+          "20 LG",
+          "D3"
+        ],
+        [
+          "10",
+          "12 P",
+          "D3"
+        ],
+        [
+          "11",
+          "12 R/W",
+          "D3"
+        ],
+        [
+          "12",
+          "20 LBL",
+          "D3"
+        ],
+        [
+          "13",
+          "14 LBL",
+          "D3"
+        ],
+        [
+          "14",
+          "18 OR",
+          "D3"
+        ],
+        [
+          "15",
+          "20 BRN",
+          "D3"
+        ],
+        [
+          "16",
+          "12 R",
+          "D3"
+        ],
+        [
+          "17",
+          "12 R",
+          "D3"
+        ],
+        [
+          "18",
+          "20 DG",
+          "D3"
+        ],
+        [
+          "19",
+          "20 OR",
+          "D3"
+        ],
+        [
+          "20",
+          "20 T",
+          "D3"
+        ],
+        [
+          "21",
+          "20 T",
+          "D3"
+        ],
+        [
+          "22",
+          "16 B/W",
+          "D3"
+        ],
+        [
+          "23",
+          "18 LG",
+          "D3"
+        ],
+        [
+          "24",
+          "20 DG",
+          "D3"
+        ],
+        [
+          "25",
+          "20 Y",
+          "D3"
+        ],
+        [
+          "26",
+          "12 PPL",
+          "D3"
+        ],
+        [
+          "27",
+          "20 B",
+          "D3"
+        ],
+        [
+          "28",
+          "2 B",
+          "D3"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving top edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "18 LG",
+          "D6"
+        ],
+        [
+          "2",
+          "18 DBL",
+          "D6"
+        ],
+        [
+          "3",
+          "16 DG",
+          "D6"
+        ],
+        [
+          "4",
+          "18 LBL",
+          "D6"
+        ],
+        [
+          "5",
+          "18 Y",
+          "D6"
+        ],
+        [
+          "6",
+          "18 Y",
+          "D6"
+        ],
+        [
+          "7",
+          "12 PPL (dashed)",
+          "D6"
+        ],
+        [
+          "8",
+          "12 PPL (dashed)",
+          "D6"
+        ],
+        [
+          "9",
+          "20 DG",
+          "D6"
+        ],
+        [
+          "10",
+          "20 T",
+          "D6"
+        ],
+        [
+          "11",
+          "16 B/W",
+          "D6"
+        ],
+        [
+          "12",
+          "20 OR",
+          "D6"
+        ],
+        [
+          "13",
+          "20 W",
+          "D6"
+        ],
+        [
+          "14",
+          "20 W",
+          "D6"
+        ],
+        [
+          "15",
+          "16 LBL",
+          "D6"
+        ],
+        [
+          "16",
+          "20 B",
+          "D6"
+        ],
+        [
+          "17",
+          "14 B",
+          "D6"
+        ],
+        [
+          "18",
+          "14 B",
+          "D6"
+        ],
+        [
+          "19",
+          "14 B",
+          "D6"
+        ],
+        [
+          "20",
+          "18 T",
+          "D6"
+        ],
+        [
+          "21",
+          "20 LBL",
+          "D6"
+        ],
+        [
+          "22",
+          "20 GY",
+          "D6"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving right edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "2 B",
+          "D7"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

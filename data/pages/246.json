@@ -1,0 +1,154 @@
+{
+  "page": 246,
+  "group": "12",
+  "sheet": "B8",
+  "title": "LAMP MONITORING EQUIPMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Lamp monitor (fiber-optic light monitor display on the console, ahead of the shifter and below the radio): a bezel and lens assembly is screwed to the console, and the generator & forward lamp wiring harness from the engine compartment is routed under the dash top and held by a clip riveted to the windshield frame (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3799990",
+      "name": "CLIP",
+      "name_expanded": "Clip – generator & forward lamp wiring harness at windshield frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "6294296",
+      "name": "LENS",
+      "name_expanded": "Lens – lamp monitor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9422590",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "445194",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3943642",
+      "name": "BEZEL",
+      "name_expanded": "Bezel – lamp monitor, console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "6",
+        "2"
+      ],
+      "to": "console",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bezel [6] with lens [2] behind it drops into the console opening; screw [3] goes down through the bezel tabs into the console (holes shown on both sides).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame asm",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: rivet [5] goes up through clip [1] into a .192/.199 dia hole in the windshield frame flange, located 1.00 and .25 from reference points; the clip holds the gen & fwd lamp wiring harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "console, below the radio",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nut [4] is shown in a lower console hole near the radio; what it retains is not clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA HOLE",
+    "1.00; .25",
+    "View A references: circled 20 F.V. and 15 S.V."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the last digits; reads 3799 then a partly cut glyph (maybe 9) and two lost digits.",
+    "Nut [4] purpose unclear (possibly for the lamp monitor fiber-optic or console ground); left holds empty.",
+    "Main view also shows clip [1] at the dash top next to an 'EXISTING SCREW'; View A (revised, rev 1) shows the rivet mounting.",
+    "Circled 20 F.V. / 15 S.V. in View A are likely body-grid view references; not revision symbols."
+  ],
+  "revisions": [
+    {
+      "date": "10-2-69",
+      "sym": "1",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

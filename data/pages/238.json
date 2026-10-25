@@ -1,0 +1,114 @@
+{
+  "page": 238,
+  "group": "12",
+  "sheet": "A15",
+  "title": "HEADLAMP & WINDSHIELD WIPER HOSE ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Firewall/cowl routing of the headlamp and windshield wiper vacuum hoses: the RH wiper vacuum hose assembly (color-striped white, yellow, green, red hoses) runs from the W/S wiper door vacuum relay and actuator (wiper door actuator) to the wiper control switch grommet, and a metal vacuum pipe assembly runs from the manifold vacuum outlet through check valves along the firewall to the wiper motor area (View A). Hoses and pipe are held by special clips that are bent to retain them; no torques are given. Related sheets: A13, A14.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3977706",
+      "name": "HOSE ASM.-W/S WIPER VAC-R.H.",
+      "name_expanded": "Hose assembly – windshield wiper vacuum, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3977708",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (vacuum hose retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3977699",
+      "name": "PIPE ASM.",
+      "name_expanded": "Pipe assembly – vacuum (metal line) along firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "120525",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (vacuum pipe retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket/flange at the upper left of the cowl, above the wiper door vacuum relay",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Special clip [2] holds the RH wiper vacuum hose bundle to the vertical bracket; note A: bend clip as required to properly retain hoses.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "firewall/cowl flanges along the pipe run",
+      "qty": "3 callouts (main view x2, View A x1)",
+      "torque_ref": null,
+      "note": "Special clips [4] hold the vacuum pipe [3] on the firewall: one near the middle of the run, one at the lower right near the check valve and strap, and one in View A near the wiper motor. Note A: bend clip as required to properly retain hoses.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Bend clip as required to properly retain hoses.",
+    "90° angles shown at the actuator hose fitting and at the manifold vac outlet fitting.",
+    "Callouts: W/S WIPER CONTROL SWITCH (UPC 1), GROMMET, VENT HOSE, ACTUATOR ASM, W/S WIPER DOOR VAC RELAY, MANIFOLD VAC OUTLET (UPC 6), CHECK VALVE, STRAP, CLIP, INST PANEL HOSE ASM, HOSE ASM L.H., TO HEADLAMP WASHER; hose colors WHITE, YELLOW, GREEN, RED."
+  ],
+  "notes_internal": [
+    "No torque legend values; the triangle column at lower left is empty.",
+    "Unnumbered CLIP and STRAP at lower right have no part numbers; not listed as parts.",
+    "Hose [1] connection points read from the drawing callouts; exact ends of each colored hose not traced.",
+    "Revision text handwritten 'REDRAWN ? REDESIGNED'; read as '&'."
+  ],
+  "revisions": [
+    {
+      "date": "2-5-70",
+      "sym": "4",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -95,7 +95,7 @@ def fastener_rollups(pages):
     for p in pages:
         torques = {t["ref"]: torque(t) for t in p.get("torques", [])}
         items = {x["item"]: f'{x["name_expanded"]} {x["pn"]}' for x in p.get("parts", [])}
-        key = (p["group"], p["sheet"][0] if p["group"].isdigit() else "")
+        key = (p["group"], p["sheet"][:1] if p["group"][:1].isdigit() else "")
         for x in p.get("parts", []):
             if FASTENER.search(x["name"]):
                 use = f'{p["sheet"]} item {x["item"]}' + (f' at {torques[x["torque_ref"]]}' if x.get("torque_ref") in torques else "")
@@ -159,6 +159,9 @@ def sheet_md(p):
 def main():
     DIST.mkdir(exist_ok=True)
     pages = [json.loads(f.read_text()) for f in sorted(pathlib.Path("data/pages").glob("*.json"))]
+    for p in pages:  # cover and blank pages have no title block
+        for k in ("group", "sheet", "title", "summary"):
+            p[k] = p.get(k) or ""
     CODES.update(material_codes(pages))
     SIZES.update(load_sizes())
     (DIST / "aim_sheets.md").write_text("\n".join(sheet_md(p) for p in pages) + "\n" + fastener_rollups(pages))

@@ -1,0 +1,339 @@
+{
+  "page": 269,
+  "group": "11/13",
+  "sheet": "A8",
+  "title": "HOOD, HINGE, SUPPORT & CATCH",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Hood (bonnet) assembly with its hinges, hood support struts (props), hood-side lock covers (the catch plates that engage the hood locks of A7), the cable tying the LH and RH covers together, and the hood weatherstrip. Covers are screwed to the hood underside; hinges are screwed to the body over shims; supports are screwed to the hood at the top and to a body bracket at the bottom; the cable ends attach to each cover with clevis pin, washer and cotter pin, and the cable is held mid-hood by a clip and screw. Weatherstrip is cemented on. Related: A7 (hood lock & release).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966627-8",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly – hood lock cover / catch on hood underside (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "120520",
+      "name": "CLIP",
+      "name_expanded": "Clip – cable to hood inner panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3914293",
+      "name": "WEATHER STRIP",
+      "name_expanded": "Weatherstrip – hood",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966626",
+      "name": "CABLE",
+      "name_expanded": "Cable – connects LH and RH hood lock covers",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3947963",
+      "name": "PIN CLEVIS",
+      "name_expanded": "Clevis pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "120754",
+      "name": "COTTER PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3847758",
+      "name": "SCREW",
+      "name_expanded": "Screw – hinge",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3846202",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3912639-40",
+      "name": "HINGE ASM.",
+      "name_expanded": "Hinge assembly – hood (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3966709",
+      "name": "SHIM",
+      "name_expanded": "Shim – hood hinge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3936301",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Support assembly – hood prop/strut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9409107",
+      "name": "SCREW",
+      "name_expanded": "Screw – support to hood",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3964146",
+      "name": "HOOD ASM.",
+      "name_expanded": "Hood assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "446122",
+      "name": "WASHER",
+      "name_expanded": "Washer – clevis pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3936391",
+      "name": "WASHER",
+      "name_expanded": "Washer – support lower bracket (View B)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1n",
+      "description": "GREASE",
+      "amount": "",
+      "where": "hood lock covers [1] (both sides) and support [12] upper end"
+    },
+    {
+      "key": "B",
+      "code": "51u",
+      "description": "CEMENT",
+      "amount": "8 Oz.",
+      "where": "weatherstrip [4] along hood edge"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hood inner panel (underside)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [2] fasten each lock cover [1] to the hood underside (right side, arrow C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hood inner panel, center front",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [2] fastens clip [3], which holds cable [5] at mid-hood.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "15",
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lock cover [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Views A and C: cable [5] end sits on the cover [1] lug; clevis pin [6] drops through both, washer [15] under, cotter pin [7] locks it. Assemble [5] to [1] before installing [1]. Attach RH side securely, take up slack before securing LH side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "9"
+      ],
+      "holds": [
+        "10",
+        "11"
+      ],
+      "to": "body (cowl/fender support) and hood [14]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Hinge [10] sits on shim [11]; screw [8] goes down through the hinge base and shim, screw [9] fastens the hinge's other leaf.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "hood [14] inner panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [13] attaches the support [12] upper end to the hood.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "16"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "body bracket (lower end)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [9] goes down through washer [16] into the support [12] lower bracket; also shown from the side at bottom.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51u",
+      "holds": [
+        "4"
+      ],
+      "to": "hood [14] edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Weatherstrip [4] cemented with 51u.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Attach R.H. side securely. Take up slack before securing L.H. side.",
+    "Assemble [5] to [1] prior to installing [1]."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "Item 2 has two torque refs: triangle 1 at clip [3] screw, triangle 2 at the cover [1] screws; part-level torque_ref left null.",
+    "Hinge screws [8]/[9]: exactly which hinge leaf each goes into isn't clear in the small view.",
+    "Hood [14]: drawing shows it but not separately fastened (via hinges [10] and supports [12]).",
+    "Legend triangles 4 and 5 empty; 'K267' printed near them is a page ref."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

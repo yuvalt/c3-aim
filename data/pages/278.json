@@ -1,0 +1,200 @@
+{
+  "page": 278,
+  "group": "11/13",
+  "sheet": "B5",
+  "title": "RADIATOR FAN SHROUD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Radiator fan shroud, all models. The steel shroud is made of LH and RH halves [2] spot-welded together, with a front shroud piece [4] and lower support [3] spot-welded on. The top of the shroud is held to the radiator support by screw assembly [1]; at the bottom the lower support [3] and brackets [5] are held with screw assemblies [6], washers [7] and nuts [8] (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3847?57",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3935505-6",
+      "name": "SHROUD",
+      "name_expanded": "Fan shroud half (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3919745",
+      "name": "SUPPORT-LOWER",
+      "name_expanded": "Support – shroud lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3935507",
+      "name": "SHROUD FRONT",
+      "name_expanded": "Fan shroud front piece",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3974661-2",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – shroud lower mounting (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3918598",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3748358",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "radiator support top",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw assembly [1] goes through the top of the shroud into the radiator support upper rail (dashed line to the support).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8"
+      ],
+      "holds": [
+        "5",
+        "3"
+      ],
+      "to": "lower mounting (View A)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw assemblies [6] (one horizontal, one vertical) go through the brackets [5]; washer [7] and nut [8] on the far side. The lower support [3] tab is held to bracket [5] with a washer and nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "welds",
+      "holds": [
+        "4"
+      ],
+      "to": "shroud [2]",
+      "qty": "13 places",
+      "torque_ref": null,
+      "note": "A: spotweld [4] to [2] 13 places.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "how": "welds",
+      "holds": [
+        "2"
+      ],
+      "to": "shroud [2] RH",
+      "qty": "4 places top, 9 places bottom",
+      "torque_ref": null,
+      "note": "B: spotweld [2] LH to [2] RH, 4 places (top) and 9 places (bottom).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "how": "welds",
+      "holds": [
+        "3"
+      ],
+      "to": "shroud [2]",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "C: spotweld [3] to [2] 2 places.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "A 1. Spotweld [4] to [2] 13 places.",
+    "B 1. Spotweld [2] L.H. to [2] R.H. 4 places (top). 2. Spotweld [2] L.H. to [2] R.H. 9 places (bottom).",
+    "C 1. Spotweld [3] to [2] 2 places.",
+    "View B: .70 ±.10"
+  ],
+  "notes_internal": [
+    "Item 1 pn: 5th/6th digits damaged by hole punch; reads 3847 then a broken digit then 57. Left as 3847?57.",
+    "View A: which end of bracket [5] mounts to the frame/engine side is not clear; large bolt head at left of View A not called out.",
+    "Group printed in UPC box as 11/13."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

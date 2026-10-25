@@ -1,0 +1,423 @@
+{
+  "page": 240,
+  "group": "12",
+  "sheet": "B2",
+  "title": "INSTRUMENT CLUSTER, CLOCK & CIGARETTE LIGHTER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Center instrument cluster (center gauge cluster / console gauge panel with CORVETTE nameplate plate), dash clock, and console cigarette lighter. The cluster is screwed into nuts that are part of the instrument panel pad, the nameplate plate is screwed to the cluster, the clock is held by screws through the instrument panel, and the lighter is held in the console by its own retainer with a bulb and reflector (lighter lamp) behind it. View A shows the heater control mounting screw that also carries a terminal.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "6491003",
+      "name": "CLUSTER ASM.",
+      "name_expanded": "Center instrument cluster assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9427690",
+      "name": "SCREW",
+      "name_expanded": "Screw – plate to cluster",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9427633",
+      "name": "SCREW",
+      "name_expanded": "Screw – cluster mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3972039",
+      "name": "LIGHTER ASM.-CIGARETTE",
+      "name_expanded": "Cigarette lighter assembly (includes retainer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6491649",
+      "name": "PLATE",
+      "name_expanded": "Plate – cluster face with CORVETTE nameplate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3794018",
+      "name": "NUT",
+      "name_expanded": "Nut – control shaft bezel nut on cluster",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3794017",
+      "name": "KNOB",
+      "name_expanded": "Knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "274004",
+      "name": "BULB-CIG. LIGHTER",
+      "name_expanded": "Bulb – cigarette lighter lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "2977777",
+      "name": "REFLECTOR",
+      "name_expanded": "Reflector – cigarette lighter lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3759924",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3921417",
+      "name": "BRACKET",
+      "name_expanded": "Bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "1513228",
+      "name": "TERMINAL",
+      "name_expanded": "Terminal – at heater control mounting screw (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3928775",
+      "name": "SLEEVE",
+      "name_expanded": "Sleeve – clock adjuster shaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3919034",
+      "name": "CLOCK ASM.",
+      "name_expanded": "Clock assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "447143",
+      "name": "SCREW",
+      "name_expanded": "Screw – clock mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "9414752",
+      "name": "SCREW",
+      "name_expanded": "Screw – cluster to instrument panel pad nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "1-2",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "7-12",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "6",
+      "value": "13-18",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "17"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "nut that is part of the instrument panel pad asm.",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [17] goes through the top of the cluster [1] into a nut that is part of the inst pnl pad asm. (no separate nut callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument panel / console structure",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] goes up into the cluster [1] from below at the right side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "cluster [1]",
+      "qty": "2 callouts",
+      "torque_ref": "4",
+      "note": "Screws [2] go up from below through the CORVETTE plate [5] into the cluster.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "cluster control"
+      ],
+      "to": "cluster [1] face",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [6] threads onto a control shaft at the cluster face; knob [7] then goes on the shaft.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "control shaft at cluster face",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Knob [7] pushes onto the shaft outboard of nut [6]; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "instrument panel (INSTR. PNL. REF)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [16] goes through the instrument panel into the clock [15] flange; sleeve [14] fits over the clock adjuster shaft.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "underbody tunnel console (REF), ash tray area",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lighter [4] is held by its own RETAINER (part of item 4, no separate callout) threaded on from behind the console. NOTE: retainer position must allow clearance to the ash tray when the lamp asm. is installed.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8",
+        "9"
+      ],
+      "to": "lighter retainer",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulb [8] goes into the lamp asm. (part of harness) and reflector [9] clips onto the lighter retainer; the connector (part of harn asm) plugs onto the lighter.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "console / instrument panel lower structure",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [10] attaches at the bracket [12] area under the left side of the cluster.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "console / instrument panel lower edge"
+      ],
+      "to": "stud at lower left of cluster area",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Nut [11] threads onto a stud at the lower left edge, near bracket [12]; exactly which parts it clamps is not clear in the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "heater control"
+      ],
+      "to": "heater control bracket",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: an uncalled screw goes through terminal [13] into the heater control bracket (CONTROL torque triangle; number faint).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Position of retainer must allow clearance to ash tray when lamp asm. is installed.",
+    "NUT-Part of inst pnl pad asm.",
+    "4 HEATING UNIT & KNOB ASM. SEE MISC. SHPG. LIST UPC 0.",
+    "LAMP ASM (PART OF HARN ASM); CONNECTOR (PART OF HARN ASM)."
+  ],
+  "notes_internal": [
+    "Torque legend triangles are filled black; ref numbers are not legible, assigned 1–6 in printed order.",
+    "View A heater control screw torque triangle reads like 6 but is too faint to be sure; left null.",
+    "Nut [11], rivet [10] and bracket [12]: drawing shows their location at the lower left of the cluster, but what each clamps is ambiguous.",
+    "Knob [7] / nut [6]: what control the shaft belongs to is not labeled.",
+    "Item '4 HEATING UNIT & KNOB ASM.' callout refers to another shipping list, not this item 4 lighter."
+  ],
+  "revisions": [
+    {
+      "date": "6-23-69",
+      "sym": "1",
+      "text": "WAS 3919027 LIGHTER ASM",
+      "was": "3919027",
+      "item": "4"
+    },
+    {
+      "date": "1-16-70",
+      "sym": "2",
+      "text": "ITEM 13 RELOCATED",
+      "was": null,
+      "item": "13"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "VIEW \"A\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-20-70",
+      "sym": "4",
+      "text": "TORQUE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

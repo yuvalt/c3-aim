@@ -1,0 +1,391 @@
+{
+  "page": 283,
+  "group": "14",
+  "sheet": "B1",
+  "title": "REAR BUMPER & LICENSE PLATE BEZEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear bumpers (LH/RH rear bumper bars) and the rear license plate bezel (the recessed license plate surround between the bumpers). Each bumper bolts to an outer brace on the frame side rail and to an inner rear brace, inner front brace and rod tied to the frame crossmember; the bezel is screwed into clip nuts on the rear panel. Bumper height and clearances are set to the sheet-metal checking dimensions (UPC 11-13).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9418897",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9414723",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3919715",
+      "name": "BEZEL",
+      "name_expanded": "Bezel – rear license plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919773",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut for bezel screws",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419276",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419075",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3937057-8",
+      "name": "BRACE ASM INR RR",
+      "name_expanded": "Brace assembly – rear bumper inner rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3922069-70",
+      "name": "BUMPER ASM.",
+      "name_expanded": "Rear bumper assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419101",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "1362249",
+      "name": "SPL WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3932943-4",
+      "name": "BRACE ASM.",
+      "name_expanded": "Brace assembly – rear bumper outer, at frame side rail (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9418828",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3937055-6",
+      "name": "BRACE NR FRT",
+      "name_expanded": "Brace – rear bumper inner front (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3935689",
+      "name": "ROD",
+      "name_expanded": "Rod – rear bumper brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3907444",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3755922",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – rubber stop in license plate bezel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "9419077",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-55",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN."
+    },
+    {
+      "ref": "3",
+      "value": "60-80",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "25-35",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "frame side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolt [10] with special washer [11] goes through the slotted holes in brace [12] into the side of the frame side rail, from outboard.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "11"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "frame side rail",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Nut [13] with special washer [11] on the upper part of brace [12] at the frame rail.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6",
+        "5"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "brace [12]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [7] goes through lock washer [6] and plain washer [5] and through brace [12] into the outer end of bumper [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6",
+        "5",
+        "1"
+      ],
+      "holds": [
+        "8",
+        "14"
+      ],
+      "to": "frame crossmember",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [7] goes up from below through lock washer [6], plain washer [5] and the inner braces [8]/[14]; nut [1] with a washer on top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "18",
+        "6",
+        "5"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "brace [8] / bumper",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [18] goes through lock washer [6], plain washer [5] and the lower eye of rod [15]; the rod's upper end hooks to the crossmember.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "18",
+        "6",
+        "5"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "inner brace (bumper inner end)",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [18] with lock washer [6] and plain washer [5] goes up from below into the inner end of bumper [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear body panel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [2] go through the bezel [3] flanges into clip nuts [4] on the rear panel (two shown).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [],
+      "to": "rear body panel above the bezel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip nut [16] on the panel at the top of the bezel opening; its screw is not called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "17"
+      ],
+      "to": "bezel [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rubber bumper [17] pushes into a hole in the bezel (no separate fastener).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: To obtain adjustment of rear bumper, set bumper height & clearances to agree with Sheet Metal Checking dimensions. (See UPC 11-13).",
+    "View A: .625 DIA. HOLE; 2.15; 1.93 (dimensions for filler panel at bumper end; circled 25 and 10 are reference points)."
+  ],
+  "notes_internal": [
+    "Torque legend triangles are filled blobs; numbers taken as 1-4 in printed order.",
+    "Bolt [10] has no torque triangle; bolt [7] has triangle 4 only at the outer (brace [12]) callout, the centre [7] has none; nut [1] has triangle 1.",
+    "Stack at the crossmember (nut [1], washer [5], braces [8]/[14], washers [5]/[6], bolt [7]) read from a crowded drawing; exactly which brace layers are clamped is approximate.",
+    "Rod [15] upper end attaches to the crossmember by a hook/eye; no fastener called out there.",
+    "View A circled (1) = revision 1 (filler panel revised). Circled 25 and 10 meaning not stated; possibly checking-point numbers.",
+    "Title block: drawing 3965172; L- 82116; DR JM/C1, CK 4-21-69 C1, PREL 4-?-69, C/O B1; model 19000. Sideways 'K281'. Rev 1 AUTH 25948 GLT C1.",
+    "Revision 1 date: '6-16-69' last digit drawn as a curl, read as 9 by shape; text '(2 PLACES)' with the '2' faint."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-6?",
+      "sym": "1",
+      "text": "FILLER PANEL REVISED (2 PLACES)",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

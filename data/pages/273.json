@@ -1,0 +1,66 @@
+{
+  "page": 273,
+  "group": "11/13",
+  "sheet": "A12",
+  "title": "BODY CHECKING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Rear-of-car panel gap and flush specs for body alignment (drawn on a convertible with hardtop): rear deck/top compartment lid gaps, door to rear fender, rear wheel opening, and rear bumper. No parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Gap to be equal side to side within."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "NOTE 'Gap to be equal side to side within.' has no value printed.",
+    "Location names are my reading of the arrows; values copied exactly.",
+    "Revision block empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Rear body checking dimensions",
+      "columns": [
+        "location",
+        "spec"
+      ],
+      "rows": [
+        [
+          "Rear deck lid side gap",
+          ".16 TO .20"
+        ],
+        [
+          "Rear deck lid front gap",
+          ".16 TO .20"
+        ],
+        [
+          "Door rear edge to rear fender",
+          ".16 TO .20"
+        ],
+        [
+          "Door to body",
+          "FLUSH TO ±.04"
+        ],
+        [
+          "Rear wheel opening / rocker",
+          ".38 TO .42"
+        ],
+        [
+          "Rear bumper to fender",
+          ".48 TO .52"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

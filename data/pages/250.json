@@ -1,0 +1,213 @@
+{
+  "page": 250,
+  "group": "12",
+  "sheet": "C3",
+  "title": "BACK-UP LAMP SWITCH & OIL PRESSURE PIPE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Back-up lamp (reverse light) switch on the transmission and the oil pressure gauge line (oil pressure hose/pipe) from the engine to the dash, all models. The back-up switch bolts to the transmission and is worked by a rod clipped to the reverse lever; its wiring is clipped and riveted near the speedo cable clip. The oil pressure hose screws onto a fitting in the engine block, runs taped to the tach cable, and goes through the firewall grommet (UPC 12) to the instrument panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3906194",
+      "name": "FITTING",
+      "name_expanded": "Fitting – oil pressure line at engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3909521",
+      "name": "HOSE ASM.",
+      "name_expanded": "Hose assembly – oil pressure gauge line",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3724852",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937606",
+      "name": "CLIP",
+      "name_expanded": "Clip – back-up switch wiring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "1993429",
+      "name": "SWITCH ASM.-BACK UP",
+      "name_expanded": "Back-up lamp (reverse light) switch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "148145",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (clip) – back-up switch rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3923914",
+      "name": "ROD",
+      "name_expanded": "Rod – back-up switch actuating",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "engine block oil pressure port",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: fitting [1] threads into the engine block.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "fitting [1]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: the hose [2] nut threads onto fitting [1]. Hose then runs through the firewall grommet (UPC 12) to the instrument panel harness area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "tach shaft (cable)",
+      "qty": "1 (4 in.)",
+      "torque_ref": null,
+      "note": "Tape [3] wraps the oil pressure hose to the tach cable (legend A: 1 piece 4 in.).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "transmission",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: back-up switch [6] mounts on the transmission with a bolt and washer (marked TRANS, not called out on this sheet).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "reverse lever and switch [6] lever",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "View B: rod [8] links the transmission reverse lever to the switch lever; a retainer [7] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body near the speedo cable clip",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [5] fastens clip [4], which holds the back-up switch wiring next to the speedo shaft clip.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 1. (4in.) Hose to Tach Shaft.",
+    "GROMMET (UPC-12)",
+    "CLIP - SPEEDO SHAFT"
+  ],
+  "notes_internal": [
+    "Switch mounting bolt/washer marked 'TRANS' (supplied with transmission), no callout on this sheet; torque 3 assigned to it.",
+    "Tag 'A1' next to tape [3] refers to legend A note, not an applied-material code.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

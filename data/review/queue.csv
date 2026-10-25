@@ -3,13 +3,13 @@ page,sheet,item,pn,issue,hint
 27,0/D7,,9985052,"registry has it, we don't",OPT
 29,0/D9,,9985198,"registry has it, we don't",SEALER-PLASTISOL
 37,1/A4,2,??54515-6,unreadable digits,no registry match
-37,1/A4,,..54516,"registry has it, we don't",REINF ASM-LOCK PILLAR
 37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
+37,1/A4,,..54516,"registry has it, we don't",REINF ASM-LOCK PILLAR
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
-39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
+39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
@@ -43,8 +43,8 @@ page,sheet,item,pn,issue,hint
 96,1/F2,4,3962602,not in registry,
 98,1/F4,9,9419327,OCR disagrees,registry agrees
 104,1/F10,2,396663??0,unreadable digits,no registry match
-104,1/F10,,3966639,"registry has it, we don't",RETAINER
 104,1/F10,,3966640,"registry has it, we don't",RETAINER
+104,1/F10,,3966639,"registry has it, we don't",RETAINER
 105,1/F11,3,9414752,OCR disagrees,registry agrees
 105,1/F11,8,9414764,OCR disagrees,registry agrees
 105,1/F11,11,3936399,OCR disagrees,registry agrees
@@ -72,9 +72,7 @@ page,sheet,item,pn,issue,hint
 127,1/G1,2,1???28,unreadable digits,no registry match
 127,1/G1,6,3790768,OCR disagrees,
 127,1/G1,9,3846854,OCR disagrees,
-137,1/J6,,3976550,"registry has it, we don't",ESCUTCHEON
 138,1/J7,3,9421089,OCR disagrees,registry agrees
-138,1/J7,,3913070,"registry has it, we don't",ADJUSTER ASM.
 142,1/K3,12,3856691,torque ref ? not in legend,
 146,1/K7,3,3966773-4,OCR disagrees,registry agrees
 155,1/M1,1,39???53,unreadable digits,no registry match
@@ -85,8 +83,8 @@ page,sheet,item,pn,issue,hint
 172,4/A4,5,3983392-3-4-5,OCR disagrees,registry agrees
 172,4/A4,14,446212,OCR disagrees,registry agrees
 172,4/A4,,3983395,"registry has it, we don't",SHIM
-172,4/A4,,3983393,"registry has it, we don't",SHIM
 172,4/A4,,3983394,"registry has it, we don't",SHIM
+172,4/A4,,3983393,"registry has it, we don't",SHIM
 174,4/A6,10,3774712,OCR disagrees,registry agrees
 177,5/A2,4,3948131,OCR disagrees,registry agrees
 178,5/A3,2,3921086,not in registry,
@@ -127,5 +125,43 @@ page,sheet,item,pn,issue,hint
 231,12/A8,3,8901592,OCR disagrees,registry agrees
 231,12/A8,4,3983946,OCR disagrees,registry agrees
 231,12/A8,5,3894533,OCR disagrees,registry agrees
+237,12/A14,5,9422033,OCR disagrees,registry agrees
+242,12/B4,5,3331877,OCR disagrees,
+242,12/B4,5,3331877,not in registry,
+242,12/B4,,3831877,"registry has it, we don't",RIVET
+246,12/B8,2,6294296,OCR disagrees,registry agrees
+247,12/B9,2,,bad format,
+247,12/B9,2,,OCR disagrees,
+247,12/B9,2,,not in registry,
+249,12/C2,6,6477213,OCR disagrees,registry agrees
+252,12/C5,8,,bad format,
+252,12/C5,8,,OCR disagrees,
+252,12/C5,8,,not in registry,
+252,12/C5,9,,bad format,
+252,12/C5,9,,OCR disagrees,
+252,12/C5,9,,not in registry,
+252,12/C5,10,,bad format,
+252,12/C5,10,,OCR disagrees,
+252,12/C5,10,,not in registry,
+253,12/C6,7,,bad format,
+253,12/C6,7,,OCR disagrees,
+253,12/C6,7,,not in registry,
+253,12/C6,10,,bad format,
+253,12/C6,10,,OCR disagrees,
+253,12/C6,10,,not in registry,
+266,11/13/A5,3,3847757,OCR disagrees,registry agrees
+270,11/13/A9,2,,bad format,
+270,11/13/A9,2,,OCR disagrees,
+270,11/13/A9,2,,not in registry,
+274,11/13/B1,1,???????,unreadable digits,no registry match
+274,11/13/B1,3,3947933-4,not in registry,
+274,11/13/B1,4,3766251,not in registry,
+274,11/13/B1,5,3932907,not in registry,
+274,11/13/B1,6,3932904,not in registry,
+274,11/13/B1,7,3934837,not in registry,
+274,11/13/B1,8,3947927,not in registry,
+278,11/13/B5,1,3847?57,unreadable digits,no registry match
+281,14/A2,4,9419276,OCR disagrees,
+284,14/C1,7,387296?,unreadable digits,no registry match
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match

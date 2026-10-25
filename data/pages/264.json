@@ -1,0 +1,84 @@
+{
+  "page": 264,
+  "group": "11/13",
+  "sheet": "A3",
+  "title": "RADIATOR GRILLE LOWER PANEL EXTENSION",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Extension [1] (radiator grille lower panel extension, the reinforcement strip under the lower front valance) is attached under the radiator grille lower panel with screw assemblies [3] and nut assemblies [2] (75-95 lb-in). The front bumper guard and the C/MBR (crossmember) extension brackets bolt to it; those are in UPC 14.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974013",
+      "name": "EXTENSION",
+      "name_expanded": "Extension – radiator grille lower panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3866846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3856691",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75 - 95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "radiator grille lower panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw assemblies [3] pass through the lower panel and extension [1]; nut assemblies [2] (torque 1) on the mating side. One screw [3] is shown from below at the outer end, one from above in the panel opening.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "Torque triangle 1 is next to both nut [2] callouts; screws [3] have none.",
+    "C/MBR extension brackets and guard asm (both 'SEE UPC 14') attach with uncalled bolts/washers; not this page.",
+    "Exact pairing of each screw [3] with each nut [2] not clear in the drawing.",
+    "Title block: L-86500, DR JM/C1, CK 4-21-69 C1, C/O A3, no revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

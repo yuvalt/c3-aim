@@ -1,0 +1,451 @@
+{
+  "page": 282,
+  "group": "14",
+  "sheet": "A3",
+  "title": "FRONT BUMPER & LICENSE PLATE BRACKET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front bumper (the split front bumper bars) and bumper guards (front bumperettes), the license plate bracket at the front center, and the bumper extensions that tie the bumper ends to the outer braces at the fender skirt opening. The bumper is bolted to the brace and member assemblies from sheet A2; the license plate bracket is screwed to the brace; the guard is held through the bumper with a special washer. Bumper height and clearances are set to the sheet-metal checking dimensions (UPC 11-13).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9419276",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419075",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419002",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3755922",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – rubber stop on license plate bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3919711",
+      "name": "BRACKET-LICENSE PLATE",
+      "name_expanded": "Bracket – front license plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419077",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "103322",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3932845-6",
+      "name": "EXTENSION C/MBR",
+      "name_expanded": "Extension – center member (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "427559",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3964159",
+      "name": "EXTENSION ASM.-OUTER",
+      "name_expanded": "Extension assembly – front bumper outer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3711834",
+      "name": "SHIM",
+      "name_expanded": "Shim",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3974008",
+      "name": "BUMPER ASM.",
+      "name_expanded": "Front bumper assembly (front bumper bar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "6256884",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3963127-8",
+      "name": "GUARD ASM.",
+      "name_expanded": "Guard assembly – front bumper guard / bumperette (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3907444",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut on license plate bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3847757",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "45-60",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [],
+      "to": "brace assembly (sheet A2), front end",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Top left: bolt [3] with lock washer [2] and plain washer [1] goes through the side of the brace assembly at its front end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "brace assembly (sheet A2), front end",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [4] sits inside the front end of the brace assembly; mating bolt not called out on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "brace assembly",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [6] with lock washer [5] holds the license plate bracket [8] to a tab under the brace assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "license plate bracket [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rubber bumper [7] pushes into a hole in the license plate bracket [8] (no separate fastener).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "19"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "license plate bracket [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip nut [19] slips onto the edge of bracket [8] at the square holes (dashed line); presumably for the license plate screws, which are not called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10",
+        "1"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "front bumper bracket on brace/member",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [9] with lock washer [10] and plain washer [1] goes through the bracket into the bumper [16] (two places shown, inner and outer).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "member assembly (sheet A2)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [3] goes up from below through plain washer [1], lock washer [2] and the slotted center member extension [11] into the two square nuts on the member assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "12"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "bumper [16], with shim [15]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolt [13] with lock washer [12] goes down through the outer extension [14] and shim [15] into the nut on the bumper [16] end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "outer brace assembly (sheet A2, at fender skirt opening)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [3] with lock washer [2] and plain washer [1] goes through the outer brace into extension [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "20"
+      ],
+      "holds": [],
+      "to": "support (see UPC 13)",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [20] goes through the bracket shown at revision (4) into the support (UPC 13) near the member assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17"
+      ],
+      "holds": [
+        "18"
+      ],
+      "to": "bumper [16]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The guard [18] has its own threaded stud/fastener at its upper end (no callout); special washer [17] goes on it behind the bumper (dashed line through the bumper). No nut is called out.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: To obtain adjustment of front bumper, set bumper height & clearances to agree with sheet metal checking dimensions (See UPC 11-13)."
+  ],
+  "notes_internal": [
+    "Bolt [3]/nut [4] at the top-left brace end: which part they hold is not clear; the brace and member asms are from sheet A2.",
+    "Bolt [20] (rev 3) and the bracket marked (4): the bracket it holds is not called out; label 'SUPPORT (SEE UPC 13)' points at it.",
+    "Guard [18] fastening: drawing shows only washer [17] behind the bumper; stud/nut not identifiable.",
+    "Circled (2) near the bumper bracket under the bumper = revision 2 (bumper drawing revised). Circled 3 next to torque 4 = revision 3.",
+    "Item 7 'BUMPER' is a small rubber bumper on the license bracket, not the bumper bar.",
+    "Title block: drawing 3965172; L- 82104, 82137; DR /C1, CK 5-2-69 C1, PREL 4-28-69, C/O A2 (sheet box A3); model 19000. Sideways 'K280'. AUTH 23589 AW (rev 1), 25948 EL (rev 3); CK C1 (rev 2), HB? (rev 4)."
+  ],
+  "revisions": [
+    {
+      "date": "5-26-69",
+      "sym": "1",
+      "text": "WAS 3964100 BUMPER",
+      "was": "3964100",
+      "item": "16"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "BUMPER DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-12-70",
+      "sym": "3",
+      "text": "ITEM 20 & TORQUE ADDED",
+      "was": null,
+      "item": "20"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "\"SUPPORT\" DWG ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

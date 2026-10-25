@@ -1,0 +1,251 @@
+{
+  "page": 244,
+  "group": "12",
+  "sheet": "B6",
+  "title": "STOP LAMP SWITCH",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Brake light (stop lamp) switch under the dash at the brake pedal: the switch threads through an adjustable bracket on the brake pedal housing and is held by a nut; the bracket is screwed to the pedal housing through slots so it can be set to close the switch at 0.25–0.64 in. of pedal travel. A striker on the pedal arm works the switch, a wire assembly links to the neutral safety switch connector, and a ground wire is screwed to the hinge pillar inner reinforcement.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw – ground wire",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3954246",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – stop lamp (brake light switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9425439",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420171",
+      "name": "NUT",
+      "name_expanded": "Nut – switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3952897",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – stop lamp switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9418991",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3974794",
+      "name": "STRIKER",
+      "name_expanded": "Striker – on brake pedal arm, actuates switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "6297662",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly – stop lamp switch to neutral safety switch connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "19-27",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [6]",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Threaded body of switch [3] passes through the round hole in bracket [6]; nut [5] on the opposite side clamps it. Switch carries its own threads; no separate stud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "brake pedal housing/support",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "Two screws [4] through the upper holes of bracket [6]; bracket is adjusted so the switch makes contact when the pedal is depressed 0.25–0.64 in. (note A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [],
+      "to": "brake pedal housing side plate",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "Bolt [8] with lock washer [7] goes through the pedal housing side plate; nut [10] is shown on the far side of the housing at the same location.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "ground wire terminal"
+      ],
+      "to": "hinge pillar inner reinforcement",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [1] goes through the harness ground wire ring terminal and lock washer [2] into the hinge pillar inner reinforcement.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "brake pedal arm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: striker [9] sits on the pedal arm where the switch [3] plunger contacts it; no fastener shown (appears clipped on).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11"
+      ],
+      "to": "neutral safety switch connector",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wire asm [11] plugs between the switch and the neutral safety switch connector.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: After assembly of the brake pedal, adjust the switch asm. bracket so electrical contact is made when the brake pedal is depressed 0.25 to 0.64 in. from its normal position.",
+    "VIEW A: .25 TO .64 from NORMAL POSITION"
+  ],
+  "notes_internal": [
+    "Torque legend has a 5th empty triangle; refs 1-4 assigned by legend order.",
+    "Bolt [8]/nut [10]: what the bolt clamps is not clear (pedal housing side plate; possibly the pedal pivot/support). Nut [10] relation to bolt [8] inferred from position only; holds left empty.",
+    "Striker [9] retention not shown.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

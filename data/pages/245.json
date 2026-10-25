@@ -1,0 +1,129 @@
+{
+  "page": 245,
+  "group": "12",
+  "sheet": "B7",
+  "title": "PARKING BRAKE ALARM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Parking brake warning (alarm) switch at the parking brake lever in the console tunnel: the switch is held to the lever bracket by one screw and plain washer, a sleeve covers its lead, and the harness lead is held by a clip on the bracket.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3833476",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness lead",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "4911247",
+      "name": "SLEEVE",
+      "name_expanded": "Sleeve – switch lead terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3901600",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – parking brake alarm (warning lamp switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "138479",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "451790",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "parking brake lever bracket",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [5] with plain washer [4] goes through the switch [3] mounting tab into the side of the parking brake lever bracket, from the lever side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "harness lead"
+      ],
+      "to": "parking brake bracket flange",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Clip [1] holds the harness lead to the switch on the bracket edge (no fastener; clip snaps on).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "switch [3] terminal",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sleeve [2] slides over the harness lead terminal at the switch.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Clip [1] and sleeve [2] retention interpreted from drawing; clip appears to snap onto the bracket edge.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

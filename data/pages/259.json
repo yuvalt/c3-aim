@@ -1,0 +1,320 @@
+{
+  "page": 259,
+  "group": "12",
+  "sheet": "D6",
+  "title": "WIRING DIAGRAM- INSTRUMENT PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Instrument panel wiring, right half and console, all models (sheet D6): windshield wiper/washer switch and wiper door relay, heater resistor and heater (HTR) switch with A/C lead, neutral safety switch (RPO M40 automatic, dashed), RH courtesy lamp and RH door jamb switch, and the console cluster: ammeter, water temp gauge, fuel gauge, clock, radio, cigar lighter, park brake alarm switch and console/heater/door ajar/headlamp door lamps. Wires continue left to D4 and down to D5.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "RPO M40 (neutral safety switch, dashed wiring)."
+  ],
+  "notes_internal": [
+    "Title printed on two lines 'WIRING DIAGRAM-' / 'INSTRUMENT PANEL'.",
+    "Bottom-edge list is printed order left to right; it matches D5's top edge, though D5 draws 16 DG/18 LBL/18 Y/18 Y in a different position.",
+    "Pairing of wires to console lamps is by label position next to each lamp; DOOR AJAR LP. and H/L DOOR LP. wire assignment approximate.",
+    "Sheet number K257 printed at lower left.",
+    "Wiring diagram: no callout list, part numbers, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes are not traced in the tables; only sheet-edge wire lists and wires labelled at a component are listed.",
+    "Title block: drawing 3965172, 1970 CORVETTE SERIES, L-93230, DR RT/CI, CK 4-18-69 CI, PREL/C-O D6 3-12-69."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [
+    {
+      "title": "Components and wires labelled at them",
+      "columns": [
+        "component (as printed)",
+        "wires (gauge color)"
+      ],
+      "rows": [
+        [
+          "W/S/W DR RELAY",
+          "18 LG, 18 B, 18 B/W"
+        ],
+        [
+          "(connector below relay)",
+          "18 LBL"
+        ],
+        [
+          "HEATER RES",
+          "14 Y, 14 LBL, 14 OR"
+        ],
+        [
+          "HTR (switch)",
+          "14 Y, 14 LBL, 14 OR, 14 OR, 14 BRN"
+        ],
+        [
+          "A/C",
+          "lead from HTR switch"
+        ],
+        [
+          "W/S/W SW",
+          "18 LBL, 18 DBL"
+        ],
+        [
+          "NEU SFT SW (RPO M40, dashed)",
+          "18 P, 18 LG, 12 PPL, 12 PPL"
+        ],
+        [
+          "COURT LP R.H.",
+          "20 OR, 20 W"
+        ],
+        [
+          "DR. JAMB SW. R.H.",
+          "20 W"
+        ],
+        [
+          "PARK BRK ALARM SW.",
+          "20 T"
+        ],
+        [
+          "CONSOLE LP. (x6)",
+          "20 GY each"
+        ],
+        [
+          "AMMETER",
+          "16 B, 16 B/W"
+        ],
+        [
+          "CONSOLE GRD",
+          "14 B"
+        ],
+        [
+          "WATER TEMP GAUGE",
+          "20 B, 20 P, 14 B, 20 DG"
+        ],
+        [
+          "CIG LP.",
+          "20 GY"
+        ],
+        [
+          "CIG LGT",
+          "18 OR"
+        ],
+        [
+          "HEATER LP.",
+          "20 B, 20 GY"
+        ],
+        [
+          "RADIO",
+          "20 GY, 14 B, 20 Y"
+        ],
+        [
+          "FUEL GAUGE",
+          "18 P, 18 T"
+        ],
+        [
+          "CLOCK",
+          "20 OR"
+        ],
+        [
+          "DOOR AJAR LP.",
+          "20 P, 20 LBL"
+        ],
+        [
+          "H/L DOOR LP.",
+          "18 W/DG, 16 LBL"
+        ]
+      ]
+    },
+    {
+      "title": "Wires entering left edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "16 B",
+          "D4"
+        ],
+        [
+          "2",
+          "18 W/DG",
+          "D4"
+        ],
+        [
+          "3",
+          "14 BRN",
+          "D4"
+        ],
+        [
+          "4",
+          "14 OR",
+          "D4"
+        ],
+        [
+          "5",
+          "20 Y",
+          "D4"
+        ],
+        [
+          "6",
+          "18 P",
+          "D4"
+        ],
+        [
+          "7",
+          "16 OR",
+          "D4"
+        ],
+        [
+          "8",
+          "18 Y",
+          "D4"
+        ],
+        [
+          "9",
+          "16 DG",
+          "D4"
+        ],
+        [
+          "10",
+          "18 P",
+          "D4"
+        ],
+        [
+          "11",
+          "18 LG",
+          "D4"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving bottom edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "18 LG",
+          "D5"
+        ],
+        [
+          "2",
+          "18 DBL",
+          "D5"
+        ],
+        [
+          "3",
+          "18 Y",
+          "D5"
+        ],
+        [
+          "4",
+          "18 Y",
+          "D5"
+        ],
+        [
+          "5",
+          "16 DG",
+          "D5"
+        ],
+        [
+          "6",
+          "18 LBL",
+          "D5"
+        ],
+        [
+          "7",
+          "12 PPL (dashed)",
+          "D5"
+        ],
+        [
+          "8",
+          "12 PPL (dashed)",
+          "D5"
+        ],
+        [
+          "9",
+          "20 DG",
+          "D5"
+        ],
+        [
+          "10",
+          "20 T",
+          "D5"
+        ],
+        [
+          "11",
+          "16 B/W",
+          "D5"
+        ],
+        [
+          "12",
+          "20 OR",
+          "D5"
+        ],
+        [
+          "13",
+          "20 W",
+          "D5"
+        ],
+        [
+          "14",
+          "20 W",
+          "D5"
+        ],
+        [
+          "15",
+          "16 LBL",
+          "D5"
+        ],
+        [
+          "16",
+          "20 B",
+          "D5"
+        ],
+        [
+          "17",
+          "14 B",
+          "D5"
+        ],
+        [
+          "18",
+          "14 B",
+          "D5"
+        ],
+        [
+          "19",
+          "14 B",
+          "D5"
+        ],
+        [
+          "20",
+          "18 T",
+          "D5"
+        ],
+        [
+          "21",
+          "20 LBL",
+          "D5"
+        ],
+        [
+          "22",
+          "20 GY",
+          "D5"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

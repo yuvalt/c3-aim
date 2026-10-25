@@ -1,0 +1,295 @@
+{
+  "page": 266,
+  "group": "11/13",
+  "sheet": "A5",
+  "title": "GRILLE-CENTER & REINFROCEMENTS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front center grilles (the egg-crate grilles between the headlights, LH shown) and the front-end reinforcements behind them. Grille [9] is held by screws [7] (25-35 lb-in); the radiator support rod [10] runs from the fender upper panel (bolt [8] with lock washer [2] from below) to the radiator support (bolt [1], lock washer [2], washer [12]); support [6] bolts to the radiator support with bolt [3] and a U-nut [11]; the reinforcement extension [4] and fender upper reinforcement [5] are held by bolt [3] from below near the outer extension (UPC 14).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "454872",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103320",
+      "name": "L.WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3847757",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3927663-4",
+      "name": "REINF EXTENSION",
+      "name_expanded": "Reinforcement extension (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3938095",
+      "name": "REINF ASM.-FENDER UPPER",
+      "name_expanded": "Reinforcement assembly – fender upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3963133-4",
+      "name": "SUPPORT",
+      "name_expanded": "Support (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9427651",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "181591",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966772",
+      "name": "GRILLE",
+      "name_expanded": "Grille – center (front grille between headlights)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3974016",
+      "name": "ROD-RAD. SUPT.",
+      "name_expanded": "Rod – radiator support brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3846854",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3748358",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15 - 22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "25 - 35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2",
+        "12"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "radiator support assembly",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Rear end of rod [10]: bolt [1] with lock washer [2] goes through the radiator support bracket into the rod eye; washer [12] sits between rod and bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "2"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "fender upper panel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Front end of rod [10]: bolt [8] with lock washer [2] goes up from below through the fender upper panel flange into the rod.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "11"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "radiator support",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [3] goes through the slots in support [6]; U-nut [11] clips on the support's lower flange hole (dashed line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "extension outer (UPC 14)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [3] goes up from below at the outer end into the reinforcement extension [4] / fender upper reinforcement [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "front end behind the grille opening",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [7] goes in from the front through the grille [9] frame.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "Title misspelled on sheet: 'REINFROCEMENTS' (copied).",
+    "Bolt [3] appears twice (support [6] and lower right at [4]/[5]), both with torque 2.",
+    "U-nut [11] mating fastener assumed to be bolt [3] at support [6]; dashed line from support flange to U-nut only.",
+    "Exact stack order of washers [2]/[12] at rod end is approximate.",
+    "Grille [9]: only one screw [7] shown; count not given.",
+    "Circled 5 beside torque 3 = revision 5 'TORQUE (3) ADDED'.",
+    "Rev 2 text 'WAS \"WASHER' has a ditto mark; old pn not given."
+  ],
+  "revisions": [
+    {
+      "date": "10-9-69",
+      "sym": "1",
+      "text": "WAS 122040 BOLT",
+      "was": "122040",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS \"WASHER",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "11-7-69",
+      "sym": "3",
+      "text": "WAS 9419329 SCREW",
+      "was": "9419329",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "WAS 9428069 \"U\" NUT",
+      "was": "9428069",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "TORQUE (3) ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-26-70",
+      "sym": "6",
+      "text": "WAS 9422836 \"U\" NUT & DWG REV'D",
+      "was": "9422836",
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

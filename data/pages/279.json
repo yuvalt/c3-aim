@@ -1,0 +1,248 @@
+{
+  "page": 279,
+  "group": "11/13",
+  "sheet": "B6",
+  "title": "RADIATOR SUPPLY TANK",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Radiator supply tank (expansion / surge tank with the pressure cap), mounted on the RH fender skirt (inner fender) behind the radiator, all models. The tank [6] sits on a bracket [8] riveted to the RH skirt and is held by strap clamps [4] tightened with screw [1]; hoses [10] and [2] connect the radiator to the tank, with hose clamps [5] and a retainer [9] clipped into a hole in the skirt. Cooling system sealer pellets and ethylene glycol anti-freeze go in at the tank filler.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9418916",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3147001",
+      "name": "HOSE",
+      "name_expanded": "Hose – radiator to supply tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6410203",
+      "name": "CAP ASM.",
+      "name_expanded": "Pressure cap assembly (radiator cap on supply tank)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3843432",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – tank strap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420534",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9424894",
+      "name": "OPT.",
+      "name_expanded": "Clamp – hose (optional)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3016340",
+      "name": "TANK ASM.",
+      "name_expanded": "Radiator supply tank assembly (expansion / surge tank)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3843431",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – supply tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3825551",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – hose clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828422",
+      "name": "HOSE",
+      "name_expanded": "Hose – from radiator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "12-18",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "149a",
+      "description": "SEALER-COOLING SYSTEM (1) Capsule or (2) Pellets",
+      "amount": "",
+      "where": "at supply tank filler neck"
+    },
+    {
+      "key": "B",
+      "code": "140a",
+      "description": "ETHYLENE GLYCOL ANTI-FREEZE",
+      "amount": "",
+      "where": "at supply tank filler neck"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "RH fender skirt",
+      "qty": "4 holes",
+      "torque_ref": null,
+      "note": "Rivets [7] through bracket [8] into .192/.199 dia holes in dimples in the RH skirt (4 holes).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "1"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "bracket [8]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Tank [6] sits in bracket [8] and is held by strap clamps [4] around the tank; screw [1] goes down into the top of the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "10",
+        "2"
+      ],
+      "to": "radiator neck and supply tank neck",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Hose clamps [5] at the radiator end of hose [10] and at the tank neck (small triangle 2 at the tank).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "RH fender skirt",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Retainer [9] clips the hose into a .235/.250 dia hole in a dimple in the RH skirt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "supply tank filler neck",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pressure cap [3] twists onto the tank filler neck.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".235/.250 DIA. HOLE IN DIMPLE IN R.H. SKIRT",
+    ".192/.199 DIA. 4 HOLES IN DIMPLES R.H. SKIRT",
+    "NOTE: For engine cooling system capacities refer to chart 3848206"
+  ],
+  "notes_internal": [
+    "Model box illegible (faint); 19000 taken from neighbouring sheets B1-B5.",
+    "Exactly which hose end each clamp [5] sits on is read from leader placement; hose [2] vs [10] routing partly ambiguous.",
+    "Heater hoses shown at tank are labelled but not called out.",
+    "Group printed in UPC box as 11/13."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

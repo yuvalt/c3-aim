@@ -1,0 +1,303 @@
+{
+  "page": 275,
+  "group": "11/13",
+  "sheet": "B2",
+  "title": "FENDER SKIRT & SPLASH SHIELD TO FENDER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front fender skirt (inner fender / wheelhouse panel) and the splash shield behind the front wheel, all models. The skirt [3] is bonded to the fiberglass front fender (bond tabs) and riveted at its front edge; reinforcements, a rear extension and, on the RH skirt only, the heater hose clip bracket are added. The splash shield [1] at the bottom rear of the wheel opening is held by screw assemblies [10] and carries a seal [11] stapled to it; at the front a bolt [9] through a plate [8] goes into a panel nut.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974017",
+      "name": "SHIELD-SPLASH",
+      "name_expanded": "Splash shield (LH), behind the front wheel at the rear of the fender opening",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3914340",
+      "name": "R. H.",
+      "name_expanded": "Splash shield, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3976443-4",
+      "name": "EXTENSION",
+      "name_expanded": "Extension – fender skirt rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3953053-4",
+      "name": "SKIRT",
+      "name_expanded": "Front fender skirt (inner fender / wheelhouse) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3954523-4",
+      "name": "REINF ASM.",
+      "name_expanded": "Reinforcement assembly (LH/RH), front of skirt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3953051",
+      "name": "REINF ASM.",
+      "name_expanded": "Reinforcement assembly (LH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3958806",
+      "name": "R. H.",
+      "name_expanded": "Reinforcement assembly, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3914532",
+      "name": "BRACKET-HEATER HOSE CLIP",
+      "name_expanded": "Bracket – heater hose clip (RH skirt only)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3954519",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3846201",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3846202",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3780436",
+      "name": "SEAL",
+      "name_expanded": "Seal – on splash shield edge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9985029",
+      "name": "STAPLE",
+      "name_expanded": "Staple",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "front fender / front of skirt",
+      "qty": "3 shown",
+      "torque_ref": null,
+      "note": "Main view: three rivets [6] go through the front flange of the skirt [3] at the reinforcement [4] area near the top front of the wheel opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "front fender inner surface",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Skirt top edge bonded to the fender at the tab marked BOND \"F\"; bond tabs at the front lower and rear upper corners marked BOND \"B\".",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "front fender, rear of wheel opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Extension [2] at the lower rear of the skirt sits at a BOND \"B\" tab beside the fender louvers.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5"
+      ],
+      "to": "front fender, front lower edge of wheel opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Reinforcement [5] at the lower front of the skirt; nearby tab marked BOND \"B\". Fastening of [5] itself not explicit.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "RH skirt",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A (R.H. skirt only): rivet [6] holds the heater hose clip bracket [7] to the skirt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8",
+        "1"
+      ],
+      "to": "reinforcement [4] / panel nut",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View B: bolt [9] goes through plate [8] and the front end of splash shield [1] into reinforcement [4]; a nut on the panel (marked PANEL with a filled symbol) receives it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "skirt / fender at rear of wheel opening",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "View C: screw assemblies [10] hold splash shield [1]; one goes in from the side at the inboard end, one up from underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "splash shield [1]",
+      "qty": "4 places (A)",
+      "torque_ref": null,
+      "note": "View C: seal [11] stapled along the edge of the splash shield with staples [12].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "R.H. SKIRT ONLY (View A)",
+    "A 4 PLACES"
+  ],
+  "notes_internal": [
+    "Group printed in UPC box as 11/13.",
+    "BOND \"B\" / BOND \"F\" are bond specs; no material legend on this sheet.",
+    "Exact target of View B bolt (reinf [4] vs panel nut) read from leader 'PANEL' pointing at a nut; interpretation.",
+    "Revision block empty; triangles 3-5 unused."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

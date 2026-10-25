@@ -1,0 +1,353 @@
+{
+  "page": 241,
+  "group": "12",
+  "sheet": "B3",
+  "title": "SPEEDO, TACH, DIR. SIG. FLASHER, LT. SW., & COURTESY LAMPS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Behind-the-dash mounting of the tachometer and speedometer (gauge pods) to the instrument panel with screws, a brace and a lower bracket; the headlamp switch (light switch) held to the panel by a bezel and nut with a strap, its knob-and-rod pushed in from the front; and, at the right side, the turn signal (directional signal) flasher in a clip and the RH courtesy lamp support screwed through the trim panel. Shaft asm. connects at the back of the gauges (torque 50-60 lb-in).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "6491502",
+      "name": "TACH. ASM.",
+      "name_expanded": "Tachometer assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "6491493",
+      "name": "SPEEDO ASM.",
+      "name_expanded": "Speedometer assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3961512",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod and knob assembly – headlamp switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3916710",
+      "name": "NUT",
+      "name_expanded": "Nut – headlamp switch bezel nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3951226",
+      "name": "BEZEL",
+      "name_expanded": "Bezel – headlamp switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3928779",
+      "name": "STRAP",
+      "name_expanded": "Strap – headlamp switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "1995166",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Headlamp (light) switch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9427834",
+      "name": "SCREW",
+      "name_expanded": "Screw – gauge / bracket mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3954281",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – lower, under speedometer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "6476812",
+      "name": "SHAFT ASM.",
+      "name_expanded": "Shaft assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3926490",
+      "name": "BRACE",
+      "name_expanded": "Brace – tachometer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9427325",
+      "name": "SCREW",
+      "name_expanded": "Screw – courtesy lamp support",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9421137",
+      "name": "SCREW",
+      "name_expanded": "Screw – flasher clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3943610",
+      "name": "CLIP",
+      "name_expanded": "Clip – flasher mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3909545",
+      "name": "FLASHER ASM. (A)",
+      "name_expanded": "Flasher assembly – directional signal (version A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "383638",
+      "name": "OPT. (B)",
+      "name_expanded": "Flasher – optional alternate (version B)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3937624",
+      "name": "SUPPORT",
+      "name_expanded": "Support – RH courtesy lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-25",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "50-60",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1",
+        "11"
+      ],
+      "to": "instrument panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] goes through the tachometer [1] mounting ear and brace [11] into the instrument panel from behind.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel",
+      "qty": "2 callouts",
+      "torque_ref": "1",
+      "note": "Screws [8] go through the speedometer [2] mounting ears into the instrument panel from behind (upper right and lower left).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "instrument panel lower edge",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] holds the lower bracket [9] under the speedometer; the shaft/connector routes past it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "rear of the gauge",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Shaft asm. [10] fitting threads onto the back of the gauge (triangle 3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "7",
+        "5",
+        "6"
+      ],
+      "to": "instrument panel",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Light switch [7] sits behind the panel with strap [6]; bezel [5] goes on from the front and nut [4] threads onto the switch body to clamp it to the panel. Rod & knob [3] then pushes into the switch through the bezel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "light switch [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod asm. [3] inserts into the switch through bezel [5]; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "instrument panel (INST PNL), right side",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [13] fastens clip [14] to the inst pnl; flasher [15] (A) plugs into the clip/connector there.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "15"
+      ],
+      "to": "clip [14] / harness connector",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Flasher [15] A (round) or option B (square) plugs into the harness connector, at the R.H. courtesy lamp & dir. sig. area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "trim panel, at HOLE",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [12] goes through the hole in the trim panel into the courtesy lamp support [16].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "R.H. COURTESY LAMP & DIR. SIG.",
+    "Callouts: VALVE, INSTRUMENT PANEL WIRING HARNESS, INSTRUMENT PANEL, INST PNL, TRIM PANEL, HOLE, SHAFT."
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch covers digits 2–5; visible '6' ... '02' (OCR 'j02'). Recorded 6????02.",
+    "Black-square symbols next to 'HOLE' and 'SHAFT' have no legend entry on this sheet.",
+    "Shaft asm [10]: leader points to a fitting at the back of the gauges; which gauge/cable it is is not labeled.",
+    "Flasher [15] A vs B: options not explained on the sheet.",
+    "Revision block is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

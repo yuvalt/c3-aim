@@ -1,0 +1,70 @@
+{
+  "page": 280,
+  "group": "14",
+  "sheet": "A1",
+  "title": "BUMPERS & MISCELLANEOUS CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 14 (bumpers and miscellaneous): front bumper braces and extension (A2), front bumper and license plate bracket (A3), rear bumper and license plate bezel (B1), and jack stowage (C1). Sketches of the front and rear of the car point to where A2/A3 and B1 apply. Labels, ID plate, shipping items, fluids and sealers are listed in UPC 0 instead.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "THE FOLLOWING PARTS ARE LOCATED IN UPC 0: MISCELLANEOUS LABELS & STICKERS; IDENTIFICATION NUMBER PLATE; CUSTOMER VEHICLE PROTECT \"O\" PLATE; MISCELLANEOUS SHIPPING LIST; SHIPPING PROTECTION (SEAT COVERS, WAX); LUBRICATION, COOLING SYSTEM; GASOLINE & REFRIGERANTS; PLASTIC CEMENTS & SEALERS"
+  ],
+  "notes_internal": [
+    "Index page: no parts. Two-line titles joined with a space.",
+    "Drawing callouts: A2 and A3 point at the front bumper (lower front corner); B1 points at the rear bumper.",
+    "Title block: drawing number 3965172; DR / C1, CK 4-18-69 C1, PREL 3-7-69, C/O A1; model 19000 (all). Sideways 'K278' at right. Rev 1 AUTH '25?9?' not stored.",
+    "Revision 1 date is smeared; only '-?9-69' shape visible (second figure looks like 9, first unreadable); written '?-?9-69'."
+  ],
+  "revisions": [
+    {
+      "date": "?-?9-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "BUMPERS & MISCELLANEOUS CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "FRONT BUMPER BRACES & EXTENSION"
+        ],
+        [
+          "A3",
+          "FRONT BUMPER & LICENSE PLATE BRACKET"
+        ],
+        [
+          "B1",
+          "REAR BUMPER & LICENSE PLATE BEZEL"
+        ],
+        [
+          "C1",
+          "JACK STOWAGE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

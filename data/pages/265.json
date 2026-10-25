@@ -1,0 +1,50 @@
+{
+  "page": 265,
+  "group": "11/13",
+  "sheet": "A4",
+  "title": "FENDER PANELS TO DASH PANEL",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "How the front fender (front body side panel) is bonded to the dash panel (firewall area at the cowl): bond 'B' along the dash panel flanges and a fender inner tab, bond 'G' at the plenum panel filler, the lower outer windshield bonding strip and the dash extension. No callout parts and no mechanical fasteners.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bond 'B' at the dash panel flanges (two places at the top) and at a tab on the inner fender; bond 'G' at the plenum panel filler, at the lower outer windshield (W/S) bonding strip, and at the dash extension.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "SEE SHEET A 2"
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (front end sheet metal); used verbatim as group.",
+    "No parts list; named items (dash panel, plenum panel filler, lower outer W/S bonding strip, dash extension, fender) have no part numbers here.",
+    "Bond 'B' and 'G' have no material legend on this page.",
+    "Circled 1 on the fender inner panel marks revision 1 (fender drawing revised).",
+    "Title block: L-82108, L-82110, L-82101; DR JM/C1, CK 5-2-69 C1, PREL 4-28-69, C/O A4 (handwritten, reads A4)."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "FENDER DRW. REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

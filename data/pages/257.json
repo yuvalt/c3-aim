@@ -1,0 +1,244 @@
+{
+  "page": 257,
+  "group": "12",
+  "sheet": "D4",
+  "title": "WIRING DIAGRAM-FUSE PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Fuse panel wiring, all models (sheet D4): the passenger-compartment side of the fuse panel (fuse block, View A) bolted to the bulkhead connector, with the turn signal (dir sig) and hazard warning flashers, the steering column turn signal / hazard / key warning switch connector and horn contact, and the stop lamp switch (brake light switch). Wires continue down to sheet D3 and right to sheet D6.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "*ONLY WIRES PERTINENT TO PRODUCTION OR NEUTRAL SAFETY SW. HAVE BEEN SHOWN."
+  ],
+  "notes_internal": [
+    "Pictorial label printed 'FUSE PANLE ASM' (sic).",
+    "18 P and 18 LG at the bottom run dashed (RPO wiring per D8 legend) between connectors at left and the right edge.",
+    "Which column-connector cavity is which function is not labelled; not traced.",
+    "Sheet number K255 printed at lower left.",
+    "Wiring diagram: no callout list, part numbers, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes are not traced in the tables; only sheet-edge wire lists and wires labelled at a component are listed.",
+    "Title block: drawing 3965172, 1970 CORVETTE SERIES, L-93230, DR RT/CI, CK 4-18-69 CI, PREL/C-O D4 3-12-69."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Components and wires labelled at them",
+      "columns": [
+        "component (as printed)",
+        "wires (gauge color)"
+      ],
+      "rows": [
+        [
+          "VIEW A FUSE PANEL, wires labelled at panel",
+          "12 P, 12 BRN, 20 Y, 14 BRN, 18 Y, 18 Y, 12 P, 18 P, 18 P, 16 DG, 14 OR, 18 OR, 16 OR, 20 OR, 14 BRN, 12 R, 20 GY"
+        ],
+        [
+          "HAZARD WARNING FLASHER",
+          "14 OR"
+        ],
+        [
+          "DIR SIG FLASHER",
+          "14 PPL"
+        ],
+        [
+          "KEY WARN SW., HORN CONTACT, HAZARD WARN. SW. (TO TURN SIG.) column connector",
+          "20 B, 20 P-DBL/W, 20 B, 20 LBL, 20 LBL, 20 DBL, 20 DBL, 20 Y, 20 DG, 20 OR (to D3)"
+        ],
+        [
+          "STOP LP. SW.",
+          "14 W, 14 W, 14 OR"
+        ],
+        [
+          "BULK HEAD ASM / FUSE PANLE ASM (pictorial)",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving bottom edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "18 Y",
+          "D3"
+        ],
+        [
+          "2",
+          "12 BRN",
+          "D3"
+        ],
+        [
+          "3",
+          "12 P",
+          "D3"
+        ],
+        [
+          "4",
+          "18 LG",
+          "D3"
+        ],
+        [
+          "5",
+          "16 B",
+          "D3"
+        ],
+        [
+          "6",
+          "18 W/DG",
+          "D3"
+        ],
+        [
+          "7",
+          "18 OR",
+          "D3"
+        ],
+        [
+          "8",
+          "12 R",
+          "D3"
+        ],
+        [
+          "9",
+          "14 OR",
+          "D3"
+        ],
+        [
+          "10",
+          "20 GY",
+          "D3"
+        ],
+        [
+          "11",
+          "20 B",
+          "D3"
+        ],
+        [
+          "12",
+          "20 P-DBL/W",
+          "D3"
+        ],
+        [
+          "13",
+          "20 B",
+          "D3"
+        ],
+        [
+          "14",
+          "20 LBL",
+          "D3"
+        ],
+        [
+          "15",
+          "20 LBL",
+          "D3"
+        ],
+        [
+          "16",
+          "20 DBL",
+          "D3"
+        ],
+        [
+          "17",
+          "20 DBL",
+          "D3"
+        ],
+        [
+          "18",
+          "20 Y",
+          "D3"
+        ],
+        [
+          "19",
+          "20 DG",
+          "D3"
+        ],
+        [
+          "20",
+          "20 OR",
+          "D3"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving right edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "16 B",
+          "D6"
+        ],
+        [
+          "2",
+          "18 W/DG",
+          "D6"
+        ],
+        [
+          "3",
+          "14 BRN",
+          "D6"
+        ],
+        [
+          "4",
+          "14 OR",
+          "D6"
+        ],
+        [
+          "5",
+          "20 Y",
+          "D6"
+        ],
+        [
+          "6",
+          "18 P",
+          "D6"
+        ],
+        [
+          "7",
+          "16 OR",
+          "D6"
+        ],
+        [
+          "8",
+          "18 Y",
+          "D6"
+        ],
+        [
+          "9",
+          "16 DG",
+          "D6"
+        ],
+        [
+          "10",
+          "18 P",
+          "D6"
+        ],
+        [
+          "11",
+          "18 LG",
+          "D6"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

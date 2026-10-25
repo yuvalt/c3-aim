@@ -1,0 +1,273 @@
+{
+  "page": 277,
+  "group": "11/13",
+  "sheet": "B4",
+  "title": "RADIATOR TO SUPPORT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Radiator installation in the radiator support (core support), all models. The radiator [3] sits on lower rubber cushions [4] and is held at the top by upper cushions [2] under the support's top rail. The support [1] bolts down to its mounts with bolts [6], washers [5] and a special shim [14]; brackets on the top rail are held by bolt [10] with lock washer [11] and screw assembly [13]; screw assembly [7] goes into the side of the support.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966591",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Radiator support assembly (core support)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3797412",
+      "name": "CUSHION-UPPER",
+      "name_expanded": "Cushion – radiator upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3155316",
+      "name": "RADIATOR ASM.",
+      "name_expanded": "Radiator assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3786786",
+      "name": "CUSHION-LOWER",
+      "name_expanded": "Cushion – radiator lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1347774",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419073",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3847758",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3711834",
+      "name": "SHIM",
+      "name_expanded": "Shim",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966657",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – on support top rail",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "454872",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3952918",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – on top of support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3847757",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3952926",
+      "name": "SHIM-SPECIAL",
+      "name_expanded": "Shim – special (radiator support mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "1",
+        "14"
+      ],
+      "to": "radiator support mount (circled 10 REF)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [6] goes up through washer [5] and special shim [14] into the bottom of the support [1] at its lower mount (View A arrow).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body at the side of the support",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw assembly [7] goes in from the outboard side into the side post of the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "radiator support top rail",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [10] with lock washer [11] holds bracket [9] against the underside/front of the top rail.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "top of radiator support",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw assembly [13] goes down through bracket [12] into the top of the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "2",
+        "4"
+      ],
+      "to": "radiator support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Radiator [3] rests on lower cushions [4] in the support's lower pockets; upper cushions [2] (U-shaped) fit over the radiator top edge under the support top rail. No separate radiator fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "View A: SECTION 10 INCHES FROM ℄; dimensions 1.56 and 48 to datum lines 0, -5, -45."
+  ],
+  "notes_internal": [
+    "Shim [8]: no callout found in the drawing; left out of fastening.",
+    "Circled '10 REF' near bolt [6] mount, meaning unclear (UPC 10 reference?).",
+    "View A dimension printed '48' (possibly .48, leading dot not visible); copied as seen.",
+    "Torque legend triangle numbers smudged; assumed in order 1-3 top to bottom. Callout triangles read 1 (item 6), 2 (items 7, 10), 3 (item 13).",
+    "Group printed in UPC box as 11/13."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

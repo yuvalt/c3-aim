@@ -1,0 +1,268 @@
+{
+  "page": 248,
+  "group": "12",
+  "sheet": "C1",
+  "title": "DIRECTIONAL SIGNAL LEVER, HORN CAP & HAZARD FLASHER KNOB",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steering wheel center and column top: the horn button (horn cap) with its center emblem, held by a retainer spun over the emblem's studs; the horn contact assembly screwed to the wheel hub; the horn contact spring, eyelet and insulator in the column; the turn signal (directional signal) lever screwed to the column with its knob; and the hazard flasher knob threaded into the column.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3923661",
+      "name": "CAP-HORN",
+      "name_expanded": "Cap – horn (horn button)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3913854",
+      "name": "EMBLEM",
+      "name_expanded": "Emblem – horn cap center (crossed flags)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3945459",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – horn cap/emblem",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "159612",
+      "name": "SCREW",
+      "name_expanded": "Screw – horn contact",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3937897",
+      "name": "CONTACT ASM.",
+      "name_expanded": "Contact assembly – horn",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3961517",
+      "name": "LEVER",
+      "name_expanded": "Lever – directional signal (turn signal lever)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3898283",
+      "name": "KNOB-LEVER",
+      "name_expanded": "Knob – turn signal lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "398165",
+      "name": "KNOB ASM.-HAZARD",
+      "name_expanded": "Knob assembly – hazard flasher",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "382116",
+      "name": "SPRING",
+      "name_expanded": "Spring – horn contact",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3857251",
+      "name": "EYELET",
+      "name_expanded": "Eyelet – horn contact",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "382117",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – horn contact",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9425578",
+      "name": "SCREW",
+      "name_expanded": "Screw – turn signal lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "3-5",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "13a",
+      "description": "GREASE",
+      "amount": ".004 LBS.",
+      "where": "top of steering column at the shaft/cancel cam under the wheel (13a tag)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1",
+        "3"
+      ],
+      "to": "horn cap",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Emblem [2] has its own studs (no separate fastener): they pass through horn cap [1] and retainer [3] is spun over the studs. Note: spin over studs securely; emblem must be free from rattles.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "steering wheel hub",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [4] fasten the horn contact assembly [5] to the wheel hub over the wheel nut & washer (UPC 9); the horn cap assembly then snaps into it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "directional signal switch in steering column",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "Screw [12] goes into the side of the column head through the inner end of lever [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "lever [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Knob [7] screws onto the outer end of lever [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "steering column head",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Hazard knob [8] threads into the side of the column head (torque 3-5 LBS IN).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9",
+        "10",
+        "11"
+      ],
+      "to": "steering column (horn contact bore)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spring [9], eyelet [10] and insulator [11] stack into the horn contact tower in the column; position the tower to engage the hole in the steering wheel before installing the wheel.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Spin over studs securely. Emblem must be free from rattles.",
+    "CAUTION Position horn contact tower so that it will engage hole in steering wheel before installing wheel.",
+    "A 13a GREASE .004 LBS."
+  ],
+  "notes_internal": [
+    "Item 8 pn printed with 6 digits (398165); copied as printed.",
+    "Torque legend has 5 triangles; only 1-3 filled.",
+    "Knob [7] retention (threaded onto lever) inferred from drawing; no torque shown.",
+    "Exact stacking order of [9]/[10]/[11] in the column not certain from the exploded view.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -31,7 +31,12 @@ def registry():
 def expand(pn):
     """'3966685-6' -> ['3966685', '3966686']; '3954589-90' -> ['3954589', '3954590']."""
     base, _, tail = pn.partition("-")
-    return [base] if not tail else [base, base[: len(base) - len(tail)] + tail]
+    if not tail:
+        return [base]
+    mate = base[: len(base) - len(tail)] + tail
+    if "?" not in pn and tail.isdigit() and int(mate) <= int(base):  # wraps: 3974009-0 -> 3974010
+        mate = str(int(mate) + 10 ** len(tail))
+    return [base, mate]
 
 
 def candidates(registry_pns, pattern):
@@ -46,7 +51,9 @@ def check_page(n, reg, queue, fill=False):
     ocr_path, local_path = pathlib.Path(f"work/ocr/{n:03d}.json"), pathlib.Path(f"work/local/{n:03d}.json")
     ocr_tokens = {w for b in json.loads(ocr_path.read_text()) for w in re.findall(r"[\d?]{6,7}(?:-\d{1,2})?", b["text"])} if ocr_path.exists() else set()
     local = {p["item"] + ":" + p["pn"] for p in json.loads(local_path.read_text()).get("parts", [])} if local_path.exists() else None
-    reg_pns = reg.get((page["group"], page["sheet"]), {})
+    # title blocks print combined UPCs like "11/13"; the registry files them under one of them
+    page["group"], page["sheet"] = page.get("group") or "", page.get("sheet") or ""
+    reg_pns = next((reg[(g, page["sheet"])] for g in page["group"].split("/") if (g, page["sheet"]) in reg), {})
     ours = {m for t in page.get("tables", []) for row in t["rows"] for c in row for m in re.findall(r"\b\d{6,7}\b", str(c))}
     ours |= {x for p in page["parts"] if "?" not in p["pn"] for x in expand(p["pn"])}
 

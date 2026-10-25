@@ -1,0 +1,180 @@
+{
+  "page": 284,
+  "group": "14",
+  "sheet": "C1",
+  "title": "JACK STOWAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Stowage of the jack and jack handle/wrench in the compartment behind the seat, under the storage tray and cover. The jack sits on the floor with the wrench beside it and is held down by a hold-down spring hooked over it and anchored at its lower end to a retainer that is fastened to the floor with item 6. A sticker goes on the underside of the cover; the carrier assembly sticker on the tray is from UPC 4.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3926218",
+      "name": "STICKER",
+      "name_expanded": "Sticker – on compartment cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963108",
+      "name": "SPRING ASM.",
+      "name_expanded": "Spring assembly – jack hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3958710",
+      "name": "JA???SM.",
+      "name_expanded": "Jack assembly (name partly blacked out on the scan)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3898172",
+      "name": "WR?",
+      "name_expanded": "Name blacked out after 'WR' (likely wrench / jack handle)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3797492",
+      "name": "RE?",
+      "name_expanded": "Name blacked out after 'RE' (likely retainer for the spring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "455625",
+      "name": "?",
+      "name_expanded": "Name blacked out (fastener holding retainer [5] to floor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "387296?",
+      "name": "?",
+      "name_expanded": "Name blacked out (cap/pad on the jack end, drawn as a short cylinder)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "retainer [5] on compartment floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hold-down spring [2] loops over the jack [3]; its lower end hooks into retainer [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "compartment floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Item [6] goes up from below through the floor into retainer [5] (one shown); its name is blacked out on the scan, so whether it is a screw, bolt or rivet is unknown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "compartment floor beside jack [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wrench [4] lies beside/under the jack; no fastener called out, presumably held by the jack and spring.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "end of jack [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Item [7] slips onto the end of the jack (dashed line); no fastener.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "underside of compartment cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sticker [1] applied to the cover; adhesive-backed, no fastener.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CARRIER ASM STICKER (SEE UPC 4)"
+  ],
+  "notes_internal": [
+    "Names of items 3-7 are blacked out (heavy ink smear) on the scan; only leading letters readable: 3 'JA...SM.', 4 'WR...', 5 'RE...', 6 and 7 unreadable. name_expanded guesses are flagged as presumed.",
+    "Item 7 last digit is a filled blob (Vision OCR read 3872965); left as ?.",
+    "Item 1 last digit and item 4 fourth digit are heavy; read as 8 (3926218, 3898172), agreeing with Vision OCR.",
+    "No torque legend values printed; legend triangles 1-5 empty.",
+    "Circled (1) next to CARRIER ASM STICKER = revision 1.",
+    "Title block: drawing 3965172; L- 82138; DR JM/C1, CK 5-2-69 C1, PREL 4-25-69, C/O A4 (sheet box C1); model 19000. Sideways 'K282'. Rev 1 AUTH 29828, DR SB, CK ACA."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-69",
+      "sym": "1",
+      "text": "\"CARRIER STICKER\" REF ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

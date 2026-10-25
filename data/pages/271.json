@@ -1,0 +1,212 @@
+{
+  "page": 271,
+  "group": "11/13",
+  "sheet": "A10",
+  "title": "FRONT FENDER SIDE LOUVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front fender side louver (the 'gill' / side vent grille behind the front wheel), LH/RH. The louver is held at the top by screws into a clip nut on the fender opening, and at the bottom by its own threaded stud that goes through a retainer and takes a nut. The retainer is riveted to the dash panel extension; a reinforcement is bonded to the fender at the opening. Grille sits .06-.10 recessed in the fender.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966797-8",
+      "name": "LOUVER",
+      "name_expanded": "Louver – front fender side vent (gill), LH/RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966552",
+      "name": "SCREW ASM",
+      "name_expanded": "Screw assembly – louver upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3829908",
+      "name": "RIVET",
+      "name_expanded": "Rivet – retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3976459",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – louver lower stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3846854",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut on fender opening",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3963168",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement – fender louver opening",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3963165-6",
+      "name": "EXTENSION",
+      "name_expanded": "Extension (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3857243",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly – louver stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "fender opening flange / reinforcement [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [2] goes through the louver [1] upper hole into clip nut [5] on the opening flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "retainer [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "The louver has its own threaded stud at its lower edge (no callout, not a separate part). The stud goes through retainer [4] and nut [8] is tightened on it from inside.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel extension (UPC 1)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [3] goes up through the dash panel extension into retainer [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "6"
+      ],
+      "to": "fender, at louver opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Reinforcement [6] bonded to the fender ('BOND B', 1.00 dimension).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "GRILL TO BE .06 TO .10 RECESSED IN FENDER (Section A-A).",
+    "BOND 'B'",
+    "Dimensions 1.00, 1.28 from datum (+5)."
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "Extension [7]: no callout found in the drawing; not in fastening.",
+    "Bond B material not in a legend (no code given).",
+    "Item 1 number box partly cut at top edge; pn readable.",
+    "Louver stud: drawn as a threaded stud on the louver back with leader lines to retainer [4]; interpretation of stud-through-retainer is from the drawing."
+  ],
+  "revisions": [
+    {
+      "date": "11-16-69",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-11-69",
+      "sym": "4",
+      "text": "TORQUE WAS 20-30 LBS IN",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "TORQUE WAS 15-20 LBS IN",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "12-23-69",
+      "sym": "6",
+      "text": "SECTION 'A' ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

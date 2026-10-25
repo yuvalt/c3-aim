@@ -1,0 +1,118 @@
+{
+  "page": 272,
+  "group": "11/13",
+  "sheet": "A11",
+  "title": "BODY CHECKING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Front-of-car panel gap and flush specs for body alignment: hood to fenders and cowl, headlamp doors, front bumper, windshield wiper door (access door), door to fender, and roof panels. No parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Gap to be equal side to side of same headlamp within ± .020"
+  ],
+  "notes_internal": [
+    "Title block UPC box reads '11/13' (sheet metal / radiator grille); group set to '13' to match the registry key for this sheet.",
+    "Location names in the table are my reading of where each dimension's arrows point; values are copied exactly. '.12T016' printed without a point before 16.",
+    "Rev 1 date last digit obscured."
+  ],
+  "revisions": [
+    {
+      "date": "12-23-6?",
+      "sym": "1",
+      "text": "SECTION AA ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-19-70",
+      "sym": "2",
+      "text": "SECTION AA REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-14-70",
+      "sym": "3",
+      "text": "SECTION A-A REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "± .020 DIM. ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "Front body checking dimensions",
+      "columns": [
+        "location",
+        "spec"
+      ],
+      "rows": [
+        [
+          "Front corner of access door to rear corner of hood",
+          "3.08 TO 3.12"
+        ],
+        [
+          "Wiper/access door to cowl/windshield",
+          ".08 TO .12"
+        ],
+        [
+          "Access door to cowl",
+          "FLUSH TO ±.040"
+        ],
+        [
+          "Hood side gap to fender",
+          "GAP TO BE EQUAL SIDE TO SIDE WITHIN .06"
+        ],
+        [
+          "Hood to fender, front",
+          ".12 TO .16"
+        ],
+        [
+          "Hood front to header panel",
+          ".10 TO .14"
+        ],
+        [
+          "Headlamp door gaps",
+          ".10 TO .14"
+        ],
+        [
+          "Headlamp door to fender",
+          "FLUSH TO ±.04"
+        ],
+        [
+          "Front bumper to fender",
+          ".48 TO .52"
+        ],
+        [
+          "Door front to fender",
+          ".16 TO .20"
+        ],
+        [
+          "Roof panel gap (front/center)",
+          ".10 TO .14"
+        ],
+        [
+          "Roof panel gap (rear)",
+          ".16 TO .20"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

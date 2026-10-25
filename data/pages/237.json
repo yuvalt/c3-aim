@@ -1,0 +1,166 @@
+{
+  "page": 237,
+  "group": "12",
+  "sheet": "A14",
+  "title": "WINDSHIELD WIPER VAC HOSE ROUTING & VAC TANK MTG",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Engine-compartment routing of the windshield wiper vacuum hoses (LH hose assembly plus color-striped red/white/yellow/green hoses to the wiper motor, check valve and headlamp washer) along the generator & front lamp harness, and mounting of the vacuum tank (vacuum reservoir/canister). The tank is held by one screw assembly (View A); the hoses are bundled with straps and held by special clips, one of which is bent to retain the hoses. Related sheet: A13 (headlamp vacuum hoses).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966704",
+      "name": "TANK ASM.",
+      "name_expanded": "Vacuum tank assembly (vacuum reservoir/canister)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3855554",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – vacuum tank mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3977705",
+      "name": "HOSE ASM.-W/S WIPER VAC L.H.",
+      "name_expanded": "Hose assembly – windshield wiper vacuum, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3977708",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (vacuum hose retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap – hose bundle tie",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3977709",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (vacuum hose retaining)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body at the vacuum tank mounting location",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View A: a single screw assembly [2] goes through the tank's lower mounting flange into the body panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "flange/bracket at the upper edge, next to the pipe asm. and tee",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Special clip [4] hooks over the flange and holds the hose bundle; note A: bend clip as required to properly retain hoses.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "other vacuum hoses in the bundle",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Straps [5] tie the vacuum hose bundle together at two points toward the wiper motor end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hose bundle between the two straps [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Special clip [6] (eyelet clip with a hole) sits on the hose bundle between the straps; what it mounts to is not clear in the drawing.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Bend clip as required to properly retain hoses.",
+    "Hoses: RED and WHITE to W/S wiper motor; to check valve; YELLOW, GREEN, WHITE to headlamp washer end; joined with TEE and TAPE; unnumbered CLIPs and TAPE hold hoses along the GEN. & FWD LAMP HARN."
+  ],
+  "notes_internal": [
+    "Several unnumbered CLIP and TAPE callouts along the generator & fwd lamp harness have no part numbers; not listed as parts.",
+    "Clip [6]: mounting point not readable; described as on the hose bundle.",
+    "Revision text handwritten 'REDRAWN 1 REDESIGNED'; the '1' is read as '&'."
+  ],
+  "revisions": [
+    {
+      "date": "2-5-70",
+      "sym": "4",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

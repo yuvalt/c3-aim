@@ -1,0 +1,322 @@
+{
+  "page": 256,
+  "group": "12",
+  "sheet": "D3",
+  "title": "WIRING DIAGRAM-FUSE PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Fuse panel wiring, all models (sheet D3 of the 1970 wiring diagram D1-D8): the engine-compartment side of the bulkhead connector (firewall multi-plug, View A) with the wire gauge and color at each cavity, plus the headlamp dimmer switch (floor dimmer) and clutch safety switch. Wires continue up to sheet D4 (fuse panel) and right to sheet D5 (instrument panel).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Adjoining sheet key: D2 D4 D6 D8 over D1 D3 D5 D7; top edge matches D4 bottom edge, right edge matches D5 left edge.",
+    "Bulkhead cavity grouping is approximate (by label position next to the connector), not a pin map.",
+    "Dimmer switch label printed 'DIMR SW' (partly obscured); interpreted as headlamp dimmer switch.",
+    "Wiring diagram: no callout list, part numbers, torques or materials; fastening empty because nothing is fastened on this sheet.",
+    "Wire routes are not traced in the tables; only sheet-edge wire lists and wires labelled at a component are listed.",
+    "Title block: drawing 3965172, 1970 CORVETTE SERIES, L-93230, DR RT/CI, CK 4-18-69 CI, PREL/C-O D3 3-12-69."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Components and wires labelled at them",
+      "columns": [
+        "component (as printed)",
+        "wires (gauge color)"
+      ],
+      "rows": [
+        [
+          "VIEW A BULKHEAD CONN, upper block",
+          "12 PPL, 16 B, 18 Y, 18 LG, 18 DBL, 18 LBL, 14 OR"
+        ],
+        [
+          "VIEW A BULKHEAD CONN, between blocks",
+          "20 LG, 12 P, 12 R/W, 18 W/DG, 14 LBL, 20 P-DBL/W"
+        ],
+        [
+          "VIEW A BULKHEAD CONN, lower block",
+          "12 R, 20 BRN, 12 BRN, 20 B, 20 DBL, 20 DG, 20 LBL, 20 T, 20 T, 16 B/W"
+        ],
+        [
+          "DIMMER SW (printed 'DIMR SW')",
+          "16 LG, 20 LG, 14 LBL, 18 T"
+        ],
+        [
+          "CLUTCH SAFETY SW.",
+          "12 PPL, 12 PPL"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving top edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "18 Y",
+          "D4"
+        ],
+        [
+          "2",
+          "12 BRN",
+          "D4"
+        ],
+        [
+          "3",
+          "12 P",
+          "D4"
+        ],
+        [
+          "4",
+          "18 LG",
+          "D4"
+        ],
+        [
+          "5",
+          "16 B",
+          "D4"
+        ],
+        [
+          "6",
+          "18 W/DG",
+          "D4"
+        ],
+        [
+          "7",
+          "18 OR",
+          "D4"
+        ],
+        [
+          "8",
+          "12 R",
+          "D4"
+        ],
+        [
+          "9",
+          "14 OR",
+          "D4"
+        ],
+        [
+          "10",
+          "20 GY",
+          "D4"
+        ],
+        [
+          "11",
+          "20 B",
+          "D4"
+        ],
+        [
+          "12",
+          "20 P-DBL/W",
+          "D4"
+        ],
+        [
+          "13",
+          "20 B",
+          "D4"
+        ],
+        [
+          "14",
+          "20 LBL",
+          "D4"
+        ],
+        [
+          "15",
+          "20 LBL",
+          "D4"
+        ],
+        [
+          "16",
+          "20 DBL",
+          "D4"
+        ],
+        [
+          "17",
+          "20 DBL",
+          "D4"
+        ],
+        [
+          "18",
+          "20 Y",
+          "D4"
+        ],
+        [
+          "19",
+          "20 DG",
+          "D4"
+        ],
+        [
+          "20",
+          "20 OR",
+          "D4"
+        ]
+      ]
+    },
+    {
+      "title": "Wires leaving right edge",
+      "columns": [
+        "order",
+        "wire (gauge color)",
+        "continues on"
+      ],
+      "rows": [
+        [
+          "1",
+          "12 PPL",
+          "D5"
+        ],
+        [
+          "2",
+          "18 LG",
+          "D5"
+        ],
+        [
+          "3",
+          "18 DBL",
+          "D5"
+        ],
+        [
+          "4",
+          "12 BRN",
+          "D5"
+        ],
+        [
+          "5",
+          "18 LBL",
+          "D5"
+        ],
+        [
+          "6",
+          "20 DBL",
+          "D5"
+        ],
+        [
+          "7",
+          "12 BRN",
+          "D5"
+        ],
+        [
+          "8",
+          "20 GY",
+          "D5"
+        ],
+        [
+          "9",
+          "20 LG",
+          "D5"
+        ],
+        [
+          "10",
+          "12 P",
+          "D5"
+        ],
+        [
+          "11",
+          "12 R/W",
+          "D5"
+        ],
+        [
+          "12",
+          "20 LBL",
+          "D5"
+        ],
+        [
+          "13",
+          "14 LBL",
+          "D5"
+        ],
+        [
+          "14",
+          "18 OR",
+          "D5"
+        ],
+        [
+          "15",
+          "20 BRN",
+          "D5"
+        ],
+        [
+          "16",
+          "12 R",
+          "D5"
+        ],
+        [
+          "17",
+          "12 R",
+          "D5"
+        ],
+        [
+          "18",
+          "20 DG",
+          "D5"
+        ],
+        [
+          "19",
+          "20 OR",
+          "D5"
+        ],
+        [
+          "20",
+          "20 T",
+          "D5"
+        ],
+        [
+          "21",
+          "20 T",
+          "D5"
+        ],
+        [
+          "22",
+          "16 B/W",
+          "D5"
+        ],
+        [
+          "23",
+          "18 LG",
+          "D5"
+        ],
+        [
+          "24",
+          "20 DG",
+          "D5"
+        ],
+        [
+          "25",
+          "20 Y",
+          "D5"
+        ],
+        [
+          "26",
+          "12 PPL",
+          "D5"
+        ],
+        [
+          "27",
+          "20 B",
+          "D5"
+        ],
+        [
+          "28",
+          "2 B",
+          "D5"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
