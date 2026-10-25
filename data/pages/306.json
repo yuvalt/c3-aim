@@ -1,0 +1,284 @@
+{
+  "page": 306,
+  "group": "C60",
+  "sheet": "A4",
+  "title": "AIR CONDITIONING-PLENUM VALVE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60): the plenum valve (outside-air / recirculation door) at the plenum filler panel, on the right side of the dash under the cowl, and its vacuum actuator. The valve and a mounting bracket are screwed to the plenum filler panel (into a tapping plate, sheet A8); the vacuum actuator's own studs pass through the panel and bracket and take nuts, and its rod is pinned to the valve with a cotter pin. The vacuum hose clips onto the actuator (Views B and C).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "?942619",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – plenum valve actuator mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9419321",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "381700",
+      "name": "NUT",
+      "name_expanded": "Nut (push-on type pn)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "112726",
+      "name": "COTTER PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "120614",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3731921",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3942618",
+      "name": "VALVE",
+      "name_expanded": "Plenum valve (A/C outside-air door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1998988",
+      "name": "ACTU. ASM.",
+      "name_expanded": "Vacuum actuator assembly – plenum valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3984652",
+      "name": "HOSE",
+      "name_expanded": "Vacuum hose – to actuator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "113748",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – vacuum hose to actuator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "13-18",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1",
+        "7"
+      ],
+      "to": "plenum filler panel (tapping plate, sheet A8)",
+      "qty": "3",
+      "torque_ref": "1",
+      "note": "View A: three screws [2] through bracket [1] and the valve [7] flange into the plenum filler panel; the tapping plate (sheet A8) is behind the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "plenum filler panel / bracket [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The actuator [8] carries its own two threaded studs (no separate callout); they pass through the plenum filler panel and bracket [1] and nuts [3] go on them (View A). Nut [3] is also called out at the hose [9] tab beside the tapping plate (upper view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "valve [7] lever",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: the actuator rod's end is retained at the valve by cotter pin [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "plenum",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View A: plain washer [6] and nut [5] at the valve [7] pivot hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "actuator [8]",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View B: clip [11] holds the vacuum hose [9] on the actuator [8] nipple. View C shows the hose on the actuator from above.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [],
+      "to": "plenum filler panel",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Rivet [10] is shown going into a hole in the plenum filler panel (upper view); what it retains is not clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "TAPPING PLATE SHEET A8",
+    "VAC HOSE SHEET E4"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the first digit; visible '942619'.",
+    "Nut [3] (381700) is called out twice: at the hose [9] tab in the upper view and at the actuator stud/rod at bracket [1] in View A; exact role of each not fully clear.",
+    "Rivet [10]: its purpose (what it holds) is not shown.",
+    "Main view (lower left) locates the valve at the right end of the plenum filler panel, by the dash; arrows A, B, C give the view directions.",
+    "Sideways 'K304' above the title block. Title block: drawing 3965172, L-88115, DR WO/CI, CK 4-30-69 CI, PREL 4-25-69, C/O A4."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-69",
+      "sym": "1",
+      "text": "WAS 1998944 ACTU ASM",
+      "was": "1998944",
+      "item": "8"
+    },
+    {
+      "date": "2-13-70",
+      "sym": "2",
+      "text": "WAS 3949968 HOSE",
+      "was": "3949968",
+      "item": "9"
+    },
+    {
+      "date": "2-24-70",
+      "sym": "3",
+      "text": "ITEM (11) ADDED",
+      "was": null,
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "VIEW \"B\" & \"C\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "WAS VAC HOSE SHEET E2",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

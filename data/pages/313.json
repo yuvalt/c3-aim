@@ -1,0 +1,334 @@
+{
+  "page": 313,
+  "group": "C60",
+  "sheet": "B1",
+  "title": "AIR CONDITIONING-CONDENSER, RECEIVER & DEHYDRATOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air-conditioned cars (C60): A/C condenser bolted to the front of the radiator support, and the receiver-dehydrator (drier can) clamped in upper and lower brackets on the LH front skirt (inner fender) next to the headlamp linkage rod, with its tubes and O-rings. Condenser: screws at the top through plain washers and one at the bottom; drier: lower bracket nut and lock washer to the skirt.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "37???58",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3949932",
+      "name": "CONDENSER ASM.",
+      "name_expanded": "Condenser assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419380",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3840341",
+      "name": "BRACKET ASM-LWR",
+      "name_expanded": "Bracket assembly - lower (receiver-dehydrator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3012944",
+      "name": "RECEIVER & DEHYDRATOR ASM.",
+      "name_expanded": "Receiver-dehydrator assembly (drier)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3946941",
+      "name": "BRACKET ASM-UPR",
+      "name_expanded": "Bracket assembly - upper (receiver-dehydrator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3840474",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (tube support)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949929",
+      "name": "TUBE ASM.",
+      "name_expanded": "Tube assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "8526398",
+      "name": "GASKET \"O\" RING",
+      "name_expanded": "O-ring gasket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3955902",
+      "name": "TUBE ASM.",
+      "name_expanded": "Tube assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3140600",
+      "name": "GASKET \"O\" RING",
+      "name_expanded": "O-ring gasket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "179823",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "179820",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "11-13",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "15",
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "radiator support, upper LH corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [15] goes through a plain washer [1] and the condenser [2] upper mounting tab into the radiator support (main view, top left).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "radiator support, upper RH corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [16] through plain washer [1] and the condenser [2] upper tab into the radiator support (main view, top right).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "radiator support, lower edge",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] through the condenser [2] lower mounting tab into the radiator support (main view, bottom). A second lower tab at the LH side is drawn with a fastener but no callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "LH front skirt assembly",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Receiver-dehydrator [5] is held by clamp-style lower bracket [4]; the bracket tab bolts to the skirt with lock washer [6] and nut [7] from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "skirt / radiator support area above the drier",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper bracket [8] on the receiver-dehydrator top is drawn with small fasteners to the panel, none called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "LH front skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bracket [9] is riveted with rivets [10] (2 shown); it supports tube [11]. Keep .38 min clearance between the tube and the headlamp linkage rod.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "14"
+      ],
+      "how": "seals",
+      "holds": [
+        "11",
+        "13"
+      ],
+      "to": "condenser fittings and receiver-dehydrator",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: tube [13] connects with O-ring [14] (fitting torque ref 3) and tube [11] with O-ring [12] (fitting torque ref 4) at the condenser outlets on the skirt side; the tubes run to the receiver-dehydrator [5].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".38 MIN CLEARANCE (tube to headlamp linkage rod)",
+    "CLIP (SHEET D4)",
+    "TO FITTING & MUFFLER ASM",
+    "TO EXPN VALVE"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes the middle 3 digits; visible \"37\" ... \"58\" (assumed 7 digits by width).",
+    "View A torque triangles 3 and 4 point at the tube-nut fittings, not at a callout; recorded in the fastening note, not on a part.",
+    "Item 1 washers: leaders go to the two upper condenser screws only.",
+    "Lower bracket [4]: nut [7] goes on a threaded end projecting through the skirt; whether it is a stud on the bracket or a separate bolt is not clear (no bolt callout).",
+    "Upper bracket [8] fasteners and the second lower condenser fastener have no callouts.",
+    "Revision block blank (5 empty symbols)."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

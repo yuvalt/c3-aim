@@ -1,0 +1,302 @@
+{
+  "page": 301,
+  "group": "C50",
+  "sheet": "A3",
+  "title": "REAR WINDOW DEFOG EQUIPMENT-MOTOR & DUCT ASM.",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) rear window defogger (RPO C50): blower motor (same blower as the coupe), its support and the lower duct that feeds the upper duct, mounted in the rear compartment on the U-body. The blower and its inlet flange & screen screw to the support; the support is screwed and riveted to a plate on the U-body; the lower duct is riveted to a support bracket screwed to the body, with a seal and reinforcement at the joint to the upper duct.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "??76130",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9418482",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3955986",
+      "name": "SUPPORT BRKT.",
+      "name_expanded": "Support bracket – lower duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3949951",
+      "name": "LOWER DUCT",
+      "name_expanded": "Lower duct – blower outlet duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3014886",
+      "name": "BLOWER ASM.",
+      "name_expanded": "Blower assembly – defogger blower motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949950",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly – blower support mounting plate on U-body",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3949949",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Support assembly – blower support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "125751",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9418857",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3148663",
+      "name": "FLG & SCREEN ASM",
+      "name_expanded": "Flange & screen assembly – blower inlet screen",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9423175",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3949956",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3949953",
+      "name": "SEAL",
+      "name_expanded": "Seal – lower duct to upper duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3876129",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "10",
+        "5"
+      ],
+      "to": "support [7]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [11] go through the flange & screen [10] and the support [7] into the blower [5] (3-hole pattern).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "plate [6] on the U-body",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [9] with lock washer [8] fastens the support [7] to the plate [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "plate [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [2] also join the support [7] to the plate [6]; plate [6] has its own rivet [2] to the U-body (View A gives .136/.140 dia 2 holes and 5/16 dia 4 holes in the U-body).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "lower duct [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [2] joins the support bracket [3] to the lower duct [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "body flange below the upper duct",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [14] goes through the support bracket [3] into nut [1] on the body.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "blower [5] outlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lower duct [4] slips over the blower outlet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "how": "seals",
+      "holds": [
+        "4"
+      ],
+      "to": "upper duct",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [13] goes between the lower duct [4] outlet and the upper duct; reinforcement [12] (2 holes) backs the joint, its fasteners not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "View A: .136/.140 DIA 2 HOLES IN U-BODY; 5/16 DIA 4 HOLES IN U-BODY; dims 1.38±.01, 2.00±.01, .15±.01, 1.58±.01, .88±.01, 3.50±.01, 2.56, 2.34 from refs 10 and 85.",
+    "UPPER DUCT",
+    "PLATE (solid-square tag on [6])"
+  ],
+  "notes_internal": [
+    "Title block: UPC C50, sheet A3, model 19467, C/O A2&A2.5 (faint), drawing 3965172, K299. Revision record empty.",
+    "Item 1: hole punch wipes the first two digits; visible '76130'.",
+    "Contents (p299) calls A3 'UPPER DUCT & CABLE' but this title block says MOTOR & DUCT ASM.",
+    "Reinforcement [12]: fastening not clear in the drawing.",
+    "Meaning of the solid-square 'PLATE' tag not explained on the page."
+  ],
+  "revisions": [],
+  "options": [
+    "C50"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

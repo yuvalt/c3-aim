@@ -1,0 +1,370 @@
+{
+  "page": 294,
+  "group": "C07",
+  "sheet": "A5",
+  "title": "TOP AUXILIARY - ATTACHMENTS",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: how the hardtop (roof asm.) is attached to the car - the rear hold-down stud and housing at the body, the front header locks (RH lock and LH/center locks, with lock housings) and the header guides (guide pins). The rear stud goes through the body panel with a press-fit spacer, a hose sleeve, washer, lock washer and nut; the locks bolt to the roof from the side, and the guides are screwed up into the roof. Locks are adjusted for a 13-16 lb release load at the back edge of the paddles.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976400",
+      "name": "ROOF ASM.",
+      "name_expanded": "Roof assembly – auxiliary hardtop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3958897",
+      "name": "HOUSING",
+      "name_expanded": "Housing – rear hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9418971",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3942766",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3942769",
+      "name": "STUD",
+      "name_expanded": "Stud – hardtop rear hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "120392",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3856691",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3962610",
+      "name": "LOCK ASM. R.H.",
+      "name_expanded": "Lock assembly – hardtop front, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3958703-4",
+      "name": "GUIDE-HD",
+      "name_expanded": "Guide – header (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3958727",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3962609",
+      "name": "LOCK ASM. L.H. & CENTER",
+      "name_expanded": "Lock assembly – hardtop front, LH & center",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3918684",
+      "name": "HOUSING",
+      "name_expanded": "Housing – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3958748",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3976411",
+      "name": "HOSE",
+      "name_expanded": "Hose (sleeve over stud)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN."
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "45-65",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "hardtop rear hold-down",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: housing [2] sits on stud [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "body panel (see UPC 1 asm)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: spacer [15] is pressed onto stud [7] at the body panel (NOTE: press fit to [7]).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "7",
+        "16"
+      ],
+      "to": "body panel (see UPC 1 asm), from below",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: stud [7] passes down through the body panel; hose [16] slips over the stud below the panel, then washer [6], lock washer [5] and nut [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [],
+      "to": "body panel (see UPC 1 asm)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw assembly [3] goes into the plate beside the stud; what it holds is not clear from the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "3"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "roof [1]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View D: bolt [9] with a washer, and screw assemblies [3], fasten lock housing [14] to the roof.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "roof [1] / housing [14]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View D: LH/center lock [13] shown at the housing; its own fasteners are not called out. Adjust for 13-16 lb release load at the back edge of the paddles.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "roof [1], from the side",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: bolt [9] through plain washer [8] holds RH lock [10] to the roof bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "roof [1], from below",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View C: screw [12] goes up through header guide [11] into the roof.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Press fit to [7]",
+    "Adjust locks to obtain a 13-16 lb release load at back edge of paddles.",
+    "SEE U.P.C. 1 ASM"
+  ],
+  "notes_internal": [
+    "View D: two '△2 9' callouts; the upper triangle digit is faint but reads 2. Leader for [3] in View D branches to the washer and a second small screw - interpretation of which fastener is which there is uncertain.",
+    "Nut [4] triangle is faint; reads 4.",
+    "Revision 1 row is almost entirely faded (only 'REVISED' legible). Revision 2 date first digit faint. Revision 4 old pn last two digits unreadable.",
+    "Circled 2 beside torque 1 in the legend = revision 2. Circled 1 near the View D note = revision 1 (probably the lock adjustment note). Circled 3 at screw [12] = revision 3.",
+    "Title block: DR DP/C1, CK 4-18-69 C1, PREL A2, C/O ?-27-69 (overwritten), 82115/84958. Sideways 'K292'. Triangle 5 blank."
+  ],
+  "revisions": [
+    {
+      "date": "?-1?-6?",
+      "sym": "1",
+      "text": "? REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "?-19-69",
+      "sym": "2",
+      "text": "TORQUE (1) WAS 10-15 LBS IN.",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "TORQUE SYM (2) WAS SYM (1)",
+      "was": null,
+      "item": "12"
+    },
+    {
+      "date": "10-2-69",
+      "sym": "4",
+      "text": "WAS 39587?? ROOF ASM.",
+      "was": "39587??",
+      "item": "1"
+    }
+  ],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

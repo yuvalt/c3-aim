@@ -1,0 +1,231 @@
+{
+  "page": 19,
+  "group": "0",
+  "sheet": "C1",
+  "title": "MISCELLANEOUS SHIPPING LIST",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Shipping list of loose items packed with a new car: what goes in the under-body center stowage compartment (behind-seat storage: owner's manual, warranty folder, instruction sheets, license plate frame and attachment kit, key envelope, seat-back spacers and shim in a bag, cigarette lighter, extra keys, booklets, roof panel storage bag chart) and what goes in the luggage compartment (hub caps, wheel trim rings, wheel covers, valve stem extensions, radio antenna mast, fender extensions). No assembly or fasteners.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "[A] Place in R.H. side.",
+    "[B] Place in bag.",
+    "[C] Place in envelope.",
+    "[D] Place in back of seat.",
+    "* NON-ILLUSTRATED OPTION"
+  ],
+  "notes_internal": [
+    "Chart page; no callout parts. Part numbers printed inside item names kept in the NAME column as printed.",
+    "Circled numbers next to rows are revision symbols; only revisions 7 and 8 are recorded in the revision block (1-6 not listed on this sheet).",
+    "Rev 7 date first digit is partly broken; reads 3-5-70.",
+    "'U/B' in the left heading copied as printed (a slash mark sits between U and B).",
+    "Headers 'SHIPPI(NG) REF.' and '(U)PC REF.' are partly cut by binder holes; standard header text used for column names."
+  ],
+  "revisions": [
+    {
+      "date": "3-5-70",
+      "sym": "7",
+      "text": "3942700 CHART ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-19-70",
+      "sym": "8",
+      "text": "UPC 10 ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69",
+    "C07",
+    "ZQ7",
+    "P02",
+    "J56"
+  ],
+  "tables": [
+    {
+      "title": "PLACE IN U/B CENTER STOWAGE COMPARTMENT",
+      "columns": [
+        "SHIPPING REF.",
+        "NAME",
+        "UPC REF.",
+        "REV. SYM"
+      ],
+      "rows": [
+        [
+          "",
+          "MANUAL-OWNERS (2ND EDITION) 3970666",
+          "",
+          ""
+        ],
+        [
+          "",
+          "FOLDER-NEW VEHICLE WARRANTY",
+          "",
+          "2"
+        ],
+        [
+          "",
+          "ENVELOPE-OWNERS MANUAL 3950779",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SHEET-WHEEL TRIM RING INSTRUCTION",
+          "10",
+          ""
+        ],
+        [
+          "",
+          "SHEET-RADIO INSTRUCTION",
+          "U69",
+          ""
+        ],
+        [
+          "",
+          "LICENSE PLATE ATTACHMENT UNIT",
+          "14",
+          ""
+        ],
+        [
+          "",
+          "LICENSE PLATE-FRAME ASM.",
+          "14",
+          ""
+        ],
+        [
+          "A",
+          "BAG",
+          "14",
+          ""
+        ],
+        [
+          "B",
+          "WRENCH",
+          "C07",
+          ""
+        ],
+        [
+          "",
+          "ENVELOPE-KEY",
+          "6 -10",
+          "8"
+        ],
+        [
+          "B",
+          "SPACERS-SEAT BACK LOCK CATCH",
+          "1 SEATS",
+          ""
+        ],
+        [
+          "B",
+          "SPACERS-SEAT BACK BUMPER",
+          "1 SEATS",
+          ""
+        ],
+        [
+          "B",
+          "SHIM-SEAT BACK",
+          "1 SEATS",
+          ""
+        ],
+        [
+          "",
+          "CIGARETTE LIGHTER",
+          "12",
+          ""
+        ],
+        [
+          "C",
+          "EXTRA KEYS",
+          "",
+          "1"
+        ],
+        [
+          "",
+          "CARD-VEHICLE IDENTIFICATION PLATE 734326",
+          "ZQ7*",
+          "3"
+        ],
+        [
+          "",
+          "BOOKLET-NEW VEHICLE WARRANTY 734317",
+          "ZQ7*",
+          "4"
+        ],
+        [
+          "",
+          "BOOKLET-CONSUMER INFORMATION 3988827",
+          "",
+          "5"
+        ],
+        [
+          "",
+          "CHART - ROOF PNL STORAGE BAG 3942700",
+          "",
+          "7"
+        ]
+      ]
+    },
+    {
+      "title": "PLACE IN LUGGAGE COMPARTMENT",
+      "columns": [
+        "SHIPPING REF.",
+        "NAME",
+        "UPC REF.",
+        "REV. SYM"
+      ],
+      "rows": [
+        [
+          "",
+          "CAP UNIT-HUB",
+          "10",
+          ""
+        ],
+        [
+          "",
+          "RING UNIT-WHEEL TRIM",
+          "10",
+          ""
+        ],
+        [
+          "",
+          "WHEEL TRIM COVER UNIT",
+          "P02*",
+          ""
+        ],
+        [
+          "",
+          "EXTENSION-TIRE VALVE STEM",
+          "P02*",
+          ""
+        ],
+        [
+          "",
+          "ANTENNA ROD & MAST ASM.",
+          "U69",
+          ""
+        ],
+        [
+          "D",
+          "FENDER EXTENSION UNIT",
+          "J56*",
+          "6"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "page": 293,
+  "group": "C07",
+  "sheet": "A4",
+  "title": "TOP AUXILIARY- HEADLINER & TRIM",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: the hardtop headliner (chart-headliner assembly) and the inside trim molding across the rear window opening. The headliner is held by push fasteners at the front and rivets along the sides; the rear molding has a stud of its own (no separate callout) that goes through the roof flange and takes a nut from inside, plus a screw at the end. Related sheets: A2, A3.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3926460",
+      "name": "CHART-HEADLINER ASM.",
+      "name_expanded": "Headliner assembly – hardtop (chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(blank; 3?54531 washer-spl removed, rev 1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3877720",
+      "name": "MOLDING CHART",
+      "name_expanded": "Molding – hardtop interior trim, rear window header (chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3857243",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3918654",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – headliner",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9427909",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "455464",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11g",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "lower rear corner of the headliner/side trim at the roof (main view; arrow A at the rear molding)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hardtop roof inner panel, front corners",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fastener [5] pushes up through the front edge of headliner [1] into the roof (dashed line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hardtop roof side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [6] through the headliner [1] side flange (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hardtop roof flange above the rear window opening",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: molding [3] has its own stud (no separate callout) that passes through the roof flange; nut assembly [4] goes on it from inside. Main view shows nuts [4] at the molding ends near the CAP.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hardtop roof",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: screw [7] goes into a hole in the end of molding [3] (added rev 3).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 7 pn is six digits as printed (455464).",
+    "Revision 1 removed pn reads 3?54531 (2nd digit unclear); circled 1 sits beside blank item 2, so item 2 was that washer.",
+    "Circled 2 and a faint circled 4 next to item 3 = revisions 2 and 4.",
+    "Whether the stud for nut [4] is part of molding [3] is read from View A (no separate stud callout).",
+    "Title block: DR DP/C1, CK 5-6-69 C1, PREL 4-29-69, C/O A4, 84958. Sideways 'K291'. Torque triangles 2-5 blank."
+  ],
+  "revisions": [
+    {
+      "date": "10-2-69",
+      "sym": "1",
+      "text": "3?54531 WASHER SPL REMOVED",
+      "was": "3?54531",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3947059 CHART MOLDING & DWG REVISED",
+      "was": "3947059",
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "ITEM 7 ADDED",
+      "was": null,
+      "item": "7"
+    },
+    {
+      "date": "12-12-69",
+      "sym": "4",
+      "text": "WAS 3976380 MOLDING",
+      "was": "3976380",
+      "item": "3"
+    }
+  ],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

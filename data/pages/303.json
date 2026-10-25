@@ -1,0 +1,213 @@
+{
+  "page": 303,
+  "group": "C60",
+  "sheet": "A1",
+  "title": "AIR CONDITIONING-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "RPO C60 air conditioning: contents of the C60 sheets, with an overview drawing of the whole A/C system (evaporator/heater case on the dash, ducts and outlets, compressor, condenser, receiver-dehydrator, hoses, wiring) keyed to the sheet that covers each part. Front of dash sealing is in UPC 1; the engine tune-up sticker is in UPC 0 sheet B1.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE Front of Dash Sealing-See UPC 1.",
+    "ENGINE TUNE-UP STICKER (SEE UPC O, SHEET B1 FOR PART NO. & LOCATION.)"
+  ],
+  "notes_internal": [
+    "Title block: UPC C60, sheet A1, model 19000, C/O A1, drawing 3965172, K301.",
+    "Overview drawing tags: A3, A4, A5, A6, A7, A8, B1, B2, C1/C2, C3/C4, D1, D2, D3, D4/D6, D5, E1, E2/E3, E4.",
+    "Circled 1 at the drawing = revision 1 (carryover sticker removed)."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "CARRYOVER STICKER RMVD",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "6-30-69",
+      "sym": "2",
+      "text": "SHEET B3 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-3-69",
+      "sym": "3",
+      "text": "SHEET C6 CANCELLED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-24-70",
+      "sym": "4",
+      "text": "SHEET A10 ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "AIR CONDITIONING CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED"
+        ],
+        [
+          "A3",
+          "SIDE SHROUD VACUUM CONTROL"
+        ],
+        [
+          "A4",
+          "PLENUM VALVE"
+        ],
+        [
+          "A5",
+          "SELECTOR & DISTRIBUTOR"
+        ],
+        [
+          "A6",
+          "CENTER OUTLET"
+        ],
+        [
+          "A7",
+          "SIDE OUTLET DUCTS"
+        ],
+        [
+          "A8",
+          "PLENUM PANELS"
+        ],
+        [
+          "A9",
+          "UNDER DASH BRACE RODS"
+        ],
+        [
+          "A10",
+          "FRAME & GASKET"
+        ],
+        [
+          "B1",
+          "CONDENSER, RCVR & DEHYDRATOR"
+        ],
+        [
+          "B2",
+          "TUBE SHIELD"
+        ],
+        [
+          "B3",
+          "RADIATOR OUTLET HOSES"
+        ],
+        [
+          "C1",
+          "COMP., FAN, BELTS & PULLLEYS \"350\" ENG."
+        ],
+        [
+          "C2",
+          "ENG. MTG., COMP., FAN, BELTS & PULLEYS-\"454\" ENGINE"
+        ],
+        [
+          "C3",
+          "COMPRESSOR MOUNTING-\"350\" ENG."
+        ],
+        [
+          "C4",
+          "\"454\" ENGINE"
+        ],
+        [
+          "C5",
+          "CARB SOLENOID & ADJUSTMENT"
+        ],
+        [
+          "C6",
+          "CANCELLED"
+        ],
+        [
+          "C7",
+          "-WIRING"
+        ],
+        [
+          "C8",
+          "VACUUM FITTINGS"
+        ],
+        [
+          "D1",
+          "FITTING & MUFFLER ASM"
+        ],
+        [
+          "D2",
+          "EVAP. & REFRIGERANT CONTROL VALVE"
+        ],
+        [
+          "D3",
+          "REFRIGERANT HOSES"
+        ],
+        [
+          "D4",
+          "HEATER HOSES & WATER VALVE"
+        ],
+        [
+          "D5",
+          "RADIATOR SUPPLY TANK-\"454\" ENG."
+        ],
+        [
+          "D6",
+          "HEATER HOSES-\"454\" ENG."
+        ],
+        [
+          "E1",
+          "FRONT WIRING"
+        ],
+        [
+          "E2",
+          "CONTROL ASM WRG. & VAC HOSE ASM."
+        ],
+        [
+          "E3",
+          "WIRING & VACUUM HOSE ASM."
+        ],
+        [
+          "E4",
+          "FRONT VAC HOSES & WS/WA RESVR"
+        ],
+        [
+          "E5",
+          "WIRING DIAGRAM"
+        ],
+        [
+          "E6",
+          "WIRING DIAGRAM"
+        ],
+        [
+          "E7",
+          "TEST PROCEDURE"
+        ],
+        [
+          "E8",
+          "GENERAL SPECS & PROCEDURES"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

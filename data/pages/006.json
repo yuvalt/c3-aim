@@ -1,0 +1,39 @@
+{
+  "page": 6,
+  "group": "0",
+  "sheet": "A4",
+  "title": "GENERAL INFORMATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "General rules that apply to every AIM sheet: what quantities mean, that attaching parts are shown in design position, where the torque symbol sits, air-tool speeds for prevailing-torque lock nuts and self-drilling (SD) screws, lubrication before sub-assembly, and that belt tension specs are in UPC 6 (Engine). No parts or fastening of a specific component.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Quantity: a shown quantity is the full amount per vehicle for the usage indicated; staple quantity is the number per part; lube, sealer and bulk-item amounts are shown at the point of application when measurable.",
+    "Miscellaneous shipping list: loose items shipped with the vehicle are itemized in UPC 0.",
+    "Attaching parts: shown in design position; follow it where possible. Bolt/nut assemblies and staples may go in from either direction unless specified.",
+    "The torque symbol sits next to the driven part; the mating threaded fastener must not turn while torquing.",
+    "Drive prevailing-torque lock nuts with air stall tools slower than 350 R.P.M. to avoid galling or damaging the locking feature.",
+    "Fluid-carrying pipes (gasoline, oil, brake fluid, etc.) must be free of inclusions before installation.",
+    "Dimensions shown are nominal unless otherwise specified.",
+    "Lubricate affected parts (swivels, rods, bushings, bolts, shafts) before sub-assembly, except items with lubrication fittings.",
+    "All belt tension specifications are shown in UPC 6 Engine.",
+    "Self-drilling screws (SD): drive with air stall tools at 2500-3000 R.P.M. CAUTION: operator pressure should not exceed 30 pounds."
+  ],
+  "notes_internal": [
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-24-69, C/O A4; model 19000 (all models). Revision record empty.",
+    "Sideways 'K4' mark above the title block."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

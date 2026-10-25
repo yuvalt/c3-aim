@@ -1,0 +1,48 @@
+{
+  "page": 32,
+  "group": "0",
+  "sheet": "F1",
+  "title": "WATER & VACUUM WATER TEST",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Factory water-leak test spec: the car is sprayed (and vacuum-tested with a blower and manometer through a window) before seats, door trim pads, carpet and cowl trim go in, and lists which seals and areas must be checked for convertible soft top, C07 hardtop and coupe (19437): windshield header seal, side roof rail seal to door glass, rear quarter seal, rear bow seal, lock pillar top, T-top/roof panel and rear window seals, door openings, underbody joints and body bolts. Useful for tracking down water leaks.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Spray test: assembled and sealed car must show no water leaks under a stationary spray test to the engineering water and vacuum water test specs.",
+    "Test before seat cushions, door trim pads, carpet and cowl trim panels are installed, with the cowl ventilator closed, so leaks can be seen.",
+    "Spray at least 4 minutes; full-cone nozzles with 60° included angle, Spraying Systems Co. \"Full Jet\" No. V2 GG-25 or equivalent (3.3 gal per min), 18 P.S.I. at the nozzle. Nozzle distance and angle per diagram.",
+    "Water test, folding top: header seal to W/S header; side roof rail seal to door glass; rear quarter seal to rear edge of door glass; rear bow seal to body; top of lock pillar; W/S post to door post to header seal; all exposed seams and tacking strips.",
+    "Water test, RPO C07 hard top: header seal to W/S header; side roof rail seal to door glass; rear quarter seal to rear edge of door glass; rear bow seal to body; top of lock pillar; W/S post to door post to hard top header seal.",
+    "Water test, 19437 coupe: header seal to W/S header; side roof rail seal to door; rear quarter seal to rear edge of door; rear window seals to roof panel.",
+    "Hard top and 19437 coupe: check all molding and riveted joint attachments, e.g. drip molding to roof rail seal, and the full perimeter of the back windows.",
+    "Vacuum water test (blower connected and manometer reading through a window, per diagram): windshield - full glass perimeter and all attaching areas under the instrument panel.",
+    "Vacuum test, doors: W/S side frame to door post frame, full door opening perimeter, and all holes and cover plates on the door inner panel, especially the bottom of the door (inner panel / sill plate area).",
+    "Vacuum test, rear compartment: folding top lid to body seal.",
+    "Vacuum test, underbody/dash/rocker: all joints, holes and cover plates on dash and rear compartment panel to underbody joint, dash panel to underbody joint, body bolts, and rear compartment at the wheelhouse.",
+    "Vacuum test, miscellaneous: check all attachments of moldings, emblems and other parts that protrude into the passenger or rear compartment.",
+    "NOTE Nozzles D, B, & C are not used when Vacuum Testing Soft Top.",
+    "NOTE A slight dripping of water, when required fit is obtained, between the rear glass w/strip and the door w/strip is to be considered acceptable on 19467 models."
+  ],
+  "notes_internal": [
+    "Text/spec page; no parts. Long passages paraphrased as steps.",
+    "Nozzle number prints as 'V2 GG-25' (could be a degraded '1/2'); copied as printed.",
+    "Diagram shows the car from the front with hoses 'TO MANOMETER' and 'TO BLOWER' at a window; nozzle letters D, B, C are not visible in the drawing.",
+    "Binder holes cut a few letters in the first paragraph; no numbers affected.",
+    "No revisions entered."
+  ],
+  "revisions": [],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

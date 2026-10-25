@@ -1,0 +1,310 @@
+{
+  "page": 292,
+  "group": "C07",
+  "sheet": "A3",
+  "title": "REAR MOLDING & WEATHER STRIP",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: the rear moldings on the hardtop's rear edge/rear window opening and the rear weatherstrip along the hardtop's lower rear edge (where it seals on the deck lid). Moldings snap over clips screwed to the roof at the centerline, with spacers under them; the weatherstrip ends are screwed up into the roof corners, and cap moldings at the corners take one screw each. Related sheet: A2 (front & side molding).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39???37",
+      "name": "CLIP",
+      "name_expanded": "Clip – molding",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3912833-4",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hardtop rear upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4877156",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3912835-6",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hardtop rear lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919691",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – hardtop rear lower edge (deck seal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9421?37",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3912934",
+      "name": "GLASS",
+      "name_expanded": "Glass",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "4767684",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "487??30",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3966791-?",
+      "name": "CAP",
+      "name_expanded": "Cap – molding, corner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9418?16",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51w",
+      "description": "SOLVENT",
+      "amount": null,
+      "where": "View A and View B, weatherstrip [5] contact surfaces"
+    },
+    {
+      "key": "B",
+      "code": "76a",
+      "description": "PRIMER-SEALANT",
+      "amount": "1.28 OZ.",
+      "where": "View B, at clip [1] under molding [4]"
+    },
+    {
+      "key": "C",
+      "code": "77a",
+      "description": "PRIMER-SEALNT",
+      "amount": "1.28 OZ.",
+      "where": "View B, at clip [1] under molding [4]"
+    },
+    {
+      "key": "D",
+      "code": "78b",
+      "description": "SEALER",
+      "amount": "16 OZ.",
+      "where": "View B, at molding [4] edge"
+    },
+    {
+      "key": "E",
+      "code": "70a",
+      "description": "SEAL",
+      "amount": "(108 in. per unit)",
+      "where": "View B, bead at molding [4] edge"
+    },
+    {
+      "key": "F",
+      "code": "71b",
+      "description": "CEMENT",
+      "amount": ".21 OZ.",
+      "where": "View B, at spacer [9] under [7]"
+    },
+    {
+      "key": "G",
+      "code": "11f",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "View A, weatherstrip end piece at the screw [6]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hardtop roof panel at the centerline",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Top view and View B: screw [8] holds clip [1]; molding [2] (upper) and molding [4] (lower) snap over the clip at the centerline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "how": "holds",
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "clip [1] at roof centerline",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Moldings [2] and [4] snap/clip onto clip [1] (no screws through the moldings themselves).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "hardtop roof, rear lower corners",
+      "qty": "2 per side",
+      "torque_ref": "1",
+      "note": "View A: two screws [6] go up from below, one through the weatherstrip end piece (lubricated with 11f) and one through the lower end block of weatherstrip [5], into the roof corner.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "hardtop roof",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View C: screw [11] goes up through the corner cap [10] into the roof.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "hardtop roof rear edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: spacer [3] sits under molding [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "71b",
+      "holds": [
+        "9",
+        "7"
+      ],
+      "to": "hardtop roof rear edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: spacer [9] cemented with 71b under piece [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "5"
+      ],
+      "to": "hardtop lower rear edge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Weatherstrip [5] seats along the roof's lower rear flange (dashed lines at intervals) after 51w solvent cleaning; retention method other than end screws not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch through digits 3-5; visible '39' + '37' (OCR 3910637 unreliable).",
+    "Item 6: 5th digit broken ('9421?37'; OCR 9421137). Item 9: 4th-5th digits faint ('487??30'; OCR 4871830). Item 10: pair suffix faint ('3966791-?'). Item 11: 5th digit broken ('9418?16'; OCR 9418016).",
+    "Item 7 'GLASS' points to a short bar-like piece next to molding [4] in the top view and View B; not a window. Name copied as printed.",
+    "Revision record is empty. Title block: DR DP/C1, CK 5-6-69 C1, PREL 5-2-69, C/O A3; 82115/84736/87115. Sideways 'K290'.",
+    "Torque legend triangles 3-5 blank."
+  ],
+  "revisions": [],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

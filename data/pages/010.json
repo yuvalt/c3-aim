@@ -1,0 +1,41 @@
+{
+  "page": 10,
+  "group": "0",
+  "sheet": "A8",
+  "title": "BONDING INSTRUCTIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "General fiberglass body panel bonding rules for the whole car: typical bonded-joint cross sections (Bond A through N, no I) showing where the bonding adhesive bead goes between overlapping, flanged and butt panels. Uses polyester adhesive 56a; squeezed-out bond must be cleaned off where it could reduce chassis clearances, and in visible areas the cured bead is ground flush and sanded. No specific parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "56a",
+      "description": "ADHESIVE POLYESTER",
+      "amount": "7.25 GALS. PER VEHICLE",
+      "where": "all typical bond sections A-N (bond bead shown solid black)"
+    }
+  ],
+  "fastening": [],
+  "notes": [
+    "Bonding adhesive: 56a ADHESIVE POLYESTER 7.25 GALS. PER VEHICLE, as required in the typical sections shown (note A).",
+    "Note B: clean off squeezed-out bond wherever it could reduce or eliminate clearance to chassis components (underbody, door sill, closing panels, etc.).",
+    "Note C (appearance areas, flagged on Bonds C, E, G, H, N): after the bond cures, grind the excess cement bead flush with the surface and sand smooth."
+  ],
+  "notes_internal": [
+    "Drawing-only sheet: 13 typical bond sections labelled A, B, C, D, E, F, G, H, J, K, L, M, N (no I); no callouts or part numbers, so no parts/fastening.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-21-69 (handwritten, partly faint), C/O A8; model 19000. Revision record empty. Sideways 'K8' mark above title block.",
+    "Hole punches touch Bond A and Bond C/D sketches; no text lost."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

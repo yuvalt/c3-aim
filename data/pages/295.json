@@ -1,0 +1,171 @@
+{
+  "page": 295,
+  "group": "C07",
+  "sheet": "A6",
+  "title": "TOP AUXILIARY-REAR CENTER TOP ATTACHMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "C07 auxiliary removable hardtop, rear center hold-down: a bracket riveted to the underside of the hardtop's rear edge at the centerline, with a bolt that passes down through a rubber bumper, the bracket and a ferrule (grommet) into a 1/2 in. hole in the folding-top compartment lid, secured below by a flat washer, washer and nut. Related sheet: A5 (attachments).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "136244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3830940",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – rubber",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962670",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – hardtop rear center attachment",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3830938",
+      "name": "FERRULE",
+      "name_expanded": "Ferrule (grommet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419892",
+      "name": "FLAT WASHER",
+      "name_expanded": "Flat washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103319",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "193227",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3828264",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "45-65",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hardtop roof asm., rear edge at centerline",
+      "qty": "4",
+      "torque_ref": null,
+      "note": "View A: rivets [1] through bracket [3] into the roof flange. View B: drill .129/.133 dia (4) holes using [3] as template; holes 1.50 apart, .75 from the flange edge, either side of the centerline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "4"
+      ],
+      "to": "folding top compartment lid",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: bolt [8] goes down through bumper [2], bracket [3] and ferrule [4], then through a 1/2 +/- 1/64 dia hole in the compartment lid on the centerline; flat washer [5], washer [6] and nut [7] go on from below.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".129/.133 DIA (4) HOLES USE [3] AS TEMPLATE.",
+    "1/2 ± 1/64 DIA. HOLE",
+    "View B dimensions: .75 (hole to flange), 1.50 (between holes)"
+  ],
+  "notes_internal": [
+    "Title block model box reads 19000 although the C07 hardtop is a convertible option.",
+    "Exact position of bumper [2] on bolt [8] is drawn small (between bolt head and bracket).",
+    "Title block: DR ?/C1 (first initials faint), CK 5-6-69 C1, PREL 5-2-69, C/O A6, 82115. Sideways 'K293'. Triangles 2-5 blank.",
+    "Circled 1 beside VIEW B = revision 1."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "VIEW B ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

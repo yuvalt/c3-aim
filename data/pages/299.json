@@ -1,0 +1,217 @@
+{
+  "page": 299,
+  "group": "C50",
+  "sheet": "A1",
+  "title": "REAR WINDOW DEFOG EQUIPMENT-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO C50 rear window defogger (blower type): contents of the C50 sheets plus the dash switch and wiring. The defogger switch mounts behind the instrument-panel trim panel with two screws and a knob with its own set screw; its wire harness runs along the tunnel and up the side to the blower motor in the rear, with the black ground wire held by a production clip & screw and lock washer, and a purple lead to the radio fuse location at the fuse panel. A capacitor on the motor comes with RPO U69 (radio).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3899716",
+      "name": "KNOB ASM.",
+      "name_expanded": "Knob assembly – defogger switch knob",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9419328",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3942696",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – rear defogger switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "6295268",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly – defogger harness, switch to blower motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3748083",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3937157",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – radio noise suppression capacitor on blower motor (with RPO U69)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "instrument panel trim panel",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "View A: two screws [2] go in from the front of the trim panel through two 1/4 dia. holes into the switch [3] bracket behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "switch [3] shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: knob [1] slides onto the switch shaft through a 7/16 dia. hole in the trim panel and is locked by a set screw built into the knob (no separate callout); the knob set screw is torque 2.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body (rear, near blower motor)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Black ground lead of wire [4] fastens to the body with a production clip & screw and lock washer [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "blower motor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [6] holds the wire [4] at the blower motor (motor ground wire area; motor itself on sheets A2-A3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "blower motor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Capacitor [7] sits on the blower motor (U69 only); its fastening is not shown here.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "REF SHT A2-A3",
+    "MOTOR GROUND WIRE",
+    "PROD CLIP & SCREW",
+    "TO RADIO FUSE LOCATION",
+    "Wire colors shown: BLACK, BROWN, PURPLE.",
+    "View A: 3.24 ±.06, 3.64, 1.36, .60; KNOB 7/16 DIA; 1/4 DIA (2 HOLES)."
+  ],
+  "notes_internal": [
+    "Title block: UPC C50, sheet A1, model 19400, C/O A1, drawing 3965172, K297. Revision record empty.",
+    "Knob torque: the 'triangle 2 + solid square KNOB' callout reads as the knob set screw at torque 2; the set screw is part of the knob [1].",
+    "Contents list says A2 = MOTOR & DUCT ASM (19467), A3 = UPPER DUCT & CABLE (19467), but the title blocks of A2/A3 are swapped (p300 A2 = upper duct & cable, p301 A3 = motor & duct).",
+    "Wire [4] routing: along the tunnel, past the instrument cluster, up the side to the rear; not traced further."
+  ],
+  "revisions": [],
+  "options": [
+    "C50",
+    "U69"
+  ],
+  "tables": [
+    {
+      "title": "REAR WINDOW DEFOG EQUIPMENT CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "MOTOR & DUCT ASM (19467)"
+        ],
+        [
+          "A3",
+          "UPPER DUCT & CABLE (19467)"
+        ],
+        [
+          "A4",
+          "MOTOR, HOSE & DUCT ASM (19437)"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "page": 31,
+  "group": "0",
+  "sheet": "E1",
+  "title": "PAINT & TRIM- EXTERIOR ORNAMENTATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Overview of where the exterior trim and badges go on a 1970 Corvette: front (crossed-flags nose) and rear emblems, Stingray name plate on the front fender, fender louver trim (side vent grilles), rocker molding and upper molding along the rocker panel, rear CORVETTE name plate, back-up lamp bezels, and option items: LT1 hood decal and paint stripe, LS5 hood molding and '454' numbers, LS7 hood decal, C07 auxiliary hardtop, and UA6 alarm switch at the rear. No part numbers or fasteners on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "All items shown are regular production unless otherwise noted."
+  ],
+  "notes_internal": [
+    "Locator diagram only: labels without part numbers or callouts; listed in tables.",
+    "No revisions entered in the revision block.",
+    "Top-right 'Emblem' label partly wiped by a binder hole."
+  ],
+  "revisions": [],
+  "options": [
+    "LT1",
+    "LS5",
+    "LS7",
+    "C07",
+    "UA6"
+  ],
+  "tables": [
+    {
+      "title": "EXTERIOR ORNAMENTATION LOCATIONS",
+      "columns": [
+        "VIEW",
+        "LABEL",
+        "WHERE"
+      ],
+      "rows": [
+        [
+          "RPO LT1 & LS5 HOOD",
+          "RPO LT1 Decal",
+          "hood bulge, rear end at the cowl"
+        ],
+        [
+          "RPO LT1 & LS5 HOOD",
+          "RPO LS5 Molding",
+          "around the hood bulge"
+        ],
+        [
+          "RPO LT1 & LS5 HOOD",
+          "RPO LS5 Numbers",
+          "\"454\" at the rear of the hood bulge"
+        ],
+        [
+          "RPO LT1 & LS5 HOOD",
+          "RPO LT1 Paint Stripe",
+          "around the hood bulge"
+        ],
+        [
+          "RPO LS7 HOOD",
+          "RPO LS7 DECAL",
+          "\"LS7\" at the rear corner of the hood bulge"
+        ],
+        [
+          "Top view",
+          "Emblem",
+          "nose, front center (crossed flags)"
+        ],
+        [
+          "Top view",
+          "Emblem",
+          "rear deck, center"
+        ],
+        [
+          "Side view",
+          "Louver Trim",
+          "front fender side vent"
+        ],
+        [
+          "Side view",
+          "Name Plate",
+          "front fender, \"Stingray\" script above the louver trim"
+        ],
+        [
+          "Side view",
+          "Rocker Molding",
+          "rocker panel"
+        ],
+        [
+          "Side view",
+          "Molding-Upper",
+          "rocker panel, upper edge"
+        ],
+        [
+          "Side view",
+          "RPO C07 Auxiliary Top",
+          "hardtop"
+        ],
+        [
+          "Rear view",
+          "Name Plate",
+          "rear panel between taillamps, \"CORVETTE\""
+        ],
+        [
+          "Rear view",
+          "Bezel",
+          "back-up lamps in the rear bumper (LH and RH)"
+        ],
+        [
+          "Rear view",
+          "RPO UA6 ALARM",
+          "rear panel above the license plate"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

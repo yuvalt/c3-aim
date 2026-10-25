@@ -1,0 +1,37 @@
+{
+  "page": 11,
+  "group": "0",
+  "sheet": "A9",
+  "title": "STAPLING INSTRUCTIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "General stapling (stitching) rules for attaching rubber to metal anywhere on the car: how much staple wire to feed per stitch based on crown size and work thickness, with sketches of 37 1/2 degree, 45 degree and flat clinches. No specific parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "WIRE DRAW = 2C + 2T (Figure 1, crown sizes .175 through .50: clinched legs should just about meet).",
+    "WIRE DRAW = C + 2T + 3/8\" (Figure 2, crown sizes over .50: each clinched leg 3/16\" long).",
+    "C = CROWN SIZE, T = THICKNESS OF WORK.",
+    "Examples given: 7/16\" crown, 3/16\" work -> 1-1/4\" wire draw; 1-1/8\" crown, 1/2\" work -> 2-1/2\" wire draw.",
+    "Formulas don't account for material type; some materials may need different leg lengths, but use Fig. 1 for crowns .175-.50 and Fig. 2 above .50 as a general rule.",
+    "NOTE: Staples must not be countersunk in the rubber more than twice the diameter of the staple wire, to avoid tearing the rubber.",
+    "37 1/2° CLINCH SHOWN - 45° & FLAT CLINCH TYPICAL"
+  ],
+  "notes_internal": [
+    "Text-and-sketch sheet, no callouts or parts. Long paragraphs condensed into the formula/example notes.",
+    "Header 'STAPLING' partly covered by a hole punch.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL handwritten date partly illegible ('?-2?-69'), C/O A9; model 19000. Revision record empty. Sideways 'K9' mark at lower left."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

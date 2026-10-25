@@ -1,0 +1,108 @@
+{
+  "page": 308,
+  "group": "C60",
+  "sheet": "A6",
+  "title": "AIR CONDITIONING-CENTER OUTLET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60): the center A/C outlet (center dash vent) above the instrument cluster. The center duct outlet assembly sits under the instrument panel top, and the louvered bezel assembly fastens to it and to the cluster; one screw at the lower left of the bezel is called out, and the other bezel screws install the same as production.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3963792",
+      "name": "OUTLET ASM.-CENTER DUCT",
+      "name_expanded": "Outlet assembly – A/C center duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3946943",
+      "name": "BEZEL ASM.",
+      "name_expanded": "Bezel assembly – A/C center outlet (louvered vent)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419328",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "23-33",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument cluster / center outlet [1]",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [3] goes in through the lower left of the bezel [2], from the front.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two more screws at the bezel's right end (no callout): INSTALL SAME AS PROD.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument panel / cluster",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Outlet [1] tabs line up (dashed lines) with the bezel [2] ends and the cluster tab; no separate fastener is called out for it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "INSTALL SAME AS PROD."
+  ],
+  "notes_internal": [
+    "How the outlet [1] is retained is not explicit: dashed lines run from its end tabs to the bezel and cluster; possibly held by the bezel screws.",
+    "Revision record empty. Sideways 'K306' above title block. Title block: drawing 3965172, L-84237, L-88249, DR WO/CI, CK 5-8-69 CI, C/O A6."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

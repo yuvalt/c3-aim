@@ -1,4 +1,10 @@
 page,sheet,item,pn,issue,hint
+16,0/B1,3,,bad format,
+16,0/B1,3,,OCR disagrees,
+16,0/B1,3,,not in registry,
+16,0/B1,5,3980217,OCR disagrees,registry agrees
+16,0/B1,,-,"registry has it, we don't",STICKER-TIRE PRESSURE
+18,0/B3,1,3865853,OCR disagrees,registry agrees
 21,0/D1,,9985164,"registry has it, we don't",LUBRICANT-GREASE
 27,0/D7,,9985052,"registry has it, we don't",OPT
 29,0/D9,,9985198,"registry has it, we don't",SEALER-PLASTISOL
@@ -8,8 +14,8 @@ page,sheet,item,pn,issue,hint
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
-39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
 39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
+39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
 39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
@@ -82,15 +88,15 @@ page,sheet,item,pn,issue,hint
 172,4/A4,5,3983392-3-4-5,bad format,
 172,4/A4,5,3983392-3-4-5,OCR disagrees,registry agrees
 172,4/A4,14,446212,OCR disagrees,registry agrees
+172,4/A4,,3983393,"registry has it, we don't",SHIM
 172,4/A4,,3983395,"registry has it, we don't",SHIM
 172,4/A4,,3983394,"registry has it, we don't",SHIM
-172,4/A4,,3983393,"registry has it, we don't",SHIM
 174,4/A6,10,3774712,OCR disagrees,registry agrees
 177,5/A2,4,3948131,OCR disagrees,registry agrees
 178,5/A3,2,3921086,not in registry,
 178,5/A3,13,54?0551,unreadable digits,no registry match
-178,5/A3,,3921686,"registry has it, we don't",SPRING
 178,5/A3,,54.0551,"registry has it, we don't",BOOT
+178,5/A3,,3921686,"registry has it, we don't",SPRING
 185,6/A2,7,9419061,OCR disagrees,registry agrees
 189,6/B1,1,???????,unreadable digits,no registry match
 190,6/B2,1,?168878,unreadable digits,no registry match
@@ -163,5 +169,33 @@ page,sheet,item,pn,issue,hint
 278,11/13/B5,1,3847?57,unreadable digits,no registry match
 281,14/A2,4,9419276,OCR disagrees,
 284,14/C1,7,387296?,unreadable digits,no registry match
+287,A31/A2,1,?,unreadable digits,no registry match
+288,CD2/A1,4,,bad format,
+288,CD2/A1,4,,OCR disagrees,
+289,CD2/A2,4,9425542,OCR disagrees,
+290,C07/A1,4,272123,OCR disagrees,
+291,C07/A2,2,,bad format,
+291,C07/A2,2,,OCR disagrees,
+291,C07/A2,4,,bad format,
+291,C07/A2,4,,OCR disagrees,
+291,C07/A2,12,?428712,unreadable digits,no registry match
+292,C07/A3,1,39???37,unreadable digits,no registry match
+292,C07/A3,6,9421?37,unreadable digits,no registry match
+292,C07/A3,9,487??30,unreadable digits,no registry match
+292,C07/A3,10,3966791-?,unreadable digits,no registry match
+292,C07/A3,11,9418?16,unreadable digits,no registry match
+293,C07/A4,2,,bad format,
+293,C07/A4,2,,OCR disagrees,
+295,C07/A6,6,103319,OCR disagrees,
+300,C50/A2,1,???????,unreadable digits,no registry match
+301,C50/A3,1,??76130,unreadable digits,no registry match
+305,C60/A3,1,38??00,unreadable digits,no registry match
+306,C60/A4,1,?942619,unreadable digits,no registry match
+309,C60/A7,1,394998?,unreadable digits,no registry match
+309,C60/A7,12,?906004,unreadable digits,no registry match
+310,C60/A8,1,396??42,unreadable digits,no registry match
+311,C60/A9,11,,bad format,
+311,C60/A9,11,,OCR disagrees,
+313,C60/B1,1,37???58,unreadable digits,no registry match
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match

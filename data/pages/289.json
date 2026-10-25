@@ -1,0 +1,224 @@
+{
+  "page": 289,
+  "group": "CD2",
+  "sheet": "A2",
+  "title": "WINDSHIELD WASHER RESERVOIR FLUID LEVEL MONITOR WITH RPO C60",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO CD2 washer fluid level monitor on cars with C60 air conditioning: the float sending unit drops through the washer reservoir cap (cap is part of the reservoir) and is held by a retainer under the cap; a bulb plugs into the sending unit and the wire assembly carries the circuit along the cowl, through the existing clip and tach cable grommet area, to the wiper motor connector (purple wire). The white ground lead is screwed with a washer to the distributor & coil shield support bracket. Excess wire is coiled and taped.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "8901511",
+      "name": "CONDUCTOR ASM.",
+      "name_expanded": "Conductor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "8901510",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly (pigtail harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8900646",
+      "name": "SENDING UNIT ASM.",
+      "name_expanded": "Washer fluid level sending unit assembly (float)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9425542",
+      "name": "BULB",
+      "name_expanded": "Bulb",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420890",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "138479",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3973676",
+      "name": "RESERVOIR",
+      "name_expanded": "Windshield washer reservoir (jar) incl. cap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3724851",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3973677",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (sending unit at cap)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "washer reservoir cap (part of [7])",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: sending unit [3] tube goes down through the cap; retainer [9] fits on it under the cap.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "distributor & coil shield support bracket (.128/.132 dia hole)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [5] with washer [6] through the eyelet of the WHITE lead into the hole in the support bracket, located 1.12 and .56 as dimensioned.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "washer reservoir area / harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note A: 8 in. tape [8] required, 4 in. at (2) places; excess wire and conductor coiled and taped (View A and main view).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "wiper motor connector",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wire assembly [2] PURPLE lead plugs into the wiper motor connector; harness runs through the EXISTING CLIP alongside the washer hose, past the tach cable grommet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "sending unit [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulb [4] plugs into the socket on the sending unit; wire asm [2] socket plugs onto it (View A).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 8 in. req'd 4 in. (2) places. Coil excess wire & conductor & tape.",
+    ".128/.132 DIA. HOLE IN SUPT BRKT.",
+    "CAP (PART OF [7]).",
+    "B: see sht A1.",
+    "Dimensions: 1.12, .56 at support bracket."
+  ],
+  "notes_internal": [
+    "Reservoir [7]: mounts on the EXISTING BRACKET; its fasteners are not shown/called out here.",
+    "The option is canceled per sheet A1 revision 8 (1-26-70), but this sheet has no CANCELED stamp, so status left active.",
+    "Revision 1 date middle digit unclear: '6-1?-69'.",
+    "Model box very faint; reads like 19000, models = [] (all).",
+    "Circled 2 near the distributor shield = revision 2 (shield dwg revised). Circled 20 and 0 near the bracket: meaning unknown (same marks on sheet A1).",
+    "Title block: drawing 3965172; preliminary/release dates faint."
+  ],
+  "revisions": [
+    {
+      "date": "6-1?-69",
+      "sym": "1",
+      "text": "TORQUE 1 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-9-70",
+      "sym": "2",
+      "text": "SHIELD DWG REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "CD2",
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

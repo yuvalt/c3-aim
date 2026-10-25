@@ -1,0 +1,576 @@
+{
+  "page": 15,
+  "group": "0",
+  "sheet": "A13",
+  "title": "TRIM HEIGHTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Factory ride (trim) height specs for 1970 coupe and convertible, standard and F41 suspension, with and without C60 air conditioning, as shipped and at curb weight. Gives front (Z, D at the control arms), sill-to-ground (J, K), wheel-centre (E, F) and fender-opening (P, R) heights in inches, so a restorer can check if the car sits at factory height.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: Pull vehicle up 3 or more times & allow to settle, then measure dimensions. Measure \"J\" & \"K\" from under side of sill molding (appearance line) to ground.",
+    "Z ± .25: centerline of lower control arm shaft front end to lowest point of steering knuckle, each dim. vertical to ground (front).",
+    "D ± .25: rear, between centerlines at strut, dim. vertical to ground.",
+    "J ± .50 OVERALL, ± .25 SIDE TO SIDE. J measured 30.50 behind front axle centerline; K measured 24.00 ahead of rear axle centerline.",
+    "E and F: wheel centre ('0' line) heights front and rear; P and R: front and rear fender heights at axle centerline (as drawn).",
+    "LOAD CONDITIONS: AS SHIPPED - oil, water, 2 gals. of fuel & recommended tire pressure. CURB WEIGHT - oil, water, full tank of fuel & recommended tire pressure (24 LBS front & rear).",
+    "W-WITH, WO-WITHOUT, AVG-AVERAGE."
+  ],
+  "notes_internal": [
+    "F41 column W/C60 is printed N/A in row Z with a vertical line down through all rows; filled down as N/A.",
+    "Conditions: '354-390 LS5' printed as such (likely 454-390), copied exactly. 'M40A-ALL W/LJ1-LS5' printed LJ1, copied exactly.",
+    "E/F/P/R meaning described from the side-view sketch; P and R arrows run from ground to the fender lip line at the axle.",
+    "Revision record has only sym 2 (no sym 1 row). Rev AUTH 25949, DR FJM.",
+    "Title block drawing number 3965172; DR DP/C1, CK ?-18-69 C1 (first digit faint), PREL 3-20-69, C/O A13; model 19000. Sideways 'K13' mark at lower left."
+  ],
+  "revisions": [
+    {
+      "date": "2-2-70",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60",
+    "F41",
+    "L46",
+    "LT1",
+    "LS5",
+    "LS7",
+    "LJ2",
+    "LT2",
+    "ZL1",
+    "M20",
+    "M21",
+    "M22",
+    "M40"
+  ],
+  "tables": [
+    {
+      "title": "TRIM HEIGHTS",
+      "columns": [
+        "DIM",
+        "SUSP",
+        "LOAD",
+        "W/C60",
+        "AVG",
+        "WO/C60"
+      ],
+      "rows": [
+        [
+          "Z",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "2.19",
+          "2.42",
+          "2.53"
+        ],
+        [
+          "D",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "2.43",
+          "2.54",
+          "2.62"
+        ],
+        [
+          "J",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "7.81",
+          "8.05",
+          "8.17"
+        ],
+        [
+          "K",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "8.11",
+          "8.27",
+          "8.37"
+        ],
+        [
+          "E",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "7.68",
+          "7.96",
+          "8.09"
+        ],
+        [
+          "F",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "8.25",
+          "8.38",
+          "8.46"
+        ],
+        [
+          "P",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "27.51",
+          "27.79",
+          "27.92"
+        ],
+        [
+          "R",
+          "COUPE-STD SUSP",
+          "SHIPPED",
+          "28.28",
+          "28.41",
+          "28.49"
+        ],
+        [
+          "Z",
+          "COUPE-STD SUSP",
+          "CURB",
+          "2.29",
+          "2.53",
+          "2.65"
+        ],
+        [
+          "D",
+          "COUPE-STD SUSP",
+          "CURB",
+          "1.99",
+          "2.10",
+          "2.18"
+        ],
+        [
+          "J",
+          "COUPE-STD SUSP",
+          "CURB",
+          "7.79",
+          "8.04",
+          "8.16"
+        ],
+        [
+          "K",
+          "COUPE-STD SUSP",
+          "CURB",
+          "7.77",
+          "7.93",
+          "8.03"
+        ],
+        [
+          "E",
+          "COUPE-STD SUSP",
+          "CURB",
+          "7.80",
+          "8.08",
+          "8.21"
+        ],
+        [
+          "F",
+          "COUPE-STD SUSP",
+          "CURB",
+          "7.75",
+          "7.88",
+          "7.97"
+        ],
+        [
+          "P",
+          "COUPE-STD SUSP",
+          "CURB",
+          "27.63",
+          "27.91",
+          "28.04"
+        ],
+        [
+          "R",
+          "COUPE-STD SUSP",
+          "CURB",
+          "27.78",
+          "27.91",
+          "28.00"
+        ],
+        [
+          "Z",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "2.21",
+          "2.48",
+          "2.65"
+        ],
+        [
+          "D",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "2.30",
+          "2.41",
+          "2.49"
+        ],
+        [
+          "J",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "7.84",
+          "8.07",
+          "8.26"
+        ],
+        [
+          "K",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "8.03",
+          "8.18",
+          "8.30"
+        ],
+        [
+          "E",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "7.76",
+          "8.03",
+          "8.24"
+        ],
+        [
+          "F",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "8.10",
+          "8.22",
+          "8.31"
+        ],
+        [
+          "P",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "27.59",
+          "27.86",
+          "28.07"
+        ],
+        [
+          "R",
+          "CONV-STD SUSP",
+          "SHIPPED",
+          "28.13",
+          "28.25",
+          "28.34"
+        ],
+        [
+          "Z",
+          "CONV-STD SUSP",
+          "CURB",
+          "2.33",
+          "2.59",
+          "2.77"
+        ],
+        [
+          "D",
+          "CONV-STD SUSP",
+          "CURB",
+          "1.85",
+          "1.96",
+          "2.04"
+        ],
+        [
+          "J",
+          "CONV-STD SUSP",
+          "CURB",
+          "7.82",
+          "8.06",
+          "8.25"
+        ],
+        [
+          "K",
+          "CONV-STD SUSP",
+          "CURB",
+          "7.68",
+          "7.83",
+          "7.95"
+        ],
+        [
+          "E",
+          "CONV-STD SUSP",
+          "CURB",
+          "7.88",
+          "8.15",
+          "8.37"
+        ],
+        [
+          "F",
+          "CONV-STD SUSP",
+          "CURB",
+          "7.60",
+          "7.73",
+          "7.82"
+        ],
+        [
+          "P",
+          "CONV-STD SUSP",
+          "CURB",
+          "27.71",
+          "27.98",
+          "28.20"
+        ],
+        [
+          "R",
+          "CONV-STD SUSP",
+          "CURB",
+          "27.63",
+          "27.76",
+          "27.85"
+        ],
+        [
+          "Z",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "1.57",
+          "1.89"
+        ],
+        [
+          "D",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "2.04",
+          "2.13"
+        ],
+        [
+          "J",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "7.29",
+          "7.57"
+        ],
+        [
+          "K",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "7.68",
+          "7.82"
+        ],
+        [
+          "E",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "7.12",
+          "7.48"
+        ],
+        [
+          "F",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "7.86",
+          "7.96"
+        ],
+        [
+          "P",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "26.95",
+          "27.31"
+        ],
+        [
+          "R",
+          "CPE & CONV-F41 SUSP",
+          "SHIPPED",
+          "N/A",
+          "27.89",
+          "27.99"
+        ],
+        [
+          "Z",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "1.63",
+          "1.95"
+        ],
+        [
+          "D",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "1.78",
+          "1.86"
+        ],
+        [
+          "J",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "7.27",
+          "7.55"
+        ],
+        [
+          "K",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "7.46",
+          "7.60"
+        ],
+        [
+          "E",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "7.19",
+          "7.55"
+        ],
+        [
+          "F",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "7.55",
+          "7.65"
+        ],
+        [
+          "P",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "27.02",
+          "27.38"
+        ],
+        [
+          "R",
+          "CPE & CONV-F41 SUSP",
+          "CURB",
+          "N/A",
+          "27.58",
+          "27.68"
+        ]
+      ]
+    },
+    {
+      "title": "CONDITIONS CONSIDERED",
+      "columns": [
+        "SUSP",
+        "ENGINE",
+        "TRANSMISSION / C60"
+      ],
+      "rows": [
+        [
+          "STD",
+          "350-300 BASE",
+          "3-SPEED BASE"
+        ],
+        [
+          "STD",
+          "350-350 L46",
+          "4-SPEED M20"
+        ],
+        [
+          "STD",
+          "350-370 LT1",
+          "4-SPEED M21"
+        ],
+        [
+          "STD",
+          "354-390 LS5",
+          "HYDRA M40A"
+        ],
+        [
+          "STD",
+          "454-460 LJ2",
+          "HYDRA M40C"
+        ],
+        [
+          "STD",
+          "",
+          "HYDRA M40 D"
+        ],
+        [
+          "STD",
+          "",
+          "3-SPEED W/C60 A"
+        ],
+        [
+          "STD",
+          "",
+          "M20 W/C60 A"
+        ],
+        [
+          "STD",
+          "",
+          "M20 W/C60 C"
+        ],
+        [
+          "STD",
+          "",
+          "M40A W/C60 B"
+        ],
+        [
+          "F41",
+          "350-370 LT1",
+          "4-SPEED M21"
+        ],
+        [
+          "F41",
+          "454-460 LJ2",
+          "4-SPEED M22"
+        ],
+        [
+          "F41",
+          "454-465 LS7",
+          "HYDRA M40D"
+        ],
+        [
+          "F41",
+          "454-465 LT2",
+          "HYDRA M40E"
+        ]
+      ]
+    },
+    {
+      "title": "C60 / M40 VARIANT CODES",
+      "columns": [
+        "CODE",
+        "MEANING"
+      ],
+      "rows": [
+        [
+          "C60A",
+          "CPE W/LS5"
+        ],
+        [
+          "C60B",
+          "CONV W/LS5"
+        ],
+        [
+          "C60C",
+          "CPE W/L46"
+        ],
+        [
+          "M40A",
+          "ALL W/LJ1-LS5"
+        ],
+        [
+          "M40C",
+          "ALL W/LJ2-ZL1"
+        ],
+        [
+          "M40D",
+          "ALL W/LS5"
+        ],
+        [
+          "M40E",
+          "ALL W/LS7"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

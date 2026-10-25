@@ -1,0 +1,130 @@
+{
+  "page": 20,
+  "group": "0",
+  "sheet": "C2",
+  "title": "SHIPPING PROTECTION & SHIPPING TIE-DOWN SLOTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Temporary shipping protection put on new cars at the plant: a cover at the door opening sill held by a band, paper/plastic floor mat covers on both floor mats, and a door edge protector on the rear edge of the door, plus rust-proofing oil (15a). Also shows the frame shipping tie-down slots: two at the front under the nose and one each side in the frame rail 17.25 in. from the car's centerline (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3965116",
+      "name": "COVER",
+      "name_expanded": "Cover – shipping protection (door opening sill area)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "4461444",
+      "name": "BAND ASM.",
+      "name_expanded": "Band assembly – shipping",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3829391",
+      "name": "COVER-FLOOR MAT",
+      "name_expanded": "Cover – floor mat (shipping)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9785740",
+      "name": "PROTECTOR-DOOR EDGE",
+      "name_expanded": "Protector – door edge (shipping)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "15a",
+      "description": "OIL-RUST PROOFING",
+      "amount": ".01 Gal.",
+      "where": "Tag 15a on the main view, leader to the hood / front of the car"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door opening sill / lower lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Band [2] is shown at the end of cover [1] along the door opening sill; drawing is small and the exact attachment is not clear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "floor mats, LH and RH",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Floor mat covers [3] are laid over the floor mats on both sides; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "rear edge of door",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Door edge protector [4] slips over the rear (lock) edge of the door; no fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "SHIPPING TIE-DOWN SLOTS",
+    "View A: SHIPPING TIE-DOWN SLOT, 17.25 from CL OF VEHICLE"
+  ],
+  "notes_internal": [
+    "Item 2: binder hole covers the middle digits; spacing fits about three digits between '44' and '44' (count not certain). OCR read only '144'.",
+    "Cover [1] location read from the leader line only; it ends near the door sill / lower lock pillar. Exact placement and how band [2] holds it are unclear.",
+    "15a leader target is approximate (hood / front area).",
+    "Revision date first digit partly cut; reads 7-7-69."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "ITEM 4 ADDED",
+      "was": null,
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

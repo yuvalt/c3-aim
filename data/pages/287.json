@@ -1,0 +1,239 @@
+{
+  "page": 287,
+  "group": "A31",
+  "sheet": "A2",
+  "title": "WINDOW ELECTRIC CONTROL-CONSOLE SWITCHES & WIRING HARNESS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO A31 power windows: the two window switches in the rear console (between the seats), the power-window harness and relay. The switches sit under the rear console held by a retainer (screw and nut, retainer on console studs with production nuts); the harness is taped to the console and to the instrument panel harness and clipped across to each door. The power-window relay mounts under the dash 4.10 in. from the car centerline with a screw and washer that also hold the ground wire.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "?",
+      "name": "?",
+      "name_expanded": "Not printed on the list (blank line); notes A and B say this callout is tape for the harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3977712",
+      "name": "CONSOLE ASM.-RR.",
+      "name_expanded": "Console assembly – rear (window switch console)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "4434584",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Power window switch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "8901491",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Power window wiring harness assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9415464",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "4540898",
+      "name": "RELAY ASM.",
+      "name_expanded": "Power window relay assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "145486",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9420146",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "138479",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "9"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "under the instrument panel, 4.10 in. from car centerline",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [5] goes through washer [9] and the harness ground eyelet into the relay [6] mounting; the same screw grounds the harness.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "retainer under the rear console [2]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [8] passes down through the retainer and switch [3]; nut [7] tightens from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "console studs",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the switch retainer goes over studs on the console [2] and is held with production nuts (PROD NUT, no callout); the studs are part of the console.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "instrument panel wiring harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note A: 6 in. of tape [1] wraps the harness [4] to the instrument panel harness.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear console [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note B: 4 in. of tape [1] each side holds the harness [4] to the console.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "body under the dash",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Unnumbered CLIPS hold the harness branches running to the LH and RH doors.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 6 inches used to tape harness asm. to instr. panel wiring harness.",
+    "[B] 4 inches each side used to tape harness asm. to console asm.",
+    "Relay [6] located 4.10 from centerline."
+  ],
+  "notes_internal": [
+    "Item 1 line has only the callout number; pn and name are blank on the page (no hole punch). Callouts 1A and 1B in the drawing point to tape on the harness.",
+    "View A: hard to tell whether nut [7] is on screw [8] or on a console stud; read as screw [8] + nut [7] through retainer and switch.",
+    "Rear console [2] itself: how the console mounts to the body is not shown here.",
+    "Torque legend shows triangles 1-5; only 1 and 2 have values.",
+    "Title block: drawing 3965172, C/O A2.",
+    "Filled circle '1' beside console callout [2] (twice): no matching revision 1 in the record (only 7, 8); meaning unknown."
+  ],
+  "revisions": [
+    {
+      "date": "12-23-69",
+      "sym": "7",
+      "text": "ITEMS 7 & 8 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "A31"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

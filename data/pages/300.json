@@ -1,0 +1,243 @@
+{
+  "page": 300,
+  "group": "C50",
+  "sheet": "A2",
+  "title": "REAR WINDOW DEFOG EQUIPMENT-UPPER DUCT & CABLE ASM.",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) rear window defogger (RPO C50): the upper duct that carries air from the blower up to an outlet grille behind the seat, plus the damper control cable. The grille and gasket screw onto the top of the duct; the duct's lower end is held by screws and a nut; the cable housing is held by a guide clamp screwed to the body and a production clip & screw. Views A and B give hole locations.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "???????",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3949937",
+      "name": "GRILLE",
+      "name_expanded": "Grille – defogger outlet grille",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949955",
+      "name": "GASKET",
+      "name_expanded": "Gasket – under outlet grille",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3707520",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3759924",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949954",
+      "name": "UPPER DUCT",
+      "name_expanded": "Upper duct – defogger air duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3915881",
+      "name": "CABLE ASM.",
+      "name_expanded": "Cable assembly – defogger damper control cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "375437",
+      "name": "GUIDE ASM.",
+      "name_expanded": "Guide assembly – cable housing clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "451924",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3870384",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut (clip nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "top of upper duct [6] / body panel behind the seat",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [1] go through the outlet grille [2] and gasket [3] (holes at each end of the grille).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body (lower end of duct)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screws [4] at the lower end of the upper duct [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body stud near the sill",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [5] at the lower front corner of the duct [6]; exact stud not clear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "U-nut [10] is clipped on a panel flange behind the duct; the screw it receives is not clear in the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8",
+        "7"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Guide [8] clamps the end of the cable [7] housing; screw [9] goes down through the guide into the body.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "A production clip & screw holds the cable [7] housing along its run; the cable end hooks to the damper lever on the duct [6].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "PROD. CLIP & SCREW",
+    "View A: hole .39 +0 -1/64 DIA, located 4.56 and 4.16 from refs 30 and 20.",
+    "View B: .25 DIA (3 HOLES); .50 DIA (2 HOLES); 7/32 DIA. (2 HOLES); dims .80, .56, 1.50, 3.00, 1.63, 2.69, .44, 5.56 from refs 15, 70, 75, 80, 20."
+  ],
+  "notes_internal": [
+    "Title block: UPC C50, sheet A2, model 19467, C/O A2&A2.5 (faint), drawing 3965172, K298. Revision record empty.",
+    "Item 1: top of the callout list is cut off at the page edge; only the name SCREW (partly) is readable, pn digits unreadable. Torque 1 from the triangle next to [1] in the drawing.",
+    "Item 9 torque triangle is hand-drawn; reads as 3.",
+    "Contents (p299) calls A2 'MOTOR & DUCT ASM' but this title block says UPPER DUCT & CABLE ASM.",
+    "Fastening of [4], [5], [10] inferred loosely from leader lines; exact mating parts unclear."
+  ],
+  "revisions": [],
+  "options": [
+    "C50"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

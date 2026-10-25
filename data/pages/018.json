@@ -1,0 +1,257 @@
+{
+  "page": 18,
+  "group": "0",
+  "sheet": "B3",
+  "title": "CUSTOMER VEHICLE PROTECT-O-PLATE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Protect-O-Plate (the stamped owner's warranty ID plate): what is stamped where on the plate (VIN, carburetor source, engine and rear axle codes, month built, transmission, power steering/brakes, radio, A/C, power windows) and how it is mounted. The stamped plate is stuck onto the adhesive-backed pocket inside the new-vehicle warranty folder; no fasteners.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3865853",
+      "name": "PLATE",
+      "name_expanded": "Plate – Protect-O-Plate (owner protection plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3970672",
+      "name": "FOLDER-NEW VEH WARRANTY",
+      "name_expanded": "Folder – new vehicle warranty (owner's warranty booklet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "adhesive-backed portion of the warranty folder [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "After stamping, plate [1] is pressed onto the adhesive-backed area inside folder [2] (shaded area in the folder view). Adhesive is part of the folder, not a separate material code.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Stamp the plate with No. 35 size type; the stamped side must read normally (not mirrored).",
+    "Data longer than one character starts at the indicated location and continues to the right.",
+    "Plate is 33 columns long and 9 rows deep when No. 28 size type is used.",
+    "After stamping, attach plate to the adhesive-backed portion of [2].",
+    "ENLARGED SECTION A-A THRU TYPICAL STAMPED CHARACTER: .043 / .048",
+    "[A] FOLDER-See UPC 0 Misc. Shipping List",
+    "*FOR OTHER PLATE DETAILS SEE DSSM NO. 6.",
+    "Example plate shown: row A 194370S400001 / R; row B V09 .. TN, CAK0904W, 0; row C POR15, 113 13, columns numbered 1-30."
+  ],
+  "notes_internal": [
+    "Item 1: third digit looks like 6 at 600 dpi, OCR read 3885853; marked uncertain.",
+    "Item 2: binder hole wipes out the middle digits; spacing fits three digits between '39' and '72' (count itself not certain).",
+    "Example plate row B: a hole punch hides characters after 'V09'.",
+    "Tag [A] on the folder is a reference to the shipping list, not an applied material.",
+    "Location rows C-18 and C-21..C-28 are blank in the table; rows with no data were skipped."
+  ],
+  "revisions": [
+    {
+      "date": "4-2-70",
+      "sym": "5",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N40",
+    "J50",
+    "U69",
+    "U79",
+    "C60",
+    "A31"
+  ],
+  "tables": [
+    {
+      "title": "DATA TO BE STAMPED",
+      "columns": [
+        "LOCATION",
+        "DATA TO BE STAMPED",
+        "CODE",
+        "CODE VALUE"
+      ],
+      "rows": [
+        [
+          "A-15",
+          "VEHICLE SERIAL NUMBER",
+          "",
+          ""
+        ],
+        [
+          "***A-29",
+          "CARBURETOR SOURCE",
+          "",
+          ""
+        ],
+        [
+          "B-1",
+          "ENGINE SOURCE, DATE & 3 DIGIT TYPE CODE",
+          "",
+          ""
+        ],
+        [
+          "B-15",
+          "3 DIGIT RR AXLE TYPE, DATE & SOURCE CODE",
+          "",
+          ""
+        ],
+        [
+          "#B-29",
+          "MONTH PRODUCED",
+          "",
+          ""
+        ],
+        [
+          "C-1",
+          "CHEVROLET MANUFACTURED USE SOURCE & DATE. HYDRA-MATIC: USE CODING STAMPED ON UNIT PLATE EXCEPT THAT THE LARGE \"C\" PREFIX & THE LARGE SINGLE ALPHA SUFFIX ARE TO BE DROPPED.",
+          "",
+          ""
+        ],
+        [
+          "*C-15",
+          "POWER STEERING CODE",
+          "N40",
+          "1"
+        ],
+        [
+          "*C-16",
+          "POWER BRAKE CODE",
+          "J50",
+          "1"
+        ],
+        [
+          "*C-17",
+          "RADIO CODE",
+          "U69/U79",
+          "3"
+        ],
+        [
+          "*C-19",
+          "AIR CONDITIONING CODE",
+          "C60",
+          "1"
+        ],
+        [
+          "*C-20",
+          "POWER WINDOW CODE",
+          "A31",
+          "3"
+        ],
+        [
+          "C-29",
+          "CHEVROLET \"BOW TIE\" SYMBOL",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "# CODE (MONTH PRODUCED)",
+      "columns": [
+        "MONTH",
+        "CODE"
+      ],
+      "rows": [
+        [
+          "JANUARY",
+          "1"
+        ],
+        [
+          "FEBRUARY",
+          "2"
+        ],
+        [
+          "MARCH",
+          "3"
+        ],
+        [
+          "APRIL",
+          "4"
+        ],
+        [
+          "MAY",
+          "5"
+        ],
+        [
+          "JUNE",
+          "6"
+        ],
+        [
+          "JULY",
+          "7"
+        ],
+        [
+          "AUGUST",
+          "8"
+        ],
+        [
+          "SEPT.",
+          "9"
+        ],
+        [
+          "OCTOBER",
+          "0"
+        ],
+        [
+          "NOV.",
+          "N"
+        ],
+        [
+          "DEC.",
+          "D"
+        ]
+      ]
+    },
+    {
+      "title": "*** CODE (CARBURETOR SOURCE)",
+      "columns": [
+        "SOURCE",
+        "CODE"
+      ],
+      "rows": [
+        [
+          "BAY CITY",
+          "B"
+        ],
+        [
+          "CARTER",
+          "C"
+        ],
+        [
+          "HOLLY",
+          "H"
+        ],
+        [
+          "ROCHESTER",
+          "R"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "page": 311,
+  "group": "C60",
+  "sheet": "A9",
+  "title": "UNDER DASH BRACE RODS",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) with air conditioning (C60): under-dash brace rods running from a tunnel-front reinforcement up to the dash panel and the lower windshield frame reinforcement (cowl stiffening braces). The tunnel reinforcement is riveted and bonded to the floor tunnel and carries studs for the brace lower ends; one brace upper end bolts through the dash panel and a riveted plate, another goes onto a stud on a plate spot-welded to the lower windshield frame reinforcement.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3942746",
+      "name": "PLATE TO DASH PANEL",
+      "name_expanded": "Plate to dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3947940",
+      "name": "BRACE",
+      "name_expanded": "Brace rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3942727",
+      "name": "REINF ASM.-TUNNEL FRONT",
+      "name_expanded": "Reinforcement assembly - tunnel front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3958305",
+      "name": "BRACE",
+      "name_expanded": "Brace rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3942731",
+      "name": "BRACE",
+      "name_expanded": "Brace rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3825452",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3831892",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3947941",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly (with stud)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(blank - screw removed, revision 1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3829910",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3829909",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3828550",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "1361640",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "front of the floor tunnel",
+      "qty": "11",
+      "torque_ref": null,
+      "note": "Tunnel front reinforcement [3] is riveted with rivets [14] through 11 holes (7/32 +0 -1/64 dia., drilled using [3] as template) and bonded (bond \"D\") to the tunnel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "floor tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bond \"D\" between reinforcement [3] and the tunnel (main view); no legend for the bond code on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "2",
+        "4",
+        "5"
+      ],
+      "to": "studs on tunnel front reinforcement [3]",
+      "qty": "3",
+      "torque_ref": "2",
+      "note": "View B (typical 3 places): the flattened lower end of each brace goes over a stud that is part of reinforcement [3] (no separate stud callout) and is held by nut [15].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "dash panel",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "View C: plate [1] is riveted to the dash panel with rivet [12] and two rivets [13], through 3 holes 7/32 +0 -1/64 dia. drilled using [1] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "dash panel and plate [1]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: bolt [9] goes through the flattened upper end of brace [5] and through a .391-.406 dia. hole in the dash panel and plate [1]; lock washer [8] and nut [6] on the far side of the plate. Callout [7] (P. washer) also points into View C at the plate area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "welds",
+      "holds": [
+        "10"
+      ],
+      "to": "lower windshield frame reinforcement",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A, note: spot-weld plate [10] to the reinforcement, 5 places (weld tag 10A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "stud on plate assembly [10]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: the upper end of brace [2] goes over the threaded stud that is part of plate assembly [10] (no separate stud callout); plain washer [7], lock washer [8] and nut [6] on top. Stud location .81 and .56 dimensions from the reinforcement edges.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "7/32 +0 -1/64 DIA. 11 HOLES USE ITEM [3] AS TEMPLATE",
+    "7/32 +0 -1/64 DIA 3 HOLES USE ITEM [1] AS TEMPLATE",
+    ".391-.406 DIA HOLE USE DASH & PLATE",
+    "[10][A] Spotweld [10] to reinforcement 5 places.",
+    "View A dimensions: .81, .56",
+    "PROD BRACE RODS (existing production braces shown at left of main view)"
+  ],
+  "notes_internal": [
+    "Item 11 line is blank; circled 1 beside it = revision 1 (3791506 screw removed).",
+    "Circled 2 beside bolt [9] = revision 2 (bolt drawing revised).",
+    "View A has circled 25 and 20 at the dimension lines; meaning unclear (not revision symbols on this sheet, revision block lists only 1-2). Left out.",
+    "View C: callout [7] leader ends at the dash-side plate, not clearly at a washer; listed with bolt [9] fastening only in the note.",
+    "Brace [4]: only View B typical-3-places shows its lower end; its upper end attachment (left, near PROD BRACE RODS) is not called out.",
+    ".391-.406 hole dimension: second number read as 406 (written 4O6 with a mark).",
+    "Revision 1 date: second digit of the day is broken (4 or 9); written '10-2?-69'."
+  ],
+  "revisions": [
+    {
+      "date": "10-2?-69",
+      "sym": "1",
+      "text": "3791506 SCREW REMOVED",
+      "was": "3791506",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "BOLT DWG REV'D",
+      "was": null,
+      "item": "9"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "page": 33,
+  "group": "0",
+  "sheet": "F2",
+  "title": "WATER & VACUUM WATER TEST",
+  "models": [],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Assembly-plant water leak test (water & vacuum water test booth): plan and side views of the car showing where each spray nozzle (A through K) sits relative to the car centerline and ground line, and its spray angle. Overhead nozzles cover the windshield, roof/T-top area and rear deck (nozzle C on coupes 19437 only); underbody nozzles spray the floor and wheel wells. No parts are installed on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: All overhead & underbody nozzle positions symmetrical about centerline (first letter of 'All' lost in a binder hole).",
+    "EXTREME TOP HEIGHT OF CAR: overhead nozzles 6 MIN (front) and 4 MIN (center) above it.",
+    "Nozzle C: 19437 ONLY. Rear nozzle B area marked 19467 & RPO C07 (convertible / auxiliary hardtop) versus 19437 (coupe).",
+    "Spray angles shown: D 45° (plan), A/D 30° 30°, D 30°, B 40°, G 60°, K 70°."
+  ],
+  "notes_internal": [
+    "Diagram sheet: water test nozzle layout, no callouts, so parts/fastening empty.",
+    "Dimensions (inches, unitless on the drawing) read from the plan view, kept out of notes except headline ones: overhead 6/36/48/9, height 63, A at 15, B at 15, C at 18; underbody G at 29 from CL & 6, J row 11 from CL, H row 38, F 28, K 26; spacing 19-1/2, 14-1/2, 40, 26, 44-1/2, 24, 11, 20; side view 37, 23.",
+    "Model box reads 19000 (all models), so models = [].",
+    "Revision record empty. Title block: drawing 3965172, C/O F2."
+  ],
+  "revisions": [],
+  "options": [
+    "C07"
+  ],
+  "tables": [
+    {
+      "title": "QUANTITY OF NOZZLES",
+      "columns": [
+        "Nozzle",
+        "Qty"
+      ],
+      "rows": [
+        [
+          "A",
+          "2"
+        ],
+        [
+          "B",
+          "2"
+        ],
+        [
+          "C",
+          "2"
+        ],
+        [
+          "D",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ],
+        [
+          "G",
+          "2"
+        ],
+        [
+          "H",
+          "4"
+        ],
+        [
+          "J",
+          "6"
+        ],
+        [
+          "K",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

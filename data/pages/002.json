@@ -1,0 +1,26 @@
+{
+  "page": 2,
+  "group": "",
+  "sheet": "",
+  "title": "QUICK REFERENCE INDEX / PUBLISHER NOTICE",
+  "models": [],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Reprint publisher's page (Dave Graham Auto Literature, 2008): how to use the PDF's clickable quick reference index, and the GM Service Operations reprint license notice. No parts or assembly information.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Publisher's page (portrait, not a GM sheet): no title block, UPC, sheet id or model box, so group and sheet are empty.",
+    "License number printed: 0710896."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

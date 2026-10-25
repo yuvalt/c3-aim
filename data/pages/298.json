@@ -1,0 +1,82 @@
+{
+  "page": 298,
+  "group": "C08",
+  "sheet": "A1",
+  "title": "SOFT TRIM ROOF COVER",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) removable hardtop with RPO C08 vinyl roof covering (vinyl top on the auxiliary hardtop, used with RPO C07). The vinyl cover is glued to the hardtop roof panel with spray cement (68a); there are no fasteners. Edges are trimmed to a 1/2 in. flange and cemented to the hardtop sub-structure, with notches at the corners (Views A-C).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3912804",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly – vinyl roof cover (vinyl top) for the removable hardtop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "68a",
+      "description": "CEMENT",
+      "amount": "8.53 OZ",
+      "where": "between the vinyl cover [1] and the hardtop roof panel, over the whole roof"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "68a",
+      "holds": [
+        "1"
+      ],
+      "to": "removable hardtop roof panel and sub-structure",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Vinyl cover [1] is cemented (68a) over the whole roof panel; the trimmed edge flanges and folds are cemented to the hardtop sub-structure. Edge of vinyl sits .50 REF from the panel edge at the front corners; notches at the assembly corners (Views A, C); a cap covers the rear corner (View B).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Installation procedure (summarized):",
+    "1. Clean the roof panel with solvent to remove grease and oil.",
+    "2. Spray adhesive over the whole cloth backing of the vinyl cover; let it dry until tacky or longer.",
+    "3. Lay the cover on the roof panel and set its centerline; front and rear overlap about equal.",
+    "4. Fold the cover back on itself, fold on the vehicle centerline.",
+    "5. Spray adhesive on the exposed half of the roof panel.",
+    "6. Fold the cover back onto the adhesive; the cover seam must be parallel to the vehicle centerline.",
+    "7. Repeat steps 4-6 for the other half.",
+    "8. Remove wrinkles and bubbles with a spatula or roller.",
+    "9. Trim excess vinyl all around, leaving at least a 1/2 in. flange and folds, and cement them to the hardtop sub-structure with released adhesive.",
+    ".50 REF",
+    "EDGE OF VINYL",
+    "VINYL TRIM EDGE",
+    "NOTCH AT ASM",
+    "CAP"
+  ],
+  "notes_internal": [
+    "Title block: UPC C08, sheet A1, model 19467 RPO C07, C/O A1&A2, drawing 3965172, K296. Revision record empty.",
+    "Item 1 pn: a hole-punch circle is just above the number but digits read clearly as 3912804.",
+    "The 'CAP' at the rear corner (View B) has no callout."
+  ],
+  "revisions": [],
+  "options": [
+    "C08",
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "page": 286,
+  "group": "A31",
+  "sheet": "A1",
+  "title": "WINDOW ELECTRIC CONTROL-CONTENTS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO A31 power windows: contents of the option plus the door end of the installation. The window regulator & motor assembly mounts inside each door with a pad cemented to it; the door harness runs from the body through a conduit (wiring shield between hinge pillar and door), is held by a clip, and plugs into the motor connectors. The power-window circuit breaker mounts behind the dash with a screw and nut, and its feed plugs into the fuse panel receptacle marked \"Acc. Fused\". Related sheet: A2 (console switches & wiring harness).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9714098-9",
+      "name": "REG & MOTOR ASM.",
+      "name_expanded": "Window regulator & motor assembly (power window motor, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3936359",
+      "name": "PAD",
+      "name_expanded": "Pad (cemented to regulator/motor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6288909",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2962793",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector (at window motor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3927327",
+      "name": "CLIP",
+      "name_expanded": "Clip (harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3701780",
+      "name": "TAPE",
+      "name_expanded": "Tape (over window regulator hole)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "6294024",
+      "name": "CONDUIT",
+      "name_expanded": "Conduit (door wiring harness shield, body to door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "190254",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3876129",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "4850166",
+      "name": "BREAKER ASM.",
+      "name_expanded": "Circuit breaker assembly (power window)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3876130",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-25",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51v",
+      "description": "CEMENT",
+      "amount": ".1 OZ",
+      "where": "pad [2] on the regulator & motor assembly [1]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "bracket/panel behind the instrument panel (upper left of drawing)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [9] passes through the circuit breaker [10] mounting flange; nut asm. [8] tightens on it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "circuit breaker [10] terminal stud",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [11] on the breaker's own terminal stud (stud is part of the breaker, no separate callout); likely secures the feed wire terminal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51v",
+      "holds": [
+        "2"
+      ],
+      "to": "regulator & motor assembly [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pad [2] cemented with 51v cement (material A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "door inner panel, near the hinge-pillar end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [5] holds the harness/conduit to the door.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "how": "seals",
+      "holds": [],
+      "to": "door inner panel window regulator hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tape [6] covers the window regulator hole, 3 in. each side (note B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "window motor and harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connectors [3] and [4] join the harness to the motor; plug-in, no fastener. View A: wire colors at motor connector.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Plug connector into receptacle marked \"Acc. Fused\".",
+    "[B] 3 in. each side.",
+    "[C] For hole drilling see UPC 0.",
+    "Grommet UPC. 12.",
+    "Ground terminal attached with production screw (PROD SCREW)."
+  ],
+  "notes_internal": [
+    "Item 8 pn: first character is a blob that reads as '1' (6-digit number); flagged uncertain. Revision 1: was 3759324 nut asm.",
+    "Regulator & motor [1]: drawing shows it inside the door with the inner panel and hole cover, but its mounting fasteners are not called out on this sheet.",
+    "Conduit [7]: runs from body hinge pillar into door; no fastener shown besides clip [5].",
+    "Torque legend shows triangles 1-5 but only 1 and 2 have values; circled 2 beside triangle 1 = revision 2.",
+    "Note C location in the drawing not found.",
+    "Revision 2 old torque reads '20-3?' (last digit unclear).",
+    "Title block: drawing 3965172, C/O A1. Sheet list: A1 CONTENTS, A2 CONSOLE SWITCHES & WIRING HARNESS."
+  ],
+  "revisions": [
+    {
+      "date": "10-9-69",
+      "sym": "1",
+      "text": "WAS 3759324 NUT ASM",
+      "was": "3759324",
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "TORQUE (1) WAS 20-3? LBS. IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "A31"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "Sheet",
+        "Title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "CONSOLE SWITCHES & WIRING HARNESS"
+        ]
+      ]
+    },
+    {
+      "title": "COLOR CODE (View A, motor connector)",
+      "columns": [
+        "Side",
+        "L.H. DOOR",
+        "R.H. DOOR"
+      ],
+      "rows": [
+        [
+          "INBOARD SIDE",
+          "SOLID BROWN",
+          "BLUE STRIPE"
+        ],
+        [
+          "OUTBOARD SIDE",
+          "SOLID BLUE",
+          "BROWN STRIPE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

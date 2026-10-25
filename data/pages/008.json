@@ -1,0 +1,35 @@
+{
+  "page": 8,
+  "group": "0",
+  "sheet": "A6",
+  "title": "GENERAL INSTRUCTIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "General hose clamp and exhaust clamp positioning rules for the whole car, with dimensioned sketches: clamp spacing from the hose end on plain pipes, placing the clamp just past a sealing bead (never on top of it), shouldering hoses and clamps on short beaded or bead-less nipples, and centering exhaust pipe clamps on the end of the pipe slot. No specific parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Plain pipe/tube/nipple with no bends: clamp at least .12 MIN from the hose end, and hose end at least .12 MIN beyond the clamp (as dimensioned).",
+    "Pipe, nipple, tee or connector with a bead: put the clamp directly beyond the bead (.03 MIN from bead, .12 MIN clamp dimension shown); push the hose on far enough for at least 1/8 hose protrusion beyond the clamp. CAUTION: clamp must not sit on top of the sealing bead radius.",
+    "Exhaust pipe clamps: locate clamp centerline at the end of the slot in the exhaust pipe (.25 dimension shown).",
+    "Short beaded hose nipples: HOSE SHOULDERED TO .03 MAX GAP; HOSE CLAMP SHOULDERED TO .06 MAX GAP; clamp .03 MIN from bead.",
+    "Short bead-less nipples up to and including 1/4 O.D. that are integral to a unit: HOSE SHOULDERED TO .03 MAX GAP; HOSE CLAMP SHOULDERED TO .06 MAX GAP."
+  ],
+  "notes_internal": [
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL date partly illegible ('?-?4-69'), C/O A6; model 19000. Revision record empty.",
+    "Hole punches obscure the first label of the top-left sketch (likely 'PIPE', only 'E' visible) and a word in the beaded-pipe note ('nip...'); the exact dimension leaders in the top-left sketch are not fully clear, so the .12 MIN placement is described as dimensioned.",
+    "Sideways 'K6' mark above title block."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

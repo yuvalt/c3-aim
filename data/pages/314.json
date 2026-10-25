@@ -1,0 +1,75 @@
+{
+  "page": 314,
+  "group": "C60",
+  "sheet": "B2",
+  "title": "AIR CONDITIONING-TUBE SHIELD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air-conditioned cars (C60): a sheet shield riveted to the front fender skirt (inner fender) covering the receiver-dehydrator tube where it passes through the skirt, near the front suspension. The skirt gets dimpled slots for the tube and four drilled holes for the rivets.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3956052",
+      "name": "SHIELD",
+      "name_expanded": "Shield (A/C tube shield)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "front fender skirt",
+      "qty": "4",
+      "torque_ref": null,
+      "note": "Shield [1] is riveted to the skirt with rivets [2] through 4 holes drilled 7/32 +0 -1/64 at dimple marks; rivets go in from the engine side and wheelhouse side as drawn.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "DIMPLES .125 X 3.30 SLOT",
+    "DIMPLES .150 X 2.80 SLOT",
+    "DIMPLES DRILL 7/32 +0 -1/64 4 HOLES",
+    "RCVR. DEHYDRATOR TUBE ASM.",
+    "SKIRT-FRT FENDER"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips the tops of the first two digits; the remaining shapes read 39 clearly enough, not marked uncertain.",
+    "Slot dimensions written \"125 X 3.30\" and \"150 X 2.80\" (leading decimal point implied, printed as L25/L50 in hand lettering); recorded as .125/.150.",
+    "Rivet direction from the drawing is approximate; two [2] callouts on opposite sides of the skirt.",
+    "Revision block blank (5 empty symbols)."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

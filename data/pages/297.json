@@ -1,0 +1,40 @@
+{
+  "page": 297,
+  "group": "C07",
+  "sheet": "A8",
+  "title": "SIDE DOOR GLASS ADJUSTMENT PROCEDURE",
+  "models": [
+    "19467"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: section views A-A to F-F showing the target fit of the side door glass against the hardtop and windshield-side weatherstrips, with the nominal gap and overlap dimensions used when adjusting the glass. Companion to the written procedure on sheet A7.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: The dimensions given in these sections are nominal design dimensions.",
+    "SECTION A-A: .50 PARALLAL (REF.)",
+    "SECTION B-B: .30 PARALLEL",
+    "SECTION C-C: .04 PARALLAL",
+    "SECTION D-D: .38 PARALLAL; .10 PARALLEL",
+    "SECTION E-E: REAR EDGE OF GLASS W/STRIP; GLASS; DOOR W/STRIP",
+    "SECTION F-F: .18 MAX."
+  ],
+  "notes_internal": [
+    "No callouts, torques or materials on this sheet; it is the section-view companion to the A7 procedure text (p296), which refers to Sections A-A to F-F.",
+    "Section B-B has a vertical overlap dimension with arrows but no value printed.",
+    "'PARALLAL' misspelling copied as printed.",
+    "Revision record empty. Title block: DR ?/C1, CK 5-6-69 C1, PREL 5-2-69, C/O A8. Sideways 'K295'. Torque triangles 1-5 blank."
+  ],
+  "revisions": [],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

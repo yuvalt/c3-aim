@@ -1,0 +1,277 @@
+{
+  "page": 305,
+  "group": "C60",
+  "sheet": "A3",
+  "title": "AIR CONDITIONING-SIDE SHROUD VACUUM CONTROL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60): vacuum-operated control for the side shroud (kick panel) fresh-air vent door. A bracket carrying the vacuum actuator (diaphragm), arm, link and return spring is screwed to the side shroud; the actuator mounts to the bracket on its own studs with push-on nuts, and the arm pivots on a pin staked to the bracket. The production kick panel is cut along the lines shown to fit it.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "38??00",
+      "name": "NUT-PUSH ON",
+      "name_expanded": "Nut – push-on",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3917318",
+      "name": "LINK",
+      "name_expanded": "Link (actuator arm to vent door)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3917319",
+      "name": "ARM",
+      "name_expanded": "Arm (vent door operating arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "120614",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3917330",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – vacuum actuator mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "1998990",
+      "name": "ACTUATOR ASM-VACUUM",
+      "name_expanded": "Vacuum actuator (diaphragm) assembly – side shroud vent door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3895931",
+      "name": "SPRING",
+      "name_expanded": "Spring – return",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3895930",
+      "name": "PIN",
+      "name_expanded": "Pin – arm pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "274574",
+      "name": "RING",
+      "name_expanded": "Ring – retaining",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9423329",
+      "name": "SCREW (S.D.)",
+      "name_expanded": "Screw – self-drilling",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "side shroud (kick panel area), at the bosses",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Main view: self-drilling screws [11] go through the two holes in the end flange of bracket [6] into the side shroud. Locate from the hole in the boss: 3.09 and 4.00; 6.89 from top of boss.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the vacuum actuator [7] has its own mounting studs (no separate callout) that pass through the holes in bracket [6]; push-on nuts [1] go on those studs from the bracket side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: the arm [3] stud passes through bracket [6]; lock washer [5] and nut [4] on the back. Dimension .20 shown at the arm's upper end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: arm [3] pivots on pin [9]; note A: stake pin [9] securely to bracket [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "bracket [6] / actuator rod",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: return spring [8] hooks between the bracket and the actuator rod linkage.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "arm [3] and vent door",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: link [2] connects the arm to the vent door; bend tab down (revision 2).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Stake [9] securely to [6].",
+    "BEND TAB DOWN",
+    "4.00; 6.89 FROM TOP OF BOSS; 3.09 FROM CENTER OF HOLE IN BOSS",
+    ".20",
+    "CUT PRODUCTION PANEL ALONG THESE LINES"
+  ],
+  "notes_internal": [
+    "Item 1 pn: middle digits broken in the scan, reads '38' + two unreadable + '00'; digit count estimated from glyph spacing.",
+    "Ring [10]: no callout found in the drawing; probably retains link [2] on the arm, not confirmed. Left out of fastening.",
+    "Link [2] end attachments not fully clear; spring [8] attachment points approximate.",
+    "Revision 1 pn after WAS mostly illegible ('9' + unclear digits); revision 3 'WAS 199??6? ACTU. ASM' partly illegible.",
+    "Sideways 'K303' by torque legend. Title block: drawing 3965172, L-84397, CK 4-30-69 CI, PREL 4-28-69, C/O A3."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "WAS 9?????? SCREW",
+      "was": "9??????",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": ".204.208 DIA. RMV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-12-69",
+      "sym": "3",
+      "text": "WAS 199??6? ACTU. ASM",
+      "was": "199??6?",
+      "item": "7"
+    },
+    {
+      "date": "2-13-70",
+      "sym": "4",
+      "text": "ITEM (7) DWG. REVISED",
+      "was": null,
+      "item": "7"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "page": 315,
+  "group": "C60",
+  "sheet": "B3",
+  "title": "AIR CONDITIONING-RADIATOR OUTLET HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 (454) cars with air conditioning (C60): the lower radiator hose is a three-piece assembly, an outlet hose from the water pump inlet, a metal connecting tube, and a short outlet hose to the radiator outlet. The two hose-to-tube joints use clamps [4]; the ends at the water pump and radiator use production clamps.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3969929",
+      "name": "HOSE ASM-OUTLET",
+      "name_expanded": "Hose assembly - outlet (water pump end of lower radiator hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3969930",
+      "name": "TUBE",
+      "name_expanded": "Tube (lower radiator hose connector)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969928",
+      "name": "HOSE-OUTLET",
+      "name_expanded": "Hose - outlet (radiator end of lower radiator hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2465814",
+      "name": "CLAMP",
+      "name_expanded": "Hose clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "3"
+      ],
+      "to": "tube [2]",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Hose [1] and hose [3] each slip over an end of tube [2] and are tightened with one clamp [4] each (2 clamps).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "water pump inlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper end of hose [1] goes on the water pump inlet neck, held by a production clamp (no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "radiator outlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lower end of hose [3] goes on the radiator outlet, held by a production clamp (no callout).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "PRODUCTION CLAMP",
+    "RADIATOR OUTLET"
+  ],
+  "notes_internal": [
+    "Model box reads \"19000 (LS5)\"; page models kept as 19000, LS5 recorded in options.",
+    "Revision block blank (5 empty symbols).",
+    "The upper production clamp is the screw-type clamp drawn at the water pump inlet; inlet identity read from the drawing (pump housing with pulley)."
+  ],
+  "revisions": [],
+  "options": [
+    "C60",
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "page": 17,
+  "group": "0",
+  "sheet": "B2",
+  "title": "IDENTIFICATION NO. PLATE, V.I.N. SPECS.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Body identification plates: the paint & trim plate (trim tag / cowl tag) riveted to the LH door pillar with two rivets, and the vehicle identification (VIN) plate riveted near the base of the LH windshield pillar (View C). Also gives the stamping format for the trim tag (time-built code, trim and paint codes) and the VIN layout stamped on the engine and transmission.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3934829",
+      "name": "PLATE BODY PAINT & TRIM",
+      "name_expanded": "Plate – body paint & trim identification (trim tag)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9423220",
+      "name": "RIVET",
+      "name_expanded": "Rivet (VIN plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3930322",
+      "name": "PLATE VEHICLE IDENT.",
+      "name_expanded": "Plate – vehicle identification number (VIN plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9427909",
+      "name": "RIVET",
+      "name_expanded": "Rivet (trim tag)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "LH door pillar",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Rivets [4] go through the two end holes of the paint & trim plate [1] into the (2) holes in the LH door pillar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "pillar shown in View C (LH windshield pillar area)",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "View C: rivets [2] go through the two holes of the VIN plate [3] into the pillar.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "TIME BUILD CODE",
+    ".125 MIN. .250 MAX.",
+    "Example VIN stamp: 190000S700001 (Division Identification Number, Model Year, Assembly Plant Designation, VIN Sequential Serial Number).",
+    "ENGINE & TRANSMISSION VEHICLE IDENTIFICATION NO. SPECS. (For location see engine & transmission UPC or RPO)",
+    "Trim tag stamping: time-built code = letter for the production month (A = start-of-production month, B = next month, etc.) followed by two digits for the day, e.g. A01 or B27.",
+    "Trim tag stamping: trim and paint codes come from color & trim combination chart 3843115."
+  ],
+  "notes_internal": [
+    "View C location isn't labelled; 'LH windshield pillar' inferred from arrow C at the top of the main view, near the windshield.",
+    ".125/.250 dimension appears to be the character height of the VIN stamp.",
+    "Revision 2 has no date."
+  ],
+  "revisions": [
+    {
+      "date": "5-26-69",
+      "sym": "1",
+      "text": "VIEW \"B\" REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "EXISTING SYM ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

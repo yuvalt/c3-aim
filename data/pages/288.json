@@ -1,0 +1,328 @@
+{
+  "page": 288,
+  "group": "CD2",
+  "sheet": "A1",
+  "title": "WINDSHIELD WASHER RESERVOIR FLUID MONITOR-CONTENTS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "RPO CD2 windshield washer fluid level monitor (canceled 1-26-70): a float-type sending unit goes through a .75 in. hole drilled in the washer reservoir cap, held by a retainer; a wire harness runs along the wiper motor area to an indicator lamp housing mounted under the instrument panel with a screw, washer and spacer. The harness is also screwed to the distributor & coil shield support bracket. Sheet stamped CANCELED.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "8901511",
+      "name": "CONDUCTOR ASM.",
+      "name_expanded": "Conductor assembly (lead at sending unit)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "8901626",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly (pigtail harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8900646",
+      "name": "SENDING UNIT ASM.",
+      "name_expanded": "Washer fluid level sending unit assembly (float in reservoir)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Blank line (connector 3927320 removed per revision 5)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9425542",
+      "name": "BULB",
+      "name_expanded": "Bulb (indicator lamp)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3973677",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (sending unit at reservoir cap)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8900644",
+      "name": "HOUSING ASM.",
+      "name_expanded": "Indicator lamp housing assembly (marked WASHER)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3787311",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3904222",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9432129",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9420890",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "138479",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "120361",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3776141",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "9",
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "instrument panel retainer (.187 +.000/-.005 dia hole)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [10] goes up through washer [9] and the lamp housing [7], then spacer [8], into the hole in the instrument panel retainer.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "washer reservoir cap (.75 dia hole drilled in existing cap)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: sending unit [3] tube goes down through the cap hole; retainer [6] snaps on from below the cap. Hole .31 from cap edge feature as dimensioned.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "12"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "distributor & coil shield support bracket (.128/.132 dia hole)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [11] with washer [12] fastens the harness eyelet/clip to the support bracket, .56 / 1.12 from the edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [],
+      "to": "instrument panel, View A",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nut at the instrument panel (callout reads '?3', probably 13); what it clamps is unclear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2",
+        "5"
+      ],
+      "to": "sending unit and lamp housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Conductor [1] plugs into the sending unit; wire asm [2] plugs into the bulb socket at the sending unit end with bulb [5] (View C); plug-in, no fastener. Existing clip holds harness on the cowl.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Remove existing wire on w/s/w mtr & insert into pigtail harn assembly.",
+    ".75 DIA HOLE IN EXISTING CAP.",
+    ".187 +.000/-.005 DIA HOLE IN INST PNL RETAINER.",
+    ".128/.132 DIA HOLE IN SUPT BRKT.",
+    "Dimensions: .67, 2.26 (View A); .31 (View C); .56, 1.12 (support bracket)."
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED; revision 8 (1-26-70) RPO CANCELED.",
+    "Item 4: callout box present, no pn or name (removed per revision 5, 3927320 connector).",
+    "Item 13 nut: callout in View A partly under the CANCELED stamp, reads '?3'; assumed 13 since 3 is the sending unit in View C. Not certain.",
+    "Callout at top of View C (sending unit head) is hole-punched; probably [3].",
+    "Item 14 hose: callout near wiper motor; its routing/attachment not clear.",
+    "Circled 20 and 0 near the support bracket, and circled 6 near the wiper motor: not in revision record (which runs 4-8); meaning unknown.",
+    "Item 7 housing has 'WASHER' printed on it in the drawing (lamp lens legend).",
+    "Title block: drawing 3965172, C/O ECR 24012. Sheet list: A1 CONTENTS, A2 WINDSHIELD WASHER FLUID LEVEL MONITOR WITH RPO C60."
+  ],
+  "revisions": [
+    {
+      "date": "12-30-69",
+      "sym": "4",
+      "text": "WAS 8901510 WIRE ASSEMBLY",
+      "was": "8901510",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "3927320 CONNECTOR REMOVED",
+      "was": "3927320",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "WIRE & CONNECTOR DWG REV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "VIEW 'B' REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-26-70",
+      "sym": "8",
+      "text": "RPO CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "CD2",
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "Sheet",
+        "Title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "WINDSHIELD WASHER FLUID LEVEL MONITOR WITH RPO C60"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

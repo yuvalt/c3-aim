@@ -1,0 +1,250 @@
+{
+  "page": 302,
+  "group": "C50",
+  "sheet": "A4",
+  "title": "REAR WINDOW DEFOGGING EQUIP.-MOTOR, HOSE & DUCT ASM.",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) rear window defogger (RPO C50), LH only: the blower motor mounts on the LH side bulkhead behind the seat, pushes air through a hose to a duct and outlet grille in the rear quarter trim panel. The blower and inlet screen screw to a bracket that is screwed to the bulkhead, with a shield over the motor through a 4.18 in. hole; the grille screws into clip nuts on the duct. A matching hole is cut in the carpet and quarter trim panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3925770",
+      "name": "SHIELD",
+      "name_expanded": "Shield – blower motor shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "528846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3937902",
+      "name": "HOSE",
+      "name_expanded": "Hose – blower to duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918285",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3925766",
+      "name": "GRILLE",
+      "name_expanded": "Grille – defogger outlet grille in rear quarter trim panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3909593",
+      "name": "NUT",
+      "name_expanded": "Nut (clip nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3925768",
+      "name": "DUCT",
+      "name_expanded": "Duct – defogger outlet duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9423175",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9425439",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3148663",
+      "name": "SCREEN ASM.",
+      "name_expanded": "Screen assembly – blower inlet screen",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3929037",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – blower mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3014886",
+      "name": "BLOWER ASM.",
+      "name_expanded": "Blower assembly – defogger blower motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "10",
+        "11"
+      ],
+      "to": "blower [12]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screws [8] go through the screen [10] and bracket [11] into the blower [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "2"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "side bulkhead",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [9] goes through the bulkhead and bracket [11]; nut assembly [2] on the other side. Three 17/32 dia. holes in the panel (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "side bulkhead",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Shield [1] covers the blower motor where it passes through the 4.18 dia. hole in the side bulkhead; its retention is not clear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "blower [12] outlet and duct [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [3] connects the blower outlet to the duct [7]; no clamps shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "duct [7]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [4] go through the grille [5] (through the opening in the rear quarter trim panel) into nuts [6] clipped on the duct [7] flange.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Opening required in rear quarter trim panel for grille.",
+    "View A (defogging blower motor cut out): 17/32 +0 -1/64 DIA. (3 HOLES IN PANEL); 4.18 DIA IN SIDE BULKHEAD FOR BLOWER MOTOR SHIELD CLEARANCE; dims 6.33, 4.45, .75, .063, 5.13, 3.38, 2.23, 5.16 from rear bulkhead / break line on side bulkhead.",
+    "View B (L.H. ONLY), carpet cut-out: 8.16, 3.66, .52, 2.30, 5.32, 5.80, 7.30, 1.90, 2.98, 10.40 from carpet top edge / rear edge.",
+    "View C: quarter trim panel opening 3.12 x 5.76, 1.50, 1.34, 5/32 R corners."
+  ],
+  "notes_internal": [
+    "Title block: UPC C50, sheet A4, model 19437, C/O A3, drawing 3965172, K300. Revision record empty.",
+    "Screw [9]/nut [2] pairing inferred from the dashed line through the bulkhead; shield [1] retention not shown.",
+    "View A dimension '2.23' second digit partly faint."
+  ],
+  "revisions": [],
+  "options": [
+    "C50"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

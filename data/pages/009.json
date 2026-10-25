@@ -1,0 +1,51 @@
+{
+  "page": 9,
+  "group": "0",
+  "sheet": "A7",
+  "title": "GENERAL INSTRUCTIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "General installation rules with sketches: setting rivnut-type parts (blind threaded inserts) with a header tool, bottoming spring clips on hose fittings, installing headless tubular and tubular clips that hold emblem studs in body panels, and the formed shape of crimp-type (Oetiker-style ear) hose clamps. No specific parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Rivnut type part installation: thread the nut tight onto the header tool mandrel before upset; the header tool pull-up stud must extend through the nut before upset to avoid deformed or stripped threads; hold header tool and nut perpendicular to the panel; underside of the nut head must be flush to the panel for complete 360° contact with the upset shank.",
+    "Spring clip asm: NOTE All special clips must be bottomed out on hose fitting to provide proper retention. (Sec. A-A)",
+    "Headless tubular clip: put the clip on the emblem stud so it touches the emblem at point A, then push it into the hole in the panel.",
+    "Tubular clip: put the clip in the panel hole with its retention barbs engaged on the back of the panel, then push the emblem stud into the clip until the back of the emblem contacts the panel.",
+    "Hose clamp: the powered tool must form the clamp flat at top after assembly; ear dimensions .12/.21 high, .02 gap."
+  ],
+  "notes_internal": [
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-24-69, C/O A7; model 19000.",
+    "Rev 1 date first character handwritten, reads as '6' or 'C'; left as '?-2-69'. Rev 1 AUTH 25948, rev 2 AUTH 29045.",
+    "Hole punches obscure parts of the rivnut note ('...pendicular to ...el for upset') and 'hose fittin(g)'; wording reconstructed only where unambiguous.",
+    "Circled 1 marks SPRING CLIP ASM (rev 1); circled 2 marks HOSE CLAMP view (rev 2). Sideways 'K7' mark at lower left."
+  ],
+  "revisions": [
+    {
+      "date": "?-2-69",
+      "sym": "1",
+      "text": "SPRING INFO ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-10-70",
+      "sym": "2",
+      "text": "HOSE CLAMP VIEW ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

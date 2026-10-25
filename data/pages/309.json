@@ -1,0 +1,298 @@
+{
+  "page": 309,
+  "group": "C60",
+  "sheet": "A7",
+  "title": "AIR CONDITIONING-SIDE OUTLET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60): the right- and left-hand side outlet ducts under the instrument panel that feed the dash-end A/C vents, with their seals to the center outlet duct and selector, and the swivel deflector (under-dash vent ball) at the bottom of each side duct. The center outlet duct is screwed to the selector over a cemented seal; the LH side duct is screwed up into a clip nut on an instrument panel bracket; each deflector is stacked with felts and an adapter and held by a retainer and screw, set to a rotating effort of 8-24 oz.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "394998?",
+      "name": "DUCT-SIDE OUTLET-R.H.",
+      "name_expanded": "Duct – A/C side outlet, right hand",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3917329",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3885999",
+      "name": "NUT",
+      "name_expanded": "Nut (clip-on type, per drawing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419303",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3949987",
+      "name": "DUCT-SIDE OUTLET-L.H.",
+      "name_expanded": "Duct – A/C side outlet, left hand",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3937114",
+      "name": "SEAL",
+      "name_expanded": "Seal – RH side outlet duct to center outlet duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3937112",
+      "name": "SEAL",
+      "name_expanded": "Seal – center outlet duct to selector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9421936",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419778",
+      "name": "SCREW",
+      "name_expanded": "Screw – deflector retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3146637",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – deflector (spring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3906003",
+      "name": "FELT",
+      "name_expanded": "Felt washer – deflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "?906004",
+      "name": "ADAPTER",
+      "name_expanded": "Adapter – deflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3906002",
+      "name": "DEFLECTOR",
+      "name_expanded": "Deflector – under-dash swivel outlet (A/C 'ball' vent)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-25",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51x",
+      "description": "CEMENT",
+      "amount": "Approx. .001 oz.",
+      "where": "spacer [2] on the RH side outlet duct [1]"
+    },
+    {
+      "key": "A",
+      "code": "51y",
+      "description": "CEMENT",
+      "amount": "Approx. .05 oz.",
+      "where": "View A, seal [7] on the selector outlet face"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51x",
+      "holds": [
+        "2"
+      ],
+      "to": "RH side outlet duct [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spacer [2] cemented with 51x to the side of duct [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "how": "seals",
+      "holds": [
+        "1"
+      ],
+      "to": "center outlet duct",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [6] sits between the RH side outlet duct [1] and the center outlet duct's right outlet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51y",
+      "holds": [
+        "7"
+      ],
+      "to": "selector asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: seal [7] cemented with 51y around the selector opening that mates with the center outlet duct.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [],
+      "to": "selector asm.",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View A: screw [8] through the center outlet duct's tab into the selector, clamping seal [7] between them.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "instrument panel bracket",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [4] goes up through the LH side outlet duct [5] mounting tab into clip nut [3] on the instrument panel bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10"
+      ],
+      "holds": [
+        "13",
+        "11",
+        "12"
+      ],
+      "to": "bottom of each side outlet duct [1] and [5]",
+      "qty": "1 per duct",
+      "torque_ref": null,
+      "note": "View B, stack from top: screw [9], retainer [10], felt [11], adapter [12], felt [11], deflector [13]. Note B: effort to rotate the deflector 8-24 oz. after assembly.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "B: Effort to rotate to be 8-24 oz. in after asm.",
+    "CENTER OUTLET DUCT (hole symbol)"
+  ],
+  "notes_internal": [
+    "Item 1: last digit cut off by scan damage; reads '394998' + unreadable.",
+    "Item 12: first digit very faint; visible '906004'.",
+    "Item 13 second '0' slightly broken; read 3906002.",
+    "Duct [1] retention to the instrument panel is not shown beyond its seal/spacer; no fastener called out for it.",
+    "Materials legend has both 51x and 51y under key 'A' box; key column repeated.",
+    "Revision 1 date mostly illegible ('?-?-70').",
+    "Sideways 'K307' by torque legend. Title block: drawing 3965172, L-84287, L-88249, DR CI, CK 5-8-69 CI, PREL 5-1-69, C/O A7."
+  ],
+  "revisions": [
+    {
+      "date": "?-?-70",
+      "sym": "1",
+      "text": "SEAL DRAWING REVISED (2) PLACES",
+      "was": null,
+      "item": "6"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

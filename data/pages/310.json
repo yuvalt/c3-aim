@@ -1,0 +1,138 @@
+{
+  "page": 310,
+  "group": "C60",
+  "sheet": "A8",
+  "title": "AIR CONDITIONING-PLENUM PANELS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air-conditioned cars (C60): fiberglass panels at the cowl plenum (the air intake area under the cowl/windshield, behind the front fenders). The center plenum filler panel is bonded in, a tapping plate is riveted to it, and LH/RH covers plus a vent-hole cover close off openings in the plenum side area; covers are bonded (bond \"K\").",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "396??42",
+      "name": "PANEL-CTR PLENUM FILLER",
+      "name_expanded": "Panel - center plenum filler",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3964143",
+      "name": "PLATE-TAPPING",
+      "name_expanded": "Tapping plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "455622",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3922431-2",
+      "name": "COVER",
+      "name_expanded": "Cover (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919719",
+      "name": "COVER-VENT HOLE",
+      "name_expanded": "Cover - vent hole",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "plenum side panel, strip-lower outer W/S bonding and dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Center plenum filler [1] is bonded (bond \"B\") at its upper end to the plenum side panel and at its lower flange; bond spec not in a legend on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "plenum panel below the front fender (the panel with two holes and a slot)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tapping plate [2] is riveted on with rivets [3] (main view), over the holes and slot in the plenum panel; it gives a threaded anchor for a fastener from another sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "4"
+      ],
+      "to": "plenum / dash panel area",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Covers [4] are bonded in with bond \"K\" (main view and View A, LH side).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "5"
+      ],
+      "to": "body side panel, LH side (View A)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: vent-hole cover [5] sits over a hole in the side panel; no fastener or bond tag shown for it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch wipes the 4th and 5th digits; visible \"396\" + \"42\".",
+    "Bond \"B\"/\"K\" are bonding codes with no legend on this sheet; recorded in fastening notes, not materials.",
+    "Item 5 attachment not shown; assumed it simply covers the hole (how=seals).",
+    "Revision block has 5 blank triangle symbols and no entries."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

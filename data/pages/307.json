@@ -1,0 +1,259 @@
+{
+  "page": 307,
+  "group": "C60",
+  "sheet": "A5",
+  "title": "AIR CONDITIONING-SELECTOR & DISTRIBUTOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60): the A/C selector (air distributor/selector housing) under the right side of the dash and the distributor duct that runs behind the instrument panel/console to the outlets. The selector is screwed to the dash and to mounting plates that are riveted to the dash; the distributor duct is screwed in at the console. A right-hand chart cover (convertible 19467) screws to the production panel at the console side.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3984658",
+      "name": "SELECTOR ASM.",
+      "name_expanded": "A/C selector (air distribution) housing assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3906007",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9427398",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3946979",
+      "name": "DUCT ASM.-DIST.",
+      "name_expanded": "Duct assembly – A/C distributor (behind instrument panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3918537",
+      "name": "PLATE",
+      "name_expanded": "Plate – selector mounting (riveted to dash)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3915336",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3863393",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3954504",
+      "name": "CHART-COVER R.H.",
+      "name_expanded": "Chart cover – right hand (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: plates [5] riveted [6] to the dash, set at 25°30' from horizontal and parallel to the dash hole. View B: rivet holes drilled in the dash (typical) .191/.199 dia, countersunk 100° to .34 dia.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "dash (upper flange of selector)",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Main view: screw [8] through the selector [1] upper mounting flange, at its upper right.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body/dash at the right side of the selector",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Main view: screw [2] into the right end of the selector [1] housing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "instrument panel / console area",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: screw [3] goes through the distributor duct [4] tab at the instrument cluster side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "production panel (console side)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: chart cover [9] (19467) is screwed with screw [10] to the production panel; the panel itself uses its production screw (revision 3).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".191/.199 DIA. HOLE; .34 DIA; 100°",
+    "VIEW B: RIVET HOLE DRILLING IN DASH (TYPICAL)",
+    "PLATE PARALLAL TO DASH HOLE",
+    "25°30' (to) HORIZONTAL",
+    "DASH MAT (SEE UPC 1)",
+    "(SEE UPC 1) A"
+  ],
+  "notes_internal": [
+    "U-nut [7]: no callout found in the drawing; left out of fastening (probably receives screw [2] or [8]).",
+    "Exact receiving points of screws [2], [3] and [8] approximate; drawing shows leader lines to the selector/duct, not what they thread into.",
+    "Callout 'A' with '(SEE UPC 1)' points to two fasteners at the left end of the duct area; they belong to UPC 1 and are not item numbers here.",
+    "Revision 1 date illegible. Rev 4 pn read '3949877' (8 drawn like B).",
+    "Sideways 'K305' by torque legend. Title block: drawing 3965172, L-84365, DR WO/CI, CK 5-8-69 CI, PREL 5-2-69, C/O A5."
+  ],
+  "revisions": [
+    {
+      "date": "?",
+      "sym": "1",
+      "text": "ITEM 9 & 10 ADDED",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "CONSOLE DRAWING ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "PROD PANEL & SCREW ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-13-70",
+      "sym": "4",
+      "text": "WAS 3949877 SELECTOR",
+      "was": "3949877",
+      "item": "1"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

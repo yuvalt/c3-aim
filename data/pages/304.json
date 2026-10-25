@@ -1,0 +1,120 @@
+{
+  "page": 304,
+  "group": "C60",
+  "sheet": "A2",
+  "title": "AIR CONDITIONING-NON-ILLUSTRATED PARTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Air conditioning option (RPO C60): list of A/C components that this RPO does not illustrate, grouped by the base-manual UPC they belong to (underbody splash shields, console tunnel plate, heater control housing, rear vent plenum door frame, front springs, water pump & drive, radiator support, radiator and radiator shroud). Most assemble the same as production; the radiator and shroud install the same as RPO LS5. No part numbers are given on this sheet; see the parts list.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers.",
+    "(half-circle symbol) Assembles same as production. See Parts List or Bill of Materials for part numbers."
+  ],
+  "notes_internal": [
+    "List-only page: no drawing, no callouts, no part numbers, so no parts or fastening.",
+    "Half-filled circle symbol after an entry = 'Assembles same as production'; recorded in the table 'same as' column.",
+    "Revision 1 symbol (circled 1) sits next to 6K2 WATER PUMP & DRIVE.",
+    "Revision date last digits partly lost ('7-7-?9'); pn/code after WAS reads '6K' + an unclear character (likely matching 6K2 on the page, but not confirmed). AUTH number partly illegible.",
+    "Sideways 'K302' above the title block. Title block: drawing 3965172, DR WO/CI, CK 5-8-69 CI, PREL 5-2-69, C/O A2."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-?9",
+      "sym": "1",
+      "text": "WAS 6K? RADIATOR HOSES",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "COMPONENTS NOT ILLUSTRATED IN THIS R.P.O.",
+      "columns": [
+        "UPC",
+        "UPC name",
+        "code",
+        "component",
+        "same as"
+      ],
+      "rows": [
+        [
+          "A01",
+          "UNDERBODY BASIC BODY STRUCTURE",
+          "A01",
+          "UNDERBODY SPLASH SHIELDS",
+          "production"
+        ],
+        [
+          "A06",
+          "UNDERBODY UPHOLSTERY ITEMS",
+          "A06",
+          "PLATE ASM-U/B TUN FRT CNSL TR",
+          "production or RPO M40"
+        ],
+        [
+          "B1201",
+          "HEATER & DEFROSTER PROVISIONS",
+          "B1201",
+          "HOUSING-HEATER CONTROL",
+          "production"
+        ],
+        [
+          "E10",
+          "QUARTERS, RR END & RR COMPARTMENT VENTILATION",
+          "E10",
+          "FRAME BODY RR VENT PLENUM DOOR",
+          ""
+        ],
+        [
+          "3",
+          "FRONT SUSPENSION",
+          "3C",
+          "FRONT SPRINGS",
+          "production"
+        ],
+        [
+          "6",
+          "WATER PUMP & DRIVE",
+          "6K2",
+          "WATER PUMP & DRIVE",
+          "production"
+        ],
+        [
+          "11E",
+          "MISCELLANEOUS FRONT END SHEET METAL",
+          "11E",
+          "SUPPORT ASM. - RADIATOR",
+          "production"
+        ],
+        [
+          "13",
+          "RADIATOR & GRILLE",
+          "13A",
+          "RADIATOR ASM.",
+          "RPO LS5"
+        ],
+        [
+          "13",
+          "RADIATOR & GRILLE",
+          "13E",
+          "RADIATOR SHROUD",
+          "RPO LS5"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

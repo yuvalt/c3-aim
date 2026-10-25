@@ -1,0 +1,248 @@
+{
+  "page": 290,
+  "group": "C07",
+  "sheet": "A1",
+  "title": "TOP AUXILIARY-CONTENTS",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO C07 auxiliary hardtop (removable hard top for the convertible 19467): contents of the option and the rear hold-down at the body (View A). A bracket is bolted to the body panel with a screw up from below into a nut assembly; a screw through the bracket threads into a special nut, locked by a nut, to catch the top. A chart-cover (instruction cover) is fastened with a rivet and lock washer into two holes drilled using the bracket as template. Other sheets: A2 front & side molding & weatherstrip, A3 rear molding & weatherstrip, A4 headliner & trim, A5/A6 top attachments, A7/A8 side door glass adjustment.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3912778",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (hardtop rear hold-down)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3727973",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3727928",
+      "name": "NUT-SPECIAL",
+      "name_expanded": "Nut – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "272123",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "456756",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3940540",
+      "name": "CHART-COVER ASM.",
+      "name_expanded": "Chart-cover assembly (cover with instruction chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418482",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3759924",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "70-110",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body panel (View A)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [5] goes up from below through bracket [1] and the body panel into nut asm. [8] on top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hardtop rear bracket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [2] goes through bracket [1] and threads into special nut [3], which passes through the top's bracket and is held by nut [4] on the far side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "9"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body panel / bracket area, .128/.132 dia holes",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [7] with lock washer [9] holds the chart-cover [6]; drill .128/.132 dia 2 holes using bracket [1] as template.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".128/.132 DIA. 2 HOLES USE ITEM [1] AS TEMPLATE."
+  ],
+  "notes_internal": [
+    "View A is small; exact stack of screw [2]/special nut [3]/nut [4] read from dashed lines, and torque ref 1 on item 2 vs ref 2 on nut [4] as marked. Where on the car View A sits is not labelled (arrow A near the rear of the top/lock pillar).",
+    "Rivet [7] / washer [9] into the template holes is my reading of the dashed lines; somewhat uncertain.",
+    "Main view callouts A2-A5 point to the areas covered by those sheets.",
+    "Circled 1 beside screw [2] = revision 1; circled 2 in the main view = revision 2 (sticker removed).",
+    "Item 4 pn: a speck between '2' and '7'; read as 272123.",
+    "Title block: drawing 3965172, C/O A1."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "TORQUE 1 USAGE REVISED",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "\"CARRYOVER\" STICKER RMV'D",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C07"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "Sheet",
+        "Title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "FRONT & SIDE MOLDING & W/STRIP"
+        ],
+        [
+          "A3",
+          "REAR MOLDING & WEATHER STRIP"
+        ],
+        [
+          "A4",
+          "HEADLINER & TRIM"
+        ],
+        [
+          "A5",
+          "TOP ATTACHMENTS"
+        ],
+        [
+          "A6",
+          "REAR CENTER TOP ATTACHMENT"
+        ],
+        [
+          "A7",
+          "SIDE DOOR GLASS ADJ PROCEDURE"
+        ],
+        [
+          "A8",
+          "SIDE DOOR GLASS ADJ PROCEDURE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

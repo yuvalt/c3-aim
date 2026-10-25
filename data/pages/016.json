@@ -1,0 +1,164 @@
+{
+  "page": 16,
+  "group": "0",
+  "sheet": "B1",
+  "title": "LABELS & STICKERS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Where the factory labels go: vehicle certification label with its overlay on the left door edge/lock pillar area (View B), tire pressure sticker inside the car, the engine tune-up sticker and fuel vapor emission sticker on the panel above the brake master cylinder in the engine compartment (View A), and the window price label (Monroney) on the left front door glass near the top rear. All are adhesive/self-stick; no fasteners.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3975433",
+      "name": "LABEL-VEHICLE CERTIFICATION",
+      "name_expanded": "Label – vehicle certification (federal safety standards / VIN date label)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3983908",
+      "name": "OVERLAY-VEHICLE CERTIFICATION",
+      "name_expanded": "Overlay – vehicle certification label (clear cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "",
+      "name": "STICKER-TIRE PRESSURE",
+      "name_expanded": "Sticker – tire pressure",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3989358",
+      "name": "CHART-ENG TUNE-UP STICKER",
+      "name_expanded": "Chart – engine tune-up sticker (emission/tune-up decal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3980217",
+      "name": "CHART-FUEL VAPOR EMISSION STICKER",
+      "name_expanded": "Chart – fuel vapor emission sticker (evaporative emission decal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "",
+      "code": "59a",
+      "description": "ADHESIVE",
+      "amount": ".0037 GAL",
+      "where": "price label on LH front door glass (tag 59a next to note A in main view)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "59a",
+      "holds": [],
+      "to": "LH front door window glass, near top rear",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Price label (note A, no part number) stuck to the glass with adhesive 59a.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "door edge / lock pillar area (View B)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: certification label [1] sits under overlay [2], which covers it and sticks to the panel around it. No separate fasteners. Label text: date filled in month & year (note C), block capitals not under 3/32 in. high (D), ident number same as VIN and rating plate (E).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "panel above the brake master cylinder (View A, engine compartment)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: tune-up chart [4] above fuel vapor emission chart [5], both self-adhesive, positioned so they read from the front of the vehicle (note B).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A PRICE LABEL-Location: Left front door window near top rear of glass.",
+    "B Position so that label may be read from front of vehicle.",
+    "C Current month & year in numerals.",
+    "D Letter in block capitals & numerals not less than 3/32 in. high (11 Pt type preferred).",
+    "E Identification number must be same as vehicle ident number & rating plate.",
+    "View C label text: MFD BY GENERAL MOTORS CORP DATE / THIS VEHICLE CONFORMS TO ALL APPLICABLE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IN EFFECT ON THE DATE OF MANUFACTURE SHOWN ABOVE / 19000 0 S 700001 / GM. Dimensions 1.30 high, .75, .30, 1.25."
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch covers digits 3-6; visible '39' + '3' (last digit). Written 39????3.",
+    "Item 3 has no part number printed.",
+    "Item 3 (tire pressure sticker): callout points inside the car behind the windshield, roughly at the instrument panel / glove box area; exact surface not clear, so no fastening entry.",
+    "View B surface: arrow B in main view points at the rear edge of the LH door; View B looks like the door lock pillar / door rear edge with label 1 + overlay 2, but it's not labelled - described as 'door edge / lock pillar area'.",
+    "Price-label fastening note: the 59a tag sits beside note A pointing to the hatched label on the door glass; the 59A legend also has a leader curving toward View B, so 59a may also apply to label [1]. Unsure.",
+    "Rev 3 'WAS 3980216 CHART' is flagged by circled 3 at item 4 (3989358), not item 5; item set accordingly.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-20-69, C/O B1; model 19000. Sheet id partly smudged, C/O box confirms B1. Sideways 'K14' mark."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED 27449 26531 26746",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "11-7-69",
+      "sym": "2",
+      "text": "WAS 3975434 OVERLAY",
+      "was": "3975434",
+      "item": "2"
+    },
+    {
+      "date": "1-27-70",
+      "sym": "3",
+      "text": "WAS 3980216 CHART",
+      "was": "3980216",
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

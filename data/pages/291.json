@@ -1,0 +1,398 @@
+{
+  "page": 291,
+  "group": "C07",
+  "sheet": "A2",
+  "title": "TOP AUXILIARY- FRONT & SIDE MOLDING & W/STRIP",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) with the C07 auxiliary removable hardtop: the front header molding and weatherstrip, the side (door-opening) moldings and weatherstrips, cap moldings at the front corners, and the seal strips on the hardtop's edges. Side molding/weatherstrip are screwed through special washers into the roof flange; the corner cap moldings are held by a screw and a rivet; sealing compound and lubricant go on the joints. Related sheet: A3 (rear molding & weatherstrip).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3926408",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hardtop front (header)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(blank callout)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3912797-8",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hardtop side (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(blank callout)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3922439",
+      "name": "WASHER-SPL.",
+      "name_expanded": "Washer – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9420721",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3964135-6",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – hardtop side / door glass upper seal (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9427909",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3972305-6",
+      "name": "CAP-MOLDING",
+      "name_expanded": "Cap – molding, front corner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3974087",
+      "name": "WEATHER STRIP ASM.",
+      "name_expanded": "Weatherstrip assembly – hardtop front header (windshield header seal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "4799768",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "?428712",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3958736",
+      "name": "STRIP-SEAL",
+      "name_expanded": "Strip – seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9427834",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "4876498",
+      "name": "FASTENER",
+      "name_expanded": "Fastener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3976532",
+      "name": "STRIP-SEALER",
+      "name_expanded": "Strip – sealer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11e",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "front end of the side weatherstrip/molding [3]/[7] (main view)"
+    },
+    {
+      "key": "C",
+      "code": "84n",
+      "description": "SEALING COMPOUND",
+      "amount": null,
+      "where": "View B, end of front molding [1]; main view at cap molding [9]"
+    },
+    {
+      "key": null,
+      "code": "84p",
+      "description": "SEALING COMPOUND",
+      "amount": "2.0 OZ.",
+      "where": "View A, at screw [6] / seal strip [13] between molding [3] and roof"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "3",
+        "7"
+      ],
+      "to": "hardtop roof side rail flange",
+      "qty": "5 per side",
+      "torque_ref": "1",
+      "note": "Main view and View A: screw [6] through special washer [5] at each hole along the side weatherstrip [7] / molding [3]; View A shows the screw going up through the washer into the roof flange with the weatherstrip lobe below. Drill .128/.132 dia (5) holes each side using [3] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "hardtop roof, lower rear end of side rail",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [14] goes through the lower end of the side weatherstrip [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "hardtop roof, front header",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [8] go up through the holes in the header/side strip flange (main view, dashed lines).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "12"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "hardtop roof, front corner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: cap molding [9] is fastened from below by screw [11] and rivet [12]. Drill .128/.132 dia (1) hole each side and a .150 dia hole .312 deep, using [9] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "1",
+        "10"
+      ],
+      "to": "hardtop front header",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fastener [15] goes up (dashed line) into a hole in the front molding [1] / header weatherstrip [10] (main view, near arrow C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "how": "seals",
+      "holds": [
+        "3"
+      ],
+      "to": "hardtop roof side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: seal strip [13] sits between side molding [3] and the roof; 84p sealing compound applied there.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "how": "seals",
+      "holds": [
+        "7"
+      ],
+      "to": "hardtop roof side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Strip-sealer [16] runs along the side rail with the weatherstrip [7] (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "84n",
+      "holds": [
+        "1"
+      ],
+      "to": "hardtop front header / weatherstrip [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "84n sealing compound at the end of the front molding [1] (View B) and at cap molding [9] (main view).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".128 .132 DIA (1) HOLE EACH SIDE USE [9] AS TEMPLATE",
+    ".150 DIA HOLE .312 DEEP USE [9] AS TEMPLATE",
+    "128/.132 DIA (5) HOLES EA SIDE USE [3] AS TEMPLATE"
+  ],
+  "notes_internal": [
+    "Items 2 and 4: callout boxes with no pn/name (deleted lines); item 2 still points to the front corner piece in the main view.",
+    "Item 12: first digit damaged/overprinted; reads like 3 but malformed (OCR 3428712). Left as ?.",
+    "Torque legend shows triangles 1-5 but only 1 has a value (15-20 LBS IN). Sideways 'K289' beside the legend.",
+    "Material legend: key A = 11e, key B row blank (51w solvent removed, rev 4), key C = 84n; 84p row has no key letter and reads '2.0 OZ.' under 'SEALING COMPOUND' - description assumed shared.",
+    "Rivet [8] and fastener [15] targets read from dashed lines in the main view; which of [1]/[10] fastener [15] holds is ambiguous.",
+    "Circled numbers 4-9 in the drawing are revision symbols.",
+    "Title block: DR DP/C1, CK 5-6-69 C1, PREL 4-29-69, C/O A2, 84736."
+  ],
+  "revisions": [
+    {
+      "date": "10-2?-69",
+      "sym": "4",
+      "text": "51W SOLVENT RMV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM 16 ADDED",
+      "was": null,
+      "item": "16"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "9419791 SCREW RMVD",
+      "was": "9419791",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "W/STRIP DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-15-70",
+      "sym": "8",
+      "text": "W/STRIP DRAWING REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "39456?? SEAL STRIP REMOVED",
+      "was": "39456??",
+      "item": null
+    }
+  ],
+  "options": [
+    "C07"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "page": 12,
+  "group": "0",
+  "sheet": "A10",
+  "title": "COWL & DASH PANEL HOLE PIERCING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Holes to drill or pierce in the cowl and dash panel (firewall, seen from the engine side) before installing other parts: two .37 holes and an 11/16 hole for all cars (UPC 1), extra holes at existing dimples for RPO C60 air conditioning, and a 1.00 and 7/32 hole for RPO M20 4-speed. Locations are dimensioned from the circled body grid lines. No parts installed on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "A UPC 1: 1. .37 ± .01 Dia. (2) holes using cover dash as a template. 2. 11/16 ± .02 Dia. hole at existing dimple.",
+    "B RPO C60: 1. 11/16 ± .02 Dia. hole at existing dimple. 2. 1.62 ± .02 Dia. hole at existing dimple. 3. 7/32 + 0 - 1/64 Dia. (4) holes at location shown.",
+    "C RPO M20: 1. 1.00 Dia. hole. 2. 7/32 Dia. hole.",
+    "Dimensions shown on main view: .64, 1.00, 2.14, 6.65, .68, 1.85, 1.84, .26, 1.68, 1.25, 1.45. View A: 1.71, .11."
+  ],
+  "notes_internal": [
+    "Hole-location sheet: boxed codes (A1, A2, B2, B3, C1, C2) mark holes in the drawing; no part numbers, so no parts/fastening.",
+    "Large circled numbers 0, 5, 15, 20, 25, 30 on lines through the panel are body grid/reference lines, not callouts or revision symbols. Small circled 1-5 next to codes are revision symbols.",
+    "B1 (11/16 hole for C60) is not flagged in the drawing that I could find; locations of A1, A2, B2, B3, C1, C2 are flagged.",
+    "'±' read from a '+' with underline in the notes and rev 1.",
+    "Title block drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-24-69, C/O A10, ECR blank; L-89744; model 19000. Rev 1 AUTH 25987 DR RS; rev 2 25987 JD; rev 4 28321; rev 5 CK C1. Only rev 1 dated."
+  ],
+  "revisions": [
+    {
+      "date": "1-7-70",
+      "sym": "1",
+      "text": "ITEM A-2 WAS 1.62 ± .02",
+      "was": "1.62 ± .02",
+      "item": "A2"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "NOTE C2 ADDED",
+      "was": null,
+      "item": "C2"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SYM C2 WAS SYM C1 (2 PLACES)",
+      "was": "C1",
+      "item": "C2"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SYM B2 WAS SYM A2",
+      "was": "A2",
+      "item": "B2"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "SYM A2 WAS SYM B2",
+      "was": "B2",
+      "item": "A2"
+    }
+  ],
+  "options": [
+    "C60",
+    "M20"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
