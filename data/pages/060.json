@@ -1,0 +1,160 @@
+{
+  "page": 60,
+  "group": "1",
+  "sheet": "B10",
+  "title": "REAR LOWER PANEL TO REAR UPPER PANEL & TRIM BRACKET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear body: the rear lower panel (the panel under the four taillights, rear valance/rear end panel) is bonded to the rear upper panel with bonding strips (bond H), the tail pipe bezel flanges (exhaust outlet bezel mounts) are bonded at the lower rear corners (bond B, View A), and anchor nuts are riveted to the lower panel. On coupes (19437) an outer trim bracket is bonded below the rear window opening (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3936383",
+      "name": "BONDING STRIP",
+      "name_expanded": "Bonding strip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3936???",
+      "name": "PANEL-BODY RR. LOWER",
+      "name_expanded": "Panel – body rear lower (rear end panel under the taillights)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3829910",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3825325",
+      "name": "ANCHOR NUT",
+      "name_expanded": "Anchor nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966547-8",
+      "name": "FLANGE-TAIL PIPE BEZEL",
+      "name_expanded": "Flange – tail pipe (exhaust outlet) bezel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3926237-8",
+      "name": "BRACKET-OUTER",
+      "name_expanded": "Bracket – outer trim bracket at rear window opening (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "rear upper panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bonding strip [1] backs the joint between the rear lower panel [2] and the upper panel above the taillights (bond H); bond H also along the lower edge at the quarter.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "bracket at the lower edge of the rear lower panel [2], under the taillights",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [3] go in from the rear through the bracket holes into anchor nut [4] behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5"
+      ],
+      "to": "rear lower panel [2] lower corner",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: tail pipe bezel flange [5] bonded with bond B at the lower outer corner of the rear panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "6"
+      ],
+      "to": "body below the rear window opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B (19437 only): bracket [6] bonded with bond B, .86 below the opening edge and 15.07 outboard of the car centerline.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "View B (19437): .86; 15.07 to centerline of car"
+  ],
+  "notes_internal": [
+    "Item 1: top of the line cut off at the page edge; only the lower halves of the digits show (looks like '...2?99'), item number box also cut off; assumed item 1 from order.",
+    "Item 2: hole punch wipes out the last 3 digits; visible '3936'.",
+    "Item 6 bracket appears only in View B labelled 19437, though the parts list gives no model code.",
+    "Revision 1 date: first digit cut at the cell edge, reads '?-2-69'.",
+    "Lower-left torque triangles are empty; 'K58' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "?-2-69",
+      "sym": "1",
+      "text": "VIEW A REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "page": 74,
+  "group": "1",
+  "sheet": "D1",
+  "title": "BODY - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents sheet for the body assembly section (UPC 1, sheets D1-D10 and E1-E11): windshield wiper access door (the vacuum-operated wiper door at the cowl) controls, actuator and grille, wiper motor and linkage, washer hoses and jar, wiper setting procedure, dash mat and insulators, headlamp washer hoses, instrument panel pad and lower panels, wiper switches and map holder, front/rear consoles, underbody stowage compartments, cowl vent and kick panel, sunshades and inside mirror. A car drawing points to where each sheet's parts sit.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE Front of Dash Sealing See UPC 1."
+  ],
+  "notes_internal": [
+    "Drawing: perspective car (top removed) with sheet boxes: D7 (washer jar, front LH engine area), D10/D4 (actuator at cowl), E10 (cowl vent/kick panel), D6 (wiper arm/linkage at the windshield base), E11 (sunshades and mirror at the header), E1/E2 (instrument panel), D3/D5 (wiper access door control under cowl), E8/E9 (stowage compartments behind seats), D9 (dash mat/splash shield at the firewall), E4/E5/E6/E7 (consoles and tunnel).",
+    "D1 title's first letter is under the binder hole (')ONTENTS'); read as CONTENTS like D2.",
+    "Title block: drawing 3965172, DR DP/C1, CK 4-18-69 C1, PREL 3-20-69, C/O D1, model 19000. UPC box digit has a smudge before it; reads 1 (ASM). Circled (1) at lower right next to sideways 'K72'."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "UPC 1 BODY CONTENTS (D1-E11)",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "D1",
+          "CONTENTS"
+        ],
+        [
+          "D2",
+          "CONTENTS"
+        ],
+        [
+          "D3",
+          "W/S WIPER ACCESS DOOR CONTROL ASM."
+        ],
+        [
+          "D4",
+          "ACTUATOR VALVE & LIMIT SWITCH ASM."
+        ],
+        [
+          "D5",
+          "W/S WIPER ACCESS DOOR & VENT GRILLE"
+        ],
+        [
+          "D6",
+          "W/S WIPER MOTOR, SWITCH ASM. & TRANS LINKAGE"
+        ],
+        [
+          "D7",
+          "W/S WASHER HOSES & JAR"
+        ],
+        [
+          "D8",
+          "W/S WIPER SETTING PROCEDURE"
+        ],
+        [
+          "D9",
+          "DASH MAT, INSULATORS & SPLASH SHIELD"
+        ],
+        [
+          "D10",
+          "HEADLAMP WASHER SYSTEM-HOSES"
+        ],
+        [
+          "E1",
+          "INSTRUMENT PANEL REINF & PAD ASM."
+        ],
+        [
+          "E2",
+          "LWR INSTRUMENT PANELS & STEERING COL. COVER"
+        ],
+        [
+          "E3",
+          "WIPER SWITCHES & MAP HOLDER"
+        ],
+        [
+          "E4",
+          "FRONT & REAR CONSOLE, WIPER RELAY & SIDE TRIM PNLS."
+        ],
+        [
+          "E5",
+          "FRONT CONSOLE & UNDERBODY TUNNEL"
+        ],
+        [
+          "E6",
+          "FRONT CONSOLE TRIM PLATE"
+        ],
+        [
+          "E7",
+          "REAR CONSOLE-UNDERBODY TUNNEL"
+        ],
+        [
+          "E8",
+          "COMPARTMENT-UNDERBODY STOWAGE"
+        ],
+        [
+          "E9",
+          "COMPARTMENT-UNDERBODY STOWAGE"
+        ],
+        [
+          "E10",
+          "COWL VENTILATOR & KICK PANEL"
+        ],
+        [
+          "E11",
+          "SUNSHADE & INSIDE REAR VIEW MIRROR"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

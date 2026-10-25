@@ -1,0 +1,210 @@
+{
+  "page": 75,
+  "group": "1",
+  "sheet": "D2",
+  "title": "BODY-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Second contents sheet for the body assembly section (UPC 1, sheets F1-F32, G1, M1-M7): convertible top and rear deck lid locks, windshield and reveal moldings, roof panels (T-tops) with locks, trim, weatherstrips and stowage, rear window and its stowage and locks, rear grille and plenum air door, outside mirror and emblems, sill plates, rear filler panel and tail pipe bezels, fuel filler door, seat belts and shoulder harness, carpets and insulators, body mounts, and heater/defroster/vacuum controls and ducts. A car drawing points to where each sheet's parts sit.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Drawing: convertible top at left (F1-F7), coupe at right with sheet boxes on the roof, windshield, rear window, rear deck, doors, floor and heater; 'F11 THRU F14' box on the roof panels.",
+    "F19 title partly under the binder hole: printed 'RR. WDO L' ... 'S' (likely LOCKS, not inferred); written with '?' for the hidden letters.",
+    "F28 title partly under the binder hole: 'FRT. CARPETS & INSULA' ... 'RS'; written with '?'.",
+    "F8 reads 'GRANISH' as printed (sic, garnish).",
+    "Rev 1 date: first character covered by a strike line; '?-16-69'.",
+    "Title block: drawing 3965172, DR DP/C1, CK 4-18-69 C1, PREL 3-21-69, C/O D2, model 19000. 'K73' printed sideways at left."
+  ],
+  "revisions": [
+    {
+      "date": "?-16-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "UPC 1 BODY CONTENTS (F1-M7)",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "F1",
+          "TOP ASM & RR LOCKS"
+        ],
+        [
+          "F2",
+          "FOLDING TOP LOCK ASM"
+        ],
+        [
+          "F3",
+          "SIDE RAIL W/STRIP"
+        ],
+        [
+          "F4",
+          "HEADER, W/S SIDE, & LOCK PILLAR W/STRIP"
+        ],
+        [
+          "F5",
+          "LID STRIKER, LOCATOR PIN HOUSING & LID PIN SUPT."
+        ],
+        [
+          "F6",
+          "LID LOCK ASM., BUMPER & HINGE ASM."
+        ],
+        [
+          "F7",
+          "LID CONTROL"
+        ],
+        [
+          "F8",
+          "W/S GRANISH MLDG."
+        ],
+        [
+          "F9",
+          "W/S & LWR REVEAL MLDG."
+        ],
+        [
+          "F10",
+          "SIDE-REVEAL MLDG & SEALING"
+        ],
+        [
+          "F11",
+          "REVEAL MLDG-RF CTR SUPT & UPPER W/S"
+        ],
+        [
+          "F12",
+          "ROOF PNL & STRIKERS & HOUSING"
+        ],
+        [
+          "F13",
+          "ROOF PNL LOCKS"
+        ],
+        [
+          "F14",
+          "ROOF PNL & TRIM ASM."
+        ],
+        [
+          "F15",
+          "CTR. & RR RF INTR TRIM"
+        ],
+        [
+          "F16",
+          "RR. QUARTER & BACK WDO TRIM"
+        ],
+        [
+          "F17",
+          "RR. WDO STOWAGE"
+        ],
+        [
+          "F18",
+          "RR. WDO & SIDE DR W/STRIPS"
+        ],
+        [
+          "F19",
+          "RR. WDO L???S"
+        ],
+        [
+          "F20",
+          "BODY RR. GRL. & RR. PLENUM AIR DOOR-19437"
+        ],
+        [
+          "F21",
+          "BODY RR. GRL. & RR. PLENUM AIR DOOR-19467"
+        ],
+        [
+          "F22",
+          "RR. PLENUM DRAIN"
+        ],
+        [
+          "F23",
+          "O/S RR. VIEW MIRROR, EMBLEM & RADIO ANTENNA HOLE PLUG"
+        ],
+        [
+          "F24",
+          "SILL PLATE & MLDG."
+        ],
+        [
+          "F25",
+          "BODY RR. FILLER PNL. NAME & TAIL PIPE BEZEL"
+        ],
+        [
+          "F26",
+          "FUEL TANK FILLER DOOR"
+        ],
+        [
+          "F27",
+          "SEAT BELT & SHOULDER HARN."
+        ],
+        [
+          "F28",
+          "FRT. CARPETS & INSULA??RS"
+        ],
+        [
+          "F29",
+          "RR. CARPETS & INSULATORS"
+        ],
+        [
+          "F30",
+          "ROOF PNL STOWAGE"
+        ],
+        [
+          "F31",
+          "ROOF PNL W/STRIPS"
+        ],
+        [
+          "F32",
+          "REVEAL & UPPER W/S MLDG."
+        ],
+        [
+          "G1",
+          "BODY MOUNTS"
+        ],
+        [
+          "M1",
+          "HEATER, BLOWER & RESISTOR"
+        ],
+        [
+          "M2",
+          "DEFROSTER GRILLE DUCT & CABLES"
+        ],
+        [
+          "M3",
+          "VACUUM CONTROL ASM & CABLES"
+        ],
+        [
+          "M4",
+          "VACUUM CONTROL HOSE ROUTING"
+        ],
+        [
+          "M5",
+          "HEATER HOSES"
+        ],
+        [
+          "M6",
+          "AIR SIDE OUTLET"
+        ],
+        [
+          "M7",
+          "HEATER-CTR. OUTLET DUCT"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

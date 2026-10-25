@@ -1,0 +1,277 @@
+{
+  "page": 45,
+  "group": "1",
+  "sheet": "A12",
+  "title": "ROOF BOWS, QUARTER PANEL TRIM & HEADLINING BRKTS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) body weld: the rear roof center bow (the cross bow at the rear of the T-top opening / top of the rear window), outer and inner LH/RH, and its joins to the side roof bows, plus the small brackets for quarter panel trim and headlining (headliner) welded to the bows. Everything is spotwelded at given pitches; locating holes are drilled through the inner bow using the outer bow's holes.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3962699",
+      "name": "BOW-ROOF CTR. OUTER",
+      "name_expanded": "Bow – roof center outer (rear roof cross bow)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3962697-8",
+      "name": "BOW-ROOF INNER",
+      "name_expanded": "Bow – roof inner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3934927-8",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (LH/RH), View B, on bow roof side outer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3942737-8",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (LH/RH), View C, on bow roof outer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3935599",
+      "name": "BRACKET",
+      "name_expanded": "Bracket, on bow roof inner",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1A). 1.38 pitch. View A.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1B). 1.38 pitch. View A.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1]",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2A). LH & RH, 1.25 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1]",
+      "qty": "8 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2B). 1.75 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1] & bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2C). 1.38 pitch. Main view and View A.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "bow roof side outer",
+      "qty": "4 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2D). 2.00 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "bow roof side inner & bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2E). 1.62 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "bow roof side inner & bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2F). 1.62 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "bow roof side outer",
+      "qty": "4 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2G). 2.00 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1] & bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2H). 1.38 pitch. Main view and View A.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1]",
+      "qty": "8 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2J). 1.75 pitch, near the car centerline.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "[1]",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2K). LH & RH, 1.25 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "bow roof side outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 3A). LH & RH. View B; .192/.199 dia (2) holes drilled through the inner bow using the outer bow holes.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "bow roof outer",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 4A). LH & RH. View C; .129/.133 dia (2) holes in the inner roof bow using outer roof bow holes.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "bow roof inner",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 5A). LH & RH. Main view right; .192/.199 dia (2) holes through the inner bow.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA (2) HOLES THRU INNER BOW USING HOLES IN OUTER BOW FOR LOCATION",
+    ".129/.133 DIA (2) HOLES IN INNER ROOF BOW USING HOLES IN OUTER ROOF BOW FOR LOCATION",
+    "1A Spotweld [1] to Bow Roof side outer 2 places (1.38 pitch)",
+    "1B Spotweld [1] to Bow Roof side outer 2 places (1.38 pitch)",
+    "2A Spotweld [2] L. & R.H. to [1] 2 places (1.25 pitch)",
+    "2B Spotweld [2] to [1] 8 places (1.75 pitch)",
+    "2C Spotweld [2] to [1] & Bow Roof side outer 2 places (1.38 pitch)",
+    "2D Spotweld [2] to Bow Roof side outer 4 places (2.00 pitch)",
+    "2E Spotweld [2] to Bow Roof side inner & Bow Roof side outer 2 places (1.62 pitch)",
+    "2F Spotweld [2] to Bow Roof side inner & Bow Roof side outer 2 places (1.62 pitch)",
+    "2G Spotweld [2] to Bow Roof side outer 4 places (2.00 pitch)",
+    "2H Spotweld [2] to [1] & Bow Roof side outer 2 places (1.38 pitch)",
+    "2J Spotweld [2] to [1] (1.75 pitch) 8 places",
+    "2K Spotweld [2] L. & R.H. to [1] 2 places (1.25 pitch)",
+    "3A Spotweld [3] to L. & R.H. to Bow Roof side outer 2 places",
+    "4A Spotweld [4] L. & R.H. to Bow Roof outer 2 places",
+    "5A Spotweld [5] L. & R.H. to Bow Roof inner 2 places."
+  ],
+  "notes_internal": [
+    "Weld sheet: entries have no fastener items.",
+    "Circled 1 next to item 2 name = revision 1 (was 3966605-6).",
+    "Which hole note belongs to which bracket is read from leader lines; View B (bracket 3) and the bracket 5 area both carry the .192/.199 note."
+  ],
+  "revisions": [
+    {
+      "date": "2-3-70",
+      "sym": "1",
+      "text": "WAS 3966605-6 BOW-ROOF INNER",
+      "was": "3966605-6",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

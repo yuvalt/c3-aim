@@ -1,0 +1,168 @@
+{
+  "page": 48,
+  "group": "1",
+  "sheet": "A15",
+  "title": "DASH PANEL OUTLETS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Cowl plenum water drains (dash panel outlets) at each side of the plenum, behind the front fenders: a molded outlet bonded into the plenum, a second outlet (drain flapper/duct, LH/RH) clamped onto it with a riveted strap, and the plenum panel filler bonded at the top. Everything is bonded (bonds B, K, L) except the strap, which is closed with a rivet.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3922345-6",
+      "name": "FILLER-PLENUM PANEL",
+      "name_expanded": "Filler – plenum panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3922277-8",
+      "name": "OUTLET-DASH PNL",
+      "name_expanded": "Outlet – dash panel (cowl drain, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3932810",
+      "name": "OUTLET-DASH PNL",
+      "name_expanded": "Outlet – dash panel (molded drain housing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3855120",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3925701-2",
+      "name": "STRAP ASM.",
+      "name_expanded": "Strap assembly (clamp, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "4"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "outlet [3]",
+      "qty": "1 per side",
+      "torque_ref": null,
+      "note": "View A: strap [5] wraps the neck of outlet [2] where it fits over outlet [3]; the strap is closed with rivet [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "outlet [3] / plenum",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Outlet [2] bonded at bond line 'K' (View A and main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "dash panel / plenum side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Outlet [3] bonded around its base at bond line 'B'.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "top of plenum panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Filler [1] bonded at bond line 'L'.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Water test note (rewritten): a severe water test may push some water in through the dash panel outlets; ignore this, as the test is an abnormal condition. With correct installation and normal water conditions, no water should get in. (Ref. G.M. water separati... - text cut off at the page edge.)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 1-4; first glyph faint and not legible. Visible '345-6'.",
+    "Bond lines K, L, B are drawing labels; no material legend on this sheet (rev 3 removed 78a & 78d sealants).",
+    "Circled 1 and 2 under item 5 in the parts list = revs 1-2 (rivet 9428553 and washer 3769610 removed). Circled 3 by the main view, circled 4 at VIEW A.",
+    "Right edge of the NOTE is cut by a hole/page edge.",
+    "Rubber-stamp 'K46' printed sideways at lower right; meaning unclear.",
+    "C/O box reads A-16. No torque values in legend."
+  ],
+  "revisions": [
+    {
+      "date": "1-6-70",
+      "sym": "1",
+      "text": "9428553 RIVET RMV'D",
+      "was": "9428553",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "3769610 WASHER RMV'D",
+      "was": "3769610",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "78a & 78d SEALANTS RMV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "VIEW 'A' REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

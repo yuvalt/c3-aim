@@ -1,0 +1,69 @@
+{
+  "page": 72,
+  "group": "1",
+  "sheet": "C9",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body checking dimensions (bolt-and-weld body structure, all models) at the windshield upper corners and the front roof center: section EE through the front roof center supports upper and lower (front of the T-top center bar), and two diagonal sections (FF, GG) through the windshield frame upper inner, the windshield upper outer-corner reinforcements and the hinge pillar (A-pillar) reinforcements. Measurement data only: no parts list or fasteners.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION EE-EE @ 42.50",
+    "SECTION FF-FF @ DIAGONAL SECTION IN PLAN VIEW",
+    "SECTION GG-GG @ DIAGONAL SECTION IN PLAN VIEW"
+  ],
+  "notes_internal": [
+    "Body-in-white checking-dimension sheet (UPC 1 BOLT WELD): section cuts with dimensions from body reference lines; no callout list, no fasteners, no torques, empty revision block.",
+    "Dimensions table lists each section's printed values in reading order (top to bottom, left to right); which feature each value locates is only visible in the drawing. Reference lines copied as printed (circled grid numbers, SV/RV/WL, F.O.L./B.O.L. arrows).",
+    "FF-FF rightmost vertical dimension: last digit 6 or 8 (OCR 2:68); written 2.6?. Leftmost 2.56: first digit partly blotted but legible.",
+    "GG-GG: one horizontal dimension is printed '70' with no visible decimal point (probably .70); copied as printed.",
+    "Title block: drawing 3965172, L-82110, DR DP/C1, CK 4-30-69 C1, PREL 4-29-69, C/O C9, model 19000. 'K70' printed sideways at lower right."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "CHECKING DIMENSIONS C9",
+      "columns": [
+        "section",
+        "location",
+        "parts shown",
+        "reference lines",
+        "dimensions"
+      ],
+      "rows": [
+        [
+          "EE-EE",
+          "@ 42.50",
+          "SUPPORT ASM-FRONT ROOF CENTER UPPER; SUPPORT-FRONT ROOF CENTER LOWER",
+          "40 RV, ℄ (centerline), B.O.L.",
+          ".77, .33, .72, .38, .78, 1.19, 1.44, 2.88"
+        ],
+        [
+          "FF-FF",
+          "@ DIAGONAL SECTION IN PLAN VIEW",
+          "REINF-W/S UPPER OUTER CORNER; REINF-W/S UPPER CORNER OUTER; FRAME ASM-W/S UPPER INNER",
+          "35 SV, 35, WL 17",
+          "2.49, 2.00, 1.88, 1.70, 1.58, .97, .10, .08, 2.56, 2.47, 2.16, 2.08, 1.50, .64, 1.62, 1.89, 2.56, 2.6?"
+        ],
+        [
+          "GG-GG",
+          "@ DIAGONAL SECTION IN PLAN VIEW",
+          "FRAME ASM-W/S UPPER INNER; REINF-W/S UPPER OUTER CORNER (two leaders); REINF ASM-BODY HINGE PILLAR OUTER; REINF-BODY HINGE PILLAR INNER",
+          "35 SV, WL 15, F.O.L., B.O.L.",
+          "3.56, 2.84, 1.76, 1.61, 1.41, 1.26, 70, .32, .29, 2.46, 1.96, 2.35, .94, .75, 2.07, .71, 1.59, 1.87, 2.41, 2.63, .29, 3.65"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

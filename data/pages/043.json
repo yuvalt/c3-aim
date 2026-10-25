@@ -1,0 +1,125 @@
+{
+  "page": 43,
+  "group": "1",
+  "sheet": "A10",
+  "title": "SIDE ROOF BOWS",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) body weld: the side roof bows (the curved steel roof-rail reinforcements that rise from the lock pillar / B-pillar over the door opening toward the T-top area), outer and inner, LH/RH. The outer bow is spotwelded to the top of the lock pillar and the inner bow is spotwelded to the outer bow and the lock pillar; no bolts or torques.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3908151-2",
+      "name": "BOW ROOF SIDE OUTER",
+      "name_expanded": "Bow – roof side outer (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3908149-50",
+      "name": "BOW ROOF SIDE INNER",
+      "name_expanded": "Bow – roof side inner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "lock pillar",
+      "qty": "12 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1A). Right-hand view: welds around the top of the lock pillar where the outer bow sits on it.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "side roof bow outer [1]",
+      "qty": "6 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2A). View A: along one flange of the inner bow.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "lock pillar & [1]",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2B). View A: lower end of the inner bow.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "lock pillar",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2C). View A: at the bottom tip of the inner bow.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "lock pillar & [1]",
+      "qty": "3 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2D). View A: lower end of the inner bow, opposite flange from 2B.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "side roof bow outer [1]",
+      "qty": "6 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2E). View A: along the other flange of the inner bow.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "1A Spotweld [1] to Lock Pillar 12 places.",
+    "2A Spotweld [2] to [1] 6 places.",
+    "2B Spotweld [2] to Lock Pillar & [1] 2 places.",
+    "2C Spotweld [2] to Lock Pillar 2 places.",
+    "2D Spotweld [2] to Lock Pillar & [1] 3 places.",
+    "2E Spotweld [2] to [1] 6 places."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes two digits after '3'; the partial second character reads as 9, then two digits gone, then '151-2'. Width matches a 7-digit pn.",
+    "Weld sheet: fastening entries are spotwelds with no fastener items."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

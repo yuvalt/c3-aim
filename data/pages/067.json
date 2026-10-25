@@ -1,0 +1,35 @@
+{
+  "page": 67,
+  "group": "1",
+  "sheet": "C4",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body (bolt/weld) checking dimensions, all models, continued: cross-sections of the windshield frame lower inner/outer panels and the LH and RH windshield frame lower corners (cowl corners at the base of the windshield pillars), plus the front hinge pillar (A-pillar) inner and outer reinforcements, measured from the body grid lines. No parts or fasteners are listed.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION J-J @ DIAGONAL SECTION IN PLAN VIEW: FRAME ASM-W/S LOWER INNER, FRAME-W/S LOWER OUTER; grid 15 (F.O.L.), 25 (B.O.L.), WL3; dimensions .65, .92, .77, .0?, .05, .75, .16, .77, 1.00, .54, 1.97, 2.20.",
+    "SECTION K-K @ DIAGONAL SECTION IN PLAN VIEW: FRAME ASM-W/S LOWER CORNER INNER L.H., FRAME W/S LOWER CORNER OUTER; grid 25 (B.O.L.), 25, WL ?; dimensions .38, .22, .09, 4.12, 3.52, 3.42, 3.11, 2.50, 2.33, .11, .43.",
+    "SECTION L-L @ SECTION CUT IN TRUE VIEW: FRAME ASM-W/S LOWER CORNER INNER R.H., FRAME-W/S LOWER CORNER OUTER; grid WL14, 25 (B.O.L.), 35; dimensions .38, .22, .09, 4.12, 3.52, 3.42, 3.11, 2.50, 2.33, .11, .43.",
+    "SECTION M-M @ DIAGONAL SECTION IN PLAN VIEW: REINF-BODY HINGE PILLAR INNER, REINF-BODY HINGE PILLAR OUTER; grid WL16, WL5; dimensions 3.98, 3.09, 2.57, 1.90, 2.05, 2.42, 2.17, 1.86, .57, 3.10."
+  ],
+  "notes_internal": [
+    "Dimension sheet: no callout list, part numbers, torques or revisions; fastening empty because nothing is fastened on this sheet.",
+    "Drawing number 3965172; UPC box reads '1 BOLT WELD'. 'K65' printed sideways at lower left.",
+    "Section J-J: the '.0?' dimension (just above .05) has a blotted second digit, looks like 9 but could be 8.",
+    "Section K-K: WL grid circle at top is partly lost to a hole punch; number unreadable."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

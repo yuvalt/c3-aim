@@ -1,0 +1,227 @@
+{
+  "page": 51,
+  "group": "1",
+  "sheet": "B1",
+  "title": "UNDERBODY-SEAT & SEAT BELT MOUNTING ATTACHMENTS",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Floor pan (underbody) hardware for the seats and seat belts: the front seat mounting reinforcements (seat track mounting strips, LH/RH), the rear seat anchor plates, the inner seat belt mounting plate on the tunnel, and floor hole plugs. All are riveted to the fiberglass floor, holes drilled using the parts as templates; the inner belt plate area gets 57b cement.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3908123-4",
+      "name": "REINF. ASM.-FRT SEAT MOUNTING",
+      "name_expanded": "Reinforcement assembly – front seat mounting (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3828550",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3932814",
+      "name": "PLATE-SEAT MTG REAR ANCHOR",
+      "name_expanded": "Plate – seat mounting rear anchor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3977715",
+      "name": "PLATE ASM-INNER SEAT BELT MTG.",
+      "name_expanded": "Plate assembly – inner seat belt mounting (tunnel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "4725594",
+      "name": "PLUG",
+      "name_expanded": "Plug (floor hole)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3948148",
+      "name": "PLUG",
+      "name_expanded": "Plug",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "57b",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "inner seat belt mounting plate [7] / rear anchor plate [6] at the tunnel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "floor pan under the seat",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [2] go down through the floor into the front seat mounting reinforcement [1] along its length; a rivet [3] at the rear end. Seat bolt holes 27/64 dia (4 places) drilled using [1] as template.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "2"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "floor pan at rear of seat",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [4] (and [2] on the inboard pad) go down through raised pads in the floor into rear anchor plates [6] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "4"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "tunnel side of the floor",
+      "qty": "12 holes",
+      "torque_ref": null,
+      "note": "Inner seat belt mounting plate [7] riveted at its feet; .192/.199 dia holes (12 places) drilled using the plate as template. 57b cement at the plate.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "57b",
+      "holds": [
+        "7"
+      ],
+      "to": "floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "57b cement where plate [7] meets the anchor plate [6] area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "floor pan holes",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plugs [8] push into holes in the floor pan (3 shown).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "tunnel / floor hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [12] pushes into a hole near the tunnel (shown at right).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "27/64 +0 -?64 DIA (4PLACES) USE [1] AS TEMPLATE",
+    ".192/.199 DIA (12) PLACES USE PLATE AS TEMPLATE"
+  ],
+  "notes_internal": [
+    "Callouts 5, 9, 10, 11 are empty in the parts list (no pn), left out.",
+    "Item 3: second digit faint ('3·28549'), reads 8.",
+    "27/64 tolerance handwritten as '+0' over '-64' with the minus-tolerance numerator not legible; written '-?64'.",
+    "Exact rivet-to-hole assignment for [2]/[4] at [6] and [7] is not fully clear from the leaders.",
+    "Circled 3 at three places on the drawing = rev 3 (hole drilling note removed, 3 places). No rev 1 in the block.",
+    "Rubber-stamp 'K49' beside the empty torque triangles. C/O box reads B1."
+  ],
+  "revisions": [
+    {
+      "date": "10-31-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-13-70",
+      "sym": "3",
+      "text": "HOLE DRILLING NOTE RMV'D (3) PLACES",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

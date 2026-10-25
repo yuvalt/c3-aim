@@ -1,0 +1,187 @@
+{
+  "page": 36,
+  "group": "1",
+  "sheet": "A3",
+  "title": "HINGE PILLAR INNER & OUTER REINF",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Door hinge pillar (A-pillar / windshield pillar) steel reinforcement in the body: the inner reinforcement (LH/RH) is spot-welded to the outer reinforcement along its length, with a small plate welded between them at the hinge area, and the joint flange sealed with sealer-adhesive 86a. Two small brackets are riveted onto the inner reinforcement (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3926375",
+      "name": "REINF ASM-BODY HINGE PILLAR INNER L.H.",
+      "name_expanded": "Reinforcement assembly – body hinge pillar inner, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "1",
+      "pn": "3904982",
+      "name": "R.H.",
+      "name_expanded": "Reinforcement assembly – body hinge pillar inner, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3908143-4",
+      "name": "PLATE",
+      "name_expanded": "Plate (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3940597-8",
+      "name": "REINF ASM-HINGE PILLAR OUTER",
+      "name_expanded": "Reinforcement assembly – hinge pillar outer (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919637-8",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919639",
+      "name": "BRACKET",
+      "name_expanded": "Bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "86a",
+      "description": "SEALER-ADHESIVE",
+      "amount": ".22 LBS.",
+      "where": "entire flange between inner reinforcement [1] and outer reinforcement [3] (top of View A)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "outer reinforcement [3]",
+      "qty": "5 places (2A) + 4 places (2B)",
+      "torque_ref": null,
+      "note": "Spot welds. Plate [2] sits at the lower (hinge) end of the pillar; weld marks 2A and 2B in the right-hand view.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "inner reinforcement [1]",
+      "qty": "2 places (2C)",
+      "torque_ref": null,
+      "note": "Spot welds 2C at the top of the plate where it meets the inner reinforcement.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "inner reinforcement [1]",
+      "qty": "9 places (3A) + 25 places (3B) + 18 places evenly spaced (3C)",
+      "torque_ref": null,
+      "note": "Spot welds along the pillar flanges: 3A at the hinge box, 3B down the lower front flange (pitch 1.12-1.24), 3C up the upper pillar (pitch 1.38/1.50). Dimension callouts 2.24, .75, 1.24, 2.12, 2.00, 1.38, 2.12, .50 locate weld rows.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "86a",
+      "holds": [
+        "3"
+      ],
+      "to": "inner reinforcement [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer-adhesive 86a along the entire flange between [1] and [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "inner reinforcement [1]",
+      "qty": "1 each",
+      "torque_ref": null,
+      "note": "View A (inboard face of the inner pillar): bracket [4] on the upper pillar and bracket [5] lower down, each held by one rivet [6].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "2A. Spotweld 2 to 3 5 places.",
+    "2B. Spotweld 2 to 3 4 places.",
+    "2C. Spotweld 2 to 1 2 places.",
+    "3A. Spotweld 3 to 1 9 places.",
+    "3B. Spotweld 3 to 1 25 places.",
+    "3C. Spotweld 3 to 1 18 places, evenly spaced.",
+    "86a ENTIRE FLANGE BETWEEN 1 & 3",
+    "PITCH = 1.38; PITCH = 1.50; PITCH = 1.12; PITCH = 1.24; PITCH = 1.75"
+  ],
+  "notes_internal": [
+    "Item 1 LH: binder hole covers digits 5-6 and most of the 7th; visible '3926' and a fragment of the last digit (could be 5, not inferred).",
+    "Item 1 RH: first digit faint/broken; looks like 3 at 600 dpi but Vision OCR read 8; left as '?'.",
+    "Item 2: first digit gone; second digit broken, reads 9 or 5 (OCR read 5); written '??08143-4'.",
+    "Item 3: first digit faint but has the shape of 3 (OCR agrees).",
+    "Handwritten circled '19' (?) in the middle view near the 3C weld row; meaning unknown, not stored.",
+    "Weld counts per row taken from the legend; individual X marks in the drawing were not counted.",
+    "Title block: drawing number 3965172; DR DP/C1, CK 5-5-69 C1, PREL 3-18-69, C/O A3, '82110' on first L- line; UPC 1 BOLT WELD; model 19000. No revisions entered."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

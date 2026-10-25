@@ -1,0 +1,316 @@
+{
+  "page": 58,
+  "group": "1",
+  "sheet": "B8",
+  "title": "FOLDING TOP REINF, TAPPING & WEAR PLATES, FILLER SUPT & LID PIN SUPT.",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear deck area behind the seats (body panel rear upper, above the rear wheelhouses): wear plates, reinforcements (LH/RH) and a riveted tapping plate for the folding top on convertibles; on coupes a nut plate riveted to the rear upper panel. The support assembly at the top of the lock pillar (filler / lid pin support, LH/RH) is riveted and cemented to the lock pillar. Joints are sealed with 122g / 52g sealer and bonded with 57e cement and 226a adhesive.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3928830",
+      "name": "PLATE-WEAR",
+      "name_expanded": "Plate – wear (on body panel rear upper)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3912873-4",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement (LH/RH, folding top)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "455626",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3832531",
+      "name": "PLATE-TAPPING",
+      "name_expanded": "Plate – tapping",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418482",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3935686",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3829910",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3995065-6",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Support assembly – filler / lid pin support at top of lock pillar (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9409245",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9420772",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75 - 95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "57e",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "Main view at support [9] / body panel rear upper; View C on top of the lock pillar under support [9]"
+    },
+    {
+      "key": "B",
+      "code": "226a",
+      "description": "ADHESIVE",
+      "amount": ".2 OZ.",
+      "where": "View C (19467): top of lock pillar under support [9], and on the vertical flange of [9] (2 places)"
+    },
+    {
+      "key": "C",
+      "code": "122g",
+      "description": "SEALER",
+      "amount": "5 OZ.",
+      "where": "View A and View B: around wear plate [1], filling the offset between [1] and the body"
+    },
+    {
+      "key": "D",
+      "code": "52g",
+      "description": "SEALER",
+      "amount": ".02 OZ.",
+      "where": "View C: on the rivet/hole row of the vertical flange of support [9]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body panel rear upper (inside)",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "View A (19467): rivets [3] go in from the rear through .153/.156 dia holes, (2) places, into tapping plate [4] behind the panel; dims .60 and .44. Position tab end of [4] toward rear on LH side (RH side tab position shown).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body panel rear upper",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (19467): rivet [5] shown at the forward end of the panel flange; dashed lines run from the wear plate [1] holes down to the flange. .192/.199 dia (2) holes. Reinforcement joint bonded (BOND \"M\").",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: 122g fills the offset between wear plate [1] and the body for a continuous seal surface.",
+      "from": "drawing",
+      "how": "seals",
+      "material": "122g"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "body panel rear upper",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view (coupe): rivets [7] hold nut plate [6] to the rear upper panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "body panel rear upper",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [11] through the upright of support [9] into the rear upper panel; 57e cement at the joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "top of lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C (19467): rivets [8] and [10] go down through support [9] into the top of the lock pillar; 57e cement and 226a adhesive under it, 52g sealer on the vertical flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [
+        "plate at the rear compartment floor"
+      ],
+      "to": "underbody floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view lower right: rivet [8] and rivets [7] at a small plate on the floor behind the seats; which part this is is not labeled.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Fill offset between item [1] and body to provide continuous seal surface.",
+    "NOTE Position tab end toward rear on L.H. side.",
+    "R.H. SIDE TAB POSITION",
+    ".192/.199 DIA (2) HOLES",
+    ".153/.156 DIA (2) PLACES",
+    ".60",
+    ".44",
+    "BOND \"M\""
+  ],
+  "notes_internal": [
+    "Item 2: binder hole wipes out digits 4-5; written '391??3-4'.",
+    "Reinforcement [2]: shown on the rear upper panel next to wear plate [1] in the main view; its fastening is not called out separately (BOND \"M\" in View A likely), so no fastening entry.",
+    "Torque 1 (75-95 LBS IN) appears in the legend but no triangle was found next to any item in the drawing.",
+    "57e legend has no amount printed.",
+    "Fastening for wear plate [1] / rivet [5] in View A is inferred from dashed lines; pairing is approximate.",
+    "Circled 6 sits next to the 226a legend line (rev 6); circled 7 next to the two 226a tags in View C (rev 7); circled 8 next to item 9."
+  ],
+  "revisions": [
+    {
+      "date": "4-1-70",
+      "sym": "6",
+      "text": "WAS 87f CEMENT .2 OZ.",
+      "was": "87f",
+      "item": "B"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "SYM 226a WAS SYM 87f (2) PLACES",
+      "was": "87f",
+      "item": "B"
+    },
+    {
+      "date": "6-12-70",
+      "sym": "8",
+      "text": "WAS 3976449-50 SUPPORT",
+      "was": "3976449-50",
+      "item": "9"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

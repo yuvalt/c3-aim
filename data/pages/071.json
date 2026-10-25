@@ -1,0 +1,69 @@
+{
+  "page": 71,
+  "group": "1",
+  "sheet": "C8",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body checking dimensions (bolt-and-weld body structure, all models) for the door lock pillar brace (support-body lock pillar brace, the brace behind the door opening) at two fore-aft stations, and for the front roof center supports upper and lower (the front of the T-top center bar) at the centerline. Measurement data only: no parts list or fasteners.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION BB-BB @ 14.00 SAME AS 4.00 EXCEPT AS SHOWN",
+    "SECTION CC-CC @ 4.00 & 14.00",
+    "SECTION DD-DD @ 50.25"
+  ],
+  "notes_internal": [
+    "Body-in-white checking-dimension sheet (UPC 1 BOLT WELD): section cuts with dimensions from body reference lines; no callout list, no fasteners, no torques, empty revision block.",
+    "Dimensions table lists each section's printed values in reading order (top to bottom, left to right); which feature each value locates is only visible in the drawing. Reference lines copied as printed (circled grid numbers, SV/RV/WL, F.O.L./B.O.L. arrows).",
+    "BB-BB bottom horizontal dimension: last digit reads 6 or 8 at 600 dpi (OCR 1.58); written 1.5?.",
+    "CC-CC 4.86, 1.86, 1.66: the 6/8 digits are blotchy at 600 dpi but read as written.",
+    "Title block: drawing 3965172, L-82110, DR DP/C1, CK 4-30-69 C1, PREL 4-29-69, C/O C8, model 19000. 'K69' printed sideways in the left margin."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "CHECKING DIMENSIONS C8",
+      "columns": [
+        "section",
+        "location",
+        "parts shown",
+        "reference lines",
+        "dimensions"
+      ],
+      "rows": [
+        [
+          "BB-BB",
+          "@ 14.00 SAME AS 4.00 EXCEPT AS SHOWN",
+          "SUPPORT-BODY LOCK PILLAR BRACE",
+          "5 SV, 55 SV, F.O.L., B.O.L.",
+          "1.72, 1.44, 1.25, 2.17, 1.77, 1.64, 2.08, 1.5?"
+        ],
+        [
+          "CC-CC",
+          "@ 4.00 & 14.00",
+          "SUPPORT-BODY LOCK PILLAR BRACE",
+          "15 SV, 55 SV, F.O.L., B.O.L.",
+          "4.21, 3.59, 3.48, 3.29, 3.11, 3.14, 3.26, 1.82, 1.66, 1.39, 4.61, 4.16, 3.78, 1.86, 1.44, 1.33, 1.77, 4.05, 4.59, 4.75, 4.86, 1.52"
+        ],
+        [
+          "DD-DD",
+          "@ 50.25",
+          "SUPPORT-FRONT ROOF CENTER LOWER; SUPPORT-FRONT ROOF CENTER UPPER",
+          "℄ (centerline), 40, B.O.L.",
+          "1.21, .78, .94, .47, .33, .77, 2.88, 1.44"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

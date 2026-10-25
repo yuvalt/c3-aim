@@ -1,0 +1,317 @@
+{
+  "page": 61,
+  "group": "1",
+  "sheet": "B11",
+  "title": "REAR ROOF & REAR CENTER VENT",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe rear roof structure (the sail panels / rear roof around the rear window, behind the T-tops) and the rear center vent plenum (the deck vent behind the rear window). The rear panel, inner roof panels and front reinforcements are bonded (bonds B, E, K, L, M) and riveted; rivets go through the dimpled holes along the inner roof rear center panel, and the vent plenums are bonded and riveted to the underbody through a tapping plate.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3935565-6",
+      "name": "REINF-RR ROOF FRT.",
+      "name_expanded": "Reinforcement – rear roof front (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963115",
+      "name": "PANEL ASM.-RR",
+      "name_expanded": "Panel assembly – rear (rear roof / deck panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3935661-2",
+      "name": "PANEL ASM.-ROOF INNER RR.",
+      "name_expanded": "Panel assembly – roof inner rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3935563-4",
+      "name": "PANEL ASM.-ROOF INNER RR. CTR.",
+      "name_expanded": "Panel assembly – roof inner rear center (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3964141",
+      "name": "PLENUM-RR VENT CTR.",
+      "name_expanded": "Plenum – rear vent center",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828470",
+      "name": "RIVET-SPECIAL",
+      "name_expanded": "Rivet – special",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9428379",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3956053-4",
+      "name": "PLENUM",
+      "name_expanded": "Plenum – rear vent side (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3956003",
+      "name": "PLATE-TAPPING",
+      "name_expanded": "Tapping plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3926265-6",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3926263",
+      "name": "PLATE-TAPPING",
+      "name_expanded": "Tapping plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9409245",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50a",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "tapping plate [11] at the center vent plenum [5]"
+    },
+    {
+      "key": "B",
+      "code": "226c",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "View B, at the rear roof front reinforcement [1]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear roof / rear panel",
+      "qty": "12 places",
+      "torque_ref": null,
+      "note": "View A: special rivets [6] go up through the .192-.199 dia holes at the dimples (12 places) in the roof inner rear center panel [4]; the panel is also bonded (bond E).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "rear roof panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivets [7] along the lower vertical edge of the roof inner rear structure; drawing points [7] at the side of the arch.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "12",
+        "13"
+      ],
+      "to": "rear panel [2] / inner rear roof at the lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [14] secures retainer [12] and tapping plate [13] at the forward end of the rear panel above the roof inner rear panel [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1",
+        "3"
+      ],
+      "to": "rear panel [2] / lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Reinforcements [1] and roof inner rear panel [3] bonded with bond B; bond L at the reinforcement [1] / rear panel [2] joint. View C: grind flush with lower surface of lock pillar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "226c",
+      "holds": [
+        "1"
+      ],
+      "to": "rear roof",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: adhesive 226c strip at the reinforcement [1], 4.00 long, 2.25 from the end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "11",
+        "5"
+      ],
+      "to": "underbody asm at the car centerline",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [10] go up from below through the plenum [5] into tapping plate [11]; plate cemented with 50a.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5",
+        "9"
+      ],
+      "to": "underbody asm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Center plenum [5] bonded with bond B and M; side plenums [9] bonded with bond B, K and M.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Grind flush with lwr surface of lock pillar.",
+    "DIMPLES .192/.199 DIA 12 PLACES",
+    "View B: 4.00; 2.25",
+    "View C: .94; .78; .17; .87 REF; .12R"
+  ],
+  "notes_internal": [
+    "Item 8: line is blank (circled 1); revision 1 removed molding 3921521-2, no parts entry.",
+    "Item 3: fifth digit slightly blotched; reads 6 (OCR agrees).",
+    "Rivet [7]: exact part it holds not clear; attributed to the roof inner rear panel [3] area in View A.",
+    "Lower-left torque triangles are empty; 'K59' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "6-19-69",
+      "sym": "1",
+      "text": "3921521-2 MOLDING REMOVED",
+      "was": "3921521-2",
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3962651 PANEL",
+      "was": "3962651",
+      "item": "2"
+    },
+    {
+      "date": "4-1-70",
+      "sym": "3",
+      "text": "226C ADHESIVE WAS 87C SEALER",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SYM 226c WAS SYM 87c",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "page": 37,
+  "group": "1",
+  "sheet": "A4",
+  "title": "HINGE & LOCK PILLAR TO DOOR SILL REINFORCEMENT",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steel birdcage at the door opening: the door sill (rocker) reinforcement [1] is spot-welded to the hinge pillar (A-pillar) at the front and to the lock pillar (B-pillar) reinforcement [2] at the rear, with supports [3], [4] and [5] and the inner hinge pillar reinforcement [6] welded in. Convertible (19467) uses a different lock pillar reinforcement. A plug [7] closes a hole in the top of the sill reinforcement. All joints are spot welds (one gas/arc weld), counts given per side.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966695-6",
+      "name": "REINF ASM-DOOR SILL",
+      "name_expanded": "Reinforcement assembly – door sill (rocker reinforcement), LH/RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "??54515-6",
+      "name": "REINF ASM-LOCK PILLAR",
+      "name_expanded": "Reinforcement assembly – lock pillar (B-pillar), LH/RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966581-2",
+      "name": "REINF ASM-LOCK PILLAR",
+      "name_expanded": "Reinforcement assembly – lock pillar (B-pillar), LH/RH, convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3914541-2",
+      "name": "SUPPORT",
+      "name_expanded": "Support (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3908189",
+      "name": "SUPPORT",
+      "name_expanded": "Support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3935501-2",
+      "name": "SUPPORT",
+      "name_expanded": "Support (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3954595-6",
+      "name": "REINF-HINGE PILLAR INNER",
+      "name_expanded": "Reinforcement – hinge pillar inner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3825876",
+      "name": "PLUG",
+      "name_expanded": "Plug (hole plug)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "hinge pillar",
+      "qty": "4 places each side (1A)",
+      "torque_ref": null,
+      "note": "Spot welds, 1.00 pitch, at the front end of the sill reinforcement.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "door sill reinforcement [1]",
+      "qty": "5 (2A) + 3 (2B) + 4 (2C) places each side",
+      "torque_ref": null,
+      "note": "Spot welds at the rear (lock pillar) end of the sill: 2A 1.00 pitch, 2B 1.12 pitch, 2C 1.00 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "door sill reinforcement [1]",
+      "qty": "8 (3A) + 3 (3B) + 1 (3E) places each side",
+      "torque_ref": null,
+      "note": "Spot welds: 3A 1.38 pitch along the bottom flange, 3B 1.25 pitch; support [3] is the angled brace at the front of the sill.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "hinge pillar",
+      "qty": "2 (3C) + 6 (3D) + 2 (3F) places each side",
+      "torque_ref": null,
+      "note": "Spot welds: 3C 1.25 pitch, 3D 1.50 pitch, 3F 1.25 pitch.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "door sill reinforcement [1]",
+      "qty": "3 places each side (4A)",
+      "torque_ref": null,
+      "note": "Spot welds, 1.00 pitch (View A, support [4] at the hinge pillar foot).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "hinge pillar",
+      "qty": "2 places each side (4B)",
+      "torque_ref": null,
+      "note": "Spot welds, 1.38 pitch (View A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "lock pillar reinforcement [2]",
+      "qty": "10 places each side (5A)",
+      "torque_ref": null,
+      "note": "Spot welds; support [5] is the gusset at the foot of the lock pillar.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "door sill reinforcement [1]",
+      "qty": "5 places each side (5B)",
+      "torque_ref": null,
+      "note": "Spot welds (View B).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "hinge pillar outer",
+      "qty": "11 places each side (6A)",
+      "torque_ref": null,
+      "note": "Spot welds.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "hinge pillar inner",
+      "qty": "3 places each side (6B)",
+      "torque_ref": null,
+      "note": "Gas or arc weld.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "hinge pillar bottom",
+      "qty": "4 places (6C)",
+      "torque_ref": null,
+      "note": "Spot welds.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "door sill reinforcement [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [7] pushed into the hole in the top face of the sill reinforcement, just behind the hinge pillar.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "1A Spotweld 1 to Hinge Pillar 4 places (1.00 pitch) each side.",
+    "2A Spotweld 2 to 1 5 places (1.00 pitch) each side.",
+    "2B Spotweld 2 to 1 3 places (1.12 pitch) each side.",
+    "2C Spotweld 2 to 1 4 places (1.00 pitch) each side.",
+    "3A Spotweld 3 to 1 8 places (1.38 pitch) each side.",
+    "3B Spotweld 3 to 1 3 places (1.25 pitch) each side.",
+    "3C Spotweld 3 to Hinge Pillar 2 places (1.25 pitch) each side.",
+    "3D Spotweld 3 to Hinge Pillar 6 places (1.50 pitch) each side.",
+    "3E Spotweld 3 to 1 1 place each side.",
+    "3F Spotweld 3 to Hinge Pillar 2 places (1.25 pitch) each side.",
+    "4A Spotweld 4 to 1 3 places (1.00 pitch) each side.",
+    "4B Spotweld 4 to Hinge Pillar 2 places (1.38 pitch) each side.",
+    "5A Spotweld 5 to 2 10 places each side.",
+    "5B Spotweld 5 to 1 5 places each side.",
+    "6A Spotweld 6 to Hinge Pillar outer 11 places each side.",
+    "6B Gas or Arc Weld 6 to Hinge Pillar-Inner 3 places each side.",
+    "6C Spotweld 6 to Hinge Pillar bottom 4 places."
+  ],
+  "notes_internal": [
+    "Item 2 (first line): binder hole wipes the callout box and the first two digits; visible '?54515-6' with a fragment of the 2nd digit. Item number 2 taken from the callout sequence (between 1 and 3) and from the weld legend, which refers to [2] as the part welded to the sill at the lock pillar.",
+    "Item 2 second line: callout box mostly wiped, only a dash visible; '3966581-2 19467' is a model-code line, so name repeated from the line above. First digit 3 faint but legible (OCR agrees).",
+    "The first item-2 line has no model code printed; left models [] (presumably coupe, not inferred).",
+    "Weld counts from the legend; X marks in the drawing not counted.",
+    "Title block: drawing number 3965172; '82110' on first L- line; DR DP/C1, CK 5-5-69 C1, PREL 3-18-69, C/O A4; UPC 1 BOLT WELD; model 19000. No revisions entered."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

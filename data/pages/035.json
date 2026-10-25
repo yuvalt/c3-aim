@@ -1,0 +1,108 @@
+{
+  "page": 35,
+  "group": "1",
+  "sheet": "A2",
+  "title": "BODY ASM-RIVETING & BONDING CONTENTS",
+  "models": [],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 1 body bolting/welding section B (riveting and bonding of the fiberglass body to the underbody): seat and seat belt mounting attachments (B1), door sill and console reinforcement (B2), closing panel and storage compartment support (B3), No. 4 body mount reinforcement (B4), lock pillar panel and rear splash shield (B5), tunnel insulator (B6), underbody heat shield (B7), folding top reinforcement and tapping/wear plates (B8), body side panel bonding (B9), rear lower to rear upper panel (B10), rear roof and rear center vent (B11), rear vent plenum (B12), roof rear upper panel support (B13), and body checking dimensions (C1-C10). A body drawing points to where each B sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the three-column contents list; two-line titles joined with a space, 'DIMEN-/SIONS' joined.",
+    "Binder holes wipe letters: 'CONTENTS' (A2) shows '?ONTENTS'; B8 'FOLDING TOP ?INF.' (presumably REINF., not filled in); B11 'REAR C??TER VENT' (presumably CENTER). Missing letters written as '?'.",
+    "B7 sheet id partly cut by the margin but reads B7.",
+    "Drawing callouts: B4 at the rear compartment lid pin area behind the seats, B12/B11 at the rear deck/roof, B13 and B10 at the rear upper/lower panel, B5 at the rear wheel opening, B8 at the lock pillar top, B9 along the body side, B3 and B1 at the floor behind/under the seats, B2 at the door sill, B6 at the tunnel, B7 at the front of the tunnel/floor.",
+    "Title block: drawing number 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-24-69, C/O A2; UPC 1 BOLT WELD; model 19000 (all). Rev 2 AUTH '25948 28566' and '13962' not stored.",
+    "Only revision symbol 2 is printed; there is no sym 1 line."
+  ],
+  "revisions": [
+    {
+      "date": "11-7-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "BODY ASM-RIVETING & BONDING CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A2",
+          "?ONTENTS"
+        ],
+        [
+          "B1",
+          "U/BODY-SEAT & SEAT BELT MOUNTING ATTACHMENTS"
+        ],
+        [
+          "B2",
+          "U/BODY-DOOR SILL, CONSOLE REINF. & SUPPORT"
+        ],
+        [
+          "B3",
+          "U/BODY-CLOSING PANEL & STORAGE COMPARTMENT SUPT."
+        ],
+        [
+          "B4",
+          "U/BODY-NO. 4 BODY MOUNT REINF. & RR. COMPT LP BRKT."
+        ],
+        [
+          "B5",
+          "U/BODY-LOCK PILLAR PANEL & REAR SPLASH SHIELD"
+        ],
+        [
+          "B6",
+          "U/BODY-TUNNEL INSULATOR & SPLASH SHIELD BRACKET"
+        ],
+        [
+          "B7",
+          "U/BODY HEAT SHIELD"
+        ],
+        [
+          "B8",
+          "FOLDING TOP ?INF., TAPPING & WEAR PLATES & SUPPORTS & LID PIN SUPPORT"
+        ],
+        [
+          "B9",
+          "BODY SIDE-BONDING OF BODY PANELS TO U/BODY"
+        ],
+        [
+          "B10",
+          "REAR LOWER PANEL TO REAR UPPER PANEL & TRIM BRACKET"
+        ],
+        [
+          "B11",
+          "REAR ROOF & REAR C??TER VENT"
+        ],
+        [
+          "B12",
+          "REAR VENT PLENUM TO REAR UPR PANEL"
+        ],
+        [
+          "B13",
+          "SUPPORT TO ROOF REAR UPR PANEL"
+        ],
+        [
+          "C1 thru C10",
+          "BODY CHECKING DIMENSIONS"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

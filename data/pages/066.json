@@ -1,0 +1,34 @@
+{
+  "page": 66,
+  "group": "1",
+  "sheet": "C3",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body (bolt/weld) checking dimensions, all models, continued from C2: cross-sections of the front hinge pillar (A-pillar) reinforcements and upper reinforcement plate, and of the windshield frame lower inner and outer panels (the cowl area at the base of the windshield), measured from the body grid lines. No parts or fasteners are listed.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION E-E @ 18.00: REINF-BODY HINGE PILLAR OUTER, REINF-BODY HINGE PILLAR INNER, PLATE-BODY HINGE PILLAR REINF UPPER; grid 25 P.V. and 15 P.V. (F.O.L.); dimensions 2.04, .04, .12, .96, 1.08, 5.39.",
+    "SECTION F-F @ CL: FRAME-W/S LOWER OUTER, FRAME-W/S LOWER INNER; grid 25 S.V. (B.O.L.) and 15 S.V. (F.O.L.); dimensions 3.17, 1.24, 1.10, 1.42, 1.18, .31, .16, 1.30, .62, .59, 3.03, 3.22.",
+    "SECTION G-G @ 5.00: FRAME-W/S LOWER INNER, FRAME-W/S LOWER OUTER; grid 15 S.V. (F.O.L.) and 25 S.V. (B.O.L.); dimensions 1.16, 1.38, 1.02, 1.14, .10, 1.32, 3.14.",
+    "SECTION H-H @ DIAGONAL SECTION IN PLAN VIEW: FRAME-W/S LOWER OUTER, FRAME-W/S LOWER INNER; grid 15 (F.O.L.), 25 (B.O.L.), WL1; dimensions .85, .73, .12, 1.25, .04, 1.03, 1.47, 2.84."
+  ],
+  "notes_internal": [
+    "Dimension sheet: no callout list, part numbers, torques or revisions; fastening empty because nothing is fastened on this sheet.",
+    "Drawing number 3965172; UPC box reads '1 BOLT WELD'. 'K64' printed sideways at right.",
+    "Section E-E '.96': second digit crossed by a dimension line; reads 6 (OCR agrees)."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

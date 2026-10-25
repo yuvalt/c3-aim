@@ -1,0 +1,245 @@
+{
+  "page": 44,
+  "group": "1",
+  "sheet": "A11",
+  "title": "ROOF CENTER SUPPORT",
+  "models": [
+    "19437"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Coupe (19437) body weld: the front roof center support (the T-top center bar / T-bar front section), upper and lower halves, which are spotwelded together and to the roof bow center outer and the upper windshield frame. A bonding strip is riveted on top along the car centerline over a plastisol sealer bead, and clips are riveted on for the roof panels.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "393????",
+      "name": "SUPPORT ASM-FRT ROOF CTR UPPER",
+      "name_expanded": "Support assembly – front roof center upper (T-top center bar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3935539",
+      "name": "STRIP-BONDING",
+      "name_expanded": "Bonding strip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3932979",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9427770",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3948145",
+      "name": "SUPPORT-FRT ROOF CTR LOWER",
+      "name_expanded": "Support – front roof center lower (T-top center bar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "52c",
+      "description": "SEALER-PLASTISOL",
+      "amount": ".5 OZ.",
+      "where": "3/16 dia bead on top of support [1] along the car centerline, under bonding strip [3] (main view)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "front roof center lower support [6]",
+      "qty": "19 places each side",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1A). Weld one at the center and one at each end first, then the remaining 17.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "upper (inner & outer) windshield frame asm",
+      "qty": "4 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1B). View B.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "inner frame asm",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Arc or gas weld (weld 1C). Tack welds .50 long. View B.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "roof bow center outer",
+      "qty": "11 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1D). View A, at the rear end of the support.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "roof bow center outer",
+      "qty": "12 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 6A). Main view, rear end.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "inner frame asm",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 6B). Main view, front end.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "inner frame asm",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 6C). Main view, front end.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "top of support [1] at the car centerline",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [2] go down through the bonding strip [3] (3 holes shown) into the support; sealer 52c bead underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "inner frame asm (windshield frame)",
+      "qty": "3 places",
+      "torque_ref": null,
+      "note": "View B: rivets [2] go down through .192/.199 dia holes drilled through the inner frame asm.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "roof center support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [4] (four shown along the support flanges) held by rivets [5] driven up from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "52c",
+      "holds": [
+        "3"
+      ],
+      "to": "support [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "3/16 dia bead of plastisol sealer under the bonding strip.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "3/16 DIA BEAD",
+    ".192/.199 DIA (3) PLACE THRU INNER FRAME ASM.",
+    "1.04 (dimension at C of car, main view)",
+    "1A Spotweld [1] to [6] each side 19 places: first one at center and one at each end, then the remaining 17.",
+    "1B Spotweld [1] to Upper (inner & outer) W/S frame asm 4 places.",
+    "1C Arc or Gasweld [1] to inner frame asm (.50 Tack) 2 places.",
+    "1D Spotweld [1] to Roof Bow Center Otr 11 places.",
+    "6A Spotweld [6] to Roof Bow Center Outer 12 places.",
+    "6B Spotweld [6] to Inner Frame Asm. 2 places.",
+    "6C Spotweld [6] to Inner Frame Asm. 2 places."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the last digits; '393' clear, 4th char partial (top looks like 7 or 2), last three gone.",
+    "Clips [4]: exact parts the rivets [5] go into (support [1] vs [6]) not clear from the drawing.",
+    "Weld sheet: weld fastening entries have no fastener items."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

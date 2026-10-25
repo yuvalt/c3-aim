@@ -1,0 +1,247 @@
+{
+  "page": 50,
+  "group": "1",
+  "sheet": "A17",
+  "title": "BODY HINGE PILLAR & DOOR SILL EXTENSION & FILLER",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front door hinge pillars (A-pillar lower, LH/RH), the windshield lower bonding strip, the door sill extension and the filler panel at the front of the door opening, plus the weatherstrip between the windshield frame and the bonding strip. The panels are bonded (bonds B, D, E, K) with 51r/87b/226b adhesive; the windshield bonding strip is riveted to the lower windshield frame corner through three drilled holes, and rivets also go into the upper hinge pillar.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3831539",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3938081-2",
+      "name": "STRIP-LOWER W/S BONDING",
+      "name_expanded": "Strip – lower windshield bonding (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3942747-8",
+      "name": "PILLAR-BODY HINGE",
+      "name_expanded": "Pillar – body hinge (front door hinge pillar, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919723-4",
+      "name": "FILLER PANEL",
+      "name_expanded": "Filler panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3918675-6",
+      "name": "EXTENSION-DOOR SILL",
+      "name_expanded": "Extension – door sill (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3938145-6",
+      "name": "WEATHER STRIP",
+      "name_expanded": "Weatherstrip – windshield frame to lower bonding strip (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51r",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "View C, weatherstrip [6] on the bonding strip [2] below the windshield"
+    },
+    {
+      "key": "B",
+      "code": "87b",
+      "description": "ADHESIVE",
+      "amount": "3.0 OZ.",
+      "where": "base of hinge pillar [3] (convertible)"
+    },
+    {
+      "key": "C",
+      "code": "226b",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "between the plastic hinge pillar [3] and its steel reinforcement (upper pillar)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "windshield frame lower corner outer",
+      "qty": "3 per side",
+      "torque_ref": null,
+      "note": "Rivets [1] go through three .192/.199 dia holes drilled through the bonding strip [2] and the windshield lower frame (top view; hole positions dimensioned 15 P.V., 25 P.V., .75, 1.25, .25, 1.59, .68).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "windshield frame / hinge pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: bonding strip [2] bonded to the frame ('BOND'); also bond line 'E' at the pillar (right view) and bond 'B' at the dash panel (top view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "steel reinforcement at upper hinge pillar",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "Right view: two rivets [1] go in from the outboard side through a small plate into the upper part of hinge pillar [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "226b",
+      "holds": [
+        "3"
+      ],
+      "to": "steel reinforcement",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plastisol 226b blended between the plastic hinge pillar and the steel reinforcement (NOTE).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "87b",
+      "holds": [
+        "3"
+      ],
+      "to": "underbody / door sill",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hinge pillar [3] bonded at its base along bond line 'K'; 87b adhesive on convertible.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "4"
+      ],
+      "to": "hinge pillar [3] / door opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Filler panel [4] bonded at bond line 'D'.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "5"
+      ],
+      "to": "dash panel, underbody and door sill",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: door sill extension [5] bonded to the dash panel at bond lines 'K' and to the door sill at bond line 'E'.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51r",
+      "holds": [
+        "6"
+      ],
+      "to": "lower windshield bonding strip [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: weatherstrip [6] glued with 51r between bonding strip [2] and the windshield.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA. (3) HOLES THRU BONDING STRIP & W/SHIELD LWR FRAME",
+    "NOTE Grind tab back at an angle to provide door switch clearance.",
+    "NOTE Blend uniformly between plastic hinge pillar and steel reinf. with plastisol sealer.",
+    "87b (CONVERT)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole clips digits 3-4 (only tops visible); OCR read 3821539, not used.",
+    "Item 2: binder hole covers digits 3-4; digit 5 partly covered, reads 0. OCR read '390-081-2'.",
+    "Grind-tab note leader points to the tab near item [2] / dash panel ext. in the centre view.",
+    "Circled 1 next to [6] at top view dims (rev 1); circled 2 at legend C and circled 3 at the 226b tag (revs 2-3).",
+    "Rubber-stamp 'K48' beside the legend. C/O box reads 3-19-69, PREL A5 (title-block fields swapped)."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "DIMENSIONS REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-1-70",
+      "sym": "2",
+      "text": "226b ADHESIVE WAS 122f SEALER",
+      "was": "122f",
+      "item": "C"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SYM 226b WAS SYM 122f",
+      "was": "122f",
+      "item": "C"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "page": 57,
+  "group": "1",
+  "sheet": "B7",
+  "title": "UNDERBODY HEAT SHIELD",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Underbody tunnel heat shield: a single insulating shield (stippled pad) fitted over the front of the transmission tunnel where it meets the cowl and dash panel (firewall), on the underside of the body. No fasteners or adhesive are called out.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958884",
+      "name": "SHIELD-UNDERBODY TUNNEL",
+      "name_expanded": "Shield – underbody tunnel heat shield (tunnel insulator at the firewall)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "COWL & DASH PANEL",
+    "FWD"
+  ],
+  "notes_internal": [
+    "Shield [1]: drawing shows it draped over the front of the tunnel at the cowl & dash panel; how it is attached is not shown (no fastener or material tag), so no fastening entry.",
+    "A circled '5' points to the RH leg of the shield; no matching legend or revision line on the sheet (revision record is empty), meaning unknown.",
+    "C/O box reads 'B6.5'; title block sheet reads B7."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

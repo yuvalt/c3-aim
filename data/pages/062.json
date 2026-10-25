@@ -1,0 +1,124 @@
+{
+  "page": 62,
+  "group": "1",
+  "sheet": "B12",
+  "title": "REAR VENT PLENUM TO REAR UPPER PANEL",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) rear deck vent plenums (the air exhaust vents in the rear upper panel behind the convertible top / rear deck): a center plenum with baffle and the side plenums are bonded to the rear upper body panel and underbody (bonds B, E, K, N). No mechanical fasteners; 50n cement is wadded at the plenum ends.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958889",
+      "name": "PLENUM-CENTER",
+      "name_expanded": "Plenum – center (rear deck vent)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3947981",
+      "name": "BAFFLE",
+      "name_expanded": "Baffle – rear vent plenum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3940587",
+      "name": "PLENUM",
+      "name_expanded": "Plenum – rear vent side",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3954532",
+      "name": "PLENUM",
+      "name_expanded": "Plenum – rear vent side, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50n",
+      "description": "CEMENT",
+      "amount": ".3 PC",
+      "where": "outer end of side plenum [3] (View A and top view at the RH plenum)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "panel-body rear upper and underbody asm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Center plenum [1] and baffle [2] bonded with bond B to the rear upper panel and underbody.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "panel-body rear upper and underbody asm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: side plenum [3] bonded with bonds B, E, K and N.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "50n",
+      "holds": [
+        "3"
+      ],
+      "to": "body at the plenum end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement 50n, 5 inches wadded and placed at the end of plenum [3] (note B).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "B: 5 inches to be wadded & placed as shown.",
+    "Water test: a severe water test can push water in through the rear plenum vents; this is to be ignored. With correct installation and normal water exposure no water gets in (ref. GM water separation test)."
+  ],
+  "notes_internal": [
+    "Item 2: hole punch covers the middle digits; visible '394' + '1'.",
+    "Item 3 second line reads only 'R. H.' as its name; name repeated from the line above. First item 3 line is presumably LH (not printed).",
+    "No revisions recorded. Lower-left torque triangles empty; 'K60' printed sideways."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

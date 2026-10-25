@@ -1,0 +1,239 @@
+{
+  "page": 56,
+  "group": "1",
+  "sheet": "B6",
+  "title": "UNDERBODY TUNNEL INSULATOR & SPLASH SHIELD BRACKET",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Underside of the body at the transmission/driveshaft tunnel: the tunnel insulator (heat insulation pad on the tunnel) is glued with 51a adhesive and held by retainers riveted through it, with their tabs bent over after installation. Splash shield brackets are riveted to the underbody near the crossmember, and the splash shield (see UPC 1 assembly) is screwed up into a nut on each bracket. Shields [6] and [7] are filler blocks at the tunnel/floor and in View A.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3912670",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – underbody tunnel (heat insulation pad)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3829908",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3834985",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (insulator retainer with bend-over tabs)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3958885",
+      "name": "SHIELD",
+      "name_expanded": "Shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3958886",
+      "name": "SHIELD",
+      "name_expanded": "Shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9425451",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9420153",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3963142",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – splash shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "85 - 115",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "40 - 60",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51a",
+      "description": "ADHESIVE",
+      "amount": "3 OZ.",
+      "where": "under the tunnel insulator [1] (51a tag on the insulator, main view)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "underbody tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: insulator [1] glued to the tunnel with 51a.",
+      "from": "drawing",
+      "how": "glues",
+      "material": "51a"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underbody tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [2] goes through retainer [3] and the insulator [1] into the tunnel; retainer located 3.25 from the 5.00 S.V. reference. Bend retainer tabs after installation.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "underbody near the crossmember (C/MEMBER)",
+      "qty": "2 per bracket",
+      "torque_ref": null,
+      "note": "View B: rivets [5] go down through the underbody floor into bracket [12]; same pair of rivets shown at the left bracket in the main view.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10"
+      ],
+      "holds": [
+        "splash shield (see UPC 1 asm)"
+      ],
+      "to": "bracket [12]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [9] goes up from below through the splash shield into nut [10] on the foot of bracket [12].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Bend tabs after installation.",
+    "5.00 S.V.",
+    "3.25",
+    "1.54",
+    "1.60 APPROX",
+    "SPLASH SHIELD (SEE 1 ASM)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes out the first three digits; written '???2670'.",
+    "Items 4, 8, 11 are blank on the page (removed by revs 8, 9, 7 respectively; circled symbols next to them).",
+    "Shields [6] (stippled blocks at the tunnel/floor joint, both sides) and [7] (View A, 1.60 approx from the edge): attachment not shown (likely adhesive-backed but no tag), so no fastening entry.",
+    "Torque 1 (85-115 LBS IN) is not tied to any current item; rev 9 says the removed screw 3958062 used it.",
+    "Revisions 1-6 not printed on this sheet; only 7-10 shown. Rev 10 circled symbol is next to the View B label."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "7",
+      "text": "3958019 SHIELD RMV'D",
+      "was": "3958019",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "3976514 BRKT RMV'D",
+      "was": "3976514",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "3958062 SCREW (SD)-(85-115 LBS IN) RMV'D",
+      "was": "3958062",
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "10",
+      "text": "VIEW 'B' REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

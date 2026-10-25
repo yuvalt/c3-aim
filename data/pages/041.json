@@ -1,0 +1,125 @@
+{
+  "page": 41,
+  "group": "1",
+  "sheet": "A8",
+  "title": "GUSSET-BODY HINGE PILLAR TO WINDSHIELD FRAME LOWER",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) body weld: the steel gussets that tie the door hinge pillar (A-pillar) to the lower corners of the windshield frame, LH and RH, plus the bracket on the hinge pillar for the brake (parking brake) rod. All three are spotwelded; no bolts or torques on this sheet.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3942729",
+      "name": "GUSSET-HINGE PILLAR TO W. SHIELD FRAME LOWER L. H.",
+      "name_expanded": "Gusset – hinge pillar to windshield frame lower, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3942730",
+      "name": "GUSSET-BODY HINGE PILLAR TO W. SHIELD FRAME LOWER R. H.",
+      "name_expanded": "Gusset – body hinge pillar to windshield frame lower, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3942735",
+      "name": "BRACKET ASM-HINGE PILLAR TO BRAKE ROD",
+      "name_expanded": "Bracket assembly – hinge pillar to brake rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "hinge pillar (LH)",
+      "qty": "5 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1A). View B: gusset [1] welded along its lower leg to the hinge pillar.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "windshield frame asm lower corner inner LH",
+      "qty": "4 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 1B). View B: upper end of gusset [1] welded to the frame asm.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar (RH)",
+      "qty": "5 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2A). View A.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "windshield frame asm lower corner inner RH",
+      "qty": "8 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 2B). View A: welds run along the top flange of gusset [2] into the frame asm.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "hinge pillar (LH side, below gusset [1])",
+      "qty": "3 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 3A). View B.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "1A Spotweld [1] to Hinge Pillar 5 places.",
+    "1B Spotweld [1] to Frame Asm Lower Corner Inner L. H. 4 places.",
+    "2A Spotweld [2] to Hinge Pillar 5 places.",
+    "2B Spotweld [2] to Frame Asm-Lower Corner Inner R. H. 8 places.",
+    "3A Spotweld [3] to Hinge Pillar 3 places."
+  ],
+  "notes_internal": [
+    "Weld sheet: fastening entries are spotwelds (no fastener items); weld codes 1A/1B etc. from the legend are in the note.",
+    "Side of bracket [3] (LH) inferred from View B showing it next to gusset [1], arrow B on the LH corner.",
+    "Margin mark 'K39' and stacked triangles at lower left are not part of a torque legend."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

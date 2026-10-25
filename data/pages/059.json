@@ -1,0 +1,356 @@
+{
+  "page": 59,
+  "group": "1",
+  "sheet": "B9",
+  "title": "BODY SIDE-BONDING OF BODY PANELS TO UNDERBODY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Bonding the fiberglass body side panels to the underbody: lock pillar (B-pillar / door jamb pillar), rear upper panel (convertible), rear quarter panel and bonding strips, with rivets at the lock pillar brace, the door jamb switch plate, and sound deadener pads on the lock pillar and rear wheelhouse. Panels are bonded (bonds B, G, H, J, K) with adhesive 87e/87h and sealer 52e; a strip [13] is riveted and cemented at the lock pillar brace.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3964167-8",
+      "name": "PILLAR-LOCK",
+      "name_expanded": "Lock pillar (LH/RH), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3956233-4",
+      "name": "PILLAR-LOCK",
+      "name_expanded": "Lock pillar (LH/RH), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3936363",
+      "name": "PANEL-RR UPR",
+      "name_expanded": "Panel – rear upper (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3912901-2",
+      "name": "STRIP-BONDING",
+      "name_expanded": "Bonding strip (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963187-8",
+      "name": "PANEL-RR QTR",
+      "name_expanded": "Rear quarter panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3828472",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3938168",
+      "name": "PLATE-JAMB SW.",
+      "name_expanded": "Plate – door jamb switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3945258",
+      "name": "PAD-LOCK PILLAR DEADENER",
+      "name_expanded": "Pad – lock pillar sound deadener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3945259",
+      "name": "PAD-LOCK PILLAR DEADENER",
+      "name_expanded": "Pad – lock pillar sound deadener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3945260",
+      "name": "PAD-LOCK PILLAR DEADENER",
+      "name_expanded": "Pad – lock pillar sound deadener",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3947939",
+      "name": "PAD-WHL HOUSE DEADENER",
+      "name_expanded": "Pad – rear wheelhouse sound deadener, convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3956231",
+      "name": "PAD-WHL HOUSE DEADENER",
+      "name_expanded": "Pad – rear wheelhouse sound deadener, coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3974085-6",
+      "name": "STRIP",
+      "name_expanded": "Strip (LH/RH) at lock pillar brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50k",
+      "description": "CEMENT",
+      "amount": "Approx. 5 in.",
+      "where": "strip [13] at the bottom of the lock pillar"
+    },
+    {
+      "key": "B",
+      "code": "52e",
+      "description": "SEALER",
+      "amount": "4.0 OZ.",
+      "where": "View B, along the rear upper panel [2] / underbody joint at the wheelhouse (revision 4)"
+    },
+    {
+      "key": "C",
+      "code": "87e",
+      "description": "ADHESIVE",
+      "amount": "2.9 OZ.",
+      "where": "top of lock pillar [1] area, convertible only"
+    },
+    {
+      "key": null,
+      "code": "87h",
+      "description": "",
+      "amount": "10 OZ.",
+      "where": "rear quarter panel [4] lower edge near the wheel opening, and View B at panel [2] (revision 3)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "support-lock pillar brace / underbody, at existing holes",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Strip [13] lies on the brace at the bottom of the lock pillar; rivets [7] go down through it into 7/32 dia (2) holes (View A), and the strip is also cemented with 50k.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "50k",
+      "holds": [
+        "13"
+      ],
+      "to": "support-lock pillar brace",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement 50k, approx. 5 in.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [],
+      "to": "lock pillar area, .192-.199 (2) holes at dimples",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Second rivet [7] shown going into the .192-.199 holes drilled at the dimples near pad [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lock pillar [1], rear quarter [4], rear upper panel [2] and bonding strips [3] are bonded to the underbody (bonds B, G, H, J, K marked in the drawing; bond H at the bonding strips [3]). Omit bond B in the area above the rear wheel opening; keep bond B areas free of excess material.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "87e",
+      "holds": [
+        "1"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Adhesive 87e at the top of the lock pillar, convertible only.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "87h",
+      "holds": [
+        "4",
+        "2"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "87h at the rear quarter [4] lower edge forward of the wheel opening, and in View B along panel [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "52e",
+      "holds": [
+        "2"
+      ],
+      "to": "underbody asm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: sealer bead along the rear upper panel [2] joint.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Omit BOND \"B\" in this area.",
+    "NOTE: Keep bond \"B\" areas free from excess bonding material.",
+    ".192-.199 (2) HOLES AT DIMPLES",
+    "7/32 DIA (2) HOLES",
+    "View A dimensions: 27.44 RV, 25.88 RV"
+  ],
+  "notes_internal": [
+    "Rivet [5]: shown at the lower end of the lock pillar panel near jamb switch plate [6]; the drawing does not make clear what it holds, so no fastening entry.",
+    "Plate-jamb sw. [6]: shown in an opening in the lock pillar; retention not clear.",
+    "Deadener pads [8], [9], [10], [11], [12]: shown in place, no fastener or material tag.",
+    "Circled 15 in View A points to the support-lock pillar brace; meaning unclear (only 4 revisions listed).",
+    "Revision 1 date: first digit smudged, reads '?-16-69'.",
+    "Revision 4: last character of 'SYM 52?' looks like 'g'.",
+    "Circled 2 next to the 87h tag on the rear quarter; circled 3 next to 87h legend; circled 4 next to 52e legend.",
+    "Lower-left torque triangles are empty; 'K57' printed sideways next to them."
+  ],
+  "revisions": [
+    {
+      "date": "?-16-69",
+      "sym": "1",
+      "text": "WAS 3962640 PANEL",
+      "was": "3962640",
+      "item": "2"
+    },
+    {
+      "date": "12-11-69",
+      "sym": "2",
+      "text": "BOND \"B\" USAGE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SYM \"87h\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SYM 52e WAS SYM 52g (2) PLACES",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

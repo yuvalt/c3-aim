@@ -1,0 +1,100 @@
+{
+  "page": 55,
+  "group": "1",
+  "sheet": "B5",
+  "title": "UNDERBODY-LOCK PILLAR PANEL & REAR SPLASH SHIELD",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear underbody behind the doors: the body lock pillar panels (LH/RH) and the rear quarter splash shields (inner rear fender / wheelhouse splash panels, LH/RH) are bonded fiberglass (bonds A, G, K). On coupes a tapping plate for the storage tray (behind-seat storage compartment tray screws) is riveted behind the shield, using the plate as a drilling template.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976445-6",
+      "name": "SHIELD-REAR QUARTER SPLASH",
+      "name_expanded": "Shield – rear quarter splash (inner rear wheelhouse panel, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3912891-2",
+      "name": "PANEL-BODY LOCK PILLAR",
+      "name_expanded": "Panel – body lock pillar (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3829910",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3954527",
+      "name": "PLATE-TAPPING STORAGE TRAY",
+      "name_expanded": "Plate – tapping, storage tray (screw plate for the rear storage tray)",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear quarter splash shield [1] area, behind the storage tray",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "View A: rivets [3] hold tapping plate [4] through .218/.192 dia holes, (2) places each side; 7/32 (+0/-1/64) dia holes, (4) places each side, drilled using [4] as template, for the storage tray screws. Dimensions 2.76, 1.05, .32 from datum (20).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".218/.192 DIA (2) PLACES EA. SIDE",
+    "7/32 +0/-1/64 DIA. (4) PLACES EA SIDE",
+    "(USE AS TEMPLATE) [4]",
+    "2.76",
+    "1.05",
+    ".32",
+    "BOND \"A\"",
+    "BOND \"G\"",
+    "BOND \"K\""
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes out digits 3-4 (only top fragments visible); written '39??445-6'.",
+    "Splash shield [1] and lock pillar panel [2]: fiberglass panels shown bonded (BOND A and G at the shield, BOND K at the lock pillar panel); no mechanical fasteners, so no fastening entry.",
+    "Circled 20 in View A is a dimension datum/reference mark, not a revision (no revisions recorded)."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

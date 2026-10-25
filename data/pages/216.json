@@ -1,0 +1,259 @@
+{
+  "page": 216,
+  "group": "8",
+  "sheet": "B4",
+  "title": "FUEL TANK FILLER NECK",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Fuel tank filler neck (gas filler neck) screwed to the top of the tank with a gasket, the gas cap, the rubber seal between the neck and the body filler housing (fuel door bowl), and the filler housing drain hose that runs from a nipple down along the bumper brace and exits behind the rear bumperette. The drain hose is held by straps at the bumper brace.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974743",
+      "name": "CAP ASM.",
+      "name_expanded": "Cap assembly – fuel filler (gas cap)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap – drain hose to bumper brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3829398",
+      "name": "SHIELD",
+      "name_expanded": "Shield – drain hose outlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3849611",
+      "name": "HOSE",
+      "name_expanded": "Hose – filler housing drain hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3849610",
+      "name": "NIPPLE",
+      "name_expanded": "Nipple – filler housing drain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3923649",
+      "name": "SEAL",
+      "name_expanded": "Seal – filler neck to body filler housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3767804",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – filler neck to tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3923690",
+      "name": "NECK ASM.",
+      "name_expanded": "Neck assembly – fuel tank filler neck",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3826417",
+      "name": "GASKET",
+      "name_expanded": "Gasket – filler neck to tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "17-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "141a",
+      "description": "GASOLINE",
+      "amount": "",
+      "where": "filler neck where it passes through the seal [6] in the body filler housing (lubricant for fitting the seal)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8",
+        "9"
+      ],
+      "to": "fuel tank top, filler opening",
+      "qty": "ring of screws around the flange",
+      "torque_ref": "1",
+      "note": "View A: screws [7] go down through the neck flange [8] and gasket [9] into the ring of holes around the tank opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "filler neck [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cap [1] fits on the top of the neck inside the fuel door housing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "how": "seals",
+      "holds": [
+        "8"
+      ],
+      "to": "body filler housing (fuel door bowl)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [6] closes the gap between the neck and the bottom of the body filler housing; gasoline 141a applied at this joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "4"
+      ],
+      "to": "body filler housing drain outlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nipple [5] sits in the filler housing drain; hose [4] pushes onto the nipple and runs rearward and down past the frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear bumper brace",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Straps [2] wrap the drain hose [4] to the bumper brace (circled revisions 4 and 5).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "outlet end of drain hose [4], behind the bumperette",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: shield [3] at the hose end, which is installed flush and no more than 1/2\" from the edge.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "INSTALL FLUSH",
+    "1/2\" MAX"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the first three digits; visible '4743'.",
+    "Shield [3] drawing was removed per revision 3 but the part is still listed and its callout appears in View B.",
+    "Number of filler neck screws [7] not stated; View A shows a ring of holes.",
+    "Material 141a has no amount printed."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "WAS 3974643 CAP",
+      "was": "3974643",
+      "item": "1"
+    },
+    {
+      "date": "2-18-70",
+      "sym": "2",
+      "text": "VIEW \"B\" REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "\"SHIELD\" DWG REMOVED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "4-15-70",
+      "sym": "4",
+      "text": "ITEM 2 DWG ADDED (1 PLACE)",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM 4 DWG REVISED",
+      "was": null,
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

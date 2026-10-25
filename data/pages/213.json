@@ -1,0 +1,238 @@
+{
+  "page": 213,
+  "group": "8",
+  "sheet": "B1",
+  "title": "FUEL TANK, SUPPORTS & STRAPS",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Fuel tank (gas tank) mounting in the rear frame: the tank sits on two supports bolted to the frame, with glued-on anti-squeak (felt/rubber) pads, and is held down by strap assemblies hooked into the supports at the bottom and bolted at the top. Support bolts go down through the frame bracket with lock washer, plain washer and nut underneath.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3967741",
+      "name": "TANK ASM.",
+      "name_expanded": "Fuel tank assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3923691",
+      "name": "STRAP ASM.",
+      "name_expanded": "Strap assembly – fuel tank hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3763913",
+      "name": "ANTI-SQUEAK",
+      "name_expanded": "Anti-squeak pad – between tank and upper frame member",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937806",
+      "name": "SUPPORT",
+      "name_expanded": "Support – fuel tank (lower cradle bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3921688",
+      "name": "BOLT",
+      "name_expanded": "Bolt – fuel tank strap",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418821",
+      "name": "BOLT",
+      "name_expanded": "Bolt – support to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3937804",
+      "name": "ANTI-SQUEAK-SUPPORT",
+      "name_expanded": "Anti-squeak pad – on tank support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "51s",
+      "description": "ADHESIVE CEMENT",
+      "amount": ".12 OZ",
+      "where": "View A, anti-squeak [3] on the upper frame member; View B, anti-squeak [10] on support [4]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "frame bracket",
+      "qty": "2 per support",
+      "torque_ref": "2",
+      "note": "View B: bolt [6] goes down through the frame bracket and the slots in support [4]; lock washer [7], plain washer [8] and nut [9] go on from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "support [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: the hooked lower end of strap [2] engages a slot in the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "frame member above the tank",
+      "qty": "1 per strap",
+      "torque_ref": "1",
+      "note": "View A: bolt [5] goes up from below through the frame bracket into the square nut on the bent upper end of strap [2], pulling the strap tight over the tank [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51s",
+      "holds": [
+        "3"
+      ],
+      "to": "upper frame member over the tank",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "51s",
+      "holds": [
+        "10"
+      ],
+      "to": "top of support [4] under the tank",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "frame, on supports [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tank [1] rests on the two supports and is clamped down by the straps [2] (main view).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-4; visible '3' + '741'.",
+    "Item 2: hole covers digits 2-3; visible '3' + '3691' (third glyph fragment resembles 2).",
+    "Lock washer [7] is drawn above plain washer [8] on the bolt below the support.",
+    "Revision record is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

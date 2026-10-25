@@ -1,0 +1,393 @@
+{
+  "page": 76,
+  "group": "1",
+  "sheet": "D3",
+  "title": "W/S WIPER ACCESS DOOR CONTROL ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield wiper access door control assembly (the linkage frame under the cowl that opens and closes the vacuum-operated wiper door / wiper cover panel), all models. The control frame [1] is bolted at both ends through rubber seals [19], shims [5] and reinforcements [6] with nuts [7], and at the center to reinforcement [10] at the plenum panel with shims [9]; the door brackets [14] attach to the linkage with screws [12]/[13]. The wiper door relay (vacuum actuator) [18] mounts at the fender skirt (View B). Door height is set with stop screw [4] and jam nut [3].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3953000",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Wiper access door control assembly (linkage frame)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3918519",
+      "name": "BRKT-GRILLE",
+      "name_expanded": "Bracket – grille",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "145487",
+      "name": "NUT",
+      "name_expanded": "Nut (jam nut on stop screw)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9428030",
+      "name": "SCREW",
+      "name_expanded": "Screw (door stop adjusting screw)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3926484",
+      "name": "SHIM-AS REQ'D",
+      "name_expanded": "Shim – as required (control end mounts)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921586",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement (control end mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3759924",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9420680",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3926483",
+      "name": "SHIM-AS REQ'D",
+      "name_expanded": "Shim – as required (center mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3966558",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement (center mount at plenum panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3841230",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9420431",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3953013-4",
+      "name": "BRKT",
+      "name_expanded": "Bracket – wiper access door (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9421033",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3930185",
+      "name": "PLATE",
+      "name_expanded": "Plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "5638427",
+      "name": "RELAY ASM.",
+      "name_expanded": "Relay assembly – wiper door vacuum actuator (relay)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3966668",
+      "name": "SEAL",
+      "name_expanded": "Seal (rubber pad at control mounting points)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "code": "73f",
+      "description": "SEALER",
+      "amount": "1 oz.",
+      "where": "at screw [12] where it enters the control linkage near bracket [14]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1",
+        "19",
+        "6",
+        "5"
+      ],
+      "to": "cowl/plenum structure at the RH end of the control",
+      "qty": "2 studs",
+      "torque_ref": "2",
+      "note": "Two studs on the end of control frame [1] pass through shims [5], the cowl panel, seal [19] and reinforcement [6]; nuts [7] go on from the far side. The stud face is marked as a CONTROL point (filled-square symbol).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "19",
+        "6",
+        "5"
+      ],
+      "to": "cowl/plenum structure at the LH end of the control",
+      "qty": "2 studs",
+      "torque_ref": null,
+      "note": "Same stack at the LH end: control studs through shims [5], seal [19] and reinforcement [6]; nuts not called out at this end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "9",
+        "10"
+      ],
+      "to": "plenum panel center",
+      "qty": "studs",
+      "torque_ref": null,
+      "note": "Center mount: studs on the control frame pass through shim [9] into reinforcement [10]; View A shows [10] fitted over the plenum panel center (arrow A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "19"
+      ],
+      "to": "control frame mounting pad (right of center)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] passes through seal [19] into the control mount behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "control linkage arm",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [12] goes down into the linkage arm where door bracket [14] connects; sealer 73f at this screw.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "wiper access door",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [13] goes into bracket [14] (door side of the linkage).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [],
+      "to": "door stop at the RH end of the control",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Stop screw [4] bears on the STOP; jam nut [3] locks it. Adjust [4] until the door is flush with the fender, then torque [3].",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "18"
+      ],
+      "to": "bracket at the fender skirt",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View B: screw asm [15] goes down through the mounting ear of relay [18] into the bracket at the skirt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "skirt / relay bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: plate [16] sits on the skirt with two holes lined up (dashed lines) with the relay bracket; rivet [17] is shown on the bracket.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Adjust [4] until door is flush with fender. Torque [3]."
+  ],
+  "notes_internal": [
+    "Item 11 callout line is blank with circled (2) beside it: rev 2 removed washer 9417587. No part entry written for 11.",
+    "Bracket [2] is drawn on top of the control frame; no fastener shown for it.",
+    "Plate [16]/rivet [17] relationship in View B is not fully clear: dashed lines run from the plate holes to the zig-zag bracket; rivet [17] head shown on the bracket.",
+    "Nut [3] carries torque triangle 2; screw [4] has none.",
+    "Legend material tag is a diamond/drop symbol with '73f' (no letter key); key left empty.",
+    "Rev 2 date: first character cut by a line; '?-5-70'.",
+    "Title block: drawing 3965172, L-85176, L-82106, L-95312, DR DP/C1, CK 5-5-69 C1, PREL 3-18-69, C/O D3, model 19000. 'K74' printed sideways at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "12-16-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "?-5-70",
+      "sym": "2",
+      "text": "9417587 WASHER REMOVED",
+      "was": "9417587",
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

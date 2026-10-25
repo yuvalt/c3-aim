@@ -1,0 +1,69 @@
+{
+  "page": 73,
+  "group": "1",
+  "sheet": "C10",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body checking dimensions (bolt-and-weld body structure, all models) across the windshield header: sections HH, JJ and KK through the windshield frame upper inner and outer panels (windshield header), with the front roof center supports upper and lower in section HH; KK is taken at the outboard windshield garnish molding screw. Measurement data only: no parts list or fasteners.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION HH-HH @ 2.50",
+    "SECTION JJ-JJ @ 8.22 SECTION",
+    "SECTION KK-KK @ ℄ OF OUTBOARD ATTACHING GARNISH MOLDING SCREW"
+  ],
+  "notes_internal": [
+    "Body-in-white checking-dimension sheet (UPC 1 BOLT WELD): section cuts with dimensions from body reference lines; no callout list, no fasteners, no torques, empty revision block.",
+    "Dimensions table lists each section's printed values in reading order (top to bottom, left to right); which feature each value locates is only visible in the drawing. Reference lines copied as printed (circled grid numbers, SV/RV/WL, F.O.L./B.O.L. arrows).",
+    "HH-HH top dimension blotted: '3.7' + unreadable last digit. Sixth horizontal dimension (between 2.16 and 1.32 lines): first digit is a blob; written ?.44.",
+    "HH-HH '2.7?': last digit overlapped by a dimension line. 3.22 and 2.96 first digits partly covered but legible.",
+    "Title block: drawing 3965172, L-82110, DR DP/C1, CK 4-30-69 C1, PREL 4-29-69, C/O C10, model 19000. 'K71' printed sideways in the left margin."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "CHECKING DIMENSIONS C10",
+      "columns": [
+        "section",
+        "location",
+        "parts shown",
+        "reference lines",
+        "dimensions"
+      ],
+      "rows": [
+        [
+          "HH-HH",
+          "@ 2.50",
+          "SUPPORT ASM-ROOF FRONT CENTER UPPER; SUPPORT-ROOF FRONT CENTER LOWER; FRAME ASM-W/S UPPER INNER; FRAME ASM-W/S UPPER OUTER",
+          "35 SV, 30 SV, F.O.L., B.O.L.",
+          "3.7?, 3.55, 2.90, 2.40, 2.16, ?.44, 1.32, 1.20, 1.05, .50, 3.22, 3.32, 2.96, 2.7?, 2.27, 2.55, 2.76, 2.89, 2.91, 3.42, 3.49"
+        ],
+        [
+          "JJ-JJ",
+          "@ 8.22 SECTION",
+          "FRAME ASM-W/S UPPER INNER; FRAME ASM-W/S UPPER OUTER",
+          "35, 30",
+          "3.21, 2.61, 2.34, 1.64, 1.56, 1.37, 1.29, .75, 3.10, 3.16, 2.16, 2.68, 2.74, 2.12, 2.35, 3.16, 3.19"
+        ],
+        [
+          "KK-KK",
+          "@ ℄ OF OUTBOARD ATTACHING GARNISH MOLDING SCREW",
+          "FRAME ASM-W/S UPPER INNER; FRAME ASM-W/S UPPER OUTER",
+          "35, 35 WL",
+          "3.15, 3.05, 2.77, 2.10, 1.20, 2.89, 2.42, 2.83, 1.88, 2.48, 1.88, 2.15, 2.91, 2.94, 1.80, 2.87, 3.68"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "page": 40,
+  "group": "1",
+  "sheet": "A7",
+  "title": "UPPER & LOWER WINDSHIELD FRAME",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steel windshield frame inside the fiberglass body: the upper header is an inner frame [1] (convertible 19467 uses its own part) spot-welded to an outer frame [2] and to the upper corners, and the lower frame (cowl / windshield base) is an outer frame [3] spot-welded to the inner frame [4] and to the lower corner frames on both sides. Flanges are sealed with sealer-adhesive 86a and plastisol sealer 122a/122c.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3935341-2",
+      "name": "FRAME ASM-W S UPR INR",
+      "name_expanded": "Frame assembly – windshield upper inner (header inner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "1",
+      "pn": "3935545-6",
+      "name": "FRAME ASM-W S UPR INR",
+      "name_expanded": "Frame assembly – windshield upper inner (header inner), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "?9349??",
+      "name": "FRAME ASM-W S UPR OTR",
+      "name_expanded": "Frame assembly – windshield upper outer (header outer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3942798",
+      "name": "FRAME-W S LWR OUTER",
+      "name_expanded": "Frame – windshield lower outer (windshield base at cowl)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "4",
+      "pn": "3974012",
+      "name": "FRAME ASM-W S LWR INNER",
+      "name_expanded": "Frame assembly – windshield lower inner",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "86a",
+      "description": "SEALER-ADHESIVE",
+      "amount": "(For quantity see A3)",
+      "where": "flanges between upper frames [1] and [2]; View A, flanges between upper corner and [2]"
+    },
+    {
+      "key": "B",
+      "code": "122a",
+      "description": "SEALER PLASTISOL",
+      "amount": "",
+      "where": "View A, top of the upper frame at the upper corner"
+    },
+    {
+      "key": "B",
+      "code": "122c",
+      "description": "SEALER PLASTISOL",
+      "amount": "",
+      "where": "lower frame [3] near the lower corner outer (by weld 3B)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "upper outer frame [2]",
+      "qty": "2 (1A) + LH 8 / RH 10 (1B) + 2 (1E) + LH 8 / RH 10 (1F) places",
+      "torque_ref": null,
+      "note": "Spot welds along the windshield header: 1A and 1E 1.38 pitch, 1B and 1F 1.06 pitch (1F/1E in View A). Flanges between [1] and [2] sealed with 86a.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "upper corner",
+      "qty": "2 places (1C) + 2 places (1G)",
+      "torque_ref": null,
+      "note": "Spot welds, 1.38 pitch, through [1], [2] and the upper corner at each end of the header.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "hinge pillar outer",
+      "qty": "1 place (1D)",
+      "torque_ref": null,
+      "note": "Spot weld at the corner where the header meets the windshield pillar.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "frame lower corner outer & inner, LH and RH",
+      "qty": "2 (3A) + 2 (3B) places",
+      "torque_ref": null,
+      "note": "Spot welds, 1.12 pitch, at each end of the lower frame.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "lower inner frame [4] and frame lower corner inner, LH and RH",
+      "qty": "4 (3C) + 4 (3D) places",
+      "torque_ref": null,
+      "note": "Spot welds, 1.00 pitch; dimension 1.50 shown at 3C and 3D.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "lower inner frame [4]",
+      "qty": "8 (3E) + 8 (3F) places, LH and RH",
+      "torque_ref": null,
+      "note": "Spot welds, 1.12 pitch, along the top (3E) and bottom (3F) flanges of the lower frame, either side of centerline.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "frame lower corner outer",
+      "qty": "3 places each side of body (3G)",
+      "torque_ref": null,
+      "note": "Spot welds at the outboard end of the lower frame.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "frame lower corner inner, LH and RH",
+      "qty": "12 places (4A)",
+      "torque_ref": null,
+      "note": "Spot welds, 1.00 pitch.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "1A Spotweld 1 to 2 2 places (1.38 pitch)",
+    "1B Spotweld 1 L.H. to 2 8 places & 1 R.H. to 2 10 places (1.06 pitch)",
+    "1C Spotweld 1 to 2 & upper corner 2 places (1.38 pitch)",
+    "1D Spotweld 1 to Hinge Pillar outer 1 place.",
+    "1E Spotweld 1 L. & R.H. to 2 2 places (1.38 pitch)",
+    "1F Spotweld 1 L.H. to 2 8 places & 1 R.H. to 2 10 places (1.06 pitch)",
+    "1G Spotweld 1 to 2 & upr corner 2 places (1.38 pitch)",
+    "3A Spotweld 3 to Frame lwr corner otr & inr L. & R.H. 2 places (1.12 pitch)",
+    "3B Spotweld 3 to Frame lwr corner otr & inr L. & R.H. 2 places (1.12 pitch)",
+    "3C Spotweld 3 to 4 & Frame lwr corner inr L. & R.H. 4 places (1.00 pitch)",
+    "3D Spotweld 3 to 4 & Frame lwr corner inr L. & R.H. 4 places (1.00 pitch)",
+    "3E Spotweld 3 to 4 L. & R.H. 8 places (1.12 pitch)",
+    "3F Spotweld 3 to 4 L. & R.H. 8 places (1.12 pitch)",
+    "3G Spotweld 3 to Frame lwr corner otr, each side of body 3 places",
+    "4A Spotweld 4 to Frame lwr corner inr L. & R.H. 12 places (1.00 pitch)",
+    "86a FLANGES BETWEEN 1 & 2",
+    "86a FLANGES BETWEEN UPPER CORNER & 2"
+  ],
+  "notes_internal": [
+    "Item 1 first line: callout box wiped (only a corner left); item 1 from the next line. PN 5th digit unreadable, 6th a faint 4, 7th reads 1; Vision OCR read '39350+1-2'.",
+    "Item 1 second line '3935545-6 19467' is a model-code line; name repeated. First line has no model code, models left [].",
+    "Item 2: very faint; '9349' readable, first digit and last two not (OCR guessed 1934905).",
+    "Item 3: last two digits faint (OCR read 36); left '??'.",
+    "Item 4: third digit 7 slightly broken but legible (OCR agrees 3974012).",
+    "122a tag at top right is partly wiped ('1?2a'); read as 122a from the legend, which lists only 122a and 122c.",
+    "'W S' in names = windshield (printed with a gap/apostrophe 'W S' / 'W'S').",
+    "Title block: drawing number 3965172; DR DP/C1, CK 5-5-69 C1, PREL 3-18-69, C/O A7; UPC 1 BOLT WELD; model 19000. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

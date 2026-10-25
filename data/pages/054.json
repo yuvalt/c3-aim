@@ -1,0 +1,199 @@
+{
+  "page": 54,
+  "group": "1",
+  "sheet": "B4",
+  "title": "UNDERBODY-NO. 4 BODY MOUNT REINF & REAR COMPT LAMP BRACKET",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear underbody: the vertical reinforcement on the car centerline at the back wall of the rear storage compartment with the rear compartment lamp bracket riveted to it, the No. 4 body mount (body bolt) reinforcements (LH/RH) under the floor behind the seats, and on convertibles the folding top hinge support reinforcements riveted above them. Everything is riveted to the fiberglass underbody; a retainer with a nut is shown in View A.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3954559",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement (vertical, on car centerline at rear compartment wall)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3954550",
+      "name": "BRACKET RR COMPT LAMP",
+      "name_expanded": "Bracket – rear compartment lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3797350",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (for nut [5])",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "4776763",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3921523-4",
+      "name": "REINF. ASM. FLDG. TOP HINGE SUPT.",
+      "name_expanded": "Reinforcement assembly – folding top hinge support (LH/RH, convertible)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3938133-4",
+      "name": "REINF. NO. 4 BODY BOLT",
+      "name_expanded": "Reinforcement – No. 4 body mount bolt (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underbody (rear compartment wall, car centerline)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [2] through the vertical reinforcement [1] into the underbody.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "reinforcement [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [2] through the end of lamp bracket [3] into reinforcement [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "body at View A location (arrow A, near the rear wheelhouse)",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "View A: nut [5] sits in retainer [4]; rivets [2] go up from below through .192/.199 dia holes counterbored .05 x .81 dia, (2) places each side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "underbody floor",
+      "qty": "7 per side",
+      "torque_ref": null,
+      "note": "View B: rivets [6] through the underbody into the No. 4 body bolt reinforcement [8] below; .192/.199 dia holes, (7) places each side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "underbody and reinforcement [8] below",
+      "qty": "2 per side",
+      "torque_ref": null,
+      "note": "View B (convertible): rivets [9] go down through the folding top hinge support reinforcement [7], through the underbody, into [8].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA C'BORE .05 X .81 DIA. (2) PLACES EA SIDE",
+    ".192/.199 DIA. (7) PLACES EACH SIDE"
+  ],
+  "notes_internal": [
+    "Item 2: binder hole wipes out digits 4-6; last digit only half visible (8 or 3). Written '382????'.",
+    "View A: exactly what retainer [4]/nut [5] mount to and which part rivets [2] clamp there is not fully clear from the drawing.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

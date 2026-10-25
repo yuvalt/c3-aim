@@ -1,0 +1,281 @@
+{
+  "page": 39,
+  "group": "1",
+  "sheet": "A6",
+  "title": "WINDSHIELD CORNERS-UPPER & LOWER",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steel windshield frame corners in the body: upper corner reinforcements [1] and [2] at the top of the windshield (A-) pillar, and lower corner frames [3] (outer) and [4] (inner, LH/RH) at the cowl end of the hinge pillar, all spot-welded to each other and to the hinge pillar, with sealer-adhesive 86a and plastisol sealer 122b/d/e in the flanges. A stop [5] is riveted to the lower corner with its sloped face down, and a plug [7] is cemented (50g) into a hole in the hinge pillar.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3935597-8",
+      "name": "REINF-UPR OTR COR.",
+      "name_expanded": "Reinforcement – upper outer corner (windshield frame, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3936309-10",
+      "name": "REINF-UPR COR OTR.",
+      "name_expanded": "Reinforcement – upper corner outer (windshield frame, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "????839-40",
+      "name": "FRAME-LWR COR OTR",
+      "name_expanded": "Frame – lower corner outer (windshield frame at cowl, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "???0?43",
+      "name": "FRAME ASM-LWR COR INNER L. H.",
+      "name_expanded": "Frame assembly – lower corner inner, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3908102",
+      "name": "R. H.",
+      "name_expanded": "Frame assembly – lower corner inner, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3926326",
+      "name": "STOP",
+      "name_expanded": "Stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3850026",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3738398",
+      "name": "PLUG",
+      "name_expanded": "Plug (hole plug)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "86a",
+      "description": "SEALER-ADHESIVE",
+      "amount": "(four quantity see A3 )",
+      "where": "View B: flanges between [1] and [2]; flange between [3] and hinge pillar inner (View A side); flanges between hinge pillar and [1] & [2]"
+    },
+    {
+      "key": "B",
+      "code": "122b",
+      "description": "SEALER-PLASTISOL",
+      "amount": "",
+      "where": "joint where the lower corner [3] meets the hinge pillar"
+    },
+    {
+      "key": "B",
+      "code": "122d",
+      "description": "SEALER-PLASTISOL",
+      "amount": ".002 OZ.",
+      "where": "upper corner, outer edge of [1]/[2] at the hinge pillar"
+    },
+    {
+      "key": "B",
+      "code": "122e",
+      "description": "SEALER-PLASTISOL",
+      "amount": ".002 OZ.",
+      "where": "top of the upper corner reinforcement [1]"
+    },
+    {
+      "key": "C",
+      "code": "50g",
+      "description": "CEMENT-PLASTIC SEAM",
+      "amount": ".225 PCS.",
+      "where": "plug [7] in the hinge pillar"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "upper corner reinforcement [2]",
+      "qty": "4 places (1A)",
+      "torque_ref": null,
+      "note": "Spot welds (View B); flanges between [1] and [2] sealed with 86a.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar inner",
+      "qty": "? places (2A)",
+      "torque_ref": null,
+      "note": "Spot welds near the top of the pillar; count wiped by the binder hole.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar",
+      "qty": "3 places (2B)",
+      "torque_ref": null,
+      "note": "Spot welds down the outer edge of the upper corner.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "lower corner inner frame [4]",
+      "qty": "6 places (3A) + 4 places (3E)",
+      "torque_ref": null,
+      "note": "Spot welds; 3A along the top curve of the lower corner, 3E on the View A side.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "hinge pillar",
+      "qty": "2 (3B) + 7 (3C) + 2 (3D) + 1 (3F) places",
+      "torque_ref": null,
+      "note": "Spot welds where the lower corner wraps the foot of the windshield pillar.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "86a",
+      "holds": [
+        "3"
+      ],
+      "to": "hinge pillar inner",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Flange between [3] and hinge pillar inner (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "hinge pillar",
+      "qty": "6 places (4A)",
+      "torque_ref": null,
+      "note": "Spot welds (View A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lower windshield corner frame [3]/[4]",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Stop [5] riveted on top of the lower corner with its sloped surface facing down.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "50g",
+      "holds": [
+        "7"
+      ],
+      "to": "hinge pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [7] closes a hole in the hinge pillar just above the lower corner; set in plastic seam cement 50g.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Must be attached with sloped surface down.",
+    "86a FLANGES BETWEEN 1 & 2",
+    "86a FLANGE BETWEEN 3 & HINGE PILLAR INNER",
+    "86a FLANGES BETWEEN HINGE PILLAR & 1 & 2",
+    "1A Spotweld 1 to 2 4 places.",
+    "2A Spotweld 2 to Hinge Pillar Inr ? places.",
+    "2B Spotweld 2 to Hinge Pillar 3 plc.",
+    "3A Spotweld 3 to 4 6 places.",
+    "3B Spotweld 3 to Hinge Pillar 2 plc.",
+    "3C Spotweld 3 to Hinge Pillar 7 plc.",
+    "3D Spotweld 3 to Hinge Pillar 2 plc.",
+    "3E Spotweld 3 to 4 4 places.",
+    "3F Spotweld 3 to Hinge Pillar 1 plc.",
+    "4A Spotweld 4 to Hinge Pillar 6 plc."
+  ],
+  "notes_internal": [
+    "Very faint scan plus binder holes over the top-left callout list. Callout boxes for items 1-3 and 7 are wiped; item numbers taken from list order (they match the drawing callouts and the weld legend).",
+    "Item 1: first two digits unreadable; rest '35597-8' (the '3' and first '5' faint).",
+    "Item 2: binder hole; only '09-10' visible (the 0 half cut).",
+    "Item 3: only '839-40' readable; the digit before 8 looks like 2 but is broken, left as '?'.",
+    "Item 4 LH: faint; '0' and '43' readable, the digit between them broken (3 or 5); first three digits gone. Vision OCR read '0413'/'0343'.",
+    "Item 4 RH, 5, 6: first digit 3 faint but shaped; 3850026 fifth digit reads 0.",
+    "Item 7: '3738' then two unreadable digits, last reads 8 (OCR alternately 6).",
+    "2A weld count is hidden by the binder hole; written '?'. The '1' box in View B note 'FLANGES BETWEEN ? & 2' is wiped; read as 1 from the matching 1A weld and the right-hand note 'between hinge pillar & 1 & 2'.",
+    "Material B legend groups 122b/122d/122e under one 'SEALER-PLASTISOL' line; 122b has no amount printed.",
+    "86a amount reads '(four quantity see A3 )' as printed (presumably 'for quantity').",
+    "Title block: drawing number 3965172; '82110' on first L- line; DR DP/C1, CK 5-5-69 C1, PREL 4-14-69 (last digit unclear), C/O A6 (partly smudged), UPC 1 BOLT WELD, model 19000. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

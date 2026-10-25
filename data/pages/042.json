@@ -1,0 +1,288 @@
+{
+  "page": 42,
+  "group": "1",
+  "sheet": "A9",
+  "title": "UNDER DASH BRACE RODS",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) under-dash brace rods: the steering column support braces that tie the steering column bracket support to the hinge pillar gusset / lower windshield frame reinforcement and to the cowl (brackets spotwelded to the windshield frame), plus the cross brace at the steering bracket support. Rod ends are held with screws and nuts (15-22 lb-ft) and a bolt, washers and nuts (20-30 lb-ft).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958303",
+      "name": "BRACE-STRG COL SUPT TO HINGE PILLAR GUSSET",
+      "name_expanded": "Brace – steering column support to hinge pillar gusset",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1361640",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3962667",
+      "name": "BRACE-STRG COL SUPT TO U. B",
+      "name_expanded": "Brace – steering column support to U/B (upper bracket at windshield frame)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3962658",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (spotwelded to windshield frame)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3962657",
+      "name": "BRACKET",
+      "name_expanded": "Bracket (spotwelded to windshield frame)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3918503",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3962659",
+      "name": "BRACE ASM.-U B TO HINGE PILLAR GUSSET",
+      "name_expanded": "Brace assembly – U/B to hinge pillar gusset",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "180121",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3958304",
+      "name": "BRACE",
+      "name_expanded": "Brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3825452",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "windshield frame",
+      "qty": "3 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 4A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "windshield frame",
+      "qty": "3 places",
+      "torque_ref": null,
+      "note": "Spotweld (weld 5A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [4] under the windshield frame",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [6] goes through the upper end of brace [3] into bracket [4]; nut [2] on the back.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "steering column bracket support (near arrow B)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: lower end of brace [3] held by a second screw [6] with nut [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "lower windshield frame reinforcement (hinge pillar gusset)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [6] passes through the outer end of brace [1] and the reinforcement; nut [2] on the inboard side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "11",
+        "12"
+      ],
+      "holds": [
+        "1",
+        "9"
+      ],
+      "to": "steering bracket support",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: bolt [8] goes down from above through the inner end of brace [1] and one end of brace [9]; lock washer [11] and nut [12] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11",
+        "12"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "bracket asm (stud)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: other end of brace [9] goes over the stud on the bracket asm; plain washer [10], lock washer [11], nut [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "2",
+        "10"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket [5] at the windshield frame and the hinge pillar gusset by the vent cable bracket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: brace [7] runs from near the car centerline to the RH side by the vent cable bracket; bolt [8], nuts [2] and washer [10] shown at its ends (stack order not clear).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "5.68 (each side of centerline, main view dimension near brackets [4] and [5])"
+  ],
+  "notes_internal": [
+    "Weld sheet portion: 4A/5A spotwelds have no fastener items.",
+    "Item 7: 6th digit faint at 300 and 800 dpi, outline reads 6 (Vision OCR agrees).",
+    "Main view has circled callouts 8, 9, 10 as well as boxed ones; meaning of the circles unclear (possibly other-side or hidden parts). Brace [7] fastening stack is ambiguous.",
+    "Screw [6] callout near bracket [5] also points at the bolt there; could be [6] rather than [8] holding brace [7] to bracket [5].",
+    "'U B' in item 3/7 names not expanded with certainty (upper bracket?)."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

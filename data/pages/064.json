@@ -1,0 +1,206 @@
+{
+  "page": 64,
+  "group": "1",
+  "sheet": "C1",
+  "title": "CHECKING DIMENSIONS - INDEX",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Index to the body checking-dimension sheets C2-C10: lists which sheet shows each section cut through the door sill (rocker), hinge pillar (A-pillar), lock pillar (B-pillar), roof bow, lock pillar support, center support and windshield frame. Includes top, side and rear view grids (10-unit grid lines from the car centerline and zero line) showing where each section is taken. No parts.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index sheet, no parts or fasteners.",
+    "'DOOR SILL' heading partly hidden by a hole punch ('DOO? SILL'); read as DOOR SILL.",
+    "Section location grids (top, side, rear views) not traced; only the index tables extracted.",
+    "No revisions recorded. 'K62' printed sideways."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Checking dimensions - section index",
+      "columns": [
+        "AREA",
+        "SECT",
+        "SHT"
+      ],
+      "rows": [
+        [
+          "DOOR SILL",
+          "A-A",
+          "C2"
+        ],
+        [
+          "DOOR SILL",
+          "B-B",
+          "C2"
+        ],
+        [
+          "HINGE PILLAR",
+          "C-C",
+          "C2"
+        ],
+        [
+          "HINGE PILLAR",
+          "D-D",
+          "C2"
+        ],
+        [
+          "HINGE PILLAR",
+          "E-E",
+          "C3"
+        ],
+        [
+          "LOCK PILLAR",
+          "U-U",
+          "C6"
+        ],
+        [
+          "LOCK PILLAR",
+          "V-V",
+          "C6"
+        ],
+        [
+          "ROOF BOW",
+          "W-W",
+          "C6"
+        ],
+        [
+          "ROOF BOW",
+          "X-X",
+          "C7"
+        ],
+        [
+          "ROOF BOW",
+          "Y-Y",
+          "C7"
+        ],
+        [
+          "ROOF BOW",
+          "Z-Z",
+          "C7"
+        ],
+        [
+          "LOCK PILLAR SUPT",
+          "AA-AA",
+          "C7"
+        ],
+        [
+          "LOCK PILLAR SUPT",
+          "BB-BB",
+          "C8"
+        ],
+        [
+          "LOCK PILLAR SUPT",
+          "CC-CC",
+          "C8"
+        ],
+        [
+          "CENTER SUPPORT",
+          "DD-DD",
+          "C8"
+        ],
+        [
+          "CENTER SUPPORT",
+          "EE-EE",
+          "C9"
+        ],
+        [
+          "W/S FRAME",
+          "F-F",
+          "C3"
+        ],
+        [
+          "W/S FRAME",
+          "G-G",
+          "C3"
+        ],
+        [
+          "W/S FRAME",
+          "H-H",
+          "C3"
+        ],
+        [
+          "W/S FRAME",
+          "J-J",
+          "C4"
+        ],
+        [
+          "W/S FRAME",
+          "K-K",
+          "C4"
+        ],
+        [
+          "W/S FRAME",
+          "L-L",
+          "C4"
+        ],
+        [
+          "W/S FRAME",
+          "M-M",
+          "C4"
+        ],
+        [
+          "W/S FRAME",
+          "N-N",
+          "C5"
+        ],
+        [
+          "W/S FRAME",
+          "P-P",
+          "C5"
+        ],
+        [
+          "W/S FRAME",
+          "R-R",
+          "C5"
+        ],
+        [
+          "W/S FRAME",
+          "S-S",
+          "C5"
+        ],
+        [
+          "W/S FRAME",
+          "T-T",
+          "C6"
+        ],
+        [
+          "W/S FRAME",
+          "FF-FF",
+          "C9"
+        ],
+        [
+          "W/S FRAME",
+          "GG-GG",
+          "C9"
+        ],
+        [
+          "W/S FRAME",
+          "HH-HH",
+          "C10"
+        ],
+        [
+          "W/S FRAME",
+          "JJ-JJ",
+          "C10"
+        ],
+        [
+          "W/S FRAME",
+          "KK-KK",
+          "C10"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

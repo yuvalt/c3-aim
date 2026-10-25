@@ -1,0 +1,257 @@
+{
+  "page": 197,
+  "group": "6",
+  "sheet": "C2",
+  "title": "FUEL PIPE, FUEL PUMP & EXHAUST VALVE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Mechanical fuel pump on the side of the engine block with its pushrod, mounting plate and gaskets, the fuel pipe (pump-to-carburetor fuel line) from the pump outlet elbow to the carburetor inlet, a fitting in the intake manifold, and the exhaust manifold heat control valve (heat riser valve) with its gasket at the exhaust manifold outlet. The pump is held by two screws through the pump flange, gasket, plate and second gasket into the block.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3970198",
+      "name": "PIPE ASM.-FUEL",
+      "name_expanded": "Pipe assembly – fuel (fuel pump to carburetor line)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3817006",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly (fuel pump mounting, lower)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "6440769",
+      "name": "PUMP ASM.-FUEL",
+      "name_expanded": "Fuel pump assembly (mechanical)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3887024",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – exhaust manifold heat control valve (heat riser)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3732426",
+      "name": "GASKET",
+      "name_expanded": "Gasket – exhaust manifold to heat valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3778526",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly (fuel pump mounting, upper)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3705042",
+      "name": "GASKET",
+      "name_expanded": "Gasket – fuel pump to plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3719599",
+      "name": "PLATE",
+      "name_expanded": "Plate – fuel pump mounting (adapter plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3705044",
+      "name": "GASKET",
+      "name_expanded": "Gasket – plate to engine block",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3704817",
+      "name": "ROD-FUEL PUMP",
+      "name_expanded": "Rod – fuel pump pushrod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9428895",
+      "name": "ELBOW",
+      "name_expanded": "Elbow – fuel pump outlet fitting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3891523",
+      "name": "FITTING",
+      "name_expanded": "Fitting (elbow fitting in intake manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "32-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "25-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "2"
+      ],
+      "holds": [
+        "3",
+        "7",
+        "8",
+        "9"
+      ],
+      "to": "engine block (fuel pump boss)",
+      "qty": "2 (one upper [6], one lower [2])",
+      "torque_ref": null,
+      "note": "Screws go through the fuel pump [3] mounting flange, then gasket [7], plate [8] and gasket [9] into the block. Upper screw [6] torque 3 (25-30 LBS FT), lower screw [2] torque 2 (32-40 LBS FT). Pushrod [10] goes into the block behind the plate before the pump is fitted.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "fuel pump [3] outlet",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: elbow [11] threads into the pump outlet (torque 4); the fuel pipe [1] tube nut threads into the elbow (torque 1). The pipe runs up the front of the engine to the carburetor inlet fitting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "carburetor fuel inlet",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Upper end of the fuel pipe [1] tube nut screws into the carburetor inlet nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "exhaust manifold outlet flange",
+      "qty": "3 studs",
+      "torque_ref": null,
+      "note": "Gasket [5] and heat control valve [4] slide over the three exhaust manifold studs below the manifold outlet (studs/nuts not called out on this sheet). Arrow A marks the view direction.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12"
+      ],
+      "to": "intake manifold, threaded boss at the rear beside the distributor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fitting [12] threads straight down into the boss.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Items 1 and 2: binder hole covers leading digits. Item 1 shows a fragment, a fragment, then '70198'; item 2 shows fragments then '7006' (third glyph may be '1'). OCR read '2^20198' and 'S-17006'.",
+    "Torque legend has an empty fifth triangle.",
+    "Revision date read as 6-11-69; the second number is faint (could be 18).",
+    "What the fitting [12] connects to is not shown."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "ITEM 12 ADDED",
+      "was": null,
+      "item": "12"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -46,7 +46,8 @@ def load_sizes():
         if r["spec"]:
             title = re.sub(r"\s*\(Cont'd\.?\)", "", r["title"], flags=re.I).split(" ", 1)[-1].title()
             page = f'p.{r["catalog_page"]}' if r["catalog_page"] else f'scan page {r["pdf_page"]}'
-            sizes[r["pn"]] = f'{title}: {r["spec"]} (GM Standard Parts catalog 1989, group {r["title"][:5]}, {page})'
+            group = f'group {r["title"][:5]}, ' if r["title"] else ""
+            sizes[r["pn"]] = (f"{title}: " if title else "") + f'{r["spec"]} (GM Standard Parts catalog 1989, {group}{page})'
     return sizes
 
 
@@ -139,7 +140,7 @@ def sheet_md(p):
             qty = f' (qty {f["qty"]})' if f.get("qty") else ""
             what = f' {f.get("how", "holds")} {", ".join(map(label, f["holds"]))}' if f.get("holds") else ""
             to = f' to {f["to"]}' if f.get("to") else ""
-            subject = " + ".join(map(label, f["fastener_items"])) or f.get("material") or "Assembly note:"
+            subject = " + ".join(map(label, f["fastener_items"])) or f.get("material") or "Assembly:"
             out.append(f'- {subject}{what}{to}{qty}{tq}. {f.get("note") or ""}')
     if p.get("materials", []):
         out += ["", "**Materials**"] + [f'- {m["code"]} {m["description"]} {m.get("amount") or ""}: {m.get("where") or ""}'

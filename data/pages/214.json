@@ -1,0 +1,222 @@
+{
+  "page": 214,
+  "group": "8",
+  "sheet": "B2",
+  "title": "METER ASM & REAR HOSE",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Fuel tank gauge sending unit (fuel gauge sender / fuel meter) in the tank with its gasket and cam lock ring, the rear fuel hose from the sender outlet to the frame fuel line, and the vapor return hose from the tank vent fitting to the fuel vapor return line. The rear hose is held to the frame by a clip and screw; hoses are clamped at both ends; a clip holds the sender wire near the rear wiring harness.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3927327",
+      "name": "CLIP",
+      "name_expanded": "Clip – sending unit wire to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "125921",
+      "name": "CLIP",
+      "name_expanded": "Clip – rear fuel hose to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3830780",
+      "name": "HOSE",
+      "name_expanded": "Hose – fuel, sending unit to fuel line (rear fuel hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3774937",
+      "name": "CAM",
+      "name_expanded": "Cam (lock ring) – fuel gauge sending unit",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6428127",
+      "name": "METER ASM.",
+      "name_expanded": "Meter assembly – fuel tank gauge sending unit",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3825206",
+      "name": "GASKET",
+      "name_expanded": "Gasket – sending unit to tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – hose clip to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419381",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – vapor return hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3833120",
+      "name": "HOSE",
+      "name_expanded": "Hose – fuel tank vent to fuel vapor return line",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "?",
+      "unit": "",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "fuel tank, sending unit opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sending unit [6] goes into the tank opening on gasket [7]; cam lock ring [5] turns on over its flange to lock it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "sending unit [6] outlet tube and frame fuel line",
+      "qty": "1 each end",
+      "torque_ref": null,
+      "note": "Hose [3] runs from the sender outlet back along the frame to the fuel line; clamp [4] at each end (main view and View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "frame",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View A: clip [2] wraps hose [3]; screw [8] goes through the clip into the frame side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "fuel tank vent pipe and fuel vapor return line",
+      "qty": "1 each end",
+      "torque_ref": null,
+      "note": "View A: hose [10] loops from the tank vent pipe down to the fuel vapor return line at the frame; clamp [9] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "frame crossmember near the rear wiring harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [1] holds the sending unit lead where it runs up to the rear wiring harness.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 2: binder hole covers the first digits; only '21' readable with a fragment before it. The number appears shorter than its neighbours (likely 6 digits), so written as ????21.",
+    "Torque legend triangles are all blank, but screw [8] carries triangle 1 in View A; value not printed.",
+    "Revision 1 old part number is hard to read here (first glyph 3 or 9, sixth 6 or 8); sheet B3 (p215) prints the same revision as 9770783.",
+    "Clip [1] holds a wire, not a callout part; nothing in holds."
+  ],
+  "revisions": [
+    {
+      "date": "10-9-69",
+      "sym": "1",
+      "text": "WAS ?7707?3 CLAMP",
+      "was": "?7707?3",
+      "item": "9"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

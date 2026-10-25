@@ -1,0 +1,35 @@
+{
+  "page": 69,
+  "group": "1",
+  "sheet": "C6",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body (bolt/weld) checking dimensions, all models, continued: cross-sections of the windshield frame upper (header), the lock pillar reinforcement (B-pillar / door lock pillar) with its brace and the folding top hinge support, and the front roof center support and roof bow (the T-top center bar area above the windshield), measured from the body grid lines. No parts or fasteners are listed.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION T-T @ DIAGONAL SECTION IN PLAN VIEW: FRAME ASM-W/S UPPER INNER, FRAME ASM-W/S UPPER OUTER; grid 30 SV (F.O.L.), 35 SV (B.O.L.), WL12; dimensions 3.84, 3.24, 2.96, 2.27, 2.18, 1.99, 1.90, 1.38, 2.94, 2.92, 2.8?, 2.48, 2.42, 1.90, 1.89, 2.17, 2.93.",
+    "U-U @ DIAGONAL SECTION IN SIDE VIEW: REINF ASM-BODY LOCK PILLAR, SUPT-BODY LOCK PILLAR BRACE; grid 30, 25, 55, WL22; dimensions 3.40, .23, 2.76, 3.08, .36, 4.03.",
+    "SECTION V-V @ DIAGONAL SECTION IN SIDE VIEW: SUPPORT-FOLDING TOP HINGE, REINF ASM-BODY LOCK PILLAR; grid WL24, 25, 30, 60; dimensions 2.81, .23, 4.02, 3.40, 2.49, .12.",
+    "SECTION W-W @ 5.00 REAR VIEW: SUPPORT ASM-FRONT ROOF CENTER UPPER, BOW-ROOF CENTER OUTER, BOW-ROOF INNER, SUPPORT-FRONT ROOF CENTER LOWER; grid 60 (F.O.L.), 40 (B.O.L.), 35; dimensions 1.81, .95, .44, 2.75, 3.84, 3.57, 3.35, 3.69, 3.96, 3.63."
+  ],
+  "notes_internal": [
+    "Dimension sheet: no callout list, part numbers, torques or revisions; fastening empty because nothing is fastened on this sheet.",
+    "Drawing number 3965172; UPC box reads '1 BOLT WELD'. 'K67' printed sideways at lower left.",
+    "Section T-T '2.8?': last digit crossed by a dimension line, 6 or 8.",
+    "Section U-U label 'REINF ASM-BODY LOCK PILLAR' is partly lost to a hole punch ('ASM-..DY'); 'BODY' taken from the same label in V-V. U-U title is printed without the word SECTION."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "page": 47,
+  "group": "1",
+  "sheet": "A14",
+  "title": "PLENUM SIDE PANEL",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Plenum side panels (the fiberglass side walls at each end of the cowl plenum, ahead of the door hinge pillars), LH/RH, with their bonded-in outer reinforcement, supports and brackets. The panel is bonded to the body (bonds B and E with 56d adhesive); a mounting plate/reinforcement at the top is bolted through to a reinforcement on the other side with screws and nuts, sealed with 73d; a support at the bottom and a reinforcement plate are riveted to the panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3956285-6",
+      "name": "REINF ASM.-OTR.",
+      "name_expanded": "Reinforcement assembly – outer (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3921577",
+      "name": "REINF.",
+      "name_expanded": "Reinforcement",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3904995-6",
+      "name": "PLENUM-SIDE PNL.",
+      "name_expanded": "Plenum side panel (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3911109",
+      "name": "REINF.",
+      "name_expanded": "Reinforcement",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3857243",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9421033",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3904998",
+      "name": "SUPPORT",
+      "name_expanded": "Support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3918535",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "23-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "56d",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "bond line where the plenum side panel [4] joins the body (bond 'E') and at the lower support [9] (LH view)"
+    },
+    {
+      "key": "B",
+      "code": "73d",
+      "description": "SEALER",
+      "amount": "Approx. 1 oz.",
+      "where": "around the periphery of the mounting plate / outer reinforcement [2] and its attaching bolts [8], each side"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "plenum side panel [4] / cowl structure",
+      "qty": "4 per side",
+      "torque_ref": "1",
+      "note": "Screws [8] go through the outer reinforcement/mounting plate [2] and the panel; nut assemblies [7] on the inner side with reinforcement [3] behind. Holes .192/.218 dia, 4 each side; hole positions dimensioned 17.86, 20.56, 21.80, 21.76.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "plenum side panel [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Outer reinforcement [2] is bonded to the top of the panel at bond line 'B' (no material tag on this bond).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "56d",
+      "holds": [
+        "4"
+      ],
+      "to": "body (cowl / hinge pillar area)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plenum side panel [4] bonded to the body along its edge at bond line 'E' (56d adhesive tag); bond line 'B' also marked at the panel bottom by support [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "9",
+        "5"
+      ],
+      "to": "plenum side panel [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [1] goes through support [9], the panel [4] and reinforcement plate [5] on the other side (lower RH view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "plenum side panel [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "LH view: rivets [6] hold bracket [10] to the panel near the round opening; RH view: rivet [6] through the panel flange where the fuse tapping plate (UPC 12) mounts.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Apply sealer around periphery of mtg. plate and attaching bolts each side as shown.",
+    ".192/.218 DIA (4) HOLES EACH SIDE",
+    "FUSE TAPPING PLATE - SEE UPC 12"
+  ],
+  "notes_internal": [
+    "Item 2: binder hole wipes digits 2-4; first digit faint, reads 3 (OCR read '3285-6'). Written '3???285-6'; 4th digit only partly visible so left as '?'.",
+    "BOND \"B\" / BOND \"E\" are bond-line labels on the drawing, not the legend keys A/B. Only bond E carries a 56d tag; bond B's material is not shown.",
+    "Rubber-stamp 'K45' printed sideways beside the torque triangles; meaning unclear, not added to options.",
+    "Only torque triangle 1 has a value; triangles 2-5 empty.",
+    "C/O box reads A15. Title block also has 'BOLT WELD' box text.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

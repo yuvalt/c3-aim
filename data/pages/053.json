@@ -1,0 +1,266 @@
+{
+  "page": 53,
+  "group": "1",
+  "sheet": "B3",
+  "title": "UNDERBODY-CLOSING PANEL & STORAGE COMPARTMENT SUPPORT",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear underbody behind the seats: the underbody closing panel (back wall of the rear storage compartment, separate coupe and convertible versions), the storage compartment support (cross member under the compartment floor) with its end plate and filler panel, and the underbody panel at the lock pillar / wheelhouse. Panels are bonded fiberglass (bonds B, K, L); the support, plate, filler panel and lock pillar brace are riveted, and convertibles get 87d adhesive at the support ends. The support also carries clips covered in UPC 12.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3914552",
+      "name": "PANEL-UNDERBODY CLOSING",
+      "name_expanded": "Panel – underbody closing (rear storage compartment back wall), coupe",
+      "models": [
+        "19437"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3914553",
+      "name": "PANEL-UNDERBODY CLOSING",
+      "name_expanded": "Panel – underbody closing (rear storage compartment back wall), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3919678",
+      "name": "PLATE",
+      "name_expanded": "Plate (at end of storage compartment support)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3918565",
+      "name": "SUPPORT",
+      "name_expanded": "Support – storage compartment (cross support under the rear compartment)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3918571",
+      "name": "FILLER PANEL",
+      "name_expanded": "Filler panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828550",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3966700",
+      "name": "PANEL-UNDERBODY",
+      "name_expanded": "Panel – underbody (at lock pillar / rear wheelhouse)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "87d",
+      "description": "ADHESIVE",
+      "amount": "5.6 OZ.",
+      "where": "Convertible only: at the lock pillar end of panel [8] and at the outboard end of support [3] (two 87d tags)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "storage compartment support [3] / underbody",
+      "qty": "6 holes in [2]",
+      "torque_ref": null,
+      "note": "Rivet [5] shown at plate [2]; .192/.199 dia holes, (6) places in [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "underbody at the lock pillar end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivets [7] and [6] shown at the inboard/left end of support [3] next to the clip; .192/.199 dia holes, (10) places in [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "support-lock pillar brace"
+      ],
+      "to": "panel [8]",
+      "qty": "6 holes in [8]",
+      "torque_ref": null,
+      "note": "Main view: rivet [7] through the support-lock pillar brace into underbody panel [8]; .192/.199 dia holes, (6) places in [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [9] at the joint of support [3] and filler panel [4] (bond L area).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "panel [8]",
+      "qty": "2 holes in [4]",
+      "torque_ref": null,
+      "note": "View A: rivet [7] through filler panel [4] into panel [8] (bond B area); .192/.199 dia holes, (2) places in [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8",
+        "3"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Convertible only: 87d adhesive at lock pillar end of [8] and at the end of support [3].",
+      "from": "drawing",
+      "how": "glues",
+      "material": "87d"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA. (10) PLACES IN [3]",
+    ".192/.199 DIA (6) PLACES IN [2]",
+    ".192/.199 DIA (6) PLACES IN [8]",
+    ".192/.199 DIA (2) PLACES IN [4]",
+    "CLIP (SEE UPC 12)",
+    "BOND \"B\"",
+    "BOND \"K\"",
+    "BOND \"L\"",
+    "(THIS AREA ONLY)"
+  ],
+  "notes_internal": [
+    "Closing panel [1]: drawn at the top with BOND \"K\" along its top flange to the body; no mechanical fastener shown.",
+    "'(THIS AREA ONLY)' label at top: its leader runs to the upper corner of the closing panel area; what it qualifies is not clear.",
+    "Rivet-to-part mapping in the main view is read from leader positions; exact pairing of [6] vs [7] at the left end of [3] is approximate.",
+    "Rev 1 date: first digit cut off, written '?-16-69'. Rev 3 date: last part smudged, written '7-7-?9'.",
+    "Rev 1/2 circled symbols sit next to item [1] coupe and convertible lines respectively."
+  ],
+  "revisions": [
+    {
+      "date": "?-16-69",
+      "sym": "1",
+      "text": "WAS 3966784 PANEL",
+      "was": "3966784",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3966789 PANEL",
+      "was": "3966789",
+      "item": "1"
+    },
+    {
+      "date": "7-7-?9",
+      "sym": "3",
+      "text": "CLIP REF ADDED (2 PLACES)",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

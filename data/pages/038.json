@@ -1,0 +1,232 @@
+{
+  "page": 38,
+  "group": "1",
+  "sheet": "A5",
+  "title": "BODY LOCK PILLAR REINF BRACE SUPPORT & LOCATING PIN BRACKET",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steel lock pillar (B-pillar) area of the body: the lock pillar brace support [1] (the cross brace behind the seats) and the folding top support [2] are spot-welded to the lock pillar reinforcement. On convertibles (19467) a nut [4] in a welded retainer [3] is added, and a locating pin bracket [7] is screwed with screws [6] (60-75 lb-in) into a tapping plate [5] on the lock pillar; the bracket is left loose until after body drop. View B gives the drilling for the tapping plate holes.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3933083-4",
+      "name": "SUPPORT-LOCK PILLAR BRACE",
+      "name_expanded": "Support – lock pillar brace (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3908191-2",
+      "name": "SUPPORT-FOLDING TOP",
+      "name_expanded": "Support – folding top (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3911142",
+      "name": "RETAINER (19467)",
+      "name_expanded": "Retainer (nut retainer), convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3911141",
+      "name": "NUT (19467)",
+      "name_expanded": "Nut, convertible",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3994798",
+      "name": "PLATE-TAPPING",
+      "name_expanded": "Plate – tapping",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3954658",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3966687-8",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – locating pin bracket (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-75",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "lock pillar reinforcement",
+      "qty": "10 places (A1); 5 places 1.75 pitch (A2) + 5 places 1.00 pitch (A3) each side",
+      "torque_ref": null,
+      "note": "Spot welds. A1 is at the inboard end of the brace (shown near the car centerline, .25 from CL); A2/A3 run down the lock pillar.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "lock pillar",
+      "qty": "8 places each side (B1)",
+      "torque_ref": null,
+      "note": "Spot welds; folding top support [2] on the inboard face of the lock pillar reinforcement.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "lock pillar",
+      "qty": "2 places each side (C1)",
+      "torque_ref": null,
+      "note": "Spot welds. Retainer [3] holds nut [4] on the lock pillar (convertible).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Nut [4] is caged by retainer [3] near the top of the lock pillar (19467).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lock pillar, into tapping plate [5]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A (19467): screws [6] go through the side of bracket [7] and the lock pillar wall into tapping plate [5] behind it. Leave [7] loose until after body drop.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [8] at the top hole of the lock pillar wall, apparently retaining tapping plate [5] (hole alignment lines only).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Loosely asm. 7 until after body drop.",
+    "A 1. Spotweld 10 places. 2. Spotweld 1 to lock pillar 5 places (1.75 pitch)-each side 3. Spotweld 1 to lock pillar 5 places (1.00 pitch)-each side",
+    "B 1. Spotweld 2 to lock pillar 8 places-each side",
+    "C 1. Spotweld 3 to lock pillar 2 places-each side",
+    "View B (19467): .375 +0 -1/64 DIA (2) HOLES USE 5 AS TEMPLATE; .218 +0 -1/64 DIA. (2) HOLES; dimensions 1.25, .35, 3.35, .62; circled 65 and 25.",
+    "CL .25"
+  ],
+  "notes_internal": [
+    "Item 1: digits 6-7 smeared (binder hole edge); visible '39330' + 2 unreadable + '-4'. Vision OCR read 3933007, not used.",
+    "A2 pitch reads 1.75 but the '7' is crossed by a stray line; A3 pitch 1.00 likewise partly crossed.",
+    "Rivet [8] vs tapping plate [5]: the drawing shows hole alignment but does not clearly say what the rivet retains; marked 'apparently'.",
+    "Nut [4] and retainer [3] marked (19467) in the callout list; views A and B also labelled 19467. The tapping plate, screws and bracket have no model code in the list, so models left [].",
+    "Circled 65 and 25 in View B are probably reference/dimension balloons; meaning unclear.",
+    "Circled 3 beside the 'VIEW A' label although rev 3 says VIEW 'B' REVISED.",
+    "Title block: drawing number 3965172; '1-91225' on first L- line; DR /C1, CK 4-18-69 C1; PREL box reads 'A3' and the C/O box '2-11-69' (entries appear swapped); sheet A5 from the title block. Model 19000."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "ASM. NOTE ADDED",
+      "was": null,
+      "item": "7"
+    },
+    {
+      "date": "4-1-70",
+      "sym": "2",
+      "text": "WAS 3966692 PLATE-TAPPING",
+      "was": "3966692",
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "VIEW \"B\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "page": 70,
+  "group": "1",
+  "sheet": "C7",
+  "title": "CHECKING DIMENSIONS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Body (bolt/weld) checking dimensions, all models, last sheet of the set: cross-sections of the roof bow (the rear roof crossbar / T-top rear center bar, inner and center outer panels) at three points and of the lock pillar brace (B-pillar brace), measured from the body grid lines. No parts or fasteners are listed.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SECTION X-X @ DIAGONAL SECTION IN REAR VIEW: BOW-ROOF INNER, BOW-ROOF CENTER OUTER; grid 60 (F.O.L.), WL26, 35; dimensions 2.76, .44, 3.54, 3.21.",
+    "SECTION Y-Y @ 45° TO VERTICAL 20 R.V.: BOW-ROOF INNER, BOW-ROOF CENTER OUTER; grid 60, 65 (F.O.L.), WL30, 35; dimensions 2.76, .42, 1.71, 1.48.",
+    "SECTION Z-Z @ DIAGONAL SECTION IN REAR VIEW: BOW-ROOF INNER, BOW-ROOF CENTER OUTER; grid 60 (F.O.L.), WL28, 25 (B.O.L.); dimensions 2.75, .10, .18, 1.12, .42.",
+    "SECTION AA-AA @ 4.00: SUPPORT-BODY LOCK PILLAR BRACE; grid 5 SV (B.O.L.), 55 SV (F.O.L.); dimensions .27, .09, .18, 1.04, .88, 4.36, 3.95, 2.78, 2.38, 2.70, 2.26, 3.83, 4.26, .74, 1.84, 1.16, 1.30, 3.16, 3.45."
+  ],
+  "notes_internal": [
+    "Dimension sheet: no callout list, part numbers, torques or revisions; fastening empty because nothing is fastened on this sheet.",
+    "Drawing number 3965172; UPC box reads '1 BOLT WELD'. 'K68' printed sideways at lower right.",
+    "Section X-X: 'F.O.L.' at grid 60 partly lost to a hole punch; read from the matching label in Z-Z."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

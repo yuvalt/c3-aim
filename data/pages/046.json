@@ -1,0 +1,356 @@
+{
+  "page": 46,
+  "group": "1",
+  "sheet": "A13",
+  "title": "DASH & CENTER PLENUM PANEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "All models: the fiberglass dash panel (firewall/cowl dash) and center plenum panel (cowl plenum under the windshield) with their small riveted-on reinforcements for the windshield wiper (WSW) motor, the wiper limit switch bracket and the wiper stop bracket. The dash panel is bonded to the underbody and cab frame with cement/sealer, riveted to the hinge pillar outer reinforcements and the lower windshield frame, using 52f sealer on coupes or 87a adhesive on convertibles; the wiper stop bracket is screwed on (20-30 lb-in).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976455",
+      "name": "PANEL-CENTER PLENUM",
+      "name_expanded": "Panel – center plenum (cowl plenum)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963180",
+      "name": "PANEL-DASH",
+      "name_expanded": "Panel – dash (firewall / cowl dash panel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9417075",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3930357",
+      "name": "BRACKET-WSW STOP",
+      "name_expanded": "Bracket – windshield wiper stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3938119",
+      "name": "REINF. ASM.",
+      "name_expanded": "Reinforcement assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3911125",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3831539",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3918599",
+      "name": "REINF. WSW MOTOR",
+      "name_expanded": "Reinforcement – windshield wiper motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3928808",
+      "name": "REINF. LIMIT SW MTG BRACKET",
+      "name_expanded": "Reinforcement – wiper limit switch mounting bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50c",
+      "description": "CEMENT",
+      "amount": "10 OZ.",
+      "where": "reinforcement [6] area on the dash panel, right side of main view"
+    },
+    {
+      "key": "A",
+      "code": "50e",
+      "description": "",
+      "amount": "1 OZ.",
+      "where": "at reinforcement asm [5] on the dash panel"
+    },
+    {
+      "key": "B",
+      "code": "52f",
+      "description": "SEALER",
+      "amount": "",
+      "where": "coupe only: View A bead on the lower windshield frame outer under the dash panel flange, and at the hinge pillar end (note: use to this point only, both sides)"
+    },
+    {
+      "key": "B",
+      "code": "73c",
+      "description": "",
+      "amount": "10 OZ.",
+      "where": "along the dash panel to cab frame joint (at the .192/.199 holes)"
+    },
+    {
+      "key": "C",
+      "code": "87a",
+      "description": "ADHESIVE",
+      "amount": "5.6 OZ.",
+      "where": "convertible only: same places as 52f (View A and hinge pillar end)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel [2] / plenum, upper center",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] goes through the wiper stop bracket [4]; the bracket is used as the template for its holes.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "12"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "dash panel [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wiper motor reinforcement [9] held by rivets [10] and [12] at the wiper motor opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "dash panel [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Limit switch bracket reinforcement [11] held by rivet [8] (left side of main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "dash panel [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "A second rivet [8] goes up from below near reinforcement [6] (right of center).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "cab frame / plenum, right of reinf. asm [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [7] shown entering the dash panel near reinforcement asm [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar reinf. outer",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Two rivets [7] fasten the outer end of the dash panel to the hinge pillar outer reinforcement (one into the top, one into the side), both sides; sealer 52f (coupe) or adhesive 87a (convertible) on the joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "frame-W/S lower outer",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [7] through the dash panel [2] flange into the lower outer windshield frame, over a bead of 52f (coupe) or 87a (convertible).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bond 'K': dash panel [2] bonded to the underbody; bond 'B' at the lower edge of the dash panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "73c",
+      "holds": [
+        "2"
+      ],
+      "to": "cab frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement/sealer 73c along the joint; .192/.199 dia holes in cab frame, 24 places.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "52f",
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar and lower W/S frame (coupe)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer 52f, coupe.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "87a",
+      "holds": [
+        "2"
+      ],
+      "to": "hinge pillar and lower W/S frame (convertible)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Adhesive 87a, convertible.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[4] (USE AS TEMPLATE)",
+    ".192/.199 DIA IN CAB FRAME (24) PLACES",
+    "BOND \"K\" [2] TO UNDERBODY",
+    "BOND \"B\"",
+    "NOTE Use to this point only both sides."
+  ],
+  "notes_internal": [
+    "Item 1 pn printed heavily inked; digits 7/6/4 blotted but read 3976455 (Vision OCR agrees).",
+    "Legend: 50e and 73c have no description printed; they are grouped under key A (cement) and B (sealer) respectively, left blank. 52f has no amount.",
+    "Center plenum panel [1]: attachment not shown (no callout to fasteners); it is part of the assembly at left.",
+    "Reinf. asm [5] and reinforcement [6]: fasteners not clearly called out; [6] appears cemented (50c) with a rivet [8] nearby, [5] with 50e. Rivet [7] near [5] destination unclear.",
+    "Title block: PREL box reads 'A4', C/O line struck, date 3-19-69; sheet A13 clear in the sheet box."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

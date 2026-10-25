@@ -1,0 +1,339 @@
+{
+  "page": 52,
+  "group": "1",
+  "sheet": "B2",
+  "title": "UNDERBODY-DOOR SILL, CONSOLE REINFORCEMENT & SUPPORT",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Underbody parts riveted into the fiberglass floor: the inner door sills (rocker inner panels, LH/RH) with the lower trim brackets, the console reinforcement and console support on the tunnel, a seat belt anchor plate at the tunnel centerline, the shoulder harness anchor reinforcements behind the seats (coupe), and on convertibles the folding-top compartment lid lock striker anchor nut. Sills are bonded to the underbody (bond B, 87c adhesive on convertibles) and riveted; holes drilled to the dimensions shown.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966701-2",
+      "name": "SILL-DOOR",
+      "name_expanded": "Sill – door (inner rocker, LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9418482",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3930345-6",
+      "name": "BRACKET-LWR TRIM",
+      "name_expanded": "Bracket – lower trim (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3918539",
+      "name": "NUT-FOLDING TOP COMPT LID LOCK STKR ANCHOR (19467)",
+      "name_expanded": "Nut – folding top compartment lid lock striker anchor (convertible)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3930651",
+      "name": "PLUG (19467 ONLY)",
+      "name_expanded": "Plug (convertible only)",
+      "models": [
+        "19467"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966707-8",
+      "name": "REINF ANCHOR PLATE SHOULDER HARN",
+      "name_expanded": "Reinforcement – shoulder harness anchor plate (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3918863",
+      "name": "REINF ASM-CONSOLE",
+      "name_expanded": "Reinforcement assembly – console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3942739",
+      "name": "SUPPORT-CONSOLE",
+      "name_expanded": "Support – console",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3828470",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3935659",
+      "name": "ANCHOR PLATE",
+      "name_expanded": "Anchor plate (seat belt, tunnel centerline)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3974006",
+      "name": "RETAINER",
+      "name_expanded": "Retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "87c",
+      "description": "ADHESIVE",
+      "amount": "7.6 OZ.",
+      "where": "door sill [1] joints along the sill (tag reads '87', CONVERT ONLY)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "87c",
+      "holds": [
+        "1"
+      ],
+      "to": "underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Door sill [1] bonded to the underbody at bond line 'B'; adhesive along the sill on convertibles only.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underbody / floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [2] go down through the top of the sill [1] at its rear end; more (uncalled) rivets along the sill top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "door sill [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [3] holds lower trim bracket [4] on the end of the sill.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "tunnel / underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [2] goes up through the console reinforcement [10]; further rivets shown along [10] uncalled.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11"
+      ],
+      "to": "tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: console support [11] fastened down with rivets (uncalled, 4 shown); a rivet [2] in the panel below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "12"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "tunnel at the centerline",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivets [8] and [12] go down into anchor plate [13]; .192/.199 dia holes (5 places). Location dims 50 and 1.36 from centerline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "body behind the seats (convertible)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [6] hold the folding-top compartment lid lock striker anchor nut [5]; 7/32 dia holes (3 places), .343/.359 dia holes (4 places); dims 65, 25, .40, 1.40, 1.55 R. side / 1.85 L. side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "6"
+      ],
+      "holds": [
+        "9",
+        "14"
+      ],
+      "to": "rear body panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C (coupe only) and right view: rivets [8] through the shoulder harness anchor reinforcement [9]; retainer [14] riveted on with rivets [6] and [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "hole in shoulder harness anchor reinforcement [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [7] pushes into the anchor hole on convertibles (19467).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA. HOLE (5) PLACES",
+    ".343/.359 DIA (4) PLACES",
+    "7/32 +0 -1/64 DIA. (3) PLACES",
+    "1.55 R. SIDE / 1.85 L. SI[DE]",
+    "CLIP L.H. ONLY (SEE UPC 12)",
+    "87 (CONVERT ONLY)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole clips digits 4-5 (tops only); OCR read '396-001-2', not used.",
+    "Item 2: binder hole covers digits 3-5; OCR read '385-577', not used.",
+    "Drawing tag reads '87' (letter possibly lost); legend reads 87c.",
+    "'L. SIDE' cut by a hole at the right edge.",
+    "Rev 1 circled beside item 14 in the list and near View A; rev 2 circled at View C.",
+    "Several rivets in the main view (along sill [1], console reinf [10], support [11]) have no callout.",
+    "Rubber-stamp 'K50' beside the legend. C/O box reads 3-6-69, PREL B1."
+  ],
+  "revisions": [
+    {
+      "date": "1-15-70",
+      "sym": "1",
+      "text": "19467 RESTRICTION RMV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-29-70",
+      "sym": "2",
+      "text": "VIEW \"C\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

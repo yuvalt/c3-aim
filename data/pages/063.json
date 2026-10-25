@@ -1,0 +1,111 @@
+{
+  "page": 63,
+  "group": "1",
+  "sheet": "B13",
+  "title": "SUPPORT TO BODY REAR UPPER PANEL",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Convertible (19467) cross support under the rear upper body panel (the rear deck behind the convertible top), running across the car at the centerline over the underbody. An anchor nut plate is riveted onto the support, the joint is cemented with 50p, and the support is bonded to the rear upper panel (bonds B and L, View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958893",
+      "name": "NUT-ANCHOR",
+      "name_expanded": "Anchor nut plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3828550",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3958888",
+      "name": "SUPPORT",
+      "name_expanded": "Support – body rear upper panel (cross support)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": null,
+      "code": "50p",
+      "description": "CEMENT",
+      "amount": "9 oz.",
+      "where": "top of support [3] at the anchor nut [1] / rivet holes"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "support [3]",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Anchor nut plate [1] sits on the support [3] near the car centerline; rivets [2] go through the two outer holes of the plate into the support. The other two plate holes line up with the support holes for the anchor nuts.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "50p",
+      "holds": [
+        "3"
+      ],
+      "to": "anchor nut [1] area",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement 50p at the anchor nut / rivet holes on the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "body panel rear upper / underbody",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: support [3] bonded to the rear upper body panel with bond B and bond L.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch clips the last digit; visible '395889'.",
+    "Item 2: hole punch covers the last two digits; visible '38285'.",
+    "Callout list is printed pn-first (pn to the left of the item box).",
+    "No revisions recorded. Lower-left torque triangles empty; 'K61' printed sideways."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

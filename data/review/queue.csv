@@ -2,8 +2,38 @@ page,sheet,item,pn,issue,hint
 21,0/D1,,9985164,"registry has it, we don't",LUBRICANT-GREASE
 27,0/D7,,9985052,"registry has it, we don't",OPT
 29,0/D9,,9985198,"registry has it, we don't",SEALER-PLASTISOL
+37,1/A4,2,??54515-6,unreadable digits,no registry match
+37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
+37,1/A4,,..54516,"registry has it, we don't",REINF ASM-LOCK PILLAR
+39,1/A6,3,????839-40,unreadable digits,no registry match
+39,1/A6,4,???0?43,unreadable digits,no registry match
+39,1/A6,5,3926326,OCR disagrees,registry agrees
+39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
+39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
+39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
+40,1/A7,2,?9349??,unreadable digits,no registry match
+40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
+44,1/A11,1,393????,unreadable digits,"registry: 3932970,3932950"
+44,1/A11,4,3932979,not in registry,
+46,1/A13,9,3918599,not in registry,
+46,1/A13,10,3828470,not in registry,
+46,1/A13,11,3928808,not in registry,
+46,1/A13,12,3828548,not in registry,
+58,1/B8,10,9409245,OCR disagrees,registry agrees
+58,1/B8,11,9420772,not in registry,
+58,1/B8,,942772,"registry has it, we don't",RIVET
+59,1/B9,11,3947939,not in registry,
+59,1/B9,12,3956231,not in registry,
+59,1/B9,13,3974085-6,not in registry,
+60,1/B10,2,3936???,unreadable digits,no registry match
+60,1/B10,,.....99,"registry has it, we don't",BONDING STRIP
 112,1/F18,3,9431792,OCR disagrees,registry agrees
+112,1/F18,3,9431792,local model disagrees,registry agrees
+112,1/F18,11,3938098,local model disagrees,registry agrees
 142,1/K3,12,3856691,torque ref ? not in legend,
 146,1/K7,3,3966773-4,OCR disagrees,registry agrees
+214,8/B2,10,3833120,not in registry,
+214,8/B2,,383320,"registry has it, we don't",HOSE
+215,8/B3,8,3867164,OCR disagrees,registry agrees
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match

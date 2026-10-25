@@ -1,0 +1,117 @@
+{
+  "page": 34,
+  "group": "1",
+  "sheet": "A1",
+  "title": "CAB FRAME WELDING & DASH PANEL-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the UPC 1 body section A (cab frame welding and dash panel; the steel 'birdcage' inside the fiberglass body): hinge pillar reinforcements (A3), hinge and lock pillar to door sill reinforcement (A4), lock pillar reinforcement, brace support and locating pin bracket (A5), windshield corners and frame (A6, A7), hinge pillar to frame gusset (A8), under-dash brace rods (A9), side roof bow and roof center support (T-top bar) (A10, A11), roof bows and quarter panel trim brackets (A12), dash/firewall and plenum panels (A13, A14, A16), dash panel outlets (A15), dimmer switch pedal (A16), and hinge pillar and door sill extension and filler (A17). A drawing of the cab frame points to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the three-column contents list; two-line titles joined with a space.",
+    "Binder hole wipes letters of the A1 title: printed 'C' ... 'TENTS', written 'C??TENTS'.",
+    "Drawing callouts: A12 at the rear roof bow (two places), A11 roof center support, A10 side roof bow, A3 hinge pillar at the windshield, A7 windshield frame, A6 windshield corner, A13 dash/center plenum, A14 plenum side, A5 lock pillar/rear brace, A17 hinge pillar at door sill, A15 dash outlets, A16 plenum side panel low on the dash, A4 door sill. A1, A2, A8, A9 not called out on the drawing.",
+    "Title block: drawing 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-20-69, C/O A1; UPC 1 BOLT WELD; model 19000. Circled (1) at lower right of the drawing area next to sideways 'K32'. Rev 1 AUTH number illegible.",
+    "Torque legend triangles are blank."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "CAB FRAME WELDING & DASH PANEL CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "C??TENTS"
+        ],
+        [
+          "A2",
+          "CONTENTS"
+        ],
+        [
+          "A3",
+          "HINGE PILLAR INNER & OUTER REINF."
+        ],
+        [
+          "A4",
+          "HINGE & LOCK PILLAR TO DOOR SILL REINF."
+        ],
+        [
+          "A5",
+          "BODY LOCK PILLAR REINF. BRACE SUPPORT & LOCATING PIN BRKT."
+        ],
+        [
+          "A6",
+          "W/S CORNERS-UPPER & LOWER"
+        ],
+        [
+          "A7",
+          "UPPER & LOWER W/S FRAME"
+        ],
+        [
+          "A8",
+          "GUSSET-BODY HINGE PILLAR TO FRAME LOWER"
+        ],
+        [
+          "A9",
+          "UNDER DASH BRACE RODS"
+        ],
+        [
+          "A10",
+          "SIDE ROOF BOW"
+        ],
+        [
+          "A11",
+          "ROOF CENTER SUPPORT"
+        ],
+        [
+          "A12",
+          "ROOF BOWS, QUARTER PNL TRIM & BRKTS."
+        ],
+        [
+          "A13",
+          "DASH & CENTER PLENUM PANEL"
+        ],
+        [
+          "A14",
+          "PLENUM SIDE PANEL"
+        ],
+        [
+          "A15",
+          "DASH PANEL OUTLETS"
+        ],
+        [
+          "A16",
+          "PLENUM SIDE PANEL & DIMMER SW PEDAL"
+        ],
+        [
+          "A17",
+          "BODY HINGE PILLAR & DOOR SILL EXTENSION & FILLER"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

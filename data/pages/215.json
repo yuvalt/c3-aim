@@ -1,0 +1,176 @@
+{
+  "page": 215,
+  "group": "8",
+  "sheet": "B3",
+  "title": "FUEL LINE & CLIPS",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Fuel feed pipe and fuel return pipe (the main steel fuel lines) running along the frame rail from the tank area to the front of the engine, held by clips screwed to the frame at several points, plus the short rubber hoses and clamps that join the pipes to the fuel pump at the front (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – fuel line clip to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3923695",
+      "name": "CLIP",
+      "name_expanded": "Clip – fuel lines to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3972687",
+      "name": "PIPE-FUEL FEED",
+      "name_expanded": "Pipe – fuel feed (main fuel line, tank to pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3949021",
+      "name": "PIPE-FUEL RETURN",
+      "name_expanded": "Pipe – fuel return line",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3933330",
+      "name": "HOSE",
+      "name_expanded": "Hose – fuel feed pipe to fuel pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419381",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3867164",
+      "name": "HOSE",
+      "name_expanded": "Hose – fuel return pipe at the fuel pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "72-96",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "4"
+      ],
+      "to": "frame side rail and kick-up over the rear axle",
+      "qty": "one screw per clip, about 7 clip locations",
+      "torque_ref": "1",
+      "note": "Each clip [2] wraps both the feed pipe [3] and return pipe [4]; screw [1] goes through the clip into the frame. Clips are spaced from the front of the frame rail, past the crossmember, up the kick-up and over the rear of the frame toward the tank.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "front end of feed pipe [3] and fuel pump inlet",
+      "qty": "1 each end",
+      "torque_ref": null,
+      "note": "View A: hose [6] joins the feed pipe to the pump inlet; clamp [5] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "front end of return pipe [4] and the return fitting at the fuel pump",
+      "qty": "1 each end",
+      "torque_ref": null,
+      "note": "View A: hose [8] joins the return pipe to the return fitting below the pump; clamp [7] at each end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 2: binder hole covers the first two digits; visible '23695'.",
+    "Item 8: third digit read as 6 (small round counter); OCR read 3807164.",
+    "Clip count estimated from the drawing callouts; not stated.",
+    "View A hoses cross; pairing hose [6]/clamps [5] with feed pipe [3] and hose [8]/clamps [7] with return pipe [4] follows the leader lines but is not certain.",
+    "Revision date middle digit unclear (10-?-69); sheet B2 (p214) shows 10-9-69 for the same change."
+  ],
+  "revisions": [
+    {
+      "date": "10-?-69",
+      "sym": "1",
+      "text": "WAS 9770783 CLAMP",
+      "was": "9770783",
+      "item": "7"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}

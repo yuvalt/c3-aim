@@ -1,0 +1,215 @@
+{
+  "page": 49,
+  "group": "1",
+  "sheet": "A16",
+  "title": "PLENUM SIDE PANEL & DIMMER SWITCH PEDAL",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Plenum side panel extensions (LH/RH), the dash panel extension and the lower dash extension at the front footwell corners (kick panel area), all bonded together (bonds A, B, G) and then sealed on both sides with 53c/53j sealer. View B: the headlamp dimmer switch foot pedal is riveted through the floor/toe board to a backing plate underneath.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3963173",
+      "name": "PLENUM-PNL SIDE EXT. L.H.",
+      "name_expanded": "Plenum panel side extension – LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3976461-2",
+      "name": "PANEL-DASH EXT.",
+      "name_expanded": "Panel – dash extension (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3963174",
+      "name": "PANEL-PLENUM SIDE EXT. R.H.",
+      "name_expanded": "Panel – plenum side extension – RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3922387",
+      "name": "PLATE",
+      "name_expanded": "Plate (backing plate under dimmer pedal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3940687",
+      "name": "PEDAL-DIMMER SWITCH",
+      "name_expanded": "Pedal – headlamp dimmer switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828472",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3963165-6",
+      "name": "EXTENSION-DASH EXTENSION LOWER",
+      "name_expanded": "Extension – dash extension lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "53c",
+      "description": "SEALER",
+      "amount": "Approx. 7oz.",
+      "where": "seam between plenum side extension [1] and dash extension [2] (main view, note B)"
+    },
+    {
+      "key": "A",
+      "code": "53j",
+      "description": "SEALER",
+      "amount": "Approx. 8 oz.",
+      "where": "top of the extension joint (main view) and top of the RH extension [3] (View A), note B"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1",
+        "2",
+        "8"
+      ],
+      "to": "center plenum panel / dash and each other",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view (LH): extension [1], dash extension [2] and lower extension [8] bonded at bond lines 'A', 'B' and 'G'.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "dash / RH side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (RH side): extension [3] bonded at 'BOND' and bond line 'B'.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53c",
+      "holds": [
+        "1",
+        "2",
+        "3"
+      ],
+      "to": "bonded joints",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note B: after the parts are bonded, apply 53c/53j sealer to both sides of the joints in the marked area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [
+        "5",
+        "4"
+      ],
+      "to": "floor / toe board",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: dimmer switch pedal [5] sits on top of the toe board and plate [4] underneath; rivets [6] and [7] go down through the pedal bracket, the panel and the plate.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[B] Apply to both sides of joints in this area after parts are bonded together."
+  ],
+  "notes_internal": [
+    "Item 2: digits 3-4 damaged (binder hole/specks); reads '39' + two broken glyphs + '461-2'.",
+    "Legend key A lists both 53c and 53j; key B is the note. Main-view tags read '53j [B]' and '[B] 53c'.",
+    "Rev 3: handwritten 'WAS 3?08125-6 PANEL-DASH EXT.'; 2nd digit unclear (2 or 9), suffix read as -6. Circled 3 beside item 2.",
+    "Rev 1 (RH panel ext) circled 1 at View A item 3 callout (box partly faint); rev 2 (LH) circled 2 at item 1 callout.",
+    "View B: which of rivets [6]/[7] goes in which hole is not clear from the leaders; both shown going through pedal [5] into plate [4].",
+    "Rubber-stamp 'K47' sideways beside the empty torque triangles. C/O box reads A17."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "R.H. PANEL EXT. DWG REV'D.",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "L.H PANEL EXT. DWG. REV'D.",
+      "was": null,
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3?08125-6 PANEL-DASH EXT.",
+      "was": "3?08125-6",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-25"
+  }
+}
