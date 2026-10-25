@@ -1,0 +1,261 @@
+{
+  "page": 164,
+  "group": "3",
+  "sheet": "A2",
+  "title": "UPPER & LOWER CONTROL ARM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front suspension upper and lower control arms (A-arms), LH and RH, all models. The upper arm [1] cross shaft is bolted to the frame bracket by bolts [3] and nuts [4] (45-55 lb-ft) with alignment shims [2] between shaft and bracket to set caster and camber; the lower arm [10] cross shaft is bolted to the frame by bolts [5] through special washers [6] into nuts [7] (75-110 lb-ft). Bolts [9] with lock washers [11] at the lower arm pivot are tightened (60-80 lb-ft) with the suspension compressed to alignment height.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3820481-2",
+      "name": "ARM ASM.-UPPER",
+      "name_expanded": "Upper control arm assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3751284",
+      "name": "SHIM",
+      "name_expanded": "Shim – upper control arm (caster/camber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3751282",
+      "name": "SHIM",
+      "name_expanded": "Shim – upper control arm (caster/camber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3751248",
+      "name": "SHIM",
+      "name_expanded": "Shim – upper control arm (caster/camber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "381909",
+      "name": "BOLT",
+      "name_expanded": "Bolt – upper control arm shaft to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "4",
+      "pn": "9422299",
+      "name": "NUT",
+      "name_expanded": "Nut – upper control arm shaft bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3795792",
+      "name": "BOLT",
+      "name_expanded": "Bolt – lower control arm shaft to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3779096",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9422304",
+      "name": "NUT",
+      "name_expanded": "Nut – lower control arm shaft bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3742249",
+      "name": "ANCHOR NUT",
+      "name_expanded": "Anchor nut (plate nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "454976",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3840603-4",
+      "name": "ARM ASM.-LOWER",
+      "name_expanded": "Lower control arm assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "40 - 55",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "75 - 110",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "60 - 80",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "45 - 55",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "frame upper control arm bracket",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [3] goes through the frame bracket and the upper arm [1] cross shaft; shims [2] sit between shaft and bracket; nut [4] on the bolt from the inboard side. One bolt per shaft end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6",
+        "7"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "frame, under the spring pocket",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [5] goes down through special washer [6], the lower arm [10] cross shaft and the frame; nut [7] on the bottom.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "11",
+        "8"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "lower control arm pivot / frame",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolt [9] with lock washer [11] goes up from below at the lower arm [10] pivot; anchor nut [8] is a two-hole plate nut at the frame next to the pivot. Torque with suspension compressed to the height at which geometry is set (NOTE, triangle 3).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Shim to fill gap at each end as required by caster and camber adjustment. Max one each of the two thinner shims (.03 in and .06 in) on any end. Nominal shim pack is 3 × .120 shims.",
+    "NOTE (torque 3): Tighten with suspension compressed to height at which geometry is set."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes digits 4–6; '382', then a clipped digit, '1-2' visible.",
+    "Item 3: last digit reads as 3 or 9 (OCR: 381909); left as '?'.",
+    "Shim note: 'ea[ch e]nd' partly under the hole punch.",
+    "Torque 1 (40-55) has no matching callout in the drawing after rev 2 moved nut [4] from symbol 1 to 4.",
+    "Bolt [9]/anchor nut [8]: exactly which hole the bolt enters is not clear; [8] leader points to a two-hole plate at the frame beside the lower arm pivot. Ball joints and bushings are part of the arm assemblies (no callouts).",
+    "Rev 1 date first digit read as 2; circled (1) beside torque 3 in the legend."
+  ],
+  "revisions": [
+    {
+      "date": "2-6-70",
+      "sym": "1",
+      "text": "TORQUE 3 WAS 65-75 LBS FT",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "4-22-70",
+      "sym": "2",
+      "text": "WAS TORQUE SYMBOL 1",
+      "was": null,
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

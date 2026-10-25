@@ -1,0 +1,221 @@
+{
+  "page": 177,
+  "group": "5",
+  "sheet": "A2",
+  "title": "BRAKE PEDAL HOUSING, REINF. & COVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Brake pedal housing (pedal support box on the driver's side of the dash/firewall) with its bottom reinforcement plate and the cover-bracket over it. The reinforcement is riveted to the housing, a strap on the housing side is riveted, and the cover-bracket is glued to the body with 56e adhesive (bonds F and G) and screwed into the housing with screws [2].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3963183",
+      "name": "HOUSING ASM.",
+      "name_expanded": "Brake pedal housing assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3847757",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9409244",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3948131",
+      "name": "REINFORCEMENT",
+      "name_expanded": "Reinforcement – brake pedal housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3945368",
+      "name": "COVER-BRACKET PEDAL HOUSING",
+      "name_expanded": "Cover – brake pedal housing bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3850026",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "56e",
+      "description": "ADHESIVE",
+      "amount": "",
+      "where": "View A, around the edges of cover-bracket [6] (BOND F along the top, BOND G down the inner edge, and the lower edge)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body at the upper corner of the housing",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [2] goes into the upper right flange of the housing [1] (torque 1). What it threads into is not clear from the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "brake pedal housing [1]",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "View A: screws [2] pass through two holes in the cover-bracket [6] into nuts on the housing behind it (torque 3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "56e",
+      "holds": [
+        "6"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: cover-bracket [6] edges bonded with 56e adhesive at BOND F (top) and BOND G (inner side) and along the bottom edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "brake pedal housing [1]",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Rivets [7] go through the lower part of the reinforcement [4] at the front of the housing; .192/.199 dia. holes, 2 places.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "strap along the lower side of the housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [3] go down through the strap/flange along the right side of the housing [1].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".192/.199 DIA. 2 HOLES"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole clips the 4th digit: '396?183' (OCR read 3963183).",
+    "Item 2: binder hole covers digits 3-5: '38???57' (a fragment of the 3rd digit looks like 4; OCR read 384).",
+    "Item 5: callout line is blank; circled revision 3 beside it (nut 3759924 removed).",
+    "Torque legend triangles 4 and 5 have no values; 'K175' is written vertically beside them.",
+    "Torque 2 (20-30 LBS IN) is not used in the drawing; revision 3 says the nut 3759924 with torque 20-30 LBS IN was removed.",
+    "Hex nuts drawn on the housing flanges have no callout (see revisions 3 and 4: nut and stud removed). Large circled 'C' on the housing is unexplained.",
+    "Item 3 rivet: exact parts joined is ambiguous; strap on the housing side has no callout."
+  ],
+  "revisions": [
+    {
+      "date": "12-11-69",
+      "sym": "1",
+      "text": "WAS 9401102 RIVET",
+      "was": "9401102",
+      "item": "7"
+    },
+    {
+      "date": "3-10",
+      "sym": "2",
+      "text": "WAS 3945319 REINF ASM",
+      "was": "3945319",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "3759924 NUT (TORQUE 20-30 LBS IN) REMOVED",
+      "was": "3759924",
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "STUD DRAWING REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

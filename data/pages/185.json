@@ -1,0 +1,220 @@
+{
+  "page": 185,
+  "group": "6",
+  "sheet": "A2",
+  "title": "GENERATOR MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Generator (alternator) mounting on the RH front of the engine, all models. The alternator's lower ear bolts to the engine bracket above the exhaust manifold with a bolt and lock washer; the upper ear is held through the slotted generator brace (adjusting strap/bracket for belt tension) with a bolt, lock washer and plain washer, and the brace's lower end is bolted to the engine front.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3881816",
+      "name": "BRACE-GEN",
+      "name_expanded": "Brace – generator (alternator adjusting brace)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3792420",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "180079",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1100901",
+      "name": "GENERATOR ASM.",
+      "name_expanded": "Generator (alternator) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "138489",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer (external tooth)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419061",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419056",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3970037",
+      "name": "ENGINE ASM.",
+      "name_expanded": "Engine assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "3",
+        "2"
+      ],
+      "holds": [
+        "5",
+        "1"
+      ],
+      "to": "generator upper mounting ear",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Bolt [4] with lock washer [3] and plain washer [2] goes from the outboard side through the slot in brace [1] into the generator's upper ear; sets belt tension.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "engine [10] front, low on RH side",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Bolt [9] with lock washer [8] fastens the lower end of brace [1] to the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "engine mounting bracket above the exhaust manifold",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Bolt [7] with tooth lock washer [6] goes from the front through the generator's lower ear into the engine bracket.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 2: binder hole covers three middle digits; visible '37' + '20'.",
+    "Item 4: second digit blurred in the 1-bit scan, reads 8 at 300 dpi (OCR also 180079) but could be 6; flagged.",
+    "Engine [10]: the base the generator mounts to; no own fastening.",
+    "Rev 1 'was' pn: handwritten '17??47' (3rd digit 3 or 9, 4th 8-like); rev 3 old torque partly smeared.",
+    "Revision symbol (1) circled at item 9, (2) at item 10, (3) at the torque legend line 1. Sideways 'K183' beside torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "WAS 17??47 BOLT",
+      "was": "17??47",
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 10 ADDED",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "9-17-69",
+      "sym": "3",
+      "text": "TORQUE (1) WAS 1??-132 LB IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

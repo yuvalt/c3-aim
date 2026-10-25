@@ -1,0 +1,56 @@
+{
+  "page": 168,
+  "group": "3",
+  "sheet": "A6",
+  "title": "FRONT SUSPENSION GEOMETRY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Factory front-end alignment specs (front wheel alignment): camber, caster (manual vs power steering) and toe-in, with the load condition and the 'Z' height at which geometry is set. No parts or fasteners on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "\"ALL SUSPENSION GEOMETRY EXCEPT TOE-IN TO BE SET & CHECKED AT \"Z\" DIM. OF 1.95 EXCEPT F41 WHICH IS 1.25. TOE-IN TO BE CHECKED WITH VEHICLE IN AS SHIPPED CONDITION.\"",
+    "CAMBER ANGLE 0°30' ± 30' (FRONT VIEW)",
+    "PER WHEEL TOE-IN X-Y DIM 3/32 ± 1/32 (TOP VIEW)",
+    "LOAD CONDITIONS: AS SHIPPED - OIL, WATER, 2 GALS. OF FUEL & RECOMMENDED TIRE PRESSURE",
+    "Front view also shows steering axis inclination and the positive direction for camber; side view shows the positive direction for caster."
+  ],
+  "notes_internal": [
+    "Hole punch hides letters of 'TOE-IN' (twice) in the top note; words restored, no digits affected.",
+    "Power caster reads 2°45' (handwritten 4); Vision OCR read 2°15'.",
+    "Toe tolerance denominator '32' is overwritten but legible.",
+    "No revisions; legend triangles empty. Margin code K166."
+  ],
+  "revisions": [],
+  "options": [
+    "F41"
+  ],
+  "tables": [
+    {
+      "title": "CASTER ANGLE (SIDE VIEW)",
+      "columns": [
+        "Steering",
+        "Caster angle"
+      ],
+      "rows": [
+        [
+          "MANUAL",
+          "1°30' ± 30'"
+        ],
+        [
+          "POWER",
+          "2°45' ± 30'"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

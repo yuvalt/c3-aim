@@ -1,0 +1,363 @@
+{
+  "page": 126,
+  "group": "1",
+  "sheet": "F32",
+  "title": "REVEAL & UPPER WINDSHIELD MOLDING",
+  "models": [
+    "19467"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield header area of the T-top body: the windshield upper reveal molding (chrome trim along the top of the windshield frame), the roof center support reveal molding (trim on the T-bar center brace where it meets the header) and the windshield header corner moldings at each end. The moldings snap onto clips that are screwed to the windshield upper frame; the center support molding is screwed down into a riveted bracket and into a nut on the corner molding, and the corner molding is screwed into a U-nut on the frame-upper corner outer. Screws through the frame get 50p sealer. Related sheet: F31 (roof panel weatherstrips).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3935577",
+      "name": "MOLDING-W/S UPR REVEAL",
+      "name_expanded": "Molding – windshield upper reveal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966659",
+      "name": "MOLDING-ROOF CTR SUPT RVL",
+      "name_expanded": "Molding – roof center support reveal (T-top center bar trim at the windshield header)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9414764",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966601-2",
+      "name": "MOLDING ASM.-W/S HEADER CORNER",
+      "name_expanded": "Molding assembly – windshield header corner (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3936399",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3919773",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "4767684",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3913937",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9422032",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9421112",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3966660",
+      "name": "BRACKET",
+      "name_expanded": "Bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9428047",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3870384",
+      "name": "NUT \"U\"",
+      "name_expanded": "Nut – U-nut (clip nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9420587",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "11d",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "View A, on the top boss of the header corner molding [5]"
+    },
+    {
+      "key": "B",
+      "code": "50p",
+      "description": "SEALER",
+      "amount": ".01 OZ.",
+      "where": "on screws [9] and [16]"
+    },
+    {
+      "key": "C",
+      "code": "57d",
+      "description": "CEMENT",
+      "amount": "2.5 IN.",
+      "where": "View B, on the header corner molding [5], wrapped around the edges"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "frame-upper corner outer (windshield header corner)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [9] with 50p sealer goes through clip [7] into the frame-upper corner outer; drill .140/.144 dia holes (2 each side) using the frame as template. The header corner molding [5] snaps over clip [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "15"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame-upper corner outer",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A and main view: screw [4] goes in from the side through the header corner molding [5] into U-nut [15] clipped on the frame-upper corner outer.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "frame-upper outer (windshield header)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C and main view: screw [9] with 50p sealer goes through clip [10] into the frame-upper outer; drill .140/.144 dia holes (3 each side) using the frame as template. The windshield upper reveal molding [1] snaps over clips [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "roof center support at the windshield header",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: rivet [14] fastens bracket [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket [13] (front) and nut [8] on header corner molding [5] (rear)",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Main view and View C: two screws [16] with 50p sealer go down through the roof center support reveal molding [2]; one into bracket [13], the other down through nut [8] seated on the header corner molding [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "11"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "frame-upper inner",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: screw [12] threads into nut [11] clipped on the frame-upper inner; in the main view it secures the end of the reveal molding at arrow C.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "57d",
+      "holds": [
+        "5"
+      ],
+      "to": "windshield header",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: 57d cement on the underside of [5], wrapped around the edges.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".140/.144 DIA (2) HOLES EA SIDE. USE FRAME-UPPER COR OTR AS TEMPLATE",
+    ".140/.144 DIA (3) HOLES EA. SIDE USE FRAME-UPPER OUTER AS TEMPLATE",
+    ".140/.144 DIA HOLE USE CENTER OF SLOT IN [5] AS TEMPLATE",
+    ".58 (REF.)",
+    ".45",
+    "57d (WRAP AROUND EDGES)"
+  ],
+  "notes_internal": [
+    "Model box prints 19467 (convertible) although the parts are T-top/coupe roof parts; copied as printed.",
+    "Items 3 and 6 are blank callout lines: circled 5 at item 3 (rev 5 removed seal), circled 6 near the drawing (rev 6 notch note removed).",
+    "Rev 5 removed seal pn handwritten; last digit could be 3 or 9, written as 396667?.",
+    "Nut [11]/screw [12]: exact part held is not clear; main view shows [12] at the end of the reveal molding near arrow C.",
+    "Rev 1 date written '92669', read as 9-26-69."
+  ],
+  "revisions": [
+    {
+      "date": "9-26-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-7-70",
+      "sym": "2",
+      "text": "VIEW A & C REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "CALLOUT REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SCREW DRAWING REVISED",
+      "was": null,
+      "item": "12"
+    },
+    {
+      "date": "1-29-70",
+      "sym": "5",
+      "text": "396667? SEAL RMV'D",
+      "was": "396667?",
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "\"NOTCH\" NOTE RMV'D",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

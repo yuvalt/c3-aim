@@ -1,0 +1,233 @@
+{
+  "page": 137,
+  "group": "1",
+  "sheet": "J6",
+  "title": "SEAT BACK- FINAL TRIM",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Final trim on the back of the bucket seat: the seat back panel (the hard plastic rear shell of the seat back, painted interior trim color), the escutcheon around the seat back lock release at the top, and on coupes an escutcheon for the shoulder harness opening in the upper seat back. The trim cover edges are hog-ringed to the frame; the seat back panel hooks on with its top tab routed through a slit in the trim, is screwed through a bracket at the top and with a screw at the bottom; the escutcheons are screwed on.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9422245",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3930417-8",
+      "name": "BRACKE?",
+      "name_expanded": "Bracket – seat back panel upper (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3974092",
+      "name": "PANEL-SEAT BACK",
+      "name_expanded": "Panel – seat back (rear shell)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "4083589",
+      "name": "RING-HOG (AS REQ'D)",
+      "name_expanded": "Hog ring (as required)",
+      "models": [],
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3849368",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3976549-0",
+      "name": "ESCUTCHEON",
+      "name_expanded": "Escutcheon – seat back shoulder harness opening (LH/RH), coupe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9414752",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3972597",
+      "name": "ESCUTCHEON",
+      "name_expanded": "Escutcheon – seat back lock release opening (rear of seat back top)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9423470",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "trim cover"
+      ],
+      "to": "seat back frame (rear edge)",
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "note": "Main view: hog rings [4] clip the rear edge of the trim cover (labelled TRIM) to the seat back frame around the sides and top, before the panel goes on.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "seat back frame, upper",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: the TAB-SEAT BACK PANEL at the top of panel [3] is routed through a slit in the trim cover; bracket [2] sits on the top edge of the panel, and screw [1] goes through the bracket into the seat back. Caution: slit the trim cover and route the tab before securing with [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "seat back frame, lower",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: screw [5] goes through the hole at the lower corner of the seat back panel [3] into the seat back frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "seat back frame insert (J3 item 7), upper outboard side of seat back",
+      "qty": "2 per escutcheon",
+      "torque_ref": "2",
+      "note": "View A (19437 coupe): escutcheon [6] is screwed over the trim cut-out at the insert with two screws [7]. Use the insert as a guide for the trim cut-out. View B shows the cut: 1st cut along the top of the escutcheon, 2nd cut each side, discard the flap and tuck the vinyl under the shoulder harness bar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "rear of the seat back top, at the lock release opening",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "View C: escutcheon [8] goes over the rectangular opening at the top rear of the seat back; screws [9] at each end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Slit trim cover & route seat back panel tab thru trim before securing with [1].",
+    "NOTE: Use insert as guide for trim cut out.",
+    "A: Paint body interior trim color. (applies to panel [3])",
+    "View B: 1ST CUT ALONG THE TOP OF ESCUTCHEON; 2ND CUT (EA SIDE); ??SCARD; TUCK VINYL UNDER BAR (shoulder harness bar, seat back frame insert)."
+  ],
+  "notes_internal": [
+    "Item 2 name: binder hole wipes the last letter ('BRACKE'). pn clear.",
+    "View B label 'DISCARD' has its first letters wiped by a binder hole; written '??SCARD'.",
+    "Escutcheon [6] role (shoulder harness opening) inferred from View B labels SHOULDER HARNESS BAR and SEAT BACK FRAME INSERT; View A is 19437 only but the callout list has no model code, so part models left empty.",
+    "Screw counts for [7] and [9] read from the drawing (two holes in each escutcheon); not stated in text.",
+    "Circled 1 on panel [3] = rev 1; circled 2 next to VIEW B = rev 2.",
+    "Title block: drawing number 3965172; DR RH/C1, CK 12-1?-69 C1, PREL struck, C/O 12-10-69; UPC 1 SEATS; model 19000 (all). 'K135' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "2-10-70",
+      "sym": "1",
+      "text": "ITEM 3 DWG REVISED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW \"B\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

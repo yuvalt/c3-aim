@@ -1,0 +1,162 @@
+{
+  "page": 135,
+  "group": "1",
+  "sheet": "J4",
+  "title": "SEAT BACK- TRIM COVER ATTACHMENT",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "How the bucket seat back upholstery (trim cover) is secured to the seat back spring & frame, and how the seat back is mounted to the seat cushion. Step 1: hog rings clip the upper outboard edge of the trim cover, then its lower edge, to the frame springs (stretch the outboard corners smooth first). Step 2: the seat back hinge arm is bolted to the seat cushion frame with a screw assembly (pivot), washer and nut, and a rubber bumper (seat back stop) screws into a weld nut on the bottom of the seat back frame.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "4083589",
+      "name": "RING-HO? (?S REQ'D)",
+      "name_expanded": "Hog ring (as required)",
+      "models": [],
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3901496",
+      "name": "BUMPER ASM.",
+      "name_expanded": "Bumper assembly – seat back stop bumper",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "2394722",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3977799",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – seat back hinge pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "115854",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-110",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "trim cover"
+      ],
+      "to": "seat back spring & frame asm. (J3 item 3)",
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "note": "Step 1: hog rings [1] clip the trim cover edge to the frame wire, first along the upper outboard edge, then along the lower edge (row of rings along the bottom frame wire). Stretch the outboard corners smooth before securing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3",
+        "5"
+      ],
+      "holds": [
+        "seat back hinge (J3 item 6)"
+      ],
+      "to": "seat cushion frame side",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Step 2: screw assembly [4] goes from the outboard side through the hole at the end of the seat back hinge arm into the seat cushion; plain washer [3] and nut [5] go on the other end (break lines show them on the far side). This is the seat back pivot.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "weld nut on the bottom of the seat back frame",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Step 2: bumper assembly [2] has its own threaded stud (no separate screw) and screws up into the WELD NUT on the underside of the seat back frame, next to the hinge; it acts as the seat back stop against the cushion. A second weld nut location is drawn on the inboard side.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Outboard corners are to be stretched smooth before securing with [1].",
+    "A: [1] to upper outboard edge of trim cover to spring & frame asm. Next [1] to lower edge of trim cover to spring & frame asm."
+  ],
+  "notes_internal": [
+    "Item 1 name: binder hole wipes the middle; visible 'RING-HOC' and 'S REQ'D)' (J3 lists the same pn as RING-HOG (AS REQ'D)). pn clear.",
+    "Which side of the pivot the washer [3] sits on (between hinge and cushion frame, or under the nut) is not clear from the break lines.",
+    "Title block: drawing number 3965172; DR RH/C1, CK 4-18-69 C1, PREL J4 3-19-69; UPC 1 SEATS; model 19000 (all). 'K133' printed sideways next to the torque legend.",
+    "Circled 3 next to item 4 and circled 2 next to item 5 in the callout list."
+  ],
+  "revisions": [
+    {
+      "date": "12-16-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-19-70",
+      "sym": "2",
+      "text": "ITEM 5 ADDED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3863372 SCREW",
+      "was": "3863372",
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

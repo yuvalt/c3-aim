@@ -1,0 +1,166 @@
+{
+  "page": 156,
+  "group": "1",
+  "sheet": "M2",
+  "title": "DEFROSTER GRILLE, DUCT & CABLES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Windshield defroster (all models): the defroster duct runs from the heater box up to the defroster grille (the slotted vent on top of the dash, at the base of the windshield). The duct is screwed to the dash structure, the grille is screwed up from below into the instrument panel top (View A), and the heater control cables clip onto the heater-box door levers with a push-on nut and have their housings clamped by a screw (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9427398",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – defroster duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3909006",
+      "name": "DUCT",
+      "name_expanded": "Defroster duct",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "381700",
+      "name": "NUT",
+      "name_expanded": "Nut – push-on retainer, cable end to lever stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9427325",
+      "name": "SCREW",
+      "name_expanded": "Screw – cable housing clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3915699",
+      "name": "GRILLE",
+      "name_expanded": "Defroster grille – dash top vent",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419778",
+      "name": "SCREW",
+      "name_expanded": "Screw – defroster grille",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "7-12",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "dash / heater structure under the instrument panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw assembly [1] goes through the side tab of the defroster duct [2] (main view); the duct's upper end sits under the grille [5] opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "instrument panel pad / dash top",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screws [6] go up from below through the grille [5] end tabs into the dash top under the instrument panel pad (4 tab positions shown with dashed lines).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [],
+      "to": "heater door lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: the cable asm. wire end goes over the stud on the door lever and is held by push-on nut [3]. The lever carries its own stud; there is no separate stud part.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "cable bracket on heater case",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [4] clamps the cable asm. housing (sheath) clip to the bracket on the heater case.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "INST. PANEL PAD ASM.",
+    "CABLE ASM"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes out digits 3-5; written 94???98.",
+    "Item 3: printed as six digits '381700'; copied as printed.",
+    "Cable asm. has no callout number on this sheet, so fastenings [3]/[4] have empty 'holds'.",
+    "Duct [2]: only one screw [1] callout; top tab hole also visible but no fastener called out there.",
+    "'K154' printed vertically above the title block; not used."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

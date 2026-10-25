@@ -1,0 +1,102 @@
+{
+  "page": 162,
+  "group": "2",
+  "sheet": "A1",
+  "title": "FRAME ASSEMBLY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Chassis frame assembly, all models: the complete frame [1] with its gage (locating) holes and dimensions used when the body is dropped onto it, plus the bolt-in member assembly [2] (crossmember at the rear kickup), held at each end by a bolt [4] with lock washer [3] driven up from below, 55-65 lb-ft.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974600",
+      "name": "FRAME ASM.",
+      "name_expanded": "Frame assembly (chassis frame)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3949087",
+      "name": "MEMBER ASM.",
+      "name_expanded": "Member assembly – crossmember (bolt-in, rear kickup area)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "454933",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "55 -65",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "frame [1], rear kickup",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [4] goes up from below through lock washer [3] into the end of member [2] at the frame (one end shown, RH side).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: At body drop use a .562 +.000/-.002 dia. pins at locations shown on L.H. & R.H. side.",
+    "Gage holes: R.H. GAGE HOLE, L.H. GAGE HOLE, GAGE HOLE A.",
+    "24.00 ±.03 (along the frame side rail, to the L.H. gage hole)",
+    "36.30 ±.03 (from gage hole A along the frame side rail)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out digits 4–6; '397' and final '0' visible (6th digit only a sliver, not read).",
+    "Item 2: 5th digit clipped by the hole punch (only its bottom curve visible); '3949', '87' clear.",
+    "Frame [1] is the base unit; it carries no fastening on this sheet (body mounting is elsewhere).",
+    "Which frame end is front is not labelled; member [2] read as at the rear kickup from the frame shape.",
+    "Revision block empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

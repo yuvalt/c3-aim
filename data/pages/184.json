@@ -1,0 +1,126 @@
+{
+  "page": 184,
+  "group": "6",
+  "sheet": "A1",
+  "title": "ENGINE-CONTENTS & V.I.N. LOCATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the UPC 6 engine section: generator (alternator) mounting, fan, pulleys and belts, belt routing for the 350 and 454 engines, oil filler/dipstick/filter, radiator hoses and starter, front and transmission engine mounts, ignition switch mounting, spark plug wiring, shields and coil, clutch neutral start switch, carburetor and choke, fuel pump and pipes, air cleaner, and accelerator pedal and cable. View A shows where the engine ID code and VIN derivative are stamped on the cylinder case (block) pad at the front of the engine.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "The following parts are released in UPC 0: CHART-FUEL VAPOR EMISSION STICKER",
+    "VIEW A: CYLINDER CASE PAD; ENGINE I.D. CODE; V.I.N. LOCATION - SEE UPC 0 SHEET B2 FOR SPECS."
+  ],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the two-column contents list.",
+    "Drawing callouts: D1/D2 at the accelerator linkage, B6 spark plug wires/coil, C1 carburetor, C3 air cleaner, B1 oil filler, A2 generator, A3 fan, B3/B4 engine mounts, C2 fuel pump, A4/A5 belts, B2 radiator hose/starter. View A arrow at the front of the block on the RH side.",
+    "Title block: drawing 3965172; CK 4-18-69 C1, PREL 3-28-69, C/O A1. Circled (1) at lower right next to sideways 'K182'; circled (2) next to the UPC 0 note.",
+    "Revision dates partly faded: rev 1 first digit unreadable; rev 2 only '3-69' readable, leading part blank/faded. Rev 1 AUTH illegible."
+  ],
+  "revisions": [
+    {
+      "date": "?-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "?-3-69",
+      "sym": "2",
+      "text": "\"UPC 0\" INFO ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "ENGINE CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "GENERATOR MOUNTING"
+        ],
+        [
+          "A3",
+          "FAN, PULLEYS & BELTS"
+        ],
+        [
+          "A4",
+          "BELT ROUTING - \"350\" ENGINE"
+        ],
+        [
+          "A5",
+          "\"454\" ENGINE"
+        ],
+        [
+          "B1",
+          "OIL FILLER, LEVEL GAGE & FILTER"
+        ],
+        [
+          "B2",
+          "RADIATOR HOSES & STARTING MOTOR"
+        ],
+        [
+          "B3",
+          "ENGINE FRONT MOUNTING"
+        ],
+        [
+          "B4",
+          "TRANSMISSION BRACKET & MOUNTING"
+        ],
+        [
+          "B5",
+          "IGNITION SWITCH MOUNTING"
+        ],
+        [
+          "B6",
+          "SPARK PLUG WIRING, SHIELDS & COIL"
+        ],
+        [
+          "B7",
+          "CLUTCH OPERATED NEUTRAL STARTING SWITCH"
+        ],
+        [
+          "C1",
+          "CARBURETOR, SPARK PIPE, HOSE, SOLENOID & CHOKE"
+        ],
+        [
+          "C2",
+          "FUEL PIPE, FUEL PUMP & EXHAUST VALVE"
+        ],
+        [
+          "C3",
+          "AIR CLEANER, STICKER & VENT HOSES"
+        ],
+        [
+          "D1",
+          "ACCELERATOR PEDAL, ROD & BRACKET"
+        ],
+        [
+          "D2",
+          "ACCELERATOR CONTROL CABLE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

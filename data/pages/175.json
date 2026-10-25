@@ -1,0 +1,74 @@
+{
+  "page": 175,
+  "group": "4",
+  "sheet": "A7",
+  "title": "REAR SUSPENSION GEOMETRY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "Rear wheel alignment specs (rear camber and toe-in) for all models, with the checking height \"D\" and the shim procedure for setting rear toe at the torque control arm (trailing arm) front pivot. Camber is adjusted with the strut rod cam (Sheet A5); toe is set with shims between the trailing arm bushing and the frame side rail (Sheet A4). No parts on this sheet.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Recommended shim procedure (summarized): 1) Position the torque control arm (part of the spindle support arm & brake asm.) for the mean specified toe-in, +1/16 toward toe-in, -0 toward toe-out. 2) Fully shim the inboard gap (nearest the vehicle center line) between the end of the control arm bushing and the inside wall of the frame side rail; don't force it so toe moves toward toe-out. 3) Shim the outboard gap, using force as needed, to get a solid stack against the frame side rail inner wall. 4) Install the torque control arm forward bolt.",
+    "* AS SHIPPED - OIL, 2 GALS. OF FUEL & RECOMMENDED TIRE PRESSURE",
+    "Camber angle front view: \"D\" = DIM. VERTICAL TO GROUND; arrow marks NEGATIVE DIRECTION; 90° angle shown at the strut rod/spindle.",
+    "WHEEL TOE IN: X - Y = TOE IN (X measured at rear of tires, Y at front, from vehicle center line)."
+  ],
+  "notes_internal": [
+    "No callouts, parts, or torque legend values; triangles 1-5 blank. Vertical stamp K173.",
+    "Binder hole clips 'HEIGHT' in the camber table header; values intact.",
+    "Revision 1 date: first digit unclear ('?-26-69'). Circled 1 sits under the camber value.",
+    "C/O box reads B5."
+  ],
+  "revisions": [
+    {
+      "date": "?-26-69",
+      "sym": "1",
+      "text": "WAS -1°30' ± 30'",
+      "was": "-1°30' ± 30'",
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "Camber",
+      "columns": [
+        "MODELS",
+        "CAMBER",
+        "CHECKING HEIGHT \"D\""
+      ],
+      "rows": [
+        [
+          "ALL",
+          "-1°30' ± 15'",
+          "1.63"
+        ]
+      ]
+    },
+    {
+      "title": "Toe in",
+      "columns": [
+        "MODELS",
+        "TOE IN (PER WHEEL)",
+        "HEIGHT"
+      ],
+      "rows": [
+        [
+          "ALL",
+          "3/32 ± 1/32",
+          "1.63 *"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

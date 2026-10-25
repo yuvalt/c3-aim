@@ -1,0 +1,173 @@
+{
+  "page": 183,
+  "group": "5",
+  "sheet": "C2",
+  "title": "PARKING BRAKE-CABLE ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear parking brake cables (emergency brake cables) from the frame crossmember back to each rear brake, all models. Each cable end fitting is snapped into a bracket with a spring retainer clip: at the front into a bracket screwed to the crossmember, and at the rear into a bracket on the trailing arm, with a guide near the brake backing plate. Includes the mandatory parking brake burnishing (break-in) procedure.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3864278",
+      "name": "GUIDE",
+      "name_expanded": "Guide – parking brake cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3866427",
+      "name": "CABLE ASM. - REAR",
+      "name_expanded": "Cable assembly – rear parking brake",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3875092",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – spring clip for cable fitting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3960797",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – parking brake cable, at crossmember",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "85-115",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4e",
+      "description": "GREASE",
+      "amount": "",
+      "where": "cable [2] at the guide [1] near the rear brake"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "frame crossmember",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "View A (LH shown, RH symmetrical): screw [5] goes through the bracket [4] flange into the crossmember.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket [4] at crossmember",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Front end fitting of cable [2] passes through bracket [4]; retainer clip [3] pushes on from below to lock it. After installation rotate the clip so its open end faces downward from horizontal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket on rear suspension trailing arm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rear end fitting of cable [2] sits in a bracket on the trailing arm ahead of the brake; retainer clip [3] pushes on from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "trailing arm near the rear brake backing plate",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cable [2] runs through guide [1] before entering the brake; grease 4e at this point.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: After installation rotate clip so that the open end faces in a downward position from horizontal.",
+    "Mandatory parking brake burnishing: with car on roll test rolls and rear wheels driven at 50 MPH, apply parking brake until light drag is felt (10-12 notches on handle).",
+    "Hold for 55-60 seconds, then return the handle to released.",
+    "VIEW A: L.H. SHOWN, R.H. SYMETRICAL"
+  ],
+  "notes_internal": [
+    "Items 1 and 2: binder hole covers middle digits; item 1 visible '38' + '78' with partial digits between, item 2 '38' + '427'. OCR read 380^978 / 380.127 (not used).",
+    "Guide [1]: how it is attached to the trailing arm is not shown.",
+    "Margin has handwritten 'K181' beside the torque legend; meaning unknown, not recorded elsewhere.",
+    "Revision symbols 1 and 2 circled at the procedure heading."
+  ],
+  "revisions": [
+    {
+      "date": "10-31-69",
+      "sym": "1",
+      "text": "BURNISHING PROCEDURE REVD",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-19-69",
+      "sym": "2",
+      "text": "\"MANDATORY\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

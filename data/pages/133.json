@@ -1,0 +1,121 @@
+{
+  "page": 133,
+  "group": "1",
+  "sheet": "J2",
+  "title": "SEAT BACK-TRIM ASM. & PAD",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Bucket seat back upholstery: the seat back trim cover (vinyl per the trim chart, or leather) and the foam seat back pad. The cover has sewn-in loops on its inside; the loops are pushed through holes in the pad and two vertical wires plus one horizontal wire are threaded through them on the back of the pad, locking the cover's pleats to the pad (no hog rings or fasteners shown). Related sheets: J3 (frame), J4 (cover attachment), J6 (final trim).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976560",
+      "name": "CHART-TRIM ??M.",
+      "name_expanded": "Seat back trim cover – see trim assembly chart (vinyl)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3976590",
+      "name": "LEATHER",
+      "name_expanded": "Seat back trim cover – leather",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3977857",
+      "name": "PAD",
+      "name_expanded": "Pad – seat back foam pad",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3844854",
+      "name": "WIRE",
+      "name_expanded": "Wire – trim cover listing wire (vertical)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3844852",
+      "name": "WIRE",
+      "name_expanded": "Wire – trim cover listing wire (horizontal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "seat back pad [2]",
+      "qty": "2 wires [3], 1 wire [4]",
+      "torque_ref": null,
+      "note": "Exploded and ASSEMBLED views: the trim cover [1] has sewn-in loops along its pleat seams (two vertical rows and one short horizontal row). The loops are pushed through the holes in the pad [2] from the front; on the back of the pad the two vertical wires [3] and the horizontal wire [4] are threaded through the loops, pulling the cover's pleats into the pad. No separate clips or hog rings are called out on this sheet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1 (3976560) name: binder hole wipes the middle; reads 'CHART-TRI?' + gap + '?M.' — presumably CHART-TRIM ASM., not filled in.",
+    "Pad [2] itself is not fastened on this sheet; it goes onto the seat back frame (see J3/J4).",
+    "Title block: drawing number 3965172; DR RH/C1, CK 4-18-69 C1, PREL J2 3-19-69 (C/O struck); UPC 1 SEATS; model 19000 (all). AUTH 29706 / 36169 not stored. 'K131' printed sideways at lower left.",
+    "Revision 11 symbol appears at the bottom of the pad [2] in both the exploded and ASSEMBLED views. Revision symbols 1-8 are not printed (first line is sym 9)."
+  ],
+  "revisions": [
+    {
+      "date": "12-16-69",
+      "sym": "9",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-3-70",
+      "sym": "10",
+      "text": "WAS 3976547 PAD",
+      "was": "3976547",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "11",
+      "text": "PAD DWG REVISED (2) PLACES",
+      "was": null,
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

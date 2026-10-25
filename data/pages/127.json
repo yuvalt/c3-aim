@@ -1,0 +1,270 @@
+{
+  "page": 127,
+  "group": "1",
+  "sheet": "G1",
+  "title": "BODY MOUNTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Body-to-frame mounts No. 1 to No. 4 on each side (body mount bolts, cushions/spacers and shims). At each mount a bolt with lock washer and flat washer passes through the body and a spacer and shims into the frame bracket: No. 1 is bolted from the top with a nut under the frame bracket, No. 2 and No. 3 are bolted down from inside the body, and No. 4 is bolted up from under the frame bracket into the body. A body mount access-hole cover beside the No. 3 mount is screwed into clip nuts and sealed with 57c cement. All models.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "37?2263",
+      "name": "BOLT",
+      "name_expanded": "Bolt – body mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1???28",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3830796",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3973886",
+      "name": "SPACER",
+      "name_expanded": "Spacer – body mount (RH at No. 1 and No. 4)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3712559",
+      "name": "SHIM",
+      "name_expanded": "Shim – body mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3790768",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – plate (P. washer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418897",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3973897",
+      "name": "SPACER",
+      "name_expanded": "Spacer – body mount (LH at No. 1 and No. 4)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3846854",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut for access cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3848320",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3797373",
+      "name": "COVER",
+      "name_expanded": "Cover – body mount access hole",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "40-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "57c",
+      "description": "CEMENT",
+      "amount": "",
+      "where": "View A, on the access cover [11] flange"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "7"
+      ],
+      "holds": [
+        "6",
+        "5",
+        "4",
+        "8",
+        "3",
+        "2"
+      ],
+      "to": "frame No. 1 body mount bracket",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "No. 1 body mount: bolt [1] goes down through P. washer [6] on the body, the shims [5] and spacer [4] (RH) or [8] (LH), through the No. 1 frame bracket, then washer [3], lock washer [2] and nut [7] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "to": "frame No. 2 body mount bracket",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "No. 2 body mount: bolt [1] with lock washer [2] and washer [3] goes down through the body, spacer [4] and shims [5] into the No. 2 frame bracket. No nut is shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "to": "frame No. 3 body mount bracket",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "No. 3 body mount: bolt [1] with lock washer [2] and washer [3] goes down through the body, spacer [4] and shims [5] into the No. 3 frame bracket. No nut is shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "4",
+        "8",
+        "5"
+      ],
+      "to": "body bracket above the No. 4 frame mount",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "No. 4 body mount (rear): bolt [1] goes up from below through lock washer [2], washer [3], the No. 4 frame bracket, spacer [4] (RH) or [8] (LH) and shims [5] into the body bracket. No nut is shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "body, at the access hole beside the No. 3 body mount",
+      "qty": "4",
+      "torque_ref": "2",
+      "note": "View A: four screws [10] go through the cover [11] into clip nuts [9] on the edges of the access hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "57c",
+      "holds": [
+        "11"
+      ],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: 57c cement on the cover [11].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Align guide pin holes.",
+    "NOTE: Residual torque after roll test to be 25 lbs ft."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips the third digit; visible '37' + '?' + '2263'.",
+    "Item 2: hole punch covers the middle digits; visible '1' + '28' at the end; spacing suggests 6 digits, written 1???28.",
+    "Shim [5] count varies per mount in the drawing (2-3 shown); shims are adjustment parts.",
+    "'K125' printed sideways beside the torque legend is not a torque value."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

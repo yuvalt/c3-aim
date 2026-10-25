@@ -1,0 +1,360 @@
+{
+  "page": 165,
+  "group": "3",
+  "sheet": "A3",
+  "title": "STEERING KNUCKLE & FRT WHEEL HUB ASM STUDS & LWR CONT ARM BUMPER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front suspension: the upper and lower ball joints (ball stud assemblies) and the lower control arm rebound bumper, and how the steering knuckle/front hub (spindle) hangs on the ball studs. The ball joints are riveted to the control arms; each ball stud goes through the knuckle and is held by a castellated (slotted) nut and cotter pin; each ball joint has a grease (zerk) fitting. The rubber bumper is bolted to the lower control arm.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9417901",
+      "name": "LUB FITTING",
+      "name_expanded": "Lube fitting (grease zerk), ball joint",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9743535",
+      "name": "STUD ASM.",
+      "name_expanded": "Upper ball joint (ball stud assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "442659",
+      "name": "RIVET",
+      "name_expanded": "Rivet, lower ball joint to lower control arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3953407-8",
+      "name": "STRG KNL & FRT WHL HUB ASM.",
+      "name_expanded": "Steering knuckle (spindle) & front wheel hub assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418843",
+      "name": "NUT",
+      "name_expanded": "Nut, castellated, lower ball stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103385",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9742108",
+      "name": "STUD ASM.",
+      "name_expanded": "Lower ball joint (ball stud assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "8",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut, bumper screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3847757",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly, bumper to lower control arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3742252",
+      "name": "BUMPER ASM.",
+      "name_expanded": "Lower control arm bumper (rebound bumper) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103329",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "103028",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "274428",
+      "name": "NUT",
+      "name_expanded": "Nut, castellated, upper ball stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "118170",
+      "name": "RIVET",
+      "name_expanded": "Rivet, upper ball joint to upper control arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "40-60",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-45",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "70-95",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "40-60",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4b",
+      "description": "GREASE",
+      "amount": ".032 LBS.",
+      "where": "upper ball joint [2] through lube fitting [1]"
+    },
+    {
+      "key": "A",
+      "code": "4c",
+      "description": "GREASE",
+      "amount": ".032 LBS.",
+      "where": "lower ball joint [7] through lube fitting [1]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "upper control arm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper ball joint [2] is riveted to the outer end of the upper control arm with rivets [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "upper ball stud [2]",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Upper ball stud goes down through the upper boss of the steering knuckle [4]; castellated nut [13] on the stud, locked with cotter pin [6]. Up to 90 lbs ft allowed to line the slot up with the cotter pin hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lower control arm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lower ball joint [7] is riveted to the outer end of the lower control arm with rivets [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "lower ball stud [7]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Lower ball stud goes up through the lower boss of the steering knuckle [4]; castellated nut [5] from below, locked with cotter pin [6]. Up to 125 lbs ft allowed to line the slot up with the cotter pin hole. View A: cotter pin eyelet tight in the nut slot and legs bent over.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "lower control arm",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [9] goes down through the bumper [10] bracket and the lower control arm; nut [8] underneath. Must assemble in direction shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "11"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lower control arm",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Lock washer [11] and nut [12] go on the threaded upper end of the lower ball joint [7], next to the bumper bracket, on top of the arm; the lube fitting [1] screws into the top of that end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "7"
+      ],
+      "to": "ball joints",
+      "qty": "1 per ball joint",
+      "torque_ref": "1",
+      "note": "A lube fitting [1] screws into the top of each ball joint; grease 4b (upper) and 4c (lower).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A torque of 90 lbs ft maximum is permissible on nut when slot is in correct position for insertion of cotter pin. (nut [13])",
+    "A torque of 125 lbs ft maximum is permissible on nut when slot is in correct position for insertion of cotter pin. (nut [5])",
+    "Must assemble in direction shown. (nut [8])",
+    "View A, cotter pin installation: Eyelet must be tight in nut slot & shaft, bent as shown, to prevent rotation or looseness which will interfere with camber-castor gage."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first digits; visible '17901', left-aligned column suggests two digits missing.",
+    "Item 2: first digit damaged by the hole punch (looks like 9 but not certain).",
+    "Item 7: sixth digit reads 0 or 6 (glyph has a hook); Vision OCR read 9742108.",
+    "Nut [12]/lock washer [11]: leaders go to a nut and washer on a threaded stub at the top of the lower ball joint; which part it clamps (bumper bracket or ball joint to arm) is not clear from the drawing.",
+    "Material legend has a single box 'A' beside both 4b and 4c; key assigned to both.",
+    "Revision 1 old pn: fourth digit is a handwritten 'L'-like glyph (likely 6) - written as '?'.",
+    "Margin code K163 beside the torque legend."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "WAS 102?47 NUT",
+      "was": "102?47",
+      "item": "13"
+    },
+    {
+      "date": "9-17-69",
+      "sym": "2",
+      "text": "WAS 9427880 NUT",
+      "was": "9427880",
+      "item": "5"
+    },
+    {
+      "date": "4-15-70",
+      "sym": "3",
+      "text": "TORQUE 5 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "WAS TORQUE SYMBOL 1",
+      "was": null,
+      "item": "13"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

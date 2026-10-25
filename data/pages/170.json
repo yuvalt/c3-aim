@@ -1,0 +1,304 @@
+{
+  "page": 170,
+  "group": "4",
+  "sheet": "A2",
+  "title": "PROP & DRIVE SHAFTS, DIFF. CARRIER & SPINDLE ARM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear driveline: the propeller shaft (driveshaft) from the transmission to the differential, the axle drive shafts (half shafts) from the differential to the rear spindle support arms (trailing arms, with brakes), the differential carrier (rear end / 'pumpkin') and the caution sticker on the jack storage compartment cover. The prop shaft and the half shafts' inner U-joints are held to their yokes by U-bolts, lock washers and nuts; each half shaft's outer flange bolts to the spindle with bolts locked by bend-over lock tabs.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3860543",
+      "name": "LOCK",
+      "name_expanded": "Lock tab (lock plate), half shaft to spindle flange bolts",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3843384",
+      "name": "BOLT",
+      "name_expanded": "Bolt, half shaft to spindle flange",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3847899",
+      "name": "DRIVE SHAFT",
+      "name_expanded": "Axle drive shaft (half shaft)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2066840",
+      "name": "\"U\" BOLT",
+      "name_expanded": "U-bolt (U-joint strap), half shaft inner U-joint to differential side yoke",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103026",
+      "name": "NUT",
+      "name_expanded": "Nut, half shaft U-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3899133",
+      "name": "DIFF. CARRIER ASM.",
+      "name_expanded": "Differential carrier assembly (rear end)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1358938",
+      "name": "\"U\" BOLT",
+      "name_expanded": "U-bolt (U-joint strap), prop shaft rear U-joint to pinion yoke",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut, prop shaft U-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3957056",
+      "name": "PROP SHF ASM.",
+      "name_expanded": "Propeller shaft (driveshaft) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3936467-8",
+      "name": "SPINDLE SUPT ARM & BRAKE ASM.",
+      "name_expanded": "Spindle support arm (rear trailing arm) & brake assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3745926",
+      "name": "STICKER-Caution",
+      "name_expanded": "Caution sticker (jack instructions area), jack stowage compartment cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-90",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "14-18",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "12-16",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "2e",
+      "description": "LUBE - AUTO TRANS.",
+      "amount": "2.5 OZS.",
+      "where": "front slip yoke of prop shaft [11]; apply to inside & outside of yoke"
+    },
+    {
+      "key": "B",
+      "code": "33a",
+      "description": "LUBE - HYPOID",
+      "amount": "3.9 LBS.",
+      "where": "differential carrier [7]; thru hole in case"
+    },
+    {
+      "code": "85a",
+      "description": "ADHESIVE",
+      "amount": ".009 LBS.",
+      "where": "caution sticker [13] on jack stowage compartment cover"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "spindle support arm [12] spindle flange",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: bolts [2] fasten the outer U-joint flange of the half shaft [3] to the spindle; lock [1] under the bolt heads. View B: bend one tab tight against a flat on the bolt head.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "differential side yoke",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Inner U-joint of half shaft [3] strapped to the differential side yoke with U-bolts [4], lock washers [5] and nuts [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "9",
+        "10"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "differential pinion yoke",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Rear U-joint of prop shaft [11] strapped to the pinion yoke of the differential [7] with U-bolts [8], lock washers [9] and nuts [10]. Align paint marks on the shaft and yoke.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "85a",
+      "holds": [
+        "13"
+      ],
+      "to": "jack stowage compartment cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Caution sticker [13] glued to the cover beside the auto jack instruction sticker (see UPC 14).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Bend one tab tight against flat on bolt as shown. (View B)",
+    "This area of shaft must be entirely free of paint. (prop shaft front slip yoke)",
+    "Align paint marks.",
+    "A: Apply to inside & outside of yoke.",
+    "B: Thru hole in case.",
+    "AUTO JACK INST STICKER (SEE UPC 14)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first four digits; only '543' readable.",
+    "'AXLE' (filled-corner box, no item number) with torque 4 points to a nut at the differential side; the axle part itself is not listed on this sheet.",
+    "Differential carrier [7] and spindle arm [12] mounting is not shown here (see A4/A6); [12] appears only as the mate for the half shaft.",
+    "Prop shaft front slip yoke goes into the transmission; no fastener shown.",
+    "Torque legend triangle 5 empty. Margin code K168."
+  ],
+  "revisions": [
+    {
+      "date": "3-20-70",
+      "sym": "9",
+      "text": "LETTER \"B\" WAS \"A\"",
+      "was": null,
+      "item": "B"
+    },
+    {
+      "date": "",
+      "sym": "10",
+      "text": "LETTER \"A\" ADDED",
+      "was": null,
+      "item": "A"
+    },
+    {
+      "date": "",
+      "sym": "11",
+      "text": "NOTE \"B\" ADDED",
+      "was": null,
+      "item": "B"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

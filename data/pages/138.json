@@ -1,0 +1,189 @@
+{
+  "page": 138,
+  "group": "1",
+  "sheet": "J7",
+  "title": "SEAT ASM & INSTALLATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Bucket seat installation (all models): each seat sits on a pair of seat adjuster tracks (seat tracks/runners) that bolt to the floor pan. Screws go down through the track feet into the floor, a screw assembly is driven up from below at the front of the track, and a bracket on the seat cushion side is held by a screw and washer. The adjuster release lever carries a threaded knob.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3847757",
+      "name": "SCREW",
+      "name_expanded": "Screw – seat adjuster to floor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3930347",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – seat adjuster",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9421089",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419699",
+      "name": "SCREW",
+      "name_expanded": "Screw – seat bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3846934",
+      "name": "KNOB",
+      "name_expanded": "Knob – seat adjuster release lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3913069-0",
+      "name": "ADJUSTER ASM.",
+      "name_expanded": "Seat adjuster assembly – seat track (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3932939",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – seat cushion side",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "floor pan",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [1] go down from above through the feet of the adjuster track [6] into the floor (two shown, on the right-hand track: front inboard foot and rear foot).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "floor pan / adjuster front",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw assembly [2] is shown driven upward from below the floor into the front of the adjuster track [6], next to screw [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "seat cushion side",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [4] with washer [3] goes up into the lower tab of bracket [7] at the outboard side of the seat cushion, above the adjuster [6]; bracket [7] lines up with two holes in the cushion frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "adjuster release lever",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Knob [5] threads onto the end of the adjuster [6] release lever (the lever has its own threaded end; no separate fastener).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "seat cushion frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Dashed lines show the seat cushion frame tabs dropping onto the tops of the adjusters [6]; no fastener is called out for that joint.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Screw asm [2]: the drawing shows it from below pointing up, but it is not clear whether it passes through the floor pan or only the adjuster; described as 'from below'.",
+    "Seat-to-adjuster attachment: dashed lines only, no callout.",
+    "Item 3 first digits: OCR read 9221089; crop clearly shows 9421089.",
+    "'K136' printed vertically near the title block; not used."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

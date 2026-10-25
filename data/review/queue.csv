@@ -8,8 +8,8 @@ page,sheet,item,pn,issue,hint
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
-39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
+39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
@@ -43,8 +43,8 @@ page,sheet,item,pn,issue,hint
 96,1/F2,4,3962602,not in registry,
 98,1/F4,9,9419327,OCR disagrees,registry agrees
 104,1/F10,2,396663??0,unreadable digits,no registry match
-104,1/F10,,3966640,"registry has it, we don't",RETAINER
 104,1/F10,,3966639,"registry has it, we don't",RETAINER
+104,1/F10,,3966640,"registry has it, we don't",RETAINER
 105,1/F11,3,9414752,OCR disagrees,registry agrees
 105,1/F11,8,9414764,OCR disagrees,registry agrees
 105,1/F11,11,3936399,OCR disagrees,registry agrees
@@ -68,8 +68,32 @@ page,sheet,item,pn,issue,hint
 125,1/F31,15,9418712,not in registry,
 125,1/F31,16,7585410,not in registry,
 125,1/F31,,487498,"registry has it, we don't",FASTENER
+127,1/G1,1,37?2263,unreadable digits,no registry match
+127,1/G1,2,1???28,unreadable digits,no registry match
+127,1/G1,6,3790768,OCR disagrees,
+127,1/G1,9,3846854,OCR disagrees,
+137,1/J6,,3976550,"registry has it, we don't",ESCUTCHEON
+138,1/J7,3,9421089,OCR disagrees,registry agrees
+138,1/J7,,3913070,"registry has it, we don't",ADJUSTER ASM.
 142,1/K3,12,3856691,torque ref ? not in legend,
 146,1/K7,3,3966773-4,OCR disagrees,registry agrees
+155,1/M1,1,39???53,unreadable digits,no registry match
+155,1/M1,,3942663,"registry has it, we don't",HEATER & BLOWER ASM.
+159,1/M5,6,3338094,not in registry,
+159,1/M5,,3838094,"registry has it, we don't",NIPPLE
+172,4/A4,5,3983392-3-4-5,bad format,
+172,4/A4,5,3983392-3-4-5,OCR disagrees,registry agrees
+172,4/A4,14,446212,OCR disagrees,registry agrees
+172,4/A4,,3983395,"registry has it, we don't",SHIM
+172,4/A4,,3983393,"registry has it, we don't",SHIM
+172,4/A4,,3983394,"registry has it, we don't",SHIM
+174,4/A6,10,3774712,OCR disagrees,registry agrees
+177,5/A2,4,3948131,OCR disagrees,registry agrees
+178,5/A3,2,3921086,not in registry,
+178,5/A3,13,54?0551,unreadable digits,no registry match
+178,5/A3,,54.0551,"registry has it, we don't",BOOT
+178,5/A3,,3921686,"registry has it, we don't",SPRING
+185,6/A2,7,9419061,OCR disagrees,registry agrees
 214,8/B2,10,3833120,not in registry,
 214,8/B2,,383320,"registry has it, we don't",HOSE
 215,8/B3,8,3867164,OCR disagrees,registry agrees

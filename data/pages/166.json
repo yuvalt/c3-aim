@@ -1,0 +1,182 @@
+{
+  "page": 166,
+  "group": "3",
+  "sheet": "A4",
+  "title": "SHOCK ABSORBER, UPR CONT ARM BUMPER & FRT SPRING CHART",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front shock absorber (inside the front coil spring) and the upper control arm bumper (rubber rebound/jounce stop). The shock's top stud goes up through the frame spring tower with a retainer and rubber grommet on each side and a nut on top; the bottom mount bolts to the lower control arm with screws into weld nuts. The front spring itself is listed in UPC 0.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1365067",
+      "name": "NUT",
+      "name_expanded": "Nut, shock upper stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3790342",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (washer), shock upper mount, above grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3790341",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (shock bushing), upper, above frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3742247",
+      "name": "BUMPER",
+      "name_expanded": "Upper control arm bumper (rubber stop)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3192196",
+      "name": "SHOCK ABSORBER",
+      "name_expanded": "Front shock absorber",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3968521",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly, shock lower mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "5544049",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (washer), shock upper mount, below grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3708378",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (shock bushing), upper, below frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-120",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "120-180",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame spring tower (top of front spring pocket)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Shock [5] upper stud goes up through the frame: retainer [7] and grommet [8] under the frame, grommet [3] and retainer [2] on top, nut [1] on the stud. Hold the stud at its flats to stop rotation while torquing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "lower control arm (weld nuts)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Shock [5] lower mount bracket bolts up from below into weld nuts on the lower control arm with screw assemblies [6]; one screw shown on each side of the mount.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Hold stud at this point when necessary to stop rotation & obtain torque.",
+    "End of coil must be .38 ± .12 from stop.",
+    "Front spring (see UPC 0). Assemble front spring with close spaced coils toward frame spring tower."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the last four digits; only '136' visible.",
+    "Bumper [4]: drawn as a pad on the frame next to the spring top (upper control arm stop); its fastening is not shown.",
+    "Title says 'FRT SPRING CHART' but no chart is printed on this sheet; spring refers to UPC 0.",
+    "Legend has empty triangles 3, 4, 5.",
+    "Revision 1 old pn mostly illegible handwriting; only '384' readable.",
+    "Margin code K164."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "WAS 384???? SCREW ASM.",
+      "was": "384????",
+      "item": "6"
+    },
+    {
+      "date": "10-24-69",
+      "sym": "2",
+      "text": "WAS 3192268 SHOCK ABSORBER",
+      "was": "3192268",
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "page": 130,
+  "group": "1",
+  "sheet": "H3",
+  "title": "LOCK PILLAR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Sealing at the foot of the door lock pillar (rear door post / B-pillar) of the fiberglass body. Cement (54a/54b/54c) is applied around the lock pillar brace support where it meets the door sill reinforcement and door sill, and up the lock pillar seam. No parts, only sealing. All models.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "54a",
+      "description": "CEMENT",
+      "amount": "2.0 OZ.",
+      "where": "main view, around the lock pillar brace support at the door sill reinforcement"
+    },
+    {
+      "key": "A",
+      "code": "54b",
+      "description": "CEMENT",
+      "amount": "2.0 OZ.",
+      "where": "View A, up the lock pillar seam"
+    },
+    {
+      "key": "A",
+      "code": "54c",
+      "description": "CEMENT",
+      "amount": "2.0 OZ.",
+      "where": "View A, along the lock pillar brace support flange at the door sill"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "54a",
+      "holds": [],
+      "to": "lock pillar brace support and door sill reinforcement",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: 54a cement around the lock pillar brace support where it meets the door sill reinforcement at the base of the lock pillar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "54b",
+      "holds": [],
+      "to": "lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (arrow A, looking rearward from inside the door opening): 54b cement bead running up the lock pillar seam.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "54c",
+      "holds": [],
+      "to": "lock pillar brace support and door sill",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: 54c cement along the lock pillar brace support flange where it meets the door sill.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Sealing-only sheet, no callout list.",
+    "Legend: one key [A] beside three tags 54a/54b/54c; 'CEMENT' printed on the 54a line and '2.0 OZ.' on the 54c line, applied here to all three.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "page": 176,
+  "group": "5",
+  "sheet": "A1",
+  "title": "BRAKES - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 5, Brakes (all models): brake pedal housing and reinforcement, brake pedal and master cylinder, front and rear brake calipers, front and rear brake lines, parking brake and parking brake cables. Also gives the brake system leak test: 1600 PSI for 10 to 25 seconds without tripping the pressure differential switch.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: Brake system to be inspected for leaks at 1600 PSI for minimum of 10 seconds, maximum of 25 seconds. Pressure differential switch must not activate during this test."
+  ],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the two-column contents list; two-line titles joined with a space.",
+    "Last sheet id's digit is blotted ('C?'); the drawing callout and list order suggest C2 but it is written as printed.",
+    "Drawing callouts: A2/A3 at the pedal and master cylinder on the dash, C1 at the parking brake lever, A4 at the rear caliper, C2 at the rear parking brake cable, B2 along the frame rail. A1 and B1 not called out.",
+    "Title block: DR C1/AM, CK 4-18-69 C1, PREL 3-7-69, C/O A1; model 19000. Circled (1) at lower right beside sideways 'K174'. Torque legend triangles blank."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "BRAKES CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "BRAKE PEDAL HOUSING, REINFORCEMENT & COVER"
+        ],
+        [
+          "A3",
+          "BRAKE PEDAL & MAIN CYL. ASM."
+        ],
+        [
+          "A4",
+          "FRONT & REAR BRAKE CALIPER ASM."
+        ],
+        [
+          "B1",
+          "FRONT BRAKE LINES"
+        ],
+        [
+          "B2",
+          "REAR BRAKE LINES"
+        ],
+        [
+          "C1",
+          "PARKING BRAKE"
+        ],
+        [
+          "C?",
+          "PARKING BRAKE CABLE ASM."
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

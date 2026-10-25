@@ -1,0 +1,137 @@
+{
+  "page": 131,
+  "group": "1",
+  "sheet": "H4",
+  "title": "FRONT OF DASH SEALING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Sealer points on the engine side of the dash panel (firewall). 53a sealer at the dash mat (insulator) retainer holes, 53e around the fuse panel opening after the fuse panel is installed, 53f at the speedometer cable grommet, 53g at the A/C harness grommet and 53h at the A/C vacuum hose grommet. No parts, only sealing. All models.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "53a",
+      "description": "DASH MAT RETAINER",
+      "amount": ".5 OZ.",
+      "where": "dash mat retainer holes on the LH side of the dash panel"
+    },
+    {
+      "key": "",
+      "code": "53e",
+      "description": "Apply around the fuse panel opening at front of dash after fuse panel has been installed",
+      "amount": ".2 OZ.",
+      "where": "fuse panel opening, lower RH side of the dash panel (front view)"
+    },
+    {
+      "key": "",
+      "code": "53f",
+      "description": "SPEEDOMETER CABLE GROMMET",
+      "amount": ".05 OZ.",
+      "where": "speedometer cable grommet, upper RH side of the dash panel (front view)"
+    },
+    {
+      "key": "",
+      "code": "53g",
+      "description": "A.C. HARNESS GROMMET",
+      "amount": ".1 OZ.",
+      "where": "A/C harness grommet hole, upper center of the dash panel"
+    },
+    {
+      "key": "",
+      "code": "53h",
+      "description": "A.C. VACUUM HOSE GROMMET",
+      "amount": ".1 OZ.",
+      "where": "A/C vacuum hose grommet, center of the dash panel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53a",
+      "holds": [],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "53a sealer at the dash mat retainer holes in the dash panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53e",
+      "holds": [],
+      "to": "dash panel fuse panel opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "53e sealer around the fuse panel opening on the front (engine side) of the dash, applied after the fuse panel is installed.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53f",
+      "holds": [],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "53f sealer at the speedometer cable grommet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53g",
+      "holds": [],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "53g sealer at the A/C harness grommet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53h",
+      "holds": [],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "53h sealer at the A/C vacuum hose grommet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Sealing-only sheet, no callout list; legend key [A] printed only beside 53a.",
+    "Rev 1 (circled 1 at 53h): handwritten letter after '53' unclear (a or g), written 53?.",
+    "Rev 2 (circled 2 at 53g): reads WAS 53h.",
+    "Left/right positions are as seen in the front view of the dash panel."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "1",
+      "text": "WAS 53?",
+      "was": "53?",
+      "item": "53h"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 53h",
+      "was": "53h",
+      "item": "53g"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

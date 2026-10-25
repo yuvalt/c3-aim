@@ -1,0 +1,84 @@
+{
+  "page": 169,
+  "group": "4",
+  "sheet": "A1",
+  "title": "REAR SUSPENSION-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 4, rear suspension (independent rear suspension / IRS): propeller shaft (driveshaft), axle drive shafts (half shafts), differential carrier and spindle (trailing) arms (A2), rear shocks and bumper (A3), suspension attaching parts (A4), strut rods (camber rods) (A5), rear leaf spring and differential mounting bracket (A6), rear suspension geometry / alignment (A7). An overview drawing shows where each sheet's parts sit under the car. Vehicle springs and trim heights are in UPC 0.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "VEHICLE SPRINGS & TRIM HEIGHTS, SEE UPC 0."
+  ],
+  "notes_internal": [
+    "A1 title 'CONTENTS': hole punch hides the 'C'.",
+    "Overview drawing callouts point to A2 (twice), A3, A4 (twice), A5, A6, A7; no parts listed.",
+    "Legend triangles empty. Margin code K167."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-10-69",
+      "sym": "2",
+      "text": "SPRING & TRIM NOTE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "REAR SUSPENSION CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "?ONTENTS"
+        ],
+        [
+          "A2",
+          "PROP & DRIVE SHAFTS, DIFF CARRIER, SPINDLE ARM"
+        ],
+        [
+          "A3",
+          "SHOCK ABSORBERS & BUMPER"
+        ],
+        [
+          "A4",
+          "SUSP ATCH PARTS"
+        ],
+        [
+          "A5",
+          "STRUT"
+        ],
+        [
+          "A6",
+          "SPRING & DIFF MTG BRKT"
+        ],
+        [
+          "A7",
+          "REAR SUSP GEOMETRY"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

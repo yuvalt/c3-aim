@@ -1,0 +1,115 @@
+{
+  "page": 161,
+  "group": "1",
+  "sheet": "M7",
+  "title": "HEATER-CENTER OUTLET DUCT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Heater center outlet duct, all models: the duct [1] that feeds the center air outlet under the instrument panel, just below the CORVETTE nameplate at the top of the center console. Its lower outlet end is held by two screws [2] driven up from below into the duct flange, one into nut [3] (View B); its other end is held by screw [4] through a tab on the duct (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3940249",
+      "name": "DUCT",
+      "name_expanded": "Duct – heater center outlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9418359",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9427761",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3886921",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 -20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10 - 15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "center outlet opening below the CORVETTE nameplate (instrument panel / console)",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "View B: two screws [2] go up from underneath through the outlet opening into the flange of duct [1]; one screw goes into nut [3] on the duct's centre tab.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "instrument panel structure (View A, behind the dash)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [4] goes down through the hole in the tab/flange on duct [1].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 2: hole punch wipes out digits 3–5; '94' and '59' visible.",
+    "Item 1: 4th digit '0' slightly clipped by the hole punch edge but readable.",
+    "Nut [3]: leader points to the centre tab of the duct outlet flange in View B; nut type (clip/speed nut) not stated.",
+    "View A: what the duct tab is screwed to is not labelled.",
+    "Revision block empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

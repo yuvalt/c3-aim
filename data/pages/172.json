@@ -1,0 +1,285 @@
+{
+  "page": 172,
+  "group": "4",
+  "sheet": "A4",
+  "title": "SUSPENSION ATTACHING PARTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear suspension attaching parts, all models: the torque control arm (trailing arm) front pivot bolt to the frame with its alignment shims, and the rubber-cushioned mount of the differential carrier at the differential carrier crossmember, plus the bolts holding the crossmember assembly. The trailing arm pivot uses a long bolt through washers and shims, with a castle nut and cotter pin tightened at \"D\" height; the carrier mount is a bolt through a washer and two rubber cushions above and below, with plate, lock washer and nut underneath.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "103374",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin (pivot bolt castle nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3774712",
+      "name": "NUT",
+      "name_expanded": "Nut – torque control arm pivot bolt (castle nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3693853",
+      "name": "WASHER",
+      "name_expanded": "Washer – torque control arm pivot bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3983392-3-4-5",
+      "name": "SHIM",
+      "name_expanded": "Shim – trailing arm pivot alignment shims (4 thicknesses)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3846867",
+      "name": "BOLT",
+      "name_expanded": "Bolt – torque control arm (trailing arm) front pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9424985",
+      "name": "NUT",
+      "name_expanded": "Nut – differential carrier mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3786262",
+      "name": "PLATE",
+      "name_expanded": "Plate – differential carrier mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3795333",
+      "name": "CUSHION",
+      "name_expanded": "Cushion – differential carrier mount, lower (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3788637",
+      "name": "CUSHION",
+      "name_expanded": "Cushion – differential carrier mount, upper (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3790768",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "454949",
+      "name": "BOLT",
+      "name_expanded": "Bolt – differential carrier mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "454933",
+      "name": "BOLT",
+      "name_expanded": "Bolt – crossmember assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "446212",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "217966",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "45-?5",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "55-75",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "55-65",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame side bracket (torque control arm front pivot)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pivot bolt [6] goes in from the inboard side with washer [4] under its head, through the frame bracket, the shims [5] and the torque control arm bushing; outboard side: washer [4], lock washer [3], castle nut [2], cotter pin [1]. Note A: with suspension at \"D\" height torque nut [2] to spec, then tighten to the next notch and insert the cotter pin. Shims [5] sit between the arm and the frame bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "11",
+        "7",
+        "8",
+        "3"
+      ],
+      "holds": [
+        "10",
+        "9"
+      ],
+      "to": "differential carrier crossmember / bracket under the carrier",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Carrier mount stack, top to bottom: bolt [12], plain washer [11], cushion [10], differential carrier crossmember, cushion [9], bracket (not called out), plate [8], lock washer [3], nut [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "14"
+      ],
+      "holds": [],
+      "to": "crossmember assembly",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolt [13] with lock washer [14] goes down through a hole in the top of the crossmember assembly; what it threads into is not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [],
+      "to": "outboard side of frame near the trailing arm pivot",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cotter pin [15] is shown with its loop on the outboard side of the frame (NOTE); the part it pins is not clear in the drawing.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: With suspension at \"D\" height specified for rear geometry, torque to spec., then tighten to next notch & insert C. Pin.",
+    "NOTE: Install cotter pins with loop on outboard side of frame."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole after '103'; the 4th digit is cut by the hole and the total digit count (6 or 7) is unknown; written '103????'.",
+    "Torque 1: first digit of the upper value is blotted; read '45 - ?5'.",
+    "Item 13: bolt shown above the crossmember top; the 'CROSSMEMBER ASM' it holds and the mating part are not called out.",
+    "Item 15: cotter pin location is ambiguous; drawn below the pivot area pointing outboard.",
+    "Leader 'A' is not visible in the drawing; note A applied to nut [2] because it mentions the C. pin.",
+    "C/O box reads A3 (smudged). Vertical stamp K170 at right."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "WAS 3965192-3-4-5 SHIM",
+      "was": "3965192-3-4-5",
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

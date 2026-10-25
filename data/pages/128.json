@@ -1,0 +1,103 @@
+{
+  "page": 128,
+  "group": "1",
+  "sheet": "H1",
+  "title": "SEALING - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the body sealing section (H sheets: hinge pillar, lock pillar, front of dash) with an overview of where sealer and sound deadener go. 52a sealer runs along the joint between the cab frame and the top of the dash panel (cowl, below the windshield); 58a deadener is sprayed into the unbonded areas from the front and rear wheelhouse sides. All models.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "52a",
+      "description": "SEALER",
+      "amount": "10 OZ.",
+      "where": "along the cab frame to dash panel joint at the cowl (arrow A and section view)"
+    },
+    {
+      "key": "B",
+      "code": "58a",
+      "description": "DEADENER",
+      "amount": "",
+      "where": "sprayed into unbonded areas from the front and rear wheelhouse sides"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "52a",
+      "holds": [],
+      "to": "cab frame to dash panel joint",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Section view: bead of 52a along the top edge where the cab frame meets the dash panel, across the cowl.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "58a",
+      "holds": [],
+      "to": "front and rear wheelhouses",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Deadener sprayed into the unbonded areas from the wheelhouse side (front wheelhouse behind the hinge pillar, rear wheelhouse ahead of the lock pillar).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: Spray adequate deadener into unbonded area (from wheelhouse side) to insure sealing.",
+    "NOTE: Spray into unbonded area (from wheelhouse side)."
+  ],
+  "notes_internal": [
+    "Contents page with an overview drawing; no part callouts. Callouts H2 and H3 on the drawing point to the hinge pillar and lock pillar sheets.",
+    "Rev 1 AUTH number smudged; not needed."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "SEALING CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "H1",
+          "CONTENTS-SEALING"
+        ],
+        [
+          "H2",
+          "HINGE PILLAR"
+        ],
+        [
+          "H3",
+          "LOCK PILLAR"
+        ],
+        [
+          "H4",
+          "FRONT OF DASH SEALING"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

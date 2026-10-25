@@ -1,0 +1,289 @@
+{
+  "page": 174,
+  "group": "4",
+  "sheet": "A6",
+  "title": "SPRING & DIFF. MOUNTING BRACKET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear transverse leaf spring and the differential mounting bracket, all models. The spring center is clamped to the underside of the differential carrier by a plate and bolts from below; each spring end is attached to the spindle support (rear knuckle/trailing arm) by a long link bolt with rubber cushions and retainers above and below, a nut and cotter pin. The differential mounting bracket bolts to the carrier with two bolts, nuts and cotter pins.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3831585",
+      "name": "BOLT",
+      "name_expanded": "Bolt – spring end link bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3831587",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – spring end cushion",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3831586",
+      "name": "CUSHION",
+      "name_expanded": "Cushion – spring end (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "5",
+      "pn": "3817582",
+      "name": "PLATE",
+      "name_expanded": "Plate – spring center clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "6",
+      "pn": "103330",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "7",
+      "pn": "3833486",
+      "name": "BOLT",
+      "name_expanded": "Bolt – spring center plate to differential carrier",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "8",
+      "pn": "3921658",
+      "name": "BOLT",
+      "name_expanded": "Bolt – differential mounting bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "9",
+      "pn": "3921657",
+      "name": "MOUNTING BRKT.",
+      "name_expanded": "Mounting bracket – differential carrier front mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3774712",
+      "name": "NUT",
+      "name_expanded": "Nut – mounting bracket bolt (castle nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103374",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "12",
+      "pn": "103386",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "13",
+      "pn": "9418843",
+      "name": "NUT",
+      "name_expanded": "Nut – spring end link bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3910701",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – spring end (peened on spring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "?0-?0",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "45-?5",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "3",
+      "value": "SEE NOTE D",
+      "unit": ""
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "underside of differential carrier (spring center)",
+      "qty": "plate has 4 holes",
+      "torque_ref": "1",
+      "note": "Bolts [7] with lock washers [6] go up from below through plate [5] and the spring center into the differential carrier. Note B: torque with spring compressed to design height.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1",
+        "13",
+        "12"
+      ],
+      "holds": [
+        "2",
+        "3",
+        "14"
+      ],
+      "to": "spindle support arm (spring end)",
+      "qty": "each side",
+      "torque_ref": "3",
+      "note": "Link bolt [1] goes down from the top through retainer [2] and cushion [3] at the spindle support arm, then through the spring end; below the spring: retainer [14], cushion [3], retainer [2], nut [13], cotter pin [12]. Retainers [2]: rounded side toward cushion. Nut [13]: only the torque needed to line up the cotter pin hole (note D).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "10",
+        "11"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "differential carrier",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Bolts [8] go through the bracket [9] and the carrier lugs, inserted from the direction shown (note A); nuts [10] torqued plus extra to line up the cotter pin holes, then cotter pins [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "14"
+      ],
+      "to": "spring end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Note C: retainer [14] is peened over the spring end at assembly.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: Place rounded side toward cushion.",
+    "A: Must be assembled from direction shown.",
+    "B: Must be torqued with spring compressed to design height.",
+    "C: Peen over spring at asm. & maintain .?00 min. dia. after peening.",
+    "D: Only necessary torque required to line-up Cotter Pin Hole.",
+    "Plus additional torque to line-up C. Pin hole."
+  ],
+  "notes_internal": [
+    "Whole sheet is a heavy, bled-ink scan; most part numbers have blobbed digits, marked '?'. Readable at full confidence: 9, 10, 13, 14. Vision OCR read 8 as 3921656, 11 as 183374, 12 as 103356 (not used).",
+    "Item 2: binder hole wipes the middle digits.",
+    "Item 4: callout line is empty (spring removed, revisions 2/3 circled beside it); left out of parts.",
+    "Upper retainer [2] and cushion [3] are drawn off to the side with a phantom line into the bolt position at the spindle support arm.",
+    "Note C dimension: first digit after the point is blotted (.800 in the overview, not confirmed).",
+    "Spring itself has no callout on this sheet.",
+    "C/O box reads B1. Vertical stamp K172."
+  ],
+  "revisions": [
+    {
+      "date": "10-14-69",
+      "sym": "1",
+      "text": "WAS 9427880 NUT",
+      "was": "9427880",
+      "item": "13"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "3950839 SPRING ADDED",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "3950839 SPRING REMOVED",
+      "was": "3950839",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "TORQUE NOTE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

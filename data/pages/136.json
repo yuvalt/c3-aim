@@ -1,0 +1,249 @@
+{
+  "page": 136,
+  "group": "1",
+  "sheet": "J5",
+  "title": "SEAT BACK LOCK ASSEMBLY",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Bucket seat back lock (the seat back latch that keeps the seat back from folding forward, released by the button at the top of the seat back). The lock is a long vertical bar on the back of the seat back: its lower end is screwed to the seat cushion frame (with a shim under it), its upper end is screwed to the upper seat back with screws and nuts; the release button is screwed to the top of the lock. A bolt with washer and a weld nut at the lower seat back is also shown. A shipping screw in the release tab must be removed after installation.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9722796",
+      "name": "LOCK A??",
+      "name_expanded": "Seat back lock assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3866846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419778",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3976312",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9428575",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3976505",
+      "name": "BUTTON",
+      "name_expanded": "Button – seat back lock release",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3973998",
+      "name": "BOLT ASM.",
+      "name_expanded": "Bolt assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3977788",
+      "name": "SHIM",
+      "name_expanded": "Shim – under seat back lock lower bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3977789",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35 - 50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20 - 30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "75 - 95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "75 - 110",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "8"
+      ],
+      "to": "lower seat cushion frame",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Main view: the lower bracket of lock [1] sits on shim [8] (with a SPACER under it for shipping, see UPC 0 misc. shipping list); screw [4] goes down through the bracket and shim into the cushion. Step 1 of the instructions.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "upper seat back frame",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: at the top of the lock [1], screws [3] go in from the back through the seat back and the lock, and nut assemblies [2] (torque 1, 35-50 LBS IN) go on the other side. Done after rotating the seat back rearward against the cushion bumpers (instructions steps 2-3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "lower seat back frame",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: a second screw [3] goes through the lock [1] lower pivot area into the lower seat back frame from the back.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "top of lock [1]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: screw assembly [5] goes through the top plate of the lock [1] into the release button [6]. A SHIPPING SCREW in the release tab area lower on the lock is removed after installation (step 4).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "9"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lower seat back, outboard of the lock (near the WELD NUT)",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Main view: bolt assembly [7] is drawn vertical with washer [9] beneath it at the lower seat back by the hinge; a WELD NUT is called out on the cushion/seat back joint next to it. Exactly what it clamps is not clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Mandatory installation instructions: 1) Install lock [1] at the lower seat cushion with screw [4]. 2) Rotate the seat back rearward until it rests against the bumpers on the cushion. 3) Attach [1] at the upper seat back with screws [3] and nuts [2]. 4) Remove the shipping screw from the release tab area of [1].",
+    "SPACER (SEE UPC 0 MISC SHIPPING LIST)"
+  ],
+  "notes_internal": [
+    "Item 1 name: binder hole wipes the end; visible 'LOCK A' (presumably LOCK ASM.).",
+    "Bolt [7] / washer [9] / weld nut: role not clear from the drawing (possibly a seat back stop or anchor); described without guessing.",
+    "Instruction text paraphrased.",
+    "Circled 2 next to item 8 (rev 2 adds items 8 & 9); circled 3 in the drawing to the right of the lock marks where the CAUTION note was removed.",
+    "Title block: drawing number 3965172; DR DP/C1, CK 4-21-69 C1, PREL 4-3-69 (struck), C/O J5; 'L- 91230' in the L column; UPC 1 SEATS; model 19000 (all). 'K134' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "12-16-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-10-70",
+      "sym": "2",
+      "text": "ITEMS 8 & 9 ADDED",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "\"CAUTION\" NOTE RMV'D",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

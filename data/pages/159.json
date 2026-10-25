@@ -1,0 +1,205 @@
+{
+  "page": 159,
+  "group": "1",
+  "sheet": "M5",
+  "title": "HEATER HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Heater hoses for all models, in the engine compartment: the inlet hose [4] runs from a nipple [6] threaded into the engine (intake side) back to the heater core at the firewall; the return side is hose [8] from a nipple [7] on the water pump, joined to hose [1] near the coolant expansion tank and running back to the heater core. Hoses are held with clamps [2] and [3] at each end and bundled by clips [5] at the clip bracket and near the firewall; the nipples are torqued to 15-25 lb-ft.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3955956",
+      "name": "HOSE",
+      "name_expanded": "Hose – heater (return, firewall section)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9428796",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9423574",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963738",
+      "name": "HOSE-INLET",
+      "name_expanded": "Hose – heater inlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3770259",
+      "name": "CLIP",
+      "name_expanded": "Clip – heater hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3338094",
+      "name": "NIPPLE",
+      "name_expanded": "Nipple – heater hose (engine)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3849848",
+      "name": "NIPPLE",
+      "name_expanded": "Nipple – heater hose (water pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3967838",
+      "name": "HOSE",
+      "name_expanded": "Hose – heater (water pump section)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15 -25",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "water pump",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nipple [7] threads into the water pump at the front of the engine (by the fan/pulley); hose [8] slides onto it and is held by clamp [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "8",
+        "1"
+      ],
+      "to": "nipple [7] and the joint with hose [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamps [2] hold hose [8] on nipple [7], hose [8] at its joint with hose [1] beside the expansion tank, a hose fitting at the top of the tank area, and hose [1] at the heater core at the firewall (upper right).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "engine, behind the water pump",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nipple [6] threads into the engine beside the water pump outlet; inlet hose [4] slides onto it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "nipple [6] and heater core inlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamps [3] hold inlet hose [4] on nipple [6] at the engine and on the lower heater core pipe at the firewall.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1",
+        "4",
+        "8"
+      ],
+      "to": "clip bracket; near the firewall",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [5] wrap the two hoses together: one at the CLIP BRACKET on the left (hoses [8] and [4]) and one near the firewall (hoses [1] and [4]).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CLIP BRACKET (label in drawing)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out digits 2–5; '3', a partial second digit (top looks like 9, not certain), then '56' visible.",
+    "Revision 1 date: first character smudged/cut; reads '?-19-69'.",
+    "Circled (1) next to hose [1] in the drawing = revision 1 (hose drawing revised).",
+    "Hose routing read from the drawing: which hose end goes to which heater core pipe is not labelled.",
+    "Upper-left clamp [2] has two leaders: one to the hose joint by the tank, one to a fitting above the tank; what that fitting is is not labelled."
+  ],
+  "revisions": [
+    {
+      "date": "?-19-69",
+      "sym": "1",
+      "text": "HOSE DWG REVISED",
+      "was": null,
+      "item": "1"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

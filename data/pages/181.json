@@ -1,0 +1,305 @@
+{
+  "page": 181,
+  "group": "5",
+  "sheet": "B2",
+  "title": "REAR BRAKE LINES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear brake lines: the rear-circuit pipe runs from the master cylinder back along the LH frame rail in screwed-down clips to the LH rear hose connector; a crossover pipe runs across the rear of the frame to the RH connector. At each side a flexible rear brake hose is held in the frame bracket by a spring clip and feeds a pipe along the trailing arm to the rear caliper.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3960623",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – rear crossover to RH connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3945439",
+      "name": "CLIP",
+      "name_expanded": "Clip – brake pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – brake pipe clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3976011",
+      "name": "CLIP",
+      "name_expanded": "Clip – brake pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3878796",
+      "name": "CONNECTOR L. H.",
+      "name_expanded": "Connector – rear brake hose, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "476737",
+      "name": "SPRING",
+      "name_expanded": "Spring clip – brake hose retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3974631-2",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – rear hose to caliper on trailing arm (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3878958",
+      "name": "HOSE ASM.",
+      "name_expanded": "Rear brake hose (flex hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3976010",
+      "name": "CLIP",
+      "name_expanded": "Clip – brake pipe to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3974726",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – master cylinder to rear (along LH frame rail)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3826355",
+      "name": "CONNECTOR R. H.",
+      "name_expanded": "Connector – rear brake hose, RH (junction block)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "1??-140",
+      "unit": "LBS IN",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "??-115",
+      "unit": "LBS IN",
+      "uncertain": true
+    },
+    {
+      "ref": "3",
+      "value": "80-115",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "10?-125",
+      "unit": "LBS IN",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "master cylinder rear outlet and LH rear connector [5]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pipe [10] tube nuts (torque 1); pipe runs back along the LH frame rail and turns up to the hose connection at the kickup.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "3"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "LH frame rail",
+      "qty": "5",
+      "torque_ref": "2",
+      "note": "Clips [9] each held by a screw [3] (callouts '9 3 torque 2' at 4 places along the rail plus one at the front by the master cylinder); a further clip [9] on the vertical run at the kickup.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear frame crossmember",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Clip [2] with screw [3] holds the crossover pipe [1] at the frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [4] holds the pipe on the frame near the LH connector; no screw shown with it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "LH and RH rear connectors [5]/[11]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Crossover pipe [1] tube nuts (torque 1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "frame bracket at connector [5] / [11]",
+      "qty": "1 per side",
+      "torque_ref": "4",
+      "note": "View A: hose [8] threads into the connector [11] (torque 4) through the frame bracket; spring [6] slides over the hose fitting to lock it in the bracket. Same at LH connector [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "rear hose [8] and rear caliper",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Pipe [7] runs along the trailing arm from the hose to the caliper (torque 3).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Maximum allowable twist during asm. of rear brake hoses is ± one notch at bracket.",
+    "With wheels straight ahead and suspension in full rebound, insert the hose into the frame bracket without kinking or twisting and install the retainer spring as shown; the paint stripe on the hose shows any kink or twist."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-5 ('39???23').",
+    "Item 2: 4th digit clipped by binder hole ('394?439'; OCR read 3940439).",
+    "Torque legend is very faint: torque 1 reads '1??-140', torque 2 '??-115', torque 4 '10?-125' (last digit looks like 0 or 9). Triangle 5 blank.",
+    "Revision block is mostly illegible; only partial text transcribed.",
+    "Exact routing between connector [5], pipe [10] and pipe [1] at the LH kickup is not fully clear.",
+    "Circled 1 and 4 below item 11 likely mark a removed callout line (see revisions 1/4, rev 5 'item 9 was item 12'). 'K179' printed vertically."
+  ],
+  "revisions": [
+    {
+      "date": "6-??-69",
+      "sym": "1",
+      "text": "WA? ????? CLIP",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1?-16-69",
+      "sym": "2",
+      "text": "WAS 140??? CLIP",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "12-16-69",
+      "sym": "3",
+      "text": "WAS 140??? CLIP",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "5-5-70",
+      "sym": "4",
+      "text": "????? ? CLIP REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM 9 WAS ITEM 12",
+      "was": null,
+      "item": "9"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

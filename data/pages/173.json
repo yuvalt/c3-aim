@@ -1,0 +1,242 @@
+{
+  "page": 173,
+  "group": "4",
+  "sheet": "A5",
+  "title": "STRUT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear strut rods (camber rods), all models. A bracket bolts to the underside of the differential carrier with two bolts each side; each strut rod's inner end mounts in that bracket on a camber-adjusting cam bolt with caps on the bushing, and its outer end mounts to the rear spindle support on a shaft secured with a nut and cotter pin. Camber is set by rotating the cam before the nut is torqued at \"D\" height.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3792930",
+      "name": "NUT",
+      "name_expanded": "Nut – camber cam bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103329",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3790331",
+      "name": "CAM",
+      "name_expanded": "Cam – camber adjusting (washer side)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3819205",
+      "name": "STRUT",
+      "name_expanded": "Strut rod (camber rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3791519",
+      "name": "CAP",
+      "name_expanded": "Cap – strut rod inner bushing (both sides)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3820253",
+      "name": "CAM ASM.",
+      "name_expanded": "Cam bolt assembly – camber adjusting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "454905",
+      "name": "BOLT",
+      "name_expanded": "Bolt – strut rod bracket to differential carrier",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3931805",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – strut rod (camber) bracket under differential",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103397",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "125267",
+      "name": "NUT",
+      "name_expanded": "Nut – strut rod shaft (castle nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3820929-30",
+      "name": "SHAFT",
+      "name_expanded": "Shaft – strut rod outer mount at spindle support (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "55-75",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "30-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "70-?0",
+      "unit": "LBS FT",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "underside of differential carrier",
+      "qty": "2 per side",
+      "torque_ref": "2",
+      "note": "Bolts [7] go up from below through lock washer [8], plain washer [9] and the bracket [10] into the differential carrier.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "4",
+        "5"
+      ],
+      "to": "strut rod bracket [10]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Cam bolt [6] passes through the bracket ear and the strut rod inner bushing with a cap [5] on each side; outer side: cam [3], lock washer [2], nut [1]. NOTE: run nut finger tight, rotate the cam to set camber (Sheet A7), then torque with rear suspension at \"D\" height.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "12",
+        "11"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear spindle support (lower end)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Shaft [13] passes through the spindle support and the strut rod outer bushing; nut [12] torqued to spec plus extra to line up the cotter pin hole, then cotter pin [11]. The shaft's other end is threaded and sticks out (no separate stud).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Assemble nut loosely (finger tight), rotate cam until proper camber is attained (see Sht. A7), then (with rear suspension at \"D\" height used to set rear geometry) torque nut.",
+    "* Plus additional torque to line up C. Pin hole."
+  ],
+  "notes_internal": [
+    "Item 2: binder hole wipes the leading digits; visible '29'. Digit count (6) estimated from alignment.",
+    "Torque 3: upper value first digit is a blot; read '70 - ?0'.",
+    "Torque triangles 4 and 5 blank; vertical stamp K171 beside them.",
+    "C/O box reads B2 (smudged). No revisions entered."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

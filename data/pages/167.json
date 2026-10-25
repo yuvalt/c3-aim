@@ -1,0 +1,201 @@
+{
+  "page": 167,
+  "group": "3",
+  "sheet": "A5",
+  "title": "STABILIZER BAR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front stabilizer bar (sway bar / anti-roll bar): the bar sits in rubber bushings in brackets bolted to the frame, and each end is tied to the lower control arm bracket by an end link (sway bar link kit): a long bolt with rubber grommets, retainer washers and a spacer, nut on top.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3654642",
+      "name": "NUT",
+      "name_expanded": "Nut, end link bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "5544049",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (cupped washer), end link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "381957",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (rubber bushing), end link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3817574",
+      "name": "SPACER",
+      "name_expanded": "Spacer (sleeve), end link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3817575",
+      "name": "BOLT",
+      "name_expanded": "Bolt, end link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3913863",
+      "name": "BRACKET",
+      "name_expanded": "Bracket, stabilizer bar bushing to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3858700",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly, bushing bracket to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut, bushing bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3831971",
+      "name": "SHAFT",
+      "name_expanded": "Stabilizer bar (sway bar) shaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3923673",
+      "name": "BUSHING",
+      "name_expanded": "Stabilizer bar bushing (frame mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "108-144",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "6"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Stabilizer shaft [9] passes through rubber bushing [10], clamped in bracket [6] on the frame front cross member.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "frame",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw assembly [7] goes up from below through bracket [6] and the frame; nut [8] on top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "lower control arm bracket",
+      "qty": "1 link per side",
+      "torque_ref": "1",
+      "note": "End link: bolt [5] goes up from below through retainer [2] and grommet [3], the lower control arm bracket, grommet [3] and retainer [2], spacer [4], retainer [2] and grommet [3], the bar end [9], grommet [3] and retainer [2]; nut [1] on top. Approx 2.08 dimension shown at the bar end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "APPROX 2.08"
+  ],
+  "notes_internal": [
+    "Items 1 and 2: hole punch covers the middle two digits.",
+    "Retainer [2] and grommet [3] are each called out several times in the end-link stack; exact count per link not printed.",
+    "'BRACKET' at the end link (filled-corner box, no item number) is the lower control arm bracket, not a callout on this sheet.",
+    "APPROX 2.08 arrow points between the bar end and the frame/bracket; what it measures is not clear.",
+    "No revisions recorded. Legend triangles 3-5 empty. Margin code K165."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

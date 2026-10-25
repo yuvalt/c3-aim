@@ -1,0 +1,278 @@
+{
+  "page": 180,
+  "group": "5",
+  "sheet": "B1",
+  "title": "FRONT BRAKE LINES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front brake lines: two pipes run from the master cylinder down to the brake warning switch (distribution/pressure differential switch) screwed to the LH frame rail; from the switch, pipes run to the LH front hose and across the front crossmember to the RH front hose. Pipes are held to the frame by clips and screws; each front flex hose is retained in its frame bracket by a spring clip and threads into the caliper with a copper washer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974707",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – master cylinder to switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3974705",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – master cylinder to switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – brake pipe clip / switch to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3974702",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – switch to RH front hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3898231",
+      "name": "HOSE ASM.",
+      "name_expanded": "Front brake hose (flex hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "231343",
+      "name": "WASHER",
+      "name_expanded": "Washer – brake hose to caliper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3974727",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe – switch to LH front hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3977096",
+      "name": "CLIP",
+      "name_expanded": "Clip – brake pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "476737",
+      "name": "SPRING CLIP",
+      "name_expanded": "Spring clip – brake hose retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3980797",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Brake warning switch (distribution/combination switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "80-115",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "85-115",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "135-175",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "master cylinder outlets (upper end) and switch [10] side ports (lower end)",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Tube nuts of pipes [1] and [2] thread into the master cylinder at torque 5 and into the switch [10] at torque 1 (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "LH frame rail",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "View A: screw [3] through the foot of the switch bracket into the frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4",
+        "7"
+      ],
+      "to": "switch [10] lower ports and front hoses [5]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Tube nuts of pipes [4] and [7] thread into the switch and into the hose fittings at torque 3.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "8"
+      ],
+      "holds": [
+        "4",
+        "7"
+      ],
+      "to": "frame / front crossmember",
+      "qty": "several",
+      "torque_ref": "4",
+      "note": "Pipes are held by clips [8] each fastened with a screw [3] (torque 4) along the LH rail and across the front crossmember to the RH side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame bracket",
+      "qty": "1 per side",
+      "torque_ref": null,
+      "note": "Hose [5] fitting goes into the frame bracket and spring clip [9] slides in to retain it (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "front caliper",
+      "qty": "1 per side",
+      "torque_ref": "2",
+      "note": "Hose [5] lower end threads into the caliper with washer [6] (torque 2).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Maximum allowable twist during asm. of front brake hoses is ± one notch at bracket.",
+    "With wheels straight ahead and suspension in full rebound, insert the hose into the frame bracket without kinking or twisting and install the retainer spring as shown; the paint stripe on the hose shows any kink or twist."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the last 3 digits ('3974???').",
+    "Pipe [1]/[2] torque: triangle 5 at the master cylinder end, triangle 1 at the switch end (View A); part-level torque_ref set to 1.",
+    "Circled 3 next to several clips [8] = revision 3 (3 places); circled 4 near a clip in the middle = revision 4.",
+    "'K178' printed vertically at right."
+  ],
+  "revisions": [
+    {
+      "date": "5-26-69",
+      "sym": "1",
+      "text": "WAS 140568 CLIP",
+      "was": "140568",
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3956727 SWITCH ASM",
+      "was": "3956727",
+      "item": "10"
+    },
+    {
+      "date": "1-29-70",
+      "sym": "3",
+      "text": "ITEM 8 DWG REV'D (3 PLACES)",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "5-5-70",
+      "sym": "4",
+      "text": "CLIP DRAWING ADDED",
+      "was": null,
+      "item": "8"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

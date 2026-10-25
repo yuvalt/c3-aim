@@ -1,0 +1,82 @@
+{
+  "page": 129,
+  "group": "1",
+  "sheet": "H2",
+  "title": "HINGE PILLAR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Sealing at the door hinge pillar (front door post) of the fiberglass body. 52h cement goes between the steel hinge pillar (birdcage), the dash panel and the body hinge pillar, and at the bottom between the steel hinge pillar, the door sill and the door sill extension; 52b sealer goes between the hinge pillar reinforcement and the door sill reinforcement. No parts, only sealing. All models.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "52b",
+      "description": "SEALER",
+      "amount": "1 Oz.",
+      "where": "View B, joint between the hinge pillar reinforcement and the door sill reinforcement"
+    },
+    {
+      "key": "",
+      "code": "52h",
+      "description": "",
+      "amount": ".008 GAL.",
+      "where": "main view, along the steel hinge pillar / dash panel / body hinge pillar flanges; View A, steel hinge pillar to door sill and door sill extension"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "52h",
+      "holds": [],
+      "to": "steel hinge pillar, dash panel and body hinge pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: bead of 52h cement along the flanges where the fiberglass body hinge pillar and dash panel meet the steel hinge pillar.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "52h",
+      "holds": [],
+      "to": "steel hinge pillar, door sill and door sill extension",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (arrow A, from the door opening): 52h cement around the joint at the bottom of the hinge pillar where it meets the door sill and door sill extension, above the underbody.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "52b",
+      "holds": [],
+      "to": "hinge pillar reinforcement and door sill reinforcement",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B (arrow B): 52b sealer between the hinge pillar reinforcement and the door sill reinforcement at the foot of the hinge pillar.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Cement between steel hinge pillar, dash panel & body hinge pillar.",
+    "NOTE: Seal between the hinge pillar reinforcement & reinforcement door sill.",
+    "NOTE: Cement between steel hinge pillar, door sill & door sill extension."
+  ],
+  "notes_internal": [
+    "Sealing-only sheet, no callout list.",
+    "Material legend: 52h line has no key letter and no description; only '.008 GAL.' printed.",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

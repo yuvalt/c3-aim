@@ -1,0 +1,206 @@
+{
+  "page": 171,
+  "group": "4",
+  "sheet": "A3",
+  "title": "SHOCK ABSORBER & BUMPER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear shock absorber and the rubber rebound/jounce bumper on the rear frame rail, all models. The shock's upper eye bolts to the frame bracket with a bolt, lock washer and nut; its lower eye sits between two rubber grommets on a stud at the rear suspension and is held by a retainer, lock washer and nut, tightened with the car at \"D\" height. The bumper has its own stud that goes up through the frame and takes a nut on top.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1359887",
+      "name": "NUT",
+      "name_expanded": "Nut (bumper stud)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3864280",
+      "name": "BUMPER ASM.",
+      "name_expanded": "Bumper assembly – rubber suspension bumper on rear frame rail",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3824692",
+      "name": "BOLT",
+      "name_expanded": "Bolt – shock upper mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "272123",
+      "name": "NUT",
+      "name_expanded": "Nut – shock upper mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3735334",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – shock lower eye bushing (2)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3714310",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (grommet cup washer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103329",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3691530",
+      "name": "NUT",
+      "name_expanded": "Nut – shock lower mount",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3192869",
+      "name": "SHOCK ABSORBER ASM.",
+      "name_expanded": "Rear shock absorber assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-?4",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "40-60",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "30-40",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4",
+        "5"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "rear frame rail bracket",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Shock upper eye: bolt [3] with lock washer [4] passes through the frame bracket and the shock eye; nut [5] on the outboard side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "rear frame rail",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bumper [2] has its own stud (no callout) that goes up through a hole in the frame; nut [1] goes on from the top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "stud on the rear suspension below the frame (stud not called out)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Shock lower eye stack on the stud, inner to outer: grommet [6], shock eye, grommet [6], retainer [7], lock washer [8], nut [9]. Note A: tighten nut [9] with vehicle at \"D\" height. Note B: retainer [7] flared end curves away from grommet [6].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Must be tightened with vehicle at \"D\" height specified for rear geometry setting.",
+    "B: Assemble with flared end curving away from 6"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes the middle digits; visible '1', a fragment, then '87'. Digit count (7) estimated from width.",
+    "Torque 1: first digit of the upper value is blotted (2 or 3); read '15 - ?4'.",
+    "Torque legend triangles 4 and 5 have no values; a vertical handwritten 'K169' sits beside them.",
+    "C/O box reads B4. No revisions entered."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

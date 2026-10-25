@@ -1,0 +1,349 @@
+{
+  "page": 157,
+  "group": "1",
+  "sheet": "M3",
+  "title": "VACUUM CONTROL ASM. & CABLES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Heater/AC control head (the heater control panel in the center console/dash) and its vacuum hoses and temperature cable, all models. The control assembly is screwed into the dash; the blower switch screws to the control, the temperature cable housing is clamped to the control with a screw, and the multi-tube vacuum control hose harness runs to the vacuum valves (actuators) on the heater & defroster box, where its ends are held by clips. A tee is spliced into the yellow-stripe windshield wiper vacuum hose, and one line goes to the rear vent vacuum door.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9427926",
+      "name": "SCREW",
+      "name_expanded": "Screw – control assembly to instrument panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3942627",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Heater control assembly (control head)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9427325",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – cable clamp / control mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3909028",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – blower switch on control head",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "381700",
+      "name": "NUT",
+      "name_expanded": "Nut – push-on retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419321",
+      "name": "SCREW",
+      "name_expanded": "Screw – switch to control",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3940237",
+      "name": "CABLE ASM-TEMP",
+      "name_expanded": "Temperature control cable assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3984665",
+      "name": "HOSE ASM-VAC CONTROL",
+      "name_expanded": "Vacuum control hose assembly (multi-tube harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3929022",
+      "name": "TEE",
+      "name_expanded": "Tee – vacuum hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3891759",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – vacuum hoses",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – vacuum hose end to valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "23-33",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "13-18",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel / console",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes down through the corner tab of the control assembly [2] faceplate (main view, upper right).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel bracket",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Main view: screw asm. [3] goes in from the side into the control assembly [2] (torque triangle 4 here).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "control asm. [2]",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View B: one screw asm. [3] (1 REQ'D) clamps the temperature cable [7] housing to the side of the control [2] (torque triangle 2 here).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "control asm. [2] bracket",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [6] goes through the ear of the switch [4] into the bracket on the control [2]; the wiring harness plugs into the switch (see UPC 12).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "control asm. [2] underside",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View B: one push-on nut [5] (1 REQ'D) goes on a stud from below the control [2]; the stud is part of the control/linkage, no separate stud part.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "vacuum valve asm. on heater & defroster asm.",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "View A: clip [11] holds the end of the vacuum hose [8] onto the valve asm. nipple. Typical 2 places.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "vacuum valve asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: hose [8] end pushes onto the valve asm. fitting (typical 2 places).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "windshield wiper vacuum hose RH",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cut the yellow-stripe wiper vac hose about 4 in. from its end and fit tee [9] in it; the tee's branch goes to hose [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "instrument panel structure",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamp [10] holds the vacuum hoses at the left end of the run (main view); separate unnumbered CLIPS hold the hoses along the dash.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "heater & defroster asm.",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: cable [7] runs from the control [2] to the heater box; its heater-box end attachment is not shown on this sheet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Cut w/s wiper vac hose (yellow stripe) approx. 4 inches from end for installation of tee.",
+    "[A] For hole info see Sect 0 Sht A10.",
+    "[B] Typical 2 places.",
+    "TO REAR VENT VACUUM DOOR",
+    "W/S WIPER VAC HOSE ASM-R.H.",
+    "WIRING HARNESS SEE UPC 12"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole; first digit 9, digits 2 and 5 only partly visible, 3-4 gone; written 9????26.",
+    "Item 3 carries two torque triangles: 2 in View B (cable clamp, 1 REQ'D) and 4 in the main view (control mounting). Part torque_ref set to 2.",
+    "Nut [5]: what exactly it retains under the control is not clear in View B.",
+    "Revisions 5-9 have no date; all appear to share the 2-13-70 change. Circled 6 appears twice at the heater box valves in the main view.",
+    "'K155' printed vertically next to the torque legend; not used."
+  ],
+  "revisions": [
+    {
+      "date": "2-13-70",
+      "sym": "4",
+      "text": "WAS 3984661 HOSE",
+      "was": "3984661",
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM(11) ADDED",
+      "was": null,
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "VALVE DWG REVD 2 PLACES",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "VIEW \"C\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "NOTE (B) ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

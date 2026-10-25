@@ -1,0 +1,332 @@
+{
+  "page": 186,
+  "group": "6",
+  "sheet": "A3",
+  "title": "FAN, PULLEYS & BELTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front-of-engine accessory drive, all models: crankshaft pulley, water pump pulley, fan clutch and fan blade, and the generator (alternator) belt and water pump & fan belt. Studs pressed into the water pump hub carry the pulley, fan and fan clutch, held by nuts and lock washers; the crankshaft pulley bolts to the balancer with small bolts and lock washers plus a center bolt and washers into the crankshaft. Three alternate fan clutch numbers are listed.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3959166",
+      "name": "BELT-GENERATOR",
+      "name_expanded": "Belt – generator (alternator drive belt)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3890419",
+      "name": "PULLEY-W/PUMP",
+      "name_expanded": "Pulley – water pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3941116",
+      "name": "BELT-W/PUMP & FAN",
+      "name_expanded": "Belt – water pump & fan",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3850838",
+      "name": "PULLEY-CR/SHF",
+      "name_expanded": "Pulley – crankshaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9423959",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3739422",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "138494",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9428643",
+      "name": "BOLT",
+      "name_expanded": "Bolt – crankshaft (balancer) center bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "187119",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3964274",
+      "name": "STUD",
+      "name_expanded": "Stud – water pump hub",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3916139",
+      "name": "CLUTCH ASM. FAN BLADE",
+      "name_expanded": "Fan clutch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3916140",
+      "name": "OPT.",
+      "name_expanded": "Fan clutch assembly – optional/alternate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "5329100",
+      "name": "OPT.",
+      "name_expanded": "Fan clutch assembly – optional/alternate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3888366",
+      "name": "BLADE ASM-FAN",
+      "name_expanded": "Fan blade assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "120368",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "60-90",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-27",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [],
+      "to": "water pump hub",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Studs [11] screw into the water pump hub, leaving .88 to .94 outside the hub; they pass through the pulley [2], fan [14] and fan clutch [13].",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "10"
+      ],
+      "holds": [
+        "13",
+        "14",
+        "2"
+      ],
+      "to": "studs [11] in water pump hub",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Nuts [12] with lock washers [10] go on the studs [11] from the front of the fan clutch [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "10"
+      ],
+      "holds": [
+        "14",
+        "13"
+      ],
+      "to": "fan clutch [13]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Nuts [15] with lock washers [10] shown on the rear of the fan blade spider [14], between the fan and the water pump pulley [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "crankshaft balancer",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [6] with lock washers [5] go from the front through the outer holes of the crankshaft pulley [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8",
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "crankshaft nose",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Center bolt [9] with lock washer [8] and washer [7] goes into the crankshaft through the center of the pulley [4].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Install [11] into water pump hub so that .88 to .94 remains outside the hub.",
+    "NOTE A: Shield must remain on water pump bearing hub until water pump pulley is installed.",
+    "NOTE: Belt strand tension-See sheet A4"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers the first three digits; visible '9166'.",
+    "Item 15: torque triangle number next to the callout is blurred; probably 4 like the nut [12], flagged.",
+    "Belts [1] and [3]: routed over the pulleys, no fasteners; tension on sheet A4. Belt [1] runs to the generator, [3] water pump & fan.",
+    "Nut [15] position: exactly which flange it clamps (fan to clutch) is not fully clear from the exploded view.",
+    "View A (engine front, water pump hub with shield) has no callouts. Sideways 'K184' at right margin.",
+    "Rev 1 date handwritten '11-18-65'; last digit likely a 9 written loosely, copied as '11-18-6?'."
+  ],
+  "revisions": [
+    {
+      "date": "11-18-6?",
+      "sym": "1",
+      "text": "VIEW \"A\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "NOTE \"A\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

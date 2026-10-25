@@ -1,0 +1,182 @@
+{
+  "page": 139,
+  "group": "1",
+  "sheet": "J8",
+  "title": "SEAT CUSHION ASSEMBLY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Seat cushion (bottom) build-up for all models: the seat cushion cover (trim, vinyl or leather) and foam pad go over the spring & frame assembly. The cover's sewn-in retaining wire and hooks are hog-ringed to a wire on the springs (View A), and the cover's lower edge is clamped to the frame's bottom flange with clips spaced 4 in. apart (View B). No screws or bolts on this sheet.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3844852",
+      "name": "WIRE",
+      "name_expanded": "Wire – trim attaching wire on springs",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "4083589",
+      "name": "RING-HOG (AS REQ'D)",
+      "name_expanded": "Hog ring (as required)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3974001",
+      "name": "SPRING & FRAME ASM.",
+      "name_expanded": "Seat cushion spring & frame assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3869582",
+      "name": "CLIP",
+      "name_expanded": "Clip – trim to frame lower flange",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3844854",
+      "name": "WIRE",
+      "name_expanded": "Wire – seat cushion spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3913109",
+      "name": "PAD ASM.",
+      "name_expanded": "Seat cushion pad (foam) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3948160",
+      "name": "TRIM ASM.-SEAT CUSHION CHART (VINYL)",
+      "name_expanded": "Seat cushion cover (upholstery), vinyl – see trim chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3948180",
+      "name": "TRIM ASM.-SEAT CUSHION CHART (LEATHER)",
+      "name_expanded": "Seat cushion cover (upholstery), leather – see trim chart",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "spring & frame [3]",
+      "qty": "as required",
+      "torque_ref": null,
+      "note": "View A: hog rings [2] clamp wire [1] to the springs of [3]. The cover [7] has its own sewn-in retaining wire and a hook asm. (part of [7], no separate number) that hooks onto wire [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "lower flange of spring & frame [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: the cover [7] edge wraps under the frame [3]; clip [4], with protector felt, is pushed over the edge of the cover and the frame's bottom flange. Start at either rear corner and space clips 4 in. apart (4.00 REF dimension).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "spring & frame [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pad [6] lies on the springs of [3] under the cover [7] and is held in place by the cover; no fastener shown (Views B, C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "spring & frame [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: at the corner the cover's tie cords/wires pass through a slot in the channel of frame [3] and are tied off underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "spring & frame [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: wire [5] runs across the springs near the center of [3]; how it is attached is not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Start clip at either rear corner & space 4 in. apart.",
+    "4.00 REF."
+  ],
+  "notes_internal": [
+    "Item 1: last digits damaged by binder hole; reads '38448' then a broken glyph (looks like 5 or 6) then nothing. Left as 38448??.",
+    "Item 7 leather line printed '(LEATI.EP.)'; read as (LEATHER). Name repeated from the vinyl line above.",
+    "View C: wire/cord at the frame slot is not called out; interpretation (tie-off) is a best reading.",
+    "'X137' printed vertically next to the empty torque legend; not used."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

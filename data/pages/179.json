@@ -1,0 +1,135 @@
+{
+  "page": 179,
+  "group": "5",
+  "sheet": "A4",
+  "title": "FRONT & REAR BRAKE CALIPER ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front and rear disc brake calipers (LH/RH). Each front caliper bolts to the steering knuckle behind the rotor, next to the splash shield, with two bolts and lock washers; each rear caliper bolts to the rear wheel spindle, arm & bracket assembly (trailing arm) with two bolts and lock washers. Bleeder screws are retorqued after bleeding.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "5452266-7",
+      "name": "CALIPER ASM.",
+      "name_expanded": "Caliper assembly – front (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "186645",
+      "name": "BOLT",
+      "name_expanded": "Bolt – front caliper mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "5452268-9",
+      "name": "CALIPER ASM.",
+      "name_expanded": "Caliper assembly – rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3843384",
+      "name": "BOLT",
+      "name_expanded": "Bolt – rear caliper mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-90",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "60-80",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "front steering knuckle (not labeled), beside the splash shield",
+      "qty": "2 per caliper",
+      "torque_ref": "2",
+      "note": "Front wheel view: two bolts [3] with lock washers [2] go in from the inboard side through the knuckle into the caliper mounting ears (upper and lower).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "rear wheel spindle, arm & bracket assembly (trailing arm)",
+      "qty": "2 per caliper",
+      "torque_ref": "2",
+      "note": "Rear wheel view: two bolts [5] with lock washers [2] go in from the inboard side through the bracket into the caliper.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Retorque [bleeder screw] to 40-90 lbs in after bleeding hydraulic brake system. (View A)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-6: '54????6-7' (OCR '54' + '66-7'; 6th digit partially visible).",
+    "Torque 2 value read as 60-80 (zoomed; OCR agrees); torque 1 60-90. Revision 1 says bolt [3] WAS torque 1, so bolts now use torque 2.",
+    "Rear view also has a 'PORT' label pointing at the caliper inlet. Triangles 3-5 blank; 'K177' printed vertically."
+  ],
+  "revisions": [
+    {
+      "date": "2-6-70",
+      "sym": "1",
+      "text": "WAS TORQUE 1 (60-90 LBS FT)",
+      "was": null,
+      "item": "3"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

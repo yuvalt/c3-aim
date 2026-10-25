@@ -1,0 +1,395 @@
+{
+  "page": 178,
+  "group": "5",
+  "sheet": "A3",
+  "title": "BRAKE PEDAL & MAIN CYLINDER ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Brake pedal and master cylinder (main cylinder) installation: the master cylinder bolts to the engine side of the brake pedal housing/firewall with two nuts over a gasket; the pushrod passes through a boot and threads into a clevis pinned to the pedal arm with a clevis pin, wave washer and push-on retainer. The pedal pivots on bushings in the pedal housing with a return spring hooked on the housing bracket; the pedal pad cover and stainless trim plate are held by bent tabs.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3908768",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – brake pedal pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3921086",
+      "name": "SPRING",
+      "name_expanded": "Spring – brake pedal return",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3798256",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – brake pedal pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3923615",
+      "name": "TRIM PLATE",
+      "name_expanded": "Trim plate – brake pedal pad (stainless pedal trim)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3921648",
+      "name": "COVER",
+      "name_expanded": "Cover – brake pedal pad (rubber pedal pad)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921649",
+      "name": "PEDAL ASM.",
+      "name_expanded": "Brake pedal assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3817880",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – clevis pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "387574",
+      "name": "CLEVIS",
+      "name_expanded": "Clevis – master cylinder pushrod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419815",
+      "name": "NUT",
+      "name_expanded": "Nut – pushrod clevis jam nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3953987",
+      "name": "WASHER-WAVE",
+      "name_expanded": "Washer – wave",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3909668",
+      "name": "PIN",
+      "name_expanded": "Pin – clevis",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3921655",
+      "name": "ROD",
+      "name_expanded": "Rod – master cylinder pushrod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "54?0551",
+      "name": "BOOT",
+      "name_expanded": "Boot – master cylinder pushrod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3790853",
+      "name": "GASKET",
+      "name_expanded": "Gasket – master cylinder to firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "1361640",
+      "name": "NUT",
+      "name_expanded": "Nut – master cylinder mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "5458831",
+      "name": "CYLINDER ASM.",
+      "name_expanded": "Master cylinder (main cylinder) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3923616",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3781770",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – brake pedal stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "11-16",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-28",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "8a",
+      "description": "FLUID",
+      "amount": ".075 GAL.",
+      "where": "master cylinder [17] reservoirs; fill to .25 in. ± .125 in. from top"
+    },
+    {
+      "key": "B",
+      "code": "12a",
+      "description": "GREASE",
+      "amount": "",
+      "where": "pedal [6] pivot bore"
+    },
+    {
+      "key": "B",
+      "code": "12b",
+      "description": "GREASE",
+      "amount": "",
+      "where": "bushing [1] / return spring [2] area on the pivot"
+    },
+    {
+      "key": "B",
+      "code": "12c",
+      "description": "GREASE",
+      "amount": ".015",
+      "where": "clevis pin hole in the pedal arm [6]"
+    },
+    {
+      "key": "C",
+      "code": "73a",
+      "description": "SEALER",
+      "amount": ".10 OZ.",
+      "where": "housing/firewall at the master cylinder mounting, behind the boot [13]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "17",
+        "14"
+      ],
+      "to": "brake pedal housing at the firewall (engine side)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nuts [16] on the master cylinder [17] mounting flange, gasket [14] between flange and firewall. The studs the nuts go on have no callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "13"
+      ],
+      "to": "brake pedal housing / firewall opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Boot [13] fits over the pushrod [12] at the firewall opening behind the master cylinder.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "12",
+        "8"
+      ],
+      "to": "clevis [8]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View C: pushrod [12] threads into clevis [8]; jam nut [9] tightened against the clevis after free-play adjustment (.06-.25 in. free pedal play).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10",
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "brake pedal [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clevis pin [11] goes through clevis [8] and the pedal arm from the direction shown (from the left side in the drawing), with wave washer [10]; retainer [7] pushes onto the pin end on the other side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6",
+        "1",
+        "3",
+        "2"
+      ],
+      "to": "brake pedal housing assembly",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pedal [6] pivots on bushings [1] and [3] on the pivot shaft shared with the clutch pedal (clutch bushings and retainer: see UPC 7). Return spring [2] sits on the pivot; its hooked end catches the bracket that is part of the housing assembly (View B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "brake pedal [6] pad",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Trim plate [4] goes over pad cover [5]; bend the trim plate's tabs securely to retain the plate (View A arrow).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "19"
+      ],
+      "to": "brake pedal housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bumper [19] sits in a hole in the housing above the pedal arm (pedal stop).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Pin must be assembled from direction shown.",
+    "Adjust clevis to obtain .06-.25 inches free pedal play.",
+    "Torque nut [torque 1] against clevis after free play adjustment.",
+    "Bend tabs securely to retain plate.",
+    "Pedal check: with an 80 lb load at point \"A\" the brake pedal must not travel more than 3-1/8\" plus free play. Desired travel 2-3/4\"; free travel .06\" to .25\". If 3-1/8\" is exceeded, recheck the brakes for proper bleed.",
+    "Clevis pin retainer [7] must scribe a legible line on the end of the clevis pin when installed; do not use an expanding tool that defeats this.",
+    "Fill cylinder reservoirs to .25 in. ± .125 in. from top."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-6; fragments suggest '390??68' (OCR '390' + '58'), written 39????8.",
+    "Item 13: 3rd digit damaged ('54?0551'; OCR read 5450551).",
+    "Item 8 pn is printed with 6 digits (387574).",
+    "Item 15: callout line is blank; circled revision 1 beside it (lock washer 103321 removed).",
+    "Item 18 bolt: shown at the top of the pedal arm near the housing; what it holds is not clear.",
+    "Torque legend triangles 3-5 are blank. 'K176' printed vertically at right margin."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "103321 L. WASHER RMV'D",
+      "was": "103321",
+      "item": "15"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 9418931 NUT",
+      "was": "9418931",
+      "item": "16"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

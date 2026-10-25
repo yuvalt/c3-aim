@@ -1,0 +1,195 @@
+{
+  "page": 134,
+  "group": "1",
+  "sheet": "J3",
+  "title": "SEAT BACK- SPRING & FRAME ASM.",
+  "models": [],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Bucket seat back frame: the seat back spring & frame assembly, the seat back hinges (pivot arms at the bottom), the seat back escutcheon (the trim piece around the seat back lock release at the top of the seat back) and, on coupes, an insert at the upper frame. The escutcheon has its own studs (no separate stud part) that go through the seat back and take nuts from behind; the hinges and insert are screwed to the frame, and hog rings tie the trim cover to the frame springs. Related sheets: J2 (trim & pad), J4 (cover attachment), J5 (seat back lock).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3976579",
+      "name": "CHART-ESCUTCHEON",
+      "name_expanded": "Escutcheon – seat back upper (lock release) escutcheon, see chart (by trim color)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9419756",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3976538",
+      "name": "SPRING & FRAME ASM.",
+      "name_expanded": "Seat back spring & frame assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "4083589",
+      "name": "RING-HOG (AS REQ'D)",
+      "name_expanded": "Hog ring (as required)",
+      "models": [],
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455711",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3913101-2",
+      "name": "HINGE",
+      "name_expanded": "Hinge – seat back pivot (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3976553-4",
+      "name": "INSERT",
+      "name_expanded": "Insert – seat back upper frame (LH/RH), coupe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 - 20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "70 - 110",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "20 - 30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "top of seat back (through trim cover and frame [3])",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Escutcheon [1] has its own studs (drawn dashed on its underside, two lines to holes; no separate stud callout). The studs go through the holes at the top front of the seat back, and nut [2] goes on from the back side of the seat back. View A: align [1] with the trim cover welt line and knit vinyl seam (note A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "lower side of seat back spring & frame [3]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: screw [5] goes in from the outboard side through the hinge [6] arm into the hole at the lower side of the frame [3]; dashed lines show further hinge-to-frame holes along the side of the frame.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket on seat back spring & frame [3] (upper frame, arrow B)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B (19437 coupe only): screw [5] goes through the insert [7] into the hole in the bracket on the frame [3]; torque 3 here (20-30 LBS IN), not torque 2.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "trim cover"
+      ],
+      "to": "springs of the spring & frame assembly [3]",
+      "qty": "AS REQ'D",
+      "torque_ref": null,
+      "note": "Main view: hog rings [4] in a row along the zig-zag springs, tying the trim cover (with its listing wires from J2) down to the springs.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Align [1] with trim cover welt line & knit vinyl seam."
+  ],
+  "notes_internal": [
+    "Screw [5] carries torque triangle 2 at the hinge (main view) and triangle 3 at the insert (View B); part torque_ref set to 2.",
+    "View B is labelled 19437 (coupe); insert [7] callout list has no model code, so part models left empty but name_expanded says coupe.",
+    "Exact location of View B (arrow B points at the upper outboard side of the seat back) inferred from the arrow; insert purpose not stated.",
+    "Pad and trim cover are labelled in the main view but are J2 parts.",
+    "Rev 6 date reads '2-16-69' as printed (J1/J2 have 12-16-69 for the same REDRAWN entry, AUTH 29706); leading digit may be lost at the cell edge, copied as printed.",
+    "Title block: drawing number 3965172; DR RH/C1, CK 4-18-69 C1, PREL J3 3-19-69; UPC 1 SEATS; model 19000 (all). 'K132' printed sideways at right.",
+    "Revision 7 circled symbol is next to torque legend 1."
+  ],
+  "revisions": [
+    {
+      "date": "2-16-69",
+      "sym": "6",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-10-70",
+      "sym": "7",
+      "text": "TORQUE (1) WAS 25-35 LBS IN",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

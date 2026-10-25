@@ -1,0 +1,209 @@
+{
+  "page": 160,
+  "group": "1",
+  "sheet": "M6",
+  "title": "AIR SIDE OUTLET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Instrument panel side air outlets (dash side vents, LH and RH), all models. An elbow duct [2] fits under the heater/AC plenum with seal [1] between them and is held by wing nut [9]; at the instrument panel end the outlet adapter [4] is screwed to the panel with screw [3], and the swivel deflector (vent ball) [6] sits between two seals [5], held by retainer [7], with knob [8] on the outside (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3937111",
+      "name": "SEAL",
+      "name_expanded": "Seal – duct to plenum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3956313-4",
+      "name": "DUCT",
+      "name_expanded": "Duct – side outlet elbow (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9427834",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3954533-4",
+      "name": "ADAPTER",
+      "name_expanded": "Adapter – side air outlet (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919562",
+      "name": "SEAL",
+      "name_expanded": "Seal – deflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3856472",
+      "name": "DEFLECTOR",
+      "name_expanded": "Deflector – side air outlet swivel (vent ball)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3919505",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – deflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "8740200",
+      "name": "KNOB",
+      "name_expanded": "Knob – air outlet deflector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9427874",
+      "name": "NUT-WING",
+      "name_expanded": "Nut – wing",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10 -20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "5 - 10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "2",
+        "1"
+      ],
+      "to": "plenum (strap above)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Wing nut [9] goes on from below the duct [2]; the centre line runs up through duct [2], seal [1] and the PLENUM to the STRAP above, i.e. it threads onto a stud/strap end coming down through the plenum (that stud has no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "how": "seals",
+      "holds": [
+        "2"
+      ],
+      "to": "plenum",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [1] sits between the top opening of duct [2] and the plenum.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "instrument panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [3] goes through the ear on adapter [4] into the instrument panel from behind.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6",
+        "5"
+      ],
+      "to": "adapter [4] at the instrument panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: stack order adapter [4], seal [5], deflector [6], seal [5], retainer [7], instrument panel; the retainer clamps the deflector between the two seals.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "deflector [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: knob [8] pushes onto the deflector [6] from the face of the instrument panel; no fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Drawing labels: STRAP, PLENUM, INST PANEL, VIEW A"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out digits 2–5; '3', a partial second digit, then '11' visible.",
+    "Wing nut [9]: what it threads onto is inferred from the centre line through duct/seal/plenum to the STRAP; no stud is called out.",
+    "Revision block empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

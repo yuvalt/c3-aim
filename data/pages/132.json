@@ -1,0 +1,78 @@
+{
+  "page": 132,
+  "group": "1",
+  "sheet": "J1",
+  "title": "SEAT-CONTENTS",
+  "models": [],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the UPC 1 seats section (J sheets): seat back trim assembly and pad (J2), seat back spring and frame (J3), seat back trim cover attachment (J4), seat back lock (J5), seat back final trim (J6), seat assembly and installation to the floor (J7) and seat cushion (J8). A drawing of both bucket seats points to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts.",
+    "Drawing callouts: J5 at the seat back lock in the top of the seat back; J3/J6 at the seat back frame; J2/J4 on the seat back trim; J4 also at the cushion lower edge; J8 at the cushion; J7 at the seat track/floor mounting.",
+    "Title block: drawing number 3965172; DR RH/C1, CK 4-18-69 C1, PREL 3-7-69, C/O J1; UPC 1 SEATS; model 19000 (all). Rev 2 AUTH 29706 not stored. 'K130' printed sideways above the title block.",
+    "Only revision symbol 2 is printed; there is no sym 1 line."
+  ],
+  "revisions": [
+    {
+      "date": "12-16-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "SEAT-CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "J1",
+          "CONTENTS"
+        ],
+        [
+          "J2",
+          "SEAT BACK-TRIM ASM. & PAD"
+        ],
+        [
+          "J3",
+          "SEAT BACK-SPRING & FRAME ASM."
+        ],
+        [
+          "J4",
+          "SEAT BACK-TRIM COVER ATCH."
+        ],
+        [
+          "J5",
+          "SEAT BACK LOCK ASSEMBLY"
+        ],
+        [
+          "J6",
+          "SEAT BACK-FINAL TRIM"
+        ],
+        [
+          "J7",
+          "SEAT ASM. & INSTALLATION"
+        ],
+        [
+          "J8",
+          "SEAT CUSHION ASSEMBLY"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

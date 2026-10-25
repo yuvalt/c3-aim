@@ -1,0 +1,205 @@
+{
+  "page": 158,
+  "group": "1",
+  "sheet": "M4",
+  "title": "VACUUM CONTROL HOSE ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the vacuum line from the heater control (control asm.) back to the valve and actuator at the rear of the cockpit, all models. A metal vacuum pipe runs along the rear compartment behind the seats in clips riveted to the body; hoses join it to the valve/actuator, routed up the rear window pillar on coupes and along the lock pillar on convertibles. Hose ends are retained on the valves with clips.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – hose end to valve/actuator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3984666",
+      "name": "HOSE ASM.",
+      "name_expanded": "Vacuum hose assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3963750",
+      "name": "PIPE",
+      "name_expanded": "Vacuum pipe – rear compartment",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937605",
+      "name": "CLIP",
+      "name_expanded": "Clip – vacuum pipe/hose to body",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet – pipe clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3983946",
+      "name": "CLIP",
+      "name_expanded": "Clip – hose at lock pillar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet – clip [4] to body",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "valve asm. / actuator",
+      "qty": "2 places",
+      "torque_ref": null,
+      "note": "Views B and C: clip [1] holds the end of hose [2] on the valve asm. or actuator nipple. [A] Typical 2 places.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (typical attachment): rivet [7] goes through the hole in clip [4] into a hole in the body panel; clip [4] wraps around the pipe/hose.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body near lock pillar",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: rivet [5] fastens the clip [4] at the left (lock-pillar) end of pipe [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "rear compartment floor/rear wall behind seats",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: clips [4] carry pipe [3] across the car behind the seats. Clip spacing dims 10.50 and 11; .387 to the pipe.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "lock pillar / door opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view and View B (convertible only): clip [6] holds hose [2] along the lock pillar on the convertible routing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "rear window pillar (coupe)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Coupe routing: hose [2] and pipe [3] run up beside the rear window held by clips (see UPC 12), not numbered on this sheet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Bend & route vacuum pipe between insulation & lock pillar support brace as shown.",
+    "[A] Typical 2 Places.",
+    "VIEW B CONV. ONLY",
+    "VIEW A TYPICAL ATTACHMENT",
+    "10.50",
+    "11",
+    ".387",
+    "HOSE ROUTING ON CONVERTIBLE",
+    "CLIP (SEE UPC 12)"
+  ],
+  "notes_internal": [
+    "Item numbers 1 and 2 in the callout list are partly wiped by the binder hole; taken as 1 and 2 by sequence and drawing callouts.",
+    "Item 5: printed as six digits '455624'; copied as printed.",
+    "What the vacuum line operates at the rear (actuator/valve) is not named beyond 'ACTUATOR' and 'VALVE ASM'; summary hedged.",
+    "Empty torque legend. 'K156' printed vertically near View A; not used."
+  ],
+  "revisions": [
+    {
+      "date": "2-13-70",
+      "sym": "4",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

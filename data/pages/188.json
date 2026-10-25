@@ -1,0 +1,87 @@
+{
+  "page": 188,
+  "group": "6",
+  "sheet": "A5",
+  "title": "BELT ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Accessory drive belt routing (fan belts) for the 454 big-block engine: base, LJ2, N40 power steering, LJ2 with N40, C60 air conditioning (with idler pulley), and C60 with N40. A.I.R. smog pump, P/S pump and A/C compressor belts are shown on their tracks; tension specs are on the 350 sheet (A4).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: For belt tensioning specifications, see \"350\" Engine Belt Routing Sheet.",
+    "A = 1ST TRACK, B = 2ND TRACK, C = 3RD TRACK (crankshaft pulley groove)."
+  ],
+  "notes_internal": [
+    "Diagram page: no part callouts. Table lists the pulleys and belt letters in each layout; exact belt paths on the 454 drawings cross and overlap, so per-belt pulley lists are not recorded.",
+    "Base 454: A drawn between crankshaft and water pump, B from crankshaft to generator (letters reversed versus the 350 sheet).",
+    "Circled (1) revision marks sit at belt A in the RPO C60 and RPO C60 WITH RPO N40 drawings.",
+    "Rev 1 text: count before PLACES unreadable (probably the two circled spots), written '?'.",
+    "Title block: DR WO/C1, CK 4-18-69 C1, PREL 3-28-69, C/O A6 (sic); model box 19000 (\"454\" ENGINE). Sideways 'K186'."
+  ],
+  "revisions": [
+    {
+      "date": "8-28-69",
+      "sym": "1",
+      "text": "ITEM A ROUTING R/D ? PLACES",
+      "was": null,
+      "item": "A"
+    }
+  ],
+  "options": [
+    "LJ2",
+    "N40",
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "BELT ROUTING - \"454\" ENGINE",
+      "columns": [
+        "configuration",
+        "pulleys",
+        "belts"
+      ],
+      "rows": [
+        [
+          "BASE",
+          "C/SHAFT, WATER PUMP, GENERATOR",
+          "A, B"
+        ],
+        [
+          "RPO LJ2",
+          "C/SHAFT, WATER PUMP, GENERATOR, A.I.R. PUMP",
+          "A, B, C"
+        ],
+        [
+          "RPO N40",
+          "C/SHAFT, WATER PUMP, GENERATOR, P/S PUMP",
+          "A, B, C"
+        ],
+        [
+          "RPO LJ2 WITH RPO N40",
+          "C/SHAFT, WATER PUMP, GENERATOR, A.I.R. PUMP, P/S PUMP",
+          "A, B, C, C"
+        ],
+        [
+          "RPO C60",
+          "C/SHAFT, WATER PUMP, GENERATOR, IDLER, A/C COMP",
+          "A, B, C"
+        ],
+        [
+          "RPO C60 WITH RPO N40",
+          "C/SHAFT, WATER PUMP, GENERATOR, IDLER, A/C COMP, P/S PUMP",
+          "A, B, C, C"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

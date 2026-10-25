@@ -1,0 +1,246 @@
+{
+  "page": 155,
+  "group": "1",
+  "sheet": "M1",
+  "title": "HEATER, BLOWER & RESISTOR ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Heater box installation (all models): the heater & blower assembly (blower motor housing, engine side of the firewall) and the heater & defroster assembly (heater box under the dash) clamp the dash panel (firewall) between them, held by nuts on studs; the blower flange is sealed with 55a sealer. A duct is screwed to the heater box, a seal goes around the heater core pipes, and the blower motor resistor is screwed in with its harness plug (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39???53",
+      "name": "HEATER & BLOWER ASM.",
+      "name_expanded": "Heater & blower assembly – blower motor housing (engine side of firewall)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3868762",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer – on heater case studs at the dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3909099",
+      "name": "SEAL",
+      "name_expanded": "Seal – heater core pipes",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3984664",
+      "name": "HEATER & DEF ASM.",
+      "name_expanded": "Heater & defroster assembly – heater box (passenger side, under dash)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9427398",
+      "name": "SCREW",
+      "name_expanded": "Screw – duct to heater box",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3963797",
+      "name": "DUCT ASM.",
+      "name_expanded": "Duct assembly – heater outlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419845",
+      "name": "NUT",
+      "name_expanded": "Nut – heater/blower studs",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3929052",
+      "name": "RESISTOR ASM.",
+      "name_expanded": "Blower motor resistor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419303",
+      "name": "SCREW",
+      "name_expanded": "Screw – blower resistor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "7-12",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "55a",
+      "description": "SEALER",
+      "amount": ".03 GAL.",
+      "where": "flange of heater & blower asm. [1] where it meets the dash panel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "dash panel (firewall) / heater & def asm. [4]",
+      "qty": "5 shown",
+      "torque_ref": "2",
+      "note": "Nuts [7] (5 shown) go on from the engine side onto studs, through the flange of the blower housing [1] and the dash panel; the studs line up with the heater & def asm. [4] behind the dash.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel",
+      "qty": "3 shown",
+      "torque_ref": null,
+      "note": "Special washers [2] (3 shown) sit on the studs of [4] between the heater case and the dash panel opening; the drawing does not show separate fasteners for them.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "55a",
+      "holds": [
+        "1"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer 55a bead along the blower housing [1] flange against the dash panel; bead at least .38 dia. measured perpendicular to the flange when applied.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "how": "seals",
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [3] fits around the heater core pipes where they come through the dash panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "heater & def asm. [4]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [5] holds the duct [6] to the lower end of the heater box [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "heater case (View A)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [9] goes through the resistor [8] plate into the case (two holes in the plate, one screw drawn); the wiring harness plug (see UPC 12) pushes onto the resistor terminals.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: At time of application, sealer bead must be .38 dia minimum-measured perpendicular to flange.",
+    "WIRING HARNESS SEE UPC 12"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes out digits 3-5; 6th digit left edge cut but reads 5. Written 39???53.",
+    "Sheet id from title block 'M1' (slightly smudged but legible).",
+    "Resistor [8] location: View A arrow points at the heater case near the dash panel; exact mounting surface not certain.",
+    "Revision 1 printed WAS 3942699 HEATER & DEF; circled 1 is next to item 4.",
+    "'K153' printed vertically next to the torque legend; not used."
+  ],
+  "revisions": [
+    {
+      "date": "2-13-70",
+      "sym": "1",
+      "text": "WAS 3942699 HEATER & DEF",
+      "was": "3942699",
+      "item": "4"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

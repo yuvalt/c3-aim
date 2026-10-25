@@ -1,0 +1,129 @@
+{
+  "page": 187,
+  "group": "6",
+  "sheet": "A4",
+  "title": "BELT ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Accessory drive belt routing (fan belt / serpentine-free V-belt layout) for the 350 engine: base engine, LT1 (with A.I.R. smog pump), N40 power steering, L46 with N40, C60 air conditioning, and C60 with N40. Gives factory belt tension specs for 3/8 and 15/32 belts and the A.I.R. pump belt, checked with a Burroughs gauge BT-33-95.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Initial tension: 3/8 belts 125 ± 5 lbs; 15/32 belts 140 ± 5 lbs.",
+    "CAUTION: when re-tensioning a previously installed belt after part replacement or repair, use 75 ± 5 lbs for 3/8 belts and 95 ± 5 lbs for 15/32 belts (these are the residual figures a new belt settles to by shipment).",
+    "Initial A.I.R. pump belt strand tension 75 ± 5 lbs (settles to about 60 lbs by shipment).",
+    "Check belt tension with a Burroughs Gage BT-33-95.",
+    "A = 1ST TRACK, B = 2ND TRACK, C = 3RD TRACK (crankshaft pulley groove)."
+  ],
+  "notes_internal": [
+    "Diagram page: no part callouts. Table lists which accessories each belt letter reaches, read from the drawings; exact wrap order not recorded.",
+    "Belt A in every layout drawn from the crankshaft up to the generator with its upper strand running to the water pump pulley; recorded as C/SHAFT, WATER PUMP, GENERATOR.",
+    "Model box reads 19000 (\"350\" ENGINE); the 454 routing is on A5.",
+    "Unlabeled first diagram taken as the base engine.",
+    "RPO L46 WITH RPO N40: belt B drawn crossing from the top of the water pump pulley down to the P/S pump; whether it also wraps the crankshaft is unclear.",
+    "Title block: DR WO/C1, CK 4-18-69 C1, PREL 3-28-69, C/O A5 (sic). Sideways 'K185'. No revisions."
+  ],
+  "revisions": [],
+  "options": [
+    "LT1",
+    "N40",
+    "L46",
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "BELT ROUTING - \"350\" ENGINE",
+      "columns": [
+        "configuration",
+        "belt",
+        "pulleys"
+      ],
+      "rows": [
+        [
+          "BASE",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "BASE",
+          "B",
+          "C/SHAFT, WATER PUMP"
+        ],
+        [
+          "RPO LT1",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "RPO LT1",
+          "B",
+          "C/SHAFT, WATER PUMP"
+        ],
+        [
+          "RPO LT1",
+          "C",
+          "WATER PUMP, A.I.R. PUMP"
+        ],
+        [
+          "RPO N40",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "RPO N40",
+          "B",
+          "C/SHAFT, WATER PUMP"
+        ],
+        [
+          "RPO N40",
+          "C",
+          "C/SHAFT, P/S PUMP"
+        ],
+        [
+          "RPO L46 WITH RPO N40",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "RPO L46 WITH RPO N40",
+          "B",
+          "WATER PUMP, P/S PUMP"
+        ],
+        [
+          "RPO C60",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "RPO C60",
+          "B",
+          "C/SHAFT, A/C COMP"
+        ],
+        [
+          "RPO C60 WITH RPO N40",
+          "A",
+          "C/SHAFT, WATER PUMP, GENERATOR"
+        ],
+        [
+          "RPO C60 WITH RPO N40",
+          "B",
+          "C/SHAFT, A/C COMP"
+        ],
+        [
+          "RPO C60 WITH RPO N40",
+          "C",
+          "C/SHAFT, P/S PUMP"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

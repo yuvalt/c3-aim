@@ -1,0 +1,74 @@
+{
+  "page": 163,
+  "group": "3",
+  "sheet": "A1",
+  "title": "FRONT SUSPENSION-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the UPC 3 front suspension section: upper and lower control arms (A2), steering knuckle, front wheel hub, wheel studs and lower control arm bumper (A3), front shock absorber, upper control arm bumper and front coil spring (A4), front stabilizer bar (sway bar) (A5) and front suspension geometry (alignment) (A6). A drawing of the front suspension points to where each sheet applies; spring and trim (ride) heights are in UPC 0.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: For vehicle springs & trim heights, see UPC 0."
+  ],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the two-column contents list; multi-line titles joined with a space.",
+    "Drawing callouts: A2 at the upper control arm, A3 at the steering knuckle/hub, A4 at the shock absorber inside the coil spring, A5 at the stabilizer bar. A1 and A6 not called out on the drawing.",
+    "Title block: drawing 3965172; DR DR/C1, CK 4-18-69 C1, PREL 3-7-69, C/O A1; model 19000. Circled (1) below the drawing = revision 1.",
+    "Torque legend triangles are blank."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "FRONT SUSPENSION CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "UPPER & LOWER CONTROL ARM"
+        ],
+        [
+          "A3",
+          "STEERING KNUCKLE & FRONT WHEEL HUB ASM, STUDS & LOWER CONTROL ARM BUMPER"
+        ],
+        [
+          "A4",
+          "SHOCK ABSORBER, UPPER CONTROL ARM BUMPER & FRONT SPRING"
+        ],
+        [
+          "A5",
+          "STABILIZER BAR"
+        ],
+        [
+          "A6",
+          "FRONT SUSPENSION GEOMETRY"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
