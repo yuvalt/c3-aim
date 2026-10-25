@@ -17,7 +17,7 @@
 - Prompt updates from pilot agents not yet applied: chart part numbers as parts with `source: "table"`, fill-down rule for tables, `uncertain` on torques, rotated-crop command, per-agent crop folders.
 - Glossary (`data/glossary.csv`) not started; "halo", "birdcage", "T-top" etc.
 - Local model (Qwen-VL via Ollama, `local_read.py`): comparison run stopped before finishing; no results. Re-run if a free second reader is needed.
-- Fastener sizes: web search on top 50 (`data/fasteners/`, `prompts/fastener_lookup.md`): 13 sized (2 high, 11 medium), 4 conflicts, 31 not found. Covers only 11% of fastener callouts. Need the GM Standard Parts Catalog (user testing GMPartsWiki from home; forum ask).
+- Fastener sizes: GM Standard Parts catalog (1989, Section III English, user's PDF in docs/, not committed) parsed by `std_parts.py` from two Vision OCR passes (native + 2x) → `data/std_parts.csv`; 12 rows read by eye in `data/std_corrections.csv`. With the web lookups (`data/fasteners/`): 102 of 551 AIM fastener numbers sized = 27% of fastener callouts. Many 1970 numbers aren't in the 1989 edition; a 1971/74 edition would cover more.
 
 ## Next step
 Apply the prompt updates, then extract remaining pages in batches of ~20 with parallel agents:

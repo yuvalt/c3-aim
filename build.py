@@ -40,6 +40,13 @@ def load_sizes():
         desc = " ".join(v for v in (s.get("head"), s.get("drive")) if v)
         sizes[s["pn"]] = (f'size {dims}' if s.get("thread") else dims) + (f" {desc}" if desc else "") + (f', {s["finish"]}' if s.get("finish") else "") \
             + f' ({s["confidence"]}: {len(s.get("sources", []))} source{"s" * (len(s.get("sources", [])) != 1)})'
+    # GM's own Standard Parts catalog wins over web findings
+    std = pathlib.Path("data/std_parts.csv")
+    for r in csv.DictReader(std.open()) if std.exists() else []:
+        if r["spec"]:
+            title = re.sub(r"\s*\(Cont'd\.?\)", "", r["title"], flags=re.I).split(" ", 1)[-1].title()
+            page = f'p.{r["catalog_page"]}' if r["catalog_page"] else f'scan page {r["pdf_page"]}'
+            sizes[r["pn"]] = f'{title}: {r["spec"]} (GM Standard Parts catalog 1989, group {r["title"][:5]}, {page})'
     return sizes
 
 
@@ -119,7 +126,7 @@ def sheet_md(p):
         extra = [f'torque △{x.get("torque_ref")}'] if x.get("torque_ref") else []
         extra += [f'models {",".join(x.get("models"))}'] if x.get("models") else []
         extra += ["digits uncertain"] if x.get("uncertain") else []
-        extra += [SIZES[x["pn"]] + " — from external catalog/vendor sources, not the AIM"] if x["pn"] in SIZES else []
+        extra += [SIZES[x["pn"]] + " — size not from the AIM"] if x["pn"] in SIZES else []
         pair = expand(x["pn"])
         pn = f'{x["pn"]} ({pair[0]} / {pair[1]})' if len(pair) == 2 else x["pn"]
         out.append(f'- [{x["item"]}] {pn} {describe(x)}' + (f' — {"; ".join(extra)}' if extra else ""))
