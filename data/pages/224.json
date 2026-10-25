@@ -1,0 +1,201 @@
+{
+  "page": 224,
+  "group": "12",
+  "sheet": "A1",
+  "title": "ELECTRICAL-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 12 electrical: headlamps and their vacuum actuators, parking/side marker lamps and horns, forward lamp and engine wiring harnesses, battery and cables, headlamp aiming, vacuum hose routing (A1-A15); fuse panel, instrument cluster, gauges, I.P. harness, stop lamp switch, parking brake alarm, lamp monitors, access door switch (B1-B9); turn signal lever/horn cap, speedo & tach cables, back-up lamp switch, rear harness and tail/license lamps (C1-C6); wiring diagrams (D1-D8). A car drawing points to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: Front of Dash Sealing-See UPC 1."
+  ],
+  "notes_internal": [
+    "Drawing callouts also show B10 ('B1 THRU B10') and B11, which are not in the contents list (list ends at B9).",
+    "Revision date middle digit unreadable: '6-?-69'. Circled 1 at lower right of drawing area.",
+    "Multi-line titles joined with single spaces."
+  ],
+  "revisions": [
+    {
+      "date": "6-?-69",
+      "sym": "1",
+      "text": "CARRYOVER STRICKER RMVD",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "ELECTRICAL-CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "HEADLAMP-SUPT, ACTUATOR ASM & HEADLAMP DOOR MONITORING SWITCH"
+        ],
+        [
+          "A3",
+          "HEADLAMP-HOUSING & SUPT. INSTAL."
+        ],
+        [
+          "A4",
+          "HEADLAMP & BEZEL"
+        ],
+        [
+          "A5",
+          "PARKING LAMPS, HORNS & SIDE MARKER LAMPS INSTALLATION"
+        ],
+        [
+          "A6",
+          "FORWARD LAMP WIRING HARN, HORN RELAY MOUNTING"
+        ],
+        [
+          "A7",
+          "GEN & FORWARD LAMP WIRING HARN, GENERATOR WIRING"
+        ],
+        [
+          "A8",
+          "ENGINE WIRING"
+        ],
+        [
+          "A9",
+          "BATTERY"
+        ],
+        [
+          "A10",
+          "BATTERY CABLE ROUTING"
+        ],
+        [
+          "A11",
+          "GROUND CABLE & BATTERY POS. CABLE"
+        ],
+        [
+          "A12",
+          "HEADLAMP AIMING"
+        ],
+        [
+          "A13",
+          "HEADLAMP VAC HOSE ROUTING & RELAY MOUNTING"
+        ],
+        [
+          "A14",
+          "WINDSHIELD WIPER VAC HOSE ROUTING & VAC TANK MTG."
+        ],
+        [
+          "A15",
+          "HDLP & WINDSHIELD WIPER VAC HOSE ROUTING"
+        ],
+        [
+          "B1",
+          "FUSE PANEL ASM & DIMMER SW."
+        ],
+        [
+          "B2",
+          "INSTRUMENT CLUSTER, CLOCK & CIGARETTE LIGHTER"
+        ],
+        [
+          "B3",
+          "SPEEDO, TACH, DIR. SIG. FLASHER, LIGHT SW. & COURTESY LAMPS"
+        ],
+        [
+          "B4",
+          "INSTRUMENT PANEL WIRING HARNESS"
+        ],
+        [
+          "B5",
+          "INSTRUMENT PANEL WIRING HARNESS"
+        ],
+        [
+          "B6",
+          "STOP LAMP SWITCH"
+        ],
+        [
+          "B7",
+          "PARKING BRAKE ALARM"
+        ],
+        [
+          "B8",
+          "LAMP MONITORING EQUIPMENT"
+        ],
+        [
+          "B9",
+          "HEADLAMP & W/S WIPER ACCESS DOOR SWITCH MOUNTING & VACUUM HARNESS"
+        ],
+        [
+          "C1",
+          "DIRECTIONAL SIGNAL LEVER, HORN CAP & HAZARD FLASHER KNOB"
+        ],
+        [
+          "C2",
+          "SPEEDO & TACH SHAFTS & ROUTING"
+        ],
+        [
+          "C3",
+          "B/U LAMP SW & OIL PRESS PIPE"
+        ],
+        [
+          "C4",
+          "RR WRG. HARN & COMPT LAMP"
+        ],
+        [
+          "C5",
+          "RR COMPT LAMP, TAIL & LICENSE LAMP MONITOR"
+        ],
+        [
+          "C6",
+          "RR TAIL, LICENSE & B/U LAMP & HARNESS"
+        ],
+        [
+          "D1",
+          "WIRING DIAGRAM-ENG. COMPT."
+        ],
+        [
+          "D2",
+          "ENG. COMPT."
+        ],
+        [
+          "D3",
+          "FUSE PANEL"
+        ],
+        [
+          "D4",
+          "FUSE PANEL"
+        ],
+        [
+          "D5",
+          "INSTRUMENT PANEL"
+        ],
+        [
+          "D6",
+          "INSTRUMENT PANEL"
+        ],
+        [
+          "D7",
+          "BODY & TAIL LAMP"
+        ],
+        [
+          "D8",
+          "BODY & TAIL LAMP"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

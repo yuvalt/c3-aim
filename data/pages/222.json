@@ -1,0 +1,253 @@
+{
+  "page": 222,
+  "group": "10",
+  "sheet": "A1",
+  "title": "WHEELS & TIRES-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Wheels & tires group contents (A1 contents, A2 spare tire storage) plus the road wheel and tire assembly: tire mounted on the wheel with soap lubricant, balanced with clip-on wheel weights, wheel held to the hub by lug nuts (60-80 lb ft). The trim ring (beauty ring) and hub cap (center cap) and the instruction sheet ship loose with the car.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3943695",
+      "name": "TIRE UNIT",
+      "name_expanded": "Tire unit",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3943696",
+      "name": "OPT.",
+      "name_expanded": "Tire unit (optional)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3943697",
+      "name": "OPT.",
+      "name_expanded": "Tire unit (optional)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9421500",
+      "name": "CHART-WHEEL BALANCE WEIGHT",
+      "name_expanded": "Chart – wheel balance weight",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "395286?",
+      "name": "WHEEL ASM.",
+      "name_expanded": "Wheel assembly (road wheel, rim)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "358501",
+      "name": "NUT",
+      "name_expanded": "Nut – wheel lug nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3923625",
+      "name": "RING UNIT",
+      "name_expanded": "Ring unit – wheel trim ring (beauty ring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3925800",
+      "name": "CAP-HUB",
+      "name_expanded": "Cap – hub (wheel center cap)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3913832",
+      "name": "SHEET-INSTR.",
+      "name_expanded": "Sheet – instruction",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3934888",
+      "name": "STICKER-TIRE PRESSURE",
+      "name_expanded": "Sticker – tire pressure",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-80",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "10a",
+      "description": "LUBRICANT SOAP",
+      "amount": "1.6 OZ",
+      "where": "tire beads at the wheel rim"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "hub studs",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lug nuts [4] on the hub studs through the wheel [3] center.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "10a",
+      "holds": [
+        "1"
+      ],
+      "to": "wheel [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tire [1] mounted on the wheel with 10a soap lubricant on the beads (not an adhesive; a mounting lubricant). Valve assembly comes with the tire unit and goes in the wheel (note C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "wheel rim [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Balance weights per chart [2] on the rim edge (note B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "wheel [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Trim ring [5] and hub cap [6] shown exploded off the wheel; they ship loose (note D, UPC 0-C1). No retainers shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Maximum temperature of tires to be 180°F during reshaping process at assembly plants regardless of the length of time in oven.",
+    "NOTE (rev 3): All tires of the same size and ply rating on a vehicle must be the same make and in the same outside-diameter group (group number, about 2.00\" high, written in yellow wax crayon on the back sidewall; groups 1-6).",
+    "NOTE: Match the marks on the tire and the wheel so that they are on a radial line or within one inch of each other.",
+    "[7] SHEET-INSTRUCTION [D]; [8] STICKER - See UPC 0 - B1.",
+    "B: Check every wheel & tire asm for static unbalance; if more than 5 oz of weight is needed, reject the assembly.",
+    "C: Install valve assembly tubeless tire (part of tire unit as received) in wheel assembly.",
+    "D: See Misc. Shipping List - UPC 0 - C1."
+  ],
+  "notes_internal": [
+    "Item 3: last digit smudged, '395286?' (OCR also unreadable).",
+    "Item 8: fifth digit blotted; '3934?88' (render at normal size and OCR both suggest 3934888).",
+    "Serial no. location on tire sidewall marked in the drawing.",
+    "Revision dates hard to read: rev 1 '?-19-69', rev 2 '12-23-6?', rev 3 '2-3-70'."
+  ],
+  "revisions": [
+    {
+      "date": "?-19-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-23-6?",
+      "sym": "2",
+      "text": "WAS 55-75 LBS FT",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "2-3-70",
+      "sym": "3",
+      "text": "TIRE NOTE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "WHEELS & TIRES-CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "SPARE TIRE STORAGE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

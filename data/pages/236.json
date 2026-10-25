@@ -1,0 +1,167 @@
+{
+  "page": 236,
+  "group": "12",
+  "sheet": "A13",
+  "title": "HEADLAMP VAC HOSE ROUTING & RELAY MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front-end routing of the headlamp vacuum hoses (color-striped white, red, yellow, green) from the two headlamp vacuum relay valves to the headlamp actuators, plus the headlamp washer hose. The two relay valves are screwed to a bracket, and the bracket is screwed up to the underside of the front reinforcement (View A). Hoses are bundled with plastic straps and held to the generator & front lamp harness with a clip.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "4778650",
+      "name": "STRAP",
+      "name_expanded": "Strap – hose bundle tie",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3901794",
+      "name": "CLIP",
+      "name_expanded": "Clip – hoses to generator & fwd lamp harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "5638427",
+      "name": "RELAY VALVE ASM.",
+      "name_expanded": "Headlamp vacuum relay valve assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3966703",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – relay valve mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420494",
+      "name": "SCREW",
+      "name_expanded": "Screw – relay valve to bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "423595",
+      "name": "SCREW",
+      "name_expanded": "Screw – bracket to reinforcement",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [4]",
+      "qty": "2 per valve",
+      "torque_ref": "1",
+      "note": "View A: each relay valve [3] mounting flange is screwed up into bracket [4] with screws [5] (two holes per valve shown).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "underside of front reinforcement (REINF)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: bracket [4] goes up against the reinforcement and is held with screws [6] driven up through the bracket into the reinforcement (several holes shown, single callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "vacuum hose bundle / harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Straps [1] tie the vacuum and washer hoses together and to the harness at about five places along the route to the headlamp actuators and horns area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [],
+      "to": "generator & fwd lamp harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [2] holds the vacuum hose bundle to the generator & front lamp harness near the wiper-motor end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque legend has only triangle 1 filled; digit legible as 1. Triangles 2-5 empty; stamp 'K234'.",
+    "Vacuum hoses, actuator asm., horns and washer hose are labeled but have no callouts on this sheet.",
+    "C/O box reads 8-21-69 / A3 prel.",
+    "Colored vacuum hoses push onto the relay valve [3] nipples (View A); no clamps shown."
+  ],
+  "revisions": [
+    {
+      "date": "1-29-70",
+      "sym": "6",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-19-70",
+      "sym": "7",
+      "text": "WAS 9422033 STRAP",
+      "was": "9422033",
+      "item": "1"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

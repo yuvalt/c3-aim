@@ -3,14 +3,14 @@ page,sheet,item,pn,issue,hint
 27,0/D7,,9985052,"registry has it, we don't",OPT
 29,0/D9,,9985198,"registry has it, we don't",SEALER-PLASTISOL
 37,1/A4,2,??54515-6,unreadable digits,no registry match
-37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
 37,1/A4,,..54516,"registry has it, we don't",REINF ASM-LOCK PILLAR
+37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
-39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
+39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
 44,1/A11,1,393????,unreadable digits,"registry: 3932970,3932950"
@@ -91,11 +91,41 @@ page,sheet,item,pn,issue,hint
 177,5/A2,4,3948131,OCR disagrees,registry agrees
 178,5/A3,2,3921086,not in registry,
 178,5/A3,13,54?0551,unreadable digits,no registry match
-178,5/A3,,54.0551,"registry has it, we don't",BOOT
 178,5/A3,,3921686,"registry has it, we don't",SPRING
+178,5/A3,,54.0551,"registry has it, we don't",BOOT
 185,6/A2,7,9419061,OCR disagrees,registry agrees
+189,6/B1,1,???????,unreadable digits,no registry match
+190,6/B2,1,?168878,unreadable digits,no registry match
+190,6/B2,1,,bad format,
+190,6/B2,1,,OCR disagrees,
+190,6/B2,1,,not in registry,
+190,6/B2,,2468878,"registry has it, we don't",CLAMP
+194,6/B6,1,29???32,unreadable digits,no registry match
+194,6/B6,2,298?932,unreadable digits,no registry match
+203,7/B3,6,3921631,not in registry,
+203,7/B3,,3921621,"registry has it, we don't",ROD 2ND & 3RD
+205,7/B5,3,9419322,OCR disagrees,registry agrees
+206,7/B6,3,9422404,torque ref 2 not in legend,
 214,8/B2,10,3833120,not in registry,
 214,8/B2,,383320,"registry has it, we don't",HOSE
 215,8/B3,8,3867164,OCR disagrees,registry agrees
+220,9/A4,14,51dd,bad format,
+220,9/A4,14,51dd,OCR disagrees,
+220,9/A4,14,51dd,not in registry,
+222,10/A1,1,3943695,OCR disagrees,registry agrees
+222,10/A1,3,395286?,unreadable digits,no registry match
+222,10/A1,,395286.,"registry has it, we don't",WHEEL ASM.
+228,12/A5,13,9428904,not in registry,
+228,12/A5,14,,bad format,
+228,12/A5,14,,OCR disagrees,
+228,12/A5,14,,not in registry,
+228,12/A5,15,8901617,not in registry,
+230,12/A7,1,,bad format,
+230,12/A7,1,,OCR disagrees,
+230,12/A7,1,,not in registry,
+231,12/A8,2,3901794,OCR disagrees,registry agrees
+231,12/A8,3,8901592,OCR disagrees,registry agrees
+231,12/A8,4,3983946,OCR disagrees,registry agrees
+231,12/A8,5,3894533,OCR disagrees,registry agrees
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match

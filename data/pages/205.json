@@ -1,0 +1,327 @@
+{
+  "page": 205,
+  "group": "7",
+  "sheet": "B5",
+  "title": "INTERLOCK LINKAGE, CONTROL LEVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Manual-transmission shifter boots and the backdrive (ignition-lock interlock) cable. The upper shift boot [2] goes on with screws [1] at the console shifter opening (remove the shift knob first); the lower boot [4] screws [3] onto plate [5], which is riveted [6] to the floor tunnel. Backdrive cable [12] runs from a bracket [11] bolted (two bolts [9]) on the transmission to the lever on the steering column; at each end the cable housing is clipped with retainer [10] and the inner wire end is held in its lever with washer [7] and cotter pin [8].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9420610",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3977797",
+      "name": "BOOT ASM-UPPER",
+      "name_expanded": "Shift boot assembly – upper (console)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419322",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919731",
+      "name": "BOOT ASM.-LWR.",
+      "name_expanded": "Shift boot assembly – lower (floor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "5",
+      "pn": "3922318",
+      "name": "PLATE",
+      "name_expanded": "Plate (shift boot retainer plate on floor tunnel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "6",
+      "pn": "9409245",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "7",
+      "pn": "3718496",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "8",
+      "pn": "103372",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9418991",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3875092",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (cable housing clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949081",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – backdrive cable, at transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3949073",
+      "name": "CABLE ASM.",
+      "name_expanded": "Backdrive cable assembly (transmission reverse lever to steering column lock lever, ignition interlock)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "1?-1?",
+      "unit": "LBS IN",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "14-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "console, at the shifter opening",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes down through the console into the corner holes of the upper boot [2]. NOTE: remove the shift knob before installing [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "plate [5] on the floor tunnel",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [3] goes down through the lower boot [4] flange into plate [5]; boot has a TAB on its left side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "floor tunnel around the shifter opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [6] fasten plate [5] around the tunnel opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "transmission case (side, beside the shift lever cover)",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "Two bolts [9] hold the cable bracket [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "bracket [11] at the transmission",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retainer clip [10] holds the cable housing end in bracket [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "transmission reverse lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cable inner wire end goes through the lever hole; washer [7] and cotter pin [8] retain it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "steering column bracket asm (see UPC 9)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retainer clip [10] holds the cable housing at the column bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "lever on the steering column (existing part, 'COLUMN')",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cable wire end through the column lever, held by washer [7] and cotter pin [8].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Remove knob before installing [2].",
+    "BRACKET ASM SEE UPC 9"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first two digits; '20610' visible in 7-digit width.",
+    "Items 4, 5, 6, 7: first (item 5: second) digit is a solid ink blob at 1000 dpi; left as '?'.",
+    "Torque 1: both second digits blotted (looks like 10-15, not certain).",
+    "Torque legend has a 5th triangle with no value; 'K203' stamp at left.",
+    "Plate [5] vs rivets [6]: leader of [5] ends at the tunnel-opening flange; read as plate riveted to the tunnel. Not stated in text.",
+    "Upper boot screw [1]: leader runs to the console opening; inferred to hold boot [2] to the console.",
+    "Circled 4 sits next to item 2 in the list; circled 5 below item 12 (switch removed)."
+  ],
+  "revisions": [
+    {
+      "date": "1-30-70",
+      "sym": "4",
+      "text": "WAS 3976537 BOOT & DWG REVISED",
+      "was": "3976537",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "3961567 SWITCH REMOVED",
+      "was": "3961567",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "VIEW \"A\" REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "TITLE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

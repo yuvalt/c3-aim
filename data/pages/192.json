@@ -1,0 +1,198 @@
+{
+  "page": 192,
+  "group": "6",
+  "sheet": "B4",
+  "title": "TRANSMISSION BRACKET & MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Transmission rear mount (trans mount) under the transmission tailshaft, sitting on the bracket [5] that bridges the frame crossmember. The rubber mount [1] is bolted up to the transmission with bolts [3] and lock washers [2]; studs on the mount pass through the bracket and take nuts [4]. The bracket is bolted to the crossmember with bolt [8] (lock washer [2], special washer [9]) and bolts [7] with lock washers [6].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3913498",
+      "name": "MOUNTING ASM-TRANS.",
+      "name_expanded": "Transmission mount assembly (rear trans mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419073",
+      "name": "BOLT",
+      "name_expanded": "Bolt – mount to transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3913882",
+      "name": "BRACKET-TRANS. MTG.",
+      "name_expanded": "Bracket – transmission mounting (on crossmember)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418967",
+      "name": "BOLT",
+      "name_expanded": "Bolt – bracket to crossmember",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "454933",
+      "name": "BOLT",
+      "name_expanded": "Bolt – bracket to crossmember",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3700338",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-45",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission extension housing",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [3] with lock washers [2] go up through the mount [1] into the underside of the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "5"
+      ],
+      "to": "mount studs",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Studs built into mount [1] (no callout) pass down through the top of bracket [5]; nuts [4] go on from below. A second nut [4] is shown on a side stud of the bracket assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "2",
+        "9"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame crossmember",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [8] with lock washer [2] goes up from below through the crossmember (special washer [9] at the crossmember bushing) into the bracket [5] flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame crossmember tab",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Bolts [7] with lock washers [6]: one horizontal into a crossmember tab, one up from below.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch removes digits 2-3; visible '3' + '3498'. Count of 7 digits assumed.",
+    "Exact stack-up at the crossmember (which hole each [7]/[8] enters) is hard to follow in the exploded view; descriptions hedged.",
+    "Exhaust pipe clamp shown is UPC 8. Torque triangles 3-5 empty. No revisions."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

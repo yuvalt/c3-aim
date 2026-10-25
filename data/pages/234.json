@@ -1,0 +1,191 @@
+{
+  "page": 234,
+  "group": "12",
+  "sheet": "A11",
+  "title": "GROUND CABLE & BATTERY POSITIVE CABLE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Engine-end of the battery cables: the ground (negative) cable bolts to the engine mounting bracket with a bolt, lock washer and nut; the positive cable terminal goes on the starter solenoid battery stud, indexed by a lug, with the engine harness lead and a nut. The positive cable is clipped along the starter and to an existing engine bolt.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "138485",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "180075",
+      "name": "BOLT",
+      "name_expanded": "Bolt – ground cable to engine mount bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6295176",
+      "name": "CABLE ASM.-GROUND",
+      "name_expanded": "Cable assembly – engine ground",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "120376",
+      "name": "NUT",
+      "name_expanded": "Nut – ground cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3856490",
+      "name": "CLIP",
+      "name_expanded": "Clip – positive cable at starter",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3928767",
+      "name": "CLIP",
+      "name_expanded": "Clip – positive cable at engine bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8901723",
+      "name": "CABLE ASM.-POS.",
+      "name_expanded": "Cable assembly – battery positive",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "124829",
+      "name": "NUT",
+      "name_expanded": "Nut – starter solenoid battery terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "1",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "engine mounting bracket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] passes through lock washer [1], the ground cable [3] terminal and the engine mounting bracket; nut [4] on the other side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "1"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "starter solenoid battery stud",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: lock washer [1] on the solenoid stud, then the positive cable [7] terminal (its indexing lug engages the indexing recess on the solenoid), then the engine harness lead, then nut [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "starter/solenoid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [5] wraps the starter and holds the positive cable [7]; its attachment is not shown separately.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "engine (existing bolt)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [6] is held by an existing engine bolt (half-black square, 'ENGINE') and holds the positive cable [7].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "BOLT SEE UPC 6"
+  ],
+  "notes_internal": [
+    "Item 7: first digit prints as 8; copied as printed.",
+    "Lock washer [1] appears in both places (View A and at the engine mount bracket).",
+    "Torque triangles 3-5 empty; stamp 'K232'. C/O box reads A12."
+  ],
+  "revisions": [
+    {
+      "date": "12-4-69",
+      "sym": "1",
+      "text": "WAS 6297644 CABLE ASM-POS",
+      "was": "6297644",
+      "item": "7"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

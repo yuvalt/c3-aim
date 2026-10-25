@@ -1,0 +1,339 @@
+{
+  "page": 223,
+  "group": "10",
+  "sheet": "A2",
+  "title": "SPARE TIRE STOWAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Spare tire carrier under the rear of the car: the upper cover (carrier cover) screwed into weld nuts on the underbody, the tire tray (carrier basket) with its riveted strap, hung on a long support bolt through a front bracket (View A) and locked at the rear with a key lock unit and lock cover. Two hook-head bolts with nuts adjust/hold the tray. Key goes in the owner envelope.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3914226",
+      "name": "COVER",
+      "name_expanded": "Cover – spare tire carrier upper cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3933819",
+      "name": "BOLT",
+      "name_expanded": "Bolt – spare tire carrier support/lock bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3928810",
+      "name": "LOCK UNIT",
+      "name_expanded": "Lock unit – spare tire carrier lock (keyed)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3841701",
+      "name": "COVER",
+      "name_expanded": "Cover – lock cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3914217",
+      "name": "STRAP",
+      "name_expanded": "Strap – spare tire tray",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3956389",
+      "name": "BOLT",
+      "name_expanded": "Bolt (hook head)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418897",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3914225",
+      "name": "TRAY",
+      "name_expanded": "Tray – spare tire carrier tray (basket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3831877",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9420825",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3748358",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3841465",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3914224",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – spare tire carrier front support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3790768",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9418821",
+      "name": "BOLT",
+      "name_expanded": "Bolt – bracket to body",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "9420488",
+      "name": "PIN",
+      "name_expanded": "Pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "35-45",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "72-96",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "11",
+        "12"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underbody weld nut",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [10] with lock washer [11] and plain washer [12] goes up through the carrier cover [1] into a weld nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "17"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "weld nuts above cover [1] (View A)",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: bolt [16] with lock washer [17] goes up through bracket [14] and the cover [1] flange into the weld nuts.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "15",
+        "13",
+        "18"
+      ],
+      "holds": [
+        "5",
+        "8"
+      ],
+      "to": "bracket [14]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: long bolt [2] with special washer [15] goes up through bracket [14] into nut [13] held in the bracket; pin [18] in the bracket. The tray strap [5] hangs on bolt [2] (main view, arrow A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "end of bolt [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Keyed lock unit [3] locks the strap end on bolt [2]; lock cover [4] slips over the lock. Key goes in the owner envelope (UPC 0 sheet C1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [
+        "8",
+        "5"
+      ],
+      "to": "carrier",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Hook-head bolts [6] go up through the tray [8] flange and strap [5] ends, nuts [7] on top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "tray [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [9] fixes strap [5] to the tray.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Key is to be placed in envelope (See UPC 0 Sht C1)."
+  ],
+  "notes_internal": [
+    "Torque legend has a fifth triangle with no value.",
+    "Exact anchor for hook-head bolts [6] (what the hook engages) not clear in the drawing.",
+    "No revisions recorded. C/O box reads A2 & A3."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

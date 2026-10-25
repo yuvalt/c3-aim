@@ -1,0 +1,166 @@
+{
+  "page": 206,
+  "group": "7",
+  "sheet": "B6",
+  "title": "T.C.S. SWITCH & RELAY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Transmission Controlled Spark (TCS, emissions vacuum-advance control) switch and relay. The TCS switch [2] screws into a threaded boss on the side of the transmission with gasket [5] (View B) and the engine harness lead plugs onto it; the harness leads are held by special clip [4] under a bolt and lock washer. The TCS relay [1] is held to a body panel by one screw [3], located by dimples in the panel (View A), with the engine harness leads plugged into it.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3961573",
+      "name": "RELAY ASM.",
+      "name_expanded": "Relay assembly – TCS (transmission controlled spark)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3961567",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – TCS (transmission controlled spark), in transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "4",
+      "pn": "3983960",
+      "name": "CLIP SPL.",
+      "name_expanded": "Clip – special (wiring harness clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "5",
+      "pn": "3929530",
+      "name": "GASKET",
+      "name_expanded": "Gasket (TCS switch to transmission)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "5"
+      ],
+      "to": "threaded boss on the side of the transmission case (TRANS ASM.)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: switch [2] has its own threaded body and screws directly into the transmission with gasket [5] under its hex; no separate fastener. Engine wiring harness connector pushes onto the switch terminal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body panel (View A); dimples in the panel locate the relay",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "View A: screw [3] goes through the relay's mounting tab. Engine harness leads plug onto the relay terminals.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "panel beside the transmission (main view)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [4] holds the switch wiring leads; it is fastened by a bolt and lock washer (no part number; revision 2 'BOLT & L.WASHER ADDED').",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch over last digit; 5th/6th digits read 5 and 7 but blotted.",
+    "Items 2-5: one or more digits are ink blobs at 900 dpi; marked '?'. Item 3 reads 9422 + three blotted digits.",
+    "Screw [3] carries torque triangle 2, but legend triangles 2-5 have no values printed.",
+    "Relay mounting panel not named on the page (looks like a body/dash panel near the transmission tunnel).",
+    "'K204' stamp at right. Circled 1 next to item 4, circled 3 next to item 5, circled 5 at View A, circled 4 near View B arrow."
+  ],
+  "revisions": [
+    {
+      "date": "9-19-69",
+      "sym": "1",
+      "text": "ITEM 4 ADDED",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "BOLT & L.WASHER ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "?-18-70",
+      "sym": "3",
+      "text": "ITEM 5 ADDED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "MODELS ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "VIEW \"A\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

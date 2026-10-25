@@ -1,0 +1,47 @@
+{
+  "page": 193,
+  "group": "6",
+  "sheet": "B5",
+  "title": "IGNITION SWITCH MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Procedure for installing the ignition switch lock cylinder (key cylinder) into the lock housing on the steering column. The cylinder has no screws: it is retained by its own spring-loaded tab that snaps into a groove in the housing bore. No part numbers on this sheet; the lock cylinder is listed under UPC 1 (doors).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "lock cylinder"
+      ],
+      "to": "steering column lock housing bore",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retained by the cylinder's own spring-loaded tab (no separate fastener) popping into a groove in the housing bore; key on the lock cylinder sleeve aligns with the housing keyway; the cylinder's drive section engages the lock sector (part of the column assembly).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Install lock cylinder: 1) With the key in the cylinder, hold the lock cylinder sleeve and turn the knob clockwise to its stop (viewed from the key end).",
+    "2) Insert the cylinder into the housing bore with the sleeve key aligned to the housing keyway; push in until the cylinder end touches the lock sector.",
+    "3) Keep light inward pressure and slowly turn the knob counterclockwise until the cylinder's drive section mates with the sector.",
+    "4) Push in until the spring-loaded tab pops into the groove in the bore. Pull outward to check retention; if it comes out, start again at step 1.",
+    "5) Check the cylinder turns freely, with free spring return from START to RUN.",
+    "A: FURNISHED BY FISHER BODY (lock cylinder sleeve).",
+    "LOCK CYLINDER SEE UPC 1 DOORS"
+  ],
+  "notes_internal": [
+    "No callout list, torques or revisions on this sheet. Title block heading partly obscured by hole punch ('LOCK CYLIN_ER'). Torque triangles empty; 'K191' printed sideways."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

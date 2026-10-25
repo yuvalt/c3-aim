@@ -1,0 +1,207 @@
+{
+  "page": 202,
+  "group": "7",
+  "sheet": "B2",
+  "title": "TRANS BRACKET ASM. & CONTROL LEVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Manual transmission shifter (shift control lever assembly) on its support bracket at the side of the transmission, over the transmission crossmember. The shifter bolts to the support with two bolts and lock washers; the support is held by a screw at its side leg and a bolt that comes up from under the crossmember through a lock washer and plain washers. The shifter pivot gets 1k lubricant.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3960607",
+      "name": "TRANS CONT. LEVER ASM.",
+      "name_expanded": "Transmission control lever assembly (shifter)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3921629",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Support assembly – shifter bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419402",
+      "name": "SCREW",
+      "name_expanded": "Screw (support mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418821",
+      "name": "BOLT",
+      "name_expanded": "Bolt (support to crossmember, from below)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6255640",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419051",
+      "name": "BOLT",
+      "name_expanded": "Bolt (shifter to support, lower)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "138542",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer (external tooth)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3733134",
+      "name": "BOLT",
+      "name_expanded": "Bolt (shifter to support, pivot)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "72-9?",
+      "unit": "LBS IN",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1k",
+      "description": "LUBRICANT",
+      "amount": "",
+      "where": "shifter [1] lever pivot/housing (tag on the lever)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "support [2]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [9] goes through lock washer [8] and the shifter [1] pivot hole into the support [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "support [2]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [7] goes through a toothed lock washer (same style as [8]) and the lower shifter [1] mounting hole into the support [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "transmission (side of support leg)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] goes through the vertical leg of the support [2] from the outboard side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "transmission crossmember",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [4] goes up from under the crossmember through lock washer [5] and plain washer [6], then through the crossmember and a second plain washer [6] into the bottom of the support [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque 1 second number blotted; reads '72 - 9?' (likely 96 or 98, not guessed).",
+    "Bolt [7]'s lock washer has no callout; looks the same as [8].",
+    "Where screw [3] threads (transmission extension vs support nut) is not clear from the drawing.",
+    "Revision record blank. 'K200' stamped vertically at lower right."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

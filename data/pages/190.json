@@ -1,0 +1,309 @@
+{
+  "page": 190,
+  "group": "6",
+  "sheet": "B2",
+  "title": "RADIATOR HOSES & STARTING MOTOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Upper (inlet) and lower (outlet) radiator hoses with their clamps, and the starter motor on the right side of the engine with its brace and heat shield. The starter is held by two bolts [8] up into the block; the front brace and starter heat shield are secured with bolt [11], screw [5] and nut [4] with washer [10], tightened only after the starter mounting bolts. The engine splash shield is cemented around the starter housing opening (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "?168878",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – radiator hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Second item-1 line (revision 4 option removed); blank on the page",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3935466",
+      "name": "HOSE-INLET",
+      "name_expanded": "Hose – radiator inlet (upper)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3917669",
+      "name": "HOSE-OUTLET",
+      "name_expanded": "Hose – radiator outlet (lower)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9422273",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420494",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3959552",
+      "name": "SHIELD",
+      "name_expanded": "Shield – starter motor heat shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "1108338",
+      "name": "STARTING MOTOR",
+      "name_expanded": "Starting motor (starter)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3733289",
+      "name": "BOLT",
+      "name_expanded": "Bolt – starter mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3965589",
+      "name": "BRACE",
+      "name_expanded": "Brace – starter motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419274",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3973388",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "18-28",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "60-90",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "25-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "55-70",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50f",
+      "description": "CEMENT",
+      "amount": ".198 PCS",
+      "where": "View A: engine splash shield at the starter motor housing opening (arrow A in the main view, near bolt [8])"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "radiator inlet/outlet and engine water outlet / water pump",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Clamps [1] at each hose end; inlet hose [2] runs from the engine water outlet to the radiator inlet, outlet hose [3] from the radiator outlet to the water pump. Install hoses with part number and code letters at the radiator end (note B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "engine block",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "Bolts [8] go up from below through the starter [7] mounting pad into the block.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "9",
+        "7"
+      ],
+      "to": "engine block / starter",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolt [11] at the front of the starter, with the ground strap (see UPC 12) and brace [9]; tighten after the starter mounting bolts (note C).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "10"
+      ],
+      "holds": [
+        "6",
+        "9"
+      ],
+      "to": "starter stud",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [4] with washer [10] on a stud at the starter nose secures shield [6]; tighten after the starter mounting bolts (note C). The stud has no callout (part of the starter).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "engine block",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [5] holds the upper edge of shield [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "50f",
+      "holds": [
+        "engine splash shield"
+      ],
+      "to": "starter motor housing opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cement 50f around the starter housing opening (View A); keep the starter drain hole free of sealer.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Orient hose at assembly to maintain 1 in. min clearance.",
+    "B: Install hoses with part number & code letters of hose at radiator end.",
+    "C: Tighten to recommended torque after starting motor attaching bolts have been torqued.",
+    "CAUTION: Drain hole in starting mtr must be kept free of sealer."
+  ],
+  "notes_internal": [
+    "Item 1 first digit wiped by hole punch: '?168878'.",
+    "Second item-1 line is blank with circled 4 (revision 4 '2468878 OPT RMVD'); circled 3 on the first line (rev 3 WAS 1351813 CLAMP).",
+    "Exact routing of brace [9] and which parts bolt [11] passes through are not clear in the drawing.",
+    "Torque triangle 5 is empty. Circled 2 by triangle 1 = revision 2."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-31-69",
+      "sym": "2",
+      "text": "TRIANGLE (1) WAS 14-20 LBS IN",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-1-69",
+      "sym": "3",
+      "text": "WAS 1351813 CLAMP",
+      "was": "1351813",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "2468878 OPT RMVD",
+      "was": "2468878",
+      "item": "1"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "page": 210,
+  "group": "8",
+  "sheet": "A2",
+  "title": "EXHAUST SYSTEM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front exhaust pipes (exhaust 'Y'/head pipes, LH/RH) from the exhaust manifolds back past the transmission. At each manifold the pipe's flange is drawn up on the manifold studs with nuts, with an extension (ball/donut seat) and packing between; at the rear the pipes are hung by a U-bolt through a clamp, with lock washer and nut, from a clamp bracket at the transmission/engine rear mount. Sealer goes on the slip joint at the rear of the front pipe.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3952741",
+      "name": "\"U\" BOLT",
+      "name_expanded": "U-bolt – exhaust pipe hanger",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3848157",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – lower saddle under the exhaust pipe for the U-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut – U-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3952725-6",
+      "name": "PIPE ASM FRT. EXHAUST",
+      "name_expanded": "Pipe assembly – front exhaust (head pipe) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3734402",
+      "name": "FLANGE",
+      "name_expanded": "Flange – exhaust pipe to manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3829086",
+      "name": "NUT",
+      "name_expanded": "Nut – exhaust manifold flange",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3748781",
+      "name": "EXTENSION",
+      "name_expanded": "Extension – pipe-to-manifold seat",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3696990",
+      "name": "PACKING",
+      "name_expanded": "Packing – exhaust manifold to pipe seal (donut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3853723",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – exhaust pipe support bracket at transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "13-17",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "B",
+      "code": "82a",
+      "description": "SEALER",
+      "amount": null,
+      "where": "slip joint at the rear end of front pipe [5]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6",
+        "5",
+        "8",
+        "9"
+      ],
+      "to": "exhaust manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Packing [9] and extension [8] sit between the manifold outlet and the pipe [5]; flange [6] over the pipe is drawn up by nuts [7] on studs coming down from the manifold (the studs are part of the manifold, no callout). Note A: tighten nuts uniformly, 8 lbs. ft. minimum inspection torque after roll test.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1",
+        "3",
+        "4"
+      ],
+      "holds": [
+        "5",
+        "2"
+      ],
+      "to": "clamp [10] at the transmission / engine rear mount",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "U-bolt [1] comes down from clamp bracket [10] around the pipe, through clamp [2] underneath; lock washer [3] and nut [4] from below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "82a",
+      "holds": [
+        "5"
+      ],
+      "to": "next exhaust pipe (see A3)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer 82a at the slip joint at the rear of the front pipe.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Clamp location, see Section 0.",
+    "Tighten nuts uniformly, to specified torque (8 lbs. ft. minimum inspection torque after roll test)."
+  ],
+  "notes_internal": [
+    "Items 1 and 2: binder hole wipes the first digit.",
+    "Item 3 printed as 6 digits: 103320.",
+    "Clamp [10]: drawing shows it at the transmission/rear mount area but not what attaches it; bolt and washer under the mount are labelled ENGINE REAR MOUNTING PARTS (UPC 6).",
+    "Heat valve asm. labelled at the LH manifold flange, no callout.",
+    "Title block: drawing 3965172; DR AE/C1, CK 4-21-69 C1, PREL ?-9-69, C/O A2; ECR column 1-8?8?+, 1-92309 (partly illegible). No revisions. Sideways K208."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

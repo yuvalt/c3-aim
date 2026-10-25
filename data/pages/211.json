@@ -1,0 +1,263 @@
+{
+  "page": 211,
+  "group": "8",
+  "sheet": "A3",
+  "title": "MUFFLER, TAIL PIPE & FRAME ATTACHMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear exhaust: muffler and rear exhaust pipe assemblies (LH/RH) and the tail pipes that exit through the rear bumper bezel. Each tail pipe slips over the muffler outlet (a tab on the outlet locates it) and is clamped with a U-bolt, clamp, lock washer and nut; the muffler hangs from a bracket bolted up into the frame, and the muffler's own hanger plate is bolted to that bracket with a bolt into a nut on the muffler bracket.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3974655-6",
+      "name": "MUFF & RR EXH PIPE ASM.",
+      "name_expanded": "Muffler & rear exhaust pipe assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3952741",
+      "name": "\"U\" BOLT",
+      "name_expanded": "U-bolt – tail pipe clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3974659-60",
+      "name": "PIPE - TAIL",
+      "name_expanded": "Tail pipe (exhaust tip through bumper bezel) (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut – U-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3982171",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – tail pipe U-bolt saddle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut – hanger bracket to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9419234",
+      "name": "P. W??ER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3913898",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – muffler hanger (frame to muffler)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9418821",
+      "name": "BOLT",
+      "name_expanded": "Bolt – hanger bracket to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9417950",
+      "name": "BOLT",
+      "name_expanded": "Bolt – muffler to hanger bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9419275",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "70-100",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "120-180",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "holds",
+      "holds": [
+        "3"
+      ],
+      "to": "muffler outlet of [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: tail pipe [3] slips over the muffler outlet; a tab on the outlet engages a notch in the tail pipe end. Tail pipe is centered in the bumper bezel (bezel: see UPC 1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "5",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "muffler outlet of [1]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: U-bolt [2] goes over the tail pipe [3] slip joint, legs down through clamp [6]; lock washer [5] and nut [4] on each leg underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10",
+        "8",
+        "7"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "frame (rear)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: bolt [11] goes up from below through lock washer [10], the bracket [9] and the frame, with plain washer [8] and nut [7] on top. Note: assemble bolt only in direction shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "5",
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hanger bracket [9]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: the muffler assembly [1] carries its own hanger plate with a nut on it (label partly hidden, '..D NUT', likely weld nut; no callout). Bolt [12] with lock washer [5] and plain washer [13] goes through the loop of bracket [9] into that nut. Inner plates must be parallel after assembly.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Assemble bolt only in direction shown.",
+    "Inner plates must be parallel after asm. with no lateral distortion of loop & rivets in line fore and aft.",
+    "3 CENTER IN BEZEL",
+    "25°±5°"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes about three leading digits; visible '4655-6'.",
+    "Item 8: hole punch removes middle of name, 'P. W  ER' (plain washer).",
+    "Nut on muffler hanger plate: label partly hidden ('..D NUT'); read as weld nut but not certain.",
+    "25°±5° angle dimension at the front of the muffler/pipe in the main view; reference line not clear.",
+    "Title block: drawing 3965172; DR AB/C1, CK 4-18-69 C1, PREL A2 / C/O 2-21-69 (written over); ECR 1-84844, 1-86658, 1-92309. Sideways K209."
+  ],
+  "revisions": [
+    {
+      "date": "2-3-70",
+      "sym": "1",
+      "text": "WAS 3848157 CLAMP",
+      "was": "3848157",
+      "item": "6"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

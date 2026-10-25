@@ -1,0 +1,342 @@
+{
+  "page": 208,
+  "group": "7",
+  "sheet": "C2",
+  "title": "CLUTCH PEDAL, CONTROL LINKAGE & PEDAL DIMENSION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Clutch pedal and pushrod under the dash. The clutch pedal asm [2] pivots on its shaft in two bushings [1] in the brake pedal housing, retained by clip [6] on the shaft end; pedal pad cover [8] goes over plate [7] (bend tab at assembly) and bumper [9] is the pedal stop. Clutch pushrod [4] is pinned to the pedal arm with washers [3], [5] and clip [6], passes through the dash panel in seal [10], and connects via swivel [13], adjusting nuts [12] and retainer [14] to the clutch lever & shaft asm (cross shaft upper arm), with return spring [11]. Includes the clutch linkage adjustment (swivel gap .400 +/- .03), free pedal travel 1-1/2 +/- 1/4 and pedal height 7.00 +/- 0.25.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3798256",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – clutch pedal shaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3960621",
+      "name": "PEDAL ASM.",
+      "name_expanded": "Clutch pedal assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3834560",
+      "name": "P. WASHER",
+      "name_expanded": "Plain (flat) washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3921654",
+      "name": "ROD",
+      "name_expanded": "Rod – clutch pedal pushrod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3748358",
+      "name": "P. WASHER",
+      "name_expanded": "Plain (flat) washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3712389",
+      "name": "CLIP",
+      "name_expanded": "Clip (retainer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3923615",
+      "name": "PLATE",
+      "name_expanded": "Plate – clutch pedal pad plate",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3921648",
+      "name": "COVER",
+      "name_expanded": "Cover – clutch pedal pad (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3781770",
+      "name": "BUMPER",
+      "name_expanded": "Bumper – clutch pedal stop",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3915689",
+      "name": "SEAL",
+      "name_expanded": "Seal – pushrod at dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3921656",
+      "name": "SPRING",
+      "name_expanded": "Spring – clutch return spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "124829",
+      "name": "NUT",
+      "name_expanded": "Nut (pushrod adjusting nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3813225",
+      "name": "SWIVEL",
+      "name_expanded": "Swivel (pushrod to clutch lever)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3749084",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (spring clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9420721",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3828428",
+      "name": "RETAINER",
+      "name_expanded": "Retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "96-144",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-15",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "12d",
+      "description": "GREASE",
+      "amount": null,
+      "where": "tags in the drawing are faint/unreadable: at the pedal shaft bushings [1], on the pedal shaft [2], at the pushrod [4] pin on the pedal arm, and a blank tag at swivel [13]"
+    },
+    {
+      "key": "A",
+      "code": "12f",
+      "description": "GREASE",
+      "amount": null,
+      "where": "see 12d; drawing tags unreadable"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2",
+        "1"
+      ],
+      "to": "brake pedal housing (shared pedal support)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pedal [2] shaft runs through two bushings [1] in the brake pedal housing; clip [6] on the far end of the shaft retains it. CAUTION: the retainer must scribe a legible line on the shaft end during assembly; don't use an expanding tool that defeats this.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "clutch pedal arm [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pushrod [4] has its own bent pin end; it goes through the pedal arm hole with washer [3] on one side, washer [5] on the other, and clip [6] locks it. No separate pin.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "10"
+      ],
+      "to": "dash panel, where pushrod [4] passes through",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [10] boots the pushrod at the dash panel opening.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [],
+      "to": "steering anchor plate asm / dash panel beside seal [10]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [15] is shown at the steering anchor plate next to the pushrod seal; what it clamps is not clear in the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "upper arm of the clutch lever & shaft asm (cross shaft, sheet C1)",
+      "qty": "2 nuts",
+      "torque_ref": "1",
+      "note": "Swivel [13] pin goes through the clutch lever arm and is held by retainer [14]; the pushrod's threaded end passes through the swivel between two nuts [12] (nuts A and B in the adjustment view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11"
+      ],
+      "to": "clutch lever arm (lower hole) and the steering anchor plate area under the dash",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Return spring [11] hooks into a hole in the clutch lever arm at its lower end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8",
+        "7"
+      ],
+      "to": "clutch pedal [2] foot end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plate [7] fits on the pedal end and the rubber cover [8] goes over it; BEND TAB SECURELY AT ASSEMBLY.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "brake pedal housing (pedal stop)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bumper [9] pushes into a hole in the pedal housing as the pedal up-stop.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Retainer must scribe a legible line on end of shaft during assembly. Do not use an expanding tool that would defeat this.",
+    "Adjustment: with nuts (A) and (B) loose on rod (D), push the lever with 5 lbs in direction of arrow (E) to take up the clearance between throwout bearing and clutch fingers.",
+    "Run nut (B) toward swivel (C) until dimension (X) is .400 +/- .03, then tighten nut (A) to lock the swivel against nut (B).",
+    "FREE PEDAL TRAVEL 1-1/2 ± 1/4",
+    "PEDAL HEIGHT DIMENSION 7.00 ± 0.25 STD. CLUTCH",
+    "BEND TAB SECURELY AT ASSEMBLY."
+  ],
+  "notes_internal": [
+    "Items 1 and 2: hole punch removes the first two digits.",
+    "Material tags in the drawing are handwritten and too faint to read; legend gives 12d and 12f GREASE only.",
+    "Retainer [16] (3828428): no callout found in the drawing.",
+    "Screw [15]: purpose unclear (near steering anchor plate and pushrod seal).",
+    "Legend triangles 3-5 empty; 'K206' stamp. Revision record empty. C/O box reads C2-C3."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

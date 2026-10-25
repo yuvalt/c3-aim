@@ -1,0 +1,201 @@
+{
+  "page": 233,
+  "group": "12",
+  "sheet": "A10",
+  "title": "BATTERY CABLE ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Battery cable routing: the positive cable runs forward from the battery along the body to the engine compartment, held by clips that sit on small riveted brackets; the negative (ground) cable goes from the battery side terminal to a ground point on the body/frame, bolted with a lock washer into a weld nut. Battery terminals get rust preventive 32a.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "8901724",
+      "name": "CABLE ASM-NEG.",
+      "name_expanded": "Cable assembly – battery negative (ground)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "271172",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3918535",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – positive cable clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3726181",
+      "name": "CLIP",
+      "name_expanded": "Clip – positive battery cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "138494",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "180143",
+      "name": "BOLT",
+      "name_expanded": "Bolt – negative cable ground",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "70-90",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "45-60",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "32a",
+      "description": "RUST PREVENTIVE",
+      "amount": "1/4 OZ.",
+      "where": "battery side terminals / cable terminal bolt"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "body panel along the cable route",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [4] goes through the body panel into bracket asm. [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "stud on bracket asm. [3]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: clip [5] (holding the positive cable) goes over the stud on bracket [3] and is held by nut asm. [2]. The stud is part of bracket asm. [3]; no separate stud. Clips shown at about six places along the positive cable.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "weld nut on body/frame ground point",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: bolt [7] goes through lock washer [6] and the negative cable [1] terminal into a weld nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "battery negative side terminal",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Negative cable [1] terminal bolt into the battery side terminal (bolt not called out; terminal coated with 32a).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: 32a RUST PREVENTIVE 1/4 OZ."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch removed first two digits.",
+    "Torque legend triangle digits illegible; refs 1-3 assumed in legend order (drawing shows triangles 1, 2, 3). Two lower triangles empty; stamp 'K231'.",
+    "Revision 1 old pn read '6297643'/'6297645'; last digit ambiguous, entered as '629764?'.",
+    "Positive cable asm. labeled in drawing but has no callout on this sheet. C/O box reads A12 A13."
+  ],
+  "revisions": [
+    {
+      "date": "12-4-69",
+      "sym": "1",
+      "text": "WAS 629764? CABLE ASM-NEG",
+      "was": "629764?",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "BATTERY & CABLE DWG REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

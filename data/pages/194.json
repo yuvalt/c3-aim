@@ -1,0 +1,341 @@
+{
+  "page": 194,
+  "group": "6",
+  "sheet": "B6",
+  "title": "SPARKPLUG WIRING, SHIELDS & COIL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Spark plug wires (ignition wires) for cylinders 1-8 routed from the distributor cap through brackets, grommets and supports along the valve covers to the plugs, the coil-to-distributor high-tension wire, the ignition coil, and the spark plug heat shields on the exhaust manifolds. The coil is screwed to the engine; the plug shields bolt to supports with screws [12]. View B shows distributor cap terminal positions (firing order layout); align the distributor and intake manifold stake marks.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "29???32",
+      "name": "WIRE ASM (CYL NO. 1)",
+      "name_expanded": "Spark plug wire assembly – cylinder 1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "298?932",
+      "name": "WIRE ASM (CYL NO. 2)",
+      "name_expanded": "Spark plug wire assembly – cylinder 2",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "2985932",
+      "name": "WIRE ASM (CYL NO. 3)",
+      "name_expanded": "Spark plug wire assembly – cylinder 3",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2985931",
+      "name": "WIRE ASM (CYL NO. 4)",
+      "name_expanded": "Spark plug wire assembly – cylinder 4",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "2985930",
+      "name": "WIRE ASM (CYL NO. 5)",
+      "name_expanded": "Spark plug wire assembly – cylinder 5",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "2985930",
+      "name": "WIRE ASM (CYL NO. 6)",
+      "name_expanded": "Spark plug wire assembly – cylinder 6",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "2985927",
+      "name": "WIRE ASM (CYL NO. 7)",
+      "name_expanded": "Spark plug wire assembly – cylinder 7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "2985925",
+      "name": "WIRE ASM (CYL NO. 8)",
+      "name_expanded": "Spark plug wire assembly – cylinder 8",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "2983719",
+      "name": "WIRE ASM (HI-TENSION)",
+      "name_expanded": "High-tension (coil) wire, coil to distributor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3869716",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – plug wire bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3864498",
+      "name": "SUPPORT",
+      "name_expanded": "Support – plug wires",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "274430",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – shield / support",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9431963",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – coil to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "1115270",
+      "name": "COIL ASM.",
+      "name_expanded": "Ignition coil assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3923971",
+      "name": "SUPPORT",
+      "name_expanded": "Support – plug wires",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "16",
+      "pn": "3719963",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – plug wires",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3817657",
+      "name": "SHIELD ASM.",
+      "name_expanded": "Spark plug shield assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3919807",
+      "name": "SHIELD ASM.",
+      "name_expanded": "Spark plug shield assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3815084",
+      "name": "SHIELD ASM.",
+      "name_expanded": "Spark plug shield assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3744408",
+      "name": "SUPPORT",
+      "name_expanded": "Support – spark plug shield (front LH & RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-14",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "engine (inlet manifold boss beside the distributor)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [13] holds the coil [14] bracket to the engine (callout 'ENG' torque 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "coil [14] terminals",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Coil terminal nuts (part of the coil, no callout) clamp the wire terminals; callout 'COIL' torque 3. High-tension wire [9] runs from the coil tower to the distributor cap center.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "to": "exhaust manifold / cylinder head",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A (typical front shield attachment LH & RH): screw [12] goes through the shield into support [20]; screws [12] also shown at the side shields in the main view.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "16"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "to": "wire brackets at the distributor and supports [11], [15]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug wires pass through grommets [10]/[16] in the brackets and supports [11], [15]; a clip holds the wires at the manifold shield (View C).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Align Stake Marks on Distributor & Inlet Manifold."
+  ],
+  "tables": [],
+  "notes_internal": [
+    "Item 1: hole punch; visible '29' then '32'. Item 2: 4th digit cut by hole edge.",
+    "Item 15: third digit overwritten/struck in the print; left '?'.",
+    "Item 14 printed '1115/270' with a stray stroke; read 1115270.",
+    "Callout near the coil reads '[13]' with left digit faint; '[0]' callout near the bracket is presumably [10] (first digit faint).",
+    "View B shows distributor cap terminals numbered 1-8 with FWD arrow; positions not tabulated.",
+    "How supports [11]/[15] themselves are attached is not clear. Revision date illegible."
+  ],
+  "revisions": [
+    {
+      "date": "",
+      "sym": "1",
+      "text": "WAS 3848408 SCREW",
+      "was": "3848408",
+      "item": "13"
+    }
+  ],
+  "options": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

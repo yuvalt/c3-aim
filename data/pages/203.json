@@ -1,0 +1,384 @@
+{
+  "page": 203,
+  "group": "7",
+  "sheet": "B3",
+  "title": "TRANSMISSION CONTROL LINKAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Manual transmission shift linkage (4-speed shift rods and levers on the side of the transmission). Two shift rods run from the floor shifter levers back to two levers on the transmission side cover: rod [6] ends in a threaded swivel [13] locked by two nuts [10] whose pin goes into lever [14] (washer [15] + retainer [4]); rod [5] ends in a clevis [11] locked by a nut [10] and pinned to lever asm [18] with pin [12], spring washer [16] and cotter pin [17]. Each transmission lever is held on its shaft by a bolt [7] with lock washer [8] and flat washer [9]; the rod ends at the shifter are held by spring-clip retainers [4]; bolt [2] with lock washer [1] goes into the transmission case.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "103329",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "100161",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3968029",
+      "name": "TRANS. ASM.",
+      "name_expanded": "Transmission assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3749084",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (spring clip for shift rod ends)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3921630",
+      "name": "ROD 1ST & REV.",
+      "name_expanded": "Shift rod – 1st & reverse",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921631",
+      "name": "ROD 2ND & 3RD",
+      "name_expanded": "Shift rod – 2nd & 3rd",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9418821",
+      "name": "BOLT",
+      "name_expanded": "Bolt (shift lever to shaft)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419234",
+      "name": "P. WASHER",
+      "name_expanded": "Plain (flat) washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3841497",
+      "name": "NUT",
+      "name_expanded": "Nut (jam nut on shift rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3921633",
+      "name": "CLEVIS",
+      "name_expanded": "Clevis (shift rod end)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3921634",
+      "name": "PIN",
+      "name_expanded": "Pin (clevis pin)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3921632",
+      "name": "SWIVEL",
+      "name_expanded": "Swivel (shift rod end)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3921635",
+      "name": "LEVER",
+      "name_expanded": "Lever – transmission shift lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain (flat) washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3709568",
+      "name": "SPRING WASHER",
+      "name_expanded": "Spring washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "103373",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3949079",
+      "name": "LEVER ASM.",
+      "name_expanded": "Lever assembly – transmission shift lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "4?-?0",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "5a",
+      "description": "FLUID",
+      "amount": ".375 GAL.",
+      "where": "transmission case [3] (fill)"
+    },
+    {
+      "key": "B",
+      "code": "2c",
+      "description": "FLUID",
+      "amount": ".009 GAL.",
+      "where": "round housing at the right/rear of the shifter area (arrow 2c)"
+    },
+    {
+      "key": "C",
+      "code": "1m",
+      "description": "LUBRICANT",
+      "amount": null,
+      "where": "swivel [13] pin at lever [14], clevis [11] / pin [12] at lever [18], and both rod ends at the shifter levers"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "mating part at the front upper flange of the transmission case (not shown)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] with lock washer [1] goes into the flange at the top-left end of the transmission case [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "9"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "transmission shift shaft (side of case)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [7] through lock washer [8] and flat washer [9] into the lower end of lever [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "9"
+      ],
+      "holds": [
+        "18"
+      ],
+      "to": "transmission shift shaft (side of case)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [7] with lock washer [8] and flat washer [9] at the lower hub of lever asm [18].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "threaded end of shift rod [6]",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "Swivel [13] threads onto the rod and is locked by a nut [10] on each side (adjustment).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "4"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "upper hole of lever [14]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The swivel's pin goes into the top hole of lever [14] and is held by flat washer [15] and retainer clip [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "threaded end of shift rod [5]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Clevis [11] threads onto the rod and is locked by jam nut [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "16",
+        "17"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "upper hole of lever asm [18]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pin [12] through clevis [11] and lever [18]; spring washer [16] and cotter pin [17] on the far side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "shifter levers (shifter assembly not called out on this sheet)",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "The bent rear ends of rods [5] and [6] go up through the two shifter levers and are held by spring-clip retainers [4], one each.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch wipes the middle digits; visible '1' + '29' in 6-digit width.",
+    "Torque 1: second digit of low value and first digit of high value blotted (low looks like 45 or 48, high like 60 or 80).",
+    "Torque 2 read as 15-24; '2' slightly blotted at 900 dpi zoom.",
+    "Legend triangles 4 and 5 have no value; a rotated stamp reading 'K201' sits beside them.",
+    "Rod [5]/[6] assignment to swivel vs clevis follows leader lines at the shifter end; the long rod with swivel [13] reads as [6].",
+    "Transmission [3]: only bolt [2] is shown; how the transmission mounts is on other sheets. Shifter assembly and its mounting not called out."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

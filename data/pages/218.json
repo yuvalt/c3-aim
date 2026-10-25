@@ -1,0 +1,227 @@
+{
+  "page": 218,
+  "group": "9",
+  "sheet": "A2",
+  "title": "RELAY & TIE ROD ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front steering linkage: the relay rod (center link / drag link) and tie rod assembly connecting the pitman arm on the steering gear, the idler arm on the frame, and the steering arms on the knuckles. The idler arm bracket is bolted to the frame with bolts and nut; the tie rod ends go into the steering arms with castle nuts and cotter pins; grease fittings in the joints get 4f grease. Tie rod adjuster sleeve clamps are positioned 1/2 inch from the tie rod end with the clamp slot aligned to the sleeve split and the clamp bolt angled rearward.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "181365",
+      "name": "BOLT",
+      "name_expanded": "Bolt – idler arm bracket to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9422298",
+      "name": "NUT",
+      "name_expanded": "Nut – idler arm bracket bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3952701",
+      "name": "RELAY & TIE ROD ASM.",
+      "name_expanded": "Relay rod (center link) & tie rod assembly, with tie rod ends, adjuster sleeves and clamps",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "102646",
+      "name": "NUT",
+      "name_expanded": "Nut – tie rod end stud (castle nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103373",
+      "name": "C PIN",
+      "name_expanded": "Cotter pin – tie rod end nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9417901",
+      "name": "FITTING",
+      "name_expanded": "Grease fitting (zerk) – steering linkage joints",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3820342",
+      "name": "BOLT",
+      "name_expanded": "Bolt – idler arm bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "120-160",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "30-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "40-60",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "108-156",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4f",
+      "description": "GREASE",
+      "amount": null,
+      "where": "through fittings [6] at the tie rod ends and relay rod joints (four 4f tags)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "frame side rail (idler arm bracket)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [1] goes through the frame rail and the idler arm bracket from the outboard side, nut [2] on the inside. Bolt [7] also secures the idler arm bracket below it. The idler arm and its bracket are drawn but not called out (likely part of [3] or another sheet).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "idler arm bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolt [7] at the idler arm bracket, below bolt [1]; no nut shown, no torque triangle.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "steering arm on the steering knuckle",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Tie rod end stud goes up through the steering arm; castle nut [4] on top, cotter pin [5] through the stud. Note B: up to 50 lbs. ft. allowed to line up the slot for the cotter pin. LH side tagged '[6] torque 3' at the other tie rod end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "tie rod ends and relay rod joints",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Grease fittings [6] thread into the ball joints of the linkage; grease 4f.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "pitman arm on the steering gear",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Pitman arm end of the relay rod: 'GEAR' with torque 2 (120-160 LBS FT) marked at the gear; the nut has no callout on this page (see A3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "tie rod adjuster sleeves",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Adjuster sleeve clamps (part of [3], no callout): View A relay end, clamp slot down to 45° rearward, clamp bolt marked RELAY torque 5 (108-156 LBS IN); View B outer end, clamp centered 1/2 ± 1/16 inch from end of tie rod, clamp bolt within 45° either side of vertical. Align clamp slots with sleeve splits.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Ends of adjustable tie rods must be held in correct angular relationship to each other after adjustment within ± 2 °. (hole punch removes part of the text)",
+    "Align clamp slots with sleeve splits (as near as possible) within limits of clamp location.",
+    "Position center of clamp 1/2 ± 1/16 inch from end of tie rod. Typical.",
+    "Clamp slot down to 45° rearward.",
+    "A torque of 50 lbs. ft. max. is permissable when slot is in correct position for insertion of cotter pin."
+  ],
+  "notes_internal": [
+    "Item 1: first glyph slightly clipped by the binder hole but reads 1; OCR box starts at same x as the other 6-digit numbers (181365, 6 digits).",
+    "Item 2: binder hole wipes the first digit; number width matches a 7-digit pn, so written ?422298.",
+    "First note: binder hole removes letters ('Ends ?f', 'co??ect') and the unit after '+ 2' (likely degrees, shown as °).",
+    "Torque 2 (GEAR) and torque 5 (RELAY, View A) are not attached to a numbered callout.",
+    "Bolt [7] vs [1]: drawing shows both at the idler bracket; exact roles (frame vs. idler arm pivot) not certain.",
+    "Title block: drawing 3965172; DR DP/C1, CK 4-21-69 C1, PREL 4-9-69, C/O A2; model 19000. No revisions. Sideways K216."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "page": 191,
+  "group": "6",
+  "sheet": "B3",
+  "title": "ENGINE FRONT MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Engine front mount (motor mount) on each side of the engine block. The mount assembly [5] is screwed to the side of the block with screw assemblies [1], and a long through-bolt [4] passes through the mount and the frame's engine front mounting bracket, with plain washers [3] on both sides and nut [2].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3748038",
+      "name": "SCREW ASM",
+      "name_expanded": "Screw assembly – engine mount to block",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "9422299",
+      "name": "NUT",
+      "name_expanded": "Nut – mount through-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "103342",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "399803",
+      "name": "BOLT",
+      "name_expanded": "Bolt – mount through-bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3980701",
+      "name": "MOUNTING ASM.",
+      "name_expanded": "Engine front mount assembly (motor mount)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "22-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "engine block side",
+      "qty": "2 per side shown",
+      "torque_ref": "1",
+      "note": "Screw assemblies [1] go through the upper flange of mount [5] into the side of the block; drawing shows two.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "3",
+        "2"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "frame engine front mounting bracket",
+      "qty": "1 per side",
+      "torque_ref": "2",
+      "note": "Bolt [4] with washer [3] passes through mount [5] and the bracket ears; washer [3] and nut [2] on the other end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Items 1 and 2: hole punch removes middle digits ('37??038', '94??299'); item 2 digits 3-4 look like 2s but are cut, left as '?'.",
+    "Only one side drawn; 'per side' assumed from engine layout, not stated.",
+    "Torque triangles 3-5 empty; 'K189' printed sideways beside them."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "WAS 272676 NUT",
+      "was": "272676",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3958007 BOLT",
+      "was": "3958007",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3967767 MOUNTING",
+      "was": "3967767",
+      "item": "5"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

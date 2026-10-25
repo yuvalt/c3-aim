@@ -1,0 +1,285 @@
+{
+  "page": 199,
+  "group": "6",
+  "sheet": "D1",
+  "title": "ACCELERATOR PEDAL, ROD & BRACKET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Gas pedal assembly on the driver's side of the firewall: accelerator pedal with its trim plate (pedal pad), the accelerator rod (pedal arm) pivoting in a support bracket on a plate riveted to the firewall, a return spring, and the accelerator cable snapped into the top of the rod with a retainer. The rod pivot is closed by a cover held by a bolt, washer and lock washer; the plate is riveted to the dash panel with sealer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "403929",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – accelerator cable to rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3972622",
+      "name": "ROD ASM.",
+      "name_expanded": "Rod assembly – accelerator (pedal arm)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3972620",
+      "name": "SUPPORT",
+      "name_expanded": "Support – accelerator rod pivot bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919767",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly – accelerator support mounting plate on dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921677",
+      "name": "PIN",
+      "name_expanded": "Pin – accelerator pedal hinge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3920296",
+      "name": "PEDAL",
+      "name_expanded": "Pedal – accelerator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3923611",
+      "name": "TRIM PLATE",
+      "name_expanded": "Trim plate – accelerator pedal pad",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3909982",
+      "name": "SPRING",
+      "name_expanded": "Spring – accelerator return",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419011",
+      "name": "BOLT",
+      "name_expanded": "Bolt (rod pivot cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3972621",
+      "name": "COVER",
+      "name_expanded": "Cover – accelerator rod pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [
+    {
+      "key": "A",
+      "code": "53c",
+      "description": "SEALER",
+      "amount": ".1 OZ",
+      "where": "at the plate [4]/support [3] riveted to the dash panel (tag on the main view)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel (firewall)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [5] go through the plate [4] into the dash panel; sealer 53c applied at the plate.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "53c",
+      "holds": [
+        "4"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer 53c (.1 oz) at the plate [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11",
+        "12"
+      ],
+      "holds": [
+        "13",
+        "2"
+      ],
+      "to": "support [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: bolt [10] goes through lock washer [11], washer [12] and the cover [13] into the support [3], trapping the pivot of rod [2] between cover and support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "plate [4] / dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A shows two fasteners (dots) at the back of the support [3] going into the dash side; no callout given.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "floor/toe pan at the pedal hinge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pin [6] forms the hinge at the lower end of the pedal [7]; the lower end of rod [2] connects to the pedal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "accelerator rod [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: the accelerator cable end passes through retainer [1], which is pressed into the hole at the top of rod [2]. Caution: press the retainer in with proper tooling so the cable is not kinked or damaged.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "pedal [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Trim plate [8] fits over the pedal face; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "rod [2] / support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Return spring [9] hooks on the rod [2] near the support; anchor point not clear.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Retainer [1] must be installed onto the cable with the proper tool, pressing it into the hole in accelerator rod [2] so the cable is not kinked or damaged."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes leading digits; visible '929' (digit count unclear, 6 assumed from spacing; third digit 8 or 3).",
+    "Item 2: first two digits wiped by hole punch; visible '72622'.",
+    "Bolt [10] has an empty torque triangle; legend triangles 1-5 all blank, so no torque value.",
+    "Fasteners at the back of support [3] (View A) have no callout.",
+    "Revision record blank. 'K197' stamped vertically at lower left."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

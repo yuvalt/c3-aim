@@ -1,0 +1,184 @@
+{
+  "page": 230,
+  "group": "12",
+  "sheet": "A7",
+  "title": "GENERATOR & FORWARD LAMP WIRING HARNESS, GENERATOR WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Generator (alternator, A.C. generator) wiring: the generator & forward lamp harness runs along the LH fender skirt in clips to the alternator. A harness bracket bolts to the alternator with a lock washer, the battery lead goes on the alternator BAT terminal stud with a nut and a rubber boot, and the 18DG lead goes to the engine water temperature switch (temp sending unit), shown in View A.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(item removed, rev 5)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Washer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3952222",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9426329",
+      "name": "NUT",
+      "name_expanded": "Nut – generator battery terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6489785",
+      "name": "SWITCH-WATER TEMP.",
+      "name_expanded": "Switch – water temperature (temp sending unit)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "80-90",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "14-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "harness bracket"
+      ],
+      "to": "A.C. generator (alternator) rear housing",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [3] goes through the harness bracket/clip and lock washer [2] into a threaded hole in the generator housing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "battery lead terminal"
+      ],
+      "to": "generator \"BATTERY\" terminal stud",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "The battery lead eyelet goes over the generator's own BAT terminal stud (no callout); nut [4] holds it. Boot (part of harness) is then pushed over the terminal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "engine (View A, cylinder head / intake area at front of engine)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: water temperature switch [5] threads into the engine; the 18DG harness lead connects to it.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "BOOT-PART OF HARNESS ASM.",
+    "Position boot over battery terminal after connection is made so that small end of boot points upward."
+  ],
+  "notes_internal": [
+    "Item 1: callout box with no part (removed by rev 5).",
+    "Rev 4 old nut pn hand-written; 4th/5th digits run together, written 121??3.",
+    "Rev 1 text read as 'ITEM 5 & TORQUE ADDED'.",
+    "Harness clips along the fender ('CLIPS') have no callout.",
+    "Circled 3 and 4 next to items 1 and 4 in the list; circled 2 at View A; circled 5 at the boot.",
+    "Torque triangles 4-5 empty; 'K228' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "ITEM 5 & TORQUE ADDED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW A ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-9-69",
+      "sym": "3",
+      "text": "121753 L. WASHER REMOVED",
+      "was": "121753",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "WAS 121??3 NUT",
+      "was": "121??3",
+      "item": "4"
+    },
+    {
+      "date": "12-11-69",
+      "sym": "5",
+      "text": "ITEM 1 REMOVED",
+      "was": null,
+      "item": "1"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

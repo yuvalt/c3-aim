@@ -1,0 +1,83 @@
+{
+  "page": 209,
+  "group": "8",
+  "sheet": "A1",
+  "title": "FUEL & EXHAUST-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 8, fuel and exhaust: exhaust system, muffler/tail pipe and frame attachment, and exhaust checking dimensions (production and RPO) on the A sheets; fuel tank (gas tank) supports and straps, fuel meter (sending unit) and rear hose, fuel line and clips, and fuel tank filler neck on the B sheets. A frame drawing points to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. Two-line titles joined with a space.",
+    "Drawing callouts: B1 fuel tank straps, B2 meter at top of tank, B4 filler neck, B3 fuel lines along the frame, A4 rear of frame/exhaust, A3 muffler, A2 exhaust pipe along the frame. A1 and A5 not called out.",
+    "Title block: drawing 3965172; DR AB/C1, CK 4-18-69 C1, PREL 3-7-69, C/O A1; model 19000. Circled (1) at lower right of the drawing; sideways 'K207' at lower left. Rev 1 AUTH illegible."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "FUEL & EXHAUST CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "EXHAUST SYSTEM"
+        ],
+        [
+          "A3",
+          "MUFFLER, TAIL PIPE & FRAME ATTACHMENT"
+        ],
+        [
+          "A4",
+          "EXHAUST SYSTEM CHECKING DIMENSIONS-PRODUCTION"
+        ],
+        [
+          "A5",
+          "EXHAUST SYSTEM CHECKING DIMENSIONS-RPO"
+        ],
+        [
+          "B1",
+          "FUEL TANK, SUPPORTS & STRAPS"
+        ],
+        [
+          "B2",
+          "METER ASM. & REAR HOSE"
+        ],
+        [
+          "B3",
+          "FUEL LINE & CLIPS"
+        ],
+        [
+          "B4",
+          "FUEL TANK FILLER NECK"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

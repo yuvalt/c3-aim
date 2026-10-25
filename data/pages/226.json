@@ -1,0 +1,292 @@
+{
+  "page": 226,
+  "group": "12",
+  "sheet": "A3",
+  "title": "HEADLAMP-HOUSING & SUPPORT INSTALLATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Installs the hidden headlamp housing (rotating headlamp bucket, LH/RH) and its support in the front fender: the support is screwed down at four points to the headlamp opening support / front fender upper panel, the housing pivots on it, the actuator rod attaches to the housing lever with a screw and bushing, and an adjusting screw with jam nut in a stop sets the fully-open position. Also covers the headlamp shield (LH/RH). Clevis adjustment on sheet A2 comes first.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3938115-6",
+      "name": "HOUSING ASM.",
+      "name_expanded": "Housing assembly – headlamp (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9409107",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "127782",
+      "name": "SCREW",
+      "name_expanded": "Screw (set screw in stop [4])",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3926235",
+      "name": "STOP",
+      "name_expanded": "Stop – housing pivot stop collar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3715377",
+      "name": "SCREW-ADJ.",
+      "name_expanded": "Screw – adjusting (housing open stop)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut – jam nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3972301-2",
+      "name": "STOP",
+      "name_expanded": "Stop (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3846201",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3966559-60",
+      "name": "SHIELD",
+      "name_expanded": "Shield – headlamp (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419791",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9422654",
+      "name": "NUT",
+      "name_expanded": "Nut – clip nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "4770719",
+      "name": "PLUG",
+      "name_expanded": "Plug",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3915899",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3915898",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "headlamp support (sheet A2 item 2)"
+      ],
+      "to": "headlamp opening support / front fender upper panel",
+      "qty": "4 shown",
+      "torque_ref": "2",
+      "note": "Screws [8] go up from below through the feet of the headlamp support into the headlamp opening support and front fender upper panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "housing pivot / side bracket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Upper right: screw asm [2] goes through the side flange of the housing [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "housing [1] pivot shaft",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Stop [4] is a collar that slides onto the housing's own pivot shaft (no callout) and is locked by set screw [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "housing [1] lower leg",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Adjusting screw [5] threads down through stop [7] on the bottom of the housing leg; jam nut [6] locks it. Screw tip contacts the headlamp support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "14"
+      ],
+      "holds": [
+        "actuator rod (sheet A2)"
+      ],
+      "to": "housing [1] lever",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Screw [13] passes through bushing [14] in the actuator rod end eye into the housing lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "front fender upper panel bracket"
+      ],
+      "to": "headlamp opening support",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [10] goes up through the front fender upper panel bracket into clip nut [11]; plug [12] sits in the hole above.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Adjust housing asm to obtain 2? of vertical a plane formed by 3 common points (\"A\", \"B\" & \"C\") & (\"D\", \"E\" & \"F\") on the lamp mounting bosses.",
+    "Open-stop adjustment: with links over center (fully open) and the adjusting screw in the forward hole of the stop, turn the screw until it touches the headlamp support, then 1-1/2 turns more (about .08 interference); tighten the jam nut. Do the clevis adjustment on sheet A2 first."
+  ],
+  "notes_internal": [
+    "Note 1: the character after '2' is smudged (probably a degree sign); written as '2?'.",
+    "Shield [9]: leader points to the lower edge of the opening; its fasteners are not shown clearly; no fastening entry.",
+    "Plug [12]: pushed into hole near nut [11]; role not clear.",
+    "Torque triangle 5 empty. 'K224' printed sideways at lower right.",
+    "Revision record empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

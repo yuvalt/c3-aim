@@ -1,0 +1,307 @@
+{
+  "page": 219,
+  "group": "9",
+  "sheet": "A3",
+  "title": "STEERING GEAR, STEERING WHEEL & COVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steering gear box mounting to the frame, the flexible coupling (rag joint) flange between the steering column and the gear, and the steering wheel, hub and horn cover at the top of the column. The gear bolts to the frame with bolts, lock washers and nuts; the coupling is held by a pinch bolt and nuts with lock washers; the wheel is screwed to the hub with three screws and held on the shaft by the nut and washer that come with the column. Related sheets: horn cam & spring in UPC 12.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3952700",
+      "name": "WHEEL ASM-STRG.",
+      "name_expanded": "Steering wheel assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9420821",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "7807271",
+      "name": "BOLT",
+      "name_expanded": "Bolt (coupling pinch bolt)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "7807052",
+      "name": "FLANGE",
+      "name_expanded": "Flange – steering coupling (rag joint) flange",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3820342",
+      "name": "BOLT",
+      "name_expanded": "Bolt – steering gear to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103026",
+      "name": "NUT",
+      "name_expanded": "Nut – steering gear to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "7807759",
+      "name": "GEAR ASM-STRG.",
+      "name_expanded": "Steering gear assembly (steering box)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "451399",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9428089",
+      "name": "SCREW",
+      "name_expanded": "Screw – steering wheel to hub",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "415919",
+      "name": "WASHER",
+      "name_expanded": "Washer – under steering wheel nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "7806232",
+      "name": "COVER ASM.",
+      "name_expanded": "Cover assembly (horn contact cover/plate on top of column)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3937896",
+      "name": "HUB ASM.",
+      "name_expanded": "Steering wheel hub assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "3",
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "frame side rail",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolts [6] pass through the frame and steering gear [8] mounting ears; lock washers [3] and nuts [7] on the other end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "steering column lower shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Pinch bolt [4] clamps the coupling flange [5] onto the shaft.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "steering gear [8] input coupling (rag joint)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nuts [10] with lock washers [9] on the studs through the flexible coupling. Hold the .250-.375 gap between coupling and column flange plate when tightening the column to the I.P.; remove the spacers after the column is fully installed.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [],
+      "to": "steering column mounting plate",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nuts [2] with lock washers [3] on studs at the column's lower slotted mounting plate (column itself is not called out on this sheet).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "hub [15]",
+      "qty": "3",
+      "torque_ref": "3",
+      "note": "Screws [12] go through the wheel spokes [1] into the hub [15].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "1",
+        "15"
+      ],
+      "to": "steering shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Washer [13] and the nut supplied with the column (marked 'COLUMN', no callout) hold the wheel and hub on the shaft splines.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "14"
+      ],
+      "to": "top of steering column",
+      "qty": "3",
+      "torque_ref": "1",
+      "note": "Cover [14] is held by screws marked 'COVER' (supplied with the cover asm., no separate callout). Horn cam & spring: see UPC 12.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: This dimension (measured at top) must be held when column is tightened to I.P. to prevent distortion of rag joint with resultant bind & harness. (.250/.375)",
+    "NOTE: Remove spacers after column is completely installed in the vehicle.",
+    "CAUTION: Position horn contact tower so that it will engage hole in steering wheel before installing wheel."
+  ],
+  "notes_internal": [
+    "Item 11 blank with circled 1: rev 1 removed 3966618 sticker.",
+    "Torque legend has two more triangles (4, 5) with no values, beside a vertical 'K217' stamp; not torques.",
+    "Revision date leading '1' partly merged with the border; reads 12-19-69.",
+    "Nut [2]/washer [3] location (column mounting plate vs. coupling) read from a small exploded view; [3] also called out at the gear-to-frame joint.",
+    "C/O box reads A2.5 & A4."
+  ],
+  "revisions": [
+    {
+      "date": "12-19-69",
+      "sym": "1",
+      "text": "3966618 STICKER REMOVED",
+      "was": "3966618",
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

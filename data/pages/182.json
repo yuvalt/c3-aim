@@ -1,0 +1,312 @@
+{
+  "page": 182,
+  "group": "5",
+  "sheet": "C1",
+  "title": "PARKING BRAKE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Parking brake (emergency brake) handle/lever assembly on the console tunnel and the front cable: the lever assembly is screwed to the floor tunnel, the front cable passes down through a grommet, runs over a pulley bolted to an underbody bracket, and ends in the equalizer, which is adjusted with two nuts on the cable rod and pulled back by a return spring. The cable end is held in the lever's clevis by a spring pin driven in from the LH side.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3846201",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – parking brake lever to floor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "455160",
+      "name": "SPRING PIN",
+      "name_expanded": "Spring pin – cable end to lever clevis/sector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3897428",
+      "name": "LEVER ASM.",
+      "name_expanded": "Parking brake lever (handle) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "120368",
+      "name": "NUT",
+      "name_expanded": "Nut – equalizer adjusting / jam nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3849615",
+      "name": "SPRING",
+      "name_expanded": "Spring – parking brake equalizer return",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6256437",
+      "name": "EQUALIZER",
+      "name_expanded": "Equalizer – parking brake cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3897443",
+      "name": "PULLEY",
+      "name_expanded": "Pulley – parking brake cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "102637",
+      "name": "NUT",
+      "name_expanded": "Nut – pulley bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "103329",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3899215",
+      "name": "SPACER",
+      "name_expanded": "Spacer – pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "100161",
+      "name": "BOLT",
+      "name_expanded": "Bolt – pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3897441",
+      "name": "CABLE ASM-FRONT",
+      "name_expanded": "Parking brake cable – front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3918672",
+      "name": "GROMMET-(UPC 1)",
+      "name_expanded": "Grommet – parking brake cable through floor (see UPC 1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "85-120",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "65-75",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "40-50",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4d",
+      "description": "GREASE",
+      "amount": "",
+      "where": "pulley spacer [10] / bolt [11]"
+    },
+    {
+      "key": "A",
+      "code": "4e",
+      "description": "GREASE",
+      "amount": "",
+      "where": "equalizer [6] on the cable rod"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "floor tunnel (console area) above the frame",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "One screw [1] goes sideways through the lever assembly's side flange, one goes down through its rear foot into the floor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "lever assembly [3] clevis / sector",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Spring pin [2] goes in from the LH side of the sector, retaining the cable end in the clevis (part of the lever asm.); must not stick out past the LH side, flush to .040 recessed (View A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "how": "seals",
+      "holds": [
+        "12"
+      ],
+      "to": "floor pan",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Front cable [12] passes down through grommet [13] in the floor below the lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "underbody bracket",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "Bolt [11] goes through spacer [10] (pulley [7] turns on it) and the bracket; lock washer [9] and nut [8] (torque 3) on the other side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "threaded end of front cable [12]",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Equalizer [6] sits on the cable rod between nut [4](B) and nut [4](A); tighten (B) to set cable tension, then hold (B) and tighten (A) to torque 2.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "equalizer [6] and the frame/underbody",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Return spring [5] hooks from the equalizer rearward to the body.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Spring pin [2] to be flush to recessed by .040.",
+    "Assembly: (1) Take cable [12] out of the parking brake clevis (part of lever asm.). (2) Put the handle fully rearward. (3) Install the trans. control trim plate asm. (see UPC 1). (4) Move the lever fully forward, put the cable end back in the clevis and install spring pin [2] in the sector from the L.H. side (pin must not extend beyond the L.H. side of the sector; View A). (5) Once connected, pull the handle up with 100 lbs force five times. (6) Then adjust the cable per the adjustment procedure.",
+    "Mandatory adjustment: with the mechanism released, front-cable tension just ahead of the equalizer must be 30 lbs ± 3 lbs (about 80 lbs handle load at the second finger grip with the mechanism at the 14th notch). Correctly set, the handle starts to move with 10 lb ± 2 lb at the second finger grip. Set tension with nut [4](B), then hold (B) and tighten nut [4](A) to spec."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 4-7 ('384????'; OCR '384f').",
+    "Item 2: tops of the last two digits are cut off; fragments look like '60' (OCR 455160) but not certain.",
+    "Grease tag 4d (drawing, dark tag) leader goes toward spacer [10]; second tag (4e) points at equalizer [6]; tag text in the drawing is smudged.",
+    "Triangles 4-5 blank. 'K180' printed vertically. Circled 2 by the frame label and circled 1, 3 above the adjustment procedure mark revisions."
+  ],
+  "revisions": [
+    {
+      "date": "10-31-69",
+      "sym": "1",
+      "text": "\"ADJUSTMENT\" NOTE REV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-19-69",
+      "sym": "2",
+      "text": "\"MANDATORY\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-13-70",
+      "sym": "3",
+      "text": "\"ADJUSTMENT\" NOTE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

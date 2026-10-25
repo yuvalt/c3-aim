@@ -1,0 +1,350 @@
+{
+  "page": 207,
+  "group": "7",
+  "sheet": "C1",
+  "title": "CLUTCH CONTROL SHAFT & RELEASE BEARING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Manual-transmission clutch linkage: the clutch cross shaft (clutch lever asm [11], 'Z-bar') pivots on stud asm [12] at the engine end and on ball stud [2] at the frame end, where the stud goes through the frame bracket with seat [1], retainer [8], seal [7], special washer [5] and nut [6] (ears bent over the nut). Rod [9] (clutch pushrod) runs from the cross shaft to the clutch fork with return springs [4]; it is held at the shaft by retainer [16] and at the fork by special pin [15] and cotter pin [14]. View A shows the clutch fork on its ball stud in the bellhousing and the release (throwout) bearing [13] on the transmission main shaft, greased per the notes.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3743349",
+      "name": "SEAT",
+      "name_expanded": "Seat (cross shaft ball seat)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3935289",
+      "name": "STUD",
+      "name_expanded": "Stud – cross shaft ball stud, frame end",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "3",
+      "pn": "3844208",
+      "name": "BOOT",
+      "name_expanded": "Boot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3713738",
+      "name": "SPRING",
+      "name_expanded": "Spring (clutch return spring)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3756326",
+      "name": "WASHER SPECIAL",
+      "name_expanded": "Washer – special (with ears bent over nut)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3743360",
+      "name": "SEAL",
+      "name_expanded": "Seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3750696",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (seat/seal retainer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3872960",
+      "name": "ROD",
+      "name_expanded": "Rod – clutch pushrod, cross shaft to clutch fork",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3828498",
+      "name": "PLUG",
+      "name_expanded": "Plug (lube plug in cross shaft)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3888279",
+      "name": "CLUTCH LEVER ASM.",
+      "name_expanded": "Clutch lever assembly – clutch cross shaft (Z-bar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3752863",
+      "name": "STUD ASM.",
+      "name_expanded": "Stud assembly – cross shaft pivot stud, engine end",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "907963",
+      "name": "RELEASE BEARING ASM.",
+      "name_expanded": "Clutch release (throwout) bearing assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "103373",
+      "name": "COTTER PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3738054",
+      "name": "SPL. PIN",
+      "name_expanded": "Pin – special (pushrod to clutch fork)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3749084",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (spring clip, pushrod to cross shaft)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "1?-?0",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "40-50",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "12e",
+      "description": "GREASE",
+      "amount": null,
+      "where": "groove inside the release bearing [13] (fill full circumference with special gun)"
+    },
+    {
+      "key": "A",
+      "code": "12g",
+      "description": "GREASE",
+      "amount": null,
+      "where": "ball stud [2] / cross shaft ball seat at the frame end"
+    },
+    {
+      "key": "A",
+      "code": "12h",
+      "description": "GREASE",
+      "amount": null,
+      "where": "rod [9] end at the cross shaft lever (retainer [16]) and special pin [15] at the clutch fork"
+    },
+    {
+      "key": "A",
+      "code": "12j",
+      "description": "GREASE",
+      "amount": null,
+      "where": "clutch fork pivot on the ball stud in the bellhousing (View A)"
+    },
+    {
+      "key": "B",
+      "code": "",
+      "description": "Brush a uniform layer of lubricant to these surfaces for full circumference.",
+      "amount": null,
+      "where": "release bearing [13] surfaces marked B"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "engine block (inboard end of cross shaft)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Stud asm [12] with its nut is the inboard pivot for the cross shaft [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "1",
+        "8",
+        "7"
+      ],
+      "to": "frame bracket (outboard end of cross shaft)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Ball stud [2] carries seat [1], retainer [8] and seal [7] on the shaft side, passes through the frame bracket slot, and is clamped from the outside by special washer [5] and nut [6]. NOTE: bend the washer ears over the nut to prevent rotation. The outboard end of [11] (with its own seat [1]) snaps onto the ball.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "lower arm of cross shaft [11]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod [9] end goes through the cross shaft arm hole and is held by spring clip retainer [16].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "14"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "outer end of the clutch fork (View A)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Special pin [15] drops through the fork end and rod clevis; cotter pin [14] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "rod [9] and the cross shaft / frame bracket",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two return springs [4] hook between rod [9] and the brackets at each end of the rod.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "clutch fork on the transmission main shaft bearing retainer (View A)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Release bearing [13] slides on the transmission main shaft retainer and is held by the clutch fork fingers; fork pivots on a ball stud (no callout).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Bend ears over nut to prevent rotation.",
+    "NOTE Fill this groove with lubricant for full circumference; apply with special gun.",
+    "B: Brush a uniform layer of lubricant to these surfaces for full circumference."
+  ],
+  "notes_internal": [
+    "Item 2: hole punch covers the first two digits; '35289' visible in 7-digit width.",
+    "Torque 1: 2nd digit of low value and 1st digit of high value are ink blobs (looks like 16-20 or 15-20).",
+    "Legend triangles 3-5 empty; 'K205' stamp beside them.",
+    "Revision 1 date: first character blotted. Old pn handwritten as '3 8 2 C C 1' (the C-shaped characters are probably 6s); recorded with '?'.",
+    "Boot [3]: shown at the frame/body side near the cross shaft outer end; what it seals and how it is retained is not shown.",
+    "Plug [10]: small fitting on the cross shaft body; no fastening needed.",
+    "Seat [1] is called out twice (at the shaft end and in the stud stack)."
+  ],
+  "revisions": [
+    {
+      "date": "?-16-70",
+      "sym": "1",
+      "text": "WAS 382??1 STUD",
+      "was": "382??1",
+      "item": "2"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

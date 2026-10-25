@@ -1,0 +1,496 @@
+{
+  "page": 225,
+  "group": "12",
+  "sheet": "A2",
+  "title": "HEADLAMP-SUPPORT, ACTUATOR ASM & HEADLAMP DOOR SWITCH",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Vacuum headlamp actuator system: the headlamp support bracket (LH/RH), the vacuum actuator (headlamp actuator can) bolted to it with nuts on its own studs, the outboard and inboard actuator rods, clevis, links, springs and the headlamp door switch (headlamp-up warning switch). The actuator nuts, the outboard rod bolt and the support/bearing screws are torqued 15-22 lb-ft; the switch link nut and adjusting screw are lighter.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "5638541-2",
+      "name": "ACTUATOR ASM.",
+      "name_expanded": "Actuator assembly – headlamp vacuum actuator (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3915681-2",
+      "name": "SUPPORT",
+      "name_expanded": "Support – headlamp actuator support (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3926353-4",
+      "name": "ROD ASM-ACTUATOR OUTBOARD",
+      "name_expanded": "Rod assembly – actuator, outboard (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "1359887",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3847757",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3958887",
+      "name": "ROD-CLEVIS",
+      "name_expanded": "Rod – clevis (actuator rod clevis)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3927672",
+      "name": "PIN",
+      "name_expanded": "Pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3922498",
+      "name": "SLEEVE",
+      "name_expanded": "Sleeve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3825452",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – plain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3926434",
+      "name": "SPRING",
+      "name_expanded": "Spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103373",
+      "name": "C. PIN",
+      "name_expanded": "Pin – cotter",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3927676",
+      "name": "PIN",
+      "name_expanded": "Pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3927674",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3846201",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3953041",
+      "name": "LINK",
+      "name_expanded": "Link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3922497",
+      "name": "INSERT",
+      "name_expanded": "Insert",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3926433",
+      "name": "PIN",
+      "name_expanded": "Pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3927675",
+      "name": "BUSHING",
+      "name_expanded": "Bushing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3951239",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – headlamp door switch (headlamps-up warning switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3953034",
+      "name": "LINK",
+      "name_expanded": "Link – switch mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "21",
+      "pn": "124829",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "22",
+      "pn": "3918509",
+      "name": "SCREW-ADJ.",
+      "name_expanded": "Screw – adjusting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "23",
+      "pn": "3935516",
+      "name": "SPRING",
+      "name_expanded": "Spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "24",
+      "pn": "3926351-2",
+      "name": "ROD ASM.-ACTU INBD.",
+      "name_expanded": "Rod assembly – actuator, inboard (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "25",
+      "pn": "3922499",
+      "name": "BRACKET",
+      "name_expanded": "Bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "26",
+      "pn": "3915679",
+      "name": "BEARING ASM.",
+      "name_expanded": "Bearing assembly – headlamp pivot bearing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "10-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "45-?0",
+      "unit": "LBS IN",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "support [2]",
+      "qty": "per stud",
+      "torque_ref": "1",
+      "note": "Actuator [1] carries its own threaded studs (no callout); they pass through the support [2] and nuts [4] go on from the opposite side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "26"
+      ],
+      "to": "support [2]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Upper left: screw [14] passes through the side wall of the support [2] into the bearing asm [26].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "support [2] / headlamp housing pivot at the outboard end",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lower right: bolt [5] goes through the eye at the end of outboard rod [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "13"
+      ],
+      "holds": [
+        "25"
+      ],
+      "to": "actuator linkage at the bracket [25]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Centre: second screw [14] with bushing [13] goes up into the bracket [25] area; pin [12] with bushing [13] and cotter pin [11] links the rod clevis to the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "holds": [
+        "6",
+        "15"
+      ],
+      "to": "link [15]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pin [7] with sleeve [8] and washer [9] goes through insert [16] in the slot of link [15] and the rod clevis [6]; retained by cotter pin [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17",
+        "18",
+        "11"
+      ],
+      "holds": [
+        "15",
+        "20"
+      ],
+      "to": "link [20]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pin [17] with bushing [18] joins link [15] to link [20]; retained by cotter pin [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "21"
+      ],
+      "holds": [
+        "20"
+      ],
+      "to": "link [15] / bracket",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [21] secures link [20] (lower left).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "22"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "switch actuation",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Adjusting screw [22] threads into link [15]; sets switch contact.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "20"
+      ],
+      "holds": [
+        "19"
+      ],
+      "to": "switch [19] mounts in the hole of link [20]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Switch [19] is pushed into the lower hole of link [20]; connector plugs onto its back.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "between link [15] linkage and the support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Return spring [10] hooks to the linkage.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "23"
+      ],
+      "to": "inboard rod [24] / bracket [25]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spring [23] hooks onto inboard rod [24] near bracket [25].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "24"
+      ],
+      "to": "bracket [25] / bearing [26]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Inboard rod [24] runs from the bearing asm [26] down to bracket [25]; its end eye is clipped at bracket [25].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Adjust Actuator Rod clevis to touch condition at forward end of Slot, then add 1/2 turn more to give approx .03 interference condition with lamps up."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch / smudge covers 3rd and 4th digits; reads 56??541-2.",
+    "Torque 3: second number smudged, reads 45-?0 (looks like 60 but not certain).",
+    "Triangles 4 and 5 in the torque legend are empty; 'K223' printed sideways next to them (meaning unclear).",
+    "Linkage fastening (items 7-25) read from a dense exploded view; exact pairings of pins/bushings to links are best-effort.",
+    "Revision record is empty."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

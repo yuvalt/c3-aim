@@ -1,0 +1,351 @@
+{
+  "page": 196,
+  "group": "6",
+  "sheet": "C1",
+  "title": "CARBURETOR, SPARK PIPE, HOSES, SOLENOID & CHOKE",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Carburetor (base engine) on the intake manifold with its base gasket, the bolts and nuts that hold it down (with a torque sequence), the vent and vacuum hoses, the spark pipe (vacuum advance line) along the intake manifold, the idle stop solenoid on a bracket at the front of the engine, and the choke (thermostat/choke coil) on the intake manifold with its rod and clip to the carburetor choke lever. The carb is held by two long bolts and two nuts on manifold studs; the solenoid bracket is held by a nut and lock washer on the end of an engine bolt (no separate stud).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3967476",
+      "name": "BOLT",
+      "name_expanded": "Bolt (carburetor hold-down, long)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "7040213",
+      "name": "CARBURETOR ASM.",
+      "name_expanded": "Carburetor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3785770",
+      "name": "HOSE",
+      "name_expanded": "Hose (carburetor vacuum port to spark pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3928924",
+      "name": "HOSE-VENT",
+      "name_expanded": "Hose – vent",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3967470",
+      "name": "GASKET",
+      "name_expanded": "Gasket – carburetor base (carb to intake manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3965581",
+      "name": "PIPE-SPARK",
+      "name_expanded": "Pipe – spark (vacuum advance line)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3920986",
+      "name": "HOSE",
+      "name_expanded": "Hose (spark pipe connection)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1114432",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly – idle stop (throttle solenoid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3917692",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "120368",
+      "name": "NUT",
+      "name_expanded": "Nut (carburetor hold-down)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "6255773",
+      "name": "CLIP L.H.",
+      "name_expanded": "Clip LH (choke rod to carburetor choke lever)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3973475",
+      "name": "CHOKE",
+      "name_expanded": "Choke (thermostatic choke coil assembly on intake manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "159853",
+      "name": "SCREW",
+      "name_expanded": "Screw (choke mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer (solenoid bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut (solenoid bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "24-48",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "120-180",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "120-168",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "5"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [1] (letter A) goes down through the carburetor [2] flange and base gasket [5] into the intake manifold. A second long bolt (letter C, no item number) does the same at the other corner. Follow the torque sequence: A and B to torque 1, C and D to torque 1, then retorque A-B and C-D to torque 4.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "2",
+        "5"
+      ],
+      "to": "intake manifold studs",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [11] (letter B) and a second nut (letter D, no item number) go on manifold studs on top of the carburetor [2] flange, through the base gasket [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "intake manifold (choke well)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [14] holds the choke [13] down; a tang under the choke housing locates it on the manifold.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the choke [13] rod end is held in the carb lever by clip [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "15"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "engine (#4 hole bolt)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: the solenoid [8] bracket fits over an engine bolt in the '#4 hole' (engine-installed, no callout); lock washer [15] and nut [16] go on the protruding threaded end of that bolt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "4",
+        "7",
+        "9"
+      ],
+      "to": "carburetor / spark pipe [6] / fittings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses push onto their fittings: vent hose [4] at the carburetor, hose [3] from a carburetor port to the spark pipe [6], hose [7] at the other end of the spark pipe near the solenoid, hose [9] at the back of the manifold (arrow B). No clamps shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spark pipe [6] runs around the base of the carburetor along the manifold between hoses [3] and [7]; no retaining clip shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "TORQUE SEQUENCE: Torque bolt A and nut B to torque 1. Torque bolt C and nut D to torque 1. Retorque A B, C D in same sequence to torque 4."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips last digit; visible '396747' + partial glyph.",
+    "Item 10 callout line has no part number or name; circled (10) in View B is a revision symbol, not an item.",
+    "Model box reads '19400' as printed (other UPC 6 sheets say 19000).",
+    "Bolt C and nut D have no item numbers on the page; presumably the same as [1] and [11] but not stated.",
+    "Engine bolt in View B carries the black-square 'engine' symbol: supplied with the engine.",
+    "'K194' stamped vertically at lower right; meaning unknown. Legend triangle 5 is blank."
+  ],
+  "revisions": [
+    {
+      "date": "3-6-70",
+      "sym": "10",
+      "text": "SOLENOID DWG REVISED",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "3-25-70",
+      "sym": "11",
+      "text": "WAS 7040203 CARB",
+      "was": "7040203",
+      "item": "2"
+    },
+    {
+      "date": "4-24-70",
+      "sym": "12",
+      "text": "TORQUE SEQUENCE NOTE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "13",
+      "text": "TORQUE (1) WAS 10-15 LBS FT",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "14",
+      "text": "TORQUE 4 ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "page": 204,
+  "group": "7",
+  "sheet": "B4",
+  "title": "TRANSMISSION INSTALLATION & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Shift linkage adjustment for the manual transmission (shifter-to-transmission rods) and the backdrive cable (the cable from the transmission reverse lever up to the steering column lock lever). Pin the shifter in neutral with a locating pin, set the clevis and swivel on the two shift rods so the pins drop in freely, lock the jam nuts, then fit the backdrive cable with the transmission in reverse so the ignition key only goes to LOCK in reverse. Parts with numbers are on sheet B3.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "E"
+      ],
+      "holds": [
+        "W"
+      ],
+      "to": "shifter lever (B)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Step 3: rod (W) end goes into lever (B) and is held by retainer clip (E).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "U"
+      ],
+      "holds": [
+        "T"
+      ],
+      "to": "rod (W)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Step 3-4: clevis (T) threads onto rod (W), adjusted, then locked by nut (U).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "P",
+        "R",
+        "S"
+      ],
+      "holds": [
+        "T"
+      ],
+      "to": "transmission lever (N)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Step 4: clevis pin (P) through clevis (T) and lever (N), washer (R) between lever (N) and clevis (T), cotter pin (S) secures the pin.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "F"
+      ],
+      "holds": [
+        "V"
+      ],
+      "to": "shifter lever (C)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Step 5: rod (V) end goes into lever (C) and is held by retainer clip (F).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "G",
+        "J"
+      ],
+      "holds": [
+        "H"
+      ],
+      "to": "rod (V)",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Step 5-6: swivel (H) sits between nuts (G) and (J) on rod (V); after attaching, run (J) up to the swivel, then tighten (G) against it.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "L",
+        "M"
+      ],
+      "holds": [
+        "H"
+      ],
+      "to": "transmission lever (K)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Step 6: swivel (H) pin goes into lever (K), secured with washer (L) and retainer (M).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "backdrive cable to the transmission reverse lever and to the column lever on the steering column",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Steps 7 and 9; the drawing shows unlabeled hairpin-style clips holding the cable ends at the transmission lever and at the column lever (inset, upper left).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "1. Set transmission levers (K) and (N) in the neutral detent.",
+    "2. Put the transmission control (shift) lever (A) in neutral detent and insert locating pin (D) into the notch of the lever & bracket assembly.",
+    "3. Fit nut (U) and clevis (T) loosely on rod (W); attach rod (W) to lever (B) with retainer (E).",
+    "4. With lever (B) against pin (D), adjust clevis (T) at lever (N) until clevis pin (P) slides freely through; put washer (R) between lever (N) and clevis (T), fit cotter pin (S), tighten nut (U).",
+    "5. Fit nuts (G) and (J) and swivel (H) loosely on rod (V); attach the rod to lever (C) with retainer (F).",
+    "6. With lever (C) against pin (D), attach swivel (H) to lever (K) with washer (L) and retainer (M); run nut (J) up to the swivel, then tighten nut (G) against it.",
+    "7. Install the backdrive cable to the reverse lever.",
+    "8. Put the transmission in REVERSE and push the column lever fully up against the internal reverse stop.",
+    "9. Connect the backdrive cable to the column lever.",
+    "NOTE: Afterwards the shift lever centerlines must line up for free crossover. With the shifter in REVERSE the ignition key must turn freely to LOCK; LOCK must not be possible in neutral or any other gear."
+  ],
+  "notes_internal": [
+    "Procedure sheet with letter labels only; no part numbers. Letters map to B3 parts roughly: (T) clevis, (H) swivel, (P) pin, (S) cotter pin, (R) washer, (U)/(G)/(J) nuts, (E)/(F)/(M) retainers; not stated on the page, so not linked.",
+    "Step 1 first word partly hidden by a hole punch ('?t'); read as 'Set'.",
+    "Torque legend triangles 1-5 are empty. 'K202' stamp at lower right.",
+    "Rod lettering here: (W) carries the clevis, (V) carries the swivel."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [
+    {
+      "title": "Drawing letters",
+      "columns": [
+        "letter",
+        "name as used in the steps"
+      ],
+      "rows": [
+        [
+          "A",
+          "Transmission control lever (shifter)"
+        ],
+        [
+          "B",
+          "Lever (shifter, rod W)"
+        ],
+        [
+          "C",
+          "Lever (shifter, rod V)"
+        ],
+        [
+          "D",
+          "Locating pin"
+        ],
+        [
+          "E",
+          "Retainer"
+        ],
+        [
+          "F",
+          "Retainer"
+        ],
+        [
+          "G",
+          "Nut"
+        ],
+        [
+          "H",
+          "Swivel"
+        ],
+        [
+          "J",
+          "Nut"
+        ],
+        [
+          "K",
+          "Transmission lever"
+        ],
+        [
+          "L",
+          "Washer"
+        ],
+        [
+          "M",
+          "Retainer"
+        ],
+        [
+          "N",
+          "Transmission lever"
+        ],
+        [
+          "P",
+          "Clevis pin"
+        ],
+        [
+          "R",
+          "Washer"
+        ],
+        [
+          "S",
+          "Cotter pin"
+        ],
+        [
+          "T",
+          "Clevis"
+        ],
+        [
+          "U",
+          "Nut"
+        ],
+        [
+          "V",
+          "Rod"
+        ],
+        [
+          "W",
+          "Rod"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

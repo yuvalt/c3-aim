@@ -1,0 +1,282 @@
+{
+  "page": 227,
+  "group": "12",
+  "sheet": "A4",
+  "title": "HEADLAMP & BEZEL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Headlamp units (sealed beams: outer and inner, LH/RH) and the headlamp bezel (the painted/trim ring panel on the front of the rotating headlamp housing). Each lamp sits on adjuster brackets with adjusting screws and a retaining spring; the bezel is screwed to the housing with screws into U-nuts plus screws at the lamp rings. The connector seal goes over the lamp terminals (View A), and the adjuster pivots get lubricant.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "5959751",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – headlamp adjuster/pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3833476",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9428741",
+      "name": "\"U\" NUT",
+      "name_expanded": "Nut – U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3906125",
+      "name": "SEAL",
+      "name_expanded": "Seal – headlamp connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "5949989",
+      "name": "SPRING",
+      "name_expanded": "Spring – headlamp retaining",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9420146",
+      "name": "SCREW",
+      "name_expanded": "Screw – headlamp adjusting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9416444",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3957045-6",
+      "name": "BEZEL",
+      "name_expanded": "Bezel – headlamp (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9427748",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "5955493",
+      "name": "HEADLAMP ASM.-OUTER-L.H.",
+      "name_expanded": "Headlamp assembly – outer, LH (high/low beam)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "5958808",
+      "name": "R.H.",
+      "name_expanded": "Headlamp assembly – outer, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "5956376",
+      "name": "HEADLAMP ASM.-INNER-L.H.",
+      "name_expanded": "Headlamp assembly – inner, LH (high beam)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "5955492",
+      "name": "R.H.",
+      "name_expanded": "Headlamp assembly – inner, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1r",
+      "description": "LUBRICANT",
+      "amount": ".1oz.",
+      "where": "pivot sockets of the adjuster brackets [1] (two places per housing shown)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "10",
+        "11"
+      ],
+      "to": "adjuster bracket [1] on the headlamp housing",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Adjusting screws [6] pass through the lamp mounting ring into the adjuster brackets [1]; the brackets carry their own ball studs (no callout) that the lamp ring snaps onto.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "headlamp housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Brackets [1] mount on the back wall of the housing, three positions shown; clip [2] sits at the lower bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "10",
+        "11"
+      ],
+      "to": "headlamp housing",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spring [5] hooks between the lamp mounting ring and the housing, pulling the lamp against its adjusters.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "3"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "headlamp housing sides",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [7] go through the side flanges of the bezel [8] into U-nuts [3] clipped on the housing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "headlamp housing, at the lamp openings",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [9] go through the front of the bezel [8] at the lamp rings.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "connector"
+      ],
+      "to": "headlamp terminals",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A (typical): seal [4] slides over the connector at the back of each lamp.",
+      "from": "drawing",
+      "how": "seals"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 11 RH: third digit smeared; reads 5955492 (OCR agrees).",
+    "Clip [2] function not clear from the drawing.",
+    "Torque triangles 3-5 empty; 'K225' printed sideways in the torque legend.",
+    "Legend shows revision circle 1 next to material key A (lubricant added by rev 1)."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "ITEM A ADDED",
+      "was": null,
+      "item": "A"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

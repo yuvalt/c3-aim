@@ -1,0 +1,144 @@
+{
+  "page": 221,
+  "group": "9",
+  "sheet": "A5",
+  "title": "MANDATORY INSTALLATION SEQUENCE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Required order for installing the steering column: column support bracket to the windshield frame, column slid into the rag joint (flexible coupling) at the steering gear, column bolted to the support and the lower plate to the dash (firewall), rag-joint gap and alignment checks, then the transmission back-drive (shift interlock) cable to the column lever. Parts are on sheets A3 (gear, rag joint) and A4 (column & support).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "W",
+        "Y"
+      ],
+      "holds": [
+        "U"
+      ],
+      "to": "bracket (T) on inner lower windshield frame",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Shouldered bolts (W) and nuts (Y): assemble loosely first (I-2); tighten nuts (Y) to spec only after screws (H) (II-4).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "H"
+      ],
+      "holds": [
+        "steering column"
+      ],
+      "to": "support (U)",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Two column-to-support screws, started in II-2, tightened in II-4 once the column position is set.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "M"
+      ],
+      "holds": [
+        "N"
+      ],
+      "to": "steering column",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Transmission control cable bracket (N) installed with bolts (M) (II-3).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "K"
+      ],
+      "holds": [
+        "steering column lower plate"
+      ],
+      "to": "front of dash (firewall)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "II-4: install and torque nuts (K) holding a .03 +/- .03 gap between mast jacket and the I.P. semicircular opening, pull support (U) rearward, tighten (H) then (Y), then loosen (K). II-7: retorque (K) to secure the lower plate to the dash.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "O"
+      ],
+      "holds": [
+        "Z"
+      ],
+      "to": "steering shaft",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper rag-joint flange pinch bolt (O), torqued while holding rag joint dimension (X) = .250/.375 (II-5).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "AB"
+      ],
+      "holds": [
+        "AA"
+      ],
+      "to": "transmission control cable bracket (N)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Back drive cable sheath (AA) held by spring clip (AB) (II-6, View A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "AD"
+      ],
+      "holds": [
+        "AC"
+      ],
+      "to": "lever on steering column",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Inner cable (AC) held on the lever by retainer (AD) (II-6).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "I. Mandatory instructions: 1) Install bracket (T) to the inner lower windshield frame. 2) Loosely fit support (U) to (T) with shouldered bolts (W) and nuts (Y). 3) Fit the upper end of the rag joint (Z) to the steering gear; bolt the gear to the frame, torquing the screws.",
+    "II. Mandatory sequence: 1) Put the column in, sliding the splined shaft end into the rag joint (Z). 2) Start the two column-to-support screws (H). 3) Fit transmission control cable bracket (N) with bolts (M). 4) Holding a .03 +/- .03 gap between mast jacket and the I.P. semicircular surface, fit and torque nuts (K); pull support (U) rearward for the I.P.-to-(T) height difference; tighten (H), then (Y); loosen (K). 5) Holding rag joint dimension (X), torque the upper rag joint flange pinch bolt (O). 6) Clip back drive cable sheath (AA) to bracket (N) with spring clip (AB); fix inner cable (AC) to the column lever with retainer (AD). 7) Torque nuts (K) to secure the column lower plate to the dash. 8) Remove plastic spacer (L) from the flexible coupling safety pins.",
+    "CAUTION: Do not tighten column to I.P. until vehicle is on its wheels or suspension.",
+    "III. System requirement: steering shaft to gear misalignment max .180 in; flex-coupling rivets must not ground on the shaft flange through 360 deg of rotation. Equivalent check: with the shaft unlocked, straight ahead and no torque on the wheel, keep a .04 gap (4-ply coupling) or .07 gap (7-ply) between coupling rivets and shaft flange; less means the column must be realigned.",
+    "Rag joint dimension (X): .250/.375"
+  ],
+  "notes_internal": [
+    "No parts list; lettered items only: T bracket, U support, W shouldered bolts, Y nuts, Z rag joint, H screws, N trans control cable bracket, M bolts, K nuts, O pinch bolt, L plastic spacer, X dimension, AA back drive cable sheath, AB spring clip, AC inner cable, AD retainer.",
+    "Torque legend: triangles with no values (K219 stamp beside).",
+    "Revision dates partly illegible: rev 1 '?-11-69', rev 2 '?-30-70'. Circled 1 by spacer (L) and View A cable lever; circled 2 by step II-4.",
+    "Top-right paragraph's first line is cut off at the page edge."
+  ],
+  "revisions": [
+    {
+      "date": "?-11-69",
+      "sym": "1",
+      "text": "SPACER DWG REVISED 2 PLACES",
+      "was": null,
+      "item": "L"
+    },
+    {
+      "date": "?-30-70",
+      "sym": "2",
+      "text": "SEQUENCE NOTE REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "page": 228,
+  "group": "12",
+  "sheet": "A5",
+  "title": "PARKING LAMPS, HORNS & SIDE MARKER LAMP INSTALLATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Front-end lighting and horns: low-note and high-note horns bolted to the radiator support (horn bracket screw and lock washer into a weld nut), harness ground wire and clip, the front side marker lamp (LH/RH) with its bulb in the front fender skirt area, and the parking lamp & radiator grille assembly (front grille with parking lamp, detailed in UPC 11 sheet 13) with its bulb and wire. A lamp monitor fiber lead (part of harness) runs to the parking lamp.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9000245",
+      "name": "HORN ASM-LOW NOTE",
+      "name_expanded": "Horn assembly – low note",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9000246",
+      "name": "HORN ASM-HIGH NOTE",
+      "name_expanded": "Horn assembly – high note",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Washer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9425542",
+      "name": "BULB",
+      "name_expanded": "Bulb – side marker lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3973639-40",
+      "name": "LAMP ASM-SIDE MARKER",
+      "name_expanded": "Lamp assembly – front side marker (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3983946",
+      "name": "CLIP",
+      "name_expanded": "Clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "917081-2",
+      "name": "PKG LP & RAD GRILLE ASM.",
+      "name_expanded": "Parking lamp & radiator grille assembly – front grille with parking lamp (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419841",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3848408",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3874533",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9428904",
+      "name": "BULB",
+      "name_expanded": "Bulb – parking lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "",
+      "name": "",
+      "name_expanded": "(no part listed)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "8901617",
+      "name": "WIRE ASM",
+      "name_expanded": "Wire assembly – parking lamp socket lead",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "radiator support (weld nut)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [3] with lock washer [4] goes through the horn bracket into a weld nut on the radiator support. Main view: same screw/washer at a hole in the radiator support near the harness (horn/ground terminal).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "radiator support",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Low-note horn [1] mounts on the opposite (LH) side of the radiator support the same way; its fastener is not called out separately.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "12",
+        "ground wire"
+      ],
+      "to": "radiator support",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw asm [11] goes through the ground wire terminal and harness clip [12] into the radiator support beside the horn.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "front fender skirt, near the side marker lamp",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [8] fastens clip [7], which holds the side-marker/parking lamp wiring at the skirt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "body, above the parking lamp",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [10] goes on a stud at the upper rear of the grille/parking lamp area (stud has no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "side marker lamp [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulb [5] and its socket twist into the back of the side marker lamp [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "parking lamp housing of [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bulb [13] in its socket on wire asm [15] plugs into the side of the parking lamp housing.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "LAMP MONITOR (PART OF HARN)",
+    "SEE UPC 11-13 (grille assembly [9])"
+  ],
+  "notes_internal": [
+    "Item 14: callout box printed with no part number or name.",
+    "Side marker lamp [6]: its own mounting fasteners are not called out on this sheet.",
+    "Nut [10]: what it fastens is not clear; best reading is a stud on the grille/parking lamp assembly or skirt.",
+    "Revision date handwritten, reads like '129-69' / '12-9-69'; written as '12?-69'.",
+    "Torque triangles 4-5 empty. 'K226' printed sideways at lower right."
+  ],
+  "revisions": [
+    {
+      "date": "12?-69",
+      "sym": "10",
+      "text": "ITEM 13 ADDED",
+      "was": null,
+      "item": "13"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

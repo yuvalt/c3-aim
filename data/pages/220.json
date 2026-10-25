@@ -1,0 +1,312 @@
+{
+  "page": 220,
+  "group": "9",
+  "sheet": "A4",
+  "title": "COLUMN & SUPPORT ASM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Steering column mounting: the column support (under-dash column bracket) and its bracket to the instrument panel structure, the column bolted up to the support, and at the firewall the column's lower flange plate (toe plate area) held by a bracket with sealers. A foam seal is cemented to the support. The firewall bracket has its own stud (no callout) that takes a nut.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3847962",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3972309",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3976457",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – column support to instrument panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "7807890",
+      "name": "COLUMN ASM.",
+      "name_expanded": "Steering column assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418822",
+      "name": "BOLT",
+      "name_expanded": "Bolt – column to support",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "382588",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1359887",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3945326",
+      "name": "SUPPORT",
+      "name_expanded": "Support – steering column (under dash)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "126375",
+      "name": "BOLT",
+      "name_expanded": "Bolt – firewall bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949076",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – column lower flange plate at firewall",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3954588",
+      "name": "SEALER",
+      "name_expanded": "Sealer (firewall pad/washer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3977707",
+      "name": "SEAL",
+      "name_expanded": "Seal – column support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "51dd",
+      "name": "CEMENT-1 OZ.",
+      "name_expanded": "Cement (material 51dd), 1 oz",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "12-18",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "120-180",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "14",
+      "code": "51dd",
+      "description": "CEMENT",
+      "amount": "1 OZ",
+      "where": "seal [13] on the column support [9]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "instrument panel structure weld nuts",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes up through bracket [3] into the weld nuts on the dash structure above.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "8"
+      ],
+      "holds": [
+        "3",
+        "9"
+      ],
+      "to": "each other",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [2] goes down through bracket [3] and support [9]; nut [8] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "support [9]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolts [6] with washers [7] go up through the column's mounting bracket slots into the support.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "how": "glues",
+      "material": "51dd",
+      "holds": [
+        "13"
+      ],
+      "to": "support [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [13] cemented along the support edge.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "11",
+        "12"
+      ],
+      "to": "firewall / column lower flange plate",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: bolt [10] passes through bracket [11] and a sealer [12] into the firewall.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "5",
+        "11",
+        "12"
+      ],
+      "to": "firewall",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: bracket [11] carries its own stud (marked 'BRACKET', no callout); it goes through a sealer [12], the firewall and the column lower flange plate, with nut [8] on the column side at 100-140 LBS IN.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 4 blank with circled 1: rev 1 removed 3967814 shield.",
+    "Nut [8] used twice: triangle 4 at support (main view), triangle 3 in View A; parts entry carries 4.",
+    "Torque legend has a fifth triangle with no value.",
+    "Bolt [10] has no torque triangle."
+  ],
+  "revisions": [
+    {
+      "date": "11-18-69",
+      "sym": "1",
+      "text": "3967814 SHIELD RMV'D",
+      "was": "3967814",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEMS 13 & 14 ADDED",
+      "was": null,
+      "item": "13"
+    },
+    {
+      "date": "12-9-69",
+      "sym": "3",
+      "text": "WAS 3945325 BRACKET",
+      "was": "3945325",
+      "item": "3"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

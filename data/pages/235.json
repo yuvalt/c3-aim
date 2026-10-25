@@ -1,0 +1,61 @@
+{
+  "page": 235,
+  "group": "12",
+  "sheet": "A12",
+  "title": "HEADLAMP AIMING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "1970 headlamp aim specification (SAE Proposal 2) with factory calibration steps and production checking limits. Aim is set with the vertical adjusting screw at the top of the headlamp and the horizontal adjusting screw at the side; no parts are listed.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "SPECIFICATION GIVEN FOR VEHICLE WHICH CONTAINS 1/2 TANK OF FUEL",
+    "Calibration of aimers (plant setting and checking): 1) set and check aim with a mechanical aimer conforming to SAE J602; 2) to allow for the 1/2 tank of fuel, align the master fixture to 0\" vertical and 0\" horizontal plane; 3) put the aimers on the master fixture and calibrate them to read 0\" U/D and 0\" R/L.",
+    "Adjusters: VERTICAL ADJ. SCREW at top of headlamp, HORIZONTAL ADJ. SCREW at side."
+  ],
+  "notes_internal": [
+    "Revision 2 date first digit(s) obscured by scan noise; reads '?-31-69'.",
+    "Torque triangles empty; stamp 'K233'. C/O box reads A11."
+  ],
+  "revisions": [
+    {
+      "date": "?-31-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "1970 HEADLAMP AIM SPECIFICATION S.A.E. PROPOSAL 2 (vehicle with 1/2 tank of fuel)",
+      "columns": [
+        "",
+        "VERTICAL AIM",
+        "HORIZONTAL AIM"
+      ],
+      "rows": [
+        [
+          "Specification",
+          "3\" UP 1.5\" DOWN",
+          "0\" R/L ± 4\""
+        ],
+        [
+          "Production checking limits - all headlamps",
+          "0\" UP +2\", -2.5\"",
+          "0\" R/L ± 4\""
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

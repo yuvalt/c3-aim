@@ -1,0 +1,278 @@
+{
+  "page": 198,
+  "group": "6",
+  "sheet": "C3",
+  "title": "AIR CLEANER, STICKER & VENT HOSES",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air cleaner assembly on top of the carburetor with its base gasket, center stud and wing nut, the air cleaner lid sticker (decal), and the crankcase ventilation (PCV) hoses: PCV valve in a valve-cover grommet with a hose to the carburetor base, and a fresh-air hose from the air cleaner snorkel side through a connector to a grommet in the other valve cover, with a flame arrestor at the air cleaner. The air cleaner is held by a wing nut on a stud screwed into the carburetor.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "219281",
+      "name": "WING NUT",
+      "name_expanded": "Wing nut (air cleaner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "6485887",
+      "name": "AIR CLEANER ASM.",
+      "name_expanded": "Air cleaner assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3946856",
+      "name": "STICKER",
+      "name_expanded": "Sticker – air cleaner lid decal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3921975",
+      "name": "STUD",
+      "name_expanded": "Stud – air cleaner (screws into carburetor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3969843",
+      "name": "GASKET",
+      "name_expanded": "Gasket – air cleaner to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3901839",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV valve to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3829058",
+      "name": "CLAMP",
+      "name_expanded": "Clamp (PCV hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "6484541",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – PCV (positive crankcase ventilation) valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3989350",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – valve cover (rocker cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3923260",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector (vent hose to valve cover grommet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3932336",
+      "name": "HOSE",
+      "name_expanded": "Hose – air cleaner to valve cover vent (crankcase breather)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3849856",
+      "name": "ARRESTOR-FLAME",
+      "name_expanded": "Flame arrestor (crankcase vent, at air cleaner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "carburetor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Stud [4] screws into the top of the carburetor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "5"
+      ],
+      "to": "stud [4] on carburetor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Air cleaner [2] sits on gasket [5] over the carburetor; wing nut [1] goes on stud [4] at the center of the lid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "air cleaner [2] lid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sticker [3] placed on the lid next to the center hole at the 2:24 clock position right of the engine centerline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "valve cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "PCV valve [8] pushes into grommet [9] in the valve cover hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "PCV valve [8] and carburetor base fitting",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [6] runs from the PCV valve [8] to the fitting at the front of the carburetor base; clamp [7] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "other valve cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connector [11] pushes into grommet [9] in the opposite valve cover; hose [12] slips over connector [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12",
+        "13"
+      ],
+      "to": "air cleaner [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [12] runs up to the tube under the air cleaner; flame arrestor [13] sits in the air cleaner at the top of that tube. No clamp shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Install [5] with colored adhesive side down.",
+    "2:24 R"
+  ],
+  "notes_internal": [
+    "Item 10 callout line is blank (no pn or name).",
+    "Model box reads '19400' as printed.",
+    "'K196' stamped vertically at lower right.",
+    "Legend triangles 2-5 blank."
+  ],
+  "revisions": [
+    {
+      "date": "2-27-70",
+      "sym": "7",
+      "text": "WAS 3970098 GROMMET",
+      "was": "3970098",
+      "item": "9"
+    },
+    {
+      "date": "5-19-70",
+      "sym": "8",
+      "text": "WAS 3856659 HOSE",
+      "was": "3856659",
+      "item": "6"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

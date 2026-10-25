@@ -1,0 +1,246 @@
+{
+  "page": 229,
+  "group": "12",
+  "sheet": "A6",
+  "title": "FORWARD LAMP WIRING HARNESS, HORN RELAY MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the front (generator & forward lamp) wiring harness from the radiator support along the LH front wheelhouse skirt to the junction block and through a grommet in the dash, plus mounting of the horn relay & buzzer assembly on the skirt. The relay goes on a stud of a bracket riveted to the skirt, held by a nut and lock washer; the harness is held by clips riveted to the skirt, and clips are bent to also hold the hoses.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3901794",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness/hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "8901469",
+      "name": "HARNESS ASM.-GEN & FWD LAMP WRG.",
+      "name_expanded": "Harness assembly – generator & forward lamp wiring (front lighting harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "134551",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Washer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1115889",
+      "name": "RELAY & BUZZER ASM.-HORN",
+      "name_expanded": "Horn relay & buzzer assembly (key-in buzzer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "7",
+      "pn": "3918535",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – horn relay",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3977708",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (harness)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "front wheelhouse skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivet [6] fastens bracket [7] to the skirt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "bracket [7]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: the relay [5] mounting tab goes over a stud on bracket [7] (stud has no callout); lock washer [4] and nut [3] go on from the front.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [8] fastens a harness clip [9] to the skirt (View A, upper right).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "skirt / radiator support area",
+      "qty": "several",
+      "torque_ref": null,
+      "note": "Clips [9] hold the harness [2] along its route (main view and View A); bend as required (note A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "hoses"
+      ],
+      "to": "skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [1] hold the harness and are bent to retain the hoses (note A).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Bend clip as required to properly retain hoses. (note A, clips [1] and [9])",
+    "LAMP MONITOR TO INST. PANEL",
+    "Wire colors at relay: 16B, 16B, 20P, 14DG, 20B"
+  ],
+  "notes_internal": [
+    "Item 1: 6th digit could be 9 or 8 (OCR read 3901784); written 39017?4.",
+    "Item 6: last digit smeared, 6 or 8 (OCR read 3828546); written 382854?.",
+    "Item 5: middle digits heavy but read as 1115889 (OCR agrees).",
+    "Revision dates for rev 1 and 2 are smeared and unreadable; left blank.",
+    "Harness [2] passes through a grommet in a hole in the dash to the junction block; not a fastening.",
+    "Torque triangles 2-5 empty; 'K227' printed sideways."
+  ],
+  "revisions": [
+    {
+      "date": "",
+      "sym": "1",
+      "text": "CLIP NOTE ADDED",
+      "was": null,
+      "item": "A"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 9 ADDED",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "ITEM 9 WAS ITEM 1 (2 PLACES)",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "HARN RTG REVISED",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "CLIP ADDED (2 PLACES)",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

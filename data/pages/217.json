@@ -1,0 +1,67 @@
+{
+  "page": 217,
+  "group": "9",
+  "sheet": "A1",
+  "title": "STEERING - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of UPC 9, steering: relay (center link) and tie rod assemblies (A2), steering gear (steering box), steering wheel and horn cover (A3), steering column and column support (A4), and the mandatory installation sequence (A5). A drawing of the front suspension and column points to where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. Two-line titles joined with a space.",
+    "Drawing callouts: A2 relay rod/tie rods, A3 steering gear and steering wheel (two places), A4 column. A1 and A5 not called out.",
+    "Title block: drawing 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-14-69, C/O A1; model 19000. Circled (1) at lower right of drawing; sideways K215. Rev 1 AUTH partly legible (25?4?)."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "STEERING CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "RELAY & TIE ROD ASM."
+        ],
+        [
+          "A3",
+          "STEERING GEAR, STEERING WHEEL & COVER"
+        ],
+        [
+          "A4",
+          "COLUMN & SUPPORT ASM."
+        ],
+        [
+          "A5",
+          "MANDATORY INSTALLATION SEQUENCE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

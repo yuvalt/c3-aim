@@ -1,0 +1,250 @@
+{
+  "page": 231,
+  "group": "12",
+  "sheet": "A8",
+  "title": "ENGINE WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Engine wiring harness routing on the firewall/left fender area and at the starter: harness clipped to the body with rivet-on clips, wires to the coil, TCS (transmission controlled spark) solenoid and switch, horn relay and the front junction block. At the starter solenoid the battery cable and harness leads go on the studs with lock washers and nuts; the harness connector bolts to the junction block. Related: TCS switch on UPC 7.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3901794",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8901592",
+      "name": "HARN ASM.",
+      "name_expanded": "Engine wiring harness assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3983946",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3894533",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "120622",
+      "name": "NUT",
+      "name_expanded": "Nut – starter solenoid terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "120614",
+      "name": "NUT",
+      "name_expanded": "Nut – starter solenoid terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14-21",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "50-75",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "firewall / fender skirt sheet metal",
+      "qty": "4 places",
+      "torque_ref": null,
+      "note": "Clip [2] is riveted [1] to the body and holds the harness [3]; shown at four places along the harness (near the wiper motor, firewall, and above the junction block).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "body next to the coil",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [4] riveted [1] to the body beside the coil, holding the harness [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "heater attaching nut / stud on the firewall",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [5] holds the harness under the heater attaching nut (HTR ATT. NUT).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "starter solenoid SOL terminal",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: harness 12 RPL lead goes on the solenoid terminal stud, then lock washer [6] and nut [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "starter solenoid terminal",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: purple/yellow (20Y, IGN) lead terminal held by lock washer [6] and nut [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "B"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "coil positive (+) post",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Note B: harness lead secured with the nut on the coil positive (+) post.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "front junction block",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Harness connector (existing part, half-black square) is fastened to the junction block with a bolt/screw; generator & front lamp harness connector is mated to it first.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Press boot over switch asm.",
+    "B: NUT-Positive (+) post.",
+    "NOTE: Assemble generator & fwd lamp connector to engine harness connector before assembling to junc block.",
+    "T.C.S. SWITCH SEE UPC 7"
+  ],
+  "notes_internal": [
+    "Item 1: third digit broken (5 or 8); OCR missed it.",
+    "Item 3: first digit prints as 8 (other pns start 3); copied as printed.",
+    "Torque legend triangle digits illegible; refs 1-3 assumed in legend order (drawing shows triangles 1, 2, 3). Bottom triangles beside stamp 'K229' empty.",
+    "Battery cable attaching parts and starter motor attaching part are labeled but not called out.",
+    "Revision 6 date mostly illegible ('?-?-70'). Circled 6 at TCS solenoid connector, circled 7 at View C."
+  ],
+  "revisions": [
+    {
+      "date": "?-?-70",
+      "sym": "6",
+      "text": "TCS WIRING DWG. REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "VIEW C ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

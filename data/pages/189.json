@@ -1,0 +1,161 @@
+{
+  "page": 189,
+  "group": "6",
+  "sheet": "B1",
+  "title": "OIL FILLER, LEVEL GAGE & FILTER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Engine oil system on the small-block: oil level gage (dipstick) in its tube on the right side of the block, oil filter adapter bolted to the block boss, and the spin-on oil filter. The adapter is held by bolts [4]; the filter spins onto the adapter's threaded center nipple (no separate stud) and is hand-tightened slowly so the gasket isn't damaged. Engine oil fill is at the valve cover filler opening.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "???????",
+      "name": "? LEVEL",
+      "name_expanded": "Gage – oil level (dipstick); callout line wiped out by hole punch, only 'LEVEL' visible",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3876784",
+      "name": "TUBE-OIL GAGE",
+      "name_expanded": "Tube – oil level gage (dipstick tube)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3952301",
+      "name": "ADAPTER ASM",
+      "name_expanded": "Adapter assembly – oil filter",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3951644",
+      "name": "BOLT",
+      "name_expanded": "Bolt – oil filter adapter",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6437055",
+      "name": "FILTER ASM",
+      "name_expanded": "Oil filter assembly (spin-on)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14-22",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "20-25",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "code": "7a",
+      "description": "OIL",
+      "amount": "1.126 GAL.",
+      "where": "engine oil fill at the valve cover oil filler opening"
+    },
+    {
+      "code": "7b",
+      "description": "OIL",
+      "amount": ".001 GAL.",
+      "where": "oil filter [5] gasket"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "engine block oil filter boss",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Bolts [4] go up through the adapter [3] ears into the block; dashed lines show two bolt holes.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "adapter [3]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Filter [5] threads onto the adapter's own threaded center nipple (no separate stud/callout). Oil [7b] on the gasket; tighten slowly (see CAUTION).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "engine block, right side",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Dipstick tube [2] inserted into the block hole beside the exhaust manifold; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "tube [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Gage [1] slides into the top of tube [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Slow take-up for compression of gasket is necessary to prevent damage to gasket, over torquing will rupture filter can."
+  ],
+  "notes_internal": [
+    "Item 1 line entirely gone (hole punch at top-left); only the word 'LEVEL' survives above item 2. Drawing callout 1 points at the dipstick.",
+    "Torque 1 second value smudged; reads 14-22, marked uncertain.",
+    "A box 'A' sits beside the 7a/7b material legend; meaning unclear.",
+    "Triangles 3-5 in the torque legend are empty; 'K187' printed sideways next to them (cross-reference?).",
+    "No revisions recorded."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

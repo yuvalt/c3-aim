@@ -1,0 +1,31 @@
+{
+  "page": 212,
+  "group": "8",
+  "sheet": "A5",
+  "title": "EXHAUST SYSTEM CHECKING DIMENSIONS-RPO",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Checking dimension for the RPO side-mounted exhaust (side pipes / side exhaust): the muffler, exhaust & tailpipe assembly running along the rocker below the door sill must clear the door sill reinforcement by .42 at the point shown. No parts or fasteners are called out.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    ".42 (clearance between muffler, exhaust & tailpipe asm. and reinf. door sill)"
+  ],
+  "notes_internal": [
+    "Diagram page: no callouts or part numbers; labels are REINF. DOOR SILL and MUFFLER, EXHAUST & TAILPIPE ASM. Units of .42 not printed (presumably inches).",
+    "Left third of the page and the revision record are blacked out by scan noise; any revision entries are unreadable. Torque legend triangles blank.",
+    "Title block: drawing 3965172; DR AB/C1, CK 4-21-69 C1, PREL 4-9-69, C/O A6; ECR 1-87860; model 19000. Sideways K210."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

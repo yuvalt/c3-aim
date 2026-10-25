@@ -1,0 +1,133 @@
+{
+  "page": 195,
+  "group": "6",
+  "sheet": "B7",
+  "title": "CLUTCH OPERATED NEUTRAL STARTING SWITCH",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Manual-transmission clutch safety switch (clutch start switch / neutral safety switch) under the dash, mounted on the brake pedal housing (pedal support bracket) beside the clutch pedal. The switch is held by a screw; a rod links the switch lever to the clutch pedal arm, retained by bushings and clip retainers at each end. The switch plugs into the instrument panel harness via the neutral safety switch connector.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9419400",
+      "name": "SCREW",
+      "name_expanded": "Screw (switch mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "registry"
+    },
+    {
+      "item": "2",
+      "pn": "3954290",
+      "name": "BUSHING",
+      "name_expanded": "Bushing (switch rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "148145",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (clip, switch rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "1993495",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – clutch operated neutral start (clutch safety switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3954299",
+      "name": "ROD",
+      "name_expanded": "Rod – clutch pedal to neutral start switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "45-65",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "brake pedal housing (pedal support bracket)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [1] goes through the switch [4] mounting flange into the side of the brake pedal housing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "clutch pedal arm",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The bent upper end of rod [5] passes through a bushing [2] in the clutch pedal arm and is retained on the far side by bushing [2] and clip retainer [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "switch [4] lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The lower end of rod [5] goes through the switch [4] lever and is held by clip retainer [3].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch wipes out middle digits; visible '94' ... '00' (7-digit pn assumed from spacing).",
+    "Exact routing of rod [5] ends read from a small isometric; bushing/retainer pairing per end is approximate.",
+    "'K193' stamped vertically beside the torque legend; meaning unknown.",
+    "Revision record is blank."
+  ],
+  "revisions": [],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

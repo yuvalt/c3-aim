@@ -1,0 +1,96 @@
+{
+  "page": 201,
+  "group": "7",
+  "sheet": "B1",
+  "title": "TRANSMISSION CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the transmission and clutch section (UPC 7): transmission bracket and shift control lever, shift linkage, transmission installation and adjustment, backdrive/interlock linkage, TCS (transmission controlled spark) switch and relay, clutch control shaft (clutch cross shaft / Z-bar) and release (throwout) bearing, and clutch pedal linkage. The overview drawing points each sheet to its area of the manual-transmission drivetrain; View A shows the VIN stamping location on the transmission (specs on UPC 0 sheet B2). All models.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "V.I.N. Location See UPC 0 Sheet B2 for specs."
+  ],
+  "notes_internal": [
+    "Contents page with an overview drawing; no part callouts. Drawing callouts B2, B3, B5, C1, C2 point to those sheets' areas.",
+    "Sheet ids B1-B6 in the left column are heavily blotted; read from their order and the revision record (rev 2 'B5 title revised', rev 3 'B6 added').",
+    "Rev 1 date read as 6-7-69 (dash faint); rev 1 AUTH smudged.",
+    "'K199' stamped vertically at lower left."
+  ],
+  "revisions": [
+    {
+      "date": "6-7-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "7-7-69",
+      "sym": "2",
+      "text": "SHEET B5 TITLE REVISED",
+      "was": null,
+      "item": "B5"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SHEET B6 ADDED",
+      "was": null,
+      "item": "B6"
+    }
+  ],
+  "options": [],
+  "tables": [
+    {
+      "title": "TRANSMISSION CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "B1",
+          "CONTENTS"
+        ],
+        [
+          "B2",
+          "TRANS. BRACKET ASM. & CONTROL LEVER"
+        ],
+        [
+          "B3",
+          "TRANSMISSION CONTROL LINKAGE"
+        ],
+        [
+          "B4",
+          "TRANS. INSTALLATION & ADJ."
+        ],
+        [
+          "B5",
+          "INTERLOCK LINKAGE. CONT. LEVER"
+        ],
+        [
+          "B6",
+          "T.C.S. SWITCH & RELAY"
+        ],
+        [
+          "C1",
+          "CLUTCH CONTROL SHAFT & RELEASE BEARING"
+        ],
+        [
+          "C2",
+          "CLUTCH PEDAL & CONTROL LINKAGE & PEDAL DIMENSION"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

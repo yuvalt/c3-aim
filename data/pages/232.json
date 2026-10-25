@@ -1,0 +1,214 @@
+{
+  "page": 232,
+  "group": "12",
+  "sheet": "A9",
+  "title": "BATTERY",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Battery mounting in the battery tray behind the passenger seat area: a hold-down clamp at one side is bolted down through the tray into a reinforcement assembly underneath (the reinforcement carries the bolt's thread; no separate nut called out), and a fixed clamp on the opposite side is riveted through the tray floor to a reinforcement plate below. Two vent hoses run from the battery caps down through the tray floor.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1980127",
+      "name": "BATTERY",
+      "name_expanded": "Battery",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3858700",
+      "name": "BOLT",
+      "name_expanded": "Bolt – battery hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3887588",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – battery hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9409245",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919636",
+      "name": "REINF ASM.",
+      "name_expanded": "Reinforcement assembly – under battery tray, hold-down bolt anchor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3919635",
+      "name": "REINF.",
+      "name_expanded": "Reinforcement – under battery tray floor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3919633",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – battery base (fixed)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3828549",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3769512",
+      "name": "HOSE",
+      "name_expanded": "Hose – battery vent",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3812819",
+      "name": "HOSE",
+      "name_expanded": "Hose – battery vent",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "60-80",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3",
+        "1"
+      ],
+      "to": "reinforcement asm. [5] under the battery tray",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] goes down through hold-down clamp [3] and the tray floor into reinforcement asm. [5] below; the clamp bears on the battery base. No nut called out: the bolt threads into the reinforcement asm.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "underside of battery tray floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [4] goes down through the tray floor into reinforcement asm. [5] (dashed line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7",
+        "6"
+      ],
+      "to": "battery tray floor",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Rivets [8] go down through clamp [7] and the tray floor into reinforcement [6] underneath; three holes shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9",
+        "10"
+      ],
+      "to": "battery vent caps, routed through tray floor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Vent hoses [9] and [10] push onto the battery vent nipples and run down through holes in the tray floor; no fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque legend triangle digit illegible; single value assigned ref 1 (triangle 1 at bolt [2] in drawing). Four lower triangles empty; stamp 'K230'.",
+    "C/O box reads A10."
+  ],
+  "revisions": [
+    {
+      "date": "2-19-70",
+      "sym": "6",
+      "text": "WAS 9401102 RIVET",
+      "was": "9401102",
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "WAS 3952827 RIVET",
+      "was": "3952827",
+      "item": "8"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
