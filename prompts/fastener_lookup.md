@@ -2,7 +2,7 @@
 
 Your part numbers: ranks given in your task, from data/review/fasteners_queue.csv (pn, AIM name, where it's used on a 1970 Corvette).
 
-For each pn, skip it if data/fasteners/<pn>.json already exists. Otherwise find its size with WebSearch / WebFetch:
+For each pn, skip it if data/fasteners/<pn>.json already exists (unless your task says to retry it). Find its size with **`.venv/bin/python search.py "<query>"`** (Bash; Brave Search API, cached, shared cap of paid calls). Do NOT use the WebSearch tool. Use at most 4 search.py queries per part; repeated queries are free (cached). Good first queries: "GM <pn>", "<pn> AMK", "<pn> camaros". You may WebFetch a result page if it isn't blocked.
 - Try: the bare number, "GM <pn>", "<pn> screw/bolt/nut", plus where it's used ("<pn> door hinge corvette").
 - Good sources: GM standard-parts tables (often only visible as search snippets), NCRS / CorvetteForum / camaros.org / Chevelle/Nova restoration forums, Corvette vendors (Zip, Corvette Central, Paragon, Ecklers, Corvette America, Lectric Limited), AMK Products, Dr. Rebuild, NOS listings, old Chevrolet master parts catalog scans (chevy.oldcarmanualproject.com).
 - **If a site returns 403 or a bot check, move on. Never retry with other user agents, headers or tricks.** Search-result snippets are fine to use as a source.

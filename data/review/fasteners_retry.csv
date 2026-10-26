@@ -1,0 +1,58 @@
+rank,pn,name,uses,status
+1,103320,L. WASHER,9,not found
+2,3831877,RIVET,8,unconfirmed
+3,3828549,RIVET,7,conflict
+4,3828470,RIVET,7,not found
+5,9409244,RIVET,6,not found
+6,271172,NUT ASM.,6,not found
+7,9422404,SCREW,5,not found
+8,3958062,SCREW,5,conflict
+9,3857243,NUT ASM.,4,conflict
+10,9421033,SCREW ASM.,4,not found
+11,9409245,RIVET,4,not found
+12,3922299,SCREW,4,not found
+13,3958726,SCREW ASM.,4,not found
+14,3846854,NUT,4,conflict
+15,3983946,CLIP,4,not found
+16,3901794,CLIP,4,not found
+17,120368,NUT,4,not found
+18,3967486,NUT,4,not found
+19,3831539,RIVET,3,not found
+20,3829910,RIVET,3,not found
+21,3922441,SCREW ASM.,3,not found
+22,3843505,SCREW,3,not found
+23,9427651,SCREW,3,not found
+24,3966667,SCREW,3,not found
+25,3918654,FASTENER,3,not found
+26,9419000,BOLT,3,unconfirmed
+27,9427834,SCREW,3,conflict
+28,9427325,SCREW,3,conflict
+29,9419778,SCREW,3,unconfirmed
+30,3792031,WASHER-SPL.,3,not found
+31,4767684,SCREW,3,not found
+32,1359887,NUT,3,not searched
+33,3954658,SCREW,3,not searched
+34,3855554,SCREW,3,not searched
+35,3858700,SCREW ASM.,3,not searched
+36,9415163,SCREW,2,not found
+37,9418719,SCREW,2,unconfirmed
+38,102647,NUT,2,not found
+39,108630,C. PIN,2,not found
+40,456867,SCREW,2,not found
+41,9422242,"""U"" NUT",2,not found
+42,9427868,SCREW ASM.,2,not found
+43,9420890,SCREW,2,not found
+44,9411467,NUT,2,not found
+45,9418843,NUT,2,not found
+46,115854,NUT,2,not found
+47,9420272,NUT,2,not found
+48,9419277,P. WASHER,2,not found
+49,180121,BOLT,2,not found
+50,9428741,"""U"" NUT",2,not found
+51,455959,BOLT,2,not found
+52,145487,NUT,2,not found
+53,9420680,SCREW,2,not found
+54,9420153,"""U"" NUT",2,not found
+55,9418916,SCREW ASM.,2,not found
+56,9418971,SCREW ASM.,2,not found
+57,179842,BOLT,2,conflict
