@@ -1,0 +1,127 @@
+{
+  "page": 393,
+  "group": "M40",
+  "sheet": "A11",
+  "title": "3-SPEED AUTO TRANS-REAR AXLE & PROP SHAFT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Driveshaft (propeller shaft) and differential for the 3-speed automatic (RPO M40). The prop shaft's rear U-joint is held to the differential pinion flange (companion flange) by bolts and U-joint straps; the front slip yoke gets chassis grease and slides into the transmission. Line up the paint mark on the shaft with the paint mark on the pinion flange. Differential mounting hardware is production (see base sheets).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "?887348",
+      "name": "BOLT",
+      "name_expanded": "Bolt – U-joint strap",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3921675",
+      "name": "SHAFT & UJT ASM-PROP",
+      "name_expanded": "Propeller shaft (driveshaft) & universal joint assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3882979",
+      "name": "STRAP",
+      "name_expanded": "Strap – U-joint bearing cap to pinion flange",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3924340",
+      "name": "CARRIER ASM.-DIFFERENTIAL",
+      "name_expanded": "Differential carrier assembly (rear axle)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "12-17",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "B",
+      "code": "4g",
+      "description": "GREASE-CHASSIS",
+      "amount": ".02 LBS.",
+      "where": "front slip yoke of prop shaft [2] (transmission end)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "differential pinion flange",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [1] go through straps [3] over the rear U-joint bearing caps into the pinion flange of the differential carrier [4]. Align the paint marks on shaft and pinion flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "frame / differential mounting bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Carrier [4] mounting bolts, nuts, cotter pin and bracket are production parts (callout A), not listed here.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: When assembling prop. shaft to differential carrier, position paint mark on prop. shaft inline with paint mark on pinion flange of differential carrier.",
+    "A: Production parts."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips the first digit (lower curve visible, looks like 3 but not certain).",
+    "Item 4 has a half-filled circle symbol beside the callout; no legend explains it.",
+    "Circled 1 next to the 4g tag in the drawing = revision 1."
+  ],
+  "revisions": [
+    {
+      "date": "12-19-69",
+      "sym": "1",
+      "text": "SYMBOL 4G REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

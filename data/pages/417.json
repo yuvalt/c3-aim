@@ -1,0 +1,45 @@
+{
+  "page": 417,
+  "group": "N40",
+  "sheet": "A5",
+  "title": "HYDRAULIC STEERING-PUMP PULLEY ASM. BLEEDING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Procedure for pressing the pulley onto the power steering (N40) pump shaft without damaging the pump (hand pressure only, pump supported on a back-up plate, nut torqued with a stall wrench while holding the pulley hub flats), and two ways to bleed air from the power steering system: on the bench or on the finished car with the front wheels off the ground.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Pulley installation: 1) Support the pump in a fixture with a back-up plate under the reservoir perimeter, or mount the pump on its brackets after the brackets are bolted to the engine. 2) If the key must be straightened to fit the pulley, support the shaft from the opposite side. 3) Align key and pulley keyway and push the pulley on with steady hand pressure. CAUTION: any impact on the pulley or shaft can damage the pump thrust plate. 4) Hold the flats on the pulley hub and torque the nut with a stall wrench.",
+    "Bleeding, method A or B (either one).",
+    "A – Bench: 1) Assemble the linkage unit complete with inlet and outlet hoses. 2) Feed automatic transmission fluid under pressure into the outlet hose; put the inlet hose in a container to catch oil. 3) Move the pitman arm ball stud to work the valve, giving at least one full piston stroke in each valve position. 4) Done when fluid comes out of the inlet hose clear with no air bubbles.",
+    "B – On the completed vehicle: 1) Jack up until the front wheels are clear. 2) Fill pump. 3) Run engine 5 to 10 seconds, wheels straight ahead. 4) Refill. 5) Run engine a few seconds turning wheels to both stops. 6) Refill.",
+    "Bleed with the wheels off the ground: under load the oil is forced into the cylinders at very high pressure and foams (pump becomes noisy). Trapped air bleeds out after 2 to 3 hours of standing."
+  ],
+  "notes_internal": [
+    "Text/procedure page with a pump pulley sketch (labels: pulley, shaft, key, pump asm., reservoir, back-up plate). No part callouts, no torque values (legend triangles blank).",
+    "Circled 1 next to step 4 = revision 1.",
+    "Title block: drawing 3965172; DR C1, CK 5-6-69 C1, C/O A5; K415 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "STEP (4) REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

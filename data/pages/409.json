@@ -1,0 +1,102 @@
+{
+  "page": 409,
+  "group": "N14",
+  "sheet": "A2",
+  "title": "SIDE MOUNTED EXHAUST-TRANS. SPACER & BODY SILL HEAT INSULATOR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO N14 side mounted exhaust (side pipes): a spacer goes between the transmission and the production rear mount, and foam heat insulators are fitted along the body sill (rocker) above the frame side rail and at the rear of the sill where the side pipe runs. The rear insulator is cut to the dimension shown. Note: the N14 option was cancelled for 1970 (see N14 A1).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39????9",
+      "name": "SPACER",
+      "name_expanded": "Spacer – transmission mount (side exhaust)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3958881",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – body sill heat insulator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3964115",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – body sill heat insulator, rear (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission / production transmission mount",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spacer [1] is stacked between the transmission and the production mount, on the production mount studs/bolts (production parts, no callouts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "underbody sill above frame side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Insulator [2] lies along the underbody sill over the frame side rail; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "underbody at rear of sill",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: insulator [3] fits against the underbody at the rear end of the sill; cut to dimension (.18 shown). No fastener shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Cut to dimension shown.",
+    ".18"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch removed middle digits; visible '39' + partial third digit + '9'.",
+    "Sheet not stamped canceled, but N14 A1 contents sheet says RPO N14 cancelled 10-2?-69.",
+    "Insulators may be adhesive-bonded but no material legend on this sheet."
+  ],
+  "revisions": [],
+  "options": [
+    "N14"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

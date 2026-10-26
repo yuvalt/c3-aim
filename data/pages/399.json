@@ -1,0 +1,173 @@
+{
+  "page": 399,
+  "group": "M40",
+  "sheet": "A17",
+  "title": "3 SPD AUTO TRANS-CARB IDLE CONTROL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "Canceled sheet: idle-stop solenoid for automatic-transmission cars with LJ1/LJ2 engines. A bracket mounts on two engine studs with lock washers and nuts; the solenoid bolts to the bracket with a bolt and plain washer; a clamp holds a line at the carburetor. Wiring per RPO C60.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3?40917",
+      "name": "CLAMP",
+      "name_expanded": "Clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "121887",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "606404",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3967426",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – idle solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1114418",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly – carburetor idle stop solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "187119",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "120376",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "engine studs",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "View A: bracket [4] goes over two engine studs; lock washer [6] and nut [7] on each.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "bracket [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] with plain washer [3] clamps the solenoid [5] in the bracket slot (slide to adjust).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [],
+      "to": "carburetor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamp [1] shown at the carburetor; what it holds is not clear in the drawing.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "FOR WIRING SEE RPO C60",
+    "Solenoid & carburetor adjustment: 1. Turn the carb idle speed screw 1/2 turn clockwise. 2. Loosely mount solenoid in bracket. 3. Closed throttle, choke fully off. 4. With solenoid energized (plunger out), slide it in the bracket until the plunger just touches the carb lever; tighten. 5. Back the idle screw out one full turn.",
+    "NOTE: should give about 500 RPM idle with solenoid de-energized."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes the second digit (and part of the first); read 3?40917.",
+    "Model box: 19000 V-8 ENGINE RPO LJ1, LJ2."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "1",
+      "text": "CANCELLED STICKER ADDED 26327",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "M40",
+    "LJ1",
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

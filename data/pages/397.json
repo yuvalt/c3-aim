@@ -1,0 +1,184 @@
+{
+  "page": 397,
+  "group": "M40",
+  "sheet": "A15",
+  "title": "3-SPEED AUTO TRANS-INTERLOCK LINKAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic transmission (M40) ignition-lock backdrive (park interlock) cable: cable runs from the steering column lever down to a lever on the transmission. A bracket bolts to the transmission with a bolt and lock washer; the cable is held in the bracket by a retainer clip and its end is pinned to the trans lever with a washer and cotter pin (View A). Column end: see UPC 7 / UPC 9.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3949075",
+      "name": "CABLE ASM.",
+      "name_expanded": "Cable assembly – transmission backdrive / park-lock interlock cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3875092",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (cable clip at bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949085",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – interlock cable, on transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418918",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103372",
+      "name": "COTTER PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3718496",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "transmission case",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [5] with lock washer [4] goes up from below through the bracket [3] into the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retainer clip [2] holds the cable [1] housing in the bracket [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission lever (LEVER ASM)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: cable [1] end fits on the trans lever pin, washer [7] then cotter pin [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "steering column lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Upper end of cable attaches at the steering column; CABLE INSTALLATION - SEE UPC 7; BRACKET ASM - SEE UPC 9.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CABLE INSTALLATION-SEE UPC 7",
+    "BRACKET ASM-SEE UPC 9"
+  ],
+  "notes_internal": [
+    "Item 1: third digit partly overprinted by a smudge; reads 4 (OCR agrees 3949075)."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "103320 ADDED",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3922549 SCREW",
+      "was": "3922549",
+      "item": "5"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

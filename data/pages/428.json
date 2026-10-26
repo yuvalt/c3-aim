@@ -1,0 +1,113 @@
+{
+  "page": 428,
+  "group": "U69",
+  "sheet": "A4",
+  "title": "RADIO FM-CAPACITORS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO U69 AM/FM radio noise-suppression capacitors in the engine compartment: one at the heater blower motor (connects into the orange-wire motor connector and grounds at the blower ground terminal under the production motor screw, 10-15 LBS IN), and one on the ignition coil, screwed to the coil bracket (15-22 LBS IN) with its lead on the coil positive (+) terminal under the production coil nut.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "38869??",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – heater blower motor radio suppression",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "164352",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1947452",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – ignition coil radio suppression",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-22",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "heater blower motor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Capacitor [1] plugs in line at the blower motor connector (orange wire); its ground lead goes to the blower ground terminal, held under the production MOTOR screw (triangle 1, 10-15 LBS IN). The ground connector (black wires) joins there too. No separate fastener callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "ignition coil bracket",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [2] goes through the mounting tab of capacitor [3] into the coil mounting bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "ignition coil positive (+) terminal",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Capacitor [3] lead ring terminal goes on the coil (+) terminal stud under the production COIL nut.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Title block: UPC U69, sheet A4 (smudged; C/O box reads A4), model 19000, drawing 3965172, K426; L- 83324, 85990, 86674. Revision block empty.",
+    "Item 1: last two digits blotted (look like '65' but not legible); Vision OCR read 3886900. Left as 38869??.",
+    "Torque 1 triangle is on the production-part label MOTOR, not on a callout.",
+    "Drawing label spells 'HEATER BLOWER MOTER'."
+  ],
+  "revisions": [],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

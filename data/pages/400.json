@@ -1,0 +1,93 @@
+{
+  "page": 400,
+  "group": "NA9",
+  "sheet": "A1",
+  "title": "EVAP. EMISSION CONT. SYS. - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of option NA9, evaporative emission control system (California fuel vapor system): carburetor/insulator, engine-to-canister hoses, vapor lines and charcoal canister, fuel tank and vapor separator. Overview drawing shows where each sheet applies on the car.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "The following parts are released in UPC 0: CHART-ENG TUNE-UP STICKER"
+  ],
+  "notes_internal": [],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "6",
+      "text": "SHEET A3 CANCELLED",
+      "was": null,
+      "item": "A3"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "SHEET A4 TITLE RVD",
+      "was": null,
+      "item": "A4"
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "SHEET A5 CANCELLED",
+      "was": null,
+      "item": "A5"
+    }
+  ],
+  "options": [
+    "NA9"
+  ],
+  "tables": [
+    {
+      "title": "NA9 EVAP. EMISSION CONT. SYS. CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "CARB., INSULATOR & HEAT SHIELD"
+        ],
+        [
+          "A3",
+          "CANCELLED"
+        ],
+        [
+          "A4",
+          "ENG TO CANNISTER HOSES-EXC RPO LS7"
+        ],
+        [
+          "A5",
+          "CANCELLED"
+        ],
+        [
+          "A6",
+          "RPO LS7"
+        ],
+        [
+          "B1",
+          "FUEL VAPOR LINES & CANNISTER"
+        ],
+        [
+          "B2",
+          "FUEL TANK & SEPARATOR ASM."
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

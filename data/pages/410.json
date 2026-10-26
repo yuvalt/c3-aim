@@ -1,0 +1,321 @@
+{
+  "page": 410,
+  "group": "N14",
+  "sheet": "A3",
+  "title": "SIDE MOUNTED EXHAUST-MUFFLER & COVER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO N14 side mounted exhaust (side pipes): the muffler and tail pipe assembly runs along the rocker below the doors, covered by a ribbed shield (side pipe cover). The muffler hangs from the frame on rubber insulators with a bolt, retainer, washers and nut, plus a rear bracket screwed to the frame outer member; the cover is screwed to the body sill along its top edge and held by a nut at the front and a clamp-type bracket at the rear. Note: N14 was cancelled for 1970 (see N14 A1).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3972591-2",
+      "name": "SHIELD ASM.",
+      "name_expanded": "Shield assembly – side exhaust cover (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "454738",
+      "name": "SCREW",
+      "name_expanded": "Screw – shield rear end",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut – muffler hanger",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3863851",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949190",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – muffler hanger rubber",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3949189",
+      "name": "BOLT",
+      "name_expanded": "Bolt – muffler hanger",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3949191",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – muffler hanger",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3973869-70",
+      "name": "MUFF, EXHAUST & TAIL PIPE ASM.",
+      "name_expanded": "Muffler, exhaust & tail pipe assembly – side pipe (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3973871-2",
+      "name": "MUFF, EXHAUST & TAIL PIPE ASM.",
+      "name_expanded": "Muffler, exhaust & tail pipe assembly – side pipe (LH/RH), RPO LS5, LJ2 & LS7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9417706",
+      "name": "SCREW",
+      "name_expanded": "Screw – shield to body sill",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419303",
+      "name": "SCREW",
+      "name_expanded": "Screw – muffler bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3759924",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9414192",
+      "name": "SCREW",
+      "name_expanded": "Screw – shield rear bracket (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "145487",
+      "name": "NUT",
+      "name_expanded": "Nut – shield front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3966775-6",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – muffler rear (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "80-110",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "frame (hanger at outer member)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [7] goes down through retainer [8] and insulator [6], through the muffler [9] mounting tab, then a second insulator [6], washer [5], lock washer [4] and nut [3] from below (View C stack).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "12"
+      ],
+      "holds": [
+        "15",
+        "9"
+      ],
+      "to": "frame outer member",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bracket [15] at the rear of the muffler is held with screw [11] and nut [12]; .157-.161 dia. hole in the outer member located .25 and .85 per the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body sill along fender trimline",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Views B and top: screws [10] go through the top flange of the shield [1] into the body sill; several along its length; .204/.208 dia. (2) holes located .75, 1.50, 1.60 per the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body at front of shield",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: nut [14] holds the shield front end; body hole enlarged to a .25x.50 slot, 10.00 from the next slot, .30 below fender trimline.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear support bracket (View A)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [13] holds the strap/bracket that wraps the shield [1] at its rear end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear end of shield",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [2] at the rear lower end of the shield.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Dimension 1.70\" to be maintained for length of muffler.",
+    "HOLE ENLARGE TO .25x.50 SLOT",
+    ".25x.50 SLOT",
+    ".204/.208 DIA (2) HOLES",
+    ".157-.161 DIA. HOLE IN OUTER MEMBER"
+  ],
+  "notes_internal": [
+    "Item 11: torque triangle beside callout is empty (no number); torque_ref left null.",
+    "Callout [9] carries a half-filled circle symbol; meaning not given.",
+    "Circled numbers 5, 25, 50 near hole dimensions; no revision record entries, meaning unclear (likely dimension refs).",
+    "Screw [2] target surface not clear; placed from drawing position only.",
+    "Sheet not stamped canceled, but N14 A1 says RPO N14 cancelled."
+  ],
+  "revisions": [],
+  "options": [
+    "N14",
+    "LS5",
+    "LJ2",
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

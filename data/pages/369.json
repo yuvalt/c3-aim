@@ -1,0 +1,109 @@
+{
+  "page": 369,
+  "group": "LS7",
+  "sheet": "B1",
+  "title": "V-8 454 ENGINE H.D. RAD. SUPPORT & SEAL CUTTING",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. RPO LS7 454 heavy-duty V-8: radiator support assembly at the front of the engine compartment, with two .375 holes drilled through the upper support, production seal and production bracket, joined by a bolt, production lock washer, washer and nut. The RH bracket hole is elongated (View A) and the production radiator seal is cut down on the RH side only (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "10????4",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "333066",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9418992",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3966597",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Radiator support assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "production bracket",
+        "production seal"
+      ],
+      "to": "radiator support [4] upper member",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Bolt [3] goes from the front/bracket side through the production bracket, the production seal and the two .375 dia. holes drilled in the support [4]; production lock washer, washer [2] and nut [1] on the other end. Holes .96 apart (typical).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".375 DIA. (2) HOLES (THRU ALL PARTS)",
+    ".96 TYPICAL",
+    "NOTE: Elongate R.H. hole. (View A, .06)",
+    "NOTE: Cut seal to dimensions shown R.H. side only. (View B: .62 x 4.50)"
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED; revision 1 'SHEET CANCELED' 5-6-70.",
+    "Item 1 pn: hole punch wipes the middle digits; visible '10' ... '4'. Gap width suggests about 4 hidden digits (estimate only).",
+    "Item 1 has a torque triangle with no number in it, and the torque legend is blank: no torque recorded.",
+    "Support [4] marked ◑ (assembles same as production).",
+    "Model box reads 19400 as printed.",
+    "Title block: drawing 3965172; DR /CI, CK 5-9-69 CI, PREL 5-5-69, C/O L88-B1; L- 90836; K367 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-6-70",
+      "sym": "1",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -9,14 +9,14 @@ page,sheet,item,pn,issue,hint
 27,0/D7,,9985052,"registry has it, we don't",OPT
 29,0/D9,,9985198,"registry has it, we don't",SEALER-PLASTISOL
 37,1/A4,2,??54515-6,unreadable digits,no registry match
-37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
 37,1/A4,,..54516,"registry has it, we don't",REINF ASM-LOCK PILLAR
+37,1/A4,,..54515,"registry has it, we don't",REINF ASM-LOCK PILLAR
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
+39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
 39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
-39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
 44,1/A11,1,393????,unreadable digits,"registry: 3932970,3932950"
@@ -89,8 +89,8 @@ page,sheet,item,pn,issue,hint
 172,4/A4,5,3983392-3-4-5,OCR disagrees,registry agrees
 172,4/A4,14,446212,OCR disagrees,registry agrees
 172,4/A4,,3983394,"registry has it, we don't",SHIM
-172,4/A4,,3983395,"registry has it, we don't",SHIM
 172,4/A4,,3983393,"registry has it, we don't",SHIM
+172,4/A4,,3983395,"registry has it, we don't",SHIM
 174,4/A6,10,3774712,OCR disagrees,registry agrees
 177,5/A2,4,3948131,OCR disagrees,registry agrees
 178,5/A3,2,3921086,not in registry,
@@ -238,5 +238,60 @@ page,sheet,item,pn,issue,hint
 359,LS5/B3,1,39003??,unreadable digits,no registry match
 360,LS5/B4,1,????596,unreadable digits,no registry match
 361,LS5/B5,1,3????92,unreadable digits,no registry match
+369,LS7/B1,1,10????4,unreadable digits,no registry match
+373,LT1/A3,1,11?0900,unreadable digits,no registry match
+373,LT1/A3,5,3889313,torque ref 2 not in legend,
+373,LT1/A3,6,9418931,torque ref 3 not in legend,
+373,LT1/A3,10,180122,torque ref 2 not in legend,
+373,LT1/A3,12,9422297,torque ref 4 not in legend,
+374,LT1/A4,1,39??184,unreadable digits,no registry match
+375,LT1/A5,1,39?7154,unreadable digits,no registry match
+375,LT1/A5,3,3905297,OCR disagrees,
+375,LT1/A5,4,5361992,OCR disagrees,
+375,LT1/A5,6,7029199,OCR disagrees,
+375,LT1/A5,7,3932476,OCR disagrees,
+375,LT1/A5,8,9419004,OCR disagrees,
+375,LT1/A5,12,3942534,OCR disagrees,
+375,LT1/A5,2,9423575,torque ref 1 not in legend,
+375,LT1/A5,3,3905297,torque ref 2 not in legend,
+375,LT1/A5,3,3877480,torque ref 2 not in legend,
+375,LT1/A5,4,5361992,torque ref 3 not in legend,
+375,LT1/A5,8,9419004,torque ref 4 not in legend,
+375,LT1/A5,11,9419014,torque ref 4 not in legend,
+377,LT1/B1,1,????690,unreadable digits,no registry match
+379,M20/A2,1,37?9568,unreadable digits,no registry match
+381,M20/A4,1,39??620,unreadable digits,no registry match
+381,M20/A4,6,3718496,OCR disagrees,
+382,M20/A5,1,1481???,unreadable digits,no registry match
+385,M40/A3,1,?6439,unreadable digits,no registry match
+386,M40/A4,1,390544?,unreadable digits,no registry match
+388,M40/A6,1,941??22,unreadable digits,no registry match
+388,M40/A6,13,9779348,OCR disagrees,
+388,M40/A6,14,9419234,OCR disagrees,
+389,M40/A7,1,38???28,unreadable digits,no registry match
+391,M40/A9,1,44????,unreadable digits,no registry match
+392,M40/A10,1,3???472,unreadable digits,no registry match
+393,M40/A11,1,?887348,unreadable digits,no registry match
+394,M40/A12,1,????522,unreadable digits,no registry match
+395,M40/A13,1,??72247,unreadable digits,no registry match
+399,M40/A17,1,3?40917,unreadable digits,no registry match
+401,NA9/A2,1,3967???,unreadable digits,no registry match
+403,NA9/A4,1,3969876,OCR disagrees,
+403,NA9/A4,4,3786276,OCR disagrees,
+403,NA9/A4,7,3970076,OCR disagrees,
+403,NA9/A4,9,3973350,OCR disagrees,
+405,NA9/A6,1,398939?,unreadable digits,no registry match
+406,NA9/B1,1,3923???,unreadable digits,no registry match
+407,NA9/B2,7,3974645,OCR disagrees,
+407,NA9/B2,8,9421033,OCR disagrees,
+407,NA9/B2,9,3976009,OCR disagrees,
+409,N14/A2,1,39????9,unreadable digits,no registry match
+414,N40/A2,1,780??66,unreadable digits,no registry match
+422,UA6/A2,1,3929???,unreadable digits,no registry match
+428,U69/A4,1,38869??,unreadable digits,no registry match
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match
+431,U69/A7,7,6295129,OCR disagrees,
+431,U69/A7,8,8901504,OCR disagrees,
+433,U69/B1,1,384????,unreadable digits,no registry match
+435,U79/A1,1,73119?,unreadable digits,no registry match

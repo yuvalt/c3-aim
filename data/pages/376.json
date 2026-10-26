@@ -1,0 +1,247 @@
+{
+  "page": 376,
+  "group": "LT1",
+  "sheet": "A6",
+  "title": "V-8 ENG 350 CU IN SPEC HI PERF- FUEL PIPES, PUMP & TCS HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LT1 350 high-performance engine fuel feed: fuel pump (production mounting), the pipe from the pump to a tee near the carburetor, and pipes from the tee to the carburetor inlets; also the TCS (transmission controlled spark) solenoid bracket, held under a carburetor attaching nut, with the production solenoid screwed to it, and the TCS vacuum hoses.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3886152",
+      "name": "PIPE ASM.",
+      "name_expanded": "Fuel pipe assembly – tee to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3840846",
+      "name": "HOSE",
+      "name_expanded": "Hose – TCS (transmission controlled spark) vacuum hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3973444",
+      "name": "PIPE ASM.",
+      "name_expanded": "Fuel pipe assembly – fuel pump to tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "6440709",
+      "name": "PUMP ASM.",
+      "name_expanded": "Fuel pump assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3886153",
+      "name": "TEE",
+      "name_expanded": "Tee – fuel line",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3959444",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – TCS solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3917692",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "187875",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "15-25",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "fuel pump [4] outlet and tee [5]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pipe [3] (triangle 1) runs from the fuel pump [4] up the RH front of the engine to tee [5]; tube nut connections at both ends.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "tee [5] and carburetor fuel inlets",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pipe [1] (triangle 1) connects the tee [5] to the carburetor fuel inlets (callouts at both the LH-front and RH sides of the carburetor).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "production TCS solenoid (SOL, box A) and carburetor",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bracket [6] sits under a production carburetor attaching nut (CARB ATCH NUT) on the intake; screw [8] (triangle 2) fastens the production TCS solenoid to the bracket. Tee [5] sits next to the solenoid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "carburetor and TCS solenoid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Vacuum hose [2] runs between the carburetor and the TCS solenoid; push-on, no clamp shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "valve cover area at the solenoid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [7] is shown looped near the solenoid on the LH valve cover; its connection points are not clear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "engine (production)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fuel pump [4] carries the half-filled circle (assemble same as production); mounting not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Production Part"
+  ],
+  "notes_internal": [
+    "Legend triangle numbers 1 and 2 readable at 600 dpi.",
+    "Hose [7] pn 3917692 was removed by rev 1 and re-added as item 7 by rev 4; routing/ends of [7] unclear.",
+    "Rev 2 mentions an item 9 pipe that is no longer in the callout list (rev 5: 3986350 pipe removed).",
+    "Circled revision symbols: 1 and 4 beside item 7; 2, 3, 5, 6 beside the list; 3 and 6 near CARB.",
+    "Half-filled circle at [4]; filled-square CARB label = production carburetor. Page stamped K374; C/O 10-22-69."
+  ],
+  "revisions": [
+    {
+      "date": "1-15-70",
+      "sym": "1",
+      "text": "3917692 HOSE REMOVED",
+      "was": "3917692",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 9 PIPE ADDED",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "PROD HOSE DWG ADDED (2) PLACES",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-18-70",
+      "sym": "4",
+      "text": "ITEM 7 ADDED",
+      "was": null,
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "3986350 PIPE REMOVED",
+      "was": "3986350",
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "PROD HOSE REMOVED (2 PLACES)",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

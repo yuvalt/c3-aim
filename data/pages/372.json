@@ -1,0 +1,157 @@
+{
+  "page": 372,
+  "group": "LT1",
+  "sheet": "A2",
+  "title": "V-8 ENG. 350 CU. IN. SPEC. HI PERF.- NON-ILLUSTRATED PARTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "RPO LT1 (350 cu in special high-performance V-8 / solid-lifter small block): list of LT1-related components not drawn in this option section (underbody upholstery items, rear hubs, engine, crankcase ventilation, fan & drive, air cleaner, throttle control, A/C compressor, generator, distributor, fuel tank, fuel lines, exhaust, instruments). Most assemble the same as production; the differential and axle shafts assemble as RPO LS5, the carburetor as RPO LJ1-LJ2. Part numbers are in the parts list or bill of material.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers.",
+    "◑ Assemble same as production. See Parts List or Bill of Material for part numbers."
+  ],
+  "notes_internal": [
+    "Title block UPC box prints 'LT-1'; group normalised to RPO code LT1 (neighbouring sheets print 'LT1').",
+    "A06 is printed in the UPC column as 'UPC A06' (no UPC number); written as-is.",
+    "11D HOOD line reads 'Assembles same as RPO' with no RPO code printed.",
+    "Circled revision 1 beside 8C line. No parts/fastening: list sheet only. Page stamped K370. C/O A2."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "UPC8-8C ADDED",
+      "was": null,
+      "item": "8C"
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [
+    {
+      "title": "NON-ILLUSTRATED PARTS",
+      "columns": [
+        "UPC",
+        "code",
+        "name",
+        "assembles same as"
+      ],
+      "rows": [
+        [
+          "A06",
+          "A06",
+          "UNDERBODY UPHOLSTERY ITEMS",
+          "PROD."
+        ],
+        [
+          "4",
+          "4A1",
+          "DIFFERENTIAL CARRIER & AXLE SHAFTS",
+          "RPO LS5"
+        ],
+        [
+          "4",
+          "4A5",
+          "REAR HUBS & BEARINGS",
+          "PROD."
+        ],
+        [
+          "6",
+          "6",
+          "ENGINE",
+          "PROD."
+        ],
+        [
+          "6",
+          "6H",
+          "ENGINE VENTILATING SYSTEM",
+          "PROD."
+        ],
+        [
+          "6",
+          "6K1",
+          "FAN & DRIVE",
+          "PROD."
+        ],
+        [
+          "6",
+          "6M1",
+          "CARBURETOR",
+          "RPO LJ1-LJ2"
+        ],
+        [
+          "6",
+          "6M3",
+          "AIR CLEANER & SILENCER",
+          "PROD."
+        ],
+        [
+          "6",
+          "6N2",
+          "THROTTLE CONTROL FOR ACCELERATOR PEDAL OPERATION",
+          "PROD."
+        ],
+        [
+          "6",
+          "6T",
+          "AIR COMPRESSOR",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Y1",
+          "GENERATOR & REGULATOR",
+          "PROD. & RPO LS5"
+        ],
+        [
+          "6",
+          "6Y3",
+          "DISTRIBUTOR",
+          "PROD."
+        ],
+        [
+          "8",
+          "8A",
+          "FUEL TANK, MOUNTINGS & TANK GAUGE UNIT",
+          "PROD."
+        ],
+        [
+          "8",
+          "8B",
+          "FUEL LINES",
+          "PROD."
+        ],
+        [
+          "8",
+          "8C",
+          "EXHAUST PIPE, MUFFLER & TAIL PIPE",
+          "PROD."
+        ],
+        [
+          "11",
+          "11D",
+          "HOOD",
+          "RPO (no code printed)"
+        ],
+        [
+          "12",
+          "12J",
+          "INSTRUMENT CARRIER PANEL AND, OR INSTRUMENTS",
+          "PROD."
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "page": 415,
+  "group": "N40",
+  "sheet": "A3",
+  "title": "HYDRAULIC STEERING-CYLINDER & BRACKET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power steering (N40) power cylinder (ram) under the front of the car: the cylinder's ball stud bolts into the relay rod (center link) with a castle nut and cotter pin, and its rod end passes through a bracket hung from the frame, cushioned by grommets, retainers and a spacer and held by a nut and cotter pin. The bracket bolts onto two studs that belong to a reinforcement inside the frame rail (no separate studs).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "5691112",
+      "name": "CYLINDER ASM.",
+      "name_expanded": "Power steering cylinder (power cylinder / ram) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3832132",
+      "name": "REINF. ASM.",
+      "name_expanded": "Reinforcement assembly – frame, with two studs for the cylinder bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9417954",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103373",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3829413",
+      "name": "NUT",
+      "name_expanded": "Nut – cylinder rod end",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3709454",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – rod end grommet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3709452",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – rod end (rubber bushing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3794056",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3709917",
+      "name": "SPACER",
+      "name_expanded": "Spacer – rod end",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3832131",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – power cylinder rod to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3952703",
+      "name": "RELAY & TIE ROD ASM.",
+      "name_expanded": "Relay rod (center link) & tie rod assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "108630",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "102647",
+      "name": "NUT",
+      "name_expanded": "Nut – cylinder ball stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-26",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "42-47",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4h",
+      "description": "GREASE",
+      "amount": ".020 LBS.",
+      "where": "relay rod ball joint at the left of the drawing"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "frame, via reinforcement [2]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Reinforcement [2] sits inside the frame rail with two studs (part of [2], no separate callout) pointing down through the frame; bracket [11] goes on the studs and is held by lock washers [3] and nuts [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "8",
+        "10",
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket [11]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Cylinder rod end passes through bracket [11]: retainer [7] and grommet [8] on the inner side, spacer [10] on the rod through the bracket, then grommet [8], retainer [7], nut [6] and cotter pin [5] on the outer side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "relay rod [12]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Cylinder ball stud end goes into the relay rod [12] from above; nut [14] with cotter pin [13] underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "relay rod [12]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the cylinder's clamp on the relay rod is centered 1/2 ± 1/16 from the end of the rod; position LH inner clamp with slot downward ±10° rearward & forward. The clamp is part of the relay/tie rod assembly (no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [],
+      "to": "arm (UPC 3) end of relay rod",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [9] drops into a hole in the end of the relay rod at the arm; its purpose is not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12"
+      ],
+      "to": "arm (UPC 3)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Relay & tie rod assembly [12] attaches to the arm with attaching parts listed in UPC 9 (not on this sheet).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 4h GREASE .020 LBS.",
+    "VIEW A: 1/2 ± 1/16 from end to clamp centerline.",
+    "NOTE Position L.H. inner clamp with slot downward ± 10° rearward & forward."
+  ],
+  "notes_internal": [
+    "Item 14 nut with torque 3 shown at the left where the cylinder ball stud meets the relay rod; the ball stud end of the cylinder [1] is inferred from the callout [1] pointing to the cylinder body there.",
+    "Torque triangles 4 and 5 in the legend are blank.",
+    "Rivet [9]: purpose not shown; described as drawn.",
+    "Revision date written '5-2?-70' style: reads '5-27-70' with merged hyphen.",
+    "Title block: drawing 3965172; DR DP/C1, CK 5-6-69 C1, PREL 5-1-69, C/O A3; K413 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-27-70",
+      "sym": "1",
+      "text": "REINF DRAWING REVISED",
+      "was": null,
+      "item": "2"
+    }
+  ],
+  "options": [
+    "N40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

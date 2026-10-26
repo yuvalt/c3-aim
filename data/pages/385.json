@@ -1,0 +1,208 @@
+{
+  "page": 385,
+  "group": "M40",
+  "sheet": "A3",
+  "title": "3-SPEED AUTO TRANS.-TRIM PLATE & SEALS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic transmission (M40) shifter area on the floor tunnel: the console shift trim plate (shifter bezel), shift knob with push button and spring, the shift lever and bracket assembly, and the tunnel shifter opening seal stack (plate, seal, retainer). The plate is riveted to the tunnel (production rivets), the seal sits on it and the retainer and lever bracket are screwed down through the stack with screw assemblies; View A gives the tunnel hole pattern to drill.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "?6439",
+      "name": "BUTTON",
+      "name_expanded": "Button - shift knob push button",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3843126",
+      "name": "SPRING",
+      "name_expanded": "Spring - shift knob button",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3877973",
+      "name": "KNOB",
+      "name_expanded": "Knob - shift lever (automatic)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963149",
+      "name": "PLATE ASM.-TRIM",
+      "name_expanded": "Plate assembly - console shift trim plate (shifter bezel/indicator plate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419322",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3922321",
+      "name": "RETAINER",
+      "name_expanded": "Retainer - shifter opening seal, on tunnel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3922319",
+      "name": "SEAL",
+      "name_expanded": "Seal - shifter opening in floor tunnel (shifter boot)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3922322",
+      "name": "PLATE",
+      "name_expanded": "Plate - shifter opening, floor tunnel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3921660",
+      "name": "LEVER & BRKT ASM",
+      "name_expanded": "Lever and bracket assembly - automatic shift lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "floor tunnel",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Plate [8] is fastened to the tunnel with production rivets (PROD. RIVET, no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "plate [8] / floor tunnel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Retainer [6] clamps seal [7] over plate [8]; screw assemblies [5] go down through retainer and seal into the tunnel holes (View A: eleven 1/4 dia holes, drilled using the countersunk hole as locator and retainer [6] as template).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "retainer [6] / tunnel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Lever and bracket assembly [9] screwed down with screw assemblies [5]; one more corner uses a production screw (PROD SCREW SEE UPC 7). A production clip on the bracket (see UPC 12) is shown at the RH screw.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "shift lever of [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Knob [3] goes on the top of the lever with spring [2] and button [1] in its top; retention method not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "console",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Trim plate [4] sits in the console (CONSOLE ASM. SEE U.P.C. 1); attachment not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CONSOLE ASM.-SEE U.P.C. 1",
+    "PROD SCREW SEE UPC 7",
+    "PROD CLIP SEE UPC 12",
+    "NOTE Enlarge existing trans hole as shown.",
+    "1/4 +0/-1/64 DIA. (11) HOLES USE C'SUNK HOLE AS LOCATOR & [6] AS TEMPLATE",
+    "DIMPLE 7/32 +0/-1/64 DIA HOLE C'SINK 100° TO .361 ±.0? (tolerance digits unclear)",
+    "View A dimensions: 1.05 R. (TYPICAL), 2.13 R., 1.05, 1.47"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the leading digits; visible '6439'. Digit count unknown.",
+    "Countersink tolerance after '.361 ±' smudged ('.8,' / '.01'?); left as ?.",
+    "Exact count of screws [5] per part not readable: two shown at the bracket [9] and two at the retainer [6] near the RH side.",
+    "Filled-square HOLES and DIMPLE tags mark hole locations in View A (no legend).",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 4-29-69, C/O A3; L-85169, 84225, 88646, 82113, 85570; K383 in margin. Revision block empty."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

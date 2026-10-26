@@ -1,0 +1,56 @@
+{
+  "page": 434,
+  "group": "U69",
+  "sheet": "B2",
+  "title": "RADIO FM-ANTENNA CABLE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Routing of the U69 AM/FM radio antenna lead-in cable (part of the radio antenna, no separate part number on this sheet): it plugs into the radio receiver under the instrument panel (View A), runs down behind the trim panel and back along the door sill and up the rear of the door opening in clips with the rear wiring harness, then along the rear fender to the fender-mounted antenna (see sheet B1).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "A"
+      ],
+      "to": "instrument panel wiring harness and body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips (no callout or part number) hold cable [A] to the instrument panel wiring harness behind the dash.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "A"
+      ],
+      "to": "rear wiring harness along the door sill and door opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips (no callout) hold cable [A] together with the rear wiring harness along the sill, up the rear edge of the door opening and back along the rear fender to the antenna.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "A: Cable part of RDO ANT"
+  ],
+  "notes_internal": [
+    "No parts list or torque legend on this sheet; cable [A] is a code letter, not an item number, and has no pn here (part of radio antenna).",
+    "Clips have no callout or part number.",
+    "View A: cable plugs into the antenna jack at the side of the receiver asm; receiver is not a part of this sheet."
+  ],
+  "revisions": [],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

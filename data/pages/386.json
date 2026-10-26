@@ -1,0 +1,207 @@
+{
+  "page": 386,
+  "group": "M40",
+  "sheet": "A4",
+  "title": "3 SPEED AUTO TRANS-TO ENGINE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic transmission (M40 Turbo Hydra-Matic 400) to engine: transmission assembly by engine (350, LS5 454, LS7 454), the fluid dipstick (gage) and its filler tube with seal into the transmission pan, and fill instructions with an oil-level vs. temperature chart. Two bolts through the bellhousing into the engine also hold the dipstick tube bracket and the battery cable clip; the filler tube pushes into the pan with a seal. Fluid 1.187 gal; chassis grease on the propeller shaft (driveshaft) front yoke.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "390544?",
+      "name": "GAGE ASM",
+      "name_expanded": "Gage assembly - transmission fluid dipstick",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "179842",
+      "name": "BOLT",
+      "name_expanded": "Bolt - transmission to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8626653",
+      "name": "TRANS ASM-\"350\" ENG",
+      "name_expanded": "Transmission assembly - automatic, with 350 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8626656",
+      "name": "RPO LS5",
+      "name_expanded": "Transmission assembly - automatic, with RPO LS5 (454) engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8626659",
+      "name": "RPO LS7",
+      "name_expanded": "Transmission assembly - automatic, with RPO LS7 (454 HD) engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3974420",
+      "name": "TUBE ASM",
+      "name_expanded": "Tube assembly - transmission filler (dipstick) tube",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1164253",
+      "name": "SEAL",
+      "name_expanded": "Seal - filler tube to transmission pan",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "2a",
+      "code": "2a",
+      "description": "FLUID",
+      "amount": "1.187 GAL.",
+      "where": "transmission, filled through the filler tube / gage [1]"
+    },
+    {
+      "key": "2b",
+      "code": "2b",
+      "description": "",
+      "amount": "",
+      "where": "View A, seal [5] at the filler tube [4] lower end"
+    },
+    {
+      "key": "4g",
+      "code": "4g",
+      "description": "GREASE CHASSIS",
+      "amount": ".02 LBS.",
+      "where": "propeller shaft front slip yoke at the transmission output"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "engine block (bellhousing, RH side)",
+      "qty": "2 shown",
+      "torque_ref": "1",
+      "note": "Bolts [2] go through the transmission bellhousing flange into the engine. Upper bolt also passes through the bracket on the dipstick/filler tube; lower bolt also holds the battery cable clip (see UPC 12). Remaining bellhousing bolts not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "how": "seals",
+      "holds": [
+        "4"
+      ],
+      "to": "transmission oil pan boss",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: filler tube [4] pushes into the pan boss with seal [5]; seal lubricated with 2b. Tube held at the top by the bracket under bolt [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "filler tube [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Dipstick (gage) [1] inserts into the top of the filler tube.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "MODULATOR PIPE",
+    "BATTERY CABLE CLIP-SEE UPC 12",
+    "Filling: 1) Add the specified fluid through the filler tube before starting the engine. 2) With the transmission in neutral and throttle on fast idle cam, start the engine and run one minute.",
+    "3) With engine idling in neutral, oil level must be within 1/4 inch of the point on the gage given by the chart.",
+    "CAUTION: vehicle must not be driven with fluid more than 1 inch above or below \"FULL MARK\"."
+  ],
+  "notes_internal": [
+    "Item 1: last digit cut by hole punch; visible '390544'.",
+    "Legend 2b has no description printed (likely same fluid as 2a).",
+    "Oil level chart: straight line from about 185 F at FULL MARK down to 50 F at about 1.2 in below; ADD MARK at .58 in below. Values approximate from the graph, not tabulated.",
+    "Circled 7 next to the 4g legend = revision 7; circled 8 at propeller shaft = revision 8; circled 9 under chart = revision 9.",
+    "Revision 7 text reads 'SYMBOL 4g ADDED' (handwritten '49' style = 4g).",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 4-29-69, C/O A4; L-85242, 84769; K384 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "12-19-69",
+      "sym": "7",
+      "text": "SYMBOL 4g ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "PROP SHAFT REF ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "CHART REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

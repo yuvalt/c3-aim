@@ -1,0 +1,168 @@
+{
+  "page": 390,
+  "group": "M40",
+  "sheet": "A8",
+  "title": "3 SPEED AUTO. TRANS.-CONTROL SWITCH, WIRING & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic-transmission detent (kickdown/downshift) switch on the accelerator pedal rod support under the dash (RPO M40 Turbo Hydra-Matic). The switch is screwed to a bracket, and the bracket is bolted with a washer to the accelerator pedal rod support; the engine wiring harness plugs into the switch and passes through a firewall grommet. View A shows the 4.40 in. gauged dimension of the accelerator cable at the carburetor lever used for adjustment.",
+  "parts": [
+    {
+      "item": "2",
+      "pn": "3986863",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – transmission detent (downshift) switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419400",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3954658",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3972632",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – detent switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "40-60",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "75-95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: screw [3] holds the switch [2] to the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "accelerator pedal rod support",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: screw [4] with washer [5] holds the bracket [6] to the accelerator pedal rod support (support's own attaching parts: see UPC 6).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "4.40 GAGED DIM. (View A, accelerator cable (D) at carburetor lever)",
+    "GROMMET (SEE UPC 12)",
+    "ACCEL. PEDAL ROD SUPP. ATTACHING PARTS - (SEE UPC 6)",
+    "View B labels DRIVER (A) and PIN (B) at the switch; the switch installation procedure text under its heading is blank on this scan."
+  ],
+  "notes_internal": [
+    "Item 1 line is blank (pn and name removed); revision 2 says 6295068 wire removed, so item 1 is left out of parts.",
+    "Circled 2 and 5 beside the item 2 line: revisions 2 and 5.",
+    "Circled 3 near the engine harness and circled 4 near the connector in the main view: revisions 3 and 4.",
+    "Legend shows torques 1-2 only; triangle 1 carries circled 1 (revision 1)."
+  ],
+  "revisions": [
+    {
+      "date": "6-19-69",
+      "sym": "1",
+      "text": "TORQUE 1-2 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-27-70",
+      "sym": "2",
+      "text": "6295068 WIRE REMOVED",
+      "was": "6295068",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "ENG. WRG. HARN. REF ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "\"IGN\" NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-10-70",
+      "sym": "5",
+      "text": "WAS 1253031 SWITCH",
+      "was": "1253031",
+      "item": "2"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

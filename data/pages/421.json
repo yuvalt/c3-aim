@@ -1,0 +1,56 @@
+{
+  "page": 421,
+  "group": "UA6",
+  "sheet": "A1",
+  "title": "ANTI-THEFT ALARM - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "RPO UA6 anti-theft alarm: contents of the UA6 sheets, with an overview drawing of the car showing where each part of the alarm system goes (door jamb and hood switches and instrument panel wiring on A2, body wiring and relay on A3, horn and switch at the rear on A4).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Title block: UPC UA6, sheet A1, model 19000, C/O A1, drawing 3965172, K419. Revision block empty.",
+    "Overview drawing tags: A2 (dash/under hood and door jamb), A3 (behind seat area), A4 (rear deck)."
+  ],
+  "revisions": [],
+  "options": [
+    "UA6"
+  ],
+  "tables": [
+    {
+      "title": "ANTI-THEFT ALARM CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "DOOR JAMB, HOOD SWITCH & INSTRUMENT PANEL WIRING"
+        ],
+        [
+          "A3",
+          "BODY WIRING & RELAY MOUNTING"
+        ],
+        [
+          "A4",
+          "HORN & SWITCH MOUNTING"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "page": 405,
+  "group": "NA9",
+  "sheet": "A6",
+  "title": "EVAP EMISSION CONT-ENG TO CANNISTER HOSES-RPO LS7",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS7 engine evaporative emission (EEC) hoses: three hoses run from the carburetor fittings back along the engine to the charcoal canister (cannister), and a PCV valve hose tees into the line. Hose ends are held with clamps, the hose bundle is tied to the vacuum hoses with a strap and a clip near the firewall. Related sheets: NA9 B1, B2 (fuel vapor lines, tank & separator).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "398939?",
+      "name": "HOSE",
+      "name_expanded": "Hose – carburetor to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3989396",
+      "name": "HOSE",
+      "name_expanded": "Hose – carburetor to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3967088",
+      "name": "HOSE",
+      "name_expanded": "Hose – carburetor to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3970076",
+      "name": "TEE",
+      "name_expanded": "Tee – hose connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap – hose bundle",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9770783",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3973326",
+      "name": "HOSE",
+      "name_expanded": "Hose – to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3973322",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV valve to tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3"
+      ],
+      "to": "carburetor fittings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clamps [4] on the hose ends at the carburetor fittings (circled 1, 2, 3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "PCV valve",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamp [4] on hose [9] at the PCV valve in the valve cover.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "tee [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [9] runs from the PCV valve to tee [5]; clamp [4] at the tee joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [],
+      "to": "tee [5] outlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamp [7] on the hose at the other side of tee [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3"
+      ],
+      "to": "vacuum hoses",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Strap [6] bundles the canister hoses together with the vacuum hoses; a separate (uncalled) clip holds the bundle just below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "7"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "8"
+      ],
+      "to": "canister (cannister) nipples",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses push onto the canister top nipples; clamp [4] at the left nipple and clamp [7] at the right nipple.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: last digit cut off/smudged at 600 dpi; reads 398939? (OCR says 1, not used).",
+    "Exact routing of each hose [1]/[2]/[3]/[8] to individual canister nipples is not clearly traceable; fastening describes clamp locations only.",
+    "Rev 4/5/6 old pns are handwritten and partly illegible.",
+    "Clip near firewall has no callout; listed in strap fastening note."
+  ],
+  "revisions": [
+    {
+      "date": "8-28-6?",
+      "sym": "1",
+      "text": "HOSE DWG. REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-31-69",
+      "sym": "2",
+      "text": "CARB. DWG. REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-18-69",
+      "sym": "3",
+      "text": "TEE & PIPE DRAWING REV'D (2) PLACES",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "4-24-70",
+      "sym": "4",
+      "text": "WAS 3969?92 HOSE",
+      "was": "3969?92",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "WAS 3973350 HOSE",
+      "was": "3973350",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "WAS 39??87? HOSE",
+      "was": "39??87?",
+      "item": "3"
+    }
+  ],
+  "options": [
+    "NA9",
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

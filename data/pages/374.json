@@ -1,0 +1,263 @@
+{
+  "page": 374,
+  "group": "LT1",
+  "sheet": "A4",
+  "title": "V-8 ENG 350 CU. IN. SPEC. HI-PERF.- PULLEYS & BELTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LT1 350 high-performance engine front drive: crankshaft, water pump and A.I.R. (smog) pump pulleys and the generator, water pump/fan and A.I.R. pump belts. The A.I.R. pump pulley bolts to the pump hub over a spacer; the front crank pulley bolts to the crank pulley/balancer; the water pump pulleys and fan clutch go on production studs with production nuts. View A shows the water pump bearing hub shield.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39??184",
+      "name": "SPACER",
+      "name_expanded": "Spacer – A.I.R. pump pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3847704",
+      "name": "BELT-GEN.",
+      "name_expanded": "Belt – generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3883235",
+      "name": "PULLEY-W/PUMP",
+      "name_expanded": "Pulley – water pump (rear groove pulley)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3935420",
+      "name": "BELT-W/PUMP FAN",
+      "name_expanded": "Belt – water pump / fan",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3858533",
+      "name": "PULLEY",
+      "name_expanded": "Pulley – crankshaft (front, A.I.R. pump drive)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "446212",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "181629",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3883235",
+      "name": "PULLEY-W/PUMP FRONT",
+      "name_expanded": "Pulley – water pump, front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3881872",
+      "name": "BELT-A.I.R. PUMP",
+      "name_expanded": "Belt – A.I.R. (air injection / smog) pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419008",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3917234",
+      "name": "PULLEY-A.I.R. PUMP",
+      "name_expanded": "Pulley – A.I.R. (smog) pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "60-90",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "75-95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "12",
+        "1"
+      ],
+      "to": "A.I.R. pump hub",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolts [10] (triangle 3) with lock washers [11] go through the A.I.R. pump pulley [12] and spacer [1] into the pump hub. Pulley has a stamped part number on its face.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "crankshaft balancer / production crank pulley",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [7] (triangle 1) with washers [6] fasten the front crank pulley [5] to the crankshaft pulley/balancer. The center production bolt with lock washer and washer (triangle 2, no callout) is production.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8",
+        "3"
+      ],
+      "to": "water pump hub",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Fan, fan clutch and both water pump pulleys ([8] front, [3] rear) go onto production studs in the water pump hub and are held by production lock washers and nuts (box B = production parts; no callouts for them).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "4",
+        "9"
+      ],
+      "to": "pulleys",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Belt routing per drawing: generator belt [2], water pump/fan belt [4] and A.I.R. pump belt [9] (crank pulley to pump pulley [12]). Box A = belt strand tension, see UPC 6.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Belt strand tension - See UPC 6",
+    "[B] Production parts",
+    "[C] Shield must remain on water pump bearing hub until water pump pulley is installed."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch over digits 3-4 ('39' + two damaged glyphs + '184').",
+    "Legend triangle numbers read at 600 dpi: 1 clear, 2 and 3 faint but legible.",
+    "Items 3 and 8 share pn 3883235 as printed.",
+    "Spacer [1] position (between pump hub and pulley [12]) read from the leader line; clear enough but small.",
+    "View A (circled 2) shows the water pump hub with shield labelled 'ENG' (filled square) and note C (circled 3). Page stamped K372; PREL A4, C/O 2-21-69."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "WAS 3848904 PULLEY",
+      "was": "3848904",
+      "item": "3"
+    },
+    {
+      "date": "11-18-69",
+      "sym": "2",
+      "text": "VIEW \"A\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "NOTE \"C\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

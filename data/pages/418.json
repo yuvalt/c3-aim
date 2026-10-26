@@ -1,0 +1,270 @@
+{
+  "page": 418,
+  "group": "N40",
+  "sheet": "A6",
+  "title": "HYDRAULIC STEERING-PUMP MOUNTING & BELTS (454 ENG.)",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power steering (N40) pump mounting on the 454 big-block engine: a bracket bolts to the front of the engine with two bolts, and the pump hangs on it by its own studs (no separate studs) with plain washers, lock washers and nuts, the rear stud going through a slotted brace for belt adjustment. The pump pulley is held by a nut, and two belts (2nd and 3rd tracks) drive it.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "120377",
+      "name": "NUT",
+      "name_expanded": "Nut – pump stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "7808286",
+      "name": "PUMP",
+      "name_expanded": "Power steering pump (with reservoir)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3824475",
+      "name": "NUT",
+      "name_expanded": "Nut – pump pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3878245",
+      "name": "PULLEY",
+      "name_expanded": "Pulley – power steering pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "180120",
+      "name": "BOLT",
+      "name_expanded": "Bolt – bracket to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9417756",
+      "name": "BOLT",
+      "name_expanded": "Bolt – bracket to engine (long)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3887107",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – power steering pump mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3940992",
+      "name": "BELT (2ND TRACK)",
+      "name_expanded": "Drive belt – 2nd track",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3845642",
+      "name": "BELT (3RD TRACK)",
+      "name_expanded": "Drive belt – 3rd track (power steering)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "55-70",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "12-17",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "35-55",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8",
+        "2"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "front of engine",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Long bolt [8] with lock washer [2] goes from the front through the upper hole of bracket [9] into the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "2"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "front of engine",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Bolt [7] with lock washer [2] goes through the lower hole of bracket [9] into the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "bracket [9]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pump [4] has its own mounting studs (no callout); front stud passes through the slotted ear of bracket [9] and takes plain washer [3], lock washer [2] and nut [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "2",
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "slotted rear brace on the engine",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Second pump stud goes through the slotted brace at the rear and takes plain washer [3], lock washer [2] and nut [1]. The brace itself has no callout on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "pump shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [5] retains pulley [6] on the pump shaft (see A5 for pulley procedure).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10",
+        "11"
+      ],
+      "to": "crankshaft, water pump and pump pulleys",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: belt [10] runs in the 2nd track and belt [11] in the 3rd track to the power steering pump pulley. Note A: for belt tensioning see UPC 6.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] For belt tensioning-See UPC 6."
+  ],
+  "notes_internal": [
+    "Which stud belongs to the pump vs. the bracket is read from the phantom outlines; the rear slotted brace is drawn but not called out.",
+    "Torque triangle 5 in the legend is blank.",
+    "Only revision 2 listed (no revision 1 line printed).",
+    "Title block: drawing 3965172; L-94716; DR DP/C1, CK 4-18-69 C1, PREL A2 3-27-69 (C/O struck); K416 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "12-23-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED 26736",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N40",
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

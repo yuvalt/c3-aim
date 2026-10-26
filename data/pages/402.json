@@ -1,0 +1,229 @@
+{
+  "page": 402,
+  "group": "NA9",
+  "sheet": "A3",
+  "title": "EVAP EMISSION CONT. SYS.-CARBS., INSULATOR & HEAT SHIELD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "Canceled sheet: tri-power (three 2-barrel carburetor, RPO LJ2) carb setup for NA9 evap cars. Primary and two secondary carburetors sit on insulators over a heat shield on the manifold studs, held by nuts and bolts; choke rod with retainer (View A).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3967489",
+      "name": "CARBURETOR ASM.-PRIMARY",
+      "name_expanded": "Carburetor assembly – primary (center)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3967480",
+      "name": "CARBURETOR ASM.-PRIMARY",
+      "name_expanded": "Carburetor assembly – primary, RPO M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9431599",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3967485",
+      "name": "CARBURETOR ASM.-SECONDARY",
+      "name_expanded": "Carburetor assembly – secondary (front/rear)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3967486",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3967466",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator (bushing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3967490",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator (carb base gasket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3967491",
+      "name": "SHIELD",
+      "name_expanded": "Shield – heat shield under carbs",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3967495",
+      "name": "ROD",
+      "name_expanded": "Rod – choke",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3975993",
+      "name": "CHOKE ASM.",
+      "name_expanded": "Choke assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9431655",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (choke rod clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14-18",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "1",
+        "3",
+        "6",
+        "7"
+      ],
+      "to": "intake manifold studs",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Carburetors [1] and [3] sit on insulators [6] over the heat shield [7] on manifold studs; nut [4] over insulator bushing [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1",
+        "3",
+        "6",
+        "7"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolts [2] go down through the carburetor bases into the manifold.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rod [8] from choke [9] clipped to the carb lever with retainer [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: choke [9] held by a production screw (PROD. SCREW, no callout).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "PROD. SCREW"
+  ],
+  "notes_internal": [
+    "Item 2 triangle is empty (no number printed); torque_ref left null.",
+    "Two extra item-1 lines in the callout list are blank (no pn).",
+    "Model box: 19000-RPO LJ2."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "7",
+      "text": "CANCELLED STICKER ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "NA9",
+    "LJ2",
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

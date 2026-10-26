@@ -1,0 +1,395 @@
+{
+  "page": 412,
+  "group": "N37",
+  "sheet": "A1",
+  "title": "TILT & TELESCOPIC STEERING WHEEL ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO N37 tilt & telescopic steering column and wheel: exploded stack on the column shaft from the column up - lower horn contact, hub, extension, steering wheel (held by the production column nut and washer), spacer, telescope locking lever, shim, upper horn contact and the horn cap (horn button). The parts are held by small screws; also shows the tilt lever and knob, hazard knob, and a View A clearance note at the lower instrument panel. Grease is applied at the locking lever.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3952780",
+      "name": "CAP-HORN",
+      "name_expanded": "Horn cap – horn button / center cap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3949107",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949103",
+      "name": "CONTACT ASM.-UPPER",
+      "name_expanded": "Contact assembly – horn, upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3910765",
+      "name": "SHIM",
+      "name_expanded": "Shim",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420455",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949135",
+      "name": "SCREW",
+      "name_expanded": "Screw – telescope locking lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3949108",
+      "name": "LEVER",
+      "name_expanded": "Lever – telescope locking",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3952781",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9428089",
+      "name": "SCREW",
+      "name_expanded": "Screw – steering wheel",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3949109",
+      "name": "EXTENSION",
+      "name_expanded": "Extension – steering wheel hub",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949110",
+      "name": "HUB ASM.",
+      "name_expanded": "Hub assembly – steering wheel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3949105",
+      "name": "CONTACT ASM.-LOWER",
+      "name_expanded": "Contact assembly – horn, lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9424809",
+      "name": "SCREW",
+      "name_expanded": "Screw – lower contact",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3832567",
+      "name": "LEVER",
+      "name_expanded": "Lever – tilt / turn signal (View B)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3921449",
+      "name": "KNOB",
+      "name_expanded": "Knob – lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "7811526",
+      "name": "COLUMN ASM.",
+      "name_expanded": "Column assembly – tilt & telescopic steering column",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "396256",
+      "name": "KNOB ASM.-HAZARD",
+      "name_expanded": "Knob assembly – hazard warning switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "25-35",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "5",
+      "value": "3-5",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "1p",
+      "description": "GREASE",
+      "amount": ".004 LBS.",
+      "where": "locking lever [7] at screw [6]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "11",
+        "10",
+        "8"
+      ],
+      "to": "column shaft",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Steering wheel with hub [11], extension [10] and spacer [8] goes on the column shaft splines; held by the production column nut and washer (no callouts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "steering wheel / hub [11]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screws [9] go through the wheel spokes to join wheel, extension [10] and hub [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "column [16] upper end",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screws [13] hold the lower horn contact [12] at the top of the column.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "top of steering shaft",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [6] holds the telescope locking lever [7]; grease 1p applied here.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "lever [7] / wheel hub",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw [5] holds shim [4] in the stack above lever [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "stack below horn cap",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screws [2] hold the upper horn contact [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "upper contact [3]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Horn cap [1] snaps onto the upper contact [3]; no fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "14",
+        "15"
+      ],
+      "to": "column [16]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: lever [14] and knob [15] on the column; 0.150\" clearance shown at the horn cap.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "17"
+      ],
+      "to": "column [16]",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Hazard knob [17] screws onto the hazard switch stem at the column.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Maintain minimum .060 clearance between lower edge of rotating shift bowl and adjacent lip on L.H. lower I.P. and I.P. cover.",
+    "NOTE This area to be free of paint both sides.",
+    "CAUTION Position horn contact tower so that it will engage hole in steering wheel before installing wheel.",
+    "0.150\" CLEARANCE"
+  ],
+  "notes_internal": [
+    "Item 17 printed with six digits (396256) as copied.",
+    "Torque 4 (25-35 LBS FT) is on the production column nut ('COLUMN' callout), not a listed item.",
+    "Exact mating of screws [2] and [5] within the exploded stack is approximate from the drawing.",
+    "Callout [1] carries a half-filled circle symbol; meaning not given.",
+    "Circled 2 at View A and circled 1 at View B match revision syms."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "VIEW B REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-19-69",
+      "sym": "2",
+      "text": "STICKER REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-30-70",
+      "sym": "3",
+      "text": "WAS 7808586 COLUMN",
+      "was": "7808586",
+      "item": "16"
+    }
+  ],
+  "options": [
+    "N37"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

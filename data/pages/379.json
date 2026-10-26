@@ -1,0 +1,350 @@
+{
+  "page": 379,
+  "group": "M20",
+  "sheet": "A2",
+  "title": "4-SPEED TRANSMISSION CONTROL RODS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "4-speed manual transmission (M20/M21/M22) shift linkage: the 1st-2nd, 3rd-4th and reverse shift rods between the floor shifter (lever & bracket assembly) and the levers on the transmission side cover. Rods attach at the front by a clevis with clevis pin and cotter pin, or by swivels locked with jam nuts, and at the shifter end by spring clips (retainers); the reverse lever bolts to its shaft, the forward levers use production nuts/bolts.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "37?9568",
+      "name": "SPRING WASHER",
+      "name_expanded": "Spring washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103373",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3921633",
+      "name": "CLEVIS",
+      "name_expanded": "Clevis – 1st & 2nd shift rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3841497",
+      "name": "NUT",
+      "name_expanded": "Nut – shift rod jam nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3749084",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – shift rod clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3960707",
+      "name": "LEVER & BRKT ASM.",
+      "name_expanded": "Shifter lever & bracket assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3921630",
+      "name": "ROD-1ST & 2ND",
+      "name_expanded": "Shift rod – 1st & 2nd",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3921659",
+      "name": "ROD-REVERSE",
+      "name_expanded": "Shift rod – reverse",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3921631",
+      "name": "ROD-3RD & 4TH",
+      "name_expanded": "Shift rod – 3rd & 4th",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3921632",
+      "name": "SWIVEL",
+      "name_expanded": "Swivel – shift rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3949199",
+      "name": "LEVER-1ST & 2ND, 3RD & 4TH",
+      "name_expanded": "Transmission shift lever – 1st & 2nd, 3rd & 4th (side cover levers)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3921634",
+      "name": "CLEVIS PIN",
+      "name_expanded": "Clevis pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "120394",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3960379",
+      "name": "LEVER ASM.-REV.",
+      "name_expanded": "Transmission shift lever assembly – reverse",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9419234",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "9421287",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "15-24",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3",
+        "7"
+      ],
+      "to": "front end of rod [7]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Clevis [3] threads onto the front of the 1st & 2nd rod [7] and is locked by jam nut [4] (triangle 1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "1st & 2nd lever [11] (RH/middle lever on the case)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clevis pin [12] goes through clevis [3] and the upper hole of lever [11]; spring washer [1] and cotter pin [2] retain it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "10",
+        "13",
+        "5"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "3rd & 4th lever [11] (LH/front lever)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Swivel [10] on the front of the 3rd & 4th rod [9] is locked between two nuts [4] (triangle 1); the swivel pin enters the upper hole of lever [11] and is held by washer [13] and retainer [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "10",
+        "13",
+        "5"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "reverse lever [14]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Swivel [10] on the front of the reverse rod [8] is locked between two nuts [4] (triangle 1); its pin goes into reverse lever [14] and is held by washer [13] and retainer [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "7",
+        "8",
+        "9"
+      ],
+      "to": "shifter lever & bracket [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rear ends of rods [7], [8] and [9] go into the shifter levers of [6] and are each held by a retainer [5] (three shown at the shifter).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "17",
+        "16",
+        "15"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "transmission reverse lever shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [17] (triangle 2) with lock washer [16] and washer [15] fastens reverse lever [14] to its shaft on the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11"
+      ],
+      "to": "transmission shift shafts",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Both levers [11] are held on their shafts by production attaching parts (box A, triangle 2): a production bolt with lock washer and washer on the front lever, a production nut on the rear lever. No callouts for them.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "transmission extension / crossmember (production)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Shifter lever & bracket [6] carries the half-filled circle (assemble same as production); its mounting bolts are not called out.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Production attaching parts."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch blurs digit 3 ('37' + 'u'-like glyph + '9568').",
+    "Legend triangle numbers 1 and 2 readable at 600 dpi; triangles 3-5 blank.",
+    "Which lever [11] is 1st&2nd vs 3rd&4th is inferred from rod connections ([7] via clevis to the rear/middle lever, [9] via swivel to the front lever).",
+    "Retainer [5] at the top-left (with washer [13]) holds the 3rd & 4th swivel pin; exact pairing of washer [13] there is from the leader lines.",
+    "UPC box prints 'M20' with 'M21-22' beneath; options M20/M21/M22. No revisions. Page stamped K377; C/O A2, PREL 5-5-69."
+  ],
+  "revisions": [],
+  "options": [
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

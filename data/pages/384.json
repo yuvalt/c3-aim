@@ -1,0 +1,130 @@
+{
+  "page": 384,
+  "group": "M40",
+  "sheet": "A2",
+  "title": "3 SPEED AUTO TRANS-NON-ILLUSTRATED PARTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "RPO M40 (3-speed Turbo Hydra-Matic automatic transmission): list of M40-related components not drawn in this option section (underbody insulation, heater hoses, frame, engine, fan and water pump drive and hoses, carburetor, A/C compressor emission sticker, starter, distributor, radiator, radiator support and shroud, speedometer cable). Most assemble the same as production; the heater hose and radiator assemble as RPO LS5, the carburetor as production or RPO C60. Part numbers are in the parts list or bill of material.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers.",
+    "◑ Assemble same as production."
+  ],
+  "notes_internal": [
+    "List sheet only: no parts/fastening. Hole punch in the NOTE ('c..mponents').",
+    "Items without a ◑ or RPO reference (2B FRAME ASM., 13E RADIATOR SHROUD) have an empty 'assembles same as' cell.",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 5-1-69, C/O A2; K382 in margin. Revision block empty; torque triangles blank."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [
+    {
+      "title": "NON-ILLUSTRATED PARTS",
+      "columns": [
+        "UPC",
+        "code",
+        "name",
+        "assembles same as"
+      ],
+      "rows": [
+        [
+          "1",
+          "A02",
+          "UNDERBODY HEAT & SOUND INSULATOR",
+          "PROD."
+        ],
+        [
+          "1",
+          "B1201",
+          "FRONT END HEATER & DEFROSTER (Heater to W/Pump Hose)",
+          "RPO LS5"
+        ],
+        [
+          "2",
+          "2B",
+          "FRAME ASM.",
+          ""
+        ],
+        [
+          "6",
+          "6",
+          "ENGINE ASM.",
+          "PROD."
+        ],
+        [
+          "6",
+          "6K1",
+          "FAN & DRIVE (Water Pump Belt & Pulley, Fan & Gen. Belt)",
+          "PROD."
+        ],
+        [
+          "6",
+          "6K2",
+          "WATER PUMP & DRIVE (Radiator Inlet & Outlet Hose)",
+          "PROD."
+        ],
+        [
+          "6",
+          "6M1",
+          "CARBURETOR ASM.",
+          "PROD. or RPO C60"
+        ],
+        [
+          "6",
+          "6T",
+          "AIR COMPRESSOR (Exhaust Emission Sticker)",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Y2",
+          "STARTING MOTOR & CONTROL",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Y3",
+          "DISTRIBUTOR",
+          "PROD."
+        ],
+        [
+          "11-13",
+          "13A",
+          "RADIATOR ASM",
+          "RPO LS5"
+        ],
+        [
+          "11-13",
+          "13C",
+          "RADIATOR, SHELL & DEFLECTORS (Radiator Support Asm.)",
+          "PROD."
+        ],
+        [
+          "11-13",
+          "13E",
+          "RADIATOR SHROUD",
+          ""
+        ],
+        [
+          "12",
+          "12J",
+          "INSTRUMENT CARRIER PANEL &/OR INSTRUMENTS (Speedo Cable)",
+          "PROD."
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

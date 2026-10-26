@@ -1,0 +1,375 @@
+{
+  "page": 419,
+  "group": "N40",
+  "sheet": "A7",
+  "title": "HYDRAULIC STEERING-GENERATOR MOUNTING (454 ENGINE)",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Generator (alternator) mounting on the 454 engine when power steering (N40) is fitted: the alternator pivots on a long bolt through a support, is braced by a second support bolted to the engine and an adjusting bracket, and a lower brace goes on a new stud that replaces an existing engine bolt. Separate pulley and alternator numbers apply with C60 air conditioning.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3829193",
+      "name": "PULLEY-GEN",
+      "name_expanded": "Pulley – generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3883978",
+      "name": "RPO C60",
+      "name_expanded": "Pulley – generator, with RPO C60 (air conditioning)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1100881",
+      "name": "GENERATOR",
+      "name_expanded": "Generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1100882",
+      "name": "RPO C60",
+      "name_expanded": "Generator (alternator), with RPO C60 (air conditioning)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3816692",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3928905",
+      "name": "STUD",
+      "name_expanded": "Stud – replaces an existing engine bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "102376",
+      "name": "NUT",
+      "name_expanded": "Nut – brace to stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3946000",
+      "name": "BRACE",
+      "name_expanded": "Brace – generator lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3878240",
+      "name": "SUPPORT",
+      "name_expanded": "Support – generator front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "180124",
+      "name": "BOLT",
+      "name_expanded": "Bolt – support to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut – long generator pivot bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9418633",
+      "name": "BOLT",
+      "name_expanded": "Bolt – generator pivot (long)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3986109",
+      "name": "SUPPORT",
+      "name_expanded": "Support – generator pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "9419058",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3878236",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – generator adjusting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "40-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "14-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "5",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "generator shaft",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Generator pulley [1] is held by the production generator nut and washer (black-square prod part, no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "3",
+        "12"
+      ],
+      "holds": [
+        "2",
+        "14"
+      ],
+      "to": "generator lower mounting ear",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Long bolt [13] goes from the front through support [14] and the generator's lower ear; lock washer [3] and nut [12] on the far end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "3"
+      ],
+      "holds": [
+        "8",
+        "16"
+      ],
+      "to": "bracket [16]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [15] with lock washer [3] joins the top of support [8] / support [14] to the adjusting bracket [16] (dashed line through [3] to the bracket's hole).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "16"
+      ],
+      "to": "generator upper ear / stud",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "At the right end of bracket [16], lock washer [3] and nut [4] go on a stud at the generator ear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10",
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "engine front",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Bolt [11] with lock washer [10] and plain washer [9] fastens the lower end of support [8] to the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [],
+      "to": "engine (in place of an existing bolt)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Remove the existing engine bolt and install stud [5] in its hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "stud [5]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Brace [7] goes over stud [5] and is held by nut [6]; the brace's upper end attaches to the generator at a production engine fastener (black square 'ENG', no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [],
+      "to": "engine (right side of drawing)",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Production bolt with plain and lock washers (all [A] prod parts) goes into the engine at the far right; phantom lines tie it to the generator mounting.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Prod Part",
+    "REMOVE EXISTING BOLT (at stud [5])"
+  ],
+  "notes_internal": [
+    "Item 1 name: letter after 'PULLEY-' covered by a mark; reads '-?EN', taken as GEN (generator pulley).",
+    "Item 2 line 2 and item 1 line 2 carry RPO C60 in place of the name.",
+    "Exact stack of supports [8]/[14] and bracket [16] is hard to follow in the exploded view; bolt [15] and nut [4] holds are approximate.",
+    "Torque 2 (40-50) is on both the generator pulley nut (prod) and stud [5].",
+    "Title block: drawing 3965172; L-94716; DR DP/C1, CK 4-18-69 C1, PREL A3 3-27-69; K417 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "12-23-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED 26736",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N40",
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

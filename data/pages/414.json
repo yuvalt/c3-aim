@@ -1,0 +1,484 @@
+{
+  "page": 414,
+  "group": "N40",
+  "sheet": "A2",
+  "title": "HYDRAULIC STEERING PUMP BRACKETS & HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power steering (N40) pump installation at the front of the engine: the pump is bolted to a front bracket and a mounting assembly screwed to the engine, braced by a rear support, with nuts on its own studs. The pump pulley is held by a nut and driven by a belt from the crankshaft pulley; a guard is bolted to the pump rear. The pressure hose screws into the pump and the return (inlet) hose is clamped; both hoses are clipped together and run to the steering control valve (sheet A4).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "780??66",
+      "name": "PUMP ASM.",
+      "name_expanded": "Power steering pump assembly (with reservoir)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "5690839",
+      "name": "CLAMP",
+      "name_expanded": "Hose clamp – pump inlet hose at pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3826278",
+      "name": "HOSE ASM.",
+      "name_expanded": "Hose assembly – pump inlet (return) hose, valve outlet to pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3826277",
+      "name": "HOSE ASM.",
+      "name_expanded": "Hose assembly – pump outlet (pressure) hose, pump to valve inlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3878886",
+      "name": "RPO LS5",
+      "name_expanded": "Hose assembly – pump outlet (pressure) hose, RPO LS5 (454 engine)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3887107",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – power steering pump front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "120394",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "120377",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3874432",
+      "name": "SUPPORT",
+      "name_expanded": "Support – pump rear brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "180120",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9416209",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3776997",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – holds the two hoses together",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3786494",
+      "name": "SCREW",
+      "name_expanded": "Screw – mounting assembly to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3890478",
+      "name": "GUARD",
+      "name_expanded": "Guard – pump rear (heat/shield guard)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3860454",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3860459",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3770509",
+      "name": "PULLEY POWER STRG PUMP",
+      "name_expanded": "Pulley – power steering pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "3824475",
+      "name": "NUT",
+      "name_expanded": "Nut – pump pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "6",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3874424",
+      "name": "BELT POWER STRG PUMP",
+      "name_expanded": "Drive belt – power steering pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3751232",
+      "name": "PULLEY CRANK-SHAFT",
+      "name_expanded": "Pulley – crankshaft (power steering belt groove)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "12-18",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "5",
+      "value": "12-17",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "6",
+      "value": "50-65",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "2d",
+      "description": "FLUID",
+      "amount": ".285 GAL.",
+      "where": "pump reservoir filler [1]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10",
+        "7"
+      ],
+      "holds": [
+        "1",
+        "5"
+      ],
+      "to": "pump mounting assembly on engine",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: bolt [10] with lock washer [7] goes from the front through the pump/front bracket [5] (dashed line through the pump body).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "7"
+      ],
+      "holds": [
+        "1",
+        "5"
+      ],
+      "to": "pump mounting assembly on engine",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: second front bolt [11] with lock washer [7], above bolt [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "mounting assembly (lower bracket)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: washer [6], lock washer [7] and nut [8] go on a stud at the lower rear of the pump [1]. The stud has no callout (part of the pump/production attaching parts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "mounting assembly",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: support [9] is held by washer [6], lock washer [7] and nut [8] on a stud at the upper end of the mounting assembly; the torque triangle at this nut [8] is smudged and unreadable.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "5",
+        "9"
+      ],
+      "to": "engine",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [13] fastens the pump mounting assembly to the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "18"
+      ],
+      "holds": [
+        "17"
+      ],
+      "to": "pump shaft",
+      "qty": null,
+      "torque_ref": "6",
+      "note": "Nut [18] retains the pump pulley [17] on the pump shaft (main view).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "15"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "rear of pump",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: bolt [16] with lock washer [15] holds the guard [14] to the rear of the pump.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "pump inlet fitting",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clamp [2] on hose [3] at the pump; note E: see UPC 0 general instructions for clamping.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "each other",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clamp [12] ties hoses [3] and [4] together; note B: place in groove between fittings.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "pump outlet fitting",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: hose [4] (pressure) threads into the pump at 'center of attachment'; torque triangle 4 is drawn at this fitting. Hose routed at 80° (350 eng) / 36° (454 eng) from the pump centerline. Note D: pump outlet to valve inlet; note C: pump inlet to valve outlet.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] 2d FLUID .285 GAL.",
+    "[B] Place in groove between fittings.",
+    "[C] Pump inlet to valve outlet.",
+    "[D] Pump outlet to valve inlet.",
+    "[E] See UPC 0 General Instructions for clamping.",
+    "VIEW A: 80° 350 ENG, 36° 454 ENG (hose angle from center of pump through center of [4] attachment)."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch / smudge over the 4th-5th digits; visible '780' + '??' + '66'.",
+    "Second item-2 line has no pn (revision 3: 9424894 OPT RMVD); left out of parts.",
+    "Item 4 second line '3878886 RPO LS5' kept as its own part; name printed as 'RPO LS5'.",
+    "Torque triangle 4 sits at the pressure-hose fitting at the pump (View A), not beside a callout box; used only in the fastening entry, parts torque_ref left null.",
+    "Torque 1 (12-18 LBS IN) has no triangle found in the drawing; revision 2 suggests it applied to the old clamp.",
+    "Upper nut [8] next to support [9]: triangle unreadable (filled in); left null.",
+    "Bracket [5]/mounting asm relation partly hidden by dashed lines; bolt paths described approximately.",
+    "Belt [19] runs over pulleys [17] and [20]; crankshaft pulley [20] uses production attaching parts (not listed).",
+    "Title block: drawing 3965172; L-76268; DR DP/C1, CK 5-6-69 C1, PREL 5-2-69, C/O A2; K412 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "WAS 5698078 PUMP ASM",
+      "was": "5698078",
+      "item": "1"
+    },
+    {
+      "date": "11-18-69",
+      "sym": "2",
+      "text": "WAS 9420534 CLAMP 12-18 LBS IN",
+      "was": "9420534",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "9424894 OPT RMVD",
+      "was": "9424894",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "ITEM E ADDED",
+      "was": null,
+      "item": "E"
+    }
+  ],
+  "options": [
+    "N40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

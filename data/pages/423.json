@@ -1,0 +1,269 @@
+{
+  "page": 423,
+  "group": "UA6",
+  "sheet": "A3",
+  "title": "BODY WIRING & RELAY MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO UA6 anti-theft alarm: the alarm relay and flasher mounted on a bracket behind the seat near the jack stowage compartment, and the alarm body wiring routed under the carpet from the instrument-panel-to-body harness connector back to the rear. The bracket is riveted to the body through four holes; the relay is screwed to the bracket (19-27 LBS IN) and the flasher sits in a clip screwed to the bracket (13-18 LBS IN). The harness grommet is sealed with seam cement and a harness lead is held by the UPC 12 screw and clip with a lock washer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3904868",
+      "name": "FLASHER ASM.",
+      "name_expanded": "Flasher assembly – alarm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3928799",
+      "name": "OPT.",
+      "name_expanded": "Flasher assembly – alarm (optional source)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3934200",
+      "name": "OPT.",
+      "name_expanded": "Flasher assembly – alarm (optional source)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9420688",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3943610",
+      "name": "CLIP",
+      "name_expanded": "Clip – flasher",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937670",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – relay and flasher mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "1115878",
+      "name": "RELAY ASM.",
+      "name_expanded": "Relay assembly – anti-theft alarm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419400",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "13-18",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "19-27",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "50h",
+      "description": "SEAM CEMENT",
+      "amount": "2 IN.",
+      "where": "grommet (part of harness assembly) where the harness passes through the body panel"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "body panel behind the seat, near the jack stowage compartment",
+      "qty": "4 holes",
+      "torque_ref": null,
+      "note": "View A: rivets [5] go through bracket [4] into four .199 dia holes in the body panel (located by 4.25, 2.62 and .50 dimensions).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "bracket [4]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw assembly [7] goes through the mounting tab of relay [6] into bracket [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3",
+        "1"
+      ],
+      "to": "bracket [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [2] holds clip [3] to bracket [4]; flasher [1] is held in clip [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [],
+      "to": "body",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Lock washer [8] goes on the harness clip screw (screw and clip: see UPC 12), with a harness lead/terminal between clip and washer.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "50h",
+      "holds": [],
+      "to": "body panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Grommet (part of harness assembly) sealed with 50h seam cement, 2 in.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Route wire under carpet.",
+    "NOTE Cut out jack compartment insulator to permit assembly of [3] & [6] to [4].",
+    "GROMMET-PART OF HARNESS ASM.",
+    "SCREW (SEE UPC 12); CLIP (SEE UPC 12)",
+    ".199 DIA. (4) HOLES",
+    "Dimensions: 4.25, 2.62, .50"
+  ],
+  "notes_internal": [
+    "Title block: UPC UA6, sheet A3, model 19000, C/O A3, drawing 3965172, K421; L- 86985.",
+    "Hole note: a small handwritten value is written above '.199' (struck/overwritten); only .199 recorded.",
+    "Harness itself has no callout on this sheet (harness assembly called out on A2 as 6297666, presumably the same).",
+    "Circled 10 in View A: not in the callout list; meaning unknown (also appears on A2).",
+    "Circled revision symbols in the drawing: 1 at lock washer [8], 2 at the grommet, 3 on the harness under the carpet, 4 at View A, 5 near the jack compartment cutout note."
+  ],
+  "revisions": [
+    {
+      "date": "1-7-70",
+      "sym": "1",
+      "text": "L. WASHER ASM. SEQUENCE REVISED",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "1-22-70",
+      "sym": "2",
+      "text": "HARNESS RELOCATED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-5-70",
+      "sym": "3",
+      "text": "HARNESS ROUTING REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-19-70",
+      "sym": "4",
+      "text": "VIEW \"A\" DRAWING REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "BRACKET LOCATION REVISED",
+      "was": null,
+      "item": "4"
+    }
+  ],
+  "options": [
+    "UA6"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "page": 381,
+  "group": "M20",
+  "sheet": "A4",
+  "title": "4-SPEED TRANS-INTERLOCK LINKAGE & V.I.N. LOCATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "4-speed manual transmission (M20 wide-ratio, M21 close-ratio, M22 heavy-duty 'rock crusher'): the back drive (reverse interlock) cable from the steering column lever to the transmission reverse lever, the transmission assemblies themselves, and the M22 tag. The cable is held to the transmission by a clip and a bracket that bolt to the case with transmission-supplied bolts; its rod end is pinned to the reverse lever with a washer and cotter pin. View A shows the VIN stamping location on the transmission case.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39??620",
+      "name": "CLIP",
+      "name_expanded": "Clip - back drive cable to transmission case",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3949074",
+      "name": "CABLE ASM.",
+      "name_expanded": "Cable assembly - back drive (reverse interlock) cable, column to transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3875092",
+      "name": "RETAINER",
+      "name_expanded": "Retainer - cable to bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3960696",
+      "name": "BRACKET",
+      "name_expanded": "Bracket - back drive cable, on transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103372",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3718496",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3952659",
+      "name": "TRANS RPO M20",
+      "name_expanded": "Transmission - 4-speed wide ratio (RPO M20)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3968011",
+      "name": "RPO M21 WITH L46, LS7",
+      "name_expanded": "Transmission - 4-speed close ratio (RPO M21) with L46 or LS7 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3968012",
+      "name": "RPO M22",
+      "name_expanded": "Transmission - 4-speed heavy duty close ratio (RPO M22, 'rock crusher')",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3892548",
+      "name": "TAG ASM. RPO M22",
+      "name_expanded": "Tag assembly - M22 transmission identification tag",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "14-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "6c",
+      "description": "LUBRICANT",
+      "amount": ".374 GAL.",
+      "where": "transmission fill, RPO M20-21"
+    },
+    {
+      "key": "B",
+      "code": "18c",
+      "description": "LUBRICANT",
+      "amount": ".374 GAL.",
+      "where": "transmission fill, RPO M22"
+    },
+    {
+      "key": "C",
+      "code": "12m",
+      "description": "GREASE",
+      "amount": ".03 LBS.",
+      "where": "back drive cable end at the column lever, and the cable rod at the reverse lever"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission case (LH front side)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Clip [1] around the cable is bolted to the transmission case; the bolt is marked (TRANS), i.e. supplied with the transmission, no callout on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "transmission case (side cover area, rear)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bracket [4] bolted to the transmission case with a bolt marked (TRANS), supplied with the transmission; no separate callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cable [2] sleeve end is held in bracket [4] by retainer clip [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "transmission reverse ('REV') lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cable [2] rod end passes through the reverse lever, washer [6] on, locked with cotter pin [5]. Grease 12m at the joint.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "lever on steering column (part of column assembly)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Column end of the cable attaches to the column lever; 12m grease. Cable installation see UPC 7; bracket assembly at column see UPC 9.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "transmission case (View A)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "M22 tag [8] hangs from a case bolt near the VIN location in View A; attachment method not detailed.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "LEVER - PART OF COLUMN ASM",
+    "BRACKET ASM - SEE UPC 9",
+    "CABLE INSTALLATION SEE UPC 7",
+    "V.I.N. location (See UPC 0 Sheet B2 for Specs.)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out digits 3-4; visible '39' + '620'.",
+    "Item 7 has a fourth callout line (third of four) left blank, no pn; revision 4 records 3950316 RPO M21 w/LS5 removed. Not entered as a part.",
+    "Transmission [7] mounting not shown on this sheet (see UPC 7).",
+    "Both torqued bolts are tagged (TRANS) with a filled square: bolts come with the transmission.",
+    "Revision 3 and 5 both read 'WAS 3946799' (M21 and M22).",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 4-28-69, C/O A6; K379 in margin; L-87693."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "\"C\" NOTE ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3950356 TRANS",
+      "was": "3950356",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3946799 RPO M21",
+      "was": "3946799",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "3950316 RPO M21 W/LS5 RMV'D",
+      "was": "3950316",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "WAS 3946799 RPO M22",
+      "was": "3946799",
+      "item": "7"
+    },
+    {
+      "date": "6-10-70",
+      "sym": "6",
+      "text": "RPO LS7 ADDED",
+      "was": null,
+      "item": "7"
+    }
+  ],
+  "options": [
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

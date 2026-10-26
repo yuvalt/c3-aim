@@ -1,0 +1,367 @@
+{
+  "page": 365,
+  "group": "LS7",
+  "sheet": "A3",
+  "title": "V-8 \"454\" ENG. H. D. - C/CASE VENT. & A. I. R. INSTALLATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. RPO LS7 454 heavy-duty V-8: crankcase ventilation (PCV valve and hoses to the air cleaner) and A.I.R. (air injection reactor, 'smog pump') system: belt-driven air pump with pulley, diverter valve with spacer and muffler, hoses to RH and LH air injection pipes on the exhaust manifolds. The pump pulley bolts to the pump hub; the air pipes thread into the exhaust manifolds. Many parts install the same as RPO LT1.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3829057",
+      "name": "HOSE",
+      "name_expanded": "Hose (PCV valve to carburetor base)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "6484699",
+      "name": "VALVE ASM",
+      "name_expanded": "Valve assembly (PCV valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3951353",
+      "name": "HOSE L.H.",
+      "name_expanded": "Hose – A.I.R., LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "7801659",
+      "name": "PLUG",
+      "name_expanded": "Plug (air pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "7801512",
+      "name": "PUMP ASM",
+      "name_expanded": "Pump assembly – A.I.R. air pump (smog pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3925522",
+      "name": "PULLEY",
+      "name_expanded": "Pulley – air pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419000",
+      "name": "BOLT",
+      "name_expanded": "Bolt (air pump pulley)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "7024763",
+      "name": "DIVERTER VLV",
+      "name_expanded": "Diverter valve – A.I.R.",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3877608",
+      "name": "SPACER",
+      "name_expanded": "Spacer (diverter valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "1492575",
+      "name": "MUFFLER",
+      "name_expanded": "Muffler (diverter valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3946007",
+      "name": "HOSE R.H.",
+      "name_expanded": "Hose – A.I.R., RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3889377",
+      "name": "PIPE ASM",
+      "name_expanded": "Pipe assembly – A.I.R. injection pipe at exhaust manifold (LH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3917252",
+      "name": "R.H.",
+      "name_expanded": "Pipe assembly – A.I.R. injection pipe, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3933188",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (LH valve cover vent)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3868842",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector (crankcase vent)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3846122",
+      "name": "HOSE",
+      "name_expanded": "Hose (crankcase vent to air cleaner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3917692",
+      "name": "HOSE-SIGNAL",
+      "name_expanded": "Hose – signal (carburetor vacuum to diverter valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3933189",
+      "name": "GROMMET",
+      "name_expanded": "Grommet (RH valve cover, PCV valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75 - 95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "150 - 175",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "air pump [5] hub",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [7] go through the pulley [6] into the pump hub, front side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "engine bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Pump [5] mounts with production-style bolt, nut and clamp marked [A] (installs same as RPO LT1); no callout numbers for the mounting fasteners.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8",
+        "9",
+        "10"
+      ],
+      "to": "air pump [5] outlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: diverter valve [8] with spacer [9] and gasket [A] bolts to the pump [5] with bolt, lock washer and plain washer [A]; muffler [10] on the diverter valve.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12"
+      ],
+      "to": "exhaust manifolds",
+      "qty": "1 each side",
+      "torque_ref": "2",
+      "note": "A.I.R. pipes [12] thread into the exhaust manifold ports (triangle 2 at each pipe); check valves [A] at the pipe inlets.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "11"
+      ],
+      "to": "diverter valve [8] and check valves on pipes [12]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses [3] LH and [11] RH run from the diverter valve to the injection pipe valves, retained by clamps [A].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "air pump [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug [4] pushed into the pump (note B).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "grommet [17] in RH valve cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "PCV valve [2] pushes into grommet [17]; hose [1] from the valve to the carburetor base, held by production clamps (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "14",
+        "15"
+      ],
+      "to": "grommet [13] in LH valve cover and the air cleaner",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connector [14] in grommet [13]; hose [15] from connector to the air cleaner nipple.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "16"
+      ],
+      "to": "carburetor and diverter valve [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Signal hose [16] slips over the nipples; no clamp shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Part installs same as RPO LT1.",
+    "[B] Color code black. Push in plug until it stops on 3 ears. Force not to exceed 10 - 40 lbs press.",
+    "[C] Stamped part no."
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED; revision 3 'SHEET CANCELED'.",
+    "Revision 3 date overwritten; reads 5-1?-70 (likely same 5-19-70 as A2 but not certain).",
+    "Hose/pipe routing (which hose goes to which pipe, LH vs RH valve cover for grommets) read from drawing; sides inferred from item names.",
+    "Title block: drawing 3965172; DR /CI, CK 5-9-69 CI, PREL 5-5-69, C/O A1; K363 in margin. Circled 3 on the hose [15] line near the canceled stamp."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-1?-70",
+      "sym": "3",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "page": 420,
+  "group": "N40",
+  "sheet": "A8",
+  "title": "HYDRAULIC STEERING BELTS & PULLEYS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power steering (N40) belt and pulley combinations for four engine setups: 350 C.I.D. with C60 air conditioning, 350 C.I.D. except L46/LT1, L46 & LT1, and the 454 LS5 & LS7. The pump pulley is held by a nut; on 350 engines an extra crankshaft pulley is bolted on to drive the pump belt.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3874424",
+      "name": "BELT",
+      "name_expanded": "Belt – power steering pump drive (350 C.I.D.)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3848255",
+      "name": "RPO L46 & LT1",
+      "name_expanded": "Belt – power steering pump drive, RPO L46 & LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3940992",
+      "name": "RPO LS5 & LS7",
+      "name_expanded": "Belt – power steering pump drive, RPO LS5 & LS7 (454)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3770509",
+      "name": "PULLEY",
+      "name_expanded": "Pulley – power steering pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3834720",
+      "name": "RPO L46 & LT1",
+      "name_expanded": "Pulley – power steering pump, RPO L46 & LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3878245",
+      "name": "RPO LS5 & LS7",
+      "name_expanded": "Pulley – power steering pump, RPO LS5 & LS7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3824475",
+      "name": "NUT",
+      "name_expanded": "Nut – pump pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "181635",
+      "name": "BOLT",
+      "name_expanded": "Bolt – crankshaft pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3751232",
+      "name": "PULLEY ASM",
+      "name_expanded": "Pulley assembly – crankshaft (extra groove for power steering)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3878243",
+      "name": "BELT",
+      "name_expanded": "Belt – LS5 & LS7 layout",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "50-65",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "power steering pump shaft",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [3] holds the pump pulley [2] on the pump shaft (all four layouts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "crankshaft pulley / damper",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "350 C.I.D. layouts (with C60, and except L46 & LT1): bolt [4] fastens the pulley assembly [5] to the crankshaft pulley.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "6"
+      ],
+      "to": "pulleys",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Belt [1] runs from the crankshaft pulley ([5] on 350 C.I.D.) to the pump pulley [2]. In the LS5 & LS7 layout belt [6] runs over the generator pulley and down past the P/S pump. Belt strand tension: see UPC 6.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Belt strand tension-See UPC 6.",
+    "Views: 350 C.I.D. W/RPO C60; 350 C.I.D. EXC RPO'S L46 & LT1; RPO L46 & LT1; RPO LS5 & LS7."
+  ],
+  "notes_internal": [
+    "Item 5 / bolt 4 shown only in the two 350 C.I.D. views; not shown in the L46/LT1 and LS5/LS7 views.",
+    "Belt [6] routing in the LS5/LS7 view: drawn from the generator pulley down toward the pump; exact pulleys it rides on are not clear.",
+    "No revisions (new sheet; A1 revision 6 'SHEET A8 ADDED').",
+    "Title block: drawing 3965172; DR ACA, CK 5-8-70 ACA, PREL 5-8-70, ECR 35128; K418 in margin. Triangles 3-5 blank."
+  ],
+  "revisions": [],
+  "options": [
+    "N40",
+    "C60",
+    "L46",
+    "LT1",
+    "LS5",
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

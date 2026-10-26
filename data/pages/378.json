@@ -1,0 +1,63 @@
+{
+  "page": 378,
+  "group": "M20",
+  "sheet": "A1",
+  "title": "4 SPEED TRANSMISSION-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the M20 option section (4-speed manual transmission, also covering M21 close-ratio and M22 heavy-duty): transmission control rods (A2), shift rod adjustment (A3), interlock linkage and V.I.N. (vehicle identification number) stamping location (A4), and speedometer cable and back-up lamp switch (A5). A transmission drawing shows where each sheet applies.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. UPC box prints 'M20' with 'M21-M22' beneath; group M20, options M20/M21/M22.",
+    "Drawing callouts: A5 at the speedometer cable and at the back-up lamp switch wiring on the case; A4 at the interlock linkage running forward (LH side); A2 at the shift rods; A3 at the rod/lever area near the shifter.",
+    "Torque legend triangles blank; no revisions. Page stamped K376; C/O A1, PREL 4-28-69."
+  ],
+  "revisions": [],
+  "options": [
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "TRANSMISSION CONTROL RODS"
+        ],
+        [
+          "A3",
+          "TRANSMISSION ROD ADJUSTMENT"
+        ],
+        [
+          "A4",
+          "INTERLOCK LINKAGE & V.I.N. LOCATION"
+        ],
+        [
+          "A5",
+          "SPEEDO CABLE & BACK-UP LAMP SWITCH"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

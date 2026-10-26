@@ -1,0 +1,49 @@
+{
+  "page": 398,
+  "group": "M40",
+  "sheet": "A16",
+  "title": "3-SPEED AUTO TRANS-INSTALLATION & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Adjustment of the automatic transmission backdrive (ignition park-lock) cable between the steering column lever and the transmission lever, for M40 cars. Procedure only; no part numbers.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "B"
+      ],
+      "holds": [
+        "A",
+        "C"
+      ],
+      "to": "column lever (A) and trans lever (C)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Backdrive cable (B) connects column lever (A) to transmission lever (C).",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Transmission control linkage adjustment:",
+    "1. Put the transmission in PARK and push column lever (A) fully up against the internal PARK stop.",
+    "2. Install backdrive cable (B) to column lever (A) and trans lever (C).",
+    "Check: in PARK the ignition key must turn freely to LOCK; LOCK must not be possible in neutral or any gear other than PARK."
+  ],
+  "notes_internal": [
+    "Letters A/B/C are procedure labels, not part callouts; parts are on sheet A15."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

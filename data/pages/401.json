@@ -1,0 +1,356 @@
+{
+  "page": 401,
+  "group": "NA9",
+  "sheet": "A2",
+  "title": "EVAP. EMISSION CONT. SYS.-CARBS., INSULATOR & HEAT SHIELDS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "NA9 evaporative emission cars: carburetor, carb base insulator/heat shield and choke for base/LS5 (Quadrajet) and LT1/LS7 (Holley). Base/LS5: long bolts through insulator bushings and carb into the manifold, plus nuts on studs, torqued in sequence. LT1/LS7: carb on four manifold studs with nuts, spacer under the throttle bracket stud.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3967???",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967466",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator (carb bolt insulator bushing)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "7040513",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "7040502",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "7040505",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO LS5",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "7040504",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO LS5 with M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3967479",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO LS7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969894",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO LS7 with M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3972123",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly – RPO LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3969837",
+      "name": "INSULATION ASM",
+      "name_expanded": "Insulation assembly (carb base heat shield/insulator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3969835",
+      "name": "INSULATION ASM",
+      "name_expanded": "Insulation assembly – LS7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3972156",
+      "name": "INSULATION ASM",
+      "name_expanded": "Insulation assembly – LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3973496",
+      "name": "CHOKE ASM",
+      "name_expanded": "Choke assembly (thermostatic choke on manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3967468",
+      "name": "CHOKE ASM",
+      "name_expanded": "Choke assembly – RPO LS5",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3917614",
+      "name": "CHOKE ASM",
+      "name_expanded": "Choke assembly – RPO LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3989393",
+      "name": "CHOKE ASM",
+      "name_expanded": "Choke assembly – RPO LS7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3967486",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9431655",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (choke rod clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1371261",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-168",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "14-18",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "24-48",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Base & RPO LS5 view: bolt [1] (letter B) goes down through insulator [2], the carburetor [3] and insulation [4] into the manifold. Torque sequence: B and C to 24-48 lb-in, D and E to 24-48 lb-in, then retorque B, C, D, E in the same order to 120-168 lb-in.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "intake manifold studs",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Base & RPO LS5 view: nut [6] (letter C) on a manifold stud; torque per sequence above. Bolt D and nut E are not called out (production parts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "intake manifold studs",
+      "qty": "4",
+      "torque_ref": "2",
+      "note": "RPO LT1 & LS7 view: carburetor [3] and insulation [4] go over four manifold studs; nuts [6] torqued in the same sequence; [6] marked torque 2.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "carburetor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "LT1 & LS7: spacer [8] sits under the throttle cable bracket on the carb stud, nut [6] on top.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: retainer [7] clips the choke rod to the carb lever (existing with RPOs LS5, LS7 & LT1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Choke [5]: note A, attach same as production or RPO.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "[A] Attach same as prod or RPO.",
+    "7 (EXISTING W/RPO'S LS5, LS7 & LT1)",
+    "Torque sequence: bolt B and nut C to torque 3, then bolt D and nut E to torque 3; retorque B, C, D, E in the same order to torque 1. On LT1 & LS7, torque item 6 nuts in the same sequence."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes the last three digits; read 3967???.",
+    "Carb/insulation/choke variant rows are written as separate parts with the RPO in name_expanded (codes are RPO, not model codes).",
+    "Bolt D and nut E (Base/LS5 view) have no item number.",
+    "Model box faded; reads 1?000 partially, taken as 19000 consistent with other NA9 sheets.",
+    "Revision sym reads 16."
+  ],
+  "revisions": [
+    {
+      "date": "6-10-70",
+      "sym": "16",
+      "text": "REDRAWN & REDESIGNED 26434",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "NA9",
+    "M40",
+    "LS5",
+    "LS7",
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

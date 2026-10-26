@@ -1,0 +1,297 @@
+{
+  "page": 375,
+  "group": "LT1",
+  "sheet": "A5",
+  "title": "V-8 ENG 350 CU. IN. SPEC. HI-PERF.- AIR PIPES, HOSES & DIVERTER VALVE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LT1 350 high-performance engine A.I.R. (air injection reactor, smog pump) plumbing: diverter valve bolted to the pump outlet through an elbow and gaskets, LH and RH hoses with clamps to the check valves, and the air injection pipes threaded into the exhaust manifold ports, plus the diverter valve vacuum signal hose.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39?7154",
+      "name": "HOSE SIG.",
+      "name_expanded": "Hose – diverter valve vacuum signal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9423575",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3905297",
+      "name": "PIPE ASM. L.H.",
+      "name_expanded": "A.I.R. injection pipe assembly – LH (exhaust manifold air pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3877480",
+      "name": "R.H.",
+      "name_expanded": "A.I.R. injection pipe assembly – RH (exhaust manifold air pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "5361992",
+      "name": "VALVE ASM.",
+      "name_expanded": "Check valve assembly (A.I.R.)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3947740",
+      "name": "HOSE R.H.",
+      "name_expanded": "Hose – A.I.R., RH (diverter valve to RH check valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "7029199",
+      "name": "DIVERTER VALVE",
+      "name_expanded": "Diverter valve (A.I.R. / smog pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3932476",
+      "name": "HOSE L.H.",
+      "name_expanded": "Hose – A.I.R., LH (diverter valve to LH check valve)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9419004",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419014",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3942534",
+      "name": "GASKET",
+      "name_expanded": "Gasket – diverter valve / elbow",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3947728",
+      "name": "ELBOW",
+      "name_expanded": "Elbow – A.I.R. pump outlet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": null,
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": null,
+      "value": "150-175",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": null,
+      "value": "14-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": null,
+      "value": "75-95",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "holds": [
+        "6",
+        "12",
+        "13"
+      ],
+      "to": "A.I.R. pump outlet",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: diverter valve [6], gasket [12], elbow [13] and a second gasket [12] stack onto the A.I.R. pump outlet. Bolts [8] and long bolt [11] (both triangle 4), each with lock washer [9] and washer [10], hold the stack: one bolt [8] at the valve's upper ear, bolt [11] and the other bolt [8] through the lower flanges into the pump.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "exhaust manifold air ports (LH and RH)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Air injection pipe [3] (LH and RH; triangle 2) tube nuts thread into the exhaust manifold/head ports (dashed lines to the manifold).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "pipe [3]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Check valve [4] (triangle 3) threads onto the inlet end of each pipe [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "5",
+        "7"
+      ],
+      "to": "diverter valve [6] and check valves [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "RH hose [5] and LH hose [7] run from the diverter valve [6] outlets to the check valves [4]; clamps [2] (triangle 1) at the hose ends.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "diverter valve [6] signal port / carburetor vacuum",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Signal hose [1] runs from the carburetor-area vacuum source to the diverter valve [6]; push-on, no clamp shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque legend triangles are solid black (also at 600 dpi); ref numbers unreadable, so legend refs left null (values top to bottom; 5th triangle blank). Drawing triangles readable: 1 at clamps [2], 2 at pipes [3], 3 at check valve [4], 4 at bolts [8] and [11].",
+    "Item 1: hole punch blurs digit 3 ('39' + smudge + '7154').",
+    "Revision symbols: circled 1 at [5], circled 2 at [7], circled 3 at the carburetor drawing.",
+    "Signal hose [1] source end not clearly shown.",
+    "Page stamped K373; PREL A3, C/O 2-27-69."
+  ],
+  "revisions": [
+    {
+      "date": "8-28-69",
+      "sym": "1",
+      "text": "SYM 3 WAS SYM 7",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "SYM 7 WAS SYM 5",
+      "was": null,
+      "item": "7"
+    },
+    {
+      "date": "11-7-69",
+      "sym": "3",
+      "text": "CARB DRAWING REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

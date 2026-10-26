@@ -1,0 +1,70 @@
+{
+  "page": 396,
+  "group": "M40",
+  "sheet": "A14",
+  "title": "3 SPEED AUTO TRANS-U/B TUNNEL FILLER PNL & R.H. CARPET",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Turbo Hydra-matic (M40 3-speed automatic) cars: an underbody tunnel filler panel is bonded into the floor tunnel after cutting out the area inside the scribed line, and a matching right-hand carpet is used. The filler panel is bonded with bond \"E\" (Section A-A); no mechanical fasteners shown.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3935699",
+      "name": "PANEL-U/B TUNNEL FILLER",
+      "name_expanded": "Panel – underbody tunnel filler (floor tunnel patch for automatic)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3958864",
+      "name": "CARPET ASM-R.H.",
+      "name_expanded": "Carpet assembly – right hand (floor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1"
+      ],
+      "to": "underbody floor tunnel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Section A-A: tunnel filler panel [1] is bonded to the underbody along its flange (BOND \"E\"); the floor area inside the existing scribed line is cut out first.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Cut & remove area within existing scribed line.",
+    "BOND \"E\" (Section A-A)"
+  ],
+  "notes_internal": [
+    "Bond \"E\" has no material legend on this sheet, so materials is empty and fastening.material is not set.",
+    "Carpet [2]: no fastening shown; it is laid over the tunnel area. A half-filled circle symbol follows the [2] callout; meaning not given on the sheet.",
+    "Section A-A shows datum marks 10 and 0; not callouts."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "page": 368,
+  "group": "LS7",
+  "sheet": "A6",
+  "title": "V-8 \"454\" ENGINE H.D.-IGNITION SYSTEM WIRING & COIL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LS7 454 heavy-duty V-8 ignition: the ignition coil on the engine next to the distributor, an ignition amplifier (transistor ignition amplifier) bolted to the LH front inner fender/wheelhouse, and the harness running along the fender from the amplifier to the coil and engine harness. The amplifier is held by a bolt from the front and a nut with lock washer; a production screw holds the black ground strap. The engine harness positive coil lead gets a new terminal plugged into a connector, and a wire is added to the ignition switch connector.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3747298",
+      "name": "TAPE",
+      "name_expanded": "Tape (wire wrap)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "2977253",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector (coil positive lead)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6293398",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly (to ignition switch connector)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "1115263",
+      "name": "COIL ASM.",
+      "name_expanded": "Ignition coil assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6297596",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Harness assembly – ignition amplifier to coil/engine harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut (amplifier mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "1115343",
+      "name": "AMPLIFIER ASM.",
+      "name_expanded": "Amplifier assembly – transistor ignition amplifier",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419006",
+      "name": "BOLT",
+      "name_expanded": "Bolt (amplifier mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "2962572",
+      "name": "TERMINAL",
+      "name_expanded": "Terminal (yellow wire, coil positive lead)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35 - 50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25 - 35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "9",
+        "7",
+        "6"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "front inner fender / wheelhouse panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [9] goes through the amplifier [8] flange and panel; lock washer [7] and nut [6] on the other side (triangle 1 at the nut).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "engine, beside the distributor",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Coil [4] in its bracket/clamp, production fasteners; coil terminal nuts at triangle 2 ('COIL'). Black lead to the negative (-) post, white to the positive (+) post.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "along the fender skirt to the amplifier [8]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Harness [5] runs from the amplifier along the wheelhouse and through a grommet (see UPC 12) to the coil and engine harness; black ground strap held by a production screw at the amplifier.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "engine wiring harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tape [1]: 5 inches used to tape the red-white and black positive coil wire to the engine wiring harness (note A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "10"
+      ],
+      "to": "engine harness positive coil lead",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: terminal [10] crimped to the yellow wire and inserted into connector [2].",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "ignition switch connector",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wire [3] terminal inserted in the ignition switch connector cavity; 12 ga pink wire removed from that connector.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "[A] 5 inches used to tape red-white & black positive coil wire to engine wiring harness.",
+    "NOTE: Remove 12 Ga pink wire from ign sw connector.",
+    "NOTE: Insert term in ign sw cavity.",
+    "View A: remove the engine wiring harness positive lead from the coil; cut off the existing terminal; crimp terminal [10] on the yellow wire; insert it into connector [2].",
+    "BLACK TO NEG (-) POST; WHITE TO POST (+) POST",
+    "GROMMET (SEE UPC-12)"
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch clips the tops of the 4th-5th digits; shapes still read 3747298 (OCR agrees).",
+    "Coil [4] marked ◑ (assembles same as production).",
+    "Torque triangle 2 is next to the 'COIL' tag (coil fastener / terminal); no numbered item carries it.",
+    "Fender side not labeled; drawing shows the driver-side front wheelhouse view.",
+    "No revisions recorded. Title block: drawing 3965172; DR WO/CI, CK 10-2-69 CI, C/O 9-26-69, ECR 28189; L- 83904, 84717; K366 in margin."
+  ],
+  "revisions": [],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

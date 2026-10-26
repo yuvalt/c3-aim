@@ -1,0 +1,132 @@
+{
+  "page": 387,
+  "group": "M40",
+  "sheet": "A5",
+  "title": "3 SPEED AUTO TRANS-INSTALLATION PROCEDURE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic transmission (M40) installation to the engine: torque converter to flexplate (flywheel) bolts and the converter underpan (flywheel/converter dust cover, inspection cover) at the bottom of the bellhousing. Bolts go through the flexplate into the threaded lugs (retainers) on the torque converter; the underpan is held to the bellhousing with screw assemblies. Bellhousing locates on the engine dowels.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3952661",
+      "name": "UNDERPAN ASM.",
+      "name_expanded": "Underpan assembly - converter/flywheel dust cover (inspection cover)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9411890",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly - underpan",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1484645",
+      "name": "BOLT",
+      "name_expanded": "Bolt - flywheel (flexplate) to torque converter",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-110",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "30-35",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "flywheel"
+      ],
+      "to": "torque converter (retainers, part of converter asm.)",
+      "qty": "3",
+      "torque_ref": "2",
+      "note": "Bolts [3] go from the engine side through the flywheel (flexplate) into the threaded retainers on the converter; three bolt positions shown. Hand start all converter bolts before torquing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission bellhousing, bottom",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Underpan [1] covers the lower bellhousing opening and is held by screw assemblies [2].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION Hand start all converter bolts prior to torquing.",
+    "RETAINER-PART OF CONVERTER ASM.",
+    "OIL FILLER TUBE",
+    "FLYWHEEL, DOWEL (filled-square references)"
+  ],
+  "notes_internal": [
+    "Flywheel and dowels are tagged with filled squares (production parts, no callout); flywheel listed by name in fastening.",
+    "Circled marks on the drawing: (1) at item 3 in the list = revision 1; (2) left of drawing = revision 2 (procedure text removed, blank area); (3) at two bolt positions and a (5)-like mark at the third likely = revision 3 'item 3 bolt removed (3 places)', presumably the LJ2/LS7 references. The (5) reading is unsure.",
+    "Revision 3 says RPO LJ2 & LS7 reference and item 3 bolt removed (3 places); the callout list still shows item 3, so bolt [3] applies to all engines per the current sheet.",
+    "Bellhousing-to-engine bolts not called out here (see A4). Oil filler tube bracket bolt shown, no callout.",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 5-1-69, C/O A5; L-85242, 84769; K385 in margin. Revision row 3 has only auth 3298 and CK ACA."
+  ],
+  "revisions": [
+    {
+      "date": "12-19-69",
+      "sym": "1",
+      "text": "WAS 1362977 BOLT",
+      "was": "1362977",
+      "item": "3"
+    },
+    {
+      "date": "1-16-70",
+      "sym": "2",
+      "text": "INSTAL. PROCEDURE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-11-70",
+      "sym": "3",
+      "text": "RPO LJ2 & LS7 REF. & ITEM 3 BOLT REMOVED (3 PLACES)",
+      "was": null,
+      "item": "3"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

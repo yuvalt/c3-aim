@@ -1,0 +1,254 @@
+{
+  "page": 403,
+  "group": "NA9",
+  "sheet": "A4",
+  "title": "EVAP EMISSION CONT-ENG TO CANNISTER HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "NA9 evaporative emission (except LS7): vapor/purge hoses from the carburetor and PCV system to the charcoal canister. Hoses are joined with a tee at the PCV valve and held with clamps; a strap ties them to the vacuum hose bundle along the engine. LT1 uses different hoses (Views B, C).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3969876",
+      "name": "HOSE",
+      "name_expanded": "Hose – carburetor to tee (purge/vapor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3973318",
+      "name": "HOSE",
+      "name_expanded": "Hose – RPO LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3969884",
+      "name": "HOSE",
+      "name_expanded": "Hose – tee to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969892",
+      "name": "HOSE",
+      "name_expanded": "Hose – to canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3973324",
+      "name": "HOSE",
+      "name_expanded": "Hose – RPO LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp (hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9770783",
+      "name": "CLAMP",
+      "name_expanded": "Clamp (hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3970076",
+      "name": "TEE",
+      "name_expanded": "Tee – hose connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3967078",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV valve to tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3973350",
+      "name": "HOSE",
+      "name_expanded": "Hose (LT1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1",
+        "8"
+      ],
+      "to": "tee [7] and PCV valve",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: hose [1] and short hose [8] are clamped with clamps [4] onto the tee [7]; [8] goes to the PCV valve on the rocker cover.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "tee [7] and canister",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [2] runs from the tee [7] to the canister; clamp [6] at the canister fitting (and at the tee in View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "carburetor fitting",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamp [4] holds hose [1] on the carburetor fitting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "vacuum hose bundle",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Strap [5] ties hoses [2]/[3] to the vacuum hoses along the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "6"
+      ],
+      "holds": [
+        "1",
+        "3",
+        "9"
+      ],
+      "to": "canister",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C (RPO LT1): hoses [1], [3], [9] to the canister with clamps [4] and [6]; strap [5] on the run.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "carburetor / air cleaner fitting",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B (RPO LT1): hose [9] clamped with [4] at the front of the carb; [1] and [3] route along the manifold.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 9 pn heavily inked; read 3973350 (OCR 8973350).",
+    "Hose [3] carb-end connection not clearly shown; endpoint descriptions approximate.",
+    "Circled 9 next to VIEW C = revision 9.",
+    "Model box: 19000 (EXC RPO LS7)."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "8",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-7-70",
+      "sym": "9",
+      "text": "VIEW \"C\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "NA9",
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

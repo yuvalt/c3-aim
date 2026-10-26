@@ -1,0 +1,125 @@
+{
+  "page": 422,
+  "group": "UA6",
+  "sheet": "A2",
+  "title": "ANTI-THEFT ALARM-DOOR JAMB, HOOD SWITCH & INST PNL WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO UA6 anti-theft alarm, front of car: the hood (alarm) switch on a bracket riveted to the cowl next to the windshield wiper motor, and the alarm harness that runs along the instrument panel harness to the LH and RH door jamb switches and the instrument-panel-to-body harness connector. The switch threads through the bracket and is tightened to 84-120 LBS IN; the bracket is held by rivets in two 7/32 holes; a lead plugs into the fuse panel receptacle marked BAT.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3929???",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – anti-theft alarm hood switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3937680",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – hood switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6297666",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Harness assembly – anti-theft alarm wiring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "455624",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "84-120",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "cowl, beside the windshield wiper motor",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Rivets [4] go down through bracket [2] into two 7/32 dia holes in the cowl (holes located by the 1.74 / 1.50 / .75 dimensions).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket [2]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Switch [1] mounts vertically through bracket [2] (switch body tightened to triangle 1, 84-120 LBS IN); its leads pass down through a 1/2 dia hole. No separate nut is called out.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "instrument panel harness and fuse panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Harness [3] is held by production clips and a production grommet along the instrument panel harness, connects at the instrument-panel-to-body harness connector, the LH and RH door jamb switches, the W/S washer ground connector and the W/S wiper ground terminal. View A: a lead (callout 1) plugs into the fuse panel receptacle marked BAT.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Plug into fuse panel receptacle marked \"BAT\".",
+    "1/2 DIA HOLE",
+    "7/32 DIA 2 HOLES",
+    "Dimensions: 1.74, 1.50, .75, 1.08"
+  ],
+  "notes_internal": [
+    "Title block: UPC UA6, sheet A2, model 19000, C/O A1, A2, drawing 3965172, K420. Revision block empty; L- 86985 in the left column.",
+    "Item 1: last three digits wiped by the binder hole; only 3929 visible.",
+    "Hood switch fastening: drawing does not show whether the switch has its own nut; 'tightened to torque 1' is from the triangle at callout 1.",
+    "Callout 1 in View A points at a lead with a connector going into the fuse panel BAT receptacle; whether this lead is part of switch [1] or of harness [3] is not clear from the drawing.",
+    "Circled 10 near the dash points at a hole/feature with dimension 1.08; meaning not stated (not in the callout list)."
+  ],
+  "revisions": [],
+  "options": [
+    "UA6"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

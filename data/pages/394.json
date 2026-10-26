@@ -1,0 +1,281 @@
+{
+  "page": 394,
+  "group": "M40",
+  "sheet": "A12",
+  "title": "3 SPEED AUTO. TRANS.-OIL COOLER PIPES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Automatic transmission (RPO M40) oil cooler lines: steel inlet and outlet pipes run from the transmission case fittings forward along the right side of the engine, past the starter and oil pan, to the radiator's built-in cooler. At the radiator, short pipes from the radiator tank fittings connect to the long lines with rubber hoses and hose clamps. The two lines are tied together by snap clips along the way and held by one clip screwed down near the front lower control arm. 454 engines use different hoses and inlet pipe.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "????522",
+      "name": "CLIP",
+      "name_expanded": "Clip – cooler pipes, screw-mounted",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3974703",
+      "name": "PIPE ASM.-INLET",
+      "name_expanded": "Pipe assembly – transmission oil cooler inlet (long line)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419400",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3974704",
+      "name": "PIPE ASM.-OUTLET",
+      "name_expanded": "Pipe assembly – transmission oil cooler outlet (long line)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3710497",
+      "name": "CLIP",
+      "name_expanded": "Clip – pipe-to-pipe tie",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3894560",
+      "name": "PIPE ASM.",
+      "name_expanded": "Pipe assembly – radiator upper cooler fitting to hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3773687",
+      "name": "HOSE",
+      "name_expanded": "Hose – cooler line at radiator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3900199",
+      "name": "454 ENG.",
+      "name_expanded": "Hose – cooler line at radiator, 454 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3960617",
+      "name": "PIPE ASM.-INLET",
+      "name_expanded": "Pipe assembly – radiator cooler inlet (short)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3973884",
+      "name": "454 ENG.",
+      "name_expanded": "Pipe assembly – radiator cooler inlet (short), 454 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3844450",
+      "name": "HOSE",
+      "name_expanded": "Hose – cooler line at radiator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3778744",
+      "name": "454 ENG.",
+      "name_expanded": "Hose – cooler line at radiator, 454 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9417435",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "115-135",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "100-125",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "7-11",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "transmission case fittings",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: inlet [2] and outlet [4] pipe tube nuts thread into the transmission cooler fittings, behind the modulator.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "each other",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view and View A: clips [5] snap around both pipes to tie them together at several points along the engine (4 shown in main view, 1 in View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "1"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "chassis near the front lower control arm",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Main view: clip [1] holds both pipes; screw [3] goes down through the clip.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6",
+        "8"
+      ],
+      "to": "radiator cooler fittings",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: pipe [6] tube nut threads into the upper fitting on the radiator tank; inlet pipe [8] into the lower fitting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "pipe [6] and outlet pipe [4]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View B: hose [7] joins pipe [6] to outlet pipe [4], a clamp [10] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "pipe [8] and inlet pipe [2]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View B: hose [9] joins inlet pipe [8] to inlet pipe [2], a clamp [10] at each end.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".44 (pipe clearance at View A arrow)",
+    ".62 (clearance at front engine mounting)",
+    ".84 (clearance at oil pan)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the first digits; visible '522'; digit count assumed 7 from column alignment.",
+    "Clip [1]: drawing does not name what screw [3] threads into (near the lower control arm label).",
+    "Which hose [7]/[9] joins which long pipe read from View B leaders; ends at pipes [2]/[4] are close together and could be swapped.",
+    "Revision record empty."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

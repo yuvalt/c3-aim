@@ -1,0 +1,226 @@
+{
+  "page": 364,
+  "group": "LS7",
+  "sheet": "A2",
+  "title": "V-8 454 ENGINE H.D. NON-ILLUSTRATED PARTS",
+  "models": [
+    "19400"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "RPO LS7 454 heavy-duty V-8: list of components that are not drawn in this option section (decal, heater hoses, rear axle/hubs/stabilizer, brake lines, engine assembly, balancer, dipstick, oil, fan, water pump, manifolds, accelerator controls, heat shield, A/C compressor, generator, starter, ignition, transmission bolts, fuel tank and lines, exhaust, front sheet metal, radiator and shroud, battery, instruments). Each is marked as assembling the same as production or the same as RPO LS5 (or LT1 / M40 where stated); part numbers are in the parts list or bill of material.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers.",
+    "◑ Assembles same as production.",
+    "* Assembles same as RPO LS5",
+    "See Parts List or Bill of Material for part number."
+  ],
+  "notes_internal": [
+    "List sheet only: no parts or fastening.",
+    "Model box reads 19400 as printed (other LS7 sheets use 19000).",
+    "Hole punches cover 'fol' in 'following' and the 'UP' of 'UPC 7'; UPC 7 inferred from the line content (7 TRANSMISSION).",
+    "8B FUEL LINES has no ◑ or * symbol after the dash.",
+    "Title block: drawing 3965172; DR /CI, CK 5-9-69 CI, PREL 5-5-69, C/O L88-A2; K362 in margin. Revision triangles 1-5 at left all blank except the record row with sym 3."
+  ],
+  "revisions": [
+    {
+      "date": "5-19-70",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [
+    {
+      "title": "NON-ILLUSTRATED PARTS",
+      "columns": [
+        "UPC",
+        "code",
+        "name",
+        "assembles same as"
+      ],
+      "rows": [
+        [
+          "A06",
+          "A06",
+          "UNDERBODY UPHOLSTERY ITEMS - TRIM PLATE DECAL",
+          "PROD."
+        ],
+        [
+          "B1201",
+          "B1201",
+          "HEATER & DEFROSTER PROVISIONS - HEATER HOSES",
+          "LS5"
+        ],
+        [
+          "4",
+          "4A1",
+          "DIFFERENTIAL CARRIER & AXLES SHAFTS",
+          "LS5"
+        ],
+        [
+          "4",
+          "4A5",
+          "REAR HUBS & BEARINGS",
+          "PROD."
+        ],
+        [
+          "4",
+          "4F",
+          "REAR STABILIZER",
+          "LS5"
+        ],
+        [
+          "5",
+          "5F",
+          "BRAKE LINES",
+          "PROD."
+        ],
+        [
+          "6",
+          "6",
+          "ENGINE ASM",
+          "PROD."
+        ],
+        [
+          "6",
+          "6C2",
+          "CRANKSHAFT BALANCER",
+          "PROD."
+        ],
+        [
+          "6",
+          "6G4",
+          "OIL LEVEL INDICATOR",
+          "LS5"
+        ],
+        [
+          "6",
+          "6G7",
+          "ENGINE OIL",
+          "LS5"
+        ],
+        [
+          "6",
+          "6K1",
+          "FAN & DRIVE",
+          "LS5"
+        ],
+        [
+          "6",
+          "6K2",
+          "WATER PUMP & DRIVE",
+          "LS5"
+        ],
+        [
+          "6",
+          "6L",
+          "INTAKE & EXHAUST MANIFOLD",
+          "PROD."
+        ],
+        [
+          "6",
+          "6N2",
+          "ACCELERATOR PEDAL & CONTROLS",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Q",
+          "POWER PLANT TO FRAME MOUNTINGS (Heat Shield)",
+          "LS5"
+        ],
+        [
+          "6",
+          "6T",
+          "AIR COMPRESSOR",
+          "RPO LT1"
+        ],
+        [
+          "6",
+          "6Y1",
+          "GENERATOR & REGULATOR",
+          "LS5"
+        ],
+        [
+          "6",
+          "6Y2",
+          "STARTING MOTOR & CONTROLS",
+          "LS5"
+        ],
+        [
+          "6",
+          "6Y4",
+          "SPARK PLUGS, IGNITION COIL & WIRES, IGNITION SWITCH & GROUND STRAP",
+          "LS5"
+        ],
+        [
+          "7",
+          "7",
+          "TRANSMISSION, CLUTCH & CONTROLS - TRANSMISSION (Trans to Flywheel Bolt)",
+          "RPO M40"
+        ],
+        [
+          "8",
+          "8A",
+          "FUEL TANK, MOUNTING & TANK GAGE UNIT",
+          "PROD."
+        ],
+        [
+          "8",
+          "8B",
+          "FUEL LINES",
+          ""
+        ],
+        [
+          "8",
+          "8C",
+          "EXHAUST PIPE, MUFFLER & TAIL PIPE",
+          "LS5"
+        ],
+        [
+          "11-13",
+          "11E",
+          "MISC FRONT END SHEET METAL PARTS",
+          "LS5"
+        ],
+        [
+          "11-13",
+          "13A",
+          "RADIATOR ASM",
+          "PROD."
+        ],
+        [
+          "11-13",
+          "13E",
+          "RADIATOR SHROUD (Fan Shroud & Seals)",
+          "LS5"
+        ],
+        [
+          "12",
+          "12A",
+          "BATTERY & LEADS (Battery)",
+          "PROD."
+        ],
+        [
+          "12",
+          "12J",
+          "INSTRUMENT CARRIER PANEL &/OR INSTRUMENTS",
+          "LS5"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

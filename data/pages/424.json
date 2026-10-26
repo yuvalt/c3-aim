@@ -1,0 +1,194 @@
+{
+  "page": 424,
+  "group": "UA6",
+  "sheet": "A4",
+  "title": "HORN & SWITCH MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO UA6 anti-theft alarm, rear of car: the alarm key switch (lock cylinder with escutcheon) in the rear panel between the tail lamp openings, 5.90 from the centerline, held from behind by a retainer; and the separate alarm horn mounted inside the LH rear body. The horn bracket is bolted with a lock washer (100-140 LBS IN) into a plate riveted to the inner panel.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "4884405",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – alarm lock cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3897449",
+      "name": "ESCUTCHEON",
+      "name_expanded": "Escutcheon – alarm lock cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3990868",
+      "name": "LOCK UNIT",
+      "name_expanded": "Lock unit – anti-theft alarm key switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "180075",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "138485",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "1999938",
+      "name": "HORN ASM.",
+      "name_expanded": "Horn assembly – anti-theft alarm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3828550",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3932814",
+      "name": "PLATE",
+      "name_expanded": "Plate – horn mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-14",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "plate [8] behind the LH rear inner panel",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Bolt [4] with lock washer [5] goes through the horn [6] bracket and the panel's 3/8 hole into plate [8] on the back side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "LH rear inner body panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [7] through the 13/64 dia holes hold plate [8] behind the panel (View A gives hole locations).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "rear panel between the tail lamp openings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: lock unit [3] passes through escutcheon [2] and the 1.20 dia hole in the rear panel from outside; retainer [1] clips over it from behind. A production 'LOCK' fastener (no callout, torque 1, 10-14 LBS IN) is shown next to the switch.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE FILE CORNERS AS SHOWN (View C: 1.20 DIA HOLE with .205 DIA HOLE notch)",
+    "View A: 5/16 DIA HOLE; 13/64 DIA HOLES; 3/8 DIA HOLE; 5/8 DIA HOLE; BODY WIRING HARNESS GROMMET HOLE; ANT GROMMET HOLE",
+    "Dimensions: 5.90 from centerline (lock); View A .75, 2.36, 1.00 REF, .41, .27, .90, 1.80, 2.40, 1.0"
+  ],
+  "notes_internal": [
+    "Title block: UPC UA6, sheet A4 (smudged; C/O box reads A4), model 19000 (smudged), drawing 3965172, L- 86985. Callout list has pn before the item box on this sheet.",
+    "Torque 1 triangle is on the production-part label 'LOCK' near the switch, not on a callout; what that production fastener is is not stated.",
+    "Circled 25 and 20 in View A: reference marks, not in the callout list.",
+    "Circled 2 at LOCK UNIT [3] in the list = revision 2.",
+    "Location (rear panel, LH rear horn) inferred from contents sheet A1 showing A4 at the rear of the car and the tail-lamp-shaped openings."
+  ],
+  "revisions": [
+    {
+      "date": "1-22-70",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-23-70",
+      "sym": "2",
+      "text": "WAS 3986859 LOCK",
+      "was": "3986859",
+      "item": "3"
+    }
+  ],
+  "options": [
+    "UA6"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

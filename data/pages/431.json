@@ -1,0 +1,315 @@
+{
+  "page": 431,
+  "group": "U69",
+  "sheet": "A7",
+  "title": "RADIO AM/FM-IGNITION SHIELDING EQUIPMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Radio-option (U69 AM/FM) ignition shielding for the 454 engines (RPO LS5 & LS7): the shielded spark plug wire set (one wire per cylinder, separate part numbers for LS7) running from the distributor cap to the plugs. Each wire's shielding has a ground lead ending in an eyelet; the eyelets of neighbouring wires are stacked and bolted to the cylinder heads, and ground leads at the distributor are held by a nut. View A gives the plug wire routing / firing order at the cap.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "8901497",
+      "name": "WIRE ASM (CYL NO 1)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "6295123",
+      "name": "WIRE ASM (CYL NO 1)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 1), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "8901498",
+      "name": "WIRE ASM (CYL NO 2)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 2)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "6295124",
+      "name": "WIRE ASM (CYL NO 2)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 2), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8901499",
+      "name": "WIRE ASM (CYL NO 3)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 3)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "6295125",
+      "name": "WIRE ASM (CYL NO 3)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 3), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "8901500",
+      "name": "WIRE ASM (CYL NO 4)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 4)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "6295126",
+      "name": "WIRE ASM (CYL NO 4)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 4), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "8901501",
+      "name": "WIRE ASM (CYL NO 5)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 5)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "6295127",
+      "name": "WIRE ASM (CYL NO 5)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 5), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "8901502",
+      "name": "WIRE ASM (CYL NO 6)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 6)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6295128",
+      "name": "WIRE ASM (CYL NO 6)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 6), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8901501",
+      "name": "WIRE ASM (CYL NO 7)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 7)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "6295129",
+      "name": "WIRE ASM (CYL NO 7)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 7), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "8901504",
+      "name": "WIRE ASM (CYL NO 8)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 8)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "6295130",
+      "name": "WIRE ASM (CYL NO 8)",
+      "name_expanded": "Spark plug wire assembly, shielded (cylinder no. 8), RPO LS7 only",
+      "models": [
+        "RPO LS7"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "120361",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "180020",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "38-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "to": "cylinder heads (each side of the engine)",
+      "qty": "4 shown (2 per side)",
+      "torque_ref": "2",
+      "note": "Bolt [10] goes through the stacked ground-lead eyelets of two adjacent plug wires into a boss on the cylinder head, one bolt per pair of wires (lower view: wires 8+6 at one bolt, 4+2 at the other; the other bank is drawn the same way at upper right). The ground leads are part of each wire assembly; no separate strap.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "to": "distributor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [9] goes down onto a stud at the distributor, beside the cap, clamping wire ground lead(s). Which leads/stud exactly is not clear in the drawing.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "WHITE WIRE",
+    "BLACK WIRE",
+    "VIEW A: plug wire routing from distributor cap terminals to cylinders 1-8 (odd numbers RH bank, even numbers LH bank)."
+  ],
+  "notes_internal": [
+    "Item 7 (8901501) is printed with the same pn as item 5; copied as printed, possible print error. Flagged uncertain.",
+    "Item 8 base pn last digit broken; reads 4 (OCR read 8901501). Flagged uncertain.",
+    "Item 7 LS7 pn 6295129: third digit faint (OCR 6235129); reads 9. Flagged uncertain.",
+    "Torque legend refs 3-5 are empty; 'K429' stamped beside them (not a torque).",
+    "Bolt [10] pairings read from the lower view only; upper-right bank pairing not clear.",
+    "White/black wire labels point to coil primary leads; not callout parts."
+  ],
+  "revisions": [
+    {
+      "date": "5-24-70",
+      "sym": "3",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69",
+    "LS5",
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

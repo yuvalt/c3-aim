@@ -1,0 +1,244 @@
+{
+  "page": 382,
+  "group": "M20",
+  "sheet": "A5",
+  "title": "4 SPEED TRANS. BACK-UP LAMP SWITCH & SPEEDO CABLE ROUTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "4-speed manual transmission cars: the back-up (reverse) lamp switch mounted on the LH side of the transmission and actuated by a rod from the reverse selector lever, and the routing of the speedometer cable from the transmission to the dash. The switch and its shield screw to a bracket that is held on by the transmission side-cover bolts; the speedometer cable is held to the body by clips riveted on with blind rivets.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1481???",
+      "name": "SPRING",
+      "name_expanded": "Spring - retainer spring for back-up switch activating rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3864296",
+      "name": "BRACKET",
+      "name_expanded": "Bracket - back-up lamp switch mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1993430",
+      "name": "SWITCH",
+      "name_expanded": "Switch - back-up (reverse) lamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3923915",
+      "name": "ROD",
+      "name_expanded": "Rod - back-up switch activating rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "423595",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3706355",
+      "name": "SHIELD",
+      "name_expanded": "Shield - back-up lamp switch",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3788712",
+      "name": "CLIP",
+      "name_expanded": "Clip - speedometer cable",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "455622",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "6477901",
+      "name": "SHAFT ASM. SPEEDO",
+      "name_expanded": "Speedometer cable (shaft assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "3",
+        "6"
+      ],
+      "to": "mounting bracket [2]",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "View A: two screws [5] go through shield [6] and switch [3] into bracket [2]; left loose until the switch lever is pinned to the bracket with the .090 in gage pin, then torqued.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "transmission side cover (LH)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bracket [2] is held by existing transmission cover bolts (labelled COVER BOLT, no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "back-up switch [3] lever and transmission reverse lever",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Activating rod [4] ends are retained by spring [1]: one at the switch lever, one at the reverse selector lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "body (underbody/tunnel and floor near the dash)",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Each speedometer cable clip [7] is riveted with a rivet [8] into a 5/32 +/- 1/64 dia hole; three clip/rivet locations shown. Hole locations see Sect. 0 sheet A10. One clip angled 45 deg.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "body",
+      "qty": "3",
+      "torque_ref": null,
+      "note": "Speedometer cable [9] runs through clips [7] and the production grommet in the dash panel; the transmission end also uses an existing speedo clip (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "speedometer head (through dash panel)",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Cable [9] upper ferrule nut torqued to 5-10 lbs in.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Back-up switch procedure: 1) Put activating rod [4] on switch [3] with spring [1]; loosely mount switch [3] and shield [6] to bracket [2] with screws [5].",
+    "2) Mount the subassembly to the transmission with the cover bolts; connect rod [4] to the reverse selector lever with spring [1]. Put selector levers in neutral.",
+    "3) Pin the switch lever to the bracket with a .090 in dia. gage.",
+    "4) With the pin in, tighten screws [5] to torque.",
+    "NOTE For hole location see Sect. 0 Sheet A10.",
+    "NOTE Item [9] is to be assembled to vehicle so that \"Hot Stamp\" is located at grommet in dash panel.",
+    "5/32 ± 1/64 DIA HOLE",
+    "Dimensions 4.40 and 4.50 locate the lower clip; 45° on the upper clip."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the digits after '1481'; digit count unknown, written 1481???.",
+    "Circled (0), (1), (15) marks near the lower clip: (1) is likely the revision 1 symbol (clip location revised); (0) and (15) unclear, possibly reference lines.",
+    "Torque 2 applies to the transmission cover bolt (no callout).",
+    "Torque 3 triangle points at the cable ferrule at the dash end; which component it threads onto is not labelled.",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 4-25-69, C/O A5; L-80268, 84031, 87693; K380 in margin. UPC box M20 only."
+  ],
+  "revisions": [
+    {
+      "date": "2-3-70",
+      "sym": "1",
+      "text": "CLIP LOCATION REVISED",
+      "was": null,
+      "item": "7"
+    }
+  ],
+  "options": [
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

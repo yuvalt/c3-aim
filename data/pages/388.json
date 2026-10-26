@@ -1,0 +1,379 @@
+{
+  "page": 388,
+  "group": "M40",
+  "sheet": "A6",
+  "title": "3 SPEED AUTO TRANS-CONTROL CABLE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Turbo Hydra-Matic 3-speed automatic (RPO M40) shift control cable: runs from the console shifter (lever & bracket assembly) down through the floor to the transmission shift lever. Front end clips onto the shifter lever pin and the housing is screwed to the shifter; rear end bolts to the transmission lever via a pin and nut, with the housing held in a bracket screwed to the transmission. Set the cable with the transmission in PARK (7.430 dimension).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "941??22",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967774",
+      "name": "RETAINER",
+      "name_expanded": "Retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "564708",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – cable end to shifter lever pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3958079",
+      "name": "CABLE ASM.",
+      "name_expanded": "Shift control cable assembly (automatic transmission)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "102635",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3949083",
+      "name": "LEVER ASM.",
+      "name_expanded": "Transmission shift lever assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "476737",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – cable housing clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3923618",
+      "name": "RETAINER",
+      "name_expanded": "Retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3718496",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "103372",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9788709",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – shift cable at transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3724180",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9779348",
+      "name": "PIN",
+      "name_expanded": "Pin – cable swivel at transmission lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9419234",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "126009",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9409245",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3926278",
+      "name": "PLATE",
+      "name_expanded": "Plate – cable opening in floor (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "15-24",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "10-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "shifter lever & bracket assembly",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: screw [1] goes down through the cable housing end fitting at the round plate beside the shifter base.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "shifter lever & bracket assembly",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: retainer [2] beside screw [1] at the cable's front end fitting; exact role not clear from the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "shifter lever pin",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view: retainer [3] clips the cable core end onto the pin of the shifter lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "transmission shift shaft",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Main view, arrow B: nut [5] holds the transmission lever [6] on the shift shaft. CAUTION: do not use an impact wrench on this nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "bracket [11] at the transmission",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Main view and View B: retainer [7] clips the cable housing into the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "transmission case",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View B: screw [12] holds the cable bracket [11] to the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "pin [13]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: cable core end goes over the pin, held by washer [9] and cotter pin [10].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "14"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "transmission lever [6]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: pin [13] passes through the lever and is held by washer [14] and nut [15].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "17"
+      ],
+      "to": "floor pan at cable opening",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: plate [17] riveted [16] at the dimpled holes around the 2.00 dia. cable hole.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Do not use impact type wrench to torque this nut. (nut [5])",
+    "7.430 ±.010 (\"PARK\" POSITION)",
+    "View A: DIMPLE 2.00 DIA. HOLE; DIMPLES 1/4 ±1/64 (3) HOLES; DIMPLES 7/32 +0 -1/64 DIA. (2) HOLES C'SINK 100° TO .361 DIA."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the 4th and 5th digits; visible '941' + '22' (Vision OCR read 9410022, not trusted).",
+    "Retainers [2] and [8]: drawn near the front cable fitting; their exact role is unclear. [8] has no fastening entry.",
+    "Lever [6] torque: triangle 4 at nut [5] carries circled revision 2 (was sym 2)."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "TORQUE 4 ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "TORQUE SYM 4 WAS SYM 2",
+      "was": null,
+      "item": "5"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

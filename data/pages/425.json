@@ -1,0 +1,103 @@
+{
+  "page": 425,
+  "group": "U69",
+  "sheet": "A1",
+  "title": "RADIO FM - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "RPO U69 AM/FM radio: contents of the U69 sheets, with an overview drawing showing where each part goes (receiver and capacitors behind the dash, speaker under the dash, spark plug and distributor/coil ignition shields and plug wiring on the engine, rear-deck antenna and its cable). Sheet A8 is canceled.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Title block: UPC U69, sheet A1, model 19000, C/O A1, drawing 3965172, K423.",
+    "Overview drawing tags: A2/A4 (receiver), A3 (speaker, two places), A5/A6/A7 (ignition shield on engine), A8 (rocker area, sheet canceled), B1 (antenna), B2 (antenna cable).",
+    "Circled 2 at the ignition shield = revision 2; circled 3 at A8 = revision 3; circled 1 above the drawing number = revision 1."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-9-70",
+      "sym": "2",
+      "text": "SHIELD DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SHEET A8 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [
+    {
+      "title": "RADIO FM CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "RECEIVER ASM & MOUNTING"
+        ],
+        [
+          "A3",
+          "SPEAKER ASM & CAPACITORS"
+        ],
+        [
+          "A4",
+          "CAPACITORS"
+        ],
+        [
+          "A5",
+          "SPARK PLUG SHIELDS"
+        ],
+        [
+          "A6",
+          "DISTRIBUTOR & COIL SHIELDS"
+        ],
+        [
+          "A7",
+          "SPARK PLUG WIRING"
+        ],
+        [
+          "A8",
+          "SHEET CANCELED"
+        ],
+        [
+          "B1",
+          "ANTENNA"
+        ],
+        [
+          "B2",
+          "ANTENNA CABLE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

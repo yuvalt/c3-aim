@@ -1,0 +1,263 @@
+{
+  "page": 426,
+  "group": "U69",
+  "sheet": "A2",
+  "title": "RADIO AM/FM-RECEIVER ASM & MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO U69 AM/FM radio receiver in the center of the instrument panel. The receiver's control shafts come through the dash and are held by shaft nuts (45-60 LBS IN), with spacer, washers and the inner/outer knobs; the rear of the receiver is braced by a bracket nutted to a stud on the receiver (20-30 LBS IN) and screwed into a U-nut (40-60 LBS IN). A convector (FM converter) assembly is screwed up under the dash (25-35 LBS IN) and plugs into the receiver; the sheet also gives the antenna trimmer peaking procedure.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "7311901",
+      "name": "CONVECTOR ASM.",
+      "name_expanded": "Convector assembly (as printed) – unit mounted under the dash, with connector to receiver",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9419305",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3954238",
+      "name": "KNOB ASM.",
+      "name_expanded": "Knob assembly – radio (outer)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3961507",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3973613",
+      "name": "SPACER",
+      "name_expanded": "Spacer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "7279805",
+      "name": "NUT",
+      "name_expanded": "Nut – radio control shaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3973612",
+      "name": "KNOB",
+      "name_expanded": "Knob – radio (inner)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "7302721",
+      "name": "RECEIVER",
+      "name_expanded": "Radio receiver – AM/FM",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9420153",
+      "name": "\"U\" NUT",
+      "name_expanded": "U-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419400",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3759924",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3921416",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – radio rear support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "45-60",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "40-60",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "underside of the instrument panel (upper dash, RH of receiver)",
+      "qty": "1 shown",
+      "torque_ref": "1",
+      "note": "Screw [2] goes up through the mounting tab of convector assembly [1] into the dash.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "instrument panel radio opening",
+      "qty": "2 (one per control shaft)",
+      "torque_ref": "2",
+      "note": "Nuts [7] thread onto the receiver's control shaft bushings from the front of the dash, clamping the receiver [9]. Stack-up on each shaft, front of dash outward: nut [7], (RH side: spacer [6]), washer [5], knob [8], knob [3]. Antenna trimmer screw is beside the RH shaft.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "receiver [9]",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "View A: nut [12] goes on a stud on the side/rear of receiver [9] (stud is part of the receiver, no separate callout) and holds the upper slot of bracket [13].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10"
+      ],
+      "holds": [
+        "13"
+      ],
+      "to": "instrument panel support/reinforcement below the receiver",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "View A: screw [11] goes through the lower hole of bracket [13] into U-nut [10] clipped on the dash support tab.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "receiver [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: connector (part of [1]) plugs into the back of the receiver.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CONNECTOR (PART OF [1])",
+    "TRIMMER SCREW",
+    "Peaking the antenna trimmer: (1) set antenna mast height to 31.00 ± 1.00 in; (2) volume knob to maximum; (3) tune to a station at or near 1400 KC on the AM scale; (4) turn the antenna trimmer screw (about ±2° of rotation) until volume is greatest; (5) turn receiver off."
+  ],
+  "notes_internal": [
+    "Title block: UPC U69, sheet A2, model 19000, C/O A2, drawing 3965172, K424; L- 83324, 90661, 92602.",
+    "Item 4: callout line is blank (tag removed, revision 1, circled 1 next to it); no part entry made.",
+    "Knobs [3]/[8], washers [5] and spacer [6] are push-on parts on the shafts; listed in the nut [7] stack-up note.",
+    "'CONVECTOR ASM.' copied as printed (probably converter)."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "1",
+      "text": "3886966 TAG REMOVED",
+      "was": "3886966",
+      "item": "4"
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

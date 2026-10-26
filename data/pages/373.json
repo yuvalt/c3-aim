@@ -1,0 +1,264 @@
+{
+  "page": 373,
+  "group": "LT1",
+  "sheet": "A3",
+  "title": "V-8 ENG 350 CU. IN. SPEC. HI-PERF.- GENERATOR & PUMP MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LT1 350 high-performance engine: generator (alternator) with its fan and pulley, and the A.I.R. (air injection / smog) pump with its brace. The pump pivots on a long bolt and nut through its lower bracket and is adjusted by a bolt through the slotted brace; the brace's lower end sits on a stud near the generator, held by a lock washer and nut. Generator pulley and fan are held by the generator's own shaft nut (no separate callout).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "11?0900",
+      "name": "GENERATOR ASM.",
+      "name_expanded": "Generator (alternator) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "800594",
+      "name": "FAN-GEN.",
+      "name_expanded": "Fan – generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1970831",
+      "name": "PULLEY-GEN.",
+      "name_expanded": "Pulley – generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3889313",
+      "name": "STUD",
+      "name_expanded": "Stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9418931",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3933093",
+      "name": "BRACE-A.I.R. PUMP",
+      "name_expanded": "Brace – A.I.R. (smog/air injection) pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "7803948",
+      "name": "PUMP ASM.",
+      "name_expanded": "A.I.R. (air injection reactor / smog) pump assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419234",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "180122",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3877606",
+      "name": "BOLT",
+      "name_expanded": "Bolt – A.I.R. pump pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9422297",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": null,
+      "value": "40-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": null,
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": null,
+      "value": "30-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": null,
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5",
+        "4",
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "engine/generator mounting area below the generator pulley",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Main view: stud [5] (triangle 2) is installed with a lock washer [4] behind the brace; the lower end of A.I.R. pump brace [7] goes over the stud, then lock washer [4] and nut [6] (triangle 3). What the stud threads into is not clear in the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "4",
+        "9"
+      ],
+      "holds": [
+        "7",
+        "8"
+      ],
+      "to": "A.I.R. pump [8]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bolt [10] (triangle 2) with lock washer [4] and plain washer [9] goes through the slotted upper end of brace [7] into the A.I.R. pump [8] (belt adjustment).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "12"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "pump mounting bracket on the engine",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: long pivot bolt [11] passes through the pump bracket and the pump [8] mounting ears; nut [12] (triangle 4) on the far end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "generator [1] shaft",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pulley [3] and fan [2] go on the generator shaft and are held by the production generator shaft washer and nut (filled-square GENERATOR labels; nut carries triangle 1). No callout for that nut/washer – they come with the generator.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "engine (production brace)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Generator [1] mounts with production brackets and the production brace (labelled PROD. BRACE); half-filled circle = assemble same as production.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Torque legend triangles are solid black; ref numbers unreadable, so legend refs left null (values listed top to bottom; 5th triangle has no value). Drawing triangles are readable: 1 at generator shaft nut, 2 at [10] and [5], 3 at [6], 4 at [12].",
+    "Item 1: digits 3–4 smeared under the hole punch ('11u0900'); third digit unreadable. Revision says was 1100833.",
+    "Item 11 carries no torque triangle.",
+    "Stud [5]: drawing shows washer [4] on both sides of the brace lower end; the stud's anchor point is hidden.",
+    "Item 1 carries a half-filled circle symbol (A2 legend: assemble same as production). Page stamped K371; C/O A2, PREL 2-27-69."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "WAS 1100833 GENERATOR",
+      "was": "1100833",
+      "item": "1"
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

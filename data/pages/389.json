@@ -1,0 +1,182 @@
+{
+  "page": 389,
+  "group": "M40",
+  "sheet": "A7",
+  "title": "3 SPD AUTO TRANS-BRAKE PEDAL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Brake pedal for cars with the 3-speed automatic (RPO M40): the wide automatic-style brake pedal hangs on a pivot shaft through the pedal support bracket under the dash, with bushings each side and a retainer clip on the shaft end. The pedal pad cover and trim plate snap onto the pedal. A plug assembly is screwed to the dash panel below the support (covers the unused clutch rod hole). Return spring and pedal bushing are the production parts from UPC 5.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "38???28",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – pedal shaft clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3828427",
+      "name": "SHAFT",
+      "name_expanded": "Shaft – brake pedal pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3888683",
+      "name": "PLATE-TRIM",
+      "name_expanded": "Plate – brake pedal pad trim (bright surround)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3888682",
+      "name": "COVER",
+      "name_expanded": "Cover – brake pedal pad (rubber)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3923669",
+      "name": "PEDAL ASM-BRAKE",
+      "name_expanded": "Brake pedal assembly (automatic transmission)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3798256",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – pedal shaft at support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3926349",
+      "name": "PLUG ASM.",
+      "name_expanded": "Plug assembly – dash panel hole",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9420721",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "13-18",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "1"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "pedal support bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Shaft [2] goes through the support bracket and the pedal hub; retainer [1] snaps on the far end of the shaft.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "pedal support bracket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bushings [6] sit in the support bracket holes on both sides around the shaft [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4",
+        "3"
+      ],
+      "to": "brake pedal [5] pad",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cover [4] fits over the pedal pad and trim plate [3] goes around it; no separate fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "dash panel below the pedal support",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] holds plug assembly [7] over the hole in the dash panel.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CAUTION: Retainer [1] must scribe a legible line on the end of the shaft during assembly; do not use an expanding tool that would prevent this.",
+    "PROD. SPRING - SEE UPC 5",
+    "PROD. BUSHING - SEE UPC 5"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers the 3rd-5th digits; visible '38' + '28'.",
+    "Items 3 and 4 have a half-filled circle symbol beside the callout; no legend explains it, and the revision record is empty."
+  ],
+  "revisions": [],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

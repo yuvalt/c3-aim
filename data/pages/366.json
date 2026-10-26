@@ -1,0 +1,272 @@
+{
+  "page": 366,
+  "group": "LS7",
+  "sheet": "A4",
+  "title": "V-8 \"454\" ENGINE H.D.-CHOKE, CARBURETOR & FUEL PIPES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LS7 454 heavy-duty V-8: carburetor on the intake manifold, the fuel feed pipe from the fuel pump to a tee, and front and rear pipes from the tee to the two carburetor fuel inlets; the tee is held by a bracket screwed to the carburetor. The carburetor is held down by nuts on manifold studs over a gasket. View A: the choke (choke thermostat/rod on the intake manifold) is held by a screw, its rod clipped to the carburetor choke lever with a retainer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3967486",
+      "name": "NUT",
+      "name_expanded": "Nut (carburetor hold-down)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967477",
+      "name": "CARBURETOR ASM",
+      "name_expanded": "Carburetor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969805",
+      "name": "PIPE ASM-FRT",
+      "name_expanded": "Pipe assembly – fuel, front (tee to front carburetor inlet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3881847",
+      "name": "GASKET",
+      "name_expanded": "Gasket – carburetor to intake manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3989394",
+      "name": "PIPE ASM",
+      "name_expanded": "Pipe assembly – fuel, fuel pump to tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "545294",
+      "name": "TEE ASM",
+      "name_expanded": "Tee assembly – fuel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3969809",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – fuel tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "187875",
+      "name": "SCREW",
+      "name_expanded": "Screw (fuel tee bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3969806",
+      "name": "PIPE ASM-RR",
+      "name_expanded": "Pipe assembly – fuel, rear (tee to rear carburetor inlet)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "456867",
+      "name": "SCREW",
+      "name_expanded": "Screw (choke)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3989392",
+      "name": "CHOKE ASM",
+      "name_expanded": "Choke assembly (thermostatic choke coil on intake manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9431655",
+      "name": "RETAINER",
+      "name_expanded": "Retainer (choke rod clip)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "14 - 18",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20 - 25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "15 - 25",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "20 - 30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "intake manifold studs",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nuts [1] on the manifold studs clamp the carburetor [2] over gasket [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "7",
+        "6"
+      ],
+      "to": "carburetor [2] base",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Screw [8] fastens bracket [7] to the carburetor; the tee [6] sits on the bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "9"
+      ],
+      "to": "tee [6] and the front/rear carburetor fuel inlets",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Front pipe [3] and rear pipe [9] are tube-nut fittings from the tee to the two carburetor inlets (triangle 2 at each).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "tee [6] and fuel pump",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Feed pipe [5] tube nut into the tee; pump end installs same as RPO LT1 [A].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "intake manifold choke pocket",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: screw [10] holds the choke [11]; its rod goes up to the carburetor choke lever and is held by retainer [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: retainer [12] clips the choke rod to the carburetor lever.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Installs same as RPO LT1."
+  ],
+  "notes_internal": [
+    "Arrow A on the intake manifold points to View A (choke).",
+    "Title block: drawing 3965172; DR WO/CI, CK 4-18-69 CI, PREL A2, C/O 3-27-69 (C/O struck); L- 91413, 79132; K364 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-19-70",
+      "sym": "6",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

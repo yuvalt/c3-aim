@@ -1,0 +1,330 @@
+{
+  "page": 406,
+  "group": "NA9",
+  "sheet": "B1",
+  "title": "EVAP EMISSION CONT. SYS.-FUEL VAPOR LINES & CANNISTER",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Evaporative emission system: the charcoal canister (cannister) sits in a two-ring strap bracket on the LH front fender skirt / production shield, and a steel fuel vapor pipe runs from the canister back along the frame to the fuel tank area, held by clips. The strap is clamped with a screw and bolted to the skirt; the pipe clip at the front is screwed down. Canister 7028024 is for LS7 and LT1 engines. Related sheets: NA9 A6 (engine hoses), B2 (tank & separator).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3923???",
+      "name": "CLIP",
+      "name_expanded": "Clip – vapor pipe to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3970275",
+      "name": "STRAP ASM.",
+      "name_expanded": "Strap assembly – canister bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3786275",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3829058",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3974797",
+      "name": "HOSE",
+      "name_expanded": "Hose – canister",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3754096",
+      "name": "HOSE",
+      "name_expanded": "Hose – canister to vapor pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3855554",
+      "name": "SCREW",
+      "name_expanded": "Screw – strap clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3972685",
+      "name": "PIPE",
+      "name_expanded": "Pipe – fuel vapor line",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3748358",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9417950",
+      "name": "BOLT",
+      "name_expanded": "Bolt – strap bracket to fender skirt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "7028046",
+      "name": "DRAIN CAP",
+      "name_expanded": "Drain cap – canister bottom",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "7026045",
+      "name": "CANNISTER",
+      "name_expanded": "Canister – charcoal (EEC)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "7028024",
+      "name": "CANNISTER",
+      "name_expanded": "Canister – charcoal, RPO LS7 & LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – pipe clip",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3976009",
+      "name": "CLIP",
+      "name_expanded": "Clip – vapor pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "108-144",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "85-115",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "2",
+        "14"
+      ],
+      "to": "strap [2] ends",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [7] pulls the strap [2] rings closed around the canister [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "front fender skirt (LH)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bolt [11] with washer [10] goes through the strap bracket into the fender skirt; two .36 dia. holes, LH only, located 1.10 and 3.12 per the drawing.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "how": "seals",
+      "holds": [],
+      "to": "canister [14] bottom",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Drain cap [13] fits on the canister bottom fitting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "canister [14] fittings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [5] with clamp [4] on the canister side fitting; hose [6] with clamps [3] from canister top to the vapor pipe [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "body/frame near production shield",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [15] holds the pipe [8] bracket/clip; the brake line shares this area (production screw shown beside it).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "production shield / brake line",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [16] holds the vapor pipe [8] at the front (View A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "frame side rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clips [1] hold the vapor pipe [8] along the frame rail to the rear (several places).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    ".36 +.010/-.000 DIA. (2) HOLES L.H. ONLY",
+    "1.10",
+    "3.12"
+  ],
+  "notes_internal": [
+    "Item 1: pn printed as 3923 followed by a blank (hole punch area?); remaining digits unreadable.",
+    "Items 9 and 12 are blank in the callout list.",
+    "Rev 1 sym digit unclear (reads 2?); date 6-23-69 partly smudged.",
+    "Which clamp [3]/[4] goes on which hose end is approximate from View A."
+  ],
+  "revisions": [
+    {
+      "date": "6-23-69",
+      "sym": "?",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-3-69",
+      "sym": "3",
+      "text": "RPO LJ2 RMVD",
+      "was": null,
+      "item": "14"
+    }
+  ],
+  "options": [
+    "NA9",
+    "LS7",
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "page": 367,
+  "group": "LS7",
+  "sheet": "A5",
+  "title": "V-8 \"454\" ENGINE H.D.-C/CASE VENT, A/CLNR & TCS SYSTEM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LS7 454 heavy-duty V-8: air cleaner with its ID and horsepower stickers, held by a production wing nut on a stud screwed into the carburetor, sitting on a gasket; crankcase ventilation (PCV valve in a grommet in the valve cover, hose to the carburetor; vent hose from the other valve cover to the air cleaner); and the TCS (transmission controlled spark) vacuum hoses and spark pipes between the carburetor, the TCS solenoid and the distributor.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "6485239",
+      "name": "AIR CLEANER",
+      "name_expanded": "Air cleaner assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3969860",
+      "name": "STICKER-IDENT",
+      "name_expanded": "Sticker – identification (air cleaner lid decal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969863",
+      "name": "STICKER-HP",
+      "name_expanded": "Sticker – horsepower (air cleaner lid decal)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3919812",
+      "name": "GASKET",
+      "name_expanded": "Gasket – air cleaner to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3873852",
+      "name": "STUD",
+      "name_expanded": "Stud – air cleaner (in carburetor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3986119",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV valve to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "6484699",
+      "name": "VALVE ASM",
+      "name_expanded": "Valve assembly – PCV valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3989347",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – PCV valve in valve cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3969848",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum (TCS)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3969845",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum (TCS solenoid / carburetor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3986117",
+      "name": "PIPE-SPARK VENT",
+      "name_expanded": "Pipe – spark vent (TCS)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3986118",
+      "name": "PIPE-SPARK",
+      "name_expanded": "Pipe – spark (vacuum advance line to distributor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3989346",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – crankcase vent connector in valve cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15 - 20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [],
+      "to": "carburetor (center of air horn)",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Stud [5] screws into the carburetor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1",
+        "4"
+      ],
+      "to": "carburetor",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Air cleaner [1] sits on gasket [4] (colored adhesive side down, note B) and is held by a production wing nut [A] on stud [5]; decal tab marks centerline of engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2",
+        "3"
+      ],
+      "to": "air cleaner [1] lid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Stickers [2] and [3] are self-adhesive on the air cleaner lid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "grommet [8] in valve cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "PCV valve [7] pushes into grommet [8]; hose [6] from the valve to the carburetor base, production clamps [A].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "valve cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Grommet [13] in the opposite valve cover takes the vent connector [C]; hose [C] with clamps [C] to the air cleaner (same as RPO LS5).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "to": "carburetor, TCS solenoid [C] and distributor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "TCS vacuum lines: hoses [9], [10] and pipes [11], [12] run between the carburetor port, the solenoid and the distributor; pipe [12] retained by production clamp [A]. Push-on connections; no fasteners called out.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Prod Part",
+    "[B] Install with colored adhesive side down.",
+    "[C] Part number & installation same as RPO LS5."
+  ],
+  "notes_internal": [
+    "Exact routing of hoses [9]/[10] and pipes [11]/[12] between carb, solenoid and distributor not fully traceable in the drawing; connections described generally.",
+    "Wing nut on top of air cleaner tagged [A] NUT (prod part, no callout).",
+    "Title block: drawing 3965172; DR /CID, CK 5-9-69 CID, PREL 5-5-69, C/O L88-A5; L- 95724; K365 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-19-70",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

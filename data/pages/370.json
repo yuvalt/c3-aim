@@ -1,0 +1,119 @@
+{
+  "page": 370,
+  "group": "LS7",
+  "sheet": "B2",
+  "title": "V-8 454 ENGINE H.D. HOOD & HOOD DECAL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LS7 454 heavy-duty V-8: hood panel (big-block hood with raised center/power bulge) with the hood bulge side moldings (chrome trim pieces at the rear opening of the bulge, LH/RH) and the 'LS-7' hood decal. Each molding has its own threaded studs (no separate stud callout) that pass through the hood and take nuts from underneath. The LS-7 decal is placed per View A.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3966669",
+      "name": "PANEL ASM-HOOD",
+      "name_expanded": "Hood panel assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3977830",
+      "name": "DECAL",
+      "name_expanded": "Decal – 'LS-7' hood decal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9420272",
+      "name": "NUT",
+      "name_expanded": "Nut (hood molding)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3922285-6",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hood bulge (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25 - 35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "hood panel [1]",
+      "qty": "2 per molding (studs shown)",
+      "torque_ref": "1",
+      "note": "Molding [4] has its own threaded studs (no separate callout) that pass through holes in the hood; nuts [3] go on from underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "hood panel [1], side of the bulge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: self-adhesive decal [2] placed .34 from the tangent line, 1.46 dimension along the edge, at the angle marked (circled 25).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "View A: TANGENT LINE, .34, 1.46, (25)"
+  ],
+  "notes_internal": [
+    "Hood [1] marked ◑ (assembles same as production); hood hinges/latch not shown.",
+    "Circled '25' in View A meaning unclear (likely angle or a reference number); copied as printed.",
+    "Molding studs count read from drawing: 2 shown on the RH molding.",
+    "Title block: drawing 3965172; DR /CID, PREL 4-30-69, C/O B2; L-90844; K368 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-6-70",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

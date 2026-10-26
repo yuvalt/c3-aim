@@ -1,0 +1,283 @@
+{
+  "page": 427,
+  "group": "U69",
+  "sheet": "A3",
+  "title": "RADIO FM-SPEAKERS & CAPACITORS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO U69 AM/FM radio: the two dash speakers (LH and RH), mounted face-up under the instrument panel upper pad in production speaker housings, and the radio-noise suppression capacitors under the dash (at the directional signal flasher, at the ignition switch and taped to the instrument panel harness near the brake pedal/stop lamp switch). Each speaker is held by nuts on production screws through its flange (7-22 LBS IN listed on the sheet); speaker leads are taped and plug into the harness.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "7312421",
+      "name": "SPEAKER ASM.",
+      "name_expanded": "Speaker assembly – dash (LH and RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3861560",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – capacitor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3839756",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – radio noise suppression (at directional signal flasher)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9985028",
+      "name": "WIRE STAPLE",
+      "name_expanded": "Wire staple",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9423663",
+      "name": "OPT.",
+      "name_expanded": "Wire staple (optional source)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9411467",
+      "name": "NUT",
+      "name_expanded": "Nut – speaker mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "801249",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – radio noise suppression (at ignition switch)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3961556",
+      "name": "CAPACITOR ASM.",
+      "name_expanded": "Capacitor assembly – radio noise suppression (at brake pedal / stop lamp switch area)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3927320",
+      "name": "CONNECTOR ASM.",
+      "name_expanded": "Connector assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3724851",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "7-22",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "",
+      "description": "(10 in.) Tape [8] to inst. panel wiring harness.",
+      "amount": "10 in.",
+      "where": "View A, capacitor [8] lead taped to the instrument panel harness (tape [10])"
+    },
+    {
+      "key": "B",
+      "code": "51aa",
+      "description": "ADHESIVE",
+      "amount": ".02 OZS.",
+      "where": "production speaker housing under the instrument panel upper pad (LH)"
+    },
+    {
+      "key": "C",
+      "code": "",
+      "description": "3 in. (2 places)-Tape speaker leads.",
+      "amount": "3 in. (2 places)",
+      "where": "speaker leads of each speaker [1] (tape [10])"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "production speaker housing under the instrument panel upper pad",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Speaker [1] goes up into the housing from below; nuts [5] thread onto production screws that come down through the housing and the speaker flange. Same arrangement LH and RH.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "speaker leads",
+      "qty": "3 in., 2 places",
+      "torque_ref": null,
+      "note": "Tape [10] wraps the speaker leads (note C); leads plug into the harness connector.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "directional signal flasher",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Capacitor [3] with insulator [2] at the directional signal flasher; wire staple [4] attaches the capacitor lead at the flasher terminal.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "ignition switch",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: capacitor [7] lead is held under the production ignition switch screw.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "instrument panel wiring harness near the brake pedal housing",
+      "qty": "10 in.",
+      "torque_ref": null,
+      "note": "View A note A: capacitor [8] taped to the instrument panel harness with tape [10]; its lead goes to the stop lamp switch circuit via connector [9].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9"
+      ],
+      "to": "harness leads",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: blade terminal pressed flush with the connector case and locked by its tab; end of leads flush with end of connector.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Press blade terminal flush with connector case and lock tab as shown.",
+    "NOTE End of leads must be flush with end of the connector.",
+    "[A] (10 in.) Tape [8] to inst. panel wiring harness.",
+    "[B] 51aa ADHESIVE-.02 OZS.",
+    "[C] 3 in. (2 places)-Tape speaker leads."
+  ],
+  "notes_internal": [
+    "Title block: UPC U69, sheet A3, model 19000, C/O 3-6-69 (handwritten over), PREL A2, drawing 3965172, K425; L- 89159, 91192, 93532.",
+    "Nut [5] has an empty torque triangle beside it (no number inside); legend only has triangle 1 = 7-22 LBS IN. torque_ref left null per rule.",
+    "Item 6: callout line blank (likely capacitor 3934217 removed, revision 3); no part entry.",
+    "Item 4 wire staple: callout leader points to the flasher/capacitor terminal area; exact role inferred from drawing, moderate confidence.",
+    "Circled revision symbols: 1 at tape [10] C (two places), 2 at note C, 3 near LH speaker, 4 at prod housing (cloth removed)."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "TAPE DWG ADDED (2 PLACES)",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "NOTE C ADDED",
+      "was": null,
+      "item": "C"
+    },
+    {
+      "date": "9-19-69",
+      "sym": "3",
+      "text": "3934217 CAPACITOR ASM RMVD",
+      "was": "3934217",
+      "item": null
+    },
+    {
+      "date": "11-28-69",
+      "sym": "4",
+      "text": "3974032 CLOTH RMVD",
+      "was": "3974032",
+      "item": null
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

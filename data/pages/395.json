@@ -1,0 +1,279 @@
+{
+  "page": 395,
+  "group": "M40",
+  "sheet": "A13",
+  "title": "3 SPEED AUTO TRANS-TO FRAME C/MEMBER & R.H. EXHAUST PIPES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Rear transmission mount and exhaust pipes for the 3-speed automatic (RPO M40). The rubber mount bolts to the bottom of the transmission tail with bolts and lock washers and to the frame crossmember with a bolt from below through a special washer and lock washer. The front exhaust pipes pass under the crossmember into the mufflers (RH muffler & rear pipe listed here, LH is production); View A shows the exhaust support clamp on the transmission, bolted through a French lock and lock washer, with a production U-bolt clamp holding the pipe.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "??72247",
+      "name": "MOUNTING ASM.",
+      "name_expanded": "Transmission rear mount assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "454933",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419073",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3700338",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3952727-8",
+      "name": "PIPE-FRT EXH-\"350\" ENG.",
+      "name_expanded": "Front exhaust pipe (LH/RH), 350 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3973879",
+      "name": "PIPE ASM-L.H. RPO LS5 & LS7",
+      "name_expanded": "Front exhaust pipe assembly – LH, RPO LS5 & LS7 (454)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3957732",
+      "name": "R.H.",
+      "name_expanded": "Front exhaust pipe assembly – RH, RPO LS5 & LS7 (454)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3974654",
+      "name": "MUFF & RR EXH. PIPE ASM.-R.H.",
+      "name_expanded": "Muffler & rear exhaust pipe assembly – RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9418994",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3952739",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – exhaust pipe support at transmission",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3937866",
+      "name": "LOCK-FRENCH",
+      "name_expanded": "French lock (bolt locking tab)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-45",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-25",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "transmission case (tail)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolts [3] with lock washers [2] go up through the mount [1] into the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "2",
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "frame crossmember",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [4] goes up from under the crossmember through lock washer [2] and special washer [5] into the mount [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8",
+        "11"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "transmission case",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bolt [9] with lock washer [8] goes through the French lock [11] and clamp [10] into the transmission.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "clamp [10]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: exhaust pipe [6] held to clamp [10] by a production nut, clamp & U-bolt (no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "each other",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Front pipes [6] slip into the muffler inlets ([7] RH, production LH) and are clamped with the production clamps drawn at the joints.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "PROD. NUT CLAMP & U-BOLT",
+    "PROD RR L.H. MUFF & EXH PIPE ASM"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers first digits; visible '72247'; length assumed 7.",
+    "Revision 2 old bolt pn handwritten '179?41' (4th char unclear, 8 or E). Revision 3 RPO list partly unclear.",
+    "Muffler joint clamps are drawn but not called out."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "WAS 3952738 MUFF & PIPE",
+      "was": "3952738",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 179?41 BOLT",
+      "was": null,
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "RPO LT1, L?2 & LT2 RMVD 26327-2773?",
+      "was": null,
+      "item": "6"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

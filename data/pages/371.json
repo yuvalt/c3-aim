@@ -1,0 +1,80 @@
+{
+  "page": 371,
+  "group": "LT1",
+  "sheet": "A1",
+  "title": "V-8 ENG. 350 CU. IN. SPEC. HI-PERF. - CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the LT1 option section (350 cu. in. special high-performance small-block V-8): non-illustrated parts (A2), generator and pump mounting (A3), pulleys and belts (A4), air pipes, hoses and diverter valve (A5), gas pipes, fuel pump and transmission controlled spark system (A6), and hood paint stripe (B1). An engine drawing shows where each sheet applies; View A shows the engine I.D. code and V.I.N. location on the cylinder case pad.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "View A: ENGINE I.D. CODE; CYLINDER CASE PAD",
+    "V.I.N. LOCATION-SEE UPC 0 SHEET B2 FOR SPECS."
+  ],
+  "notes_internal": [
+    "Index page: no parts.",
+    "Drawing callouts: A3 at the generator bracket, A4 at the pulleys/fan, A5 at the exhaust manifold air pipes, A6 at the valve cover area and at the fuel pump.",
+    "Title block: drawing 3965172; DR /CI, CK 4-18-69 CI, PREL 3-28-69, C/O A1; K369 in margin. Torque legend triangles blank."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "CARRYOVER NOTE REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LT1"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED PARTS"
+        ],
+        [
+          "A3",
+          "GENERATOR & PUMP MOUNTING"
+        ],
+        [
+          "A4",
+          "PULLEYS & BELTS"
+        ],
+        [
+          "A5",
+          "AIR PIPES, HOSES & DIVERTER VALVE"
+        ],
+        [
+          "A6",
+          "GAS PIPES, FUEL PUMP & TRANS CONTROL SPARK SYSTEM"
+        ],
+        [
+          "B1",
+          "HOOD PAINT STRIPE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

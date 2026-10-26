@@ -1,0 +1,157 @@
+{
+  "page": 411,
+  "group": "N14",
+  "sheet": "A4",
+  "title": "SIDE MOUNTED EXHAUST-FILLER PANEL & TRIMMING PROCEDURE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO N14 side mounted exhaust (side pipes): a special rear lower filler panel (rear valance/filler under the rear bumper area) and rear quarter panel with a bonded flange are used, and the front fender and rocker lower edges are trimmed to clear the side pipe. The filler panel is held with production screws, bolts and washers plus a nut; the quarter panel lower front corner takes a bolt. Note: N14 was cancelled for 1970 (see N14 A1).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3948133",
+      "name": "FILLER PANEL",
+      "name_expanded": "Filler panel – rear lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3866846",
+      "name": "NUT",
+      "name_expanded": "Nut – filler panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3948137-8",
+      "name": "FLANGE",
+      "name_expanded": "Flange – rear quarter panel lower (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963189-90",
+      "name": "REAR QUARTER PANEL",
+      "name_expanded": "Rear quarter panel (LH/RH), side exhaust version",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3856691",
+      "name": "BOLT",
+      "name_expanded": "Bolt – rear quarter panel lower front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "rear body underside",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: filler panel [1] is held by production screw & lock washer at its middle and a production bolt, lock washer & washer at its inboard end (production fasteners, no callouts).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "rear quarter / flange [3] area",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: nut [2] at the outboard flange of the filler panel [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "3"
+      ],
+      "to": "rear quarter panel [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: flange [3] is bonded to the quarter panel (BOND \"B\"); no material legend on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "lower front of rear quarter panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: bolt [5] goes in from outside at the lower front corner of the quarter panel [4]; mating part not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Remove areas to dimensions shown.",
+    "View B trim dimensions: 1.25, 1.10, .40, 6.20, 2.90, 2.08, .80"
+  ],
+  "notes_internal": [
+    "Rev 1 old pn handwritten: reads 3948156-7 (the '1' is a slash-like stroke); date last digit smudged.",
+    "Callout [4] carries a half-filled circle symbol; meaning not given.",
+    "Bond 'B' material code not listed on this sheet; material left empty.",
+    "What nut [2] mates with is not clear from View A.",
+    "View B (front fender/rocker lower edge trim) dimensions listed as figures only; no parts.",
+    "Sheet not stamped canceled, but N14 A1 says RPO N14 cancelled."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-6?",
+      "sym": "1",
+      "text": "WAS 3948156-7 REAR QTR PNL",
+      "was": "3948156-7",
+      "item": "4"
+    }
+  ],
+  "options": [
+    "N14"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

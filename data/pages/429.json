@@ -1,0 +1,271 @@
+{
+  "page": 429,
+  "group": "U69",
+  "sheet": "A5",
+  "title": "RADIO FM-SPARK PLUG SHIELDS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO U69 AM/FM radio ignition shielding on the engine: spark plug shields along each side of the engine below the exhaust manifolds, rear outer ignition shields (LH and RH), and the vertical ignition shields at the rear of each bank that run up to the coil shield. Supports are held under production engine bolts; the spark plug shields are riveted to their supports; the shields are removable via wing bolts (20-30 LBS IN) into the supports, and the lower end of each vertical ignition shield has a J-nut.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3728415",
+      "name": "WING BOLT",
+      "name_expanded": "Wing bolt – ignition shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3819758",
+      "name": "SUPPORT",
+      "name_expanded": "Support – ignition shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3819757",
+      "name": "SUPPORT",
+      "name_expanded": "Support – ignition shield (RH bank)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3819759",
+      "name": "SUPPORT",
+      "name_expanded": "Support – ignition shield (LH bank)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3973403-4",
+      "name": "SHIELD-SPARK PLUG",
+      "name_expanded": "Shield – spark plug (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3923965",
+      "name": "SHIELD-IGN. ASM. L.H.",
+      "name_expanded": "Shield assembly – ignition, LH (vertical, rear of engine up to coil shield)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3934834",
+      "name": "R.H.",
+      "name_expanded": "Shield assembly – ignition, RH (vertical, rear of engine up to coil shield)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3923969",
+      "name": "SHIELD-IGN. RR OTR L.H.",
+      "name_expanded": "Shield – ignition, rear outer, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3980192",
+      "name": "SHIELD-IGN. RR OTR R.H.",
+      "name_expanded": "Shield – ignition, rear outer, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3730322",
+      "name": "\"J\" NUT",
+      "name_expanded": "J-nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3819765-6",
+      "name": "SUPPORT",
+      "name_expanded": "Support – spark plug shield (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9411966",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3973402",
+      "name": "REINF",
+      "name_expanded": "Reinforcement – ignition shield support",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "3",
+        "4",
+        "12",
+        "14"
+      ],
+      "to": "engine (cylinder head / exhaust manifold area)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Supports [2], [3], [4], [12] and reinforcement [14] are held under production ENGINE bolts/studs; no fastener callout for them on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "support [12]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivets [13] fasten spark plug shield [5] to support [12]; a rivet [13] also joins reinforcement [14] to its support at the rear of each bank.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "7",
+        "10"
+      ],
+      "to": "supports [4] (LH) and [3] (RH)",
+      "qty": "1 per side at the top",
+      "torque_ref": "1",
+      "note": "Wing bolt [1] goes down through the tab of support [4]/[3] into the rear outer ignition shield [7] (LH) / [10] (RH); the shield's front end hooks over support [2] and seats against the engine bolts.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "rear lower shield/support at the back of each bank",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Upper-right and lower views: wing bolt [1] holds the lower end of vertical ignition shield [6]; J-nut [11] is clipped on the shield's lower edge for it. The upper end of [6] is held to the coil shield by a wing bolt (revision 9, part number not listed: item 9 line is blank).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "T.C.S. SOL WIRE (routed past ignition shield [6], revision 10)",
+    "COIL SHIELD",
+    "WING BOLT"
+  ],
+  "notes_internal": [
+    "Title block: UPC U69, sheet A5, model 19000, C/O A5, drawing 3965172, K427; L- 85582, 94407. Revision symbols on this sheet start at 7.",
+    "Items 8 and 9: callout lines blank. Circled 8 (COIL SHIELD), circled 9 (WING BOLT) and circled 10 (T.C.S. SOL WIRE) in the drawing are revision symbols, not callouts.",
+    "Fastening of supports and exact rivet pairings read from small exploded views; moderate confidence. Which part the J-nut [11] receives (wing bolt [1]) is inferred from position.",
+    "Torque triangle 1 appears beside every wing bolt [1] callout."
+  ],
+  "revisions": [
+    {
+      "date": "2-5-70",
+      "sym": "7",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "3-6-70",
+      "sym": "8",
+      "text": "SHIELD DWG ADDED (2 PLACES)",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "BOLT CALLOUT ADDED (2 PLACES)",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "10",
+      "text": "WIRE DWG ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

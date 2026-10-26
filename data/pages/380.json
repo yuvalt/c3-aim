@@ -1,0 +1,234 @@
+{
+  "page": 380,
+  "group": "M20",
+  "sheet": "A3",
+  "title": "4-SPEED TRANSMISSION INSTALLATION & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Procedure for adjusting the 4-speed (M20/M21/M22) floor shifter linkage: shift rods between the column/console control lever bracket assembly and the three transmission side levers (1st-2nd, 3rd-4th, reverse), set with a locating gage in the bracket notch, plus hooking up the back drive cable (reverse lockout to the steering column ignition lock). Rods are held to the levers by swivels or clevises with jam nuts, retainer clips, washers and a cotter pin. No part numbers on this sheet; parts are identified by letter only.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "V",
+        "R",
+        "G"
+      ],
+      "holds": [
+        "K"
+      ],
+      "to": "control lever D (shifter bracket) and transmission lever N",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod K: jam nut V and clevis R threaded on one end; other end goes into lever D and is held by retainer G. Jam nut V tightened against the clevis to specified torque (value not given on this sheet).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "S",
+        "T",
+        "U"
+      ],
+      "holds": [
+        "R"
+      ],
+      "to": "transmission lever N",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clevis pin S passes through clevis R and lever N, with washer T between lever N and clevis R; pin secured with cotter pin U.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "W",
+        "X",
+        "Y",
+        "F"
+      ],
+      "holds": [
+        "J"
+      ],
+      "to": "control lever C (shifter bracket)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod J: jam nuts W and X with swivel Y between them; rod end into lever C, held by retainer F. Jam nut X run up to the swivel, then jam nut W tightened against the swivel to specified torque.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "Z",
+        "H"
+      ],
+      "holds": [
+        "Y"
+      ],
+      "to": "transmission lever M",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Swivel Y inserted into lever M, washer Z added, held with retainer H.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "L"
+      ],
+      "to": "levers P (transmission) and E (shifter bracket)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod L is fitted the same way as rod J (steps 6-8 repeated for levers P and E); its swivel, jam nuts and retainer are not lettered separately.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "back drive cable"
+      ],
+      "to": "reverse lever, then steering column lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Back drive cable fastened to the reverse lever first; column end assembled to the column lever after the column lever is pushed fully up against the internal reverse stop with the transmission in reverse. Attachment hardware not shown.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "1) Put transmission levers M, N and P in neutral detent.",
+    "2) Put control lever A in neutral detent and insert locating gage B into the notch of the control lever bracket assembly.",
+    "3) Loosely install jam nut V and clevis R on rod K; attach rod K to lever D with retainer G.",
+    "4) Hold lever D against gage B; adjust clevis R at lever N until clevis pin S passes freely through clevis and lever.",
+    "5) Put washer T between lever N and clevis R, lock pin S with cotter pin U; tighten jam nut V against the clevis to specified torque.",
+    "6) Loosely install jam nuts W, X and swivel Y on rod J; attach rod J to lever C with retainer F.",
+    "7) Insert swivel Y into lever M, add washer Z, secure with retainer H.",
+    "8) Hold lever C against gage B and swivel Y; run jam nut X to the swivel, then tighten jam nut W against the swivel to specified torque.",
+    "9) Repeat steps 6-8 for levers P and E with rod L.",
+    "10) Install back drive cable to the reverse lever.",
+    "11) Put transmission in REVERSE and push the column lever fully up against the internal reverse stop.",
+    "12) Assemble back drive cable to the column lever.",
+    "NOTE: after adjustment the shift lever centerlines must line up for free crossover. In REVERSE the ignition key must turn freely to LOCK; LOCK must not be possible in neutral or any other gear."
+  ],
+  "notes_internal": [
+    "Procedure sheet: no callout list, no part numbers, torque triangles blank, revision block empty.",
+    "UPC box reads 'M20' with 'M21-22' below; group set to M20, options M20/M21/M22.",
+    "Step 5 prints 'Water (T)' - a typo for Washer.",
+    "Lever positions labelled in drawing: lever M 3RD/NEUT/4TH, lever N 1ST/NEUT/2ND, lever P NEUT/REV. Bracket shift pattern REV, 1ST, 2ND, 3RD, 4TH.",
+    "Title block: drawing 3965172; DR WM/CI, CK 5-6-69 CI, PREL 5-5-69, C/O A3; K378 in margin."
+  ],
+  "revisions": [],
+  "options": [
+    "M20",
+    "M21",
+    "M22"
+  ],
+  "tables": [
+    {
+      "title": "LETTER KEY (from procedure text)",
+      "columns": [
+        "letter",
+        "item"
+      ],
+      "rows": [
+        [
+          "A",
+          "Transmission control lever (shifter)"
+        ],
+        [
+          "B",
+          "Locating gage"
+        ],
+        [
+          "C",
+          "Lever (control lever bracket asm.)"
+        ],
+        [
+          "D",
+          "Lever (control lever bracket asm.)"
+        ],
+        [
+          "E",
+          "Lever (control lever bracket asm.)"
+        ],
+        [
+          "F",
+          "Retainer"
+        ],
+        [
+          "G",
+          "Retainer"
+        ],
+        [
+          "H",
+          "Retainer"
+        ],
+        [
+          "J",
+          "Rod"
+        ],
+        [
+          "K",
+          "Rod"
+        ],
+        [
+          "L",
+          "Rod"
+        ],
+        [
+          "M",
+          "Transmission lever"
+        ],
+        [
+          "N",
+          "Transmission lever"
+        ],
+        [
+          "P",
+          "Transmission lever"
+        ],
+        [
+          "R",
+          "Clevis"
+        ],
+        [
+          "S",
+          "Clevis pin"
+        ],
+        [
+          "T",
+          "Washer"
+        ],
+        [
+          "U",
+          "Cotter pin"
+        ],
+        [
+          "V",
+          "Jam nut"
+        ],
+        [
+          "W",
+          "Jam nut"
+        ],
+        [
+          "X",
+          "Jam nut"
+        ],
+        [
+          "Y",
+          "Swivel"
+        ],
+        [
+          "Z",
+          "Washer"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "page": 407,
+  "group": "NA9",
+  "sheet": "B2",
+  "title": "EVAP EMISSION CONT. SYS.-FUEL TANK & SEPARATOR ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Evaporative emission system at the rear: fuel tank with filler neck, and the vapor (liquid-vapor) separator mounted to the front of the tank, connected by short hoses to the tank and to the fuel vapor pipe that runs forward along the frame to the canister. The separator is held by a screw assembly, the hoses with clamps, and the vapor pipe by clips screwed to the frame. Tank 3967755 is for LS7 and LT1. Related sheets: NA9 B1 (vapor lines & canister), A6.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3972683",
+      "name": "NECK ASM.",
+      "name_expanded": "Neck assembly – fuel tank filler neck",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967749",
+      "name": "TANK ASM.",
+      "name_expanded": "Tank assembly – fuel tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967755",
+      "name": "TANK ASM.",
+      "name_expanded": "Tank assembly – fuel tank, RPO LS7 & LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "7028035",
+      "name": "SEPARATOR ASM.",
+      "name_expanded": "Separator assembly – fuel vapor (liquid-vapor) separator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3786276",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3933330",
+      "name": "HOSE",
+      "name_expanded": "Hose – tank to separator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9770783",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3974645",
+      "name": "HOSE",
+      "name_expanded": "Hose – separator to fuel vapor pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9421033",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – separator mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3976009",
+      "name": "CLIP",
+      "name_expanded": "Clip – fuel vapor pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3958062",
+      "name": "SCREW",
+      "name_expanded": "Screw – pipe clip to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "85-115",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "fuel tank / panel near tank front",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw assembly [8] holds the separator [3] (exploded view right).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "tank and separator [3] fittings",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [5] joins tank vent fitting to the separator; clamps [4] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "separator [3] and fuel vapor pipe",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [7] from the separator down to the fuel vapor pipe end; clamps [6] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10"
+      ],
+      "holds": [
+        "fuel vapor pipe"
+      ],
+      "to": "frame",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Clips [9] around the fuel vapor pipe, each held by screw [10] into the frame; 3 places shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "fuel tank [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Filler neck [1] fits on the tank top opening; retention not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Callouts [1] and [2] carry a half-filled circle symbol in the drawing; meaning not given on this sheet.",
+    "Tank [2] retention (straps) not shown on this sheet; covered in base fuel tank sheets.",
+    "Rev 2 date reads 6-24-69 (second digits handwritten, slightly unclear)."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "6-24-69",
+      "sym": "2",
+      "text": "RPO LJ1 REMOVED",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "10-9-69",
+      "sym": "3",
+      "text": "RPO LJ2 REMOVED",
+      "was": null,
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "WAS 3751442 HOSE",
+      "was": "3751442",
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "WAS 3833120 HOSE",
+      "was": "3833120",
+      "item": "7"
+    }
+  ],
+  "options": [
+    "NA9",
+    "LS7",
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

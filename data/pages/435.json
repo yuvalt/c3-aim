@@ -1,0 +1,153 @@
+{
+  "page": 435,
+  "group": "U79",
+  "sheet": "A1",
+  "title": "RADIO FM STEREO-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "U79 AM/FM stereo radio (used together with U69; only the stereo-specific parts are shown): the stereo multiplex adapter is screwed up under the instrument panel to the windshield (W/S) frame, with a different adapter when air conditioning (RPO C60) is fitted. The receiver installs the same as U69, and the extra LH speaker wire is routed the same as U69 and held at the LH end of the dash by a screw. Includes a short stereo check (balance knob sweeps right/left speakers; green STEREO light on an FM multiplex signal).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "73119?",
+      "name": "ADAPTER ASM.",
+      "name_expanded": "Stereo multiplex adapter assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "7312411",
+      "name": "ADAPTER ASM.",
+      "name_expanded": "Stereo multiplex adapter assembly, with air conditioning (RPO C60)",
+      "models": [
+        "RPO C60"
+      ],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "7303211",
+      "name": "RECEIVER ASM.",
+      "name_expanded": "Radio receiver assembly (AM/FM stereo)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9419305",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418016",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-28",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "10-14",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket on the windshield (W/S) frame, under the instrument panel",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [3] goes up through the left mounting tab of adapter [1] into the W/S frame bracket. The adapter's right tab lines up with the HOLES in the panel above; a separate hole position is marked (USED WITH RPO C60) for the A/C version.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "instrument panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Receiver [2] INSTALLED SAME AS RPO U69 (see U69 sheets).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "LH end of instrument panel",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [4] at the LH end of the dash, by the LH speaker wire connector; it appears to hold a wire clip/terminal of the speaker wiring. Route wire to LH speaker same as RPO U69.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: U69 must be used in addition to U79. Only parts peculiar to U79 shown.",
+    "Stereo check: 1(a) turn balance knob fully clockwise - RH speaker should play; 1(b) fully counterclockwise - LH speaker should play. 2: tuned to an FM multiplex (stereo) station, the green STEREO light on the front of the multiplex unit should light.",
+    "ROUTE WIRE TO L.H. SPEAKER SAME AS RPO U69",
+    "(USED WITH RPO C60)"
+  ],
+  "notes_internal": [
+    "Item 1 base pn: last character faint/partly lost ('73119' + a faint glyph, OCR 731191); total digit count unclear. Recorded '73119?', uncertain.",
+    "Title block text faint; title read as 'RADIO FM STEREO-CONTENTS'. Model box faint, reads 19000.",
+    "Screw [4]: what it clamps is not clear (wire clip or connector bracket at LH dash end); holds left empty.",
+    "Item 2 receiver has no fastening shown; drawing says installed same as U69.",
+    "Revision 1 handwritten 'WJS' = WAS; last digit of the old screw pn is ambiguous (7 or 2; OCR 3873992), left '?'. Item 3 carries circled 1."
+  ],
+  "revisions": [
+    {
+      "date": "3-21-70",
+      "sym": "1",
+      "text": "WAS 387399? SCREW",
+      "was": "387399?",
+      "item": "3"
+    }
+  ],
+  "options": [
+    "U79",
+    "U69",
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

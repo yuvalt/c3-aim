@@ -1,0 +1,308 @@
+{
+  "page": 433,
+  "group": "U69",
+  "sheet": "B1",
+  "title": "RADIO FM-ANTENNA",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "U69 AM/FM radio antenna (fender-mount mast antenna on the rear fender, above the frame kick-up): the antenna body comes up from under the fender through a ground plate and reinforcement and is clamped on top by the bezel and cap nut; the rod & mast screws into it. A ground strap runs from the antenna reinforcement to the frame, and the antenna lead-in cable (sheet B2) plugs into the bottom of the antenna body. A shipping cap protects the body until the mast is installed.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "384????",
+      "name": "CAP",
+      "name_expanded": "Cap - shipping cap (for shipping only, remove before installing rod & mast)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3943656",
+      "name": "CAP",
+      "name_expanded": "Cap - antenna nut on top of bezel",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3921439",
+      "name": "BEZEL",
+      "name_expanded": "Bezel - antenna base bezel on fender",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3820672",
+      "name": "GASKET",
+      "name_expanded": "Gasket - under bezel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3921443",
+      "name": "GROUND PLATE",
+      "name_expanded": "Ground plate - under fender at antenna hole",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3921444",
+      "name": "REINF.",
+      "name_expanded": "Reinforcement - antenna mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3980101",
+      "name": "BODY ASM.",
+      "name_expanded": "Antenna body assembly (base)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9422404",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3921440",
+      "name": "GROUND STRAP",
+      "name_expanded": "Ground strap - antenna to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "174916",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "443587",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3825096",
+      "name": "BUMPER",
+      "name_expanded": "Bumper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3138635",
+      "name": "GASKET",
+      "name_expanded": "Gasket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3943654",
+      "name": "ROD & MAST",
+      "name_expanded": "Antenna rod & mast (see misc. shipping list, UPC 0)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "C",
+      "code": "55c",
+      "description": "SEALER",
+      "amount": ".06 OZ",
+      "where": "cable plug-in end at the bottom of antenna body [7]"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "to": "rear fender (15/16 dia hole)",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Body [7] goes up from under the fender through reinforcement [6], ground plate [5] and the 15/16 dia hole in the fender; gasket [4] and bezel [3] sit on top and cap [2] threads onto the body to clamp the stack. The body's rib engages the 1/8 dia locating hole (RIB OF BEZEL). The threads are on the antenna body itself; there is no separate stud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "6",
+        "5"
+      ],
+      "to": "underside of fender",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rivet [11] fastens reinforcement [6] to ground plate [5]; ground plate has holes at its corners for rivets to the fender (exact count of rivets not stated).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "reinforcement [6] tab",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [8] with lock washer [10] holds one end of ground strap [9] to the tab on reinforcement [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "frame",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Other end of ground strap [9] goes to the frame side rail with the production screw, ground wire and lock washer (PROD SCREW, GROUND WIRE & L. WASHER); lock washer [10] shown there.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "holds": [
+        "7"
+      ],
+      "to": "antenna cable plug",
+      "qty": null,
+      "torque_ref": null,
+      "material": "55c",
+      "note": "Sealer 55c at the cable plug where it enters the bottom of body [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [],
+      "to": "antenna body [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Rod & mast [14] screws into the top of body [7] after shipping cap [1] is removed (Note B).",
+      "frm": "note",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: Shipping cap must be installed before exposure to water testing or weather.",
+    "NOTE: Install this end of cable from inside passenger compartment. Pull thru hole in underbody panel until grommet on cable is secured in hole. Route cable over ground strap & attach to antenna.",
+    "A: Rod & Mast-See Misc. Shipping List UPC 0",
+    "B: For shipping purposes only, remove before installing rod & mast asm.",
+    "15/16 DIA HOLE VERTICALLY THRU FENDER",
+    "1/8 DIA HOLE VERTICALLY THRU FENDER, FILE OFF CORNERS",
+    "CABLE ASM (SEE SHEET B2); GROMMET PART OF CABLE ASM"
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch wipes digits 4-7; only '384' readable.",
+    "A callout '15' appears beside [2] but no item 15 is in the list; unresolved.",
+    "Ovals '100' and '25 PV' point at the fender hole and plate edge; meaning unclear (possibly checkpoint/station codes), not recorded as notes.",
+    "Gasket [13] leader points to a small pin at the top-left corner of ground plate [5]; what it seals is unclear.",
+    "Bumper [12]: callout not found in the drawing; no fastening entry.",
+    "Rivet [11] leader lines go to the rivet under reinforcement [6]; whether the plate corner pins are also [11] is not certain."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "WAS 3948947 BODY",
+      "was": "3948947",
+      "item": "7"
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

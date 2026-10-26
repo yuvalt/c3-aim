@@ -1,0 +1,64 @@
+{
+  "page": 408,
+  "group": "N14",
+  "sheet": "A1",
+  "title": "SIDE MOUNTED EXHAUST-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "canceled",
+  "summary": "Contents sheet for RPO N14 side mounted exhaust (side pipes), stamped CANCELED: N14 was cancelled for 1970. Lists sheets A1-A4 and shows on a car outline where each applies: transmission spacer and body sill heat insulator, muffler and cover along the rocker, and the rear lower filler panel trimming.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Car outline also has an A5 callout at the rear (near tail) that is not in the contents list.",
+    "Revision date second-day digit unclear: 10-2?-69 (OCR read 10-29-69, not used)."
+  ],
+  "revisions": [
+    {
+      "date": "10-2?-69",
+      "sym": "1",
+      "text": "RPO N14 CANCELLED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N14"
+  ],
+  "tables": [
+    {
+      "title": "Contents",
+      "columns": [
+        "SHEET",
+        "TITLE"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "TRANSMISSION SPACER & BODY SILL HEAT INSULATOR"
+        ],
+        [
+          "A3",
+          "MUFFLER & COVER"
+        ],
+        [
+          "A4",
+          "RR LOWER FILLER PANEL & TRIMMING PROCEDURE"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

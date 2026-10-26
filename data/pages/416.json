@@ -1,0 +1,241 @@
+{
+  "page": 416,
+  "group": "N40",
+  "sheet": "A4",
+  "title": "HYDRAULIC STEERING-VALVES & HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power steering (N40) control valve: the valve and adapter thread onto the end of the relay rod (center link) and are clamped with a bolt; the valve's own ball stud goes up through the pitman arm with a castle nut and cotter pin. Two steel pipes connect the valve to the power cylinder, and the pitman arm is held on the steering gear by the gear nut.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "102647",
+      "name": "NUT",
+      "name_expanded": "Nut – valve ball stud at pitman arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "108630",
+      "name": "C. PIN",
+      "name_expanded": "Cotter pin",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3741383",
+      "name": "PITMAN ARM",
+      "name_expanded": "Pitman arm (power steering)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418824",
+      "name": "BOLT",
+      "name_expanded": "Bolt – valve adapter clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3826276",
+      "name": "PIPE ASM.",
+      "name_expanded": "Pipe assembly – valve to power cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3826275",
+      "name": "PIPE ASM.",
+      "name_expanded": "Pipe assembly – valve to power cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "5691955",
+      "name": "VALVE & ADAPTER ASM.",
+      "name_expanded": "Power steering control valve & adapter assembly (on the relay rod)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "42-47",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "85-105",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "230-280",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "120-160",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "4j",
+      "description": "GREASE",
+      "amount": ".010 LBS.",
+      "where": "valve ball stud / valve at the relay rod"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "pitman arm [3]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "The valve's ball stud (part of [8], no separate callout) goes up through the end of the pitman arm [3]; castle nut [1] on top, locked with cotter pin [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "steering gear sector shaft",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "Pitman arm [3] goes on the steering gear shaft and is held by the gear nut (marked as a production part, no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "4"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "relay rod (relay & tie rod asm)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Valve adapter [8] threads onto the end of the relay rod (gap .06 to .12) and is clamped by bolt [5] with lock washer [4] through the adapter clamp.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "7"
+      ],
+      "holds": [],
+      "to": "power cylinder (cylinder asm) and valve [8]",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Pipes [6] and [7] run from the valve [8] fittings to the power cylinder ports; tube nuts at the valve torque 3. Keep pipe positions as shown to avoid twisting the hoses (see note).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: hose-valve outlet and hose-valve inlet fittings set at 17° and 45° from the valve centerline. View B: pipe angles 25°, 27°, 22°11' from vertical.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE Pipe positions shown must be maintained when assembling hoses to cylinder, to avoid twisting of hoses and possible interference with neighboring parts.",
+    "[A] 4j GREASE .010 LBS.",
+    "CAUTION While lubricating, rock pitman arm to break the seal at the seat and relieve pressure so grease can escape from the seal; otherwise the seal can rupture.",
+    ".06 TO .12 (valve adapter to relay rod)",
+    "VIEW A: 17°, 45°",
+    "VIEW B: 25°, 27°, 22°11' VERTICAL"
+  ],
+  "notes_internal": [
+    "A torque triangle below the valve (left of the [8] callout) is smudged and unreadable; probably for a fitting, left unassigned. Torque 4 (230-280 LBS IN) is not otherwise found in the drawing.",
+    "Second triangle 3 at the valve fittings beside pipes [6]/[7].",
+    "Hoses (inlet/outlet) are on sheet A2; this sheet shows only their valve ends.",
+    "Revision 1 date written '52770'; read 5-27-70.",
+    "Title block: drawing 3965172; DR C1, CK 5-6-69 C1, C/O A4; K414 in margin."
+  ],
+  "revisions": [
+    {
+      "date": "5-27-70",
+      "sym": "1",
+      "text": "ARM DRAWING REVISED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "TORQUE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "N40"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

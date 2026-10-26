@@ -1,0 +1,120 @@
+{
+  "page": 432,
+  "group": "U69",
+  "sheet": "A8",
+  "title": "RADIO FM-GROUND STRAPS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet (1-9-70) for the U69 AM/FM radio option: radio-suppression ground (bonding) straps. A strap [2] at each exhaust pipe joins the exhaust pipe clamp to the crossmember above it, and strap [4] grounds the LH body bracket at the underbody reinforcement; each strap end is held by a screw with lock washer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "121753",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "2981859",
+      "name": "GROUND STRAP",
+      "name_expanded": "Ground strap (exhaust pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9420152",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2982782",
+      "name": "GROUND STRAP",
+      "name_expanded": "Ground strap (LH body bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "?5-45",
+      "unit": "LBS IN",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "frame crossmember above the exhaust pipe",
+      "qty": "1 per exhaust pipe (2 shown)",
+      "torque_ref": "1",
+      "note": "Left view: the lower eyelet of strap [2] goes over the exhaust pipe clamp stud and is held by the production clamp nut (PROD NUT, not a part of this sheet). The upper eyelet takes screw [3] with lock washer [1] into the crossmember. Same at the second pipe (upper left).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "1"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "LH body bracket at the underbody reinforcement",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Right view: screw [3] goes through strap [4] and lock washer [1] into the L.H. body bracket.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Sheet stamped CANCELED; revision 1 (1-9-70) SHEET CANCELED.",
+    "Torque legend first digit faint ('?5-45'; OCR read 55-25). Left as '?'.",
+    "Strap [2] upper attachment drawn as a screw into the transverse member above the pipes; called 'crossmember' here, not labeled on the sheet."
+  ],
+  "revisions": [
+    {
+      "date": "1-9-70",
+      "sym": "1",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "U69"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

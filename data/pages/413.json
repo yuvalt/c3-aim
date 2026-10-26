@@ -1,0 +1,120 @@
+{
+  "page": 413,
+  "group": "N40",
+  "sheet": "A1",
+  "title": "HYDRAULIC STEERING-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the N40 option section (hydraulic power steering): pump, bracket and hoses (A2), power cylinder and bracket (A3), control valve and hoses (A4), pump pulley and bleeding (A5), pump mounting and generator mounting for the 454 engine (A6, A7), and belts and pulleys (A8). A note for the 454 engine says to rotate the radiator inlet hose inboard and forward until it touches the fan shroud.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE Rotate radiator inlet hose inboard & fwd to a point where it comes in contact with rad. fan shroud. (VIEW A, 454 ENGINE)"
+  ],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the contents list.",
+    "Drawing callouts: A2/A6 at the pump bracket below the pulley, A3 at the power cylinder, A4 at the control valve, A7 at the generator (two callouts), A2 at the hoses.",
+    "Title block: drawing 3965172; DR DP/C1, CK 4-18-69 C1, PREL 3-26-69, C/O A1; K411 in margin.",
+    "Revision 5 date written '527-70' (hyphen merged); read as 5-27-70. Second number after 'REV.' reads '2946' followed by an unclear digit; first-left as '?'.",
+    "Circled 2, 3 next to A6/A7 and 5, 6 after A6/A8 titles mark the revisions."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-6-70",
+      "sym": "2",
+      "text": "SHT A6 REVISED",
+      "was": null,
+      "item": "A6"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SHT A7 REVISED",
+      "was": null,
+      "item": "A7"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "GEN DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-27-70",
+      "sym": "5",
+      "text": "SHEET A6 TITLE REV. 2946? 29968",
+      "was": null,
+      "item": "A6"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "SHEET A8 ADDED",
+      "was": null,
+      "item": "A8"
+    }
+  ],
+  "options": [
+    "N40"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "PUMP, BRACKET & HOSES"
+        ],
+        [
+          "A3",
+          "CYLINDER & BRACKET"
+        ],
+        [
+          "A4",
+          "VALVE & HOSES"
+        ],
+        [
+          "A5",
+          "PUMP PULLEY ASM. BLEEDING"
+        ],
+        [
+          "A6",
+          "PUMP MOUNTING (454 ENG.)"
+        ],
+        [
+          "A7",
+          "GEN. MOUNTING (454 ENG.)"
+        ],
+        [
+          "A8",
+          "BELTS & PULLEYS"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

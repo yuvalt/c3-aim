@@ -1,0 +1,88 @@
+{
+  "page": 377,
+  "group": "LT1",
+  "sheet": "B1",
+  "title": "V-8 ENGINE 350 CU. IN. SPEC. HI PERF. HOOD PAINT STRIPE",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LT1 hood (special high-performance 350): painted hood stripes that outline the raised center section (power bulge) and run back to points at the rear (cowl) end of the hood, plus the 'LT-1' hood decal on the stripe. Sections A-A and B-B give stripe widths and offsets from the hood edge and tangent line. Nothing is bolted on this sheet.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "????690",
+      "name": "PANEL ASM.-HOOD",
+      "name_expanded": "Hood panel assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3962692",
+      "name": "DECAL",
+      "name_expanded": "Decal – hood 'LT-1' emblem decal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3945650",
+      "name": "CHART",
+      "name_expanded": "Chart – hood paint stripe (stripe color/layout chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "2"
+      ],
+      "to": "hood panel [1], between the paint stripes ahead of the rear of the hood bulge",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Decal [2] (reads 'LT-1') is applied on the hood stripe area beside the hood center bulge, near the .20 dimension; no fastener (adhesive decal, no material code given).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Stripe dimensions (main view): 3.30 at the rear end; 2.69 and .20 at the decal area.",
+    "SECTION A-A: stripe bands .10, .10, .16 / .10, .10; .60; .16; .06; 7.86 REF. from TANGENT LINE to HOOD EDGE.",
+    "SECTION B-B: 1.10, .10, .10; .10, .10, .28; 5.56; .28; 7.60 REF. from HOOD EDGE to TANGENT LINE.",
+    "Circled grid/station references on the hood: C (centerline), 10, 25, +5."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out digits 1-4; only '690' readable.",
+    "Item 2 first digit slightly smudged; reads 3.",
+    "Model box prints '19400' as copied (other LT1 sheets: 19000).",
+    "Title block UPC box prints 'LT-1'; group normalised to LT1.",
+    "Item 1 carries half-filled circle (assemble same as production). Hood mounting not shown on this sheet.",
+    "Section A-A dimension assignment to individual bands is approximate; values copied as printed.",
+    "Torque legend triangles blank; no revisions. Page stamped K375; C/O B1, PREL 5-5-69.",
+    "Chart [3]: paint stripe chart (leaders at the stripe rear ends); not a fastened part, so no fastening entry."
+  ],
+  "revisions": [],
+  "options": [
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

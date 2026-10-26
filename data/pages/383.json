@@ -1,0 +1,128 @@
+{
+  "page": 383,
+  "group": "M40",
+  "sheet": "A1",
+  "title": "3-SPEED AUTO. TRANS.-CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the M40 option section (3-speed Turbo Hydra-Matic automatic transmission): console trim plates and seals, transmission-to-engine installation, shift control cable, brake pedal, downshift (detent) control switch and wiring, neutral safety switch, vacuum modulator pipe, rear axle and propeller shaft (driveshaft), oil cooler lines, crossmember mounting and exhaust clamp, tunnel filler panel and carpet, and the ignition interlock (back drive) linkage. Sheet A17 is cancelled. The drawing shows the VIN location on the transmission (see UPC 0 sheet B2).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "V.I.N. LOCATION-See UPC 0, Sheet B2 for specs."
+  ],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the two-column contents list.",
+    "Drawing callouts: A3 console shift plate, A4/A5 transmission, A6 control cable, A7 brake pedal, A8 control switch at carburetor, A10 modulator pipe, A13 rear mount/crossmember, A15 interlock linkage at column. A1, A2, A9, A11, A12, A14, A16 not called out.",
+    "VIN note partly hole-punched ('L  ATION', 'S  t'); restored as LOCATION / Sheet by context from p381.",
+    "Circled 1 on the drawing = revision 1 (carryover sticker removed); circled 2 at A17 = revision 2.",
+    "Title block: drawing 3965172; DR RM/CI, CK 4-18-69 CI, PREL 3-21-69, C/O A1; K381 in margin. Torque triangles blank."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "1",
+      "text": "CARRYOVER STICKER RMVD",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "SHEET A17 CANCELLED 26327",
+      "was": null,
+      "item": "A17"
+    }
+  ],
+  "options": [
+    "M40"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED PARTS"
+        ],
+        [
+          "A3",
+          "TRIM PLATES & SEALS"
+        ],
+        [
+          "A4",
+          "TRANSMISSION TO ENG."
+        ],
+        [
+          "A5",
+          "INSTALLATION PROCEDURE"
+        ],
+        [
+          "A6",
+          "CONTROL CABLE"
+        ],
+        [
+          "A7",
+          "BRAKE PEDAL"
+        ],
+        [
+          "A8",
+          "CONTROL SWITCH & WRG."
+        ],
+        [
+          "A9",
+          "NEUTRAL SAFETY SW."
+        ],
+        [
+          "A10",
+          "MODULATOR PIPE"
+        ],
+        [
+          "A11",
+          "RR AXLE & PROP SHAFT"
+        ],
+        [
+          "A12",
+          "OIL COOLER LINES"
+        ],
+        [
+          "A13",
+          "TRANS TO FRAME C/MEMBER MTG R. H. EXH PIPES & CLAMP"
+        ],
+        [
+          "A14",
+          "U/B TUNNEL FILLER PANEL & R. H. CARPET"
+        ],
+        [
+          "A15",
+          "INTERLOCK LINKAGE"
+        ],
+        [
+          "A16",
+          "INSTAL & ADJUSTMENT"
+        ],
+        [
+          "A17",
+          "CANCELLED"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
