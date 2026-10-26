@@ -1,0 +1,19 @@
+{
+  "pn": "3876130",
+  "kind": "nut",
+  "thread": "10-24",
+  "length": null,
+  "head": "nut with grommet",
+  "drive": null,
+  "finish": null,
+  "notes": " Size from GM Corvette parts catalog line, checked on the scan.",
+  "sources": [
+    {
+      "url": "",
+      "title": "Corvette Parts & Illustration Catalog 14A (rev. 12-83), fiche 5 p.116 (scan checked)",
+      "quote": "64-75 Y 3876130 AR .35 NUT, W/GROMMET (NO. 10-24)",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "confidence": "medium"
+}

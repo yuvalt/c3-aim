@@ -1,0 +1,19 @@
+{
+  "pn": "3906007",
+  "kind": "screw",
+  "thread": "1/4-14",
+  "length": "1 1/4",
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": " Size from GM Corvette parts catalog line, checked on the scan.",
+  "sources": [
+    {
+      "url": "",
+      "title": "Corvette Parts & Accessories Catalog 1953-73 (rev. 1-75), p.266 (scan checked)",
+      "quote": "seal evap., blower and seal (1/4\"-14 x 1-1/4\") ......... 3906007",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "confidence": "medium"
+}

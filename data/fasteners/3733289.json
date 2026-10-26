@@ -1,0 +1,19 @@
+{
+  "pn": "3733289",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "3 5/8",
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": " Size from GM Corvette parts catalog line, checked on the scan.",
+  "sources": [
+    {
+      "url": "",
+      "title": "Corvette Parts & Illustration Catalog 14A (rev. 12-83), fiche 1 p.181 (scan checked)",
+      "quote": "69 Y (350) (EXC. SP. H/PER.) 3733289 2 .91 BOLT, ATTACH (3/8-16 X 3 5/8)",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "confidence": "medium"
+}

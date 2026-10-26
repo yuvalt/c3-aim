@@ -1,0 +1,20 @@
+{
+  "pn": "1347774",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": " Size from GM Corvette parts catalog line, checked on the scan.",
+  "sources": [
+    {
+      "url": "",
+      "title": "Corvette Parts & Accessories Catalog 1953-73 (rev. 1-75), p.231 (scan checked)",
+      "quote": "18. 7.865 L. WASHER, 1/2 x 1-1/4 x 1/8 .... 1347774",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "dims": "1/2 x 1-1/4 x 1/8 (lock washer)",
+  "confidence": "medium"
+}

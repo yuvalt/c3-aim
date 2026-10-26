@@ -1,0 +1,19 @@
+{
+  "pn": "3841724",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "3 11/16",
+  "head": "hex (300M)",
+  "drive": null,
+  "finish": null,
+  "notes": " Size from GM Corvette parts catalog line, checked on the scan.",
+  "sources": [
+    {
+      "url": "",
+      "title": "Corvette Parts & Illustration Catalog 14A (rev. 12-83), fiche 2 p.102 (scan checked)",
+      "quote": "64-68 Y (283, 327, 427) W/A.C. 3841724 1 .92 BOLT (3/8-16 X 3 11/16)(300M)",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "confidence": "medium"
+}
