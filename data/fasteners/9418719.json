@@ -1,0 +1,14 @@
+{
+  "pn": "9418719",
+  "kind": "screw",
+  "thread": "#8",
+  "length": "3/4",
+  "head": "oval",
+  "drive": "phillips",
+  "finish": "chrome (unconfirmed)",
+  "notes": "Door top moulding screw (AIM K3 item 11; also F10). Size from a user-pasted Google AI summary with no citation; web search found no listing tying 9418719 to a size (only generic #8 x 3/4 oval phillips chrome trim screws, no GM number). Not shown in the pack until a second, sourced confirmation.",
+  "confidence": "low",
+  "sources": [
+    {"url": "", "title": "Google AI summary (pasted by user, no citation)", "quote": "Oval Head Phillips Cross-Recessed Sheet Metal Screw (Self-Tapping); Thread Size: #8; Thread Length: 3/4 inch", "accessed": "2026-10-26"}
+  ]
+}
