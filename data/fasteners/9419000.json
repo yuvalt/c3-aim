@@ -6,7 +6,7 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "Only source is OCR text of a 1981 Sprint parts book (valve rocker cover reinforcement bolt, used with bolt 180016); length lost in OCR. gmpartswiki returned 403. Single garbled source -> low.",
+ "notes": "Only source is OCR text of a 1981 Sprint parts book (valve rocker cover reinforcement bolt, used with bolt 180016); length lost in OCR. gmpartswiki returned 403. Single garbled source -> low. Retry ('9419000 AMK', '9419000 bolt', '9419000 accelerator cable bolt corvette'): only garbled OCR of GM catalogs/1968 Camaro AIM (pulley area), no size. Unchanged.",
  "confidence": "low",
  "sources": [
   {

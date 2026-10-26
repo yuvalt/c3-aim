@@ -1,0 +1,25 @@
+{
+ "pn": "3954658",
+ "kind": "screw",
+ "thread": "1/4-20",
+ "length": "7/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Single clear source (Corvette Pacifica/Ecklers kit E19150, 73-79 front valance bolts). GMPartsWiki OCR also lists it as license plate / rear roof bow reinf screw; no second size source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.corvettepacifica.com/products/34456/screw-kit-front-valance-panel-12-pieces-73-79/",
+   "title": "Corvette Screw Kit Front Valance Panel 12 Pieces 73 79 (#E19150) | Corvette Pacifica",
+   "quote": "Front valance panel attaching bolt kit, includes (12) 1/4-20x7/8\" bolts. GM PART # 3954658 1973-79",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.zip-corvette.com/73-79-lower-valance-panel-bolt-kit.html",
+   "title": "1973-1979 Corvette Lower Valance Panel Bolt Kit (GM Part 3954658)",
+   "quote": "Includes (12) bolts for mounting front lower valance panel. ... OE GM PART #: 3954658",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

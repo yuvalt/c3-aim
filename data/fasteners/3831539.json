@@ -6,7 +6,14 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No hits for the number. Not listed in NCRS 'C3 Rivet Identification' snippets or vendor rivet kits (which cite 3828546-3828550, 3828549). Round 3 (2026-10-26): 'GM 3831539 rivet' and Corvette dash/plenum/sill searches found only the AIM listing, a GMPartsWiki title page (403, no details) and a CorvetteForum thread tying it to the 1980s underdash courtesy lamp support. Still no size.",
+ "notes": "No hits for the number. Not listed in NCRS 'C3 Rivet Identification' snippets or vendor rivet kits (which cite 3828546-3828550, 3828549). Round 3 (2026-10-26): 'GM 3831539 rivet' and Corvette dash/plenum/sill searches found only the AIM listing, a GMPartsWiki title page (403, no details) and a CorvetteForum thread tying it to the 1980s underdash courtesy lamp support. Still no size. Round 4: 'rivet special' search only repeats CorvetteForum 'part # 3831539 Rivet - Special'. No size.",
  "confidence": "not_found",
- "sources": []
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/1035805-underdash-courtesy-lights.html",
+   "title": "Underdash Courtesy Lights - CorvetteForum",
+   "quote": "part # 471998 Support - Courtesy Lamp part # 3831539 Rivet - Special",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

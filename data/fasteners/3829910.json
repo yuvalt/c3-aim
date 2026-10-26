@@ -6,7 +6,7 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "Listed in NCRS 'C3 Rivet Identification' thread among common bracket-attaching rivets, but no size given in visible snippets; thread page returned 403. Round 3: Searched bare/GM corvette; only the AIM index itself. No size.",
+ "notes": "Listed in NCRS 'C3 Rivet Identification' thread among common bracket-attaching rivets, but no size given in visible snippets; thread page returned 403. Round 3: Searched bare/GM corvette; only the AIM index itself. No size. Round 4: Zip lists 3829910 with nut plate 3825325 in its 63-67 rear exhaust panel nut plate kit ('aluminum assembly rivets'), no size next to the GM number. Corvette Central's similar kit says 3/16 x 5/8 flat aluminum rivet but cites no GM number, so not recorded.",
  "confidence": "not_found",
  "sources": [
   {
@@ -14,6 +14,12 @@
    "title": "C3 Rivet Identification - NCRS Discussion Boards",
    "quote": "I am sure there are more but these appear to be most of the most common ones used for attaching brackests to the body.",
    "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.zip-corvette.com/63-67-rear-exhaust-panel-nut-plates-w-mount-rivets.html",
+   "title": "1963-1967 Corvette Rear Exhaust Panel Nut Plates w/Mount Rivets (GM Part 3825325)",
+   "quote": "OE GM PART #: 3825325, 3829910 ... includes (8) black zinc steel nut plates and (16) aluminum assembly rivets",
+   "accessed": "2026-10-26"
   }
  ]
 }

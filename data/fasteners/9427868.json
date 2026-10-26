@@ -1,18 +1,36 @@
 {
   "pn": "9427868",
-  "kind": "screw asm",
-  "thread": null,
-  "length": null,
-  "head": null,
-  "drive": null,
-  "finish": null,
-  "notes": "Dr. Rebuild 1974-77 rear quarter trim kit replaces GM 9427868 (chrome Phillips machine/trim screws) but gives no size per number; page had expired certificate.",
-  "confidence": "not_found",
+  "kind": "screw asm (sems)",
+  "thread": "M4.2-1.41 (#8-18) via supersession 11502483",
+  "length": "20mm (25/32) via supersession",
+  "head": "pan head with 12mm washer (sems) (size of GM replacement 11502483, not confirmed for the 1970 original)",
+  "drive": "pozidriv/phillips",
+  "finish": "chrome",
+  "notes": "Dr. Rebuild 1974-77 rear quarter trim kit replaces GM 9427868 (chrome Phillips machine/trim screws) but gives no size per number; page had expired certificate. Round 4: superseded: GM 1981 parts history catalog (OCR) '9427868 use 11502483'. 11502483 = Auveco 12097 M4.2-1.41 x 20mm (#8-18 x 25/32) Phillips/Pozidriv pan head sems tapping screw, 12mm washer, chrome (Auveco, Northland, ToPeCo agree). Size is of the metric replacement, not confirmed for the original 1970 inch part; supersession from a single OCR source, so medium.",
+  "confidence": "medium",
   "sources": [
     {
       "url": "https://shop.docrebuild.com/1974-1977CorvetteMtReproOfGM9422654and9427868and9428015and9427713.aspx",
       "title": "1974-1977 Corvette Coupe Rear Quarter Trim Panel 40 Piece Mounting Kit Repro Of GM 9422654, 9427868, 9428015 and 9427713",
       "quote": "includes all the chrome Phillips head machine screws and trim screws, plus the U-nuts (search snippet; no size)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "http://ww.gmpartswiki.com/getpage?pageid=128953",
+      "title": "GMPartsWiki - Parts History Catalog 87A December 1981",
+      "quote": "9427868 use 11502483",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.auveco.com/tapping-screws/4-2-1-41-x-20mm-type-1a-drive-pan-hd-type-ab-chrome-12097",
+      "title": "4.2-1.41 X 20MM TYPE 1A DRIVE PAN HD TYPE AB - CHROME (Auveco 12097)",
+      "quote": "Screw Size : M4.2-1.41 \u00b7 Length : 20MM \u00b7 Point Type : A/AB \u00b7 Head Style : Pozidriv, Sems \u00b7 Washer Diameter : 12MM \u00b7 Finish : Chome \u00b7 OEM Number : (11502483 ; 9420052)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://shop.northlandfasteners.com/General-Motors_c133.htm",
+      "title": "General Motors Body Bolts - Northland Fasteners",
+      "quote": "N12097 M4.2-1.41 x 20mm (#8 x 25/32\") Phillips Washer Head Pozi-Drive - General Motors 9420052, 11502483, 11503503",
       "accessed": "2026-10-26"
     }
   ]

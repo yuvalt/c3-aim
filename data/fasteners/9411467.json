@@ -1,19 +1,19 @@
 {
- "pn": "9411467",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "Doc Rebuild sells repro of GM 9411467 for 68-69 Corvette lower grille moldings: stamped steel hex nut, zinc/dichromate, self-threads onto tapered molding studs. No size stated. Searches: 'GM 9411467 nut', '9411467 AMK nut', grille molding size. docrebuild fetch failed (cert expired).",
- "confidence": "not_found",
- "sources": [
-  {
-   "url": "https://shop.docrebuild.com/1968-1969CorvetteGrillNutKitReproOfGM9411467.aspx",
-   "title": "1968-1969 Corvette Chrome Lower Grill ... Nut Set Repro Of GM 9411467",
-   "quote": "Repro Of GM 9411467",
-   "accessed": "2026-10-26"
-  }
- ]
+  "pn": "9411467",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Doc Rebuild sells repro of GM 9411467 for 68-69 Corvette lower grille moldings: stamped steel hex nut, zinc/dichromate, self-threads onto tapered molding studs. No size stated. Searches: 'GM 9411467 nut', '9411467 AMK nut', grille molding size. docrebuild fetch failed (cert expired). Round 4: '9411467 camaros', '9411467 nut corvette grille' found only the Doc Rebuild listing again; no size.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://shop.docrebuild.com/1968-1969CorvetteGrillNutKitReproOfGM9411467.aspx",
+      "title": "1968-1969 Corvette Chrome Lower Grill ... Nut Set Repro Of GM 9411467",
+      "quote": "Repro Of GM 9411467",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

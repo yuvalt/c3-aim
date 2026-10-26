@@ -3,17 +3,35 @@
   "kind": "nut",
   "thread": null,
   "length": null,
-  "head": null,
+  "head": "hex with integral star (serrated) washer",
   "drive": null,
   "finish": null,
-  "notes": "NCRS thread (72 side louver nut) says GM 3857243 = side louver stud nut, Paragon 15065K, a #10 nut but poster unsure 10-24 vs 10-32; another reply says the number is a wiper transmission nut kit. Thread left null.",
-  "confidence": "conflict",
+  "notes": "NCRS thread (72 side louver nut) says GM 3857243 = side louver stud nut, Paragon 15065K, a #10 nut but poster unsure 10-24 vs 10-32; another reply says the number is a wiper transmission nut kit. Thread left null. Pass 4: use clarified: Zip (68-79 wiper motor mount nuts, secures motor to firewall studs), Dr. Rebuild ('Hex Nut with integral Star Washers to mounts the motor to the firewall') and EC Products (wiper transmission to firewall) all cite GM 3857243. CorvetteParts.com calls it a 'Serrated Washer Head Nut' (68 door push button housing). Only size hint is the NCRS '#10' (pitch unknown); thread left null.",
+  "confidence": "low",
   "sources": [
     {
       "url": "https://www.forums.ncrs.org/forum/technical-discussion/123454-72-side-louver-nut",
       "title": "72 Side Louver Nut - NCRS (search snippet; page 403)",
       "quote": "Paragon sells these as part 15065K, GM part is 3857243 ... the nut is a #10 ... Don't remember if it is 10-24 or 10-32",
       "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1968-1982CorvetteWiperMotorMountNutsReplaceGM3857243.aspx",
+      "title": "1968-1982 Corvette Wiper Motor Nut and Star Washer 3 Piece Set Repro Of GM 3857243 - Dr. Rebuild",
+      "quote": "Includes Black Zinc plated Hex Nut with integral Star Washers to mounts the motor to the firewall",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.zip-corvette.com/68-79-windshield-wiper-motor-mount-nuts.html",
+      "title": "1968-1979 Corvette Windshield Wiper Motor Mount Nuts (GM Part 3857243) - Zip",
+      "quote": "secures wiper motor to firewall mount studs",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://corvetteparts.com/catalog/doors?yr=C3",
+      "title": "C3 Corvette Doors: CorvetteParts.com",
+      "quote": "1968-1968 Serrated Washer Head Nut, door outer push button housing (2 required per side) pn: 300107 \u00b7 gm #: 3857243",
+      "accessed": "2026-10-26"
     }
   ]
 }

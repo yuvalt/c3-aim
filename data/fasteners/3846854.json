@@ -1,12 +1,31 @@
 {
  "pn": "3846854",
  "kind": "nut",
- "thread": null,
+ "thread": "10-16",
  "length": null,
- "head": null,
+ "head": "U-shape spring nut",
  "drive": null,
  "finish": null,
- "notes": "Search-result summaries tie 3846854 to Mid America Motorworks C2 cowl-vent/rocker-molding kits, but inconsistently (once as the #10 pan-head screw paired with U-nut 3848300, once as the U-nut OEM number). Product pages returned 404, so no exact quote; AIM calls it NUT. No size recorded.",
- "confidence": "conflict",
- "sources": []
+ "notes": "Search-result summaries tie 3846854 to Mid America Motorworks C2 cowl-vent/rocker-molding kits, but inconsistently (once as the #10 pan-head screw paired with U-nut 3848300, once as the U-nut OEM number). Product pages returned 404, so no exact quote; AIM calls it NUT. No size recorded. Round 4: GM P&A 30A (Oct 1970) catalog text gives 3846854 as 'NUT moulding No 10 16 spl U shape sprg', i.e. #10-16 U-shape spring nut for moldings; matches AIM 'NUT' and vendor screw+U-nut kits. A Mid America/Amazon listing calls 3846854 the #10 pan-head screws (and 3848300 the U-nuts); #10 agrees, kind disagrees. Catalog OCR, one primary source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=50487",
+   "title": "GMPartsWiki - Parts and Accessories Catalog P&A 30A October 1970",
+   "quote": "65 66 Pass 3846854 12 NUT moulding No 10 16 spl U shape sprg",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amazon.com/Mid-America-Motorworks-C2-Windshield/dp/B0C4Q5ZG7K",
+   "title": "Mid America Motorworks 1963-1967 Corvette C2 Cowl Vent Grille Hardware Kit (Amazon)",
+   "quote": "eight #10 black phosphate pan-head screws ... GM part numbers 3846854 (screws) and 3848300 (U-nuts)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettepacifica.com/products/34475/screw-kit-front-grille-with-u-nuts-20-pieces-75-79/",
+   "title": "Corvette Screw Kit Front Grille With U Nuts 20 Pieces 75 79 (#E19169) | Corvette Pacifica",
+   "quote": "includes (10) screws & (10) u-nuts. GM PART NUMBER: 9427651 / 3846854",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

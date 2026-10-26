@@ -1,19 +1,25 @@
 {
- "pn": "9418843",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "Paragon rear leaf spring bolt kit 14944K lists GM 458982 / 3831586 / 3831587 / 9418843; which item is 9418843 and its size not stated (page fetch empty). Search budget ran out before further searches.",
- "confidence": "not_found",
- "sources": [
-  {
-   "url": "https://www.paragoncorvette.com/product/360966/rear-leaf-spring-bolt-kit-polyurethane",
-   "title": "1963-1982 Corvette Rear Leaf Spring Bolt Kit - Polyurethane",
-   "quote": "Part #:14944K GM Part Number:458982 / 3831586 / 3831587 / 9418843",
-   "accessed": "2026-10-26"
-  }
- ]
+  "pn": "9418843",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Paragon rear leaf spring bolt kit 14944K lists GM 458982 / 3831586 / 3831587 / 9418843; which item is 9418843 and its size not stated (page fetch empty). Search budget ran out before further searches. Round 4: GM 1981 parts history catalog (OCR) says '9418843 use 125258'; searches for 125258 ('GM 125258 nut', '125258 nut AMK') found no size. Also '9418843 camaros' nothing.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.paragoncorvette.com/product/360966/rear-leaf-spring-bolt-kit-polyurethane",
+      "title": "1963-1982 Corvette Rear Leaf Spring Bolt Kit - Polyurethane",
+      "quote": "Part #:14944K GM Part Number:458982 / 3831586 / 3831587 / 9418843",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "http://www.gmpartswiki.com/getpage?pageid=128952",
+      "title": "GMPartsWiki - Parts History Catalog 87A December 1981",
+      "quote": "9418843 use 125258",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

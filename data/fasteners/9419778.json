@@ -1,18 +1,18 @@
 {
  "pn": "9419778",
  "kind": "screw",
- "thread": "1/4-14",
- "length": "3/8-3/4",
- "head": "hex",
+ "thread": null,
+ "length": null,
+ "head": null,
  "drive": null,
  "finish": null,
- "notes": "Only one source (camaros.net hardware list, snippets) and snippets disagree on length (3/8 vs 3/4); 3/8 hex, .5 O.D. washer face. Same as 9415464 & 9426269 per list. Search budget exhausted before a second source.",
- "confidence": "low",
+ "notes": "Retry: previous size was misattributed. camaros.net snippets read '9419778-P229 9420151-P153 1/4-14X3/4 3/8AF .5 O.D.' and '9419778-P229 9420415-... 1/4-14X3/8' - the size follows 9420151 / 9420415, and 'Same screw as 9415464 & 9426269' belongs to the entry before 9419778. No size directly attached to 9419778. Also seen as heater control screw in a Camaro post (no size). Queries: '9419778 AMK', '9419778 screw', '9419778 corvette'.",
+ "confidence": "not_found",
  "sources": [
   {
    "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
    "title": "Original hardware - See Post #2 & #5 (camaros.net, search snippets)",
-   "quote": "9419778 1/4-14 x 3/4, 3/8 hex, .5 O.D. P229 ... AMK also has Stainless & zinc dichromate. Same screw as 9415464 & 9426269 (another snippet rendered the length as 3/8)",
+   "quote": "9419672-same as 9419327 9419778-P229 9420151-P153 1/4-14X3/4 3/8AF .5 O.D. (size belongs to 9420151, not 9419778)",
    "accessed": "2026-10-26"
   }
  ]

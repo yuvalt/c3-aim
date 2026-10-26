@@ -1,135 +1,135 @@
 pn,name,uses,status,size,sources,note
-103320,L. WASHER,9,not found,,3,Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but g
-3831877,RIVET,8,unconfirmed,1/2,2,"Forum-only: CorvetteForum snippet says 1/2"" long shaft (diameter not stated); NCRS 'C3 Rivet Identification' snippet lis"
-3828549,RIVET,7,conflict,3/16,3,thread field = shank diameter. Length conflicts: MAM 601261 kit titled 3/16 x 5/8 long for 3828549; NCRS 'C3 Rivet Ident
-3828470,RIVET,7,not found,,1,"No size found. NCRS thread (66573, snippet) says original is a pop (blind) rivet with square mandrel, used as rear compa"
-9409244,RIVET,6,not found,,0,"No web hits for this number (bare, GM, corvette/plenum searches)."
-271172,NUT ASM.,6,not found,,1,"AIM name NUT ASM. Second pass (extended search, usage context, vendor/AMK angles): only hit is a Nova catalog naming it "
-9422404,SCREW,5,not found,,0,"Second pass (2026-10-26): no web hit ties 9422404 to a size. Tried bare number, GM/Corvette/console context, AMK catalog"
-3958062,SCREW,5,conflict,5/16-18 x 9/16,4,"Brake/fuel line clip to frame bolt, 1969-82. One other vendor listing (seen in search summary) described 5/16-24 x 1/2; "
-3857243,NUT ASM.,4,conflict,,1,"NCRS thread (72 side louver nut) says GM 3857243 = side louver stud nut, Paragon 15065K, a #10 nut but poster unsure 10-"
-9421033,SCREW ASM.,4,not found,,2,retry: few searches (limit)
-9409245,RIVET,4,not found,,0,"Round 3: GM, rivet and AMK/Camaro searches only return the 1970 Registry AIM; GMPartsWiki 403."
-3922299,SCREW,4,not found,,1,No hits for the number. Round 3: CorvetteForum: attaches outside edges of lower steering column cover to bracket 3958714
-3958726,SCREW ASM.,4,not found,,1,No hits for the number; vendor roof-lock screws listed under other numbers only. Round 3: CorvetteParts.com 313056 'Bolt
-3846854,NUT,4,conflict,,0,"Search-result summaries tie 3846854 to Mid America Motorworks C2 cowl-vent/rocker-molding kits, but inconsistently (once"
-3983946,CLIP,4,not found,,0,No hits; '3983946' only matches an unrelated CorvetteForum thread ID.
-3901794,CLIP,4,not found,,0,"No web hits for the number (bare, GM, Corvette/harness/relay/vacuum-hose context searches). NCRS thread fetch not attemp"
-120368,NUT,4,not found,,0,retry: few searches (limit)
-3967486,NUT,4,not found,,0,"No GM hits; number only matches a Cummins 4BT cylinder head. Searched bare, GM, nut, AMK/choke, Corvette/Camaro/Chevelle"
-3831539,RIVET,3,not found,,0,No hits for the number. Not listed in NCRS 'C3 Rivet Identification' snippets or vendor rivet kits (which cite 3828546-3
-3829910,RIVET,3,not found,,1,"Listed in NCRS 'C3 Rivet Identification' thread among common bracket-attaching rivets, but no size given in visible snip"
-3922441,SCREW ASM.,3,not found,,0,"SCREW ASM. No hits for the number (bare, Chevrolet, Corvette console context)."
-3843505,SCREW,3,not found,,1,retry: few searches (limit)
-9427651,SCREW,3,not found,,2,"Mid America Motorworks lists 9427651 as GM reference for 1973-1974 front grille mounting screws (set of 12, black oxide)"
-3966667,SCREW,3,not found,,0,"No hits for the number (bare, GM/Chevrolet, window regulator/guide cam context). Round 3: '""3966667"" AMK screw GM' (exte"
-3918654,FASTENER,3,not found,,0,"No hits for the number (bare, GM/Chevrolet, trim panel/garnish molding/waterproof paper context)."
-9419000,BOLT,3,unconfirmed,1/4-20,1,"Only source is OCR text of a 1981 Sprint parts book (valve rocker cover reinforcement bolt, used with bolt 180016); leng"
-9427834,SCREW,3,conflict,#8 tapping x 5/8-3/4,2,Length conflict: Zip says #8 x 5/8 with SEMS washer; AMK B-11221 cross-ref says #8 x 3/4. Finish phosphate per AMK only.
-9427325,SCREW,3,conflict,#10 tapping or 8-32 x 3/8-1/2,3,"Conflict. AMK B-12173 (cross-ref OEM 9427325) = #10 x 1/2 hex AB tapping screw w/ flat SEMS washer, phos & oil; camaros."
-9419778,SCREW,3,unconfirmed,1/4-14 x 3/8-3/4,1,"Only one source (camaros.net hardware list, snippets) and snippets disagree on length (3/8 vs 3/4); 3/8 hex, .5 O.D. was"
-3792031,WASHER-SPL.,3,not found,,0,retry: few searches (limit)
-4767684,SCREW,3,not found,,1,"Identified as Corvette door outer window seal / reveal moulding screw (Corvette Central kits 342068 and 283089, Paragon "
-1359887,NUT,3,not searched,,0,search limit ran out; retry
-3954658,SCREW,3,not searched,,0,search limit ran out; retry
-3855554,SCREW,3,not searched,,0,search limit ran out; retry
-3858700,SCREW ASM.,3,not searched,,0,search limit ran out; retry
-9415163,SCREW,2,not found,,0,"Searches ('GM 9415163', '9415163 screw', rear grille corvette) only hit a Tamiya RC parts bag with the same number. Corv"
-9418719,SCREW,2,unconfirmed,#8 x 3/4,2,Door top moulding screw (AIM K3 item 11; also F10). Size from a user-pasted Google AI summary with no citation; web sear
-102647,NUT,2,not found,,0,"Searches ('GM 102647 nut power steering cylinder', '102647 nut GM steering', combined standard-parts query) found nothin"
-108630,C. PIN,2,not found,,0,"Novak Adapt SKU 108630 is a 1/8 x 7/8 cotter pin, but that is Novak's own item number with no GM reference, so not used."
-456867,SCREW,2,not found,,0,"Searches ('GM 456867 screw choke', '456867 screw GM chevrolet') found nothing tied to this number."
-9422242,"""U"" NUT",2,not found,,1,"Identified as console/parking-brake console mount U-nut (Dr. Rebuild repro set, black plated; Chevy II/Nova AIM 'console"
-9427868,SCREW ASM.,2,not found,,1,Dr. Rebuild 1974-77 rear quarter trim kit replaces GM 9427868 (chrome Phillips machine/trim screws) but gives no size pe
-9420890,SCREW,2,not found,,2,eBay: 1969 Camaro RS washer bottle bracket protective cap 'for 9420890 screw'; GMPartsWiki lists it as screw (lock strik
-9411467,NUT,2,not found,,1,"Doc Rebuild sells repro of GM 9411467 for 68-69 Corvette lower grille moldings: stamped steel hex nut, zinc/dichromate, "
-9418843,NUT,2,not found,,1,retry: few searches (limit)
-115854,NUT,2,not found,,0,"No hits for GM 115854 / 0115854 (only unrelated filter SKU). Searches: 'GM 115854 nut', '""115854"" nut AMK OR ""0115854""'."
-9420272,NUT,2,not found,,1,Pal nut; Paragon 14178K hood insert molding nut kit (68-71 Corvette) and 1969 Camaro RS grille molding pal nut set cite 
-9419277,P. WASHER,2,not found,,1,"NSN 5310-01-285-6971, Washer, Flat, phosphate-coated steel, mfr General Motors (parttarget); no dimensions in snippet. S"
-180121,BOLT,2,not found,,1,Appears in 1968 Camaro AIM OCR next to 180122 (generator area); neighbor 180120 = AMK B-10164 3/8-16 x 3/4 but not used 
-9428741,"""U"" NUT",2,not found,,0,retry: few searches (limit)
-455959,BOLT,2,not found,,0,retry: few searches (limit)
-145487,NUT,2,not found,,0,retry: few searches (limit)
-9420680,SCREW,2,not found,,1,retry: few searches (limit)
-9420153,"""U"" NUT",2,not found,,1,retry: few searches (limit)
-9418916,SCREW ASM.,2,not found,,0,retry: few searches (limit)
-9418971,SCREW ASM.,2,not found,,1,retry: few searches (limit)
-179842,BOLT,2,conflict,3/8-16 x 1-1/4 to 1-3/8 (sources disagree),3,"Length conflict: AMK B-14144 3/8-16 x 1-3/8 GR5; camaros.net forum says AMK B-10082 flanged 3/8-18[sic, likely 3/8-16] x"
-3828548,RIVET,14,found (medium),3/8,2,Size from Zip Corvette product title (search snippet; page returned 404 on fetch). Corvette Central lists GM Item No. 38
-455624,RIVET,13,found (medium),1/2,1,Single vendor source with explicit GM Item No. Beware: Corvette Central and Ecklers also use '455624' as unrelated vendo
+103320,L. WASHER,9,unconfirmed,5/16 (fits 5/16 bolt),6,Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacke
+3831877,RIVET,8,unconfirmed,1/2,2,"Forum-only: CorvetteForum snippet says 1/2"" long shaft (diameter not stated); NCRS 'C3 Rivet Identification' snippet lists '3831877= 1/2""' w"
+3828470,RIVET,7,not found,,3,"No size found. NCRS thread (66573, snippet) says original is a pop (blind) rivet with square mandrel, used as rear compartment reinforcement"
+9409244,RIVET,6,not found,,0,Pass 4 (Brave): only hits are AIM OCR pages (1978 Corvette AIM plenum sheet on GMPartsWiki; 1957 AIM revision note 'WAS 9409244'). No size a
+9422404,SCREW,5,not found,,1,"Second pass (2026-10-26): no web hit ties 9422404 to a size. Tried bare number, GM/Corvette/console context, AMK catalog, GMPartsWiki snippe"
+3958062,SCREW,5,conflict,5/16-18 x 9/16,4,"Brake/fuel line clip to frame bolt, 1969-82. One other vendor listing (seen in search summary) described 5/16-24 x 1/2; Zip and AMK agree on"
+3857243,NUT ASM.,4,unconfirmed,,4,"NCRS thread (72 side louver nut) says GM 3857243 = side louver stud nut, Paragon 15065K, a #10 nut but poster unsure 10-24 vs 10-32; another"
+9421033,SCREW ASM.,4,not found,,2,"Round 3: still no size. Vendors (Ecklers/Corvette Pacifica rear window storage door hinge/handle kits, Corvette Central 63-67 side exhaust c"
+9409245,RIVET,4,not found,,0,"Round 3: GM, rivet and AMK/Camaro searches only return the 1970 Registry AIM; GMPartsWiki 403. Pass 4 (Brave, 3 queries incl. '09409245 rive"
+3922299,SCREW,4,not found,,1,No hits for the number. Round 3: CorvetteForum: attaches outside edges of lower steering column cover to bracket 3958714; screws without int
+3958726,SCREW ASM.,4,not found,,2,"No hits for the number; vendor roof-lock screws listed under other numbers only. Round 3: CorvetteParts.com 313056 'Bolt Set, front t-top lo"
+3983946,CLIP,4,not found,,0,"No hits; '3983946' only matches an unrelated CorvetteForum thread ID. Round 4: 'GM 3983946', '3983946 clip corvette', '3983946 parking lamp "
+3901794,CLIP,4,not found,,2,"No web hits for the number (bare, GM, Corvette/harness/relay/vacuum-hose context searches). NCRS thread fetch not attempted beyond search sn"
+120368,NUT,4,not found,,0,"Classic Muscle sells it as '1965-1972 Clutch to Fan Nut' (no size); PartTarget: plain hex nut, cad or zinc; Dr Rebuild carb mount kits cross"
+3967486,NUT,4,not found,,0,"No GM hits; number only matches a Cummins 4BT cylinder head. Searched bare, GM, nut, AMK/choke, Corvette/Camaro/Chevelle. Round 4: 'GM 39674"
+3831539,RIVET,3,not found,,1,"No hits for the number. Not listed in NCRS 'C3 Rivet Identification' snippets or vendor rivet kits (which cite 3828546-3828550, 3828549). Ro"
+3829910,RIVET,3,not found,,2,"Listed in NCRS 'C3 Rivet Identification' thread among common bracket-attaching rivets, but no size given in visible snippets; thread page re"
+3843505,SCREW,3,not found,,1,"No hits for the number (bare, Chevrolet, Corvette console context). Round 3: Doc Rebuild repro kits (shifter insert plate; rear compartment "
+9427651,SCREW,3,not found,,3,"Mid America Motorworks lists 9427651 as GM reference for 1973-1974 front grille mounting screws (set of 12, black oxide) and also as an alte"
+3966667,SCREW,3,not found,,1,"No hits for the number (bare, GM/Chevrolet, window regulator/guide cam context). Round 3: '""3966667"" AMK screw GM' (extended) - no hits. Rou"
+3918654,FASTENER,3,not found,,2,Retry: GMPartsWiki OCR lists 3918654 as 68-75 Corvette side garnish moulding FASTENER; GM Parts History Catalog says '3918654 use 14070138'.
+9419000,BOLT,3,unconfirmed,1/4-20,1,"Only source is OCR text of a 1981 Sprint parts book (valve rocker cover reinforcement bolt, used with bolt 180016); length lost in OCR. gmpa"
+9427834,SCREW,3,conflict,#8 tapping (8-15 per AMK listing) x 5/8-3/4,3,Length conflict: Zip says #8 x 5/8 with SEMS washer; AMK B-11221 cross-ref says #8 x 3/4. Finish phosphate per AMK only. Retry: second AMK l
+9419778,SCREW,3,not found,,1,Retry: previous size was misattributed. camaros.net snippets read '9419778-P229 9420151-P153 1/4-14X3/4 3/8AF .5 O.D.' and '9419778-P229 942
+3792031,WASHER-SPL.,3,not found,,0,Searched 'GM 3792031 washer' and with Corvette rear grille/plenum/454 context: no description found. Only a GMPartsWiki supersession list me
+4767684,SCREW,3,not found,,1,"Identified as Corvette door outer window seal / reveal moulding screw (Corvette Central kits 342068 and 283089, Paragon 11180K-8, NOS eBay)."
+3858700,SCREW ASM.,3,unconfirmed,5/16-18 x 1-3/16,3,"Zip kit lists GM 3858700 AND 3847962 together, so the size can't be tied to 3858700 alone. Corvette Pacifica/EC Products sell 3858700 as bat"
+9415163,SCREW,2,not found,,0,"Searches ('GM 9415163', '9415163 screw', rear grille corvette) only hit a Tamiya RC parts bag with the same number. CorvetteForum 1971 grill"
+9418719,SCREW,2,unconfirmed,#8 x 3/4,2,Door top moulding screw (AIM K3 item 11; also F10). Size from a user-pasted Google AI summary with no citation; web search found no listing 
+102647,NUT,2,not found,,0,"Searches ('GM 102647 nut power steering cylinder', '102647 nut GM steering', combined standard-parts query) found nothing tied to this numbe"
+108630,C. PIN,2,not found,,0,"Novak Adapt SKU 108630 is a 1/8 x 7/8 cotter pin, but that is Novak's own item number with no GM reference, so not used. No GM source found."
+456867,SCREW,2,not found,,0,"Searches ('GM 456867 screw choke', '456867 screw GM chevrolet') found nothing tied to this number. Round 4: '456867 camaros', 'GM 456867' fo"
+9422242,"""U"" NUT",2,not found,,2,"Identified as console/parking-brake console mount U-nut (Dr. Rebuild repro set, black plated; Chevy II/Nova AIM 'console to front bracket'),"
+9420890,SCREW,2,not found,,2,"eBay: 1969 Camaro RS washer bottle bracket protective cap 'for 9420890 screw'; GMPartsWiki lists it as screw (lock striker lower guide, 71-7"
+9411467,NUT,2,not found,,1,"Doc Rebuild sells repro of GM 9411467 for 68-69 Corvette lower grille moldings: stamped steel hex nut, zinc/dichromate, self-threads onto ta"
+9418843,NUT,2,not found,,2,Paragon rear leaf spring bolt kit 14944K lists GM 458982 / 3831586 / 3831587 / 9418843; which item is 9418843 and its size not stated (page 
+115854,NUT,2,not found,,1,"No hits for GM 115854 / 0115854 (only unrelated filter SKU). Searches: 'GM 115854 nut', '""115854"" nut AMK OR ""0115854""'. Round 4: identified"
+9420272,NUT,2,not found,,2,Pal nut; Paragon 14178K hood insert molding nut kit (68-71 Corvette) and 1969 Camaro RS grille molding pal nut set cite GM 9420272. No size 
+9419277,P. WASHER,2,not found,,2,"NSN 5310-01-285-6971, Washer, Flat, phosphate-coated steel, mfr General Motors (parttarget); no dimensions in snippet. Searches: 'GM 9419277"
+180121,BOLT,2,not found,,1,Appears in 1968 Camaro AIM OCR next to 180122 (generator area); neighbor 180120 = AMK B-10164 3/8-16 x 3/4 but not used (no inference). Sear
+9428741,"""U"" NUT",2,not found,,0,"Searched 'GM <pn>', '<pn> AMK', '<pn> corvette/chevrolet': no hits. Session web-search budget ran out before vendor-kit searches; retry late"
+455959,BOLT,2,not found,,0,"Searched 'GM <pn>', '<pn> AMK', '<pn> corvette/chevrolet': no hits. Session web-search budget ran out before vendor-kit searches; retry late"
+145487,NUT,2,not found,,1,"Searched 'GM <pn>', '<pn> AMK', '<pn> corvette/chevrolet': no hits. Session web-search budget ran out before vendor-kit searches; retry late"
+9420680,SCREW,2,not found,,2,Identified only as a screw in GM 3759924/9420680 wiper door mounting kit (2 screws for wiper grille support bracket). No size found. Searche
+9420153,"""U"" NUT",2,not found,,2,"Called 'U' nut in AIM; a Corvair radio U-nut listing and a 1969 Camaro A/C condenser kit (as J-nut) cite it, AMK 2014 nut catalog lists the "
+9418916,SCREW ASM.,2,not found,,1,"No hit for this number. Searches done: 'GM 9418916 screw', '9418916 AMK'; budget exhausted. | Round 4: Searched '9418916', '9418916 radiator"
+9418971,SCREW ASM.,2,not found,,2,"Identified as 68-75 rear top lock pin housing screw w/ washer (Corvette Central 543004, Paragon 14151K, cross-ref SF-617) but no size publis"
+3828548,RIVET,14,found (medium),3/8,2,Size from Zip Corvette product title (search snippet; page returned 404 on fetch). Corvette Central lists GM Item No. 3828548 for 64-72 expa
+455624,RIVET,13,found (medium),1/2,1,Single vendor source with explicit GM Item No. Beware: Corvette Central and Ecklers also use '455624' as unrelated vendor SKUs (heater pipe 
 103321,L. WASHER,12,found (catalog),Finish: Plain; Hole Size: 3/8; Diameter: 43/64,3,GM Standard Parts catalog p.175
 9417954,NUT,10,found (catalog),Thread Size: 5/16-18; Grade: 286M; Finish: Phos,1,GM Standard Parts catalog p.158
 3856691,SCREW ASM.,10,found (catalog),Thread Size: 1/4-20; Length: 5/8; Identification: 275M,2,GM Standard Parts catalog p.140
-9419912,NUT,9,found (medium),1/4-20,3,"Single source (AMK cross-reference, seen only as search snippet). NSN 5310-01-157-9818 'Nut, Plain, Hexagon'. Corvette P"
-103319,L. WASHER,9,found (high),1/4,3,"GMPartsGiant gives .250 ID x .48 OD x .072 thick, plain, superseded by 09439510. Detroit Diesel (GM division) listing na"
+9419912,NUT,9,found (medium),1/4-20,3,"Single source (AMK cross-reference, seen only as search snippet). NSN 5310-01-157-9818 'Nut, Plain, Hexagon'. Corvette Pacifica lists GM 103"
+103319,L. WASHER,9,found (high),1/4,3,"GMPartsGiant gives .250 ID x .48 OD x .072 thick, plain, superseded by 09439510. Detroit Diesel (GM division) listing names 103319 a 1/4 in."
 9427761,'U' NUT,8,found (catalog),Thread Size: 8-18; Finish: Phos,2,GM Standard Parts catalog p.163
 138479,L. WASHER,8,found (catalog),Hole Size: #10; Outside Diameter: 13/32; Finish: Cad. or Zinc,0,GM Standard Parts catalog p.176
 103328,L. WASHER,8,found (catalog),Finish: Plain; Hole Size: 3/4; Diameter: 1 19/64,3,GM Standard Parts catalog p.175
-9419892,WASHER,7,found (medium),.28 ID,2,"Size only from camaros.net hardware list snippet (AMK B-11291). NSN listing (wbparts, 403) says round steel flat washer,"
+3828549,RIVET,7,found (medium),3/16 x 9/16-5/8,5,thread field = shank diameter. Length conflicts: MAM 601261 kit titled 3/16 x 5/8 long for 3828549; NCRS 'C3 Rivet Identification' thread li
+9419892,WASHER,7,found (medium),.28 ID,2,"Size only from camaros.net hardware list snippet (AMK B-11291). NSN listing (wbparts, 403) says round steel flat washer, zinc/chromate. Corv"
+271172,NUT ASM.,6,found (high),1/4-20,4,AIM NUT ASM. camaros.net hardware list gives '0271172-P137/138 1/4-20 7/16AF .5 O.D.' (size directly follows the GM number). armyjeepparts l
 3866846,NUT ASM.,6,found (catalog),Thread Size: 1/4-20; Grade: 284M; Thickness: 7/32; Finish: Phos.,1,GM Standard Parts catalog p.156
-3759924,NUT,6,found (high),10-24,2,"AMK lists it as B-13507; the camaros.net hardware list gives AMK B-10475 for it, but both give 10-24 and .45 OD. One AMK"
-9419400,SCREW,6,found (high),1/4-14 (#14 tapping) x 1/2,3,"Type AB tapping screw. AMK lists it as B-12093 (BA-26 drawer), and GMPartsWiki snippets cite AMK B-12095 (#14 X 1/2 HXWA"
-3748358,WASHER,6,found (medium),21/64,2,One clear source: 4speedconversions 1962 Chevy clutch linkage list (search snippet; site 403). Tracyvette lists 3748358 
-9418931,NUT,5,found (high),3/8-16,3,"Grade 5 hex nut, 9/16 AF, .33 thick (forum). Zip sells it as clutch cross shaft ball stud nut, 1963-81, black finish. AM"
-9409107,SCREW,5,found (medium),1/4-20 x 1/2-5/8,3,"Thread agreed by several sources. Length conflicts: camaros.net AMK list 1/4-20x5/8 (7/16 AF, split washer); Zip 63-67 h"
+3759924,NUT,6,found (high),10-24,2,"AMK lists it as B-13507; the camaros.net hardware list gives AMK B-10475 for it, but both give 10-24 and .45 OD. One AMK snippet also showed"
+9419400,SCREW,6,found (high),1/4-14 (#14 tapping) x 1/2,3,"Type AB tapping screw. AMK lists it as B-12093 (BA-26 drawer), and GMPartsWiki snippets cite AMK B-12095 (#14 X 1/2 HXWA AB, ZDC). Other use"
+3748358,WASHER,6,found (medium),21/64,2,One clear source: 4speedconversions 1962 Chevy clutch linkage list (search snippet; site 403). Tracyvette lists 3748358 as 1968-81 Corvette 
+9418931,NUT,5,found (high),3/8-16,3,"Grade 5 hex nut, 9/16 AF, .33 thick (forum). Zip sells it as clutch cross shaft ball stud nut, 1963-81, black finish. AMK equivalent B-12788"
+9409107,SCREW,5,found (medium),1/4-20 x 1/2-5/8,3,"Thread agreed by several sources. Length conflicts: camaros.net AMK list 1/4-20x5/8 (7/16 AF, split washer); Zip 63-67 hood support kit list"
 381700,NUT,5,found (catalog),Thread Size: 9/64; Finish: Phos,0,GM Standard Parts catalog p.166
-3847757,BOLT,5,found (high),5/16-18 x 3/4-1 (sources differ; one says 7/8),3,"Seat adjuster to floor screw (Pacifica, Dr. Rebuild) and many other uses. Thread from two independent sources; length 7/"
-103329,L. WASHER,5,found (medium),1/2,2,"AMK lists 103329 as 1/2 heavy split lock washer (AMK B-11346, also cross-refs 9420963). AMK row finish column says phosp"
-9418821,BOLT,5,found (medium),3/8-16 x 1,1,"Dr Rebuild repro of GM 9418821 or 122126 (spare tire lock bracket), zinc plated repro; original finish not stated. An NS"
-9419303,SCREW,5,found (high),#10-16 x 1/2,4,Type AB tapping screw. AMK B-12081 lists it with 3841230 and 9428469. GMPartsWiki says REPLACED BY 9419305. NSN 5305-01-
-9422297,NUT,5,found (medium),3/8-16,2,"AMK B-10526. Finish varies by suffix in the lists (P79/81 chrome vs cad). GMPartsGiant names it 'Nut, Rear Brake Backing"
-9422245,SCREW,4,found (medium),#8 x 3/8,2,"AMK B-11143 (#8 x 3/8 Phillips pan tapping screw, 'BT' point) lists OEM 9422245. Found only as a search snippet (amkprod"
-3797168,SCREW ASM.,4,found (medium),1/4-20,3,Zip kit lists GM 3797168 and 9409107 together for 63-67 hood support bolts: one is 1/4-20 x 3/4 pinch point w/captured w
+3847757,BOLT,5,found (high),5/16-18 x 3/4-1 (sources differ; one says 7/8),3,"Seat adjuster to floor screw (Pacifica, Dr. Rebuild) and many other uses. Thread from two independent sources; length 7/8 from one (camaros."
+103329,L. WASHER,5,found (medium),1/2,2,"AMK lists 103329 as 1/2 heavy split lock washer (AMK B-11346, also cross-refs 9420963). AMK row finish column says phosphate & oil while des"
+9418821,BOLT,5,found (medium),3/8-16 x 1,1,"Dr Rebuild repro of GM 9418821 or 122126 (spare tire lock bracket), zinc plated repro; original finish not stated. An NSN listing (parttarge"
+9419303,SCREW,5,found (high),#10-16 x 1/2,4,Type AB tapping screw. AMK B-12081 lists it with 3841230 and 9428469. GMPartsWiki says REPLACED BY 9419305. NSN 5305-01-197-2536 (tapping sc
+9422297,NUT,5,found (medium),3/8-16,2,"AMK B-10526. Finish varies by suffix in the lists (P79/81 chrome vs cad). GMPartsGiant names it 'Nut, Rear Brake Backing Plate' (application"
+9422245,SCREW,4,found (medium),#8 x 3/8,2,"AMK B-11143 (#8 x 3/8 Phillips pan tapping screw, 'BT' point) lists OEM 9422245. Found only as a search snippet (amkproducts.com 403). Anoth"
+3797168,SCREW ASM.,4,found (medium),1/4-20,3,Zip kit lists GM 3797168 and 9409107 together for 63-67 hood support bolts: one is 1/4-20 x 3/4 pinch point w/captured washer (Anchor headma
 9419841,NUT,4,found (catalog),Thread Size: 10-24; Finish: Phos,3,GM Standard Parts catalog p.162
 9424862,RIVET,4,found (catalog),O.L.: 1 9/16; Diameter: 5/64; Hole Size: 1/8; Material: Aluminum,0,GM Standard Parts catalog p.277
 3846202,SCREW,4,found (catalog),Thread Size: 5/16-18; Length: 7/8; Finish: Phos,1,GM Standard Parts catalog p.136
 124829,NUT,4,found (catalog),Thread Size: 3/8-16; Finish: Zinc,1,GM Standard Parts catalog p.155
-120394,BOLT,4,found (medium),13/32 (.406 ID),2,"Earlier pass had kind=bolt with no hits; AIM name is WASHER. GMPartsGiant: plain washer .406, cad/zinc plated, discontin"
-9422654,NUT,4,found (high),#8,3,"AMK B-12245 (also BFC 382656-S2). AMK says .65 long, camaros.net says .62, so a range. Some vendors call it a J-nut (63-"
-103373,C. PIN,4,found (medium),3/32 (pin dia) x 3/4,1,Source is a search-result snippet of an NCRS thread (page itself 403). Thread field holds pin diameter. Snippet says GM 
+120394,BOLT,4,found (medium),13/32 (.406 ID),2,"Earlier pass had kind=bolt with no hits; AIM name is WASHER. GMPartsGiant: plain washer .406, cad/zinc plated, discontinued. AMK bulk listin"
+9422654,NUT,4,found (high),#8,3,"AMK B-12245 (also BFC 382656-S2). AMK says .65 long, camaros.net says .62, so a range. Some vendors call it a J-nut (63-67 headlight bezel)."
+3846854,NUT,4,found (medium),10-16,3,"Search-result summaries tie 3846854 to Mid America Motorworks C2 cowl-vent/rocker-molding kits, but inconsistently (once as the #10 pan-head"
+103373,C. PIN,4,found (medium),3/32 (pin dia) x 3/4,1,Source is a search-result snippet of an NCRS thread (page itself 403). Thread field holds pin diameter. Snippet says GM Group 8.938 preferre
 121753,L. WASHER,4,found (catalog),Hole Size: 1/4; Diameter: 1/2; Finish: Cad. or Zinc,0,GM Standard Parts catalog p.176
-187119,L. WASHER,4,found (medium),5/16,1,"AMK B-13049; AMK also cross-refs 34806-S2 and 9417953. AMK listing gives two finishes (mech zinc / phosphate & oil), so "
+187119,L. WASHER,4,found (medium),5/16,1,"AMK B-13049; AMK also cross-refs 34806-S2 and 9417953. AMK listing gives two finishes (mech zinc / phosphate & oil), so finish null. Single "
 454933,BOLT,4,found (high),7/16-14 x 1-1/8,3,"GM superseded to 9441504 (GMPartsGiant). CorvetteForum: grade 8, used at C2 sombrero bushing/rear end."
 120377,NUT,4,found (high),3/8-16,2,Finish from 1962 Chevrolet passenger AIM entry.
 103372,C. PIN,4,found (high),3/32 x 1/2,2,thread field = pin diameter.
-9427398,SCREW,4,found (medium),#10 tapping x 5/8-3/4,3,"AMK B-11190 cross-ref; AMK pages disagree on length (5/8 vs 3/4), so recorded as range. Doc Rebuild repro kit (defroster"
-9427909,RIVET,4,found (medium),1/8 dia x grip 3/16-1/4,2,GM description 'Riv Dome Head Type P Grip 188' (grip .188 = 3/16) agrees with Auveco 8925 (cross-refs GM 9427909): 1/8 d
-9419276,P. WASHER,4,found (medium),15/32 ID (approx .48; for 7/16 bolt) x thickness .06,4,ID agrees across sources (15/32 = .469 vs AMK .48); OD conflicts (AMK .88 vs 4speedconversions 15/16) so recorded as ran
+9427398,SCREW,4,found (medium),#10 tapping x 5/8-3/4,3,"AMK B-11190 cross-ref; AMK pages disagree on length (5/8 vs 3/4), so recorded as range. Doc Rebuild repro kit (defroster duct to dash) uses "
+9427909,RIVET,4,found (medium),1/8 dia x grip 3/16-1/4,2,"GM description 'Riv Dome Head Type P Grip 188' (grip .188 = 3/16) agrees with Auveco 8925 (cross-refs GM 9427909): 1/8 dia, 1/4 dome head, g"
+9419276,P. WASHER,4,found (medium),15/32 ID (approx .48; for 7/16 bolt) x thickness .06,4,ID agrees across sources (15/32 = .469 vs AMK .48); OD conflicts (AMK .88 vs 4speedconversions 15/16) so recorded as range. Allison list cal
 455622,RIVET,4,found (medium),1/8 dia x 3/8,1,Single source (Chicago Corvette 1953-62 catalog). 'thread' field holds rivet diameter.
-3846201,SCREW,4,found (medium),5/16-18 x 5/8-1,4,"Thread 5/16-18 agreed by AMK, camaros.net/camaros.org, Corvette Central (high for thread). Length: AMK B-12548 and camar"
-3825452,P. WASHER,4,found (high),.39 ID x .74 OD x .06 thick (for 3/8 bolt),2,Flat washer for 3/8 bolt. AMK B-11272; similar Ford 44723-S. Also used in 67-68 Camaro BB alternator bracket kits. Quote
-3828550,RIVET,3,found (medium),5/8,2,"NCRS forum reply lists 3828548=7/16"", 3828549=9/16"", 3828550=5/8""; poster in same thread says the differences among thes"
-9420494,SCREW,3,found (medium),#8-18 x 1,2,Earlier pass found nothing. camaros.net AMK table gives size (similar AMK B-10411). Dr Rebuild repro: 64-82 Corvette sta
-9419791,SCREW,3,found (medium),#8 tapping (type AB) x 5/8,2,AMK B-11147 per one search snippet of AMK listing 7230; a second search of the same page could not see 9419791 in the vi
-9425439,SCREW,3,found (medium),1/4-20 x 5/8,3,AIM calls it SCREW. ECP sells it as 67-69 3x2 air cleaner base-to-carb bolt; Corvette Central lists same GM number (no s
-180122,BOLT,3,found (high),3/8-16 x 1,3,"AMK B-10149 (zinc) / B-10148 (phosphate). Grade conflict: AMK says GR5, RightParts says grade 8. camaros.net lists 01801"
-9419322,SCREW,3,found (high),#10 tapping x 3/4,2,"AMK BA-26 drawer cross-ref (AMK no. B-11090 / B-13418, page inconsistent). Corvette Central/Corvette Pacifica sell it as"
-9417950,BOLT,3,found (high),5/16-18 x 3/4,3,"NSN 5306-00-226-4825 lists GM 9417950 as 5/16-18 x ~.72-.75 hex, grade 8. eBay NOS lists it as cam sprocket bolt 5/16 x "
-9419073,BOLT,3,found (medium),7/16-14 x 1 - 1 1/8,3,"Grade 5. Length conflict: AMK listing text says 1 1/8, AMK table row and camaros.net lists say 1.0 -> recorded as range."
-9419075,BOLT,3,found (high),7/16-14 x 1-1/4,3,Grade 5 per Zip. NSN record gives length 1.190-1.250 in. GMPartsWiki shows replaced by 9424069. Zip lists it for diff/tr
-9414752,SCREW,3,found (high),8-18 x 1/2,3,Sheet-metal (tapping) screw. -P51 = phosphate; chrome variant is 9414754 (3/4 long). AMK cross-refs it to B-12116 (#8 x 
+3846201,SCREW,4,found (medium),5/16-18 x 5/8-1,4,"Thread 5/16-18 agreed by AMK, camaros.net/camaros.org, Corvette Central (high for thread). Length: AMK B-12548 and camaros posts say 5/8; Co"
+3825452,P. WASHER,4,found (high),.39 ID x .74 OD x .06 thick (for 3/8 bolt),2,Flat washer for 3/8 bolt. AMK B-11272; similar Ford 44723-S. Also used in 67-68 Camaro BB alternator bracket kits. Quotes from search snippe
+3828550,RIVET,3,found (medium),5/8,2,"NCRS forum reply lists 3828548=7/16"", 3828549=9/16"", 3828550=5/8""; poster in same thread says the differences among these are mostly length "
+9420494,SCREW,3,found (medium),#8-18 x 1,2,Earlier pass found nothing. camaros.net AMK table gives size (similar AMK B-10411). Dr Rebuild repro: 64-82 Corvette starter brace shield mo
+3922441,SCREW ASM.,3,found (medium),#8 tapping x 7/8,4,"SCREW ASM. No hits for the number (bare, Chevrolet, Corvette console context). Round 4: CorvetteForum owner reports GM parts wiki supersedes"
+9419791,SCREW,3,found (medium),#8 tapping (type AB) x 5/8,2,"AMK B-11147 per one search snippet of AMK listing 7230; a second search of the same page could not see 9419791 in the visible text, so singl"
+9425439,SCREW,3,found (medium),1/4-20 x 5/8,3,AIM calls it SCREW. ECP sells it as 67-69 3x2 air cleaner base-to-carb bolt; Corvette Central lists same GM number (no size). 4speedconversi
+180122,BOLT,3,found (high),3/8-16 x 1,3,"AMK B-10149 (zinc) / B-10148 (phosphate). Grade conflict: AMK says GR5, RightParts says grade 8. camaros.net lists 0180122-P79. Quotes from "
+9419322,SCREW,3,found (high),#10 tapping x 3/4,2,"AMK BA-26 drawer cross-ref (AMK no. B-11090 / B-13418, page inconsistent). Corvette Central/Corvette Pacifica sell it as 68-81 lower shifter"
+9417950,BOLT,3,found (high),5/16-18 x 3/4,3,"NSN 5306-00-226-4825 lists GM 9417950 as 5/16-18 x ~.72-.75 hex, grade 8. eBay NOS lists it as cam sprocket bolt 5/16 x 3/4. A fan-drive lis"
+9419073,BOLT,3,found (medium),7/16-14 x 1 - 1 1/8,3,"Grade 5. Length conflict: AMK listing text says 1 1/8, AMK table row and camaros.net lists say 1.0 -> recorded as range. AMK B-13682. GMPart"
+9419075,BOLT,3,found (high),7/16-14 x 1-1/4,3,Grade 5 per Zip. NSN record gives length 1.190-1.250 in. GMPartsWiki shows replaced by 9424069. Zip lists it for diff/trans mount bolts; AIM
+9414752,SCREW,3,found (high),8-18 x 1/2,3,"Sheet-metal (tapping) screw. -P51 = phosphate; chrome variant is 9414754 (3/4 long). AMK cross-refs it to B-12116 (#8 x 1/2 Phillips oval, s"
+9427325,SCREW,3,found (medium),#10 tapping (10-16) x 1/2,4,"AMK B-12173 (#10 x 1/2 hex AB, flat SEMS, phos) and camaros.net (10-16 x 1/2 5/16AF phosphate/oil tapping w/ .44 flat washer) agree, but cam"
 9418897,NUT,3,found (medium),7/16-14,1,"Single source (AMK B-12796 cross-ref). Grade inconsistent in AMK snippets (GR5 vs GR8), so grade not recorded."
-9420721,SCREW,3,found (high),8-18 x 3/4,3,AMK B-12170 (zinc) and camaros.net agree on #8(-18) x 3/4. camaros.net says same as 9423863. Dr. Rebuild hardtop weather
-606404,SPL. WASHER,3,found (medium),.29 ID x .50 OD x .05 thick,1,"Flat washer .29 ID x .50 OD x .05 thick (zinc & wax), per AMK B-11254 cross-ref (single source, search snippet). AIM cal"
-1361640,NUT,3,found (high),3/8-16,2,AMK bulk listing (search snippet) gives 3/8-16 serrated flange nut; Corvette Central master-cylinder kit lists GM 941893
-3824475,NUT,3,found (medium),9/16-18,3,Power steering pump pulley nut (AIM N40 sheets). Thread from one search snippet of a GM-group parts list; Midnight Oil (
-3847758,SCREW ASM.,3,found (medium),5/16-18 x 7/8,3,Hood hinge bolt. Zip kits list GM 3846202 + 3847758 together with all bolts the same size (Zip 68-82 'GM Item No.' = 384
-9417075,SCREW,2,found (medium),10-24 x 3/4,2,Thread 10-24 confirmed by two sources; length 3/4 and captured washer from camaros.org (JohnZ) only. Yenko forum says 'f
-9418918,BOLT,2,found (high),5/16-18 x 1,3,Holley 3x2 carb mount bolt (also M40 trans interlock / park pawl bracket). Size from Crusader RS0282 cross-ref and eBay 
+9420721,SCREW,3,found (high),8-18 x 3/4,3,AMK B-12170 (zinc) and camaros.net agree on #8(-18) x 3/4. camaros.net says same as 9423863. Dr. Rebuild hardtop weatherstrip kit repro of 9
+606404,SPL. WASHER,3,found (medium),.29 ID x .50 OD x .05 thick,1,"Flat washer .29 ID x .50 OD x .05 thick (zinc & wax), per AMK B-11254 cross-ref (single source, search snippet). AIM calls it SPL. WASHER."
+1361640,NUT,3,found (high),3/8-16,2,AMK bulk listing (search snippet) gives 3/8-16 serrated flange nut; Corvette Central master-cylinder kit lists GM 9418931 + 1361640 as 3/8-1
+3824475,NUT,3,found (medium),9/16-18,3,Power steering pump pulley nut (AIM N40 sheets). Thread from one search snippet of a GM-group parts list; Midnight Oil (momcp) repro 'replac
+3847758,SCREW ASM.,3,found (medium),5/16-18 x 7/8,3,Hood hinge bolt. Zip kits list GM 3846202 + 3847758 together with all bolts the same size (Zip 68-82 'GM Item No.' = 3847758). Size from Zip
+1359887,NUT,3,found (high),5/16-18 x .28 thick,3,Free-spin hex flange nut; muffler clamp / hood leveler nut. AMK B-12891 per camaros.net list.
+3954658,SCREW,3,found (medium),1/4-20 x 7/8,2,"Single clear source (Corvette Pacifica/Ecklers kit E19150, 73-79 front valance bolts). GMPartsWiki OCR also lists it as license plate / rear"
+3855554,SCREW,3,found (medium),1/4-20 x 3/4,1,"Single source (Corvette Pacifica/Ecklers E19087, 70-77 vapor canister bracket bolts)."
+9417075,SCREW,2,found (medium),10-24 x 3/4,2,Thread 10-24 confirmed by two sources; length 3/4 and captured washer from camaros.org (JohnZ) only. Yenko forum says 'flat tip'. Camaro D80
+9418918,BOLT,2,found (high),5/16-18 x 1,3,Holley 3x2 carb mount bolt (also M40 trans interlock / park pawl bracket). Size from Crusader RS0282 cross-ref and eBay listing of GM supers
+9427868,SCREW ASM.,2,found (medium),M4.2-1.41 (#8-18) via supersession 11502483 x 20mm (25/32) via supersession,4,Dr. Rebuild 1974-77 rear quarter trim kit replaces GM 9427868 (chrome Phillips machine/trim screws) but gives no size per number; page had e
 528846,NUT ASM.,2,found (high),1/4-20,2,Rubber well nut with captive brass nut for a 1/2 in hole (luggage-carrier type). Discontinued per GMPartsGiant.
-9423175,SCREW,2,found (medium),#10 x 5/8,2,"AB = type AB tapping screw, #8 head (AMK cross-ref, search snippet; site 403). Camaros.net forum says 1968 Camaro AIM sh"
+9423175,SCREW,2,found (medium),#10 x 5/8,2,"AB = type AB tapping screw, #8 head (AMK cross-ref, search snippet; site 403). Camaros.net forum says 1968 Camaro AIM shows 9423258 (#10-16 "
 180124,BOLT,2,found (high),3/8-16 x 1 1/4,2,Grade 5. AMK sells B-10136 (phosphate) and B-10137 (zinc); camaros.net list shows GM suffix P79. Finish left null.
-103322,SPL. WASHER,2,found (high),7/16,3,"Regular split lock washer for 7/16 bolt. NSN data: ID 0.446-0.459, OD 0.779 max. GM supersession 00103322 -> 00103328 (1"
+103322,SPL. WASHER,2,found (high),7/16,3,"Regular split lock washer for 7/16 bolt. NSN data: ID 0.446-0.459, OD 0.779 max. GM supersession 00103322 -> 00103328 (1981) -> 00120383 (19"
 9420146,SCREW,2,found (medium),8-32 x 1/2,1,AMK B-12531 cross-ref (search snippet). Single source.
 446212,WASHER,2,found (medium),.44 ID x .88 OD x .08 thick,1,Flat washer .44 ID x .88 OD x .08 thick per AMK cross-ref (search snippet only; AMK site not fetched). AMK B-15651.
-159612,SCREW,2,found (medium),8-32 x 5/8,3,"Size from Hummer H1 parts listings that carry GM number 159612 (H1 uses GM std parts, cf. 9418822). Camaro vendors list "
-423595,SCREW,2,found (high),10-24 x 1/2,2,Thread agreed by Zip and AMK; length 1/2 from AMK only (AMK B-13291). Used on headlamp vacuum relay and back-up lamp swi
-9421137,SCREW,2,found (high),8-18 x 1/2,3,"Tapping screw, .31 head OD. AMK numbering conflicts (AMK site: B-11144; camaros.net list: B-13716) but size agrees. cama"
-9418822,BOLT,2,found (medium),3/8-16 x 1 - 1 1/8,3,Length range: Chevelle kit/Hummer/Case say 1.0; Zip A/C bracket and Corvette Central alternator kits say 1 1/8 (kits may
-9418712,SCREW,2,found (medium),12-24 x 1/2,2,AMK B-10387 cross-ref snippet only. CorvetteParts lists 9418712 as steering wheel 6-pc screw set (no size). Single sourc
-9419305,SCREW,2,found (high),#10 (type AB tapping; camaros.net lists 10-16) x 1/2,2,AMK B-11082 cross-ref. camaros.net list maps to AMK B-12081 (phosphate version per AMK) -- finish may differ; size agree
+159612,SCREW,2,found (medium),8-32 x 5/8,3,"Size from Hummer H1 parts listings that carry GM number 159612 (H1 uses GM std parts, cf. 9418822). Camaro vendors list 159612 as steering w"
+423595,SCREW,2,found (high),10-24 x 1/2,2,Thread agreed by Zip and AMK; length 1/2 from AMK only (AMK B-13291). Used on headlamp vacuum relay and back-up lamp switch.
+9421137,SCREW,2,found (high),8-18 x 1/2,3,"Tapping screw, .31 head OD. AMK numbering conflicts (AMK site: B-11144; camaros.net list: B-13716) but size agrees. camaros.org forum: Phill"
+9418822,BOLT,2,found (medium),3/8-16 x 1 - 1 1/8,3,Length range: Chevelle kit/Hummer/Case say 1.0; Zip A/C bracket and Corvette Central alternator kits say 1 1/8 (kits may mix). Thread agreed
+9418712,SCREW,2,found (medium),12-24 x 1/2,2,AMK B-10387 cross-ref snippet only. CorvetteParts lists 9418712 as steering wheel 6-pc screw set (no size). Single source.
+9419305,SCREW,2,found (high),#10 (type AB tapping; camaros.net lists 10-16) x 1/2,2,AMK B-11082 cross-ref. camaros.net list maps to AMK B-12081 (phosphate version per AMK) -- finish may differ; size agrees.
 9419328,SCREW,2,found (high),10-16 x 1/2,2,AMK B-11530. NSN 5305-00-432-4201 length 0.469-0.531 in.
-9419077,BOLT,2,found (medium),7/16-14 x 1-1/2 to 2 (sources disagree),2,"Thread agrees; length conflicts: AMK 1-1/2, NSN 1.940-2.000 in. Also cross-referenced by a vendor as a bellhousing bolt."
+9419077,BOLT,2,found (medium),7/16-14 x 1-1/2 to 2 (sources disagree),2,"Thread agrees; length conflicts: AMK 1-1/2, NSN 1.940-2.000 in. Also cross-referenced by a vendor as a bellhousing bolt. Grade 5 per AMK."
+179842,BOLT,2,found (high),3/8-16 x 1-3/8,5,"Length conflict: AMK B-14144 3/8-16 x 1-3/8 GR5; camaros.net forum says AMK B-10082 flanged 3/8-18[sic, likely 3/8-16] x 1-1/4 Gr5. GMPartsW"
 9414764,SCREW,2,found (high),10-16 x 3/4,3,AMK B11135. Used on Corvette upper windshield/roof molding (Dr. Rebuild set).
 9418359,SCREW,2,found (high),#8-18 (type AB tapping) x 1/2,2,AMK B-12153.

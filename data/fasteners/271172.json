@@ -1,18 +1,36 @@
 {
   "pn": "271172",
   "kind": "nut",
-  "thread": null,
+  "thread": "1/4-20",
   "length": null,
-  "head": null,
+  "head": "hex, 7/16 AF, external-tooth lock washer attached (Keps)",
   "drive": null,
   "finish": null,
-  "notes": "AIM name NUT ASM. Second pass (extended search, usage context, vendor/AMK angles): only hit is a Nova catalog naming it a door mounting bolt nut, no size.",
-  "confidence": "not_found",
+  "notes": "AIM NUT ASM. camaros.net hardware list gives '0271172-P137/138 1/4-20 7/16AF .5 O.D.' (size directly follows the GM number). armyjeepparts lists 271172 as hex nut with ext-teeth lock washer 1/4-20NC-2. GM 1987 M-SB catalog OCR: 9439519 nut '1 4 20' replaces 271172 (supersession). Earlier Nova catalog: door mounting bolt nut.",
+  "confidence": "high",
   "sources": [
     {
       "url": "https://rparts-sites.s3.amazonaws.com/2c4ad8f278fc59a27d14d38eb7e9513a/design/X2-Chevy-Parts-Catalog-Nova-68-79.pdf",
       "title": "1968-1979 Chevy II/Nova catalog (search snippet; no size)",
       "quote": "68-72 271172 Door Mounting Bolt Nut...2 req",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+      "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech (search snippet)",
+      "quote": "0271172-P137/138 1/4-20 7/16AF .5 O.D.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.armyjeepparts.com/p-1880-nut-hex-wext-teeth-lock-washer-keps-type-14-20nc-2-271172.aspx",
+      "title": "Hex Nut with ext-teeth lock washer 1/4-20NC-2 271172 - armyjeepparts",
+      "quote": "Hex Nut with ext-teeth lock washer 1/4-20NC-2 271172",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.gmpartswiki.com/getpage?pageid=184160",
+      "title": "GMPartsWiki - Parts and Illustration Catalog M-SB September 1987 (OCR snippet)",
+      "quote": "9439519 ALL ALSO PARK LANIP 1 4 20 X 7 32 ... REPL 271172",
       "accessed": "2026-10-26"
     }
   ]

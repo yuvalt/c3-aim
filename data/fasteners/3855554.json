@@ -1,0 +1,19 @@
+{
+ "pn": "3855554",
+ "kind": "screw",
+ "thread": "1/4-20",
+ "length": "3/4",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Single source (Corvette Pacifica/Ecklers E19087, 70-77 vapor canister bracket bolts).",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.corvettepacifica.com/products/34387/bolt-kit-vapor-canister-bracket-pair-70-77/",
+   "title": "Corvette Bolt Kit Vapor Canister Bracket Pair 70 77 (#E19087) | Corvette Pacifica",
+   "quote": "Vapor canister bracket attaching bolt kit, 1/4-20 x 3/4\", includes (2) bolts. GM PART # 3855554 1970-77",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

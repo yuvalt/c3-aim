@@ -1,12 +1,19 @@
 {
- "pn": "9422404",
- "kind": "screw",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "Second pass (2026-10-26): no web hit ties 9422404 to a size. Tried bare number, GM/Corvette/console context, AMK catalog, GMPartsWiki snippets. A classicoldsmobile.com thread lists '9422404 firewall regulator' and seems to match it to AMK B-11069, but AMK lists B-11069 under OEM 9423354 (#6 hex washer), so it is not used. Thread page 403.",
- "confidence": "not_found",
- "sources": []
+  "pn": "9422404",
+  "kind": "screw",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Second pass (2026-10-26): no web hit ties 9422404 to a size. Tried bare number, GM/Corvette/console context, AMK catalog, GMPartsWiki snippets. A classicoldsmobile.com thread lists '9422404 firewall regulator' and seems to match it to AMK B-11069, but AMK lists B-11069 under OEM 9423354 (#6 hex washer), so it is not used. Thread page 403. Pass 4: 1972 Oldsmobile Parts & Accessories Catalog (GMPartsWiki OCR) lists '9422404 ... SCREW reg to body W 14 x Vi' (69-71 regulator). OCR is garbled (possibly #14 x 1/2) so no size recorded; a clean scan of that page would settle it.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "http://www.gmpartswiki.com/getpage?pageid=84391",
+      "title": "GMPartsWiki - Parts and Accessories Catalog January 1972 (OCR snippet)",
+      "quote": "8 977 9422404 AR 1 05 SCREW reg to body W 14 x Vi",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

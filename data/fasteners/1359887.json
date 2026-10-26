@@ -1,0 +1,32 @@
+{
+ "pn": "1359887",
+ "kind": "nut",
+ "thread": "5/16-18",
+ "length": null,
+ "head": "hex flange (1/2 AF, .67 OD)",
+ "drive": null,
+ "finish": null,
+ "notes": "Free-spin hex flange nut; muffler clamp / hood leveler nut. AMK B-12891 per camaros.net list.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware - See Post #2 & #5 (camaros.net, search snippet)",
+   "quote": "1359887-P144, P366 5/16-18 1/2AF .67OD .28THK muffler clamp/hood leveler nut AMK B-12891 (6)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.classicindustries.com/product/1359887.html",
+   "title": "1359887 | 5/16-18 Universal Mounting Free Spin Flange Nut (Classic Industries)",
+   "quote": "Product#: 1359887 \u00b7 5/16-18 Universal Mounting Free Spin Flange Nut",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.classicindustries.com/product/k555.html",
+   "title": "Classic Industries K555 Hood Adjuster Bolt and Nut Set",
+   "quote": "Replaces GM part # 3839682 Bolt, and 1359887 Flanged Nut.",
+   "accessed": "2026-10-26"
+  }
+ ],
+ "dims": ".28 thick"
+}

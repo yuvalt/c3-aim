@@ -6,7 +6,7 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "Searched 'GM <pn>', '<pn> AMK', '<pn> corvette/chevrolet': no hits. Session web-search budget ran out before vendor-kit searches; retry later.",
+ "notes": "Searched 'GM <pn>', '<pn> AMK', '<pn> corvette/chevrolet': no hits. Session web-search budget ran out before vendor-kit searches; retry later. | Round 4: Searched '455959 AMK', 'GM 455959', '455959 sunshade bolt', '\"455959\" bolt': no relevant hits.",
  "confidence": "not_found",
  "sources": []
 }

@@ -1,12 +1,12 @@
 {
  "pn": "9427834",
  "kind": "screw",
- "thread": "#8 tapping",
+ "thread": "#8 tapping (8-15 per AMK listing)",
  "length": "5/8-3/4",
  "head": "pan",
  "drive": "phillips",
  "finish": "phosphate",
- "notes": "Length conflict: Zip says #8 x 5/8 with SEMS washer; AMK B-11221 cross-ref says #8 x 3/4. Finish phosphate per AMK only.",
+ "notes": "Length conflict: Zip says #8 x 5/8 with SEMS washer; AMK B-11221 cross-ref says #8 x 3/4. Finish phosphate per AMK only. Retry: second AMK listing (moam.info scan) also gives '9427834 8-15 X 3/4 .31 OD', so AMK twice says 3/4 vs Zip 5/8; still conflict.",
  "confidence": "conflict",
  "sources": [
   {
@@ -19,6 +19,12 @@
    "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
    "title": "Bulk Fasteners Listing - AMK Products (search snippet; 403)",
    "quote": "9427834 B-11221 #8 X 3/4 PH PN A PHOS.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://m.moam.info/tapping-screws-fillister-flat-hex_59b2bcab1723dddbc6359115.html",
+   "title": "TAPPING SCREWS - FILLISTER, FLAT, HEX (AMK catalog scan, search snippet)",
+   "quote": "9427834 8-15 X 3/4 .31 OD BFI",
    "accessed": "2026-10-26"
   }
  ]

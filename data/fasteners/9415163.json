@@ -1,12 +1,12 @@
 {
-  "pn": "9415163",
-  "kind": "screw",
-  "thread": null,
-  "length": null,
-  "head": null,
-  "drive": null,
-  "finish": null,
-  "notes": "Searches ('GM 9415163', '9415163 screw', rear grille corvette) only hit a Tamiya RC parts bag with the same number. CorvetteForum 1971 grille thread 403.",
-  "confidence": "not_found",
-  "sources": []
+ "pn": "9415163",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searches ('GM 9415163', '9415163 screw', rear grille corvette) only hit a Tamiya RC parts bag with the same number. CorvetteForum 1971 grille thread 403. Retry: '9415163 AMK', '9415163 corvette rear grille screw': only Tamiya RC hits.",
+ "confidence": "not_found",
+ "sources": []
 }

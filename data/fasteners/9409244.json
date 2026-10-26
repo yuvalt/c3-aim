@@ -1,12 +1,12 @@
 {
- "pn": "9409244",
- "kind": "rivet",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No web hits for this number (bare, GM, corvette/plenum searches).",
- "confidence": "not_found",
- "sources": []
+  "pn": "9409244",
+  "kind": "rivet",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Pass 4 (Brave): only hits are AIM OCR pages (1978 Corvette AIM plenum sheet on GMPartsWiki; 1957 AIM revision note 'WAS 9409244'). No size anywhere.",
+  "confidence": "not_found",
+  "sources": []
 }

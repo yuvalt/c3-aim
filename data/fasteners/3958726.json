@@ -6,13 +6,19 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No hits for the number; vendor roof-lock screws listed under other numbers only. Round 3: CorvetteParts.com 313056 'Bolt Set, front t-top locating guide pins' gm # 3958726, no size given.",
+ "notes": "No hits for the number; vendor roof-lock screws listed under other numbers only. Round 3: CorvetteParts.com 313056 'Bolt Set, front t-top locating guide pins' gm # 3958726, no size given. Round 4: GM P&A catalogs describe 3958726 as 'SCREW FLDG TOP COMPT LID LK PIN' and 'SCREW HEAD GUIDE' (roof front guide pin screw, 4 per car); sunrooconvertib calls it T-top front alignment pin screw. No thread/length anywhere.",
  "confidence": "not_found",
  "sources": [
   {
    "url": "https://corvetteparts.com/catalog/roofs-convertible-tops/5?yr=C3",
    "title": "C3 Corvette Roofs & Convertible Tops Page 5: CorvetteParts.com",
    "quote": "1969-1977E Bolt Set, front t-top locating guide pins (pn: 313056, gm #: 3958726)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=89261",
+   "title": "GMPartsWiki - Parts and Accessories Catalog P&A 14 May 1980",
+   "quote": "it will be required to use one each 3958703 04 guide and 4 3958726 etch screws",
    "accessed": "2026-10-26"
   }
  ]

@@ -1,0 +1,31 @@
+{
+ "pn": "3858700",
+ "kind": "screw asm",
+ "thread": "5/16-18",
+ "length": "1-3/16",
+ "head": "indented hex with conical washer, E headmark",
+ "drive": null,
+ "finish": null,
+ "notes": "Zip kit lists GM 3858700 AND 3847962 together, so the size can't be tied to 3858700 alone. Corvette Pacifica/EC Products sell 3858700 as battery hold-down bolt w/ washer and front sway bar bracket bolt (E headmark) without size. camaros.net list '3858700-P229 3863392-P53 10-16X3/4' - that size belongs to 3863392, not used.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.zip-corvette.com/68-82-front-sway-bar-frame-bracket-bolts-e-headmark.html",
+   "title": "1968-1982 Corvette Front Sway Bar Frame Bracket Bolts (GM Part 3858700, 3847962)",
+   "quote": "Includes (4) 5/16- 18 x 1 3/16\" indented hex head bolt with conical washer and \"E\" headmark bolts. Car set. ... OE GM PART #: 3858700, 3847962",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://corvettecorner.com.au/shop/c3/bolt-kit-stabilizer-bar-bracket-front-68-82-e19056/",
+   "title": "BOLT KIT-STABILIZER BAR BRACKET-FRONT-68-82 (#E19056)",
+   "quote": "INCLUDES (4) \u201cE\u201d HEADMARK BOLTS. GM PART NUMBER: 3858700.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettepacifica.com/products/12453/bolt-and-washer-battery-hold-down-each-68-82/",
+   "title": "Corvette Bolt And Washer Battery Hold Down Each 68 82 (#E9876)",
+   "quote": "1968-1982 C3 CORVETTE BATTERY HOLD DOWN BOLT AND WASHER. GM PART NUMBER: 3858700.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

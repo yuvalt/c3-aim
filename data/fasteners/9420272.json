@@ -1,19 +1,25 @@
 {
- "pn": "9420272",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "Pal nut; Paragon 14178K hood insert molding nut kit (68-71 Corvette) and 1969 Camaro RS grille molding pal nut set cite GM 9420272. No size found. Searches: 'GM 9420272 nut', camaros.org pal nut, '9420272 AMK nut'.",
- "confidence": "not_found",
- "sources": [
-  {
-   "url": "https://www.paragoncorvette.com/product/360020/hood-insert-molding-nut-kit",
-   "title": "1968-1972 Corvette Hood Insert Molding Nut Kit",
-   "quote": "Part #:14178K GM Part Number:9420272",
-   "accessed": "2026-10-26"
-  }
- ]
+  "pn": "9420272",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Pal nut; Paragon 14178K hood insert molding nut kit (68-71 Corvette) and 1969 Camaro RS grille molding pal nut set cite GM 9420272. No size found. Searches: 'GM 9420272 nut', camaros.org pal nut, '9420272 AMK nut'. Round 4: Tracy lists 68-72 hood grille mount set (4 pcs) GM 9420272; no size. Searches: '9420272 pal nut', '9420272 corvette hood', '9420272 nut size'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.paragoncorvette.com/product/360020/hood-insert-molding-nut-kit",
+      "title": "1968-1972 Corvette Hood Insert Molding Nut Kit",
+      "quote": "Part #:14178K GM Part Number:9420272",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://store.tracyperf.com/category/33645/",
+      "title": "Grilles | Tracy Performance Corvette",
+      "quote": "1968-1972 CORVETTE Hood Grille Mount Set 427 / 454 LT 1 4 Pieces GM 9420272",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

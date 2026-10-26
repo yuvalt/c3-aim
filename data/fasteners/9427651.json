@@ -4,9 +4,9 @@
  "thread": null,
  "length": null,
  "head": null,
- "drive": null,
+ "drive": "phillips",
  "finish": null,
- "notes": "Mid America Motorworks lists 9427651 as GM reference for 1973-1974 front grille mounting screws (set of 12, black oxide) and also as an alternate number in a 1975-1979 parking light grille kit (primary GM 3846854; black phosphate flat head self-tapping). No thread/length given in any snippet; MAM pages returned 404 on fetch. Round 3 (2026-10-26): AMK and size searches found nothing new; a CorvetteForum owner guessed '#10 washer head screw, approx 3/4\" long' for 73 grille screws (unverified, not recorded).",
+ "notes": "Mid America Motorworks lists 9427651 as GM reference for 1973-1974 front grille mounting screws (set of 12, black oxide) and also as an alternate number in a 1975-1979 parking light grille kit (primary GM 3846854; black phosphate flat head self-tapping). No thread/length given in any snippet; MAM pages returned 404 on fetch. Round 3 (2026-10-26): AMK and size searches found nothing new; a CorvetteForum owner guessed '#10 washer head screw, approx 3/4\" long' for 73 grille screws (unverified, not recorded). Round 4: Paragon 13518K (GM 9427651 / 3846854): (12) Phillips head screws & (12) black phosphate U-nuts; still no thread/length. The U-nut 3846854 is #10-16 per GM catalog, but that doesn't fix this screw's size.",
  "confidence": "not_found",
  "sources": [
   {
@@ -20,6 +20,12 @@
    "title": "Corvette 1975-1979 Parking Light Grilles Screw Kit - Mid America Motorworks (search snippet)",
    "quote": "10 black phosphate flat head self-tapping screws and 10 U-nuts to attach the front parking light grilles to the front fascia bumper",
    "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/3740128-heirloomvette73-care-and-maintenance.html",
+   "title": "HeirloomVette73- Care and Maintenance - CorvetteForum (search snippet)",
+   "quote": "FRONT GRILLE SCREW KIT Paragon Number: 13518K GM Part Number: 9427651 / 3846854 Front grille screw kit, includes (12) Phillips head screws & (12) black phosphate U-nuts",
+   "accessed": "2026-10-26"
   }
  ]
 }

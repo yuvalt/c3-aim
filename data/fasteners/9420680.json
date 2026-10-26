@@ -6,13 +6,19 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "Identified only as a screw in GM 3759924/9420680 wiper door mounting kit (2 screws for wiper grille support bracket). No size found. Searches done: 'GM 9420680 screw', '9420680 AMK'; Paragon page fetch empty; search budget exhausted before more tries.",
+ "notes": "Identified only as a screw in GM 3759924/9420680 wiper door mounting kit (2 screws for wiper grille support bracket). No size found. Searches done: 'GM 9420680 screw', '9420680 AMK'; Paragon page fetch empty; search budget exhausted before more tries. | Round 4: Searched '9420680', '9420680 camaros', '9420680 wiper door screw size'. 1978 Corvette AIM (gmpartswiki OCR) also lists 9420680 SCREW at RH marker lamp; Corvette Central 343240 page 404. No size.",
  "confidence": "not_found",
  "sources": [
   {
    "url": "https://www.ecproducts.com/products/34530/mounting-kit-windshield-wiper-door-8-pieces-68-72/",
    "title": "Mounting Kit Windshield Wiper Door 8 Pieces 68-72",
    "quote": "includes (6) nuts for linkage assembly & (2) screws for wiper grille support bracket ... GM PART # 3759924 / 9420680",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=85720",
+   "title": "GMPartsWiki - Corvette Assembly Manual January 1978 (search snippet)",
+   "quote": "MARKER LP ASA L RH 9420680 E SCREW",
    "accessed": "2026-10-26"
   }
  ]

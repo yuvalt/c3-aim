@@ -1,13 +1,13 @@
 {
  "pn": "9427325",
  "kind": "screw",
- "thread": "#10 tapping or 8-32",
- "length": "3/8-1/2",
- "head": "hex",
+ "thread": "#10 tapping (10-16)",
+ "length": "1/2",
+ "head": "hex, 5/16 AF, flat SEMS washer (.44-.50)",
  "drive": null,
  "finish": "phosphate",
- "notes": "Conflict. AMK B-12173 (cross-ref OEM 9427325) = #10 x 1/2 hex AB tapping screw w/ flat SEMS washer, phos & oil; camaros.net confirms 9427325 = AMK B-12173 (Camaro firewall gutter, captured washer). Paragon lists '450539 / 9427325' as 8-32 x 3/8 hex for Corvette defroster/heater cable brackets - possibly the 8-32 belongs to 450539. Finish from AMK.",
- "confidence": "conflict",
+ "notes": "AMK B-12173 (#10 x 1/2 hex AB, flat SEMS, phos) and camaros.net (10-16 x 1/2 5/16AF phosphate/oil tapping w/ .44 flat washer) agree, but camaros cites AMK so not fully independent. Paragon '450539 / 9427325 ... 8-32x3/8' pairs two GM numbers; the 8-32 machine thread likely belongs to 450539 - left as a disagreement, not used.",
+ "confidence": "medium",
  "sources": [
   {
    "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7215",
@@ -25,6 +25,12 @@
    "url": "https://www.paragoncorvette.com/p-349461-hex-head-screw-kit.aspx",
    "title": "Paragon Corvette Reproductions - Hex Head Screw Kit (search snippet)",
    "quote": "GM Part Number : 450539 / 9427325 Hex head screw kit, 8-32x3/8\", includes 2 pcs.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/firewall-gutter.133070/",
+   "title": "Firewall Gutter (camaros.net, search snippet)",
+   "quote": "The correct screws are GM 9427325 from www.amkproducts.com B-12173. $3 buys 8. The are 10-16 x 1/2\" 5/16AF phosphate/oil tapping with 0.44 flat washer!",
    "accessed": "2026-10-26"
   }
  ]

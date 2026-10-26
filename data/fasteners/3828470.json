@@ -1,19 +1,31 @@
 {
- "pn": "3828470",
- "kind": "rivet",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No size found. NCRS thread (66573, snippet) says original is a pop (blind) rivet with square mandrel, used as rear compartment reinforcement rivet on 1973 coupe; another poster says AIM drawing looks flat head. NCRS pages 403.",
- "confidence": "not_found",
- "sources": [
-  {
-   "url": "https://www.forums.ncrs.org/forum/technical-discussion/66573-rear-compartment-reinforcement-rivet-3828470",
-   "title": "Rear Compartment reinforcement rivet 3828470 - NCRS Discussion Boards (search snippet)",
-   "quote": "3828470 is just a regular Pop rivet",
-   "accessed": "2026-10-24"
-  }
- ]
+  "pn": "3828470",
+  "kind": "rivet",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "No size found. NCRS thread (66573, snippet) says original is a pop (blind) rivet with square mandrel, used as rear compartment reinforcement rivet on 1973 coupe; another poster says AIM drawing looks flat head. NCRS pages 403. Pass 4: Dr. Rebuild sells genuine NOS GM 3828470 as a black-housing pop rivet; JohnZ on CorvetteForum: bonding strips on the birdcage use pop-rivets 3828470 (St. Louis). Dr. Rebuild's 73-79 grille repro set uses aluminum flat-head rivets instead. No diameter or length anywhere.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.forums.ncrs.org/forum/technical-discussion/66573-rear-compartment-reinforcement-rivet-3828470",
+      "title": "Rear Compartment reinforcement rivet 3828470 - NCRS Discussion Boards (search snippet)",
+      "quote": "3828470 is just a regular Pop rivet",
+      "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1963-1982CorvetteBlackRivetGenuineGM3828470NOS.aspx",
+      "title": "1963-1982 Corvette Black Rivet Genuine GM 3828470 NOS - Dr. Rebuild",
+      "quote": "Real deal GM pop rivets with Black housing",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c1-and-c2-corvettes/1471011-body-rivets.html",
+      "title": "Body Rivets - CorvetteForum (search snippet)",
+      "quote": "bonding strips attached to the birdcage (especially on a coupe) are attached with pop-rivets (3828470)",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

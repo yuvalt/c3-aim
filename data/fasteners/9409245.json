@@ -1,12 +1,12 @@
 {
- "pn": "9409245",
- "kind": "rivet",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "Round 3: GM, rivet and AMK/Camaro searches only return the 1970 Registry AIM; GMPartsWiki 403.",
- "confidence": "not_found",
- "sources": []
+  "pn": "9409245",
+  "kind": "rivet",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Round 3: GM, rivet and AMK/Camaro searches only return the 1970 Registry AIM; GMPartsWiki 403. Pass 4 (Brave, 3 queries incl. '09409245 rivet'): no GM-related hits.",
+  "confidence": "not_found",
+  "sources": []
 }

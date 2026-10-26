@@ -6,13 +6,19 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "Called 'U' nut in AIM; a Corvair radio U-nut listing and a 1969 Camaro A/C condenser kit (as J-nut) cite it, AMK 2014 nut catalog lists the number, but no thread size found. Searches done: 'GM 9420153 U nut', '9420153 AMK nut'; budget exhausted.",
+ "notes": "Called 'U' nut in AIM; a Corvair radio U-nut listing and a 1969 Camaro A/C condenser kit (as J-nut) cite it, AMK 2014 nut catalog lists the number, but no thread size found. Searches done: 'GM 9420153 U nut', '9420153 AMK nut'; budget exhausted. | Round 4: Searched '9420153', '9420153 camaros', '9420153 J-nut'. Classic Industries A9600160 (69 Camaro A/C condenser kit) lists it as J-nut; page 403. No thread size.",
  "confidence": "not_found",
  "sources": [
   {
    "url": "https://corvairfarmer.com/collections/radio",
    "title": "Corvair Farmer - Radio (search snippet)",
    "quote": "USED RADIO \"U\" NUT GM PART NUMBER: #9420153",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.classicindustries.com/product/a9600160.html",
+   "title": "Classic Industries A9600160 1969 Camaro A/C condenser mounting hardware kit (search snippet)",
+   "quote": "Replaces original GM part numbers # 3903539 (well nut), 3903536 (bolt), 9420153 (J-nut)",
    "accessed": "2026-10-26"
   }
  ]

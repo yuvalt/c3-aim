@@ -6,8 +6,8 @@
   "head": "split",
   "drive": null,
   "finish": "plain",
-  "notes": "Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacked NSN 5310-00-010-3320 is a Fruehauf part, unrelated. Pass 3 (2026-10-26): GMPartsGiant names it 'Washer, Hsl (Hardened)', discontinued, no size; camaros.com 1968 Camaro valance pad kit and a 67-69 Camaro catalog (lock washer, Y-block mounting) cite it without size; camaros.net list puts 0103320-P178 next to '3/8 Regular' label but the label belongs ambiguously, so not used; AMK search no hit.",
-  "confidence": "not_found",
+  "notes": "Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacked NSN 5310-00-010-3320 is a Fruehauf part, unrelated. Pass 3 (2026-10-26): GMPartsGiant names it 'Washer, Hsl (Hardened)', discontinued, no size; camaros.com 1968 Camaro valance pad kit and a 67-69 Camaro catalog (lock washer, Y-block mounting) cite it without size; camaros.net list puts 0103320-P178 next to '3/8 Regular' label but the label belongs ambiguously, so not used; AMK search no hit. Pass 4 (Brave): Detroit Diesel (a GM division using GM standard part numbers) lists 103320 / MTU 00103320 as 'Lock Washer, 5/16 in'; the same DD numbering gives 103321 = 3/8 lock washer, matching the CorvetteForum AIM list label for 0103321. Size is from Detroit Diesel listings only, not a GM/Corvette source, hence low. Case IH 103320 (also 5/16 lock washer) is a different numbering system, not used.",
+  "confidence": "low",
   "sources": [
     {
       "url": "https://www.tst.forums.ncrs.org/forum/technical-discussion/89467-c2-lock-washers-were-production-parts-not-available-as-service-parts",
@@ -26,6 +26,25 @@
       "title": "103320 - Genuine GM Washer, Hsl (Hardened)",
       "quote": "Washer, Hs ... This part is discontinued",
       "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.dieseldash.com/00103320-mtu-lock-washer-5-16-in",
+      "title": "MTU Lock Washer, 5/16 in 00103320 | Diesel Dash",
+      "quote": "MTU Lock Washer, 5/16 in 00103320",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://jhdiesel.com/gt-detroit-diesel/",
+      "title": "GT - Detroit Diesel - J & H Diesel (search snippet)",
+      "quote": "DETROIT DIESEL 400140-0313 103320 LOCK WASHER",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.powerlinecomponents.com/detroit-diesel/103321/lock-washer-38",
+      "title": "103321 - Lock Washer, 3/8\" - Powerline Components (numbering check)",
+      "quote": "103321 - Lock Washer, 3/8\"",
+      "accessed": "2026-10-26"
     }
-  ]
+  ],
+  "dims": "5/16 (fits 5/16 bolt)"
 }

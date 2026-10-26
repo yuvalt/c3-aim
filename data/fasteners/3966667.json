@@ -6,7 +6,14 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No hits for the number (bare, GM/Chevrolet, window regulator/guide cam context). Round 3: '\"3966667\" AMK screw GM' (extended) - no hits.",
+ "notes": "No hits for the number (bare, GM/Chevrolet, window regulator/guide cam context). Round 3: '\"3966667\" AMK screw GM' (extended) - no hits. Round 4: CorvetteParts.com lists 'Bolt, convertible roof forward roof latch adjusting' (their pn 400104) as gm # 3966667, 3856691. 3856691 is elsewhere 1/4-20 x 5/8 indented hex w/ captured washer and Corvette Central's latch adjust bolt is '3/8\" hex', but neither size sits next to 3966667, so nothing recorded.",
  "confidence": "not_found",
- "sources": []
+ "sources": [
+  {
+   "url": "https://corvetteparts.com/catalog/roofs-convertible-tops?yr=1972",
+   "title": "1972 Corvette Roofs & Convertible Tops: CorvetteParts.com",
+   "quote": "1969L-1975 Bolt, convertible roof forward roof latch adjusting (3 required) pn: 400104 \u00b7 gm #: 3966667, 3856691",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

@@ -1,25 +1,25 @@
 {
- "pn": "9420890",
- "kind": "screw",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "eBay: 1969 Camaro RS washer bottle bracket protective cap 'for 9420890 screw'; GMPartsWiki lists it as screw (lock striker lower guide, 71-72 book). No size found. Searches: 'GM 9420890 screw', '9420890 AMK', washer bottle variants.",
- "confidence": "not_found",
- "sources": [
-  {
-   "url": "https://www.ebay.com/itm/146093879215",
-   "title": "1969 CAMARO RS Z 28 WASHER BOTTLE SCREW PROTECTIVE CAPS",
-   "quote": "washer bottle bracket protective cap for 9420890 screw",
-   "accessed": "2026-10-26"
-  },
-  {
-   "url": "http://www.gmpartswiki.com/w/9420890&book=104",
-   "title": "GMPartsWiki - 9420890",
-   "quote": "screw",
-   "accessed": "2026-10-26"
-  }
- ]
+  "pn": "9420890",
+  "kind": "screw",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "eBay: 1969 Camaro RS washer bottle bracket protective cap 'for 9420890 screw'; GMPartsWiki lists it as screw (lock striker lower guide, 71-72 book). No size found. Searches: 'GM 9420890 screw', '9420890 AMK', washer bottle variants. Round 4: '9420890 camaros' only GMPartsWiki; '9420890 corvette' returns a dash light socket listing (number conflict, not a screw). No size.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.ebay.com/itm/146093879215",
+      "title": "1969 CAMARO RS Z 28 WASHER BOTTLE SCREW PROTECTIVE CAPS",
+      "quote": "washer bottle bracket protective cap for 9420890 screw",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "http://www.gmpartswiki.com/w/9420890&book=104",
+      "title": "GMPartsWiki - 9420890",
+      "quote": "screw",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

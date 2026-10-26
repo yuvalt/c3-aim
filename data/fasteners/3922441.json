@@ -1,12 +1,37 @@
 {
- "pn": "3922441",
- "kind": "screw",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "SCREW ASM. No hits for the number (bare, Chevrolet, Corvette console context).",
- "confidence": "not_found",
- "sources": []
+  "pn": "3922441",
+  "kind": "screw",
+  "thread": "#8 tapping",
+  "length": "7/8",
+  "head": "oval, flush SEMS washer (size of GM replacement 11500421, not confirmed for the 1970 original)",
+  "drive": "phillips",
+  "finish": null,
+  "notes": "SCREW ASM. No hits for the number (bare, Chevrolet, Corvette console context). Round 4: CorvetteForum owner reports GM parts wiki supersedes 3922441 (1971 AIM p. L108 interior trim screw) to 11500421; Auveco 2775 cross-references GM 11500421 as #8 x 7/8 Phillips oval-head SEMS tapping screw (flush washer, chrome). Size is from the superseding number via Auveco cross-ref; original may differ in finish (forum notes service screws could be black vs plated originals). Tracy sells it as 68-76 radio side panel screw.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3058844-interior-screws-did-i-get-screwed.html",
+      "title": "interior screws, did I get screwed? - CorvetteForum",
+      "quote": "I looked in my 1971 AIM on page L108 and the part # for the screw is 3922441. According to this GM parts wiki I found, that part has been replaced by 11500421.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://amazon.com/Auveco-Phillips-Tapping-Screw-Chrome/dp/B0CK71YKD4",
+      "title": "Auveco # 2775 8 X 7/8\" Phillips Oval Hex SEMS Tapping Screw Flush Chrome (Amazon)",
+      "quote": "Auveco # 2775 8 X 7/8\" Phillips Oval Hex SEMS Tapping Screw Flush Chrome ... Screw Size: #8 Screw Type: Tapping Washer: Flush ... GM: 11500421, 12338123",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.dixied.com/product588.html",
+      "title": "AUVECO # 2775 - #8 X 7/8'' Phillips Oval Hex Sems Tapping Screw Flush - Chrome",
+      "quote": "( GM : 11500421 | 12338123 ) Auveco # 2775 #8 X 7/8'' Phillips Oval Hex Sems Tapping Screw Flush - Chrome",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.ebay.com/itm/1968-1976-Corvette-Radio-Side-Panel-Screw-GM-3922441-Set-4-Pieces-/393017708971",
+      "title": "1968-1976 Corvette Radio Side Panel Screw GM 3922441 Set 4 Pieces | eBay (Tracy)",
+      "quote": "Corvette Radio Side Panel Screw GM# 3922441",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

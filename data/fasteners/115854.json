@@ -1,12 +1,19 @@
 {
- "pn": "115854",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No hits for GM 115854 / 0115854 (only unrelated filter SKU). Searches: 'GM 115854 nut', '\"115854\" nut AMK OR \"0115854\"'.",
- "confidence": "not_found",
- "sources": []
+  "pn": "115854",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": "chrome",
+  "notes": "No hits for GM 115854 / 0115854 (only unrelated filter SKU). Searches: 'GM 115854 nut', '\"115854\" nut AMK OR \"0115854\"'. Round 4: identified as chrome-plated thin headlamp washer nozzle nut (Camaro/Chevelle RS headlight washer kits: nozzle 3957029, washer 2394722, nut 115854); no thread size stated. Searches: '115854 camaros', '115854 headlight washer nozzle nut'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.chevelledepot.ca/exterior/lights/headlights/headlight-washer/chevelle-headlight-washer-kit-1969-3025607",
+      "title": "Classic Headquarters Headlight Washers with Mount Set W-158 | Chevelle Depot",
+      "quote": "sets of four chrome plated thick washers and four chrome plated thin nozzle nuts. GM Part #: Nozzle 3957029, Washer 2394722, Nut 115854",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

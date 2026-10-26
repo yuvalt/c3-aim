@@ -6,7 +6,20 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No hits for the number (bare, GM/Chevrolet, trim panel/garnish molding/waterproof paper context).",
+ "notes": "Retry: GMPartsWiki OCR lists 3918654 as 68-75 Corvette side garnish moulding FASTENER; GM Parts History Catalog says '3918654 use 14070138'. No size for either number (14070138 search only gave unrelated hits). Queries: '3918654 AMK', '3918654', '3918654 corvette', 'GM 3918654 retainer', '14070138', 'GM 14070138 fastener'.",
  "confidence": "not_found",
- "sources": []
+ "sources": [
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=217593",
+   "title": "GMPartsWiki parts book page (OCR snippet)",
+   "quote": "68 75 Corvette r 3918654A R 31 FASTENER side garnish moulding",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=92372",
+   "title": "GENERAL MOTORS PARTS HISTORY CATALOG (OCR snippet)",
+   "quote": "3918654 use 14070138",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

@@ -2,12 +2,12 @@
  "pn": "179842",
  "kind": "bolt",
  "thread": "3/8-16",
- "length": "1-1/4 to 1-3/8 (sources disagree)",
- "head": "hex (forum: flanged, 9/16 AF, 3/4 flange)",
+ "length": "1-3/8",
+ "head": "hex",
  "drive": null,
  "finish": "phosphate & oil",
- "notes": "Length conflict: AMK B-14144 3/8-16 x 1-3/8 GR5; camaros.net forum says AMK B-10082 flanged 3/8-18[sic, likely 3/8-16] x 1-1/4 Gr5. GMPartsWiki: replaced by 9420462. Bellhousing-to-engine use matches AIM M40.",
- "confidence": "conflict",
+ "notes": "Length conflict: AMK B-14144 3/8-16 x 1-3/8 GR5; camaros.net forum says AMK B-10082 flanged 3/8-18[sic, likely 3/8-16] x 1-1/4 Gr5. GMPartsWiki: replaced by 9420462. Bellhousing-to-engine use matches AIM M40. | Round 4: Searched 'B-10082 AMK', '179842 bolt bellhousing'. 4speedconversions GM bellhousing table independently gives 179842 = hex head 3/8-16 x 1-3/8, agreeing with AMK B-14144. The camaros.net 1-1/4 flanged figure is a forum post naming two GM numbers (179842/3828782) and an AMK substitute (B-10082 = 3/8-16 x 1-1/4 flange bolt), so it likely describes 3828782 / a substitute. Resolved to 1-3/8; superseded by 9420462.",
+ "confidence": "high",
  "sources": [
   {
    "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7016",
@@ -25,6 +25,18 @@
    "url": "http://www.gmpartswiki.com/gmpart?gmpartno=179842",
    "title": "GMPartsWiki - 179842 BOLT (search snippet)",
    "quote": "replaced by 9420462",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/73_77_a_body_housing.html",
+   "title": "73-77 GM A Body Bellhousing Part Numbers (search snippet)",
+   "quote": "179842 (6) 8.900 BOLT, Hexagon head 3/8\"16 x 1 3/8\"",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/product/b-10082/",
+   "title": "AMK B-10082 Hex Flange Bolts (search snippet)",
+   "quote": "3/8-16 X 1 1/4 GRADE 5 FLANGE BOLT \"FP\" PHOS. 8 pk",
    "accessed": "2026-10-26"
   }
  ]
