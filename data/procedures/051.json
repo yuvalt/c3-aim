@@ -1,0 +1,94 @@
+{
+  "page": 51,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-32",
+  "procedures": [
+    {
+      "title": "Expansion valve: diagnosis",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "expansion valve",
+        "power element bulb",
+        "valve inlet screen",
+        "evaporator outlet line",
+        "bulb insulation"
+      ],
+      "steps": [
+        "If the valve is stuck open, stuck closed or has a broken power element, replace the valve.",
+        "If the inlet screen is restricted, replace the screen.",
+        "If the power element bulb is poorly located or installed, refit it correctly.",
+        "Clamp the bulb tightly to the evaporator outlet line so it touches the line along its whole length.",
+        "Where the bulb is outside the evaporator case, make sure its insulation is properly fitted."
+      ],
+      "specs": [],
+      "notes": [
+        "A loose bulb causes high low-side pressure and poor cooling.",
+        "Performance-test symptoms: valve stuck open - noisy compressor, no cooling, freeze-up. Valve stuck closed, broken power element or plugged screen - very low suction pressure, no cooling. Badly placed bulb - normal pressure, poor cooling.",
+        "See figure 36 in the manual (expansion valve); the external equalizer line shown is not used on the GM Chevrolet unit."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine idle compensator",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "idle compensator",
+        "carburetor",
+        "air cleaner"
+      ],
+      "steps": [
+        "If engine idle is erratic, hold the compensator valve shut with a pencil or wooden dowel while adjusting the idle mixture screws.",
+        "Replace a compensator that does not work properly."
+      ],
+      "specs": [],
+      "notes": [
+        "Fitted to all air-conditioned vehicles to help prevent stalling in long hot spells; it is a thermostatic air bleed that adds air to the idle mixture.",
+        "On V-8 engines with factory air conditioning it is inside the carburetor, reached by removing the air cleaner; on other vehicles it screws into a manifold fitting below the carburetor.",
+        "Compensators are factory set and not adjustable. Never bend the bimetal strip or try to adjust the valve."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning system capacities: Corvette Four-Season",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "Refrigerant-12",
+        "refrigeration oil"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "refrigerant charge",
+          "value": "3 lbs., 4 oz."
+        },
+        {
+          "what": "oil charge",
+          "value": "11 ozs. 525 viscosity"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning system: purge (discharge)",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-8393 charging station",
+        "gauge set",
+        "vacuum line"
+      ],
+      "steps": [
+        "With the engine off and all four gauge set controls closed, connect the high and low pressure lines to the high and low gauge fittings (see Installing Gauge Set to Check System Operation).",
+        "Disconnect the vacuum line at the charging station vacuum pump and lay its end on a clean rag on the floor."
+      ],
+      "specs": [],
+      "notes": [
+        "Before replacing any A/C component, fully purge the refrigerant so pressure is low enough to remove parts safely."
+      ],
+      "continues": true
+    }
+  ]
+}

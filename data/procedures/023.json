@@ -1,0 +1,57 @@
+{
+  "page": 23,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-4",
+  "procedures": [
+    {
+      "title": "Air distributor duct and heater core: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "air distributor duct",
+        "heater core",
+        "heater hoses",
+        "core retaining springs",
+        "right instrument panel pad",
+        "defroster duct",
+        "resistor",
+        "bowden cables",
+        "core-to-case sealer"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Drain the radiator.",
+        "Disconnect the heater hoses at the core pipes next to the air inlet assembly and plug the core pipes so coolant does not spill when the core and duct come out.",
+        "On the engine side of the firewall, remove the nuts from the distributor duct studs.",
+        "Remove the right instrument panel pad (see Section 1B).",
+        "Remove the screw joining the defroster duct to the distributor duct.",
+        "Pull the distributor duct off the firewall; once there is room, disconnect the resistor wires and lay the duct on the floor.",
+        "Remove the springs that retain the core and lift out the core.",
+        "Install in reverse order and check for coolant leaks."
+      ],
+      "specs": [],
+      "notes": [
+        "Hose routing: the hose from the water pump goes to the upper core pipe; the hose from the thermostat housing goes to the lower core pipe (see figure 6 in the manual).",
+        "Take care not to bend or kink the bowden cables while removing the duct.",
+        "Make sure the core-to-case sealer is intact before refitting the core; renew it if needed.",
+        "See figure 5 in the manual (Corvette heater and air distributor)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Heater hoses: routing and replacement",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "heater hoses",
+        "spring clamps"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Hoses run from the water pump and the thermostat housing to the heater core inlet and outlet pipes (see figure 6 in the manual).",
+        "Each hose end is held with a spring-type clamp."
+      ],
+      "continues": true
+    }
+  ]
+}

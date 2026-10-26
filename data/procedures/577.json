@@ -1,0 +1,189 @@
+{
+  "page": 577,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine specifications: piston pin",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "piston pin"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327: diameter",
+          "value": ".9270\"-.9273\""
+        },
+        {
+          "what": "427: diameter",
+          "value": ".9895\"-.9898\""
+        },
+        {
+          "what": "327 300 hp: clearance, production",
+          "value": ".00015\"-.00025\""
+        },
+        {
+          "what": "327 350 hp: clearance, production",
+          "value": ".00045\"-.00055\""
+        },
+        {
+          "what": "427 390 and 400 hp: clearance, production",
+          "value": ".00025\"-.00035\""
+        },
+        {
+          "what": "427 430 hp: clearance, production",
+          "value": ".00045\"-.00055\""
+        },
+        {
+          "what": "427 435 hp: clearance, production",
+          "value": ".00030\"-.00040\""
+        },
+        {
+          "what": "clearance, service",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "fit in rod",
+          "value": ".0008\"-.0016\" (Interference)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: crankshaft",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "crankshaft",
+        "main bearings",
+        "connecting rod bearings"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327: main journal diameter, #1-2-3-4",
+          "value": "2.4484\"-2.4493\""
+        },
+        {
+          "what": "327: main journal diameter, #5",
+          "value": "2.447\"-2.4488\""
+        },
+        {
+          "what": "427: main journal diameter, #1-2-3-4",
+          "value": "2.7481\"-2.7490\""
+        },
+        {
+          "what": "427: main journal diameter, #5",
+          "value": "2.7478\"-2.7488\""
+        },
+        {
+          "what": "main journal taper, production",
+          "value": ".0002\" (Max.)"
+        },
+        {
+          "what": "main journal taper, service",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "main journal out of round, production",
+          "value": ".0002\" (Max.)"
+        },
+        {
+          "what": "main journal out of round, service",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "327: main bearing clearance, production, #1-2-3-4",
+          "value": ".0008\"-.0020\""
+        },
+        {
+          "what": "327: main bearing clearance, production, #5",
+          "value": ".0018\"-.0034\""
+        },
+        {
+          "what": "427: main bearing clearance, production, #1-2-3-4",
+          "value": ".0013\"-.0025\""
+        },
+        {
+          "what": "427: main bearing clearance, production, #5",
+          "value": ".0015\"-.0031\""
+        },
+        {
+          "what": "main bearing clearance, service",
+          "value": ".004\" (Max.)"
+        },
+        {
+          "what": "327: crankshaft end play",
+          "value": ".003\"-.011\""
+        },
+        {
+          "what": "427: crankshaft end play",
+          "value": ".006\"-.010\""
+        },
+        {
+          "what": "327: crankpin diameter",
+          "value": "2.099\"-2.100\""
+        },
+        {
+          "what": "427 390 and 400 hp: crankpin diameter",
+          "value": "2.199\"-2.200\""
+        },
+        {
+          "what": "427 430 and 435 hp: crankpin diameter",
+          "value": "2.1985\"-2.1995\""
+        },
+        {
+          "what": "crankpin taper, production",
+          "value": ".0003\" (Max.)"
+        },
+        {
+          "what": "crankpin taper, service",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "crankpin out of round, production",
+          "value": ".002\" (Max.)"
+        },
+        {
+          "what": "crankpin out of round, service",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "327: rod bearing clearance, production",
+          "value": ".0007\"-.0028\""
+        },
+        {
+          "what": "427 390 and 400 hp: rod bearing clearance, production",
+          "value": ".0009\"-.0025\""
+        },
+        {
+          "what": "427 430 and 435 hp: rod bearing clearance, production",
+          "value": ".0014\"-.0030\""
+        },
+        {
+          "what": "rod bearing clearance, service",
+          "value": ".004\" (Max.)"
+        },
+        {
+          "what": "327: rod side clearance",
+          "value": ".009\"-.013\""
+        },
+        {
+          "what": "427 390 and 400 hp: rod side clearance",
+          "value": ".015\"-.021\""
+        },
+        {
+          "what": "427 430 and 435 hp: rod side clearance",
+          "value": ".019\"-.025\""
+        }
+      ],
+      "notes": [
+        "327 #5 main journal diameter is printed as 2.447\"-2.4488\" (lower limit has only three decimals as printed).",
+        "Only the 327 (300, 350 hp) and 427 (390, 400, 430, 435 hp) columns are kept; values read from column spans in the page image."
+      ],
+      "continues": false
+    }
+  ]
+}

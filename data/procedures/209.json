@@ -1,0 +1,34 @@
+{
+  "page": 209,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-8",
+  "procedures": [
+    {
+      "title": "Parking brake: adjust",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "parking brake equalizer",
+        "equalizer check nuts",
+        "parking brake cables"
+      ],
+      "steps": [
+        "Put the car on a hoist.",
+        "Set the parking brake two notches up from fully released.",
+        "Back off the equalizer front check nut; tighten or loosen the rear nut until the rear wheels turn with light to moderate drag.",
+        "Tighten both check nuts securely.",
+        "Release the parking brake fully and turn the rear wheels; there must be no drag.",
+        "(If the brake does not release fully unless forced back, or takes high effort to apply) Clean and lubricate the cables and equalizer.",
+        "Check the brake assembly is straight and aligned; replace it if needed.",
+        "Clean and lubricate the parking brake assembly.",
+        "Check the cable routing for kinks or binding."
+      ],
+      "specs": [],
+      "notes": [
+        "Because of the dual role, the service brake must be adjusted correctly before the parking brake, and the parking brake must be adjusted for the service brake to work as designed.",
+        "Corvette: the Corvette lever and cable procedures refer back to this adjustment; the disc-brake part of the section adds a Corvette parking brake shoe adjustment through the disc (p.5-24).",
+        "The Chevrolet/Chevelle/Camaro/Chevy II pedal removal that starts on this page does not apply to the Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 35,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-16",
+  "procedures": [
+    {
+      "title": "Refrigerant-12: handling precautions",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "Refrigerant-12",
+        "refrigerant drum",
+        "disposable refrigerant can"
+      ],
+      "steps": [
+        "Refit the heavy metal screw cap on a refrigerant drum after every use; it protects the valve and safety plug.",
+        "If a drum or can must ride in a car, carry it in the luggage compartment, out of direct sun.",
+        "Never subject a drum or can to high temperature when adding refrigerant."
+      ],
+      "specs": [],
+      "notes": [
+        "Following the established practices for refrigeration work protects both the customer's equipment and the serviceman.",
+        "R-12 is clear and colorless as gas or liquid and boils at 21.7°F below zero, so at normal conditions it is a vapor.",
+        "The vapor is heavier than air; it does not burn or explode, and is not poisonous except in contact with open flame, nor corrosive except in contact with water.",
+        "Sun heat raises pressure and can make the safety plug release or the container burst.",
+        "Some heating of the container is usually needed so its pressure exceeds system pressure while charging."
+      ],
+      "continues": true
+    }
+  ]
+}

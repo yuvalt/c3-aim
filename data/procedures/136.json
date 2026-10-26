@@ -1,0 +1,64 @@
+{
+  "page": 136,
+  "source": "1968 Chevrolet Chassis Service Manual, Frame, p.2-4",
+  "procedures": [
+    {
+      "title": "Frame dimensions: Corvette",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "frame",
+        "reference holes CX, CW, CY"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "top view: centerline to front frame hole (each side)",
+          "value": "18-5/8"
+        },
+        {
+          "what": "top view: centerline to body mount hole near transverse reference line",
+          "value": "20-1/4"
+        },
+        {
+          "what": "top view: centerline to rear hole CW / CX (each side)",
+          "value": "16-7/8"
+        },
+        {
+          "what": "top view: front frame hole to transverse reference line",
+          "value": "42-3/8"
+        },
+        {
+          "what": "top view: body mount hole ahead of transverse reference line",
+          "value": "3-5/8"
+        },
+        {
+          "what": "top view: transverse reference line to rear hole CW",
+          "value": "26-1/4"
+        },
+        {
+          "what": "side view: front frame hole to transverse reference line",
+          "value": "42"
+        },
+        {
+          "what": "side view: front frame hole height above datum",
+          "value": "14-1/2"
+        },
+        {
+          "what": "side view: hole at kick-up height above datum",
+          "value": "8"
+        },
+        {
+          "what": "side view: height above datum at kick-up (upper point)",
+          "value": "12-7/8"
+        }
+      ],
+      "notes": [
+        "See figure 3 in the manual; dimensions are printed without units (inches).",
+        "Frame centerline is set by the center of hole CY (on the front crossmember) and by being equidistant from rear holes CX and CW.",
+        "Dimension descriptions are read from the figure; check the figure for the exact end points."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "page": 309,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-12",
+  "procedures": [
+    {
+      "title": "Voltage regulator: adjust voltage setting",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltage regulator", "regulator cover", "four terminal connector"],
+      "steps": [
+        "Adjust to 14.2 to 14.6 volts (adjusting screw, see figure 7c in the manual).",
+        "Unplug the four-terminal connector, refit the regulator cover, then plug the connector back in.",
+        "Keep running at 1500 rpm for 5-10 minutes so the regulator regains operating temperature.",
+        "Cycle the regulator by unplugging and replugging the connector and read voltage; 13.5 to 15.2 volts means a good regulator."
+      ],
+      "specs": [
+        {"what": "regulator adjustment target", "value": "14.2 to 14.6 volts"},
+        {"what": "regulator voltage (good)", "value": "13.5 to 15.2 volts"}
+      ],
+      "notes": ["Always unplug the four-terminal connector before removing or installing the regulator cover, to avoid short-circuit damage."],
+      "continues": false
+    },
+    {
+      "title": "Delcotron output test (ammeter method)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron generator", "battery ground cable", "ammeter", "voltmeter", "carbon pile"],
+      "steps": [
+        "Disconnect the battery ground cable at the battery.",
+        "Disconnect the red wire at the Delcotron battery terminal and connect an ammeter in series between wire and terminal.",
+        "Connect a voltmeter from the battery terminal to a good ground on the generator.",
+        "Unplug the F-R connector at the Delcotron.",
+        "Jumper the Delcotron \"F\" terminal to its battery terminal.",
+        "Reconnect the battery ground cable.",
+        "Connect an adjustable carbon pile across the battery posts.",
+        "Start the engine, slowly raise speed to 1500 rpm while adjusting the carbon pile to hold 14 volts.",
+        "Read the amperage and compare with the specifications.",
+        "Turn off the ignition, disconnect the battery ground cable and remove all test equipment.",
+        "If output meets specification, the generator is not the problem; if not, remove it, bench test and repair."
+      ],
+      "specs": [{"what": "output test conditions", "value": "1500 RPM, 14 volts"}],
+      "notes": ["See figure 9c in the manual for connections."],
+      "continues": false
+    },
+    {
+      "title": "Delcotron diode and field test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron generator", "diodes", "rotor field", "ohmmeter"],
+      "steps": [
+        "Disconnect the battery ground cable at the battery.",
+        "Positive diodes (test A): read an ohmmeter between the \"R\" and \"BAT\" terminals, then reverse the leads and read again."
+      ],
+      "specs": [],
+      "notes": ["These tests find a good, shorted or open field and a shorted diode, but not an open diode. If output was low and these tests pass, see Service Operations."],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "page": 339,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-10",
+  "procedures": [
+    {
+      "title": "Transmission side cover (Warner 3-speed): remove, overhaul and install",
+      "applies_to": "Warner 3-speed",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [
+        "Set that shaft and plate in neutral (middle detent), then fit the interlock sleeve, a ball, the poppet spring and the interlock pin.",
+        "Fit the second poppet ball, then the 2nd/3rd shifter shaft and plate.",
+        "With one plate in neutral and the other in gear, measure the gap between the interlock sleeve end and the plate cams.",
+        "Fit the outer levers with lock washers and nuts and tighten securely.",
+        "Fit the forks to the levers, with the 1st/reverse fork hump facing down.",
+        "Installation: put a new gasket on the case, fit the cover and secure it with lock washers and cap screws.",
+        "Connect the control rod and cross shaft to the levers."
+      ],
+      "specs": [
+        {
+          "what": "interlock sleeve to shifter plate cam clearance",
+          "value": ".002 to .008"
+        }
+      ],
+      "notes": [
+        "Fitting the 2nd/3rd shaft is easiest when its plate passes over the ball in neutral.",
+        "Interlock sleeves come in four sizes to set the clearance.",
+        "The two rear cover-to-case bolts go through to the inside and have a special oil-sealing spline; use those bolts in those two holes.",
+        "See figure 12 in the manual for the parts."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Three-speed transmission: remove (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "battery ground cable",
+        "shifter ball"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Inside the car, remove the shifter ball."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

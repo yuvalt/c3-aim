@@ -1,0 +1,27 @@
+{
+  "page": 232,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-31",
+  "procedures": [
+    {
+      "title": "Brake special tools",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "J-8051 brake tube flaring tool",
+        "J-8049 brake spring remover and installer",
+        "J-8113 brake tube cutter",
+        "J-22591/J-22629/J-22639 piston ring compressors",
+        "J-21472 brake bleeder wrench",
+        "J-22489 pressure bleeder adapter",
+        "J-21177 drum-to-brake shoe clearance gauge",
+        "J-22592/J-22628/J-22638 boot seal installers"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 45 in the manual: (1) J-8051 flaring tool; (2) J-8049 brake spring remover and installer; (3) J-8113 brake tube cutter; (4) J-22591, J-22629, J-22639 piston ring compressors; (5) J-21472 bleeder wrench; (6) J-22489 pressure bleeder adapter; (7) J-21177 drum-to-shoe clearance gauge; (8) J-22592, J-22628, J-22638 boot seal installers. No procedure text on this page."
+      ],
+      "continues": false
+    }
+  ]
+}

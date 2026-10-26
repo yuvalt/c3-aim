@@ -1,0 +1,63 @@
+{
+  "page": 218,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-17",
+  "procedures": [
+    {
+      "title": "Brake main cylinder identification",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "main cylinder",
+        "secondary piston"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "Corvette main cylinder, Delco Moraine, manual disc / power disc: code",
+          "value": "DC"
+        },
+        {
+          "what": "Corvette main cylinder code DC: secondary piston identification",
+          "value": "5 rings or grooves"
+        },
+        {
+          "what": "Corvette main cylinder, Delco Moraine, power disc: code",
+          "value": "PG"
+        },
+        {
+          "what": "Corvette main cylinder code PG: secondary piston identification",
+          "value": "1 ring or groove"
+        }
+      ],
+      "notes": [
+        "From figure 30 in the manual (Corvette rows only).",
+        "The two-letter code is stamped on top of the closed end of the cylinder barrel."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Dual main cylinder: parts replacement rules",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder",
+        "primary piston",
+        "secondary piston",
+        "check valve"
+      ],
+      "steps": [
+        "Replace a main cylinder only with one stamped with the same two-letter code, which marks its displacement.",
+        "Replace pistons only with ones carrying the same ring/groove marks on the shank and the same push-rod socket shape as the originals.",
+        "Note which outlets carry check valves (see next page)."
+      ],
+      "specs": [],
+      "notes": [
+        "Each car line has its own main cylinder displacement, so the correct parts are essential for both whole cylinders and pistons.",
+        "1968 dual main cylinders come from Delco Moraine or Bendix. A Bendix unit has a secondary piston stop bolt on the bottom of the casting; Delco Moraine units do not (see figure 1 in the manual).",
+        "Secondary piston length is critical and is coded by rings or grooves on the shank. Primary pistons come with either a deep or a very shallow push-rod socket.",
+        "Delco Moraine cylinders for drum brakes have a rubber check valve and spring in each outlet boss."
+      ],
+      "continues": true
+    }
+  ]
+}

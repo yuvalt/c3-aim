@@ -1,0 +1,66 @@
+{
+  "page": 220,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-19",
+  "procedures": [
+    {
+      "title": "Main cylinder: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "snap ring",
+        "primary piston",
+        "secondary piston",
+        "piston spring",
+        "check valve seats",
+        "check valves",
+        "tube seats",
+        "seals",
+        "seal protectors",
+        "piston extension screw",
+        "stop screw"
+      ],
+      "steps": [
+        "Remove the snap ring and the primary piston assembly. Blow air into the stop bolt hole to push out the secondary piston, spring and retainer; without air, bend about 1/4 in. of a wire into a hook and pull the piston out.",
+        "Re-clamp the cylinder with the outlet holes up.",
+        "Drill a 13/64 in. hole through both check valve seats.",
+        "Tap both seats with a 1/4-20 tap.",
+        "Screw a spare brake line tube nut into the outlet. Put a flat washer on a 1 in. screw that fits the tapped hole and thread it into the seat; hold the screw still and back the tube nut out to pull the seat.",
+        "Pull the second tube seat the same way.",
+        "Take out the check valves and springs under the seats.",
+        "Strip the primary seal, primary seal protector and secondary seals from the secondary piston. Remove the piston extension screw holding the primary spring to the primary piston, then the spring retainer, primary seal, seal protector and secondary seal from the primary piston.",
+        "(Cleaning and inspection) Check the bore for corrosion, pits and dirt; make sure the outlet ports hold no brass chips from seat removal.",
+        "Check the reservoirs for dirt and confirm the bypass and compensating ports into the bore are open; do not probe them with wire.",
+        "Clean all metal parts in Declene or equivalent, scrubbing with a hair brush; blow out every passage, orifice and valve hole, air dry and lay on clean paper or lint-free cloth.",
+        "Check the pistons for scratches or damage; replace as needed.",
+        "(Assembly) Clamp the cylinder outlets up, drop the check valve springs into the outlet holes fully seated, and set new rubber check valves on them without dislodging the springs.",
+        "Set new brass tube seats squarely in the outlets. Run a spare tube nut down until the seat bottoms, remove it and check for loose burrs. Repeat for the second seat.",
+        "Fit new secondary seals in the two grooves at the end of the secondary piston: the seal nearest the end has its lips toward that end; the second seal's lips face the part of the piston with the small compensating holes.",
+        "Fit a new primary seal protector and primary seal over the end of the secondary piston: seal flat side against the protector, protector against the flange with the compensating holes.",
+        "Fit the new secondary seal in the groove at the push-rod end of the primary piston, lips facing the compensating holes at the other end.",
+        "Fit a new primary seal protector and primary seal on the primary piston: seal flat side on the protector, protector against the flange with the compensating holes.",
+        "Put the spring retainer in one end of the primary piston spring and the secondary piston stop in the other; place the spring on the primary piston with the retainer sitting inside the primary seal lips.",
+        "Clear any cleaning fluid from the threaded hole in the primary piston. Pass the extension screw through the secondary piston stop and spring retainer and screw it into the primary piston until it bottoms.",
+        "Coat the cylinder bore and the secondary piston seals with clean brake fluid. Put the secondary spring retainer into the secondary spring and place both over the end of the secondary piston, retainer inside the primary cup lips.",
+        "Hold the cylinder open end down and push the secondary piston in until the spring seats on the closed end of the bore.",
+        "Clamp the cylinder open end up. Coat the primary piston seals with clean fluid and push the primary piston in, spring end first. Hold it down and snap the lock ring into the small grooves inside the bore.",
+        "Push the primary piston in so the secondary piston moves forward past the stop screw hole in the bottom of the front reservoir, then install the stop screw."
+      ],
+      "specs": [
+        {
+          "what": "check valve seat removal drill",
+          "value": "13/64 inch"
+        },
+        {
+          "what": "check valve seat tap",
+          "value": "1/4 - 20"
+        }
+      ],
+      "notes": [
+        "Hands must be clean before handling parts: wash with soap and water only, never gasoline or oil. Keep parts clean until reassembly and rewash if in doubt.",
+        "Assemble check valve seats carefully: a distorted seat kills check valve action, losing pedal travel so the pedal must be pumped before the car brakes.",
+        "Check valve steps apply only to cylinders that have check valves; four-wheel disc (Corvette) cylinders have none (p.5-18)."
+      ],
+      "continues": true
+    }
+  ]
+}

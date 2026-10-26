@@ -1,0 +1,29 @@
+{
+  "page": 377,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-4",
+  "procedures": [
+    {
+      "title": "Fuel tank: remove and install",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": ["fuel tank", "battery ground cable", "gas cap", "filler neck boot", "drain line", "spare tire carrier", "exhaust system U clamps", "rear muffler brackets", "fuel tank straps", "tank gauge unit", "fuel lines", "tank support"],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the gas cap and the filler neck boot on top of the tank, and disconnect the drain line (see figure 6 in the manual).",
+        "Raise the car on a hoist.",
+        "Take the spare tire off the carrier (see figure 7 in the manual).",
+        "Unbolt and remove the spare tire carrier.",
+        "Loosen the U clamps and separate the exhaust systems at the transmission support.",
+        "Remove the rear muffler brackets at the frame and slide the exhaust systems rearward.",
+        "Remove the tank strap bolts.",
+        "Disconnect the gauge unit wires and fuel lines and drain the tank.",
+        "Remove the tank support-to-frame bolts and the support.",
+        "Lower the tank, rotating it toward the front of the car.",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

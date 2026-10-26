@@ -1,0 +1,130 @@
+{
+  "page": 369,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-40",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic oil leak diagnosis",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [
+        "Front end (continued): check the pump O-ring and also the pump groove and case bore; check for a porous pump or case.",
+        "Oil from the vent pipe: look for overfilling, water in the oil, a misplaced pump to case gasket, dirt between pump and case or between pump cover and body, a porous case or badly machined pump face, or a pump short of stock on its mounting faces or porous."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic case porosity repair",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "aluminum transmission case",
+        "epoxy cement #1360016"
+      ],
+      "steps": [
+        "Road test to bring the transmission to operating temperature.",
+        "Raise the car and, with the engine running, find the leak, checking every selector position; a mirror helps.",
+        "Stop the engine, clean the area well with solvent and blow it dry.",
+        "Mix enough epoxy cement, part #1360016, following the maker's directions.",
+        "While the case is still hot, cover the leak area completely with epoxy.",
+        "Let it cure three hours, then retest as in the first two steps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic oil pressure check (car stationary)",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "transmission oil pressure gauge",
+        "engine tachometer",
+        "vacuum modulator tube"
+      ],
+      "steps": [
+        "Hook up the pressure gauge and a tachometer.",
+        "With the modulator vacuum tube disconnected, zero output speed and the engine at 1200 rpm, compare readings with the altitude table.",
+        "With the vacuum tube connected and the engine at about 600-800 rpm, compare with the second set of values."
+      ],
+      "specs": [
+        {
+          "what": "pressure, tube off, 1200 rpm, 0 ft: Drive/Neutral/Park | L1 or L2 | Reverse",
+          "value": "150 | 150 | 244"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 2,000 ft",
+          "value": "150 | 150 | 233"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 4,000 ft",
+          "value": "145 | 150 | 222"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 6,000 ft",
+          "value": "138 | 150 | 212"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 8,000 ft",
+          "value": "132 | 150 | 203"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 10,000 ft",
+          "value": "126 | 150 | 194"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 12,000 ft",
+          "value": "121 | 150 | 186"
+        },
+        {
+          "what": "pressure, tube off, 1200 rpm, 14,000 ft",
+          "value": "116 | 150 | 178"
+        },
+        {
+          "what": "pressure, tube connected, 600-800 rpm: Drive/Neutral/Park | L1 or L2 | Reverse",
+          "value": "60 | 150 | 107"
+        }
+      ],
+      "notes": [
+        "Altitude and barometric pressure have little effect on the readings with the vacuum tube connected.",
+        "Units are not printed in the table (pressures in psi)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic vacuum modulator checks",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "vacuum modulator",
+        "vacuum connector pipe",
+        "bellows comparison gauge"
+      ],
+      "steps": [
+        "Diaphragm leak: push a pipe cleaner as far as it goes into the vacuum connector pipe; transmission oil on it means replace the modulator.",
+        "Atmospheric leak: brush soap solution over the vacuum pipe seam, the crimped upper-to-lower housing seam and the threaded screw seal; blow into the vacuum pipe through a short rubber tube and replace the modulator if bubbles appear.",
+        "Bellows comparison: put a known good modulator on one end of the comparison gauge and the suspect one on the other.",
+        "Hold them level and push them together until one sleeve end just reaches the center line of the gauge."
+      ],
+      "specs": [
+        {
+          "what": "max air pressure for atmospheric leak test",
+          "value": "under 6 psi (lung power only)"
+        },
+        {
+          "what": "comparison gauge stock",
+          "value": "13/32\" to 3/8\" round or flat stock, ends square within 1/64\""
+        }
+      ],
+      "notes": [
+        "Over 50% of modulators returned as faulty were found good, so test before replacing.",
+        "Gasoline or water vapor alone (no oil) on the vacuum side is not a reason to replace.",
+        "Use only breath to pressurize; more than 6 psi can damage the modulator.",
+        "The comparison gauge is shown in figure 6T in the manual (overall 1\" long with a scribed line at 1/2\")."
+      ],
+      "continues": true
+    }
+  ]
+}

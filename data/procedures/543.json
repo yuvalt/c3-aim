@@ -1,0 +1,29 @@
+{
+  "page": 543,
+  "source": "1968 Chevrolet Chassis Service Manual, Radiator and Grille, p.13-10",
+  "procedures": [
+    {
+      "title": "Grille (Corvette): remove and install",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "left and right grilles",
+        "center grille assembly",
+        "parking lamps",
+        "license plate bracket"
+      ],
+      "steps": [
+        "Remove the left and right parking lamps.",
+        "Remove the screws holding the left and right grilles and take the grilles out.",
+        "Remove the license plate bracket.",
+        "Remove the 4 screws holding the center grille assembly and take it out.",
+        "Installation: install the grilles and related parts in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 11 in the manual for the grille assembly."
+      ],
+      "continues": false
+    }
+  ]
+}

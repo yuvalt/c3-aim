@@ -1,0 +1,108 @@
+{
+  "page": 331,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-2",
+  "procedures": [
+    {
+      "title": "Clutch linkage adjustment",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [],
+      "steps": [
+        "If the clutch slipped before adjustment, it may still slip just after adjusting because of earlier heat damage; have the car brought back the next day (at least 12 hours later) so the clutch has cooled fully.",
+        "Then test for slip: drive in high gear at 20-25 MPH.",
+        "Push the pedal to the floor and raise engine speed to 2500-3500 rpm.",
+        "Release the clutch fast (snap the foot off the pedal) and go to full throttle.",
+        "Engine speed should fall noticeably and then climb with the car; if engine speed rises instead, the clutch is bad."
+      ],
+      "specs": [],
+      "notes": [
+        "Do this test only once at a time or the clutch will overheat."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch pedal free travel adjustment (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "clutch",
+      "parts": [
+        "return spring E",
+        "clutch push rod",
+        "cross shaft lever",
+        "jam nuts A and B",
+        "swivel C",
+        "adjusting rod D",
+        "clutch fork",
+        "release bearing"
+      ],
+      "steps": [
+        "Unhook spring E that runs between the clutch push rod and the cross shaft lever.",
+        "With the pedal resting on its stop, back off the jam nuts enough that the adjusting rod can be moved against the clutch fork until the release bearing just touches the pressure plate fingers.",
+        "Run upper nut B against the swivel, then back it off 4-1/2 turns.",
+        "Tighten lower nut A to lock the swivel against nut B.",
+        "Refit return spring E and measure pedal free travel."
+      ],
+      "specs": [
+        {
+          "what": "clutch pedal free travel, Corvette standard",
+          "value": "1-1/4\" to 2\""
+        },
+        {
+          "what": "clutch pedal free travel, Corvette heavy duty",
+          "value": "2\" to 2-1/2\""
+        }
+      ],
+      "notes": [
+        "Same procedure as the full-size Chevrolet; see figure 1 in the manual (nuts A and B, swivel C, rod D, spring E)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch assembly: remove from vehicle",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch assembly",
+        "clutch fork",
+        "clutch fork push rod",
+        "flywheel housing",
+        "ball stud",
+        "dust boot",
+        "flywheel"
+      ],
+      "steps": [
+        "Support the engine and take out the transmission (see the transmission section).",
+        "Disconnect the clutch fork push rod and its spring.",
+        "Remove the flywheel housing.",
+        "Slide the fork off its ball stud and pull it out of the dust boot.",
+        "Fit tool J-5824 to hold the clutch assembly while it comes off.",
+        "Find the \"X\" marks on flywheel and clutch cover; if there are none, prick-punch matching marks on both for reassembly.",
+        "Loosen the clutch-to-flywheel bolts evenly, one turn at a time, until spring pressure is relieved, then remove the bolts and the clutch."
+      ],
+      "specs": [],
+      "notes": [
+        "The ball stud screws into the clutch housing and is easy to replace if needed."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch assembly: install in vehicle",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "pressure plate",
+        "clutch driven disc",
+        "flywheel",
+        "alignment tool J-5824"
+      ],
+      "steps": [
+        "Clean the pressure plate and flywheel faces so they are free of oil, grease, metal deposits and burn marks.",
+        "Hold the disc and pressure plate in their installed positions with alignment tool J-5824."
+      ],
+      "specs": [],
+      "notes": [
+        "Install the driven disc with its damper springs facing the transmission."
+      ],
+      "continues": true
+    }
+  ]
+}

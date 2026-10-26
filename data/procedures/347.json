@@ -1,0 +1,71 @@
+{
+  "page": 347,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-18",
+  "procedures": [
+    {
+      "title": "Transmission side cover (Muncie 4-speed): remove, overhaul and install",
+      "applies_to": "Muncie 4-speed",
+      "topic": "transmission",
+      "parts": [
+        "cover gasket",
+        "cover bolts",
+        "filler plug"
+      ],
+      "steps": [
+        "Installation: move the 1-2 lever to second (forward) and lay the gasket on the case.",
+        "Set the cover in place with each fork engaged in its mainshaft sliding sleeve (see figure 21 in the manual).",
+        "Install the cover bolts and tighten them evenly.",
+        "Remove the filler plug and fill with the Section 0 lubricant to the bottom of the filler hole."
+      ],
+      "specs": [
+        {
+          "what": "Muncie side cover bolts",
+          "value": "15-20 ft. lbs."
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Transmission side cover (Saginaw 4-speed): remove, overhaul and install",
+      "applies_to": "Saginaw 4-speed",
+      "topic": "transmission",
+      "parts": [
+        "side cover",
+        "outer shifter levers",
+        "shift forks",
+        "1-2, 3-4 and reverse shifter shaft assemblies",
+        "O-ring seals",
+        "reverse detent ball and spring",
+        "detent cams",
+        "detent cam spring",
+        "pivot C-ring",
+        "cover gasket"
+      ],
+      "steps": [
+        "Removal: unhook the control rods from the levers.",
+        "Put the transmission in the neutral detents before removing the cover.",
+        "Lift the cover off carefully and let it drain.",
+        "Disassembly: remove the outer shifter levers.",
+        "Take both forks off their shafts, then pull all three shifter shafts from the cover; pry out the O-rings only if damaged. Remove the reverse shaft detent ball and spring.",
+        "Remove the detent cam spring and pivot C-ring; mark the detent cams for reassembly and remove them.",
+        "Replace damaged parts.",
+        "Assembly: with the spring tang sticking up over the 3-4 shaft opening, put the 1-2 detent cam on the pivot pin; with the tang up over the 1-2 shaft hole, fit the 3-4 cam.",
+        "Fit the C-ring on the pivot shaft and hook the spring into the cam notches.",
+        "Insert the 1-2 and 3-4 shafts without harming the seals; fit both forks, lifting the detent cam so they seat fully.",
+        "Fit the reverse detent ball and spring, then the reverse shifter shaft.",
+        "Fit the outer levers with flat washers, lock washers and bolts.",
+        "Installation: put the levers in the center (neutral) detent and lay the gasket on the case.",
+        "Set the cover in place with each fork engaged in its mainshaft sliding sleeve.",
+        "Install the cover bolts and tighten evenly to specified torque.",
+        "Remove the filler plug and fill with the Section 0 lubricant to the bottom of the filler hole."
+      ],
+      "specs": [],
+      "notes": [
+        "The 1-2 detent cam has .090\" more contour at the inner detent notch than the 3-4 cam.",
+        "See figure 22 in the manual for the cover parts."
+      ],
+      "continues": false
+    }
+  ]
+}

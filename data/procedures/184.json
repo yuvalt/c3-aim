@@ -1,0 +1,26 @@
+{
+  "page": 184,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-25",
+  "procedures": [
+    {
+      "title": "Corvette rear axle: general description",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "yoke lip seals",
+        "carrier cover",
+        "filler plug",
+        "spring center section"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "(continued) ...next to the differential bearings, with a lip seal pressed in outboard of each bearing to keep oil in and dirt out.",
+        "The bolted carrier cover gives access to the internals. It has two reinforced mounting pads that attach the carrier to the suspension crossmember, plus a mounting point for the spring center section.",
+        "The filler plug is on the right side of the cover near the bolting flange.",
+        "The carrier can be removed for any service without taking off the cover; the cover only comes off when replacing the whole carrier housing, since carrier and cover are serviced as one assembly."
+      ],
+      "continues": false
+    }
+  ]
+}

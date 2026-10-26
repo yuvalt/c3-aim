@@ -1,0 +1,55 @@
+{
+  "page": 224,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-23",
+  "procedures": [
+    {
+      "title": "Disc brakes: general description",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "caliper",
+        "brake disc",
+        "splash shield",
+        "mounting bracket",
+        "pistons",
+        "shoe and lining assemblies",
+        "retaining pin",
+        "pressure regulator valve"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Four-wheel disc brakes are standard on the 1968 Corvette, as in 1967. Optional heavy-duty disc brakes add new front calipers, shoes, linings and a rear pressure regulator valve, and are used with a vacuum power unit.",
+        "Each brake has a fixed caliper, a rotating disc, a splash shield and a mounting bracket (see figures 35 and 36 in the manual). The caliper has 4 pistons and 2 shoes with riveted linings; each piston has a seal and dust boot with a spring in the bore beneath it.",
+        "One retaining pin passes through both caliper halves and both shoes; Corvette heavy-duty brakes instead use two retaining cotter pins, one at each end of the caliper. Machined surfaces in the caliper stop the shoes from turning with the disc.",
+        "The disc has air vent louvers for cooling and mounts on the front hub; the caliper straddles it and bolts with 2 bolts to a bracket on the steering knuckle.",
+        "The Corvette heavy-duty option puts a pressure regulator valve in the rear brake line just below the main cylinder.",
+        "Any maintenance or service not covered in the disc section is the same as for Duo-Servo brakes."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Disc brakes: bleeding",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "caliper bleeder valves",
+        "rawhide mallet"
+      ],
+      "steps": [
+        "Bleed as for Duo-Servo brakes (p.5-3), with the following exceptions.",
+        "With pressure equipment, set it to 10-20 lbs. for Corvette.",
+        "Remove the rear wheels: each Corvette rear caliper has two bleeder valves (inboard and outboard); front calipers have one.",
+        "Tap the caliper with a rawhide mallet while fluid flows to help get a good bleed."
+      ],
+      "specs": [
+        {
+          "what": "pressure bleeder setting, disc brakes, Corvette",
+          "value": "10-20 lbs."
+        }
+      ],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

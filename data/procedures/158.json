@@ -1,0 +1,35 @@
+{
+  "page": 158,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-19",
+  "procedures": [
+    {
+      "title": "Upper control arm cross shaft and/or bushings: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper control arm",
+        "upper control arm cross shaft",
+        "cross shaft bushings",
+        "collars",
+        "3/8-24 capscrew"
+      ],
+      "steps": [
+        "Removal: remove the capscrews, lock washers and collars from both ends of the cross shaft.",
+        "Screw the 3/8-24 capscrew supplied with J-5888 into one end of the shaft.",
+        "Support the arm in an arbor press on J-5888-3 with J-7052-2 in place (see figure 32 in the manual), keeping the bushing flange off the support.",
+        "Press out the bushing, turn the arm over and press out the other one; discard both.",
+        "Remove the capscrew from the shaft.",
+        "Installation: with J-7052-2 in place and the arm on J-5888-3, press in one bushing (see figure 33 in the manual).",
+        "Insert the cross shaft, turn the arm over and press in the second bushing the same way.",
+        "Check that the shaft turns by hand.",
+        "Fit the collar, lock washer and capscrew at each shaft end, but do not tighten yet."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 33 shows installer J-7052-5 with spacer J-7052-2 and support J-5888-3.",
+        "The final tightening is done after installation per the Upper control arm procedure (bounce front end, then torque collar bolts)."
+      ],
+      "continues": false
+    }
+  ]
+}

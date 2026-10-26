@@ -1,0 +1,300 @@
+{
+  "page": 576,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine specifications: general data",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "engine"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "type",
+          "value": "V8"
+        },
+        {
+          "what": "327 300 hp: horsepower @ rpm",
+          "value": "300 @ 5000"
+        },
+        {
+          "what": "327 300 hp: torque @ rpm",
+          "value": "360 @ 3400"
+        },
+        {
+          "what": "327 300 hp: compression ratio",
+          "value": "10.0:1"
+        },
+        {
+          "what": "327 350 hp: horsepower @ rpm",
+          "value": "350 @ 5800"
+        },
+        {
+          "what": "327 350 hp: torque @ rpm",
+          "value": "360 @ 3600"
+        },
+        {
+          "what": "327 350 hp: compression ratio",
+          "value": "11.0:1"
+        },
+        {
+          "what": "327: bore",
+          "value": "4\""
+        },
+        {
+          "what": "327: stroke",
+          "value": "3.25\""
+        },
+        {
+          "what": "427 390 hp: horsepower @ rpm",
+          "value": "390 @ 5400"
+        },
+        {
+          "what": "427 390 hp: torque @ rpm",
+          "value": "460 @ 3600"
+        },
+        {
+          "what": "427 390 hp: compression ratio",
+          "value": "10.25:1"
+        },
+        {
+          "what": "427 400 hp: horsepower @ rpm",
+          "value": "400 @ 5400"
+        },
+        {
+          "what": "427 400 hp: torque @ rpm",
+          "value": "460 @ 3600"
+        },
+        {
+          "what": "427 400 hp: compression ratio",
+          "value": "10.25:1"
+        },
+        {
+          "what": "427 430 hp: horsepower @ rpm",
+          "value": "430 @ 5200"
+        },
+        {
+          "what": "427 430 hp: torque @ rpm",
+          "value": "450 @ 4400"
+        },
+        {
+          "what": "427 430 hp: compression ratio",
+          "value": "12.5:1"
+        },
+        {
+          "what": "427 435 hp: horsepower @ rpm",
+          "value": "435 @ 5800"
+        },
+        {
+          "what": "427 435 hp: torque @ rpm",
+          "value": "460 @ 4000"
+        },
+        {
+          "what": "427 435 hp: compression ratio",
+          "value": "11.0:1"
+        },
+        {
+          "what": "427: bore",
+          "value": "4-1/4\""
+        },
+        {
+          "what": "427: stroke",
+          "value": "3.76\""
+        },
+        {
+          "what": "V8 firing order",
+          "value": "1-8-4-3-6-5-7-2"
+        }
+      ],
+      "notes": [
+        "Section 6. The table also lists other 327 ratings (210, 250, 275, 325 hp) and 427 ratings (385, 425 hp) used in other models; only the ratings offered in the 1968 Corvette are kept here."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: cylinder bore",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "cylinder bore"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327: diameter",
+          "value": "3.9995\"-4.0025\""
+        },
+        {
+          "what": "427: diameter",
+          "value": "4.2495\"-4.2525\""
+        },
+        {
+          "what": "out of round, production (327 and 427)",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "out of round, service",
+          "value": ".002\" (Max.)"
+        },
+        {
+          "what": "taper, production, thrust side",
+          "value": ".0005\" (Max.)"
+        },
+        {
+          "what": "taper, production, relief side (327 and 427)",
+          "value": ".001\" (Max.)"
+        },
+        {
+          "what": "taper, service",
+          "value": ".005\" (Max.)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: piston clearance",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "pistons"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 hp: clearance, production",
+          "value": ".0005\"-.0011\""
+        },
+        {
+          "what": "327 300 hp: clearance, service",
+          "value": ".0025\" (Max.)"
+        },
+        {
+          "what": "327 350 hp: clearance, production",
+          "value": ".0024\"-.0030\""
+        },
+        {
+          "what": "327 350 hp: clearance, service",
+          "value": ".0050\" (Max.)"
+        },
+        {
+          "what": "427 390 and 400 hp: clearance, production",
+          "value": ".0009\"-.0015\""
+        },
+        {
+          "what": "427 390 and 400 hp: clearance, service",
+          "value": ".0025\" (Max.)"
+        },
+        {
+          "what": "427 430 hp: clearance, production",
+          "value": ".0054\"-.0063\""
+        },
+        {
+          "what": "427 430 hp: clearance, service",
+          "value": ".0085\" (Max.)"
+        },
+        {
+          "what": "427 435 hp: clearance, production",
+          "value": ".0037\"-.0043\""
+        },
+        {
+          "what": "427 435 hp: clearance, service",
+          "value": ".0065\" (Max.)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: piston rings",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "piston rings",
+        "compression rings",
+        "oil rings"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 and 350 hp: compression ring groove clearance, production, top",
+          "value": ".0012\"-.0032\""
+        },
+        {
+          "what": "327 300 and 350 hp: compression ring groove clearance, production, 2nd",
+          "value": ".0012\"-.0027\""
+        },
+        {
+          "what": "427 390, 400, 430, 435 hp: compression ring groove clearance, production, top",
+          "value": ".0017\"-.0032\""
+        },
+        {
+          "what": "427 390, 400, 430, 435 hp: compression ring groove clearance, production, 2nd",
+          "value": ".0017\"-.0032\""
+        },
+        {
+          "what": "compression ring groove clearance, service",
+          "value": "Hi Limit Production .001\""
+        },
+        {
+          "what": "327 300 hp: compression ring gap, production, top",
+          "value": ".013\"-.023\""
+        },
+        {
+          "what": "327 300 hp: compression ring gap, production, 2nd",
+          "value": ".013\"-.025\""
+        },
+        {
+          "what": "327 350 hp: compression ring gap, production, top",
+          "value": ".010\"-.020\""
+        },
+        {
+          "what": "327 350 hp: compression ring gap, production, 2nd",
+          "value": ".013\"-.023\""
+        },
+        {
+          "what": "427: compression ring gap, production, top",
+          "value": ".010\"-.020\""
+        },
+        {
+          "what": "427: compression ring gap, production, 2nd",
+          "value": ".010\"-.020\""
+        },
+        {
+          "what": "compression ring gap, service",
+          "value": "Hi Limit Production .01\""
+        },
+        {
+          "what": "327: oil ring groove clearance, production",
+          "value": ".000\"-.005\""
+        },
+        {
+          "what": "427: oil ring groove clearance, production",
+          "value": ".0005\"-.0065\""
+        },
+        {
+          "what": "oil ring groove clearance, service",
+          "value": "Hi Limit Production .001\""
+        },
+        {
+          "what": "327: oil ring gap, production",
+          "value": ".015\"-.055\""
+        },
+        {
+          "what": "427: oil ring gap, production",
+          "value": ".010\"-.030\""
+        },
+        {
+          "what": "oil ring gap, service",
+          "value": "Hi Limit Production .01\""
+        }
+      ],
+      "notes": [
+        "Column spans were read from the page image; 327 300 hp shares the 210-275 hp gap values, 327 350 hp shares the 325 hp values."
+      ],
+      "continues": false
+    }
+  ]
+}

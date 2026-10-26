@@ -1,0 +1,69 @@
+{
+  "page": 177,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-18",
+  "procedures": [
+    {
+      "title": "Rear wheel spindle and support: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "outer bearing",
+        "bearing spacer",
+        "installer J-9436",
+        "inner bearing",
+        "inner grease seal",
+        "deflector",
+        "brake backing plate",
+        "parking brake cable",
+        "bearing shim .145\""
+      ],
+      "steps": [
+        "(continued) Fit the outer bearing with its large end toward the spindle shoulder.",
+        "Press the bearing on with a bearing spacer and J-9436 as installers (see figure 43 in the manual).",
+        "Pack the inner bearing with high-melting-point wheel bearing grease and set it in the support, small end facing in.",
+        "Tap a new inner grease seal into its bore and fit the deflector over the inner end of the support.",
+        "Installation: put the support over the torque arm bolts with the strut rod fork pointing inboard and down; fit the backing plate over the studs and torque the nuts to specification.",
+        "Reconnect the parking brake cable to the actuating lever.",
+        "Install the drive spindle as described under Wheel Bearing Adjustment.",
+        "If a new support or related parts were fitted, assemble the spindle to the support with a .145\" shim, then check end play and correct as in the adjustment procedure."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Differential carrier support bracket: replace",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "differential carrier support bracket",
+        "bracket-to-crossmember bolt",
+        "bracket-to-carrier through bolts"
+      ],
+      "steps": [
+        "Put a 1/2\" thick wood or steel block between the carrier nose and the floor pan so the carrier cannot twist up when the bracket is freed.",
+        "Remove the bolt holding the carrier support to the crossmember.",
+        "Remove the nuts from both bracket-to-carrier through bolts and pull the bolts.",
+        "Reassemble in reverse order and torque all bolts to specification."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear shock absorber: remove and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "shock absorber",
+        "upper mounting bolt"
+      ],
+      "steps": [
+        "Removal: disconnect the shock absorber upper mounting bolt (see figure 44 in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

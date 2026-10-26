@@ -1,0 +1,77 @@
+{
+  "page": 229,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-28",
+  "procedures": [
+    {
+      "title": "Disc brake caliper: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "caliper",
+        "caliper mounting bolts",
+        "brake hose",
+        "copper gasket",
+        "U-shaped retainer",
+        "brake line"
+      ],
+      "steps": [
+        "Take care not to catch the boots on the disc edge while lowering the caliper on (see figure 42 in the manual).",
+        "Bolt the caliper to the mounting bracket with the 2 hex head bolts (torque per the specifications at the back of the manual).",
+        "Install the shoes and linings as described under Brake Shoes.",
+        "Corvette front caliper: put a new copper gasket on the male end of the hose. Screw the hose into the caliper and, with wheels straight ahead, feed its female end through the support bracket.",
+        "Check the tube seat is clean, connect the brake line tube nut to the caliper and tighten securely.",
+        "Let the hose take its natural, untwisted position, seat the fitting hex in the bracket's 12-point hole and lock it with the U-shaped retainer. Steer lock to lock and watch that the hose touches nothing through suspension and steering travel; if it does, remove the retainer, turn the hose end one or two points to clear, refit and recheck. When good, thread the steel tube connector into the hose fitting and tighten securely.",
+        "Rear caliper: connect the brake line to the caliper.",
+        "Bleed the brakes.",
+        "Refit the wheels and lower the car."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: reused shoes must go back in their original positions. New shoes carry an arrow on the back showing forward disc rotation.",
+        "CAUTION: do not move the car until the pedal is firm."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Brake disc: check runout, remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "brake disc",
+        "dial indicator",
+        "front wheel bearing adjusting nut"
+      ],
+      "steps": [
+        "(Front runout check) Tighten the wheel bearing adjusting nut until all play is gone but the wheel still just turns. Clamp a dial indicator to the caliper with its button on the disc about 1 in. from the outer edge (see figure 43 in the manual)."
+      ],
+      "specs": [
+        {
+          "what": "disc flatness and parallelism (manufacturing tolerance)",
+          "value": ".0005\""
+        },
+        {
+          "what": "disc lateral runout, maximum",
+          "value": ".004\" total indicator reading"
+        },
+        {
+          "what": "disc friction surface finish",
+          "value": "30-50 micro inches"
+        },
+        {
+          "what": "disc scoring with negligible effect",
+          "value": "less than .015 in depth"
+        },
+        {
+          "what": "minimum disc thickness, 1-1/4\" disc (Corvette)",
+          "value": "1.215"
+        }
+      ],
+      "notes": [
+        "Disc service is very critical because of the machining tolerances. Excess runout knocks the pistons back, giving more pedal travel and vibration when braking.",
+        "Machining the discs is not recommended. Once a wear pattern is established, discs are less prone to scoring problems than drums.",
+        "Replace a disc that is thinner than the minimum; a thinner disc can let the shoes come out of contact with the shoe abutments and malfunction."
+      ],
+      "continues": true
+    }
+  ]
+}

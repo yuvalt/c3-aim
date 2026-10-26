@@ -1,0 +1,95 @@
+{
+  "page": 258,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-26",
+  "procedures": [
+    {
+      "title": "Engine assembly (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine",
+        "front mounts",
+        "rear mount",
+        "crossmember",
+        "rocker arm covers",
+        "clutch cross-shaft",
+        "propeller shaft",
+        "radiator",
+        "hood"
+      ],
+      "steps": [
+        "Tilt and lower the engine and transmission into the chassis together, guiding the front mounts onto the frame supports.",
+        "Install the front mount bolts and torque to specifications.",
+        "Raise the engine enough to fit the rear crossmember, install the crossmember and rear mount, lower the engine and torque the rear mount to specifications.",
+        "Remove the lifting device and adapter and refit the rocker covers.",
+        "Synchromesh: fit the clutch cross-shaft engine bracket, then adjust and connect the clutch (Section 7).",
+        "Connect the speedometer cable, shift linkage and transmission cooler lines (if fitted).",
+        "Install the propeller shaft.",
+        "Take the car off the stands.",
+        "Connect the power steering lines, power brake vacuum line, exhaust pipes, accelerator linkage, fuel line, engine cooler lines and oil pressure gauge lines (as fitted).",
+        "Connect the wires at the coil, oil pressure switch, temperature switch, Delcotron and starter solenoid.",
+        "Install the pulley, fan blade and fan belt (Section 6K).",
+        "Install the radiator and shroud (Section 13).",
+        "Remove the hood prop, refit the front hinge bolts and adjust the hood (Section 11).",
+        "Connect the battery cables.",
+        "Fill with coolant, engine oil and transmission oil, start the engine and check for leaks.",
+        "Make any needed adjustments and refit the air cleaner."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Intake manifold (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "intake manifold",
+        "carburetor",
+        "distributor",
+        "coil",
+        "air injection pump",
+        "manifold gaskets and seals"
+      ],
+      "steps": [
+        "Drain the radiator and take off the air cleaner.",
+        "Disconnect the battery cables, upper radiator and heater hoses at the manifold, accelerator linkage at the pedal lever, fuel line at the carburetor, wires at the temperature sender and both sides of the coil, power brake hose at the carburetor base, spark advance hose at the distributor, and crankcase ventilation hoses as needed.",
+        "Remove the distributor cap, chalk-mark the rotor position, remove the clamp and distributor, and move the cap rearward away from the manifold.",
+        "Disconnect the AIR hoses; remove the pump belt adjusting brace bolt and pump body bolt and take off the pump.",
+        "Remove the coil.",
+        "Remove the manifold-to-head bolts and lift off the manifold with the carburetor attached; discard the gaskets and seals.",
+        "If fitting a new manifold, move over the carburetor and its mounting studs, water outlet and thermostat (new gasket), heater hose adapter and choke coil."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Intake manifold (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "intake manifold",
+        "manifold end seals",
+        "manifold side gaskets",
+        "sealing compound",
+        "distributor",
+        "coil",
+        "air injection pump"
+      ],
+      "steps": [
+        "Clean the gasket and seal surfaces on the manifold, heads and block.",
+        "Fit the manifold end seals on the block (see figure 2V in the manual).",
+        "Fit the side gaskets on the heads with sealing compound around the water passages (see figure 2V in the manual).",
+        "Install the manifold bolts and torque to specifications in the order on the Torque Sequence Chart.",
+        "Install the coil.",
+        "Install the distributor with the rotor at the chalk mark, then the cap; if the crankshaft was turned while it was out, time the distributor to No. 1 cylinder per Section 6Y.",
+        "Install the AIR pump and hoses, adjust belt tension and torque the bolts to specifications.",
+        "Reconnect everything disconnected at removal: battery cables, upper radiator and heater hoses, accelerator linkage, fuel line, temperature sender and coil wires, power brake hose, spark advance hose and ventilation hoses."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

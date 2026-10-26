@@ -1,0 +1,29 @@
+{
+  "page": 398,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-11",
+  "procedures": [
+    {
+      "title": "Steering column: remove",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering column",
+        "support assembly",
+        "seal",
+        "clamp bolt",
+        "instrument panel mounting bracket"
+      ],
+      "steps": [
+        "Corvette: on the engine side of the dash panel, remove the clamp bolt and washer from the support assembly (see figure 20 in the manual).",
+        "Corvette: remove the screws holding the support assembly and seal to the engine side of the dash panel.",
+        "Support the column and remove the screws, nuts and bolts holding the instrument panel mounting bracket to the underside of the panel.",
+        "Slide the seat fully rearward and carefully lift the column up and out of the car."
+      ],
+      "specs": [],
+      "notes": [
+        "Wedge shims and retainers at the bracket are noted only for other models."
+      ],
+      "continues": false
+    }
+  ]
+}

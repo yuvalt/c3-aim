@@ -1,0 +1,79 @@
+{
+  "page": 330,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-1",
+  "procedures": [
+    {
+      "title": "Clutch: general description",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "diaphragm spring clutch assembly",
+        "bell housing",
+        "pressure plate",
+        "clutch release bearing",
+        "clutch linkage",
+        "return spring"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "bent-finger diaphragm clutch release bearing overall length",
+          "value": "approx. 1-1/4\""
+        }
+      ],
+      "notes": [
+        "Manual transmissions use a diaphragm spring clutch housed inside a 360-degree bell housing; the housing has to come off to reach the clutch.",
+        "V8 engines with a 4-speed use a bent-finger centrifugal diaphragm clutch: the release fingers are bent back for centrifugal assist and fast re-engagement at high rpm.",
+        "This clutch gains plate load as the driven disc wears and keeps pedal effort low without over-center assist springs in the linkage.",
+        "Pressure plate is high tensile strength iron made for maximum speed use.",
+        "The longer release bearing used with the straight-finger diaphragm will prevent getting free pedal travel as the clutch wears, causing slipping and fast wear. Do not swap the two bearings.",
+        "Linkage is in two groups, upper and lower. The return spring preloads it to take up wear looseness, so free travel grows with linkage wear and shrinks with disc wear; the free travel felt at the pedal is throwout bearing lash."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch linkage inspection",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch pedal bushings",
+        "clutch fork",
+        "ball stud",
+        "cross shaft levers",
+        "cross shaft support bracket",
+        "engine mounts"
+      ],
+      "steps": [
+        "Before any major clutch work, confirm the problem really is in the clutch by checking that it releases fully.",
+        "With the engine running, hold the pedal about 1/2\" off the floor mat and shift several times between first and reverse. Smooth shifts mean full release; rough shifts mean it is not releasing and needs adjustment.",
+        "Check the pedal bushings for binding or heavy wear.",
+        "Make sure the fork sits correctly on its ball stud; an unlubricated fork can be pulled off the ball.",
+        "Look for bent, cracked or damaged cross shaft levers or support bracket.",
+        "Check the engine mounts: loose or damaged mounts let the engine move and bind the linkage at the cross shaft."
+      ],
+      "specs": [],
+      "notes": [
+        "The printed text of step 5 breaks off mid-sentence (\"Check to be sure there is\")."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch linkage adjustment",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch fork push rod",
+        "clutch pedal push rod",
+        "throwout bearing"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "A single adjustment (at the fork push rod or pedal push rod) takes up all normal clutch wear.",
+        "The pedal needs free travel, measured at the pedal pad, before the throwout bearing meets the diaphragm spring levers. Without this lash the clutch slips with the bearing riding the fingers, and the bearing runs constantly until it fails.",
+        "Procedure continues on the next page."
+      ],
+      "continues": true
+    }
+  ]
+}

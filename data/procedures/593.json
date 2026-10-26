@@ -1,0 +1,44 @@
+{
+  "page": 593,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Wheels and tires specifications: Corvette tire usage and inflation pressures",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "tires"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "load (all models)",
+          "value": "1 to 2 Passengers + 150 Lbs. Luggage (450 Lbs. Load)"
+        },
+        {
+          "what": "tire ply",
+          "value": "4 Ply Rating—2 Ply*"
+        },
+        {
+          "what": "tire usage",
+          "value": "F70-15 Nylon"
+        },
+        {
+          "what": "standard inflation pressure, front (PSI cool)",
+          "value": "24"
+        },
+        {
+          "what": "standard inflation pressure, rear (PSI cool)",
+          "value": "24"
+        }
+      ],
+      "notes": [
+        "Section 10. The standard pressure covers all loads including full rated load and continuous high-speed operation (over 75 MPH). * Optional tires are not available.",
+        "Tire pressures may rise as much as 6 psi when hot.",
+        "Cool pressure means the car has stood 3 hours or more, or been driven under 1 mile; hot means after 10 miles or more at 60-70 MPH.",
+        "Cars with luggage racks have no higher load limit than shown. When towing a trailer, reduce passenger and cargo load by the trailer tongue load."
+      ],
+      "continues": false
+    }
+  ]
+}

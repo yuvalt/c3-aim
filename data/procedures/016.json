@@ -1,0 +1,33 @@
+{
+  "page": 16,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-13",
+  "procedures": [
+    {
+      "title": "Body lubrication points: Corvette",
+      "topic": "lubrication",
+      "applies_to": "Corvette",
+      "parts": [
+        "door hinge pins",
+        "door lock rotor",
+        "striker plate",
+        "lock cylinders",
+        "window regulators",
+        "door lock remote link",
+        "gas tank filler cap hinge",
+        "weatherstrips",
+        "rubber bumpers"
+      ],
+      "steps": [
+        "Door hinge pins: light engine oil.",
+        "Door lock rotor and striker plate: light engine oil or stainless stick lubricant.",
+        "Lock cylinders: powdered graphite.",
+        "Window regulators, controls and door lock remote link: light engine oil.",
+        "Gas tank filler cap hinge: light engine oil.",
+        "Weatherstrips and rubber bumpers: a light coat of rubber lubricant."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "page": 37,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-18",
+  "procedures": [
+    {
+      "title": "Refrigeration system: maintaining chemical stability",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigeration oil",
+        "gauge set"
+      ],
+      "steps": [
+        "Cap any refrigerant or gauge line as soon as it is disconnected.",
+        "Keep tools, the gauge set and replacement parts clean and dry.",
+        "Use a very clean, dry container when adding oil; open the oil container only when ready and recap it right after use, since the oil absorbs moisture quickly.",
+        "Before opening a system, have everything ready so it stays open as briefly as possible.",
+        "After the work is done and the system resealed, evacuate air and moisture before recharging."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "J-8393 charging station: description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-8393 charging station",
+        "vacuum pump",
+        "charging cylinder",
+        "gauge set"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "A portable unit combining a vacuum pump, refrigerant supply, gauges, valves and a 5 pound metering charging cylinder (see figure 24 in the manual).",
+        "Refrigerant is metered by volume, so no scales or hot-water pails are needed and the exact charge can be added; the unit stays plumbed, so no refrigerant is lost purging and hooking up.",
+        "Use comes down to attaching two hoses and working clearly labeled valves. The dealer's own vacuum pump, gauges and manifold can be used with it."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Gauge set: description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "gauge set",
+        "low pressure gauge",
+        "high pressure gauge",
+        "gauge manifold"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The gauge set (see figure 25 in the manual) is part of the J-8393 station and is used for purging, evacuating, charging and diagnosis.",
+        "The left gauge is the low pressure gauge, reading pressure (psi) and vacuum (inches); always use it on the low side. A healthy system never drops below 0 psi on the low side, but some faults pull it into vacuum.",
+        "The high pressure gauge reads the high side.",
+        "The manifold hand valves do not shut off pressure to the gauges; they only close each port to the center connector and to each other. Keep them closed for most diagnosis and service."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 143,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-4",
+  "procedures": [
+    {
+      "title": "Caster and camber: adjust",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper control arm inner support shaft",
+        "caster/camber shims"
+      ],
+      "steps": [
+        "Lift the front bumper and let it drop quickly so the car settles at its normal height before checking caster and camber."
+      ],
+      "specs": [],
+      "notes": [
+        "On Corvette (and Chevelle, Camaro, Chevy II) caster and camber are set with shims; details continue on the next page.",
+        "See figure 4 in the manual for the Corvette front suspension layout and figure 5 for a diagram of the caster and camber angles relative to vertical."
+      ],
+      "continues": true
+    }
+  ]
+}

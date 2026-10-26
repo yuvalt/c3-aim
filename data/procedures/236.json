@@ -1,0 +1,46 @@
+{
+  "page": 236,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-4",
+  "procedures": [
+    {
+      "title": "Breaker point distributor: service",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "contact points",
+        "point file",
+        "cam lubricator wick",
+        "breaker lever"
+      ],
+      "steps": [
+        "Points with an even gray color and only light roughness or pitting can stay in service.",
+        "Clean dirty points with a few strokes of a clean, fine-cut point file; keep the file clean and use it on nothing else. Do not use emery cloth or sandpaper, and only remove scale or dirt rather than dressing the faces smooth.",
+        "Clean the cam lobe with solvent, lubricate it with Delco Remy Cam and Ball Bearing Lubricant or equivalent, and turn the cam lubricator wick 1/2 turn.",
+        "Replace burned or badly pitted points.",
+        "Check point alignment (see figure 5 in the manual), then set the gap with the rubbing block on the high point of the cam lobe.",
+        "Check point spring tension with a spring gauge hooked on the breaker lever at the contact, pulling at 90 degrees to the lever; read it just as the points open (points closed, follower between lobes). Replace if out of limits.",
+        "Refit the rotor and cap and press all wires firmly into the cap towers."
+      ],
+      "specs": [
+        {
+          "what": "contact point gap, new points",
+          "value": ".019\""
+        },
+        {
+          "what": "contact point gap, used points",
+          "value": ".016\""
+        },
+        {
+          "what": "point spring tension",
+          "value": "19-23 ounces"
+        }
+      ],
+      "notes": [
+        "If points burn or pit early, find and fix the cause in the ignition system or engine (Section 6Y), or new points will fail the same way.",
+        "Clean used points with a point file before gauging them with a feeler gauge.",
+        "Too much spring tension wears points, cam and rubbing block; too little lets the points bounce, causing arcing, burning and a high-speed miss."
+      ],
+      "continues": false
+    }
+  ]
+}

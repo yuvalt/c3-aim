@@ -1,0 +1,51 @@
+{
+  "page": 69,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-50",
+  "procedures": [
+    {
+      "title": "Air distributor and heater core: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "air distributor duct",
+        "heater core",
+        "core housing",
+        "center duct",
+        "right dash outlet duct",
+        "temperature door camming plate",
+        "bowden cables",
+        "right dash pad",
+        "center instrument cluster"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable and drain the radiator; leave the refrigerant in the system.",
+        "Disconnect the heater hoses at the core and plug the core tubes against coolant spills.",
+        "Remove the nuts from the distributor studs on the engine side of the firewall.",
+        "Remove the right dash pad (Section 1B) and the center instrument cluster (Section 12).",
+        "Disconnect the right dash outlet duct from the center duct, then remove the center-duct-to-distributor screws and the center duct.",
+        "Remove the distributor-to-firewall screws and pull the distributor back and to the right; once there is room, unhook the bowden cables and wire connectors.",
+        "Take the distributor duct out of the car, remove the temperature door camming plate, then remove the core and core housing.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "Four-Season system. See figure 62 in the manual (Corvette air distributor and ducts)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Four-Season control head: replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C control head"
+      ],
+      "steps": [
+        "Remove and install it the same way as the heater control head (see the Heater section)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

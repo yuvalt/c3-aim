@@ -1,0 +1,92 @@
+{
+  "page": 264,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-32",
+  "procedures": [
+    {
+      "title": "Rear main bearing oil seal (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "rear main bearing oil seal",
+        "brass pin punch",
+        "rear main bearing cap",
+        "sealer"
+      ],
+      "steps": [
+        "Take out the upper half by tapping one end with a brass pin punch and small hammer until it sticks out far enough to grab with pliers (see figure 10V in the manual).",
+        "Wipe the crankshaft surface clean.",
+        "Oil the lip of the new upper half (not the parting-line faces) and push it gradually into place with a hammer handle while turning the crankshaft, rolling it in like a main bearing; do not let the tangs cut the back of the seal.",
+        "Put sealer at the parting line on the cap half.",
+        "Install the rear main cap with its new seal and torque to specifications."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Torsional damper (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "torsional damper",
+        "fan belt",
+        "fan",
+        "pulley",
+        "radiator",
+        "shroud",
+        "accessory drive pulley",
+        "engine front mount through-bolts"
+      ],
+      "steps": [
+        "Remove the fan belt, fan and pulley (Section 6K).",
+        "Remove the radiator and shroud (Section 13); on 427 Corvettes this is not needed unless more work such as camshaft removal is planned.",
+        "Corvette 427: remove the front engine mount through-bolts and raise the front of the engine until the damper clears the frame crossmember.",
+        "Remove the accessory drive pulley, then the damper retaining bolt if fitted.",
+        "Attach Tool J-6978 to the damper and turn the puller screw to draw it off (see figure 11V in the manual).",
+        "Remove the tool."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Torsional damper (V8): install, 307/327/350 except 302 and 327 325/350 hp",
+      "topic": "engine",
+      "applies_to": "327 V8 (except 325 and 350 hp)",
+      "parts": [
+        "torsional damper",
+        "Tool J-22197",
+        "accessory drive pulley",
+        "fan belt"
+      ],
+      "steps": [
+        "Oil the front cover seal contact surface on the damper.",
+        "Attach installer J-22197 and tighten its fingers so the weight cannot move (see figure 12V in the manual).",
+        "Set the damper on the crankshaft and drive it on until it bottoms against the crankshaft sprocket, then remove the tool.",
+        "Install the accessory drive pulley.",
+        "Install the radiator and shroud (Section 13) and the fan pulley and fan (Section 6K).",
+        "Install the fan belt and set its tension with a strand tension gauge.",
+        "Fill the cooling system, start the engine and check for leaks."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: always use the installer tool so the inertia weight cannot walk off the hub during installation."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Torsional damper (V8): install, 396 and 427",
+      "topic": "engine",
+      "applies_to": "427 V8",
+      "parts": [
+        "torsional damper"
+      ],
+      "steps": [
+        "Oil the front cover seal contact surface on the damper."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "page": 243,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-11",
+  "procedures": [
+    {
+      "title": "Fuel pump: additional check",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump"
+      ],
+      "steps": [
+        "Test the pump per Section 6M."
+      ],
+      "specs": [],
+      "notes": [
+        "Low pump pressure or volume starves the carburetor and causes a high-speed miss; too much pressure floods the carburetor."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cooling system: pressure test",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "radiator cap",
+        "pressure tester"
+      ],
+      "steps": [
+        "Take off the radiator cap.",
+        "Apply test pressure 3 pounds above the cap rating, e.g. 18 pounds for a 15 pound cap (see figure 18 in the manual).",
+        "If pressure does not hold, there is an internal or external leak."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cylinder head torque and valve adjustment: general",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "cylinder head bolts"
+      ],
+      "steps": [
+        "Retorque head bolts only if a gasket was replaced or a leak is suspected.",
+        "Always adjust valve lash after torquing the heads.",
+        "Warm the engine fully before adjusting lash, since clearances change a lot during warm-up."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Valve lash adjustment, hydraulic lifters",
+      "topic": "engine",
+      "applies_to": "all models (V8 hydraulic lifter)",
+      "parts": [
+        "rocker arm covers",
+        "rocker arm cover gaskets",
+        "rocker arm nuts",
+        "hydraulic lifters"
+      ],
+      "steps": [
+        "With the engine warmed up, take off the rocker covers and gaskets; free a stuck cover by bumping its end rearward with your palm or a rubber mallet, never by prying.",
+        "With the engine idling, loosen a rocker arm nut until the rocker starts to clatter.",
+        "Tighten the nut slowly until the clatter just stops (zero lash).",
+        "Tighten 1/4 turn more and wait 10 seconds for the engine to smooth out; repeat in 1/4 turns with 10 second pauses until the nut is 1 full turn past zero lash.",
+        "Do the same for every other valve.",
+        "Clean head and cover gasket surfaces with degreaser, fit the covers with new gaskets and torque the bolts to specifications."
+      ],
+      "specs": [
+        {
+          "what": "hydraulic lifter preload",
+          "value": "1 turn down from zero lash"
+        }
+      ],
+      "notes": [
+        "Do the 1 turn preload slowly so the lifter can bleed down; going fast can let the intake valve hit the piston, causing internal damage or bent push rods.",
+        "Replace noisy lifters."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Valve lash adjustment, mechanical lifters",
+      "topic": "engine",
+      "applies_to": "all models (V8 mechanical lifter)",
+      "parts": [
+        "rocker arm covers",
+        "rocker arm cover gaskets",
+        "self-locking rocker arm stud nuts",
+        "leaf feeler gauge"
+      ],
+      "steps": [
+        "Warm the engine up.",
+        "Take off the rocker covers and gaskets, bumping the cover end rearward by hand or rubber mallet rather than prying.",
+        "Turn the self-locking rocker stud nut with a socket wrench to get the lash in the tune up chart, measured between rocker arm and valve stem with a leaf feeler gauge.",
+        "Stop the engine, clean gasket surfaces with degreaser, fit the covers with new gaskets and torque the bolts to specifications."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 19 in the manual shows the oil deflector clips installed on the rocker arms."
+      ],
+      "continues": false
+    }
+  ]
+}

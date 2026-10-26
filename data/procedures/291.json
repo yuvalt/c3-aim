@@ -1,0 +1,22 @@
+{
+  "page": 291,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-17",
+  "procedures": [
+    {
+      "title": "Engine fuel special tools (figure 1T)",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "special tools"
+      ],
+      "steps": [
+        "Use the figure to identify the J-numbered tools for carburetor and fuel system work."
+      ],
+      "specs": [],
+      "notes": [
+        "Tools shown: J-22973 (gauge), J-10176, J-9789 (cased set), J-8328 (set of 4), and bending tools J-1137, J-4552, J-5197, J-6058A, J-5496, J-6556."
+      ],
+      "continues": false
+    }
+  ]
+}

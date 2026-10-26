@@ -1,0 +1,23 @@
+{
+  "page": 537,
+  "source": "1968 Chevrolet Chassis Service Manual, Radiator and Grille, p.13-4",
+  "procedures": [
+    {
+      "title": "Engine fan shroud: replace",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "fan shroud",
+        "radiator"
+      ],
+      "steps": [
+        "Corvette: remove the radiator as described under the Corvette radiator procedure.",
+        "Tilt the shroud rearward, then lift it up past the fan blades to remove it.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

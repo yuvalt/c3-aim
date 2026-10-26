@@ -1,0 +1,91 @@
+{
+  "page": 213,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-12",
+  "procedures": [
+    {
+      "title": "Parking brake lever assembly (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake lever assembly",
+        "return spring",
+        "equalizer",
+        "front cable",
+        "lever cover",
+        "retainer",
+        "trim seal",
+        "parking brake alarm switch",
+        "lever forward mounting bracket"
+      ],
+      "steps": [
+        "Under the car, unhook and take off the return spring.",
+        "Take the rear nut off the cable stud at the equalizer and let the front cable hang.",
+        "Inside the car, remove the 6 screws holding the cover to the underbody; press the seat cushion down to reach the lower screw on each side (see figure 21 in the manual). Take off the retainer, then lift the cover up and rearward so the seal slides out of its slot, and remove the cover.",
+        "Pull the trim seal off the lever (see figure 22 in the manual).",
+        "Remove the screw and washer holding the parking brake alarm switch to the side of the lever assembly.",
+        "Remove the 4 bolts holding the lever assembly to the underbody, lift it up and take off the forward mounting bracket.",
+        "Unhook the front cable from the lever with long-nose pliers (see figure 23 in the manual) and take the lever out.",
+        "(Installation) Hook the front cable into the lever with long-nose pliers, pull the slack cable through the hole and set the lever in place.",
+        "Position the forward mounting bracket and bolt plate and lever to the underbody with the 4 bolts.",
+        "Fasten the alarm switch to the side of the lever with its washer and screw.",
+        "Fit the trim seal on the lever.",
+        "Insert the trim seal end in the cover slot and slide the cover forward and down into place.",
+        "Position the retainer and fasten retainer and cover with the 6 screws, pressing the seat cushion down to reach each lower screw hole.",
+        "Under the car, pass the front cable stud through the equalizer and fit the nut.",
+        "Refit the return spring.",
+        "Adjust the parking brake (see Maintenance and Adjustments)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Parking brake front cable (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake front cable",
+        "pulley",
+        "pulley bracket",
+        "seal grommet"
+      ],
+      "steps": [
+        "(Removal) Carry out the full parking brake lever removal.",
+        "Under the car, remove the nut, washer and bolt holding the pulley to its bracket (see figure 20 in the manual).",
+        "Take the seal grommet out of the underbody cable hole.",
+        "Pull the front cable out of the car.",
+        "(Installation) Put the seal grommet around the front cable.",
+        "Feed the cable in through the cable hole and work the grommet into its seat.",
+        "Under the car, wrap the cable around the pulley wheel and fasten the pulley to the bracket with bolt, washer and nut.",
+        "Carry out the full parking brake lever installation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Parking brake rear cables (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake rear cables",
+        "cable clip retainers",
+        "rear wheel flange plate",
+        "brake lever clevis",
+        "equalizer connector"
+      ],
+      "steps": [
+        "(Removal) Take off the cable clip retainers from each rear cable end on the back side of the frame rail.",
+        "Disconnect the cable at the rear wheel flange plate.",
+        "Lift the cable ball out of its recess in the brake lever clevis.",
+        "Disconnect the cables at the equalizer connector and remove them.",
+        "(Installation) Seat the balls on the rear cable ends in the rear wheel recess of the brake lever clevis."
+      ],
+      "specs": [],
+      "notes": [
+        "The page's heading for this procedure is missing; the section index lists it as Rear Cable under Parking Brake - Corvette."
+      ],
+      "continues": true
+    }
+  ]
+}

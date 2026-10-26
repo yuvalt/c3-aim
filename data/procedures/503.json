@@ -1,0 +1,27 @@
+{
+  "page": 503,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-49",
+  "procedures": [
+    {
+      "title": "Wiper case and field assembly: remove (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "case and field assembly",
+        "thrust plate",
+        "rubber disc"
+      ],
+      "steps": [
+        "Remove the brush plate and armature.",
+        "Cut the solid black and the black-with-pink-stripe leads at a spot easy to splice, ideally near the wiper terminal board (see figure 71 in the manual).",
+        "Remove the steel thrust plate and rubber disc from the case bearing if needed."
+      ],
+      "specs": [],
+      "notes": [
+        "The end case and field are serviced only as one unit.",
+        "Splice: solid black goes to the shunt field coil; the series field coil goes to black with pink stripe."
+      ],
+      "continues": false
+    }
+  ]
+}

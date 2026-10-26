@@ -1,0 +1,53 @@
+{
+  "page": 458,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-4",
+  "procedures": [
+    {
+      "title": "Headlamp aiming with T-3 Safety Aimer (Type B)",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "headlamps",
+        "headlamp bezels",
+        "T-3 Safety Aimer"
+      ],
+      "steps": [
+        "(Continued) Make the final turn of the horizontal screw clockwise to take up play in the lamp mechanism.",
+        "Repeat the horizontal setting on the right lamp.",
+        "Vertical: check that numeral \"2\" shows in the \"down\" window of each aimer; if not, loosen the knob under the aimer arm and slide until it does (see figure 5 in the manual).",
+        "Turn the left lamp vertical aim screw counterclockwise until the bubble reaches the inner end of the tube, then clockwise until the bubble is centered.",
+        "Repeat the vertical setting on the right lamp.",
+        "Recheck that the string is correct at both crossarm ends and that each bubble is centered.",
+        "Pull the suction cup tabs through the aimer openings to remove the aimers (see figure 6 in the manual).",
+        "Refit the headlamp bezels."
+      ],
+      "specs": [
+        {
+          "what": "vertical setting (\"2\" in down window)",
+          "value": "2\" drop of high beam spot centerline on a screen 25 feet ahead"
+        }
+      ],
+      "notes": [
+        "Check state laws for the required vertical setting."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Headlamp aiming: checking that the floor is level",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "T-3 Safety Aimer",
+        "headlamps"
+      ],
+      "steps": [
+        "Pick an area you think is level.",
+        "Take off the bezels if needed and fit an aimer to each headlamp, pressing the center knob firmly so the suction cup seats on the sealed beam and the aiming lugs sit in the smooth inner ring.",
+        "Loosen the slider knob under the aimer arm and set numeral \"2\" in the DOWN window (see figure 7 in the manual)..."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

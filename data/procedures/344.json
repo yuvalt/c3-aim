@@ -1,0 +1,29 @@
+{
+  "page": 344,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-15",
+  "procedures": [
+    {
+      "title": "Four-speed transmissions (Muncie and Saginaw): general description",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "main drive gear",
+        "mainshaft",
+        "countergear",
+        "reverse idler gear",
+        "synchronizer assemblies",
+        "side cover",
+        "shifter levers"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Muncie 4-speed: synchromesh, helical gears throughout, built for high torque without extra weight and for high speed without excess heat or friction loss; parts held to close tolerances for long heavy use.",
+        "Muncie main drive gear rides on a heavy-duty ball bearing at the front of the case and pilots in an oil-impregnated bushing in the crankshaft. The mainshaft front pilots in rollers inside the main drive gear; its rear rides on a heavy-duty ball bearing in a retainer at the rear of the case.",
+        "Muncie countergear runs on double rows of rollers at each end with thrust washers against the case bosses. The two-piece reverse idler runs on bronze bushings with thrust washers front and rear.",
+        "Description continues on the next page."
+      ],
+      "continues": true
+    }
+  ]
+}

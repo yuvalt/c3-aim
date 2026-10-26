@@ -1,0 +1,43 @@
+{
+  "page": 365,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-36",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic fluid level check",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "fluid level indicator",
+        "filler pipe"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "fluid to raise level from ADD to FULL",
+          "value": "1 pint"
+        },
+        {
+          "what": "cold fluid level",
+          "value": "approx. 1/4\" below ADD mark"
+        }
+      ],
+      "notes": [
+        "The cold setting of 1/4\" below ADD leaves room for the fluid to expand as it reaches 180°F.",
+        "The level indicator (dipstick) is in the filler pipe at the right rear corner of the engine. At normal operating temperature the level should be at FULL."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic shift linkage adjustment (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [
+        "For the Corvette, use the console linkage adjustment in figure 4T in the manual (next page); the column and other console steps on this page are for other car lines."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

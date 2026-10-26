@@ -1,0 +1,87 @@
+{
+  "page": 230,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-29",
+  "procedures": [
+    {
+      "title": "Brake disc: check runout, remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "brake disc",
+        "hub",
+        "rear spindle",
+        "disc rivets",
+        "lug nuts"
+      ],
+      "steps": [
+        "Turn the disc; the indicator must not read over .002 in. If it does, replace the hub and disc assembly; front discs should not be machined or serviced separately.",
+        "Readjust the front wheel bearings afterward (see Section 3).",
+        "(Rear, Corvette only) Check rear wheel bearing end play (see Section 4), then dial-indicate the disc face. Replace the disc if its lateral runout is more than .004 in. beyond the bearing end play.",
+        "(Removal) Put the car on a hoist and remove the wheel and tire.",
+        "Remove the caliper.",
+        "Drill out the 5 rivets holding the disc to the hub or spindle.",
+        "Take off the disc.",
+        "Finish removing the 5 rivets from the hub or spindle.",
+        "(Installation) Fit the disc on the hub or spindle, lining up the lug bolts with the holes in the disc.",
+        "Install the caliper and shoes.",
+        "Bleed the brakes.",
+        "Refit the wheel and tire and lower the car."
+      ],
+      "specs": [
+        {
+          "what": "front disc runout, maximum",
+          "value": ".002 inches"
+        },
+        {
+          "what": "rear disc lateral runout over bearing end play, maximum (Corvette)",
+          "value": ".004 inches"
+        }
+      ],
+      "notes": [
+        "Once the rivets are out, the disc need not be re-riveted; the lug nuts hold it. But fit the lug nuts (without the wheel) when checking runout of a disc whose rivets have been removed.",
+        "CAUTION: line up the parking brake adjusting holes in the spindle and disc.",
+        "CAUTION: do not move the car until the pedal is firm.",
+        "Main cylinder service on disc-brake cars is the same as for the Duo-Servo main cylinder (p.5-17 to 5-20)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Parking brake shoes (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake shoes",
+        "retractor spring",
+        "hold down springs and caps",
+        "hold down pins",
+        "adjusting screw assembly",
+        "adjusting screw spring",
+        "actuating lever",
+        "backing plate",
+        "anchor pin"
+      ],
+      "steps": [
+        "(Removal) Remove the wheel and tire and the brake disc.",
+        "Take off the retractor spring at the top of the shoes, then the hold down springs on the primary and secondary shoes.",
+        "Pull the shoes off the anchor pin.",
+        "Remove the adjusting screw spring and adjusting screw from the shoes.",
+        "(Installation) Lightly coat the pads, backing plate and adjusting screw threads with Lubriplate.",
+        "Hook the adjusting screw spring into the bottom hole of each shoe.",
+        "Fit the star wheel between the shoes: next to the rear shoe on left-hand brakes, next to the forward shoe on right-hand brakes.",
+        "Spread the shoes and fit them on the backing plate around the anchor pin.",
+        "Install the hold down springs on the hold down pins.",
+        "Hook the retractor spring on one shoe and stretch it to the other.",
+        "Refit the disc and caliper.",
+        "Bleed the brakes.",
+        "Adjust the parking brake (p.5-24).",
+        "Refit the wheels and lower the car."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: position the shoe-spreading lever so its notches sit against the shoes.",
+        "See figure 44 in the manual (exploded view: shoes, hold down springs/caps and pins, actuating lever, retractor spring, backing plate, parking plate, adjusting screw spring and assembly)."
+      ],
+      "continues": false
+    }
+  ]
+}

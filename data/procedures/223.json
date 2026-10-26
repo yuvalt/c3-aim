@@ -1,0 +1,64 @@
+{
+  "page": 223,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-22",
+  "procedures": [
+    {
+      "title": "Brake pipe distribution and switch assembly: remove and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake pipe distribution and switch assembly",
+        "pressure differential warning switch",
+        "brake lines",
+        "battery cable"
+      ],
+      "steps": [
+        "(Removal) Disconnect the battery cable.",
+        "Unplug the electrical lead from the switch.",
+        "Put dry rags under the switch for spilled fluid.",
+        "Disconnect the 4 brake lines at the switch, loosening the line nuts at the main cylinder if needed; cover the open line ends with clean lint-free material.",
+        "Remove the mounting screw and take out the switch.",
+        "(Installation) Make sure the new switch is free of dust and lint; if unsure, wash it in Declene or equivalent and air dry.",
+        "Fasten the switch to its bracket with the mounting screw.",
+        "Uncover the lines and connect them to the switch; tighten the line nuts at the main cylinder if they were loosened.",
+        "Plug in the switch lead.",
+        "Reconnect the battery cable.",
+        "Bleed both brake systems."
+      ],
+      "specs": [],
+      "notes": [
+        "The pressure differential warning switch cannot be adjusted or repaired; replace it if faulty.",
+        "Figure 2 in the manual shows Chevrolet and Camaro installations. Drum installation and the Camaro pressure regulator valve on this page are not included."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Brake warning light: check",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake warning light",
+        "pressure differential switch",
+        "bleed screw"
+      ],
+      "steps": [
+        "Set and release the parking brake to prove the bulb works.",
+        "Make sure both main cylinder reservoirs are full.",
+        "Open the bleed screw at one rear wheel.",
+        "Press and hold the brake pedal; the light should come on from the front/rear pressure difference.",
+        "Close the bleed screw, then let the pedal up. Top up the rear reservoir if needed."
+      ],
+      "specs": [
+        {
+          "what": "pressure differential to light brake warning lamp",
+          "value": "approximately 150-250 psi"
+        }
+      ],
+      "notes": [
+        "Take care not to let air into the system while checking the switch.",
+        "Check every 24 months or 24,000 miles, after any major brake work, or when the owner reports excessive pedal travel."
+      ],
+      "continues": false
+    }
+  ]
+}

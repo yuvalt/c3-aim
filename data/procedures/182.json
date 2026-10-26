@@ -1,0 +1,60 @@
+{
+  "page": 182,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-23",
+  "procedures": [
+    {
+      "title": "Rear torque control arm: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "strut rod shaft",
+        "shock absorber",
+        "rear spring",
+        "stabilizer shaft",
+        "brake line",
+        "pivot bolt"
+      ],
+      "steps": [
+        "(continued) ...so its flat matches the flat in the spindle support fork; fit the nut and torque to specification.",
+        "Fit the shock absorber lower eye and tighten its nut to specification.",
+        "Reconnect the spring end (Spring Installation steps 3-6).",
+        "If fitted, reconnect the stabilizer shaft to the torque arm (see Stabilizer Shaft Replacement).",
+        "Reconnect the brake line at the caliper and torque arm; bleed the brakes (see Section 5).",
+        "Refit the wheel and tire and lower the car; then torque the torque arm pivot bolt to specification."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear suspension crossmember: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "suspension crossmember",
+        "rubber isolation mounts",
+        "carrier cover",
+        "rear spring",
+        "differential carrier"
+      ],
+      "steps": [
+        "Removal: disconnect and remove the spring (see Spring Removal).",
+        "Remove the differential carrier (see Differential Carrier Removal).",
+        "Support the crossmember, remove the bolts holding its isolation mounts to the frame and lower it (see figure 62 in the manual).",
+        "Remove the bolts holding the carrier cover to the crossmember.",
+        "Check the rubber isolation mounts for aging and replace as needed.",
+        "Mount repair: bend back the mount tabs so it can come out (see figure 63 in the manual).",
+        "Set the crossmember on a support and press the mount out with pipe or tubing of the right size on the outer shell or inner insert.",
+        "Place the new mount, squeeze the outer sleeve and press it in until fully and squarely seated.",
+        "Bend the locking tabs over.",
+        "Installation: bolt the carrier cover to the crossmember and torque to specification.",
+        "Lift the crossmember into place, fit the mounting bolts and torque to specification.",
+        "Install the differential carrier (see Differential Carrier Installation).",
+        "Install the spring and the wheels and tires, remove the frame supports and lower the car."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 314,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-17",
+  "procedures": [
+    {
+      "title": "Field relay: mechanical adjustment",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["field relay", "flat contact spring"],
+      "steps": [
+        "If point opening and closing voltage are in specification, the relay works even if the air gap is not exact.",
+        "If the air gap must be adjusted, bend the flat contact spring."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

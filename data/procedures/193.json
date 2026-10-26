@@ -1,0 +1,60 @@
+{
+  "page": 193,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-34",
+  "procedures": [
+    {
+      "title": "Pinion flange, dust deflector and/or oil seal: replace",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "pinion oil seal",
+        "gauge plate J-22804-1",
+        "installer J-21057",
+        "companion flange",
+        "flange washer and nut",
+        "propeller shaft",
+        "rubber cushion",
+        "carrier front bracket",
+        "cotter pin"
+      ],
+      "steps": [
+        "(continued) Set the seal in the bore and put gauge plate J-22804-1 over it against the seal flange.",
+        "Press the seal in with J-21057 until the gauge plate is flush with the carrier shoulder and seal flange (see figure 86 in the manual).",
+        "Turn the gauge plate 180 degrees from its installed position to check that the seal is square in the bore.",
+        "Oil the flange splines and tap the flange on.",
+        "Fit the washer and nut and tighten until the nut lines up with the mark on the pinion.",
+        "Raise the propeller shaft and connect it to the companion flange and transmission yoke.",
+        "Put the rubber cushion on the carrier front mount, set the bracket in place and loosely fit the rear carrier-to-bracket bolt.",
+        "Fit the front mounting nut and front carrier-to-bracket bolt; torque everything to specification and fit the cotter pin in the carrier bracket front bolt."
+      ],
+      "specs": [],
+      "notes": [
+        "The gauge plate makes sure the seal seats correctly; the seal must be square to seal against the flange."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Differential carrier: remove and install",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "differential carrier",
+        "spring link bolts",
+        "axle drive shafts",
+        "U-bolts",
+        "side gear yokes",
+        "carrier front support bracket",
+        "propeller shaft"
+      ],
+      "steps": [
+        "Removal: disconnect the spring end link bolts (see Spring Removal).",
+        "Disconnect the drive shafts at the carrier by removing the U-bolts holding the trunnions to the side gear yokes.",
+        "Disconnect the carrier front support bracket at the frame crossmember.",
+        "Disconnect the propeller shaft at the transmission and companion flange; slide the transmission yoke forward into the transmission and drop the shaft down and out to the rear."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

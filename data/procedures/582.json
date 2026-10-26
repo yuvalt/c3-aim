@@ -1,0 +1,85 @@
+{
+  "page": 582,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine electrical specifications: battery",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "battery"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "ground",
+          "value": "Neg."
+        },
+        {
+          "what": "plates",
+          "value": "78"
+        },
+        {
+          "what": "cranking power @ 0°F. (Watts)",
+          "value": "3250"
+        }
+      ],
+      "notes": [
+        "Section 6Y. Corvette column of the battery table."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine electrical specifications: generator",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "generator",
+        "alternator"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "1100696 (Corvette w/K-66): field amp. draw",
+          "value": "2.2-2.6"
+        },
+        {
+          "what": "1100696 (Corvette w/K-66): hot output - amps.",
+          "value": "42"
+        },
+        {
+          "what": "1100696 (Corvette w/K-66): cold output - volts",
+          "value": "14"
+        },
+        {
+          "what": "1100750 (Corvette w/C-60): field amp. draw",
+          "value": "2.2-2.6"
+        },
+        {
+          "what": "1100750 (Corvette w/C-60): hot output - amps.",
+          "value": "61"
+        },
+        {
+          "what": "1100750 (Corvette w/C-60): cold output - volts",
+          "value": "14"
+        },
+        {
+          "what": "1100693 (Corvette Exc. C-60): field amp. draw",
+          "value": "2.2-2.6"
+        },
+        {
+          "what": "1100693 (Corvette Exc. C-60): hot output - amps.",
+          "value": "37"
+        },
+        {
+          "what": "1100693 (Corvette Exc. C-60): cold output - volts",
+          "value": "14"
+        }
+      ],
+      "notes": [
+        "Only the generator models listed for Corvette are kept."
+      ],
+      "continues": false
+    }
+  ]
+}

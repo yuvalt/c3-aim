@@ -1,0 +1,118 @@
+{
+  "page": 573,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Front suspension specifications: riding height measurement",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "front suspension",
+        "riding height"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "Sport Coupes riding height",
+          "value": "2-1/2\" ± 1/2\""
+        },
+        {
+          "what": "Convertible riding height",
+          "value": "2-1/2\" ± 1/2\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front suspension specifications: bolt torques",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "spherical joint",
+        "ball joint",
+        "shock absorber",
+        "stabilizer bar",
+        "upper control arm",
+        "lower control arm",
+        "brake anchor bolt",
+        "wheel stud nuts"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "spherical joint upper stud nut",
+          "value": "50 ft. lbs."
+        },
+        {
+          "what": "spherical joint lower stud nut",
+          "value": "80 ft. lbs."
+        },
+        {
+          "what": "spherical joint stud to control arm nuts (service)",
+          "value": "20 ft. lbs."
+        },
+        {
+          "what": "spherical joint lower forging nut",
+          "value": "40 ft. lbs."
+        },
+        {
+          "what": "steering arm attaching nuts",
+          "value": "—"
+        },
+        {
+          "what": "shock absorber upper shaft nut",
+          "value": "8 ft. lbs."
+        },
+        {
+          "what": "shock absorber lower attachment",
+          "value": "15 ft. lbs."
+        },
+        {
+          "what": "stabilizer bar frame bracket bolts",
+          "value": "10 ft. lbs."
+        },
+        {
+          "what": "stabilizer bar link nuts",
+          "value": "15 ft. lbs."
+        },
+        {
+          "what": "lower control arm inner pivot nuts",
+          "value": "—"
+        },
+        {
+          "what": "upper control arm attaching nuts",
+          "value": "50 ft. lbs."
+        },
+        {
+          "what": "upper control arm collar bolts",
+          "value": "40 ft. lbs."
+        },
+        {
+          "what": "brake anchor pin, drum brakes",
+          "value": "—"
+        },
+        {
+          "what": "brake anchor bolt, disk brakes",
+          "value": "120 ft. lbs."
+        },
+        {
+          "what": "lower control arm cross shaft bolts, front",
+          "value": "70 ft. lbs."
+        },
+        {
+          "what": "lower control arm cross shaft bolts, rear",
+          "value": "95 ft. lbs."
+        },
+        {
+          "what": "wheel stud nuts",
+          "value": "65 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Corvette column of the front suspension bolt torque table. A dash means no value is listed for Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "page": 28,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-9",
+  "procedures": [
+    {
+      "title": "Air conditioning: general description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Evaporator size and location, temperature control and air distribution vary by system."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Four-Season system: description",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "POA suction throttling valve",
+        "evaporator",
+        "heater core",
+        "heater water shut-off valve",
+        "selector duct assembly",
+        "diverter doors",
+        "dash outlets"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Identified by its POA (Pressure Operated Absolute) suction throttling valve, which controls evaporator pressure.",
+        "It is a 'reheat' system handling both heating and cooling: incoming air passes first through the evaporator, then through or around the heater core.",
+        "The POA valve only holds evaporator pressure so the coldest temperature is reached without the core freezing. It is preset, has no manual control, compensates for altitude automatically and cannot be repaired.",
+        "Corvette has a water shut-off valve that stops coolant through the heater core when the system is set to maximum cold (left control at the 'cold' detent); other models have no water valve and the core is always hot.",
+        "Airflow (see figure 14 in the manual): the blower pushes outside or recirculated air through the evaporator, then into the heater and A/C selector duct where manually operated diverter doors send it through or past the heater core to get the chosen temperature; air enters the car through the floor distributor duct or the dash outlets.",
+        "When cooling drops air below comfort level the heater rewarms it; in heating-only use the evaporator is idle.",
+        "Side dash outlets rotate for diffused flow or spot cooling; a half turn shuts them off. The center barrel outlet aims up or down or closes. (Outlet description given for Chevrolet as typical.)",
+        "See figure 13 in the manual for system components (Chevrolet shown as typical)."
+      ],
+      "continues": false
+    }
+  ]
+}

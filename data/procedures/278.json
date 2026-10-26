@@ -1,0 +1,139 @@
+{
+  "page": 278,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-4",
+  "procedures": [
+    {
+      "title": "Float level: adjust (Holley 4150 center inlet and 2300)",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "sight plug",
+        "air cleaner",
+        "secondary throttle"
+      ],
+      "steps": [
+        "Wait about a minute for the level to settle and check again at the sight plug.",
+        "Readjust until correct, then refit the sight plug and air cleaner."
+      ],
+      "specs": [],
+      "notes": [
+        "For a settled secondary bowl level, open the primary throttles slightly and work the secondary throttle by hand."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: additional on-engine adjustments",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "Rochester 4MV",
+        "Holley 2300",
+        "Holley 4150"
+      ],
+      "steps": [
+        "These can be made on the engine; procedures are in Section 6M of the Overhaul Manual for the carburetor concerned.",
+        "Rochester 4MV: float, accelerator pump, idle vent, air valve, choke rod, choke vacuum break, choke unloader, secondary throttle lockout, secondary opening, secondary closing.",
+        "Holley 2300 and 4150: float, air vent valve, accelerator pump, choke vacuum break, choke unloader."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: remove",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor",
+        "air cleaner",
+        "fuel line",
+        "vacuum lines",
+        "choke rod",
+        "accelerator linkage",
+        "TV linkage"
+      ],
+      "steps": [
+        "Take off the air cleaner and gasket.",
+        "Disconnect the fuel and vacuum lines.",
+        "Disconnect the choke rod or cable.",
+        "Disconnect the accelerator linkage.",
+        "With automatic transmission, disconnect the TV linkage.",
+        "Remove the attaching nuts and/or bolts and lift off the carburetor."
+      ],
+      "specs": [],
+      "notes": [
+        "Dirt, water or other contamination often causes flooding, stumble and similar complaints; remove the carburetor without draining the bowl so the fuel can be inspected during teardown."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: test before installation",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor",
+        "float",
+        "inlet needle and seat",
+        "accelerator pump"
+      ],
+      "steps": [
+        "Fill the bowl before installing, using a bench-mounted fuel pump, a little fuel and fittings; check float and inlet needle and seat operation.",
+        "Work the throttle several times and check that the pump jets discharge."
+      ],
+      "specs": [],
+      "notes": [
+        "A pre-filled bowl eases the load on starter and battery and reduces backfiring on start-up."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: install",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor",
+        "carburetor flange gasket",
+        "fuel line",
+        "vacuum lines",
+        "accelerator linkage",
+        "TV linkage",
+        "choke rod"
+      ],
+      "steps": [
+        "Make sure the throttle body and manifold sealing faces are clean.",
+        "Fit a new carburetor-to-manifold flange gasket if needed.",
+        "Set the carburetor over the manifold studs.",
+        "Start the vacuum and fuel lines.",
+        "Install and tighten the nuts and/or bolts securely.",
+        "Tighten the fuel and vacuum lines.",
+        "Connect and adjust the accelerator and TV linkage.",
+        "Connect the choke rod.",
+        "Refit the air cleaner and set idle speed and mixture per the decal."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Carburetor inlet fuel filter: service",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel filter element",
+        "filter spring",
+        "inlet fuel filter nut",
+        "fuel line"
+      ],
+      "steps": [
+        "Disconnect the fuel line at the inlet filter nut.",
+        "Unscrew the inlet filter nut from the carburetor with a 1\" box wrench or socket.",
+        "Take out the element and spring (see figures 4C and 5C in the manual).",
+        "Bronze element: blow into the cone end; air must pass freely.",
+        "Paper element: blow into the fuel inlet end; if air does not pass freely, replace it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

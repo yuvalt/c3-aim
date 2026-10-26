@@ -1,0 +1,118 @@
+{
+  "page": 575,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Rear suspension specifications: bolt torques",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "stabilizer shaft",
+        "rebound bumper",
+        "rear crossmember",
+        "carrier front support",
+        "drive spindle",
+        "strut rod",
+        "camber cam",
+        "torque arm",
+        "spring link bolt"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "stabilizer shaft bracket to frame",
+          "value": "120 Lb. Ft."
+        },
+        {
+          "what": "stabilizer shaft bracket to torque arm",
+          "value": "120 Lb. Ft."
+        },
+        {
+          "what": "stabilizer shaft link bushings",
+          "value": "25 Lb. Ft."
+        },
+        {
+          "what": "rebound bumper to frame",
+          "value": "20 Lb. Ft."
+        },
+        {
+          "what": "crossmember to frame",
+          "value": "25 Lb. Ft."
+        },
+        {
+          "what": "crossmember to carrier",
+          "value": "60 Lb. Ft."
+        },
+        {
+          "what": "carrier front support to crossmember",
+          "value": "65 Lb. Ft."
+        },
+        {
+          "what": "carrier front support front bolt",
+          "value": "50* Lb. Ft."
+        },
+        {
+          "what": "carrier front support rear bolt",
+          "value": "50 Lb. Ft."
+        },
+        {
+          "what": "drive spindle nut",
+          "value": "100* Lb. Ft."
+        },
+        {
+          "what": "drive spindle support to torque arm",
+          "value": "30 Lb. Ft."
+        },
+        {
+          "what": "strut rod to spindle support",
+          "value": "75* Lb. Ft."
+        },
+        {
+          "what": "strut rod bracket to carrier",
+          "value": "45 Lb. Ft."
+        },
+        {
+          "what": "camber cam",
+          "value": "65 Lb. Ft."
+        },
+        {
+          "what": "torque arm pivot",
+          "value": "50 Lb. Ft."
+        },
+        {
+          "what": "spring link bolt to torque arm",
+          "value": "Install nut to expose hole, then insert cotter pin (Corvette only)"
+        }
+      ],
+      "notes": [
+        "* Plus whatever additional torque is needed to line up the cotter pin hole.",
+        "Continued from the previous page; Corvette column, all values Lb. Ft."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear wheel alignment specifications",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear wheel alignment"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "camber (degrees)",
+          "value": "Neg. 7/8° ± 1/2°"
+        },
+        {
+          "what": "toe-in (per wheel)",
+          "value": "1/32\" to 3/32\""
+        }
+      ],
+      "notes": [
+        "Camber must not vary more than 1/2 degree side to side. Set toe only after camber is set. All settings at curb weight.",
+        "The rear riding height table on this page lists no Corvette values."
+      ],
+      "continues": false
+    }
+  ]
+}

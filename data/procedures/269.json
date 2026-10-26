@@ -1,0 +1,67 @@
+{
+  "page": 269,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-37",
+  "procedures": [
+    {
+      "title": "Camshaft (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "timing chain",
+        "camshaft sprocket",
+        "fuel pump push rod",
+        "grille",
+        "crankcase front cover",
+        "valve lifters"
+      ],
+      "steps": [
+        "Hang the chain on the cam sprocket, holding the sprocket vertical with the chain below, lined up with the crank sprocket marks (see figure 19V in the manual).",
+        "Line up the camshaft dowel with the sprocket hole and fit the sprocket (see figure 24V in the manual).",
+        "Pull the sprocket onto the camshaft with its mounting bolts and torque to specifications.",
+        "Oil the chain with engine oil.",
+        "Install the fuel pump push rod (Section 6M).",
+        "Install the grille (Section 13).",
+        "Install the front cover.",
+        "Install the valve lifters."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Flywheel (V8): remove and install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "flywheel",
+        "crankshaft flange"
+      ],
+      "steps": [
+        "Remove the flywheel once the transmission and/or clutch housing and clutch are off the engine.",
+        "Installation: clean the flywheel and crankshaft mating faces so there are no burrs.",
+        "Fit the flywheel on the crankshaft with its dowel hole lined up with the crankshaft flange dowel (see figure 27V in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "With automatic transmission, the flywheel flange collar faces the transmission."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine mounts (V8): general",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine mounts"
+      ],
+      "steps": [
+        "Replace broken or deteriorated mounts right away, since they put extra strain on the other mounts and the driveline (see figure 28V in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Mounts are non-adjustable and rarely need service."
+      ],
+      "continues": false
+    }
+  ]
+}

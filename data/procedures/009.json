@@ -1,0 +1,23 @@
+{
+  "page": 9,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-6",
+  "procedures": [
+    {
+      "title": "Lifting with a bumper (auto) jack: Corvette",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "frame"
+      ],
+      "steps": [
+        "Place the jack on the shaded frame areas shown in figure 9 in the manual.",
+        "Check that the jack load rest bears properly on the frame before raising the car."
+      ],
+      "specs": [],
+      "notes": [
+        "On other models the jack goes under the bumpers; on the Corvette it goes on the frame."
+      ],
+      "continues": false
+    }
+  ]
+}

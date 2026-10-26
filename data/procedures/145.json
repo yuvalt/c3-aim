@@ -1,0 +1,50 @@
+{
+  "page": 145,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-6",
+  "procedures": [
+    {
+      "title": "Toe-in: adjust",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "tie rods",
+        "tie rod clamps",
+        "steering gear",
+        "steering wheel"
+      ],
+      "steps": [
+        "Equipment that reads each wheel separately: put the steering gear on its high point, mark the 12 o'clock position on the steering shaft and set the steering wheel straight ahead.",
+        "Then loosen the clamp bolts at both ends of each tie rod and set the total toe-in to specification.",
+        "Tram gauge method: point the front wheels straight ahead.",
+        "Loosen the clamp bolts on one tie rod and set toe-in to specification.",
+        "Loosen the other tie rod's clamp bolts; turn both rods equally in the same direction to bring the steering gear to its high point with the steering wheel straight ahead.",
+        "After adjusting (Corvette): turn the inner tie rod clamps so the bolt is horizontal and below; turn the outer clamps so the bolt is vertical and toward the rear.",
+        "Tighten the clamp bolts."
+      ],
+      "specs": [],
+      "notes": [
+        "Clamp positions for Chevrolet, Chevelle, Chevy II and Camaro differ and are omitted here.",
+        "The final 'tighten' step is implied by the loosen steps; torque values are in the Specifications."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Riding height and coil spring sag: check",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "front coil springs",
+        "lower control arm"
+      ],
+      "steps": [
+        "Park on a smooth level floor; bounce and rock the front end several times, lift it, then let it settle to normal height.",
+        "Take the two measurements shown in figure 8 of the manual (continued on next page)."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 8 includes a 'Chevrolet and Corvette' view: measure from the floor to the lower control arm inner pivot and from the floor to the knuckle boss."
+      ],
+      "continues": true
+    }
+  ]
+}

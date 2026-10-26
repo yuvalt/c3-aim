@@ -1,0 +1,92 @@
+{
+  "page": 277,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-3",
+  "procedures": [
+    {
+      "title": "Idle speed and mixture: adjust",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "idle mixture screws",
+        "idle speed screw"
+      ],
+      "steps": [
+        "Repeat the lean-roll and 1/4 turn steps on the second mixture screw if there is one.",
+        "Reset the speed screw to the specified idle if needed."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fast idle: adjust (Rochester 4MV, Holley)",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fast idle screw",
+        "fast idle lever",
+        "fast idle cam"
+      ],
+      "steps": [
+        "With the engine warm, the fast idle lever on the high step of the cam and the choke open, set fast idle to the specified rpm.",
+        "On the Rochester 4MV turn the adjusting screw; on Holley (and Rochester M) bend the fast idle lever."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Choke adjustment, remote choke",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "choke valve",
+        "choke rod",
+        "choke lever",
+        "air cleaner"
+      ],
+      "steps": [
+        "Take off the air cleaner and check that the choke valve and rod move freely.",
+        "Disconnect the choke rod at the choke lever.",
+        "All engines except L6 and the 390 hp 427: hold the choke closed and push the rod down to its stop; the rod top should line up with the bottom of the lever hole.",
+        "L6 and 390 hp 427: hold the choke closed and pull the rod up to the end of travel; the rod bottom should line up with the top of the lever hole.",
+        "If needed, bend the rod at its offset to change length so it enters the lever hole freely and squarely (see figure 2C in the manual).",
+        "Reconnect the rod and refit the air cleaner."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Float level: adjust (Holley 4150 center inlet and 2300)",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "Holley carburetor",
+        "fuel level sight plugs",
+        "inlet needle lock screw",
+        "adjusting nut"
+      ],
+      "steps": [
+        "Take off the air cleaner and remove the fuel level sight plugs (see figure 3C in the manual).",
+        "Set the parking brake, put the transmission in Neutral, start the engine and let it idle.",
+        "With the car level, fuel should be even with the threads at the bottom of the sight plug hole, ± 1/32 inch.",
+        "To adjust either bowl, loosen the inlet needle lock screw, turn the adjusting nut clockwise to lower or counterclockwise to raise the level, then tighten the lock screw."
+      ],
+      "specs": [
+        {
+          "what": "Holley fuel level",
+          "value": "bottom of sight plug threads ± 1/32 inch"
+        },
+        {
+          "what": "adjusting nut 1/6 turn",
+          "value": "about 1/16\" fuel level change"
+        }
+      ],
+      "notes": [
+        "No float drop adjustment is needed on these carburetors."
+      ],
+      "continues": true
+    }
+  ]
+}

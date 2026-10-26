@@ -1,0 +1,64 @@
+{
+  "page": 473,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-19",
+  "procedures": [
+    {
+      "title": "Neutral safety switch replacement",
+      "topic": "transmission",
+      "applies_to": "Corvette",
+      "parts": [
+        "neutral safety switch",
+        "shift control lever",
+        "control rod",
+        "shift knob",
+        "trim plate",
+        "shift control assembly",
+        "contact support"
+      ],
+      "steps": [
+        "Disconnect the shift control lever arm from the control rod.",
+        "Take off the shift knob.",
+        "Remove the trim plate screws and trim plate.",
+        "Remove the control assembly screws (see Section 1).",
+        "Lift the control assembly out of its seal.",
+        "Remove the switch nuts and take the switch off the control assembly.",
+        "To install, put the shifter in \"Drive\", line up the hole in the contact support with the hole in the switch, and insert a 3/32\" diameter pin to hold the support.",
+        "Fit the contact support drive slot over the drive tang and tighten the switch mounting screws.",
+        "Connect the harness to the switch wiring.",
+        "Refit the trim plate and shift knob.",
+        "Reconnect the shift lever arm to the transmission control rod."
+      ],
+      "specs": [
+        {
+          "what": "alignment pin",
+          "value": "3/32\" dia."
+        }
+      ],
+      "notes": [
+        "See figure 35 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Parking brake alarm switch replacement",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake alarm switch",
+        "seat belt retainer",
+        "parking brake cover",
+        "reinforcement"
+      ],
+      "steps": [
+        "Remove the seat belt retainer and the parking brake cover from the rear center console.",
+        "Disconnect the wire from the alarm switch.",
+        "Remove the screw and take the switch off the reinforcement..."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 36 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

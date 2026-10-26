@@ -1,0 +1,39 @@
+{
+  "page": 310,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-13",
+  "procedures": [
+    {
+      "title": "Delcotron diode and field test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron generator", "diodes", "rotor field", "ohmmeter"],
+      "steps": [
+        "The meter should show high resistance one way and low the other.",
+        "Negative diodes (test B): read between the \"R\" and \"GRD\" terminals, reverse leads and read again; again expect high one way, low the other.",
+        "A high reading both ways or a low reading both ways means a bad diode.",
+        "Open field check: on the lowest range, read from the \"F\" terminal to the \"GRD\" stud; it should be 7 to 20 ohms.",
+        "Zero or very high resistance means the Delcotron is faulty.",
+        "If any test shows a bad Delcotron, remove it and check it fully per Service Operations."
+      ],
+      "specs": [{"what": "Delcotron field resistance (F to GRD)", "value": "7 to 20 ohms"}],
+      "notes": ["See figure 10c in the manual."],
+      "continues": false
+    },
+    {
+      "title": "Indicator lamp / initial field excitation circuit: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["indicator lamp", "ammeter", "voltage regulator", "Delcotron generator", "test lamp"],
+      "steps": [
+        "Normal: the lamp lights with ignition ON and goes out almost as soon as the engine starts. Ammeter cars use the same circuit without the lamp.",
+        "If the lamp does not light or the ammeter does nothing, suspect: bad bulb or socket, bad ammeter, open circuit in wiring, regulator or field, or a shorted positive diode (which can also light the lamp with ignition OFF).",
+        "Step 1: unplug the regulator connector, turn ignition ON and connect a test lamp from connector terminal \"4\" to ground (see figure 11c in the manual).",
+        "If the test lamp stays dark, look for a bad bulb, socket or open wire between switch and regulator connector and repair.",
+        "If it lights, the fault is in the regulator, the Delcotron, or the wire between the \"F\" terminals of regulator and Delcotron; go to step 2."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

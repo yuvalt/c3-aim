@@ -1,0 +1,65 @@
+{
+  "page": 231,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-30",
+  "procedures": [
+    {
+      "title": "Power brakes: description and inspection",
+      "topic": "brakes",
+      "applies_to": "all models with power brakes",
+      "parts": [
+        "power brake unit",
+        "vacuum check valve",
+        "vacuum line",
+        "air cleaner filter",
+        "main cylinder"
+      ],
+      "steps": [
+        "Check the vacuum line, its connections and the check valve in the power unit front shell for vacuum leaks.",
+        "Check all hydraulic lines and connections at the wheel brakes and main cylinder for leaks.",
+        "Check the brakes for scored drums, grease or fluid on linings, and worn or glazed linings; adjust as needed.",
+        "Check the fluid level in the reservoirs (fill to the levels in the manual's fluid level figure).",
+        "Check the main cylinder and power section mounting bolts for looseness.",
+        "Check the air cleaner filter in the power piston extension; replace it if needed.",
+        "Check the pedal for binding or misalignment with the push rod."
+      ],
+      "specs": [],
+      "notes": [
+        "The power unit is a self-contained hydraulic and vacuum unit using manifold vacuum and atmospheric pressure. It allows a low pedal and less effort. It has only two outside connections: vacuum from the manifold to the check valve on the front shell, and the hydraulic outlet from the main cylinder. It mounts on the engine side of the firewall, linked directly to the pedal.",
+        "The unit is lubricated at assembly and needs no further lubrication beyond keeping the reservoir fluid at the normal level.",
+        "Bleed manually or with a pressure bleeder as in this section, using only GM Supreme 11 brake fluid or equivalent. Do not use the power assist while bleeding: engine off, and pump the pedal several times first to use up the vacuum reserve.",
+        "Air cleaner: replace the element when it restricts enough to affect power brake response; otherwise it can be shaken clean or washed in soap and water and dried thoroughly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power brake unit: remove and install",
+      "topic": "brakes",
+      "applies_to": "all models with power brakes",
+      "parts": [
+        "power brake unit",
+        "vacuum hose",
+        "vacuum check valve",
+        "brake lines",
+        "push rod",
+        "mounting nuts and lock washers"
+      ],
+      "steps": [
+        "(Removal) Pull the vacuum hose off the vacuum check valve.",
+        "Disconnect the brake lines at the main cylinder.",
+        "Unhook the push rod from the brake pedal.",
+        "Remove the nuts and lock washers holding the unit to the firewall and lift it out of the engine compartment.",
+        "(Installation) Set the unit in place and fit the nuts and lock washers.",
+        "Connect the vacuum line to the check valve.",
+        "Connect the brake lines to the main cylinder.",
+        "Connect the push rod to the pedal and check the stoplight works.",
+        "Bleed the brakes."
+      ],
+      "specs": [],
+      "notes": [
+        "Power cylinder repair is in the Brake Section of the Overhaul Manual; for the main cylinder see the standard brake procedures in this manual.",
+        "CAUTION: after installing, start the engine and let vacuum build before using the brakes."
+      ],
+      "continues": false
+    }
+  ]
+}

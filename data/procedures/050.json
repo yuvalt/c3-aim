@@ -1,0 +1,33 @@
+{
+  "page": 50,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-31",
+  "procedures": [
+    {
+      "title": "Evaporator control valve (POA): check",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "POA valve"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "at 8000 ft.",
+          "value": "33.5 psig."
+        },
+        {
+          "what": "at 9000 ft.",
+          "value": "34.0 psig."
+        },
+        {
+          "what": "at 10000 ft.",
+          "value": "34.5 psig."
+        }
+      ],
+      "notes": [
+        "See figure 33 in the manual (evaporator pressure control valve)."
+      ],
+      "continues": false
+    }
+  ]
+}

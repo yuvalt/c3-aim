@@ -1,0 +1,82 @@
+{
+  "page": 42,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-23",
+  "procedures": [
+    {
+      "title": "Air conditioning performance data: Corvette Four-Season",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "Four-Season system",
+        "POA valve"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "refrigerant charge",
+          "value": "3 Lbs. 4 Oz."
+        },
+        {
+          "what": "engine rpm for test",
+          "value": "2000"
+        },
+        {
+          "what": "compressor head pressure at 70° air entering condenser",
+          "value": "145-155"
+        },
+        {
+          "what": "compressor head pressure at 80°",
+          "value": "170-180"
+        },
+        {
+          "what": "compressor head pressure at 90°",
+          "value": "200-210"
+        },
+        {
+          "what": "compressor head pressure at 100°",
+          "value": "215-225"
+        },
+        {
+          "what": "compressor head pressure at 110°",
+          "value": "220-230"
+        },
+        {
+          "what": "compressor head pressure at 120°",
+          "value": "240-250"
+        },
+        {
+          "what": "evaporator pressure at POA",
+          "value": "29.5 - 30.5 psi"
+        },
+        {
+          "what": "discharge air temp. at right hand outlet at 70°",
+          "value": "46-49"
+        },
+        {
+          "what": "discharge air temp. at 80°",
+          "value": "47-50"
+        },
+        {
+          "what": "discharge air temp. at 90°",
+          "value": "49-52"
+        },
+        {
+          "what": "discharge air temp. at 100°",
+          "value": "50-53"
+        },
+        {
+          "what": "discharge air temp. at 110°",
+          "value": "51-54"
+        },
+        {
+          "what": "discharge air temp. at 120°",
+          "value": "53-56"
+        }
+      ],
+      "notes": [
+        "Temperatures are of the air entering the condenser. Only the Corvette table is kept; other car lines have their own tables."
+      ],
+      "continues": false
+    }
+  ]
+}

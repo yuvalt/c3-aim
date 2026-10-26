@@ -1,0 +1,25 @@
+{
+  "page": 290,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Fuel Pump, p.6M-16",
+  "procedures": [
+    {
+      "title": "Fuel pump: install",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump",
+        "fuel pump gasket",
+        "mounting bolts",
+        "fuel pipes"
+      ],
+      "steps": [
+        "Fit the pump with a new gasket, sealer on the mounting bolt threads, and tighten securely; on V8s hold the push rod up with mechanical fingers or heavy grease while fitting the pump (see figure 2P in the manual).",
+        "Connect the fuel pipes.",
+        "Start the engine and check for leaks."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

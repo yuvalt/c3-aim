@@ -1,0 +1,65 @@
+{
+  "page": 316,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-19",
+  "procedures": [
+    {
+      "title": "Breakerless (transistor) ignition: maintenance",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["test tachometer"],
+      "steps": [
+        "A test tachometer can be connected to the primary circuit as on a conventional system, but first confirm with the instrument supplier that it reads correctly and will not damage the breakerless system."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ignition coil (breakerless): check",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["ignition coil", "ohmmeter"],
+      "steps": [
+        "Disconnect the battery.",
+        "Primary: put an ohmmeter across the 2 primary terminals; expect .35 to .55 ohm at 75°F. Infinite means open (an intermittent open can cause a run-but-miss condition).",
+        "Secondary: read from the high-tension center tower to either primary terminal, on a scale with 20,000 ohms in or near its middle third; expect 8,000 to 12,500 ohms at 75°F. Infinite means the secondary is open.",
+        "If using a coil tester, follow its maker's procedure and make sure it can test this special coil."
+      ],
+      "specs": [
+        {"what": "breakerless coil primary resistance", "value": ".35 to .55 ohm at 75°F"},
+        {"what": "breakerless coil secondary resistance", "value": "8,000 to 12,500 ohms at 75°F"}
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Spark plugs: tune-up service",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["spark plugs"],
+      "steps": ["At tune-up, remove, inspect, clean and regap the plugs; replace bad ones (see Spark Plugs service)."],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor contact points: clean",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor contact points", "contact file"],
+      "steps": [
+        "Dress dirty points with a few strokes of a clean, fine-cut contact file kept only for this job and free of grease.",
+        "Never use emery cloth.",
+        "Only remove scale or dirt; do not try to file away all roughness or make the faces smooth.",
+        "Replace badly burned or pitted points and find the cause."
+      ],
+      "specs": [],
+      "notes": [
+        "Dull-looking points after long use may still work fine.",
+        "Oxidized points come from high resistance or loose condenser circuit connections, oil or dirt on contacts, wrong adjustment, or high voltage.",
+        "Pitting indicates an unbalanced ignition system, often too much or too little condenser capacity."
+      ],
+      "continues": false
+    }
+  ]
+}

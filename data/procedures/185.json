@@ -1,0 +1,38 @@
+{
+  "page": 185,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-26",
+  "procedures": [
+    {
+      "title": "Corvette rear axle cross-section (figure 66)",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "companion flange",
+        "pinion seal",
+        "front pinion bearing",
+        "rear pinion bearing",
+        "pinion shim",
+        "pinion",
+        "differential pinion",
+        "differential side gear",
+        "differential bearing",
+        "differential bearing shim",
+        "yoke bearing",
+        "yoke bearing seal",
+        "side gear yoke",
+        "carrier cover",
+        "differential case",
+        "differential pinion shaft",
+        "thrust washer",
+        "ring gear",
+        "pinion bearing spacer"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Page is figure 66 in the manual, a cross-section of the Corvette rear axle with the 19 parts listed in parts."
+      ],
+      "continues": false
+    }
+  ]
+}

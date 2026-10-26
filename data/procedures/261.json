@@ -1,0 +1,73 @@
+{
+  "page": 261,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-29",
+  "procedures": [
+    {
+      "title": "Hydraulic valve lifters: locate noisy lifter",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "hydraulic valve lifters",
+        "check valve ball"
+      ],
+      "steps": [
+        "When one or more lifters are noisy, remove all lifters, take them apart, clean them in solvent, reassemble and reinstall them."
+      ],
+      "specs": [],
+      "notes": [
+        "Intermittent clicking: a tiny bit of dirt briefly caught between ball seat and check ball, rarely an out-of-round or flat-spotted ball, or wrong adjustment.",
+        "Dirt, corrosion or carbon found in one lifter is very likely in all of them."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Valve lifters (V8): remove and install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "valve lifters",
+        "intake manifold"
+      ],
+      "steps": [
+        "Remove the intake manifold.",
+        "Remove the valve mechanism.",
+        "Pull the lifters, keeping them in a rack so each returns to its own bore.",
+        "Installation: fit the lifters, coating the foot of any new lifter with Molykote or equivalent.",
+        "Install the intake manifold.",
+        "Install and adjust the valve mechanism."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Valve stem oil seal and/or valve spring (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "valve stem oil seal",
+        "valve spring",
+        "damper",
+        "valve cap",
+        "valve shield",
+        "valve locks",
+        "air adapter tool"
+      ],
+      "steps": [
+        "Remove the rocker covers.",
+        "Remove the spark plug, rocker arm and push rod for each cylinder being worked on.",
+        "Put compressed air into the plug hole to hold the valves up.",
+        "Compress the spring with Tool J-5892 and remove the locks, cap, spring and damper (see figure 6V in the manual).",
+        "Remove the valve stem oil seal.",
+        "327 (and 302, 307, 350): place the spring and damper (close-coiled end against the head), shield and cap, compress with J-5892, fit the seal flat and untwisted in the lower stem groove (a little oil helps), then fit the locks and release, checking the locks seat in the upper groove.",
+        "427 (and 396): fit a new oiled stem seal over the guide, place the spring and damper and cap, compress with J-5892, fit the locks and release, checking the locks seat in the groove."
+      ],
+      "specs": [],
+      "notes": [
+        "An air adapter can be bought from local jobbers or made: knock the porcelain out of an AC-46N plug (chisel it and tap the center electrode on a hard block), then cut 3/8\" pipe threads in the shell (see figure 5V in the manual); this fits all Chevrolet engines.",
+        "Grease can hold the locks while the compressor is released."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page": 574,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Rear axle specifications: Corvette",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear axle",
+        "differential",
+        "ring gear",
+        "pinion bearing"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "gear backlash",
+          "value": ".003\"-.010\" (.005\"-.008\" preferred)"
+        },
+        {
+          "what": "pinion bearing preload, new (in. lbs.)",
+          "value": "20-25"
+        },
+        {
+          "what": "pinion bearing preload, used (in. lbs.)",
+          "value": "5-15"
+        },
+        {
+          "what": "lubricant capacity",
+          "value": "3-3/4 pints"
+        },
+        {
+          "what": "carrier cover bolt torque (Ft. Lbs.)",
+          "value": "50"
+        },
+        {
+          "what": "ring gear bolt torque (Ft. Lbs.)",
+          "value": "50"
+        },
+        {
+          "what": "differential bearing caps bolt torque (Ft. Lbs.)",
+          "value": "55"
+        },
+        {
+          "what": "filler plug torque (Ft. Lbs.)",
+          "value": "20"
+        },
+        {
+          "what": "differential pinion lock torque (Ft. Lbs.)",
+          "value": "20"
+        }
+      ],
+      "notes": [
+        "Section 4. Corvette block of the rear axle specifications."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear suspension specifications: bolt torques",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear suspension",
+        "spring retainer",
+        "shock absorber",
+        "universal joint",
+        "axle drive shaft",
+        "wheel stud nuts"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "rear suspension type",
+          "value": "Independent Three-Link System"
+        },
+        {
+          "what": "spring retainer bolt torque",
+          "value": "65 Lb. Ft."
+        },
+        {
+          "what": "shock absorber upper",
+          "value": "50 Lb. Ft."
+        },
+        {
+          "what": "shock absorber lower",
+          "value": "35 Lb. Ft."
+        },
+        {
+          "what": "universal joint companion flange",
+          "value": "15 Lb. Ft."
+        },
+        {
+          "what": "universal joint transmission yoke",
+          "value": "15 Lb. Ft."
+        },
+        {
+          "what": "wheel stud nuts",
+          "value": "75 Lb. Ft."
+        },
+        {
+          "what": "axle drive shaft to spindle",
+          "value": "75 Lb. Ft."
+        },
+        {
+          "what": "axle drive shaft to yoke",
+          "value": "15 Lb. Ft."
+        }
+      ],
+      "notes": [
+        "Corvette column; the table states all torque specifications are Lb. Ft."
+      ],
+      "continues": true
+    }
+  ]
+}

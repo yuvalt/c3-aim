@@ -1,0 +1,73 @@
+{
+  "page": 257,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-25",
+  "procedures": [
+    {
+      "title": "Engine assembly (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine",
+        "transmission",
+        "hood",
+        "radiator",
+        "shroud",
+        "fan blade",
+        "pulley",
+        "engine lifting adapter",
+        "front mounts",
+        "rear mount",
+        "crossmember",
+        "clutch"
+      ],
+      "steps": [
+        "Drain the coolant and engine oil.",
+        "Take off the air cleaner and disconnect the battery cables at the battery.",
+        "Remove the front hood hinge bolts and loosen the rear ones; swing the hood up and prop it with Tool J-22382-1.",
+        "Remove the radiator and shroud (Section 13).",
+        "Remove the fan blade and pulley (Section 6K).",
+        "Disconnect the wires at the starter solenoid, Delcotron, temperature switch, oil pressure switch and coil.",
+        "Disconnect the accelerator linkage at the pedal lever, exhaust pipes at the manifold flanges, power brake vacuum line at the manifold, power steering lines at the pump, fuel line from the tank at the fuel pump, engine cooler lines and oil pressure gauge line (each where fitted).",
+        "Raise the car and set it on jack stands.",
+        "Remove the propeller shaft; if no plug is available for the transmission's propeller shaft opening, drain the transmission.",
+        "Disconnect the shift linkage, speedometer cable and transmission cooler lines (if fitted) at the transmission.",
+        "With synchromesh transmission, disconnect the clutch linkage at the cross-shaft and remove the cross-shaft engine bracket.",
+        "Remove the rocker arm covers and bolt the engine lifting adapter to the correct cylinder head bolt locations.",
+        "Remove the front mount bolts.",
+        "Hook up the lifting device, raise the engine to unload the front mounts, and remove the rear mount bolts.",
+        "Raise the engine to unload the rear mount and remove the crossmember.",
+        "Lift the engine and transmission out together.",
+        "Synchromesh: remove the clutch housing cover plate screws and the clutch housing-to-block bolts, and pull the transmission and clutch housing off as one unit, supporting it as the last bolt comes out so the clutch disc is not damaged.",
+        "Synchromesh: remove the starter and clutch housing rear cover plate, then loosen the clutch bolts one turn at a time until spring pressure is gone, and remove the bolts, disc and pressure plate.",
+        "Automatic: lower the engine (still on the hoist) onto blocks, remove the starter and converter underpan, then the flywheel-to-converter bolts.",
+        "Automatic: block up the transmission, remove the transmission-to-engine bolts, take the blocks from under the engine only and ease the engine away from the transmission on the hoist.",
+        "Mount the engine on an engine stand."
+      ],
+      "specs": [],
+      "notes": [
+        "Full-size Chevrolet: the mount must come off the transmission before the crossmember can be removed. Camaro: just unbolt the crossmember and slide it back."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine assembly (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine",
+        "transmission",
+        "clutch",
+        "converter",
+        "starter"
+      ],
+      "steps": [
+        "Attach the lifting device and take the engine off the stand.",
+        "Synchromesh: fit the clutch to the flywheel (Section 7), then the clutch housing rear cover and starter, then the transmission and clutch housing (Section 7); tighten the housing cover screws securely.",
+        "Automatic: set the engine next to the transmission with the converter lined up to the flywheel, bolt the transmission to the engine, raise the assembly and install the flywheel-to-converter bolts, then fit the converter underpan and starter."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

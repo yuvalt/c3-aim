@@ -1,0 +1,82 @@
+{
+  "page": 433,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-7",
+  "procedures": [
+    {
+      "title": "Tubeless tire: remove from rim",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tubeless tire",
+        "rim"
+      ],
+      "steps": [
+        "Flip the tire; with two irons, pry the rim up with one between flange and bead, and pry outward with the other between bead seat and bead."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tubeless tire: install on rim",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tubeless tire",
+        "rim",
+        "rubber lubricant"
+      ],
+      "steps": [
+        "Wipe a thin film of Ruglyde or similar rubber lubricant on the tire sealing bead.",
+        "Mount the outer bead with tire irons in small bites around the rim, without harming the bead.",
+        "Mount the inner bead the same way.",
+        "If air rushes out and the bead will not seal, cinch a tire mounting band or heavy sash cord around the tire's circumference, tightening with a tire iron.",
+        "On a tire machine, lift the tire on the rim so the top bead is pushed against the top flange; the tire's weight seats the bottom bead."
+      ],
+      "specs": [],
+      "notes": [
+        "Too much lubricant can let the tire slip on the rim and break the air seal.",
+        "Caution: do not use a hammer; it will damage the bead.",
+        "Take great care not to damage the sealing bead and circumferential bead while forcing the tire over the rim."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Valve assembly: replace",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "valve assembly",
+        "rim"
+      ],
+      "steps": [
+        "Coat the outside of the new valve generously with mounting compound.",
+        "Push it through the rim from the inside and snap it home with slip-joint pliers, one jaw on the rim and one on the valve base (the manual cites figure 7; figure 6 shows the valve being installed)."
+      ],
+      "specs": [],
+      "notes": [
+        "The manual numbers these steps 4 and 5; no step 3 is printed."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rim: repair",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "rim",
+        "valve core",
+        "valve assembly"
+      ],
+      "steps": [
+        "Straighten any bends or dents.",
+        "Clean the flange well with a small piece of steel wool or sandpaper.",
+        "Check the butt weld in the flange area for any groove or high spot (the manual cites figure 8; figure 7 shows rim inspection at the butt weld).",
+        "If air leaks at the valve, replace the valve core or the whole valve assembly."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

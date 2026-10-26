@@ -1,0 +1,135 @@
+{
+  "page": 259,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-27",
+  "procedures": [
+    {
+      "title": "Intake manifold (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "intake manifold"
+      ],
+      "steps": [
+        "Fill with coolant, start the engine and check for leaks.",
+        "Set timing and carburetor idle speed and mixture."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Exhaust manifold (V8): remove",
+      "topic": "exhaust",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "exhaust manifold",
+        "Delcotron",
+        "spark plug shields",
+        "exhaust pipe",
+        "air manifold",
+        "pre-heater stove"
+      ],
+      "steps": [
+        "With the Air Injection Reactor system, first remove the air manifold and tubes (Section 6T); also remove the pre-heater air stove.",
+        "Disconnect the battery ground cable.",
+        "Disconnect and remove the Delcotron if it is in the way.",
+        "On 427 (and 396) engines, remove the spark plugs and plug shields.",
+        "Remove the manifold flange nuts, drop the exhaust pipe and hang it from the frame with wire.",
+        "Remove the end bolts, then the center bolts, and lift the manifold off."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Exhaust manifold (V8): install",
+      "topic": "exhaust",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "exhaust manifold",
+        "french locks",
+        "flange gasket",
+        "spark plugs",
+        "Delcotron"
+      ],
+      "steps": [
+        "Clean the manifold and head mating faces, set the manifold in place and start the center bolts.",
+        "Install the end bolts with french locks under them.",
+        "Torque the center bolts to specifications, then the end bolts, and bend the french lock tabs over the end bolts.",
+        "Attach the exhaust pipe to the manifold flange with a new flange gasket.",
+        "On 427 (and 396) engines, clean and refit the plugs with new gaskets and torque to specifications.",
+        "Install and connect the Delcotron.",
+        "Reconnect the battery ground cable.",
+        "Refit the air cleaner pre-heater.",
+        "Start the engine and check for leaks."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rocker arm cover (V8): remove and install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "rocker arm cover",
+        "rocker arm cover gasket",
+        "crankcase ventilation hoses",
+        "temperature wire clips"
+      ],
+      "steps": [
+        "Take off the air cleaner.",
+        "Disconnect the crankcase ventilation hoses as needed.",
+        "Unclip the temperature wire from the rocker cover clips.",
+        "Remove the cover by bumping its end rearward with your palm or a rubber mallet; never pry it, or the stuck gasket may tear.",
+        "Installation: clean head and cover gasket faces with degreaser, fit the cover with a new gasket and torque the bolts to specifications.",
+        "Reconnect the ventilation hoses and the temperature wire in its clips.",
+        "Refit the air cleaner."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Valve mechanism (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "rocker arm nuts",
+        "rocker arm balls",
+        "rocker arms",
+        "push rods"
+      ],
+      "steps": [
+        "Remove the rocker arm covers.",
+        "Remove the rocker nuts, balls, rocker arms and push rods, keeping them in a rack so each goes back in its original place."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Valve mechanism (V8): install and adjust",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "push rods",
+        "rocker arms",
+        "rocker arm balls",
+        "rocker arm nuts",
+        "hydraulic lifters"
+      ],
+      "steps": [
+        "If fitting new rocker arms or balls, coat their bearing surfaces with Molykote or equivalent.",
+        "Install the push rods, making sure each seats in its lifter socket.",
+        "Install the rocker arms, balls and nuts.",
+        "Adjust each valve with its lifter on the base circle of the cam lobe.",
+        "Hydraulic lifters: crank until the damper mark lines up with the \"0\" on the timing tab with No. 1 cylinder on its firing stroke. Check by feeling the No. 1 valves as the mark approaches \"0\": if they are still, it is No. 1 firing; if they move, it is No. 6 firing, so turn the crank one more revolution.",
+        "Hydraulic lifters: back off the rocker stud nut until the push rod has play, then tighten while spinning the push rod with your fingers until it no longer turns freely (zero clearance) (see figure 3V in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

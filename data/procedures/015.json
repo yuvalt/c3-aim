@@ -1,0 +1,225 @@
+{
+  "page": 15,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-12",
+  "procedures": [
+    {
+      "title": "Powerglide transmission: fluid check and change",
+      "topic": "transmission",
+      "applies_to": "all models",
+      "parts": [
+        "Powerglide transmission",
+        "shift linkage"
+      ],
+      "steps": [
+        "Every 24,000 miles (sooner for trailer towing, full loads in hot weather, mountain driving or other severe use), drain the sump through its drain plug and add fresh fluid.",
+        "Run the transmission through all ranges, then check the level as above.",
+        "Lubricate the shift linkage with water-resistant EP chassis lubricant (GM 6031M)."
+      ],
+      "specs": [],
+      "notes": [
+        "Other fluids marked DEXRON are also acceptable.",
+        "The pan does not need to come off; there is a drain plug.",
+        "The refill quantities on this page are given only for Chevrolet, Chevelle, Chevy II and Camaro."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic: fluid and filter",
+      "topic": "transmission",
+      "applies_to": "all models",
+      "parts": [
+        "Turbo Hydra-Matic transmission",
+        "sump strainer",
+        "dipstick"
+      ],
+      "steps": [
+        "Follow the Powerglide schedule except for capacity and strainer.",
+        "After checking the level, push the dipstick fully home in the fill tube.",
+        "Every 24,000 miles, drain the sump and add fresh fluid to the mark.",
+        "Every 24,000 miles, replace the sump strainer."
+      ],
+      "specs": [
+        {
+          "what": "refill after sump drain",
+          "value": "approximately 7 1/2 pints U.S. measure (6 pints Imperial measure)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front wheel bearings: lubricate",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "front wheel bearings",
+        "hub"
+      ],
+      "steps": [
+        "Remove the wheel and hub to reach the bearings.",
+        "Clean all old lubricant out of bearings and hub.",
+        "Pack the tapered roller bearings with high-melting-point water-resistant wheel bearing lubricant (GM 6031M) whenever the hub is off.",
+        "Do not fill the hub cavity between the bearings or the hub caps.",
+        "Adjust the bearings per Section 3, Front Wheel Bearings--Adjust."
+      ],
+      "specs": [],
+      "notes": [
+        "Over-packing lets grease work out onto the brakes.",
+        "Do not use \"long fibre\" or \"viscous\" lubricant, and do not mix bearing greases.",
+        "Bad bearing adjustment causes wander, shimmy and tire wear."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Manual steering gear: lubricant check",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "manual steering gear"
+      ],
+      "steps": [
+        "Every 36,000 miles check the level and add EP chassis lubricant (GM 6031M) if needed."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering: fluid check",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "power steering pump reservoir"
+      ],
+      "steps": [
+        "With the system hot, check the fluid in the pump reservoir.",
+        "Fill to the full mark on the dipstick with GM Power Steering Fluid, or DEXRON ATF if that is unavailable."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning: sight glass check",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C sight glass"
+      ],
+      "steps": [
+        "Every 6,000 miles, after the system has run several minutes, look at the sight glass under the hood.",
+        "It should be clear; a few bubbles are normal in mild weather.",
+        "Foam or dirt means a leak: repair it at once."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Brake master cylinder: fluid level",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake master cylinder"
+      ],
+      "steps": [
+        "Every 6,000 miles, check the level and keep it 1/4\" below the lowest edge of each filler opening."
+      ],
+      "specs": [
+        {
+          "what": "fluid",
+          "value": "GM Hydraulic Brake Fluid Supreme No. 11"
+        },
+        {
+          "what": "level",
+          "value": "1/4\" below lowest edge of each filler opening"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Parking brake: lubricate",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "parking brake cable",
+        "cable guides",
+        "parking brake links and levers"
+      ],
+      "steps": [
+        "Every 6,000 miles, apply water-resistant lubricant (GM 6031M) to the cable, the guides and all moving links and levers."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Clutch cross-shaft: lubricate",
+      "topic": "clutch",
+      "applies_to": "all models",
+      "parts": [
+        "clutch cross-shaft"
+      ],
+      "steps": [
+        "No routine lubrication is needed.",
+        "At 36,000 miles, or earlier if needed, take out the plug, fit a grease fitting and apply EP chassis lubricant (GM 6031M)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Chassis lubrication",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "chassis lubrication points"
+      ],
+      "steps": [
+        "Lubricate the points shown on the lubrication chart at the intervals given there (see figure 14 in the manual for Corvette)."
+      ],
+      "specs": [],
+      "notes": [
+        "\"Chassis lubricant\" means water-resistant EP chassis grease meeting GM 6031M, applied with a pressure gun."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hood catch and lock plate: lubricate",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "hood catch",
+        "hood lock plate"
+      ],
+      "steps": [
+        "Every 12,000 miles or 12 months, whichever is first, apply Lubriplate or equivalent to the hood catch and lock plate."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Body lubrication points: Corvette",
+      "topic": "lubrication",
+      "applies_to": "Corvette",
+      "parts": [
+        "hood latch mechanism",
+        "hood hinges",
+        "rear compartment lid release",
+        "rear compartment lid hinges"
+      ],
+      "steps": [
+        "Lubricate these items when the opportunity arises.",
+        "Hood latch mechanism and hinges: put light engine oil on the pivots; do not oil the lock pins or catch plates.",
+        "Rear compartment lid release and hinges: use light engine oil."
+      ],
+      "specs": [],
+      "notes": [
+        "Body lubrication for other models is in the Body Service Manual."
+      ],
+      "continues": true
+    }
+  ]
+}

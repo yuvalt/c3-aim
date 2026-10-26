@@ -1,0 +1,143 @@
+{
+  "page": 239,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-7",
+  "procedures": [
+    {
+      "title": "Air injection reactor system: tune-up inspection",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor",
+        "distributor",
+        "crankcase ventilation system",
+        "air cleaner"
+      ],
+      "steps": [
+        "Whenever the AIR system seems faulty, check the engine tune, paying special attention to things that affect fuel-air ratio: crankcase ventilation, carburetor and air cleaner."
+      ],
+      "specs": [],
+      "notes": [
+        "Carburetors and distributors for AIR and Controlled Combustion System engines are made for those engines; never swap in units built for other applications."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Choke adjustment, remote choke",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "choke valve",
+        "choke rod",
+        "choke lever",
+        "air cleaner"
+      ],
+      "steps": [
+        "Take off the air cleaner and check that the choke valve and rod move freely.",
+        "Disconnect the choke rod from the choke lever.",
+        "All engines except L6 and the 390 hp 427: hold the choke closed and push the rod down against its stop; the rod top should line up with the bottom of the lever hole.",
+        "L6 and 390 hp 427: hold the choke closed and pull the rod up to the end of its travel; the rod bottom should line up with the top of the lever hole.",
+        "If needed, change rod length by bending it at the offset so it enters the lever hole freely and squarely (see figure 11 in the manual).",
+        "Reconnect the rod and refit the air cleaner."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Choke adjustment, manual choke",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "choke cable",
+        "choke knob",
+        "carburetor bracket"
+      ],
+      "steps": [
+        "Take off the air cleaner.",
+        "Push the hand choke knob in to 1/8\" from the instrument panel.",
+        "Loosen the cable at the carburetor bracket and slide it through the clip until the choke valve is fully open.",
+        "Tighten the cable clamp and check that the choke valve reaches both fully closed and wide open."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Instrument hook-up",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "vacuum gauge",
+        "dwell meter",
+        "tachometer",
+        "timing light"
+      ],
+      "steps": [
+        "Connect the vacuum gauge, dwell meter, tachometer and timing light per the equipment maker's instructions."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Dwell: check and adjust (V8)",
+      "topic": "engine",
+      "applies_to": "all models (V8)",
+      "parts": [
+        "distributor",
+        "dwell adjusting screw",
+        "Allen wrench"
+      ],
+      "steps": [
+        "Start the engine and read dwell.",
+        "If out of spec, with the engine idling lift the window in the distributor cap and put an Allen (hex) wrench in the adjusting screw socket (see figure 12 in the manual).",
+        "Turn the screw until dwell reads 30°.",
+        "Close the window fully to keep dirt out."
+      ],
+      "specs": [
+        {
+          "what": "V8 dwell",
+          "value": "30° (2° variation allowed for wear)"
+        }
+      ],
+      "notes": [
+        "Without a dwell meter: turn the screw clockwise until the engine begins to misfire, then back it off 1/2 turn."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Dwell variation: check",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "distributor shaft",
+        "distributor bushing",
+        "breaker plate"
+      ],
+      "steps": [
+        "Slowly bring the engine up to 1500 rpm and note dwell.",
+        "Return to idle and note dwell again.",
+        "If the difference is over spec, look for a worn distributor shaft or bushing or a loose breaker plate."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ignition timing: check and adjust",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "distributor spark advance hose",
+        "timing light",
+        "timing tab"
+      ],
+      "steps": [
+        "Disconnect the distributor spark advance hose and plug the vacuum source (see figure 13 in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

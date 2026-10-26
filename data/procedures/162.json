@@ -1,0 +1,32 @@
+{
+  "page": 162,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-3",
+  "procedures": [
+    {
+      "title": "Corvette rear suspension: general description",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "differential carrier",
+        "strut rods",
+        "axle drive shafts",
+        "torque control arms",
+        "transverse leaf spring",
+        "pivot bolts",
+        "rubber bushings",
+        "wheel spindles",
+        "spindle supports",
+        "toe-in shims"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Independent three-link layout: the differential carrier is fixed and rubber mounted to the frame at 3 points; at each wheel the strut rod, drive shaft and torque control arm form the three links, with a multi-leaf spring mounted crosswise (see figure 5 in the manual).",
+        "The torque control arms are box-section trailing arms; their front ends sit in openings in the frame side members on pivot bolts and rubber bushings, and their rear ends connect to the leaf spring.",
+        "Each wheel spindle and spindle support bolts to its torque control arm with 4 bolts pressed into the arm.",
+        "Rear toe-in is set with shims of different thicknesses fitted between the torque arm and the frame side member web at the front pivot."
+      ],
+      "continues": true
+    }
+  ]
+}

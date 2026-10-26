@@ -1,0 +1,41 @@
+{
+  "page": 346,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-17",
+  "procedures": [
+    {
+      "title": "Transmission side cover (Muncie 4-speed): remove, overhaul and install",
+      "applies_to": "Muncie 4-speed",
+      "topic": "transmission",
+      "parts": [
+        "side cover",
+        "control rods",
+        "outer shifter levers",
+        "shift forks",
+        "shifter shaft and detent plate assemblies",
+        "side cover lip seals",
+        "detent cams",
+        "detent cam spring",
+        "pivot C-ring"
+      ],
+      "steps": [
+        "Removal: unhook the control rods from the levers.",
+        "Put the transmission in second by moving the 1-2 (rear cover) lever to its forward detent.",
+        "Lift the cover off the case carefully and let the oil drain.",
+        "Disassembly: remove the outer lever nuts, lock washers and flat washers, and pull the levers off the shafts.",
+        "Take both forks off the shifter shaft/detent plate assemblies, then pull both shaft assemblies from the cover; pry out the cover lip seals only if damaged.",
+        "Mark the parts so they go back in the same relationship.",
+        "Remove the detent cam spring and pivot C-ring, then both detent cams.",
+        "Replace parts as needed.",
+        "Assembly: put the 1-2 detent cam on the pivot pin first, then the 3-4 cam, so the spring notches are offset (opposite each other) and face downward.",
+        "Fit the C-ring on the pivot shaft and hook the spring into the cam notches.",
+        "Insert both shaft assemblies without damaging the lip seals; fit the forks to the detent plates, lifting the detent cam so they seat fully.",
+        "Fit the outer levers with flat washers, lock washers and nuts."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 20 in the manual for the cover parts."
+      ],
+      "continues": true
+    }
+  ]
+}

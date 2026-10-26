@@ -1,0 +1,45 @@
+{
+  "page": 587,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Transmission specifications: four speed (Muncie) torques",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "Muncie four-speed transmission"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "clutch gear bearing retainer to case bolts",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "cover to case bolts",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "extension and retainer to case bolts (upper)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "extension and retainer to case bolts (lower)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "lubrication filler plug",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "shift lever to shifter shaft nut",
+          "value": "20 lb. ft."
+        }
+      ],
+      "notes": [
+        "Section 7. The page also has torque tables for the Saginaw three-speed, Warner three-speed and Saginaw four-speed; they name no models, and only the Muncie four-speed table is kept here as the Corvette four-speed."
+      ],
+      "continues": false
+    }
+  ]
+}

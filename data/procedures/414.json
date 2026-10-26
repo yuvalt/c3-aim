@@ -1,0 +1,34 @@
+{
+  "page": 414,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-27",
+  "procedures": [
+    {
+      "title": "Steering column: install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering column",
+        "column mounting bracket",
+        "support plate",
+        "steering coupling",
+        "steering shaft flange",
+        "upper clamp bolt",
+        "support",
+        "seal",
+        "clamp",
+        "upper and lower covers"
+      ],
+      "steps": [
+        "Corvette: loosely fasten the column mounting bracket to the support plate and instrument panel with washers and bolts (see figure 56 in the manual).",
+        "Fasten the column's flanged end to the steering coupling with lock washers and nuts; on the Corvette, slide the shaft flange into the lower coupling half and fit the upper clamp bolt loosely, and loosely fit the support, seal and clamp at the dash on the engine side.",
+        "Tighten the instrument panel mounting bracket bolts and nuts to the spec at the rear of the manual.",
+        "Corvette: slide the upper and lower covers into place at the instrument panel and fasten them with screws, then position the upper and lower covers and screw them together (see figure 14 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Bracket, shim and cover steps for Chevrolet, Chevelle, Camaro and Chevy II are omitted."
+      ],
+      "continues": true
+    }
+  ]
+}

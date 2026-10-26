@@ -1,0 +1,80 @@
+{
+  "page": 396,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-9",
+  "procedures": [
+    {
+      "title": "Steering coupling: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering coupling",
+        "transmission controls"
+      ],
+      "steps": [
+        "Reconnect the transmission controls to the shift levers at the column bottom, if fitted.",
+        "Reconnect the battery ground cable."
+      ],
+      "specs": [
+        {
+          "what": "flexible coupling clearance (Chevrolet, Chevelle, Corvette; figure 16)",
+          "value": "1/4\" to 3/8\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering gear: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering gear",
+        "steering coupling",
+        "pitman arm",
+        "sector shaft"
+      ],
+      "steps": [
+        "Removal: remove the nuts, lock washers and bolts at the steering coupling.",
+        "Remove the pitman arm nut and washer from the sector shaft and mark the arm's position on the shaft.",
+        "Pull the pitman arm with tool J-6632 (see figure 3 in the manual).",
+        "Remove the gear-to-frame fasteners and lift the gear out.",
+        "Installation: position the gear so the coupling seats properly on the steering shaft's flanged end; on the Corvette, fasten the gear to the frame with bolts, washers and nuts.",
+        "Keep the coupling clearance shown in figure 16 in the manual.",
+        "Refit the pitman arm on the removal marks with its washer and retaining nut.",
+        "Fasten the coupling to the column's flanged end with lock washers and nuts."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sector shaft seal: replace (gear in car)",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "sector shaft seal",
+        "sector shaft",
+        "side cover",
+        "side cover gasket",
+        "lash adjuster screw"
+      ],
+      "steps": [
+        "Remove the pitman arm as described under steering gear adjustment.",
+        "Loosen the lash adjuster locknut and back the adjuster screw out several turns.",
+        "Remove the 3 cap screws holding the side cover to the gear.",
+        "Pull the side cover and sector shaft out of the housing together; do not separate them.",
+        "Hook or pry the old sector shaft seal out of the housing.",
+        "Grease the new seal with chassis grease and set it in the sector shaft bore.",
+        "Drive the seal home with a suitably sized socket or pipe and a soft hammer.",
+        "Refit the sector shaft and side cover, protecting the new seal from the shaft splines (a few wraps of tape over the splines works).",
+        "Fit a new side cover gasket, align the cover on the housing and install the cap screws.",
+        "Adjust the gear and refit the pitman arm as under Maintenance and Adjustments."
+      ],
+      "specs": [],
+      "notes": [
+        "The standard Corvette column resembles the automatic/floor-shift column of other models but has no shift tube."
+      ],
+      "continues": false
+    }
+  ]
+}

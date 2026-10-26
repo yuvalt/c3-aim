@@ -1,0 +1,51 @@
+{
+  "page": 267,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-35",
+  "procedures": [
+    {
+      "title": "Timing chain and/or sprockets (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "camshaft sprocket bolts",
+        "timing chain",
+        "crankcase front cover",
+        "torsional damper"
+      ],
+      "steps": [
+        "Pull the cam sprocket onto the camshaft with its 3 bolts and torque them to specifications.",
+        "Oil the timing chain with engine oil.",
+        "Install the front cover and torsional damper."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Camshaft (V8): measure lobe lift",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "push rods",
+        "dial indicator",
+        "Tool J-8520",
+        "auxiliary starter switch"
+      ],
+      "steps": [
+        "Remove the valve mechanism.",
+        "Set a dial indicator with ball socket adapter J-8520 on the push rod (see figure 25V in the manual).",
+        "Slowly turn the damper in the direction of rotation until the lifter is on the heel of the lobe (push rod at its lowest).",
+        "Zero the indicator, then turn the damper slowly, or bump the engine with an auxiliary starter switch, until the push rod is fully raised.",
+        "Compare the total lift with specifications.",
+        "Keep turning until the indicator returns to zero, to confirm the first reading.",
+        "If all lobes are within spec, remove the indicator."
+      ],
+      "specs": [],
+      "notes": [
+        "If valve operation seems wrong, measure every push rod's lift in order and record the readings; the method is like checking valve timing.",
+        "CAUTION: when bumping the engine, disconnect the primary distributor lead from the coil negative post and have the ignition switch ON, or the switch grounding circuit will be damaged."
+      ],
+      "continues": true
+    }
+  ]
+}

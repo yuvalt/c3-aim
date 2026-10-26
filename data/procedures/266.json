@@ -1,0 +1,29 @@
+{
+  "page": 266,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-34",
+  "procedures": [
+    {
+      "title": "Timing chain and/or sprockets (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "timing chain",
+        "camshaft sprocket",
+        "crankshaft sprocket",
+        "camshaft sprocket bolts"
+      ],
+      "steps": [
+        "Remove the torsional damper and front cover.",
+        "Turn the engine until the camshaft and crankshaft sprocket marks line up (see figure 19V in the manual).",
+        "Remove the 3 camshaft sprocket bolts.",
+        "Take off the cam sprocket and chain together; if the sprocket (a light press fit) sticks, tap its lower edge lightly with a plastic hammer.",
+        "To replace the crank sprocket, pull it with J-5825 on 327 (302/307/350) engines or J-1619 on 427 (396) engines, and install the new one with J-5590 on 327 (302/307/350) or J-21058 on 427 (396) (see figures 20V-23V in the manual).",
+        "Hang the chain on the cam sprocket, holding the sprocket vertical with the chain below, and line up the marks on both sprockets (see figure 19V in the manual).",
+        "Line up the camshaft dowel with the sprocket dowel hole and fit the sprocket on the camshaft (see figure 24V in the manual); never drive it on, or the welsh plug at the rear of the engine may be knocked out."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "page": 287,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Air Cleaners, p.6M-13",
+  "procedures": [
+    {
+      "title": "Polyurethane air cleaner element: clean",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "air cleaner cover",
+        "wing nut"
+      ],
+      "steps": [
+        "Refit the cover and wing nut."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Oil wetted paper air cleaner element: replace",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "paper element",
+        "air cleaner bottom",
+        "air horn gasket",
+        "cover",
+        "wing nut",
+        "washer"
+      ],
+      "steps": [
+        "Remove the wing nut, washer and cover.",
+        "Take out and discard the paper element.",
+        "Lift off the air cleaner bottom and discard the air horn gasket.",
+        "Clean the bottom and cover thoroughly (do not soak the bottom of a thermostatic air cleaner in solvent).",
+        "Check the bottom section seal for tears or cracks.",
+        "Put a new gasket on the air horn and set the bottom on the carburetor.",
+        "Fit the new element, either end up (both ends have the same plastisol seal).",
+        "Refit the cover, washer and wing nut."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Oil wetted paper air cleaner element: clean",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "paper element",
+        "air cleaner cover",
+        "air cleaner bottom"
+      ],
+      "steps": [
+        "Remove the element.",
+        "Check the top and bottom seals; they must be smooth and even, with no distortion or cracks.",
+        "Hold the element up to a light bulb and look through it for punctures or splits.",
+        "Tap it on a smooth flat surface to shake dirt out without damaging it; compressed air may be used very gently, blowing against the normal flow direction.",
+        "Clean the inside of the cover and bottom; dry thoroughly if washed in solvent (never soak a thermostatic air cleaner bottom).",
+        "Reinstall the element."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Thermostatically controlled air cleaner: inspect and test",
+      "topic": "fuel",
+      "applies_to": "all models (where thermostatic air cleaner fitted)",
+      "parts": [
+        "temperature sensor",
+        "vacuum motor",
+        "control damper",
+        "heat pipe",
+        "vacuum hoses"
+      ],
+      "steps": [
+        "Visual: check the heat pipe and hoses are connected properly and securely, and replace kinked or deteriorated hoses.",
+        "Operational: remove the cover and place a thermometer as close as possible to the sensor.",
+        "If the engine is warm, let it cool below 85°F; refit the cover without its wing nut.",
+        "Start and idle the engine; when the damper starts to open, lift the cover and read the temperature, which must be 85° to 115°F (a mirror helps if the snorkel position hides the damper).",
+        "If the damper does not open at the right temperature, go on to the vacuum motor and sensor checks.",
+        "With the engine off, the damper should be in the cold air delivery position."
+      ],
+      "specs": [
+        {
+          "what": "damper opening temperature",
+          "value": "85° to 115°F"
+        }
+      ],
+      "notes": [
+        "The system keeps carburetor inlet air at 100°F or more for better operation and warm-up; it has a temperature sensor, vacuum motor and damper in the air cleaner, vacuum hoses, an exhaust manifold heat stove and pipes (see figure 6A in the manual)."
+      ],
+      "continues": true
+    }
+  ]
+}

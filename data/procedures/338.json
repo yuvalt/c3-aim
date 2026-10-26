@@ -1,0 +1,75 @@
+{
+  "page": 338,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-9",
+  "procedures": [
+    {
+      "title": "Transmission side cover (Saginaw 3-speed): remove, overhaul and install",
+      "applies_to": "Saginaw 3-speed",
+      "topic": "transmission",
+      "parts": [
+        "side cover",
+        "outer shifter levers",
+        "shift forks",
+        "shifter shaft assemblies",
+        "shifter shaft O-ring seals",
+        "detent cams",
+        "detent cam spring",
+        "detent cam pivot C-ring",
+        "cover gasket"
+      ],
+      "steps": [
+        "Removal: unhook the control rods from the levers (remove the 2-3 cross shaft on Chevrolet).",
+        "Put the transmission in the neutral detents before taking off the cover.",
+        "Lift the cover off the case carefully and let the oil drain.",
+        "Disassembly: remove the outer shifter levers.",
+        "Take both shift forks off the shifter shafts, then pull both shifter shafts out of the cover; pry out the shaft O-rings only if they are damaged and need replacing.",
+        "Remove the detent cam spring and the pivot C-ring, then both detent cams.",
+        "Replace any damaged parts.",
+        "Assembly: with the detent spring tang sticking up over the 2nd/3rd shaft opening, put the 1st/reverse detent cam on the pivot pin; with the tang up over the 1st/reverse shaft hole, fit the 2nd/3rd detent cam.",
+        "Fit the C-ring on the pivot shaft and hook the spring into the cam notches.",
+        "Insert both shifter shafts in the cover without harming the seals; fit both forks, lifting the detent cam so they seat fully.",
+        "Fit the outer shifter levers with flat washers, lock washers and bolts.",
+        "Installation: put the shifter levers in the center (neutral) detent and lay the gasket on the case.",
+        "Set the cover in place with each fork engaged in its mainshaft clutch sliding sleeve.",
+        "Install the cover bolts and tighten evenly to specified torque.",
+        "Remove the filler plug and fill with the lubricant listed in Section 0 up to the filler hole."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 11 in the manual for the cover parts."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Transmission side cover (Warner 3-speed): remove, overhaul and install",
+      "applies_to": "Warner 3-speed",
+      "topic": "transmission",
+      "parts": [
+        "side cover",
+        "shifting forks",
+        "shift lever shafts",
+        "outer shift levers",
+        "poppet balls",
+        "poppet spring",
+        "interlock pin",
+        "interlock sleeve",
+        "O-ring seals",
+        "side cover gasket"
+      ],
+      "steps": [
+        "Removal: drain the transmission and unhook the control rod and cross shaft from the side cover levers.",
+        "Remove the nine cap screws and take off the cover with forks and gasket.",
+        "Disassembly: take the forks off the shift lever assemblies.",
+        "Remove the nut and lock washer from each shift lever shaft.",
+        "Remove the outer levers and tap the shafts lightly out of the cover.",
+        "Remove the two steel balls, poppet spring, interlock pin and interlock sleeve.",
+        "Remove the O-rings from the shafts.",
+        "Assembly: fit new O-rings to the shafts.",
+        "Install the low/reverse shifter shaft and plate in the cover."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

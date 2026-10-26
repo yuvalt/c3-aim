@@ -1,0 +1,35 @@
+{
+  "page": 299,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-2",
+  "procedures": [
+    {
+      "title": "Battery replacement: selecting a unit",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "Read the Peak Watt Rating (PWR) embossed near the base of the battery case.",
+        "Choose a replacement battery whose power rating is at least equal to the original."
+      ],
+      "specs": [],
+      "notes": [
+        "The PWR (max current times max voltage) measures cold cranking ability and is not the same as the ampere-hour rating; two batteries with equal ampere-hour ratings can have very different watt ratings."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Dry charge battery: activate",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "Delco Eye vent plug"],
+      "steps": [
+        "Break the hard rubber seal in each vent well by pressing the Delco Eye down into the well; the seals may stay in the cells, they are inert.",
+        "Fill every cell with electrolyte (dilute sulfuric acid, specific gravity 1.265 at 80°F).",
+        "Stop filling a cell when the electrolyte reaches the bottom of the split vent at the base of the vent well; the surface looks distorted when it touches the split vent (see figure 4b in the manual)."
+      ],
+      "specs": [{"what": "activation electrolyte specific gravity", "value": "1.265 at 80°F"}],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

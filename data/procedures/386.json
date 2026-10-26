@@ -1,0 +1,41 @@
+{
+  "page": 386,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-15",
+  "procedures": [
+    {
+      "title": "Muffler, rear exhaust and tail pipes: replace",
+      "topic": "exhaust",
+      "applies_to": "Corvette",
+      "parts": ["muffler", "rear exhaust pipe", "tail pipes", "U bolt clamps", "rear muffler bracket", "bracket mounting insulators", "tail pipe bezel"],
+      "steps": [
+        "Remove the U bolts at both rear tail pipes and take off the tail pipes.",
+        "Loosen the U bolt nuts and separate the system at the crossmember tube.",
+        "Remove the rear muffler bracket screws and slide the muffler system rearward.",
+        "Measure the service muffler's pipe end first, then cut the exhaust pipe near the muffler leaving enough for 1-1/2\" of engagement into the service muffler pipe.",
+        "Fit the new muffler and secure it with new clamps, nuts facing the rear of the car and set 90° to the sawcuts in the service muffler pipe.",
+        "Reassemble in reverse order.",
+        "Replace any fatigued bracket insulators (tire carcass mountings).",
+        "If the tail pipe bezel is damaged, remove its 3 screws and replace it."
+      ],
+      "specs": [{"what": "exhaust pipe engagement into service muffler", "value": "1-1/2\""}],
+      "notes": ["See figure 22 in the manual."],
+      "continues": false
+    },
+    {
+      "title": "Front exhaust pipes: replace",
+      "topic": "exhaust",
+      "applies_to": "Corvette",
+      "parts": ["front exhaust pipes", "manifold nuts", "exhaust packings", "clamps"],
+      "steps": [
+        "Remove the pipe-to-manifold nuts, extensions and packings.",
+        "Remove the clamps just ahead of the transmission crossmember and take out the front pipe.",
+        "To install, join the front pipe to the rear pipe, then attach it at the manifold with new packings and nuts.",
+        "Clean the manifold stud threads before fitting new nuts.",
+        "Check exhaust system clearances before tightening nuts and clamps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

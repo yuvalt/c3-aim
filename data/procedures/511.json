@@ -1,0 +1,45 @@
+{
+  "page": 511,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-57",
+  "procedures": [
+    {
+      "title": "Horn relay-buzzer: buzzer check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "horn relay-buzzer",
+        "ignition switch"
+      ],
+      "steps": [
+        "If the buzzer now works, check the ignition switch and its wiring.",
+        "If it still does not, connect a voltmeter from terminal No. 1 to ground.",
+        "Zero volts means an open circuit between that point and the battery.",
+        "If voltage is present, replace the horn relay-buzzer."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Horn relay-buzzer: horn relay check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "horn relay-buzzer",
+        "horn switch",
+        "horns"
+      ],
+      "steps": [
+        "Remove the horn relay-buzzer and find terminals No. 2 and No. 3.",
+        "Jumper terminal No. 2 to ground (use a prod in the connector for slip-on terminals).",
+        "If the horns sound, check the No. 2 terminal wire and the horn switch.",
+        "If they do not, keep No. 2 grounded and connect a voltmeter from No. 3 to ground.",
+        "With a reading, check the horn wiring and horns.",
+        "With no reading, replace the horn relay-buzzer."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

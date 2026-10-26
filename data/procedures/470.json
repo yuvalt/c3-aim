@@ -1,0 +1,50 @@
+{
+  "page": 470,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-16",
+  "procedures": [
+    {
+      "title": "Ignition switch replacement",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "ignition switch",
+        "lock cylinder",
+        "ignition switch bezel nut",
+        "\"CORVETTE\" cover plate",
+        "battery ground cable"
+      ],
+      "steps": [
+        "Tilt the driver seat back forward, open the battery compartment and disconnect the battery ground cable.",
+        "Remove the screws holding the \"CORVETTE\" cover plate at the top center of the cluster.",
+        "Turn the switch to \"ACC\", push a wire into the small hole in the lock cylinder face to depress the plunger, and keep turning the key counterclockwise until the cylinder comes out.",
+        "Remove the switch bezel nut and pull the switch out from under the dash.",
+        "With a screwdriver, release the \"theft resistant\" locking tangs on the connector (see figure 24 in the manual) and unplug it.",
+        "Snap the connector onto the new switch.",
+        "Fit the switch from behind the instrument panel and install the bezel nut from the front.",
+        "Refit the lock cylinder.",
+        "Finish assembly in reverse order and reconnect the battery ground cable."
+      ],
+      "specs": [],
+      "notes": [
+        "The manual says steps 2 to 8 of the general ignition switch procedure apply to Corvette; they are merged in here."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Lighting (headlamp) switch replacement",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "headlamp switch",
+        "battery ground cable"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Pull the headlamp knob out to \"ON\"..."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

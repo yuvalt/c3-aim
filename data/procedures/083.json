@@ -1,0 +1,89 @@
+{
+  "page": 83,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-64",
+  "procedures": [
+    {
+      "title": "Four-Season A/C wiring and control operation",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "blower motor",
+        "blower resistor",
+        "blower relay",
+        "thermal switch",
+        "hot water valve",
+        "diverter door switch",
+        "vacuum switches",
+        "fan speed switch",
+        "low blower switch",
+        "compressor clutch coil",
+        "in-line fuse",
+        "inside air (I.A.) valve",
+        "outside air (O.A.) plenum valve"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "fan switch OFF",
+          "value": "contacts 1 to none"
+        },
+        {
+          "what": "fan switch LOW",
+          "value": "contacts 1 to 2; R1 in series with blower"
+        },
+        {
+          "what": "fan switch MED",
+          "value": "contacts 1 to 2 & 3; R1 & R2 paralleled"
+        },
+        {
+          "what": "fan switch HIGH",
+          "value": "contacts 1 to 2 & 4; no resistance"
+        },
+        {
+          "what": "outlets dial A/C (upper)",
+          "value": "vac ports 1 to 2 connected, 3 vented; diverter switch closed"
+        },
+        {
+          "what": "outlets dial A/C (bi-level)",
+          "value": "no ports connected, 2 & 3 vented; diverter switch closed"
+        },
+        {
+          "what": "outlets dial HTR / DE-ICE",
+          "value": "vac ports 1 to 3 connected, 2 vented; lower outlets; diverter switch open"
+        },
+        {
+          "what": "temp dial OFF",
+          "value": "low blower contacts 2 to none; vac ports 1 to 3 connected, 2 vented"
+        },
+        {
+          "what": "temp dial VENT",
+          "value": "low blower contacts 2 to 1; no ports connected, 2 & 3 vented; outside air"
+        },
+        {
+          "what": "temp dial COLD recirc",
+          "value": "vac ports 1 to 3 connected, 2 vented; inside air"
+        },
+        {
+          "what": "temp dial COLD O.A.",
+          "value": "no ports connected, 2 & 3 vented"
+        },
+        {
+          "what": "temp dial hot water valve opened to HOT",
+          "value": "vac ports 1 to 2 connected, 3 vented; outside air"
+        },
+        {
+          "what": "low blower switch, COLD through HOT",
+          "value": "all contacts made (1 to 2 to 3 to 4), normally closed push-button switch"
+        }
+      ],
+      "notes": [
+        "See figure 89 in the manual (Corvette Four-Season wiring diagram).",
+        "Feed comes from the horn relay BAT terminal through an in-line fuse holder (10 R wire, then 12 OR).",
+        "With the temp dial at COLD or HOT, the fan runs on LOW even with the fan switch OFF.",
+        "Shown at COLD (recirc): the inside air valve is normally closed and spring held; the outside air (plenum) valve is normally open and spring held.",
+        "The thermal switch opens below freezing; the diverter door switch is normally closed (push button) and the diverter door is spring held in bi-level position."
+      ],
+      "continues": false
+    }
+  ]
+}

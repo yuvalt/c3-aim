@@ -1,0 +1,31 @@
+{
+  "page": 393,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-6",
+  "procedures": [
+    {
+      "title": "Steering wheel (Corvette telescoping): remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "telescoping steering wheel",
+        "horn button cap",
+        "horn contact",
+        "spacer",
+        "hub",
+        "lock screw",
+        "lock knob"
+      ],
+      "steps": [
+        "Removal: unplug the column harness at the wiring connector (see figure 13 in the manual).",
+        "Disconnect the battery ground cable.",
+        "Pry off the horn button cap.",
+        "Remove the 3 screws holding the horn contact to the spacer and hub.",
+        "Remove the 2 screws holding the lock screw to the lock knob; take out the lock screw, lock knob and spacer.",
+        "To replace only the wheel, remove the 6 screws holding the wheel to the hub and lift the wheel off; to replace the cancelling cam, skip this and go on to the next steps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

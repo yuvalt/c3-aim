@@ -1,0 +1,113 @@
+{
+  "page": 590,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Steering specifications: torque chart",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering gear",
+        "pitman shaft",
+        "steering wheel",
+        "tie rods",
+        "idler arm",
+        "steering damper",
+        "power steering pump",
+        "power cylinder",
+        "control valve"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "steering gear mounting bolts",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "pitman shaft nut",
+          "value": "140 lb. ft."
+        },
+        {
+          "what": "steering wheel nut",
+          "value": "35 lb. ft."
+        },
+        {
+          "what": "steering wheel nut - tilt",
+          "value": "—"
+        },
+        {
+          "what": "steering coupling nuts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "steering coupling clamp bolts",
+          "value": "—"
+        },
+        {
+          "what": "tie rod end nut",
+          "value": "35 lb. ft."
+        },
+        {
+          "what": "tie rod clamp nut",
+          "value": "130 lb. in."
+        },
+        {
+          "what": "idler arm mounting nut",
+          "value": "40 lb. ft."
+        },
+        {
+          "what": "steering wheel to hub (wood)",
+          "value": "25 lb. in."
+        },
+        {
+          "what": "steering damper bracket frame nut",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "steering damper bracket relay end nut",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "steering damper to bracket nut",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "steering damper bracket relay rod bolt",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "power steering pump pulley",
+          "value": "60 lb. ft."
+        },
+        {
+          "what": "power steering mounting bolt",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "power steering mounting nut",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "power cylinder to relay rod nut",
+          "value": "45 lb. ft."
+        },
+        {
+          "what": "power cylinder to frame bracket",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "control valve to pitman arm",
+          "value": "45 lb. ft."
+        },
+        {
+          "what": "control valve clamp bolt",
+          "value": "20 lb. ft."
+        }
+      ],
+      "notes": [
+        "Corvette column; a dash means no value listed for Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

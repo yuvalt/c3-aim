@@ -1,0 +1,85 @@
+{
+  "page": 319,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-22",
+  "procedures": [
+    {
+      "title": "Dwell angle: set (V8 distributor)",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["distributor", "dwell meter", "test lamp"],
+      "steps": [
+        "Off the car, distributor tester: mount the distributor on the machine, connect the dwell meter to the primary lead and turn the adjusting screw for 30 degrees.",
+        "Off the car, test light: clamp the distributor in a vise and connect a test lamp to the primary lead.",
+        "Turn the shaft until a cam lobe sits under the center of the breaker lever rubbing block.",
+        "Turn the adjusting screw clockwise until the lamp lights, then back it 1/2 turn counterclockwise."
+      ],
+      "specs": [{"what": "dwell, off-vehicle setting", "value": "30 degrees"}],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor condenser: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor condenser"],
+      "steps": [
+        "Use a tester that checks breakdown, insulation leakage, series resistance and capacity, following its maker's instructions."
+      ],
+      "specs": [{"what": "condenser capacity", "value": "18-:23 microfarads (as printed)"}],
+      "notes": [
+        "Breakdown is a direct short through the insulation and stops all condenser action.",
+        "Low insulation resistance (leakage) keeps the condenser from holding a charge; some leakage is acceptable.",
+        "High series resistance (broken lead strands or a bad connection) burns points and causes failure on first starts and at high speed.",
+        "Printed value reads \"18-:23 microfarads\"; most likely .18-.23 microfarads."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Distributor condenser: replace (V8)",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["distributor condenser", "condenser bracket", "distributor cap"],
+      "steps": [
+        "Remove the distributor cap.",
+        "Loosen the condenser lead screw and lift out the lead clip (see figure 6i in the manual).",
+        "Remove the screw holding the condenser bracket to the breaker plate and slide the condenser out of the bracket.",
+        "Install in reverse order, making sure the new lead sits in the correct position (figure 6i)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor (breaker point type): remove",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["ignition shield", "distributor", "distributor cap", "secondary leads", "primary lead", "vacuum line", "tachometer drive cable", "distributor hold-down clamp"],
+      "steps": [
+        "On radio-equipped Corvettes, remove the ignition shield over the distributor and coil: 1 bolt on top, 2 at the rear facing the firewall.",
+        "Release the cap hold-down screws and set the cap aside.",
+        "If needed, pull the plug wires from the cap after marking the No. 1 cylinder tower.",
+        "Disconnect the distributor primary lead at the coil.",
+        "Scribe a mark on the distributor bowl and the engine in line with the rotor segment.",
+        "Disconnect the vacuum line and the tachometer drive cable (Corvette).",
+        "Remove the hold-down bolt and clamp and lift the distributor out, noting how the vacuum advance unit faces the engine.",
+        "Do not turn the engine while the distributor is out, or timing will be lost."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor (breaker point type): disassemble",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor", "distributor drive gear"],
+      "steps": [
+        "Before taking it apart, preferably run the distributor on a test machine or synchroscope.",
+        "To mount it, clamp the gear in the test drive first, then push the housing down toward the gear to remove end play."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

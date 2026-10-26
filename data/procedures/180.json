@@ -1,0 +1,69 @@
+{
+  "page": 180,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-21",
+  "procedures": [
+    {
+      "title": "Rear transverse spring: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear leaf spring",
+        "center bolt",
+        "spring liners",
+        "main leaf cushion retainers",
+        "drift",
+        "center clamp plate",
+        "link bolt",
+        "castellated nut",
+        "cotter pin",
+        "rubber cushions",
+        "chain and C-clamp"
+      ],
+      "steps": [
+        "Repairs: clamp the spring center section in a vise and remove the center bolt (see figure 53 in the manual).",
+        "Open the vise, take the spring out and separate the leaves.",
+        "Replace worn or damaged liners and any broken leaves.",
+        "To replace main leaf cushion retainers, chisel off the flared part until the retainer can be knocked out of the leaf; put new retainers in and flare them over with a ball-peen hammer or similar tool.",
+        "Line up the leaves with a drift through the center bolt holes (see figure 54 in the manual); fit the center bolt and tighten it securely.",
+        "Installation: set the spring on the carrier cover mounting face with the center bolt head located in the hole in the cover.",
+        "Fit the center clamp plate with its 4 bolts and washers; torque the bolts to specification.",
+        "Jack the outer end of the spring until nearly flat and chain it as in removal step 3.",
+        "Lower the jack, line the torque control arm up with the spring end, and fit the link bolt, rubber cushions and retainers.",
+        "Run the castellated nut on the link bolt until the cotter pin hole shows; fit a new cotter pin and bend its ends around.",
+        "Jack up under the link bolt and remove the chain and C-clamp once loose.",
+        "Lower the jack slowly, keeping the rubber cushions seated in their retainers.",
+        "Remove the jack and repeat on the other side.",
+        "Refit wheels and tires, remove the frame supports and lower the car."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear torque control arm: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "torque control arm",
+        "rear spring",
+        "stabilizer shaft",
+        "shock absorber",
+        "strut rod shaft",
+        "axle drive shaft",
+        "spindle flange"
+      ],
+      "steps": [
+        "Disconnect the spring on the side being worked on (Spring Removal steps 1-6).",
+        "If fitted, disconnect the stabilizer shaft from the torque arm (see Stabilizer Shaft Replacement).",
+        "Take the shock absorber lower eye off the strut rod shaft.",
+        "Disconnect and remove the strut rod shaft and swing the strut rod down.",
+        "Remove the 4 bolts holding the axle drive shaft to the spindle flange and disconnect the drive shaft."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 55 in the manual shows the pivot bolt, torque arm and toe-in shims; figure 56 is a cross-section of the arm bushing (retainer, retainer plate, bushing)."
+      ],
+      "continues": true
+    }
+  ]
+}

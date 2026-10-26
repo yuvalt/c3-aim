@@ -1,0 +1,67 @@
+{
+  "page": 274,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Cooling, p.6K-3",
+  "procedures": [
+    {
+      "title": "Thermostat: replace and test",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "thermostat",
+        "water outlet",
+        "thermostat housing gasket",
+        "radiator hose"
+      ],
+      "steps": [
+        "Remove the radiator-to-water outlet hose.",
+        "Remove the housing bolts and take off the water outlet and gasket (see figure 2 in the manual).",
+        "Check the thermostat valve condition.",
+        "Put the thermostat fully under water 25° hotter than the temperature stamped on the valve and stir well; it should open fully.",
+        "Move it to water 10° below the stamped temperature, fully submerged and stirred; it should close completely.",
+        "If it passes, refit it with a new housing gasket.",
+        "Refill the cooling system."
+      ],
+      "specs": [
+        {
+          "what": "thermostat rating",
+          "value": "195°"
+        }
+      ],
+      "notes": [
+        "The thermostat sits in the housing at the cylinder head water outlet above the water pump."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Water pump: remove and install",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "water pump",
+        "pump-to-block gasket",
+        "fan",
+        "fan pulley",
+        "thermostatic fan clutch",
+        "heater hose",
+        "lower radiator hose",
+        "bypass hose"
+      ],
+      "steps": [
+        "Drain the radiator and break the fan pulley bolts loose.",
+        "Disconnect the heater hose, lower radiator hose and bypass hose at the pump as needed.",
+        "Loosen the Delcotron, take off the fan belt, then remove the fan bolts, fan and pulley.",
+        "Remove the pump-to-block bolts and take off the pump and old gasket.",
+        "Installation: fit the pump to the block with a new sealer-coated gasket and tighten the bolts securely.",
+        "Fit the pulley and fan on the pump hub and tighten securely; a 5/16\"-24 x 1-1/2\" bolt with its head cut off, screwed into one hub hole as a guide stud, helps line up hub, pulley and fan; remove it after starting the other 3 bolts.",
+        "Connect the hoses and refill the cooling system.",
+        "Install and adjust the fan belt.",
+        "Start the engine and check for leaks."
+      ],
+      "specs": [],
+      "notes": [
+        "Keep a thermostatic fan clutch in its in-car attitude; off the car, support it so the clutch disc stays vertical to stop silicone fluid leaking."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page": 539,
+  "source": "1968 Chevrolet Chassis Service Manual, Radiator and Grille, p.13-5",
+  "procedures": [
+    {
+      "title": "Radiator and shroud layout (Corvette)",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "radiator",
+        "fan shroud",
+        "radiator support",
+        "baffle brackets",
+        "upper support brackets",
+        "supply tank"
+      ],
+      "steps": [
+        "Refer to figure 5 in the manual for the assembled position of the radiator and shroud for each Corvette engine combination."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 5 shows four arrangements: 327 V8 without C60 (with a separate supply tank, view A); L88 427 V8 (no shroud); 327 V8 with C60 and 427 V8 except L88 without C60; 427 V8 with C60.",
+        "The figure marks a .75\" dimension at the fan within the shroud on the shrouded versions and a 2.0\" dimension at the fan on the L88 version."
+      ],
+      "continues": false
+    }
+  ]
+}

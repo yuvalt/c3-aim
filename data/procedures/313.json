@@ -1,0 +1,54 @@
+{
+  "page": 313,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-16",
+  "procedures": [
+    {
+      "title": "Delcotron brushes: replace (6.2\" Delcotron)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["brushes", "brush springs", "brush holder", "condenser", "terminal cover"],
+      "steps": [
+        "Check the brushes; replace them if worn halfway.",
+        "Check the brush springs for distortion or weakness; reuse them if the brushes look good and slide freely in the holder.",
+        "Push the brushes into the holder and insert the pin to hold them there.",
+        "Fasten the brush assembly and condenser to the end frame with the hex-head stud on the left side only.",
+        "Route the leads as in figure 18c of the manual, with the right-hand brush lead under the right-hand hex-head stud.",
+        "Fit the terminal cover with 2 screws, keeping all leads out from under it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Double contact voltage regulator: remove and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltage regulator", "battery ground cable", "wiring harness connector", "regulator cover gasket"],
+      "steps": [
+        "Disconnect the battery ground cable and the harness connector at the regulator.",
+        "Remove the screws holding the regulator to the car.",
+        "After any mechanical adjustment, check and adjust the electrical settings.",
+        "Before fitting the cover, make sure the rubber gasket is in place on the regulator base."
+      ],
+      "specs": [],
+      "notes": [
+        "Most adjustments are made on the car; remove the regulator only for field relay point and air gap work.",
+        "Never clean the voltage regulating contacts; their special material is ruined by any abrasive. Sooty or discolored contacts are normal after short use."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Field relay: mechanical adjustment",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["field relay", "armature stop", "flat contact spring"],
+      "steps": [
+        "Point opening: check as in figure 19c of the manual; if needed, carefully bend the armature stop.",
+        "Air gap: check with the points just touching (see figure 20c in the manual); it normally needs no adjustment."
+      ],
+      "specs": [],
+      "notes": ["A feeler gauge gives only an approximate voltage regulator air gap setting."],
+      "continues": true
+    }
+  ]
+}

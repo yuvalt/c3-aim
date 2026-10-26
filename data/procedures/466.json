@@ -1,0 +1,58 @@
+{
+  "page": 466,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-12",
+  "procedures": [
+    {
+      "title": "Rear lamp housing replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear lamp housings"
+      ],
+      "steps": [
+        "Refer to figure 21 in the manual for removal and installation of the Corvette rear lamp housings."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "License plate lamp housing replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "license plate lamp",
+        "grommet",
+        "ground wire"
+      ],
+      "steps": [
+        "Remove the lamp retaining screws and take the lamp off its mounting.",
+        "Unplug the lamp lead from the chassis harness connector (inside the trunk on some models).",
+        "Where used, push the grommet and lead down through the body opening and remove the lamp.",
+        "To install, feed the grommet and lead up through the opening where used and plug into the chassis harness.",
+        "Set the lamp in place and fit the screws; on Corvette make sure the ground wire is fitted correctly.",
+        "Check the lamp works."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "License plate lamp bulb replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "license plate lamp bulb",
+        "lens"
+      ],
+      "steps": [
+        "Remove the lens screws and lens.",
+        "Change the bulb.",
+        "Refit the lens and screws."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

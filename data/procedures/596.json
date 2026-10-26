@@ -1,0 +1,141 @@
+{
+  "page": 596,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Body and chassis electrical specifications: lamp usage",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "bulbs",
+        "lamps"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "side marker - front",
+          "value": "2 candle power, bulb 194A"
+        },
+        {
+          "what": "side marker - rear",
+          "value": "2 candle power, bulb 194"
+        },
+        {
+          "what": "license plate lamp",
+          "value": "4 candle power, bulb 67"
+        },
+        {
+          "what": "radio dial lamp",
+          "value": "2 candle power, bulb 1893"
+        },
+        {
+          "what": "brake alarm lamp",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "clock lamp",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "luggage compartment lamp",
+          "value": "15 candle power, bulb 1003"
+        },
+        {
+          "what": "underhood",
+          "value": "15 candle power, bulb 93"
+        }
+      ],
+      "notes": [
+        "Continued from the previous page. Rows with no model named are kept as general; the seat separator compartment/courtesy lamp rows (1445, 212) are omitted as they do not apply to the Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Body and chassis electrical specifications: fuses and circuit breaker",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "fuses",
+        "circuit breaker",
+        "fusible links"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "headlamp circuit",
+          "value": "circuit breaker in the light control switch"
+        },
+        {
+          "what": "power window, seat and top circuits",
+          "value": "30 amp circuit breaker on the firewall"
+        },
+        {
+          "what": "underhood and spot lamp circuit",
+          "value": "15 amp in-line fuse"
+        },
+        {
+          "what": "wiper/washer, 3 spd A/T downshift",
+          "value": "SAE/SFE 20 Amp."
+        },
+        {
+          "what": "back-up lamp, turn signal, Cruise Master, defogger",
+          "value": "SAE/SFE 20 Amp."
+        },
+        {
+          "what": "heater - air conditioning",
+          "value": "3AG/AGC 25 Amp."
+        },
+        {
+          "what": "radio, power window",
+          "value": "3AG/AGC 10 Amp."
+        },
+        {
+          "what": "tail, marker and fender lamps",
+          "value": "SAE/SFE 20 Amp."
+        },
+        {
+          "what": "instrument lamps (Chevrolet, Corvette)",
+          "value": "1AG/AGA 5 Amp."
+        },
+        {
+          "what": "gauges and tell-tale lamps",
+          "value": "3AG/AGC 10 Amp."
+        },
+        {
+          "what": "stop and hazard",
+          "value": "SAE/SFE 20 Amp."
+        },
+        {
+          "what": "clock, lighter, courtesy lamps, dome and luggage lamps",
+          "value": "SAE/SFE 20 Amp."
+        },
+        {
+          "what": "A/C high blower speed in-line fuse, Comforton and Four Season",
+          "value": "SAE 30 Amp."
+        },
+        {
+          "what": "fusible link, molded splice at solenoid \"Bat\" terminal (Corvette only)",
+          "value": "14 gauge brown wire"
+        },
+        {
+          "what": "fusible link, molded splice at the horn relay",
+          "value": "16 gauge black wire"
+        },
+        {
+          "what": "fusible link, molded splice in voltage regulator #3 terminal wire",
+          "value": "20 gauge orange wire"
+        },
+        {
+          "what": "fusible link, molded splice in ammeter circuit (both sides of meter)",
+          "value": "20 gauge orange wire"
+        }
+      ],
+      "notes": [
+        "Fuses are in the fuse panel under the instrument panel. The A/C high blower fuse sits in the wire from the horn relay to the A/C relay.",
+        "A circuit breaker opens and closes rapidly under overload, protecting the circuit until the fault is fixed.",
+        "The battery positive cable pigtail fusible link (14 gauge brown) is listed as except Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 65,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-46",
+  "procedures": [
+    {
+      "title": "Plenum (outside air inlet) valve: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "plenum valve",
+        "vacuum valve bracket",
+        "valve link",
+        "windshield wiper door",
+        "vent grille"
+      ],
+      "steps": [
+        "Remove the vacuum-operated windshield wiper door, the wiper arms, linkage and actuator, and the vent grille (see Section 12).",
+        "Remove the clip holding the valve link to the door and push the link up out of the door.",
+        "Remove the vacuum valve bracket screws and lift out the valve and bracket together.",
+        "Off the car, separate the valve from the bracket if needed.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 57 in the manual (Corvette air inlet valves)."
+      ],
+      "continues": false
+    }
+  ]
+}

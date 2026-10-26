@@ -1,0 +1,28 @@
+{
+  "page": 456,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-2",
+  "procedures": [
+    {
+      "title": "Electrical service precautions and fusible link replacement",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery",
+        "fusible links",
+        "wiring harness"
+      ],
+      "steps": [
+        "Disconnect the battery before any electrical work other than changing a bulb or fuse.",
+        "When replacing a fusible link, use wire of the same gauge with special hypalon insulation."
+      ],
+      "specs": [],
+      "notes": [
+        "Fusible links protect circuits that are not normally fused, such as ignition; each link is four wire gauges smaller than the cable it guards.",
+        "The gauge is marked on the link insulation because the thick insulation makes the link look heavier than it is.",
+        "Fiber optic lamp monitoring is standard on the 1968 Corvette; the lenses glow when exterior lights are on. Backup and marker lamps are not monitored.",
+        "Vacuum-operated headlamp covers are standard on the 1968 Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

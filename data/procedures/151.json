@@ -1,0 +1,67 @@
+{
+  "page": 151,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-12",
+  "procedures": [
+    {
+      "title": "Front coil spring: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "front coil spring",
+        "lower control arm",
+        "shock absorber",
+        "stabilizer bar link",
+        "lower control arm cross shaft"
+      ],
+      "steps": [
+        "Removal: take the nut, retainer and grommet off the top of the shock absorber.",
+        "On a hoist, support the front of the car so the control arms hang free.",
+        "Disconnect the stabilizer bar from the lower control arm; unbolt the shock from the lower arm and remove it.",
+        "Bolt tool J-22944 to a jack and place it under the lower arm so the arm bushings sit in the tool grooves (see figure 20 in the manual).",
+        "For safety, run a chain through the spring and the lower control arm.",
+        "Remove the cross shaft rear retaining nut and the two front retaining bolts.",
+        "Lower the jack slowly until the spring is free.",
+        "Take off the chain, swing the arm forward and lift out the spring.",
+        "Installation: seat the spring correctly on the control arm and raise the arm.",
+        "Align the arm to the crossmember with a large drift and fit the cross shaft retaining bolts; torque to specification.",
+        "Reconnect the stabilizer link and bolt the shock absorber to the lower arm.",
+        "Lower the car and fit the shock's upper grommet, retainer and nut."
+      ],
+      "specs": [],
+      "notes": [
+        "Tool: J-22944 spring remover (Corvette).",
+        "Figure 20 shows J-22944 on a jack under the Corvette lower control arm."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Lower control arm spherical joint: inspect",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "lower control arm spherical joint",
+        "upper spherical joint",
+        "lube fitting",
+        "ball stud"
+      ],
+      "steps": [
+        "Replace the lower joints whenever the upper joint inspection shows wear. Do the following only if both upper joints are within limits.",
+        "With the upper joints reconnected to the knuckles, let the car weight rest on the wheels or hubs.",
+        "Measure from the top of the lube fitting to the bottom of the ball stud with an outside micrometer or caliper; note it for each side.",
+        "Support the weight at the outer end of each lower arm so the wheels hang free and measure again.",
+        "If either side changes by more than 1/16\" (.0625\"), the joint is worn out: replace both lower joints.",
+        "If that passes (Chevrolet and Corvette only): clean out the lube hole in each joint and look for the liner partly or fully covering the opening; if so, replace both lower joints."
+      ],
+      "specs": [
+        {
+          "what": "lower joint wear limit (loaded vs unloaded change)",
+          "value": "1/16\" (.0625\")"
+        }
+      ],
+      "notes": [
+        "A lower joint is loose in its housing when it is not attached to the knuckle; this is normal."
+      ],
+      "continues": true
+    }
+  ]
+}

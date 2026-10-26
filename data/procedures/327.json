@@ -1,0 +1,42 @@
+{
+  "page": 327,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-30",
+  "procedures": [
+    {
+      "title": "Starting circuit: resistance check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltmeter", "battery", "solenoid", "starting motor", "distributor primary lead"],
+      "steps": [
+        "Ground the distributor primary lead so the engine will not fire.",
+        "With the starter switch closed and the motor cranking, read voltage drop across each section: battery positive post to solenoid battery terminal; battery negative post to starter housing; solenoid battery terminal to solenoid motor terminal.",
+        "A drop over 0.2 volts in any section means excess resistance there; find and fix it.",
+        "Never crank continuously for more than 30 seconds, to avoid overheating.",
+        "If the solenoid will not pull in, close the starter switch and read the drop from the solenoid BATTERY terminal to its SWITCH terminal; over 3.5 volts means excess resistance in the control circuit.",
+        "If that drop is 3.5 volts or less and the solenoid still will not pull in, read the voltage at the SWITCH terminal; a cool solenoid should pull in at 7.7 volts or more (a warm one needs somewhat more)."
+      ],
+      "specs": [
+        {"what": "max voltage drop per starting circuit section", "value": "0.2 volts"},
+        {"what": "max solenoid control circuit drop", "value": "3.5 volts"},
+        {"what": "solenoid pull-in voltage (cool)", "value": "7.7 volts or more"},
+        {"what": "max continuous cranking", "value": "30 seconds"}
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Starting motor and solenoid: check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["solenoid", "starting motor"],
+      "steps": [
+        "Only make these checks if battery specific gravity is 1.215 or higher.",
+        "If the solenoid does not pull in, read the voltage from the solenoid SWITCH terminal to ground with the starter switch closed; let a warm solenoid cool first.",
+        "Under 7.7 volts: look for excess resistance in the solenoid control circuit."
+      ],
+      "specs": [{"what": "minimum battery specific gravity for test", "value": "1.215"}],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

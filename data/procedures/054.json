@@ -1,0 +1,103 @@
+{
+  "page": 54,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-35",
+  "procedures": [
+    {
+      "title": "Compressor oil charge: check",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C compressor",
+        "refrigeration oil"
+      ],
+      "steps": [
+        "If installing a field-repaired compressor, put in 1 extra fluid oz. of oil.",
+        "If the compressor cannot be idled first (step 1) to bring oil back into it, take it off, drain the oil, measure it and throw it away.",
+        "If more than 1-1/2 fluid oz. came out and there is no sign of a major leak, put that same amount into the replacement compressor.",
+        "If less than 1-1/2 fluid oz. came out and the system seems to have lost a lot of oil, put 6 fluid oz. of clean refrigeration oil into a replacement compressor, or 7 fluid oz. into a repaired one.",
+        "If the drained oil has chips or other debris, replace the receiver-dehydrator, flush or replace parts as needed, and add the full specified oil volume to the system.",
+        "For any other parts being replaced, add oil: evaporator 3 fluid oz., condenser 1 fluid oz., receiver-dehydrator 1 fluid oz."
+      ],
+      "specs": [
+        {
+          "what": "oil for replacement evaporator",
+          "value": "3 fluid oz."
+        },
+        {
+          "what": "oil for replacement condenser",
+          "value": "1 fluid oz."
+        },
+        {
+          "what": "oil for replacement receiver-dehydrator",
+          "value": "1 fluid oz."
+        },
+        {
+          "what": "oil for replacement compressor (low drain, excessive loss)",
+          "value": "6 fluid oz."
+        },
+        {
+          "what": "oil for repaired compressor (low drain, excessive loss)",
+          "value": "7 fluid oz."
+        },
+        {
+          "what": "extra oil for field-repaired compressor",
+          "value": "1 fluid oz."
+        }
+      ],
+      "notes": [
+        "When pouring oil into the compressor, raise its rear end so oil does not escape from the suction and discharge ports; never stand the compressor on its shaft end."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigeration oil: add to the system",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigeration oil",
+        "charging station",
+        "POA valve"
+      ],
+      "steps": [
+        "Have the system fully assembled and with no refrigerant charge before adding oil.",
+        "Hook the charging station low pressure gauge line to the low pressure gauge fitting on the POA valve (Four-Season and Comfortron systems).",
+        "Hook the charging station high pressure line to the compressor muffler (or the high side of the connector block).",
+        "Disconnect the high pressure line at the gauge set, check it is clean, and set its end in a graduated container.",
+        "Pour enough refrigeration oil in the container for the required volume to be pulled into the system through the high pressure hose.",
+        "Close the gauge set high pressure valve and open the low pressure valve.",
+        "Run the vacuum pump to lower system pressure so atmospheric pressure pushes oil up the high pressure line.",
+        "Once the oil level has dropped by the required amount, lift the line out of the container and keep pumping to clear the oil in the line into the system.",
+        "Stop the vacuum pump and reconnect the high pressure line to the gauge set.",
+        "Open the high pressure valve and evacuate through both high and low sides.",
+        "Finish charging as in step 6 of Evacuating and Charging System."
+      ],
+      "specs": [],
+      "notes": [
+        "Use only clean Frigidaire 525 viscosity refrigeration oil."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A/C component replacement: preparing the system",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigerant circuit"
+      ],
+      "steps": [
+        "Read the earlier parts of this section before servicing.",
+        "Keep the work area clean and plug or cap every opened component and hose.",
+        "When a repair opens the refrigerant circuit, first purge the system by venting the refrigerant to atmosphere.",
+        "Remove and replace the faulty part.",
+        "Evacuate the system and charge it with R-12."
+      ],
+      "specs": [],
+      "notes": [
+        "Component procedures are grouped as All Systems, Four-Season and Comfortron, then Four-Season only, Comfortron only and GM Chevrolet Air Conditioner only.",
+        "Caution: wear protective goggles (J-5453, part of the A/C special tool set) on refrigeration work, and do not run the engine in a closed or poorly ventilated garage (carbon monoxide).",
+        "Any foreign material found in the system must be cleaned out before the system is put back in service."
+      ],
+      "continues": true
+    }
+  ]
+}

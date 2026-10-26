@@ -11,6 +11,7 @@
 - Forum post draft: `docs/forum_post.md`.
 
 ## Open issues
+- Service manual (1968 Chassis): 876 procedures in data/procedures/ (sheet metal 434-454 and accessories 554-571 skipped, no Corvette content). Scan is missing manual page 3-9 (steering knuckle, shock, stabilizer removal); PDF p147 is a splice, p148 repeats 3-7.
 - K3: coupe weatherstrip 3966561-2 missing its fastening link (only the convertible one has it). K8: 3856691 torque 25-35 vs remote control text 35-50. Review in M2.
 - Copyright: long procedure text on p143, 146, 147, 151, 153, 296 rewritten in own words (originals in work/notes_backup/, not committed). New extractions follow prompt rule 9.
 - p430 (U69 A6): two numbers unreadable, not in registry (option sheets aren't).

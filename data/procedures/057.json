@@ -1,0 +1,42 @@
+{
+  "page": 57,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-38",
+  "procedures": [
+    {
+      "title": "Condenser: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "condenser",
+        "receiver-dehydrator",
+        "headlamp actuators",
+        "hood",
+        "O-ring"
+      ],
+      "steps": [
+        "Purge the refrigerant from the system.",
+        "Scribe the hinge locations, then take the hood off.",
+        "Raise the headlamps and remove the headlamp actuator assemblies.",
+        "Remove the outer center screw of the receiver-dehydrator bracket.",
+        "Disconnect the receiver-dehydrator outlet fitting and the condenser inlet hose clamp; cap or tape both openings right away.",
+        "Remove the screws holding the condenser to the radiator support and lift out the condenser together with the receiver-dehydrator.",
+        "Install in reverse order, using a new O-ring coated with clean refrigeration oil on the receiver-dehydrator outlet line; torque that connection to 13 ft. lbs.",
+        "Evacuate, charge and check the system, adding 1 fluid oz. of refrigeration oil for a new condenser."
+      ],
+      "specs": [
+        {
+          "what": "receiver-dehydrator outlet line connection",
+          "value": "13 ft. lbs."
+        },
+        {
+          "what": "oil added with new condenser",
+          "value": "1 fluid oz."
+        }
+      ],
+      "notes": [
+        "See figure 43 in the manual (Corvette condenser)."
+      ],
+      "continues": false
+    }
+  ]
+}

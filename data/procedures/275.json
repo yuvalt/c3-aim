@@ -1,0 +1,60 @@
+{
+  "page": 275,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-1",
+  "procedures": [
+    {
+      "title": "Carburetors: general",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor"
+      ],
+      "steps": [
+        "Identify a carburetor by its part number and/or specifications; similar-looking units are often not interchangeable.",
+        "For overhaul and bench adjustments, use Section 6M of the Overhaul Manual for that carburetor; carburetor specifications are at the back of this manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: preliminary checks",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor attaching bolts",
+        "intake manifold bolts",
+        "manifold heat control valve"
+      ],
+      "steps": [
+        "Warm the engine fully; from cold, run it at least 15 minutes.",
+        "Check torque on the carburetor-to-manifold and manifold-to-head bolts to rule out air leaks.",
+        "Check the manifold heat control valve (if used) for free movement and proper spring tension."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Idle speed and mixture: adjust",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "idle mixture screws",
+        "idle speed screw"
+      ],
+      "steps": [
+        "Preliminary setting: turn each mixture screw lightly to its seat, then back out 3 turns (never tighten against the seat).",
+        "Engine at operating temperature, air cleaner on, pre-heater and choke valves wide open: set the idle speed screw to the specified rpm (automatic in Drive, manual in Neutral) (see figure 1C in the manual).",
+        "Turn the mixture screw for the highest steady idle, then reset the speed screw to the decal rpm.",
+        "Turn the mixture screw in for a 20 rpm drop (lean roll).",
+        "Back the mixture screw out 1/4 turn."
+      ],
+      "specs": [],
+      "notes": [
+        "With air conditioning, set idle with A/C OFF, except 325 hp and 350 hp 327 engines with manual transmission (and L-4/L-6 automatics), which are set with A/C ON."
+      ],
+      "continues": true
+    }
+  ]
+}

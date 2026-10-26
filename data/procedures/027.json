@@ -1,0 +1,28 @@
+{
+  "page": 27,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-8",
+  "procedures": [
+    {
+      "title": "Air conditioning: general description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "compressor",
+        "condenser",
+        "receiver-dehydrator",
+        "refrigerant lines",
+        "evaporator"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The section covers three systems: Four-Season (all vehicles, including Corvette), Comfortron (Chevrolet only) and the dealer-installed GM Chevrolet Air Conditioner (not Corvette).",
+        "Underhood parts (compressor, condenser, receiver-dehydrator) are similar in type, location and mounting across systems.",
+        "The compressor is a six-cylinder reciprocating unit, bracket-mounted on the engine and belt-driven from the crankshaft pulley.",
+        "The condenser sits in front of the engine radiator; the receiver-dehydrator is in the refrigerant line after the condenser.",
+        "All components are joined by flexible refrigerant lines."
+      ],
+      "continues": true
+    }
+  ]
+}

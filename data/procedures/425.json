@@ -1,0 +1,25 @@
+{
+  "page": 425,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-38",
+  "procedures": [
+    {
+      "title": "Power steering hoses: install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering hoses"
+      ],
+      "steps": [
+        "On the Corvette, always fit the hoses with the front wheels straight ahead.",
+        "Avoid any needless twisting of the hoses while fitting them."
+      ],
+      "specs": [],
+      "notes": [
+        "Misrouted hoses can chafe or be damaged in sharp turns.",
+        "Caution: never start the engine with any power steering hose disconnected.",
+        "Figure 67 in the manual includes a Corvette view of the hose routing between pump and control valve."
+      ],
+      "continues": false
+    }
+  ]
+}

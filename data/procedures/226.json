@@ -1,0 +1,41 @@
+{
+  "page": 226,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-25",
+  "procedures": [
+    {
+      "title": "Disc brake shoes: replace",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "shoe and lining assemblies",
+        "shoe retaining pin",
+        "cotter pin",
+        "main cylinder"
+      ],
+      "steps": [
+        "Siphon 2/3 of the fluid out of the main cylinder reservoirs.",
+        "Put the car on a hoist.",
+        "Remove the wheels.",
+        "Pull and discard the cotter pin from the inboard end of the shoe retaining pin and slide the pin out. Corvette heavy-duty brakes: remove both retaining pins, one at each end of the caliper.",
+        "Take out the inboard shoe by swinging either end out of the caliper and pulling it free.",
+        "Slide the new shoe in, using a putty knife to push each piston back as it goes in (see figure 38 in the manual).",
+        "Replace the outboard shoe the same way. Then push the retaining pin through outboard caliper half, outboard shoe, inboard shoe and inboard caliper half; fit a new 3/32 x 5/8 plated cotter pin and bend its ends back. Corvette heavy-duty front calipers: fit two retaining cotter pins, one at each end.",
+        "Repeat at each wheel being reshod.",
+        "Top up the main cylinder to the level shown in the manual's fluid level figure; bleed if needed.",
+        "Refit the wheels and lower the car."
+      ],
+      "specs": [
+        {
+          "what": "shoe retaining pin cotter pin",
+          "value": "3/32 x 5/8 plated"
+        }
+      ],
+      "notes": [
+        "CAUTION: if fluid is not removed first, pushing the pistons back for the thicker new linings will overflow the main cylinder. Do not empty the reservoirs or air will be pumped into the system.",
+        "CAUTION: do not move the car until the pedal is firm.",
+        "The text cites figure 8 for the fluid level; the level diagram is figure 7."
+      ],
+      "continues": false
+    }
+  ]
+}

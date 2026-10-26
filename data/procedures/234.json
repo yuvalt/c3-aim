@@ -1,0 +1,51 @@
+{
+  "page": 234,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-2",
+  "procedures": [
+    {
+      "title": "Compression test",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "compression gauge",
+        "ignition coil",
+        "ignition switch"
+      ],
+      "steps": [
+        "Crank the engine through at least 4 compression strokes to get the highest reading.",
+        "Check and write down the compression of every cylinder.",
+        "If any cylinders are low or uneven, squirt about a tablespoon of engine oil onto the pistons of the low cylinders through the plug hole, crank several times and test again.",
+        "If compression rises but not necessarily to normal, the rings are worn.",
+        "If compression does not rise, the valves are burned, sticking or not seating.",
+        "If two neighboring cylinders are low and oil does not help, suspect a head gasket leak between them (coolant and/or oil in the cylinders can result)."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: whenever the engine is cranked remotely at the starter (jumper cable or other means), disconnect the primary distributor lead from the coil negative post and have the ignition switch ON; otherwise the grounding circuit in the ignition switch will be damaged.",
+        "If the compression test does not find a weak cylinder, use the Cylinder Balance Test under Additional Checks and Adjustments."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Spark plugs: service and install",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "spark plugs",
+        "spark plug gaskets",
+        "spark plug tap"
+      ],
+      "steps": [
+        "Inspect each plug for badly worn electrodes and glazed, broken or blistered porcelain; replace as needed (Section 6Y covers reading plug conditions).",
+        "Clean usable plugs well with an abrasive cleaner such as sand blast, and file the center electrode flat.",
+        "Check each plug's make and heat range; all plugs must be the same make and number.",
+        "Set the gaps to specification with a round feeler gauge, bending only the side (ground) electrode, never the center one (see figure 2 in the manual).",
+        "Test the plugs on a plug tester if one is available.",
+        "Inspect and clean the plug hole threads before installing; remove corrosion with a 14 mm x 1.25 SAE spark plug tap (from local jobbers) or a small wire brush in an electric drill, with grease on the tap to catch chips."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

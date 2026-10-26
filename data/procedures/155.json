@@ -1,0 +1,29 @@
+{
+  "page": 155,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-16",
+  "procedures": [
+    {
+      "title": "Lower control arm cross shaft and/or bushings: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "lower control arm",
+        "lower control arm cross shaft",
+        "cross shaft bushings",
+        "collars",
+        "7/16 x 20 capscrew"
+      ],
+      "steps": [
+        "Removal: take off the bolt, lock washer and collar at each end of the cross shaft.",
+        "Screw the 7/16 x 20 capscrew supplied with tool J-5888 to the bottom of the threads in one end of the shaft.",
+        "Set the arm in an arbor press on support J-5888-3 (see figure 28 in the manual), with the bushing flange clear of the support.",
+        "Press on the capscrew until the bushing comes out of the arm; discard it."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 28 shows the capscrew, tool J-7052-1 and support J-5888-3 in the press."
+      ],
+      "continues": true
+    }
+  ]
+}

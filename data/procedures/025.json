@@ -1,0 +1,46 @@
+{
+  "page": 25,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-6",
+  "procedures": [
+    {
+      "title": "Heater control head assembly: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "heater control head",
+        "floor console trim plate",
+        "bowden cables",
+        "blower switch"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the floor console trim plate screws and take off the trim plate.",
+        "Remove the control panel screw and lift the panel, pulling it back slightly.",
+        "Disconnect the bowden cables and wiring and remove the control head.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 11 in the manual (Corvette control head; view A shows the temperature and air-defrost cables and the blower switch)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Defroster duct: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "defroster duct",
+        "air distributor duct"
+      ],
+      "steps": [
+        "Remove the air distributor duct as described under Air Distributor Duct and Core."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 12 in the manual for defroster duct installation (Corvette view included)."
+      ],
+      "continues": true
+    }
+  ]
+}

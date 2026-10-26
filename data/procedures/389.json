@@ -1,0 +1,51 @@
+{
+  "page": 389,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-2",
+  "procedures": [
+    {
+      "title": "Manual steering gear lubricant: check and fill",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "manual steering gear"
+      ],
+      "steps": [
+        "Pump in lubricant until it shows at the outboard screw hole; the gear is then at the correct level."
+      ],
+      "specs": [],
+      "notes": [
+        "Grease the steering linkage with water-resistant EP chassis lubricant every 6,000 miles or 6 months, whichever is first (lube points in Section 0)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering gear: adjust",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering gear",
+        "pitman arm",
+        "pitman shaft lash adjuster screw",
+        "worm bearing adjuster",
+        "steering wheel nut"
+      ],
+      "steps": [
+        "Before adjusting the gear for shimmy, loose or hard steering, check front alignment, shocks, wheel balance and tire pressure first.",
+        "Do the adjustments in the order below.",
+        "Remove the pitman arm nut, mark the arm's position relative to the sector shaft, and pull the arm with tool J-6632 (see figure 3 in the manual).",
+        "Loosen the lash adjuster screw locknut and back the adjuster screw out (counterclockwise) a few turns to unload the worm bearings (see figure 4 in the manual).",
+        "Turn the steering wheel gently one way to the stop, then back off about one turn.",
+        "Regular steering: take off the horn button or shroud and check preload with a torque wrench and 3/4 in. socket on the steering wheel nut (see figure 5 in the manual).",
+        "Tilt columns: disconnect the steering coupling, read the column's own torque, and subtract it from any reading taken through the gear.",
+        "Simulated wood wheels: remove the contact ring to reach the wheel nut.",
+        "Telescopic columns (Corvette): remove the horn button and check preload with a torque wrench and Phillips adapter socket on the star-headed screw at the wheel center, pressing lightly down on the wrench to keep the bit seated."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: never turn the wheel hard against the stops while the relay rod is disconnected; the ball guides can be damaged.",
+        "Use a torque wrench reading no higher than 100 lb-in maximum."
+      ],
+      "continues": true
+    }
+  ]
+}

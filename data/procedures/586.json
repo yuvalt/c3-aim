@@ -1,0 +1,48 @@
+{
+  "page": 586,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine electrical specifications: ignition coil",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "ignition coil",
+        "ignition resistor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "V-8 (Non-Transistor): primary resistance-ohms",
+          "value": "1.77-2.05"
+        },
+        {
+          "what": "V-8 (Non-Transistor): secondary resistance-ohms",
+          "value": "3,000-20,000"
+        },
+        {
+          "what": "V-8 (Non-Transistor): ignition resistor type",
+          "value": "Fixed (In Wiring Harness)"
+        },
+        {
+          "what": "V-8 (Non-Transistor): ignition resistor ohms",
+          "value": "1.35"
+        },
+        {
+          "what": "V-8 (Transistor): primary resistance-ohms",
+          "value": ".41-.51"
+        },
+        {
+          "what": "V-8 (Transistor): secondary resistance-ohms",
+          "value": "3,000-20,000"
+        },
+        {
+          "what": "V-8 (Transistor): ignition resistor ohms",
+          "value": ".43 & .68"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

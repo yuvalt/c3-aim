@@ -1,0 +1,57 @@
+{
+  "page": 427,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-1",
+  "procedures": [
+    {
+      "title": "Wheels and tires: general description",
+      "topic": "wheels-tires",
+      "applies_to": "Corvette",
+      "parts": [
+        "road wheels",
+        "wheel studs",
+        "wheel nuts",
+        "tires"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "All 1968 Chevrolet lines come with welded steel wheels held by five studs and nuts to the front hub or rear axle flange.",
+        "All Corvettes use 15 in. diameter wheels, 7 in. wide.",
+        "Do not fit tire chains on Corvette rear wheels: there is not enough tire-to-wheelhouse clearance.",
+        "Factory tires at the recommended pressures carry full rated load at all normal highway speeds; optional lower pressures for more comfort are allowed only with the reduced loads shown in the Recommended Tire Inflation Pressure table (Specifications, Section 10).",
+        "Optional 8-ply rating or larger tires add service margin (e.g. towing) but never raise the car's rated load."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tires: inflation and inspection",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Set pressures from the Vehicle Capacity Rating and Recommended Tire Inflation Pressures table in Specifications, and check them periodically.",
+        "Every few thousand miles and at every lubrication, look for stones and sharp objects in the tread.",
+        "Repair punctures with a tire manufacturer's repair kit."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tire wear: diagnose",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Misalignment wear: excessive toe-in or toe-out makes the tire scrub sideways and scrape off tread. Severe error wears both front tires (or all four); slight error may affect just one."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

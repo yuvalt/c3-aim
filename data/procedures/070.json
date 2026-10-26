@@ -1,0 +1,67 @@
+{
+  "page": 70,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-51",
+  "procedures": [
+    {
+      "title": "Water valve",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "heater water valve"
+      ],
+      "steps": [
+        "Replace the valve if it does not work; it cannot be repaired."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 63 in the manual for its installation."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Ambient temperature switch: replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "ambient temperature switch"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Unplug the connector at the switch.",
+        "Remove the 2 switch-to-case screws and the switch.",
+        "Install the new switch in reverse order."
+      ],
+      "specs": [
+        {
+          "what": "compressor lockout ambient",
+          "value": "below 30°F"
+        }
+      ],
+      "notes": [
+        "In bi-level mode the compressor runs; this switch stops it in ambients below 30°F. It is in the blower and evaporator case (see figure 64 in the manual)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Diverter door switch: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "diverter door switch",
+        "air distributor"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the air distributor assembly.",
+        "Remove the 2 screws holding the switch to the distributor duct and take out the switch.",
+        "Install the new switch in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "The switch keeps the compressor off in heater mode; on the Corvette that is the right-hand control at HTR.",
+        "See figure 65 in the manual."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "page": 340,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-11",
+  "procedures": [
+    {
+      "title": "Three-speed transmission: remove (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "console trim plate",
+        "exhaust pipes",
+        "exhaust manifold forward studs",
+        "propeller shaft",
+        "slip yoke",
+        "rear mount",
+        "rear mount bracket",
+        "linkage mounting bracket",
+        "gearshift assembly",
+        "shifter levers",
+        "speedometer cable",
+        "rear mount cushion",
+        "exhaust pipe yoke",
+        "transmission-to-clutch housing bolts",
+        "tachometer drive cable"
+      ],
+      "steps": [
+        "Take off the console trim plate (see Corvette Body, Section 1A, Passenger Service Manual).",
+        "Put the car on a hoist.",
+        "Remove both exhaust pipes completely; with 396 or 427 cu. in. engines the forward stud on each manifold must come out first.",
+        "Uncouple the propshaft at the transmission slip yoke, lower its front end, and pull the slip yoke out of the transmission.",
+        "Remove the bolts joining the rear mount to its bracket, then raise the engine to lift the transmission off the bracket.",
+        "Remove the bolts holding the linkage mounting bracket to the frame.",
+        "Unbolt the gearshift assembly from the mounting bracket, remove the bracket, and take out the shifter with its rods still attached.",
+        "Disconnect the shifter levers at the transmission and the speedometer cable.",
+        "Unbolt the mount bracket from the crossmember and remove it; remove the bolts holding the rear mount cushion and exhaust pipe yoke.",
+        "Remove the transmission-to-clutch housing bolts and the bottom extension bolt.",
+        "Draw the transmission back and turn it clockwise until it clears the clutch housing; for room, lower the rear of the engine slowly until the tachometer drive cable at the distributor just clears the horizontal ledge across the front of the dash.",
+        "Slide the transmission rearward out of the clutch, tip its front end down, and lower it out of the car.",
+        "Install by doing these steps in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the tachometer cable is easily damaged if it hits the dash hard."
+      ],
+      "continues": false
+    }
+  ]
+}

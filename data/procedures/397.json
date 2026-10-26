@@ -1,0 +1,55 @@
+{
+  "page": 397,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-10",
+  "procedures": [
+    {
+      "title": "Steering column (energy absorbing): inspect for collision damage",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "column support bracket",
+        "mounting capsules",
+        "mast jacket mesh section",
+        "shifter shaft",
+        "steering shaft plastic pins"
+      ],
+      "steps": [
+        "Inspect whenever damage shows, after any front-end collision, or whenever force has been applied to the wheel or column; replace any damaged parts.",
+        "Support bracket: look for mounting capsules separated from the bracket and the bracket moved forward toward the engine, which usually also collapses the mesh section.",
+        "Column: look for bulges or bends in the mesh section of the jacket.",
+        "Shifter shaft (where fitted): hold the lower end and move the column shift lever through its ranges and up and down; little or no shaft movement means the plastic joints have sheared.",
+        "Steering shaft: hold the shaft at the coupling and rock the wheel; any lash means the plastic pins have sheared.",
+        "If only the shaft pins sheared in a minor collision with no other damage, the car can still be steered safely, but replace the steering shaft."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the mast jacket, shift tube, steering shaft and instrument panel mounting bracket are energy-absorbing parts; never hammer, jar, drop or lean on the column.",
+        "Telescopic (Corvette) column: the wheel, horn parts, turn signal switch, upper housing and bearing and related upper-end parts can be serviced with the column left in the car; skip removal and go to the disassembly steps."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering column: remove",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering column",
+        "column harness connector",
+        "neutral safety and back-up lamp switch connectors",
+        "steering wheel"
+      ],
+      "steps": [
+        "Unplug the column harness, and the neutral safety and back-up lamp switch connectors if fitted.",
+        "Remove the steering wheel as described in this section.",
+        "Remove the nuts and washers holding the column's flanged end to the steering gear.",
+        "Disconnect any transmission linkage from the lower column shift levers."
+      ],
+      "specs": [],
+      "notes": [
+        "Mast jacket cover and dash panel trim steps for Chevrolet and Chevelle are omitted.",
+        "The manual's step 7 (remove screws joining the upper and lower covers and take the covers off) carries no model label."
+      ],
+      "continues": true
+    }
+  ]
+}

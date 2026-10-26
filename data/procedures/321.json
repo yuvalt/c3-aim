@@ -1,0 +1,22 @@
+{
+  "page": 321,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-24",
+  "procedures": [
+    {
+      "title": "Distributor (breaker point type): clean and inspect",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["advance weights", "cam", "contact points", "condenser", "distributor cap", "spark plug wires"],
+      "steps": [
+        "...make sure the weights fit freely on their pivot pins.",
+        "Check the cam for wear or roughness, and that it fits on the shaft end perfectly freely.",
+        "Clean dirty points and replace badly pitted ones (see Distributor Contact Points).",
+        "Test the condenser for series resistance, capacity and leakage or breakdown using the tester maker's instructions.",
+        "Inspect the cap and plug wires for damage and replace as needed."
+      ],
+      "specs": [{"what": "condenser capacity", "value": ".18 to .23 microfarad"}],
+      "notes": ["Figure 13i in the manual is an exploded view of the V8 distributor."],
+      "continues": false
+    }
+  ]
+}

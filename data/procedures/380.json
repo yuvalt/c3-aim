@@ -1,0 +1,19 @@
+{
+  "page": 380,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-7",
+  "procedures": [
+    {
+      "title": "Fuel lines: routing",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": ["fuel feed line", "fuel vapor return line", "fuel line clips"],
+      "steps": [
+        "Run the fuel feed line and the fuel vapor return line side by side along the frame from the tank area forward, held in clips bolted to the frame (see figure 14 in the manual).",
+        "At the front (view A), connect the feed and vapor return lines to their flexible hoses at the fuel pump end."
+      ],
+      "specs": [],
+      "notes": ["Figure 14 in the manual is the Corvette fuel line layout; it shows a separate fuel vapor return line alongside the feed line."],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page": 270,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-38",
+  "procedures": [
+    {
+      "title": "Engine front mount (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine front mount",
+        "through-bolt",
+        "nut",
+        "washer"
+      ],
+      "steps": [
+        "Remove the nut, washer and mount through-bolt.",
+        "Raise the engine to take its weight off the mount.",
+        "Unbolt the mount from the engine.",
+        "Fit the new mount to the engine.",
+        "Lower the engine, install the through-bolt and torque all mount bolts to specifications."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine rear mount (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "engine rear mount",
+        "crossmember"
+      ],
+      "steps": [
+        "Remove the crossmember-to-mount bolts.",
+        "Raise the transmission to unload the mount.",
+        "Remove the mount-to-transmission bolts and the mount.",
+        "Fit the new mount to the transmission.",
+        "Lower the transmission, lining up and starting the crossmember-to-mount bolts on the way down.",
+        "Lower fully and torque all mount bolts to specifications."
+      ],
+      "specs": [],
+      "notes": [
+        "Full-size Chevrolets also have a spacer under the rear mount."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Torque sequence: cylinder head and intake manifold (V8)",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "cylinder head bolts",
+        "intake manifold bolts"
+      ],
+      "steps": [
+        "Tighten cylinder head and intake manifold bolts in the numbered order shown for the engine in figure 1T in the manual: 327 (302/307/350) and 427 (396) have separate diagrams.",
+        "The sequences start at the center of the head or manifold and work outward toward the ends."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

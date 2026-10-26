@@ -1,0 +1,23 @@
+{
+  "page": 212,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-11",
+  "procedures": [
+    {
+      "title": "Parking brake lever assembly (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake lever assembly"
+      ],
+      "steps": [
+        "(Removal) Put the parking brake lever fully released."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 20 in the manual for the Corvette parking brake system layout.",
+        "Center and rear cable procedures on this page are for Chevrolet, Chevelle, Camaro and Chevy II and are not included."
+      ],
+      "continues": true
+    }
+  ]
+}

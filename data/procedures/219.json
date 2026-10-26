@@ -1,0 +1,52 @@
+{
+  "page": 219,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-18",
+  "procedures": [
+    {
+      "title": "Dual main cylinder: parts replacement rules",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "check valve"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "With front discs and rear drums, only the rear-brake outlet has a check valve and spring. Four-wheel disc systems (Corvette) need no check valves."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Main cylinder: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder",
+        "brake lines",
+        "push rod",
+        "mounting gasket",
+        "boot",
+        "cover",
+        "secondary piston stop bolt",
+        "push rod retainer"
+      ],
+      "steps": [
+        "(Removal) Wipe the main cylinder and lines clean; lay dry cloths under it to catch spilled fluid.",
+        "Disconnect the brake lines at the cylinder and cover the line ends with clean lint-free material.",
+        "Unhook the push rod from the brake pedal.",
+        "Unbolt the main cylinder from the firewall and remove it.",
+        "Take off the mounting gasket and boot.",
+        "Remove the cover, pour out the fluid and pump out the rest by pushing the push rod.",
+        "(Disassembly) Clamp the cylinder in a bench vise.",
+        "Remove the push rod retainer.",
+        "Remove the secondary piston stop bolt from the bottom of the front reservoir."
+      ],
+      "specs": [],
+      "notes": [
+        "The disc brake section states that main cylinder service on disc-brake cars is the same as for the Duo-Servo cylinder.",
+        "See figure 31 in the manual (exploded view of the drum-brake main cylinder)."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page": 417,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-30",
+  "procedures": [
+    {
+      "title": "Relay rod (Corvette): remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "relay rod",
+        "steering damper",
+        "anchor bracket",
+        "pitman arm ball stud",
+        "idler arm",
+        "idler stud seal",
+        "washer",
+        "cotter pins",
+        "seal and clamp",
+        "inner spring seat",
+        "spring"
+      ],
+      "steps": [
+        "Removal: remove the steering damper from the relay rod (see Steering Damper), then unbolt the anchor bracket from the relay rod (2 bolts).",
+        "Disconnect the inner tie rod ends from the relay rod as under tie rod removal.",
+        "Pull the cotter pin at the pitman arm ball stud end of the relay rod and remove the stud nut.",
+        "Tap the ball stud out of the pitman arm and lower the relay rod.",
+        "Remove the cotter key and nut at the idler arm, take the relay rod off the idler arm, and remove the washer and seal from the idler arm.",
+        "Installation: set the relay rod on the idler arm stud with the seal and washer in place, fit and tighten the nut, advancing it only enough to line up a castellation with the cotter pin hole, and fit the pin.",
+        "Fit a new seal and clamp over the ball at the pitman arm end.",
+        "Fit the inner spring seat and spring into the relay rod.",
+        "Lift the rod end onto the pitman arm."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 57 in the manual for the Corvette linkage layout."
+      ],
+      "continues": true
+    }
+  ]
+}

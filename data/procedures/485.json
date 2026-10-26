@@ -1,0 +1,63 @@
+{
+  "page": 485,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-31",
+  "procedures": [
+    {
+      "title": "Left-hand instrument cluster (speedometer/tachometer): remove and install",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "left instrument cluster",
+        "speedometer cable",
+        "tachometer cable",
+        "headlamp switch connector",
+        "ignition switch connector",
+        "floor console forward trim panel",
+        "panel lamps"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Lower the steering column (see Section 9).",
+        "Remove the screws and washers holding the left instrument panel at the door opening, the dash top and the left side of the center panel.",
+        "Unclip and remove the forward trim panel of the floor console.",
+        "Ease the cluster forward far enough to undo the speedometer and tachometer cable housing nuts, unplug the headlamp and ignition switch connectors, and pull the panel lamps.",
+        "Install in reverse order without kinking the speedometer or tachometer cable housings."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 47 in the manual. The left pod holds the 160 mph speedometer and 7000 rpm tachometer."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Center instrument cluster (console gauge pack): remove and install",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "center instrument console",
+        "radio receiver",
+        "right dash pad",
+        "center console trim plate",
+        "windshield wiper switch connector",
+        "oil pressure line"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the screws from the right side dash pad (see Section 1B).",
+        "Take out the clipped-in forward trim pads of the center floor console.",
+        "Pull the radio knobs and remove the bezel nuts from the front.",
+        "Reaching behind the radio, disconnect the antenna lead, speaker and electrical leads.",
+        "Remove the radio rear support and slide the receiver out to the right.",
+        "Remove the upper center console trim plate screws, tip the plate forward, unplug the wiper switch, and set the plate aside until reassembly.",
+        "Remove the screws at the left side of the center console.",
+        "Remove the nuts on the underside of the console studs (see figure 48 in the manual).",
+        "Tilt the console forward and disconnect the oil line, electrical connectors and lamps at its back.",
+        "Lift the console up and forward to remove it, and set it carefully on the bench.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

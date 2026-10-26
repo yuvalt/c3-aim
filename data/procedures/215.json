@@ -1,0 +1,25 @@
+{
+  "page": 215,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-14",
+  "procedures": [
+    {
+      "title": "Brake pedal: remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "clutch pedal push rod",
+        "clutch pedal return spring",
+        "stoplight switch"
+      ],
+      "steps": [
+        "Manual transmission: connect the clutch push rod to the pedal bracket, fit the retainer and hook up the clutch pedal return spring.",
+        "Adjust brake pedal free travel (see this section), the stoplight switch (Section 6Y) and clutch pedal travel (Section 7)."
+      ],
+      "specs": [],
+      "notes": [
+        "The drum brake shoe and lining service that begins on this page applies to drum-brake models only and is not included."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 375,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-2",
+  "procedures": [
+    {
+      "title": "Fuel tank: drain by siphoning",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": ["battery negative cable", "fuel tank gauge unit wire", "carburetor", "fuel pump", "fuel lines"],
+      "steps": [
+        "Before draining, disconnect the tank gauge unit wire or the battery negative cable.",
+        "If the car will be stored for a long time, drain the whole fuel system (carburetor, pump, all lines and tank) to prevent gum buildup and poor running."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "page": 459,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-5",
+  "procedures": [
+    {
+      "title": "Headlamp aiming: checking that the floor is level",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "T-3 Safety Aimer",
+        "headlamps"
+      ],
+      "steps": [
+        "(Continued) Turn each lamp vertical adjustment out until the bubble passes the black line on the vial, then turn clockwise to center the bubble between the lines.",
+        "With both bubbles centered, turn the car end for end, putting the tires back on the same floor spots.",
+        "If the bubbles stay within the two outer black marks, the floor is level enough to use the aimer as shipped.",
+        "If a bubble moves past the black lines, the floor slopes too much: try driving in at other angles, and if the bubbles still cannot be centered, calibrate for an unlevel floor.",
+        "Once a level spot is found, mark the tire positions on the floor for future use without calibration."
+      ],
+      "specs": [],
+      "notes": [
+        "For a quick level check, use the aimer (on its base pads) as a level with a straight 8 to 10 foot 2x4 laid where the wheels will be."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Headlamp aiming: calibrating aimers for an unlevel floor",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "T-3 Safety Aimer"
+      ],
+      "steps": [
+        "Do this for both aimers. Drive the car onto the area to be compensated and fit the aimers on the headlamps.",
+        "Loosen the knob under the aimer arm and move the slider until the bubble centers.",
+        "Note the numeral in the view window (used only for recalibration).",
+        "Set the slider halfway between that numeral and the \"2\" in the DOWN window (again only for recalibration, not aiming).",
+        "Turn the calibration screw (see figure 8 in the manual) until the bubble centers.",
+        "From now on aim only in this area with the car facing the same way; mark tire spots on the floor so other cars can be placed identically."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Headlamp housing (panel) alignment",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamp housing",
+        "slotted bracket",
+        "pivot link",
+        "vacuum actuator",
+        "actuator rod",
+        "headlamp bezel"
+      ],
+      "steps": [
+        "In-out: loosen the screws holding the slotted bracket to the underside of the headlamp housing and shift the housing.",
+        "Down: align the cover top to the opening by turning the hex head screw on top of the pivot link.",
+        "Open (actuator fully extended with rod): unhook the spring from the actuator rod pin..."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 11 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

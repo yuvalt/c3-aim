@@ -1,0 +1,37 @@
+{
+  "page": 362,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-33",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic: general description",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "torque converter",
+        "stator",
+        "compound planetary gear set",
+        "multiple-disc clutches",
+        "sprag unit",
+        "roller clutch",
+        "bands",
+        "vacuum modulator",
+        "detent solenoid",
+        "carburetor detent switch",
+        "selector quadrant"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Fully automatic: a 3-element torque converter feeding a compound planetary set for three forward speeds and reverse. Friction elements are three multiple-disc clutches, one sprag, one roller clutch and two bands.",
+        "Converter: pump (driving), turbine (driven) and stator. The stator sits on a one-way roller clutch that lets it turn clockwise only. The converter housing is oil-filled, bolted to the crankshaft through a flex plate, and always turns at engine speed; its pump blades are part of the housing.",
+        "At low turbine speed the stator redirects oil back into the pump so it adds to pump effort (torque multiplication). As turbine speed rises, oil strikes the back of the stator vanes, the roller clutch frees, the stator spins, and the converter becomes a roughly 1:1 fluid coupling.",
+        "A gear-type pump pressurizes the hydraulic system for the friction elements and controls.",
+        "Outside connections: manual linkage (range selection), engine vacuum (modulator), and a 12-volt signal (detent solenoid).",
+        "The vacuum modulator senses torque input and signals the pressure regulator (line pressure), the 1-2 accumulator valve and the shift valves for smooth shifts at all throttle openings.",
+        "A switch on the carburetor closes at full throttle and energizes the detent solenoid, giving a downshift below about 70 MPH.",
+        "Quadrant positions: P, R, N, D, L2, L1 (P, R, N, 3, 2, 1). Park locks the output shaft to the case with a pawl; the engine can be started in Park or Neutral. Drive uses all three ratios with full-throttle detent downshifts. L2 starts the same as Drive but holds second for performance or engine braking and may be picked at any speed."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "page": 205,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-4",
+  "procedures": [
+    {
+      "title": "Brake bleeding: pressure method",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "bleeder valves",
+        "J-21472 bleeder wrench",
+        "bleeder hose",
+        "J-22489 bleeder adapter"
+      ],
+      "steps": [
+        "Open the release valve on the bleeder equipment.",
+        "Put bleeder wrench J-21472 on the wheel bleeder valve and push one end of a bleeder hose onto the valve (see figure 6 in the manual).",
+        "Pour enough brake fluid into a clear container to keep the hose end covered while bleeding; put the free end of the hose in it, below the surface.",
+        "Turn J-21472 counterclockwise about 1/3 turn to open the bleeder valve and watch the fluid at the hose end.",
+        "Close the valve tight once bubbles stop and fluid comes out in a solid stream.",
+        "Take the wrench and hose off the bleeder valve.",
+        "Do the same at each of the other wheels.",
+        "Disconnect the bleeder equipment from adapter J-22489.",
+        "Remove adapter J-22489; wipe up any spilled fluid.",
+        "Fill the main cylinder reservoirs to 1/4 in. below the reservoir rims (see figure 7 in the manual).",
+        "Refit the main cylinder diaphragm and cover."
+      ],
+      "specs": [
+        {
+          "what": "main cylinder fluid level",
+          "value": "within 1/4\" of reservoir rims"
+        }
+      ],
+      "notes": [
+        "On some models the main cylinder is tilted upward; when taking the adapter off those, hold a clean dry cloth behind and under the cylinder to catch spilled fluid."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Brake bleeding: manual method",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder",
+        "bleeder valves",
+        "J-21472 bleeder wrench",
+        "bleeder hose"
+      ],
+      "steps": [
+        "Clean all dirt off the top of the main cylinder; take off the cover and rubber diaphragm.",
+        "Fill the main cylinder reservoirs and put the cover back on.",
+        "Put bleeder wrench J-21472 on the wheel bleeder valve and push one end of a bleeder hose onto the valve (see figure 6 in the manual).",
+        "Put brake fluid in a clear container, enough to keep the hose end covered; submerge the free end of the hose.",
+        "Open the bleeder valve about 1/3 turn counterclockwise with J-21472. Press the pedal slowly; close the valve just before the pedal bottoms, then let the pedal come all the way back slowly. Repeat until fluid flows solid with no bubbles, then close the valve tight.",
+        "Take the wrench and hose off the bleeder valve.",
+        "Repeat steps 2 through 7 at each remaining wheel.",
+        "Fill the main cylinder to the levels in figure 7 in the manual."
+      ],
+      "specs": [],
+      "notes": [
+        "Watch the main cylinder level closely; never let a reservoir run dry during bleeding, top it up as you go. Close the bleeder before the pedal hits the floor so air is not drawn back in."
+      ],
+      "continues": true
+    }
+  ]
+}

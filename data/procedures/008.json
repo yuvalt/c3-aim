@@ -1,0 +1,52 @@
+{
+  "page": 8,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-5",
+  "procedures": [
+    {
+      "title": "Push starting: manual transmission",
+      "topic": "clutch",
+      "applies_to": "all models",
+      "parts": [
+        "clutch",
+        "manual transmission"
+      ],
+      "steps": [
+        "Switch off electrical loads such as heater, radio and, if you can, lights.",
+        "Turn the ignition key on.",
+        "Press the clutch pedal down and put the shifter in high gear.",
+        "Let the clutch out once the car reaches 10 to 15 miles per hour."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Towing",
+      "topic": "transmission",
+      "applies_to": "all models",
+      "parts": [
+        "drive shaft",
+        "steering wheel"
+      ],
+      "steps": [
+        "Tow on the rear wheels with the selector in N (Neutral), at 35 mph or less.",
+        "Disconnect the drive shaft, or tow on the front wheels instead, if: speed must exceed 35 MPH, the tow will be longer than 50 miles, or the transmission is not working properly.",
+        "When towing on the front wheels, lock the steering wheel in the straight-ahead position."
+      ],
+      "specs": [
+        {
+          "what": "maximum tow speed on rear wheels",
+          "value": "35 miles per hour"
+        },
+        {
+          "what": "maximum tow distance on rear wheels",
+          "value": "50 miles"
+        }
+      ],
+      "notes": [
+        "The Camaro-specific towing method on this page is omitted."
+      ],
+      "continues": false
+    }
+  ]
+}

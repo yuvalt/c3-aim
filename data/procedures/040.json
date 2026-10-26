@@ -1,0 +1,112 @@
+{
+  "page": 40,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-21",
+  "procedures": [
+    {
+      "title": "Air conditioning: pre-delivery inspection",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "drive belt",
+        "compressor clutch",
+        "sight glass",
+        "hose clamps"
+      ],
+      "steps": [
+        "Make sure engine exhaust is properly ventilated.",
+        "Check belt tension.",
+        "With controls set to run the system, operate it 10 minutes at about 2000 rpm; watch the clutch pulley bolt to confirm the compressor turns at the same speed as the pulley (any difference means clutch slip).",
+        "Before stopping the engine, check the sight glass for adequate charge: it should be clear (a few bubbles are acceptable in mild weather); foam means low charge; no visible liquid and no temperature difference between compressor inlet and outlet lines means no charge.",
+        "Check hose clamp connections: if clamp screw torque is under 10 lb. in., retighten to 20-25 lb. in.; do not tighten to new-hose specifications or the hose may leak.",
+        "Leak test the whole system.",
+        "If there are signs of an oil leak, check the compressor oil charge.",
+        "Check that the system controls work properly."
+      ],
+      "specs": [
+        {
+          "what": "hose clamp screw retighten threshold",
+          "value": "less than 10 lb. in."
+        },
+        {
+          "what": "hose clamp screw retighten torque",
+          "value": "20-25 lb. in."
+        },
+        {
+          "what": "pre-delivery run test",
+          "value": "10 minutes at approximately 2000 rpm"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning: 6000 mile inspection",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "sight glass",
+        "compressor brace and support bolts",
+        "drive belt",
+        "hose clamps"
+      ],
+      "steps": [
+        "Check for signs of a refrigerant leak.",
+        "If there are signs of an oil leak, check the compressor oil charge.",
+        "Check the sight glass for proper R-12 charge.",
+        "Tighten the compressor brace and support bolts and check belt tension.",
+        "Check hose clamp connections as in the pre-delivery inspection."
+      ],
+      "specs": [],
+      "notes": [
+        "The thermostatic switch check applies only to the GM Chevrolet Air Conditioner, not Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning: periodic service",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "condenser",
+        "evaporator drain tubes",
+        "flexible refrigerant hoses",
+        "sight glass",
+        "drive belt"
+      ],
+      "steps": [
+        "Inspect the condenser regularly for fins plugged with leaves or debris.",
+        "Check the evaporator drain tubes regularly for dirt or blockage.",
+        "At least yearly, check refrigerant charge and inspect flexible hoses for brittleness, wear or leaks.",
+        "Every 6000 miles, check the sight glass for low refrigerant.",
+        "Check belt tension regularly."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Gauge set: install to check system operation (Four-Season)",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "gauge set",
+        "Gauge Adapter J-5420 or J-9459",
+        "compressor connector block",
+        "POA valve",
+        "muffler"
+      ],
+      "steps": [
+        "Fit Gauge Adapter J-5420 or J-9459 on the high and low pressure hoses of the gauge set.",
+        "With the engine off, remove the caps from the cored-valve gauge connectors.",
+        "Connect the gauge lines (with adapters) to the threaded fittings: for performance checks the low pressure line goes on the fitting at the POA valve.",
+        "For charging, connect the high pressure line to the high pressure fitting; on Corvette it is on the compressor connector block."
+      ],
+      "specs": [],
+      "notes": [
+        "The compressor connector assembly (inlet suction and outlet discharge connections, gauge fittings and muffler) is basically the same on all vehicles, though fitting and muffler locations and block design vary (see figure 28 in the manual).",
+        "On Four-Season systems the low pressure gauge fitting is on the POA valve; the high pressure fitting is on the muffler except on Corvette, where it is on the connector block."
+      ],
+      "continues": true
+    }
+  ]
+}

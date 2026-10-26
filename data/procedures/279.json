@@ -1,0 +1,53 @@
+{
+  "page": 279,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-5",
+  "procedures": [
+    {
+      "title": "Carburetor inlet fuel filter: service",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel filter element",
+        "filter spring",
+        "inlet fitting nut gasket",
+        "fuel line"
+      ],
+      "steps": [
+        "Do not try to clean filter elements; replace a plugged element, and replace it if flooding occurs.",
+        "Fit the spring and then the element in the carburetor; a bronze element goes in with the small end of the cone facing out.",
+        "Put a new gasket on the inlet fitting nut, screw the nut into the carburetor and tighten securely.",
+        "Reconnect the fuel line and tighten the connector."
+      ],
+      "specs": [
+        {
+          "what": "fuel filter element replacement interval",
+          "value": "every 12 months or 12,000 miles, whichever first"
+        }
+      ],
+      "notes": [
+        "A plugged filter causes power loss or a rough, pulsing feel, mostly at high engine speed."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Choke coil (V8): replace",
+      "topic": "fuel",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "choke coil",
+        "choke coil shield",
+        "choke rod",
+        "choke coil bracket",
+        "air cleaner"
+      ],
+      "steps": [
+        "Take off the air cleaner and unclip the upper end of the choke rod.",
+        "Rochester 4MV and Holley: pry the choke coil shield off with a screwdriver in its cutout and lift it carefully over the rod, then remove the choke rod, bracket screw and choke coil assembly (see figure 7C in the manual).",
+        "Install the new choke coil assembly with its locating tab in the forward hole in the intake manifold, and fit the mounting screw."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

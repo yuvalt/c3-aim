@@ -1,0 +1,81 @@
+{
+  "page": 225,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-24",
+  "procedures": [
+    {
+      "title": "Disc brakes: bleeding",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "brake fluid"
+      ],
+      "steps": [
+        "Never reuse brake fluid drained from the system."
+      ],
+      "specs": [],
+      "notes": [
+        "The plunger hold-open step for the front pressure regulator valve applies to Chevrolet, Chevelle, Camaro and Chevy II only."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Parking brake (Corvette): adjust",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake shoes",
+        "adjusting screw",
+        "brake disc",
+        "equalizer",
+        "parking brake cables"
+      ],
+      "steps": [
+        "Put the car on a hoist.",
+        "Remove the rear wheels.",
+        "Slacken the cables at the equalizer until the parking brake levers return freely to off with slack in the cables.",
+        "Turn the disc until the adjusting screw shows through the hole in the disc.",
+        "Put an adjusting tool or screwdriver through the hole and tighten the adjusting screw by moving the handle away from the floor, on both left and right sides (see figure 37 in the manual).",
+        "Tighten until the disc will not turn, then back off 6 to 8 notches.",
+        "From inside the car, apply the parking brake 2 notches.",
+        "Tighten the cables at the equalizer for a light drag with the wheels mounted.",
+        "Release the handle fully and spin the rear wheels; there must be no drag.",
+        "Lower the car."
+      ],
+      "specs": [
+        {
+          "what": "parking brake shoe adjuster back-off from locked",
+          "value": "6 to 8 notches"
+        },
+        {
+          "what": "parking brake applied for cable adjustment",
+          "value": "2 notches"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Disc brake shoes: replace",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "shoe and lining assemblies"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "bonded lining replacement point",
+          "value": "center groove worn away, approx. 1/16 inch lining left"
+        },
+        {
+          "what": "riveted lining replacement point",
+          "value": "approx. .020\" over rivet heads"
+        }
+      ],
+      "notes": [
+        "Figure 35 in the manual shows the Corvette caliper in cutaway."
+      ],
+      "continues": true
+    }
+  ]
+}

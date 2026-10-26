@@ -1,0 +1,72 @@
+{
+  "page": 204,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-3",
+  "procedures": [
+    {
+      "title": "Brake service: cleanliness and split-system symptoms",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder",
+        "wheel cylinders",
+        "brake linings",
+        "brake alarm indicator light"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Keep everything absolutely clean when servicing brakes. Dirt in the hydraulic system can block lines, ruin main and wheel cylinder cups and cause poor operation or total failure. Dirt or grease on a lining makes that brake grab first and fade under hard braking.",
+        "With one circuit out, pedal lash and pedal effort rise noticeably. That is normal: if the rear circuit loses fluid its piston bottoms against the front piston; if the front circuit loses fluid its piston bottoms on the end of the cylinder body.",
+        "The unbalanced pressure is sensed by the distribution and switch assembly near the main cylinder, which lights the brake alarm lamp. At the pedal it feels like almost no brakes over most of the travel, then the pedal firms up once the failed chamber bottoms.",
+        "These symptoms usually mean one circuit has air in it or has failed; bleed or repair the system."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hydraulic brake fluid: correct fluid and flushing contaminated system",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake fluid",
+        "brake hoses",
+        "rubber seals and cups"
+      ],
+      "steps": [
+        "Drain all fluid from the system.",
+        "Flush the system thoroughly with clean 188-proof alcohol or a hydraulic system cleaner such as Declene.",
+        "Replace every rubber part in the system, brake hoses included.",
+        "Refill the system.",
+        "Bleed the system."
+      ],
+      "specs": [],
+      "notes": [
+        "Service brakes with GM Hydraulic Brake Fluid Supreme No. 11 or an equivalent. It suits any climate, has a high boiling point against vapor lock and stays fluid in the cold.",
+        "The steps above apply only when the wrong fluid has got into the system."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Brake bleeding: pressure method",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder",
+        "main cylinder cover and diaphragm",
+        "bleeder valves",
+        "J-22489 bleeder adapter"
+      ],
+      "steps": [
+        "Clean all dirt off the top of the main cylinder; take off the cover and rubber diaphragm.",
+        "Lower the fluid in the main cylinder until each reservoir is about half full.",
+        "Fit bleeder adapter J-22489 to the main cylinder (see figure 5 in the manual) and connect the hose from the bleeder equipment to it."
+      ],
+      "specs": [],
+      "notes": [
+        "Bleed whenever any line has been opened or air has entered the system. A spongy pedal can mean air in the system; it must be completely free of air.",
+        "Bleeding can be done by pressure or manually.",
+        "Before starting, check the bleeder equipment has fluid at its working level and can deliver 30 to 50 lbs. hydraulic pressure. For Corvette disc brakes use 10-20 lbs. instead (see Disc Brakes, p.5-23)."
+      ],
+      "continues": true
+    }
+  ]
+}

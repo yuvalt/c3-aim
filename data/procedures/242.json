@@ -1,0 +1,145 @@
+{
+  "page": 242,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-10",
+  "procedures": [
+    {
+      "title": "Cranking voltage: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery",
+        "starter",
+        "cables",
+        "starter switch",
+        "ignition circuit"
+      ],
+      "steps": [
+        "If the reading is 9 volts or more and cranking speed is good, the battery, starter, cables, starter switch and ignition circuit to the coil (bypassing the resistance wire) are all good.",
+        "If under 9 volts, trace the circuit until the fault is found."
+      ],
+      "specs": [
+        {
+          "what": "minimum cranking voltage at coil",
+          "value": "9 volts"
+        }
+      ],
+      "notes": [
+        "Low reading: weak battery; bad cables, connections, switch or starter; or faulty ignition circuit to coil.",
+        "Slow cranking: too much resistance in cables or starter, or excess mechanical drag in the engine.",
+        "Uneven cranking: uneven compression or a faulty starter or starter drive."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Ignition switch: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "ignition switch",
+        "ignition resistance wire",
+        "coil",
+        "starter solenoid"
+      ],
+      "steps": [
+        "With the voltmeter hooked up as for the cranking voltage test, turn the ignition switch ON.",
+        "Voltage should fall to 5-7 volts, since current now flows through the resistance wire from the switch to the coil + terminal.",
+        "If full battery voltage (12 volts) shows, the starter solenoid is bypassing the resistance wire when it should not, or the circuit is wired wrong."
+      ],
+      "specs": [
+        {
+          "what": "coil + voltage, switch ON (engine not cranking)",
+          "value": "5 to 7 volts"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor resistance: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "distributor",
+        "primary circuit"
+      ],
+      "steps": [
+        "Test with the equipment per its maker's instructions.",
+        "Eliminate any excess primary resistance before going on."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Secondary resistance: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "coil",
+        "coil wire",
+        "distributor cap",
+        "rotor",
+        "spark plug cables"
+      ],
+      "steps": [
+        "Test with the equipment per its maker's instructions.",
+        "Even normal readings mean all secondary parts are good.",
+        "All readings low: check for a corroded coil tower terminal, bad or broken coil wire, burned center cap electrode or rotor tip, or an open coil secondary.",
+        "High readings on 2 or more plugs next to each other in firing order: cross-firing in the cap or between those plug cables.",
+        "Meter off scale to the left: coil polarity reversed; check for swapped coil primary wires, wrong coil or reversed battery connections."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ignition output and secondary leakage: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "coil",
+        "condenser",
+        "distributor points",
+        "distributor cap",
+        "plug wires"
+      ],
+      "steps": [
+        "Test with the equipment per its maker's instructions.",
+        "GOOD readings mean ignition output and secondary insulation are both good.",
+        "All BAD, or the calibrator will not reach Set Line: check for high primary resistance or bad points, coil or condenser.",
+        "BAD only when certain plug wires are lifted: check the cap for cracks or carbon tracks and those wires for bad insulation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Carburetor: additional adjustments",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "carburetor"
+      ],
+      "steps": [
+        "Do adjustments such as idle vent, float level, pump rod and secondary valve per Section 6M."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fuel pump: additional check",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump"
+      ],
+      "steps": [
+        "If the owner reports poor high-speed performance, suspect the fuel pump."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

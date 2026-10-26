@@ -1,0 +1,144 @@
+{
+  "page": 52,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-33",
+  "procedures": [
+    {
+      "title": "Air conditioning system: purge (discharge)",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "gauge set"
+      ],
+      "steps": [
+        "Open the high (2) and low (1) pressure control valves slightly and let the refrigerant escape."
+      ],
+      "specs": [],
+      "notes": [
+        "Do not open the valves far or compressor oil will come out with the refrigerant; oil on the rag shows any loss."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Charging cylinder: fill",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-8393 charging station",
+        "charging cylinder",
+        "refrigerant drum"
+      ],
+      "steps": [
+        "Open the control valve on the refrigerant drum.",
+        "Open the valve at the bottom of the charging cylinder to let refrigerant in.",
+        "Bleed the cylinder valve (top, behind the control panel) as needed to let refrigerant enter.",
+        "When the level reaches the needed amount (see Air Conditioning System Capacities), close the bottom valve and make sure the bleed valve is firmly closed."
+      ],
+      "specs": [],
+      "notes": [
+        "Close the bleed valve from time to time so boiling settles and the level can be read in the sight glass.",
+        "Any time the system has been opened, evacuate it to remove air and moisture before running it again. These procedures assume the J-8393 Charging Station.",
+        "The 26-28 inches of mercury vacuum figure applies only at or near sea level; reduce it by 1 inch per 1000 feet of elevation (e.g. at +5000 ft. expect only 21 to 23 inches)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Charging station: connect to system",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-8393 charging station",
+        "gauge lines"
+      ],
+      "steps": [
+        "Make sure every valve on the station is closed.",
+        "Connect the high pressure gauge line to the high pressure gauge fitting (see Installing Gauge Set to Check System Operation).",
+        "Open high pressure control (2) one turn counterclockwise. Open low pressure control (1) slightly and let gas hiss from the low pressure line for three seconds, then connect it to the low pressure gauge fitting.",
+        "The system is now ready for performance testing."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 37 in the manual for the control valve numbering."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning system: evacuate and charge",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-8393 charging station",
+        "vacuum pump",
+        "Refrigerant-12"
+      ],
+      "steps": [
+        "Install the charging station and purge the system (see Purging the System).",
+        "Connect the vacuum line to the pump, start the pump and open Vacuum Control Valve (3). Run until 28-29 inches vacuum is reached, then keep running 15 more minutes.",
+        "If 28-29 inches cannot be reached, close valve 3, stop the pump, open Refrigerant Control Valve (4) to admit 1/2 pound of R-12, then find and fix all leaks.",
+        "After the 15 minute evacuation, add 1/2 pound of R-12 the same way, purge it, and evacuate again for 5 minutes to remove as much contamination as possible.",
+        "Check the charging cylinder sight glass; if it holds less than a full charge, fill it to the proper level.",
+        "With High and Low pressure valves (1 and 2) open, close Vacuum Control Valve (3) and open Freon Control Valve (4). Running the blower with controls set for cooling helps finish the charge.",
+        "If the charge will not fully transfer, close the gauge set high pressure valve, set controls for cooling, make sure the engine compartment is clear and start the engine; the compressor will lower low-side pressure.",
+        "Performance test the system before removing the gauges."
+      ],
+      "specs": [
+        {
+          "what": "evacuation vacuum",
+          "value": "28-29 inches"
+        },
+        {
+          "what": "evacuation time after reaching vacuum",
+          "value": "15 minutes"
+        },
+        {
+          "what": "leak-check/purge charge",
+          "value": "1/2 pound R-12"
+        },
+        {
+          "what": "second evacuation",
+          "value": "5 minutes"
+        }
+      ],
+      "notes": [
+        "Vacuum figures are for sea level; see the altitude correction in the general note."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Compressor oil: check",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "six-cylinder compressor",
+        "compressor oil drain plug",
+        "refrigeration oil"
+      ],
+      "steps": [
+        "Quick check: with the engine off, carefully crack open the oil drain plug on the bottom of the compressor; if oil comes out, the oil charge is sufficient.",
+        "Full check: run the system 10 minutes at 500-600 engine rpm with maximum cooling and high blower.",
+        "Stop the engine, discharge the system and remove the compressor.",
+        "Lay the compressor horizontal with the drain plug down, remove the plug and drain the oil into a clean container while tipping the compressor and turning its shaft; measure the oil, then discard it.",
+        "If 4 fluid oz. or more drained, put the same amount of new refrigeration oil in the replacement compressor.",
+        "If less than 4 fluid oz. drained, put 6 fluid oz. of new refrigeration oil in the replacement compressor.",
+        "If fitting a new service compressor, drain all its oil and add only the amount from the two steps above."
+      ],
+      "specs": [
+        {
+          "what": "oil check run speed",
+          "value": "500-600 engine rpm for 10 minutes"
+        },
+        {
+          "what": "drained 4 fl. oz. or more",
+          "value": "add same amount"
+        },
+        {
+          "what": "drained less than 4 fl. oz.",
+          "value": "add 6 fl. oz."
+        }
+      ],
+      "notes": [
+        "Do not check compressor oil routinely; check only after a major oil loss, such as a broken refrigerant hose, a bad hose fitting leak, a badly leaking compressor seal or collision damage to system parts."
+      ],
+      "continues": false
+    }
+  ]
+}

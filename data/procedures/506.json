@@ -1,0 +1,76 @@
+{
+  "page": 506,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-52",
+  "procedures": [
+    {
+      "title": "Wiper relay switch-latch and terminal board: install (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "relay-switch assembly",
+        "gear box cover",
+        "washer pump",
+        "ground strap"
+      ],
+      "steps": [
+        "Install the relay-switch mounting screw.",
+        "Fit the gear box cover and washer pump to the wiper, making sure the ground strap is connected (see figure 70 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: route the leads so they cannot be pinched between relay and wiper housing."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper drive gear: disassemble (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "washer pump",
+        "crank arm",
+        "seal cap",
+        "retaining ring",
+        "shim washers",
+        "shield",
+        "spacer washer",
+        "drive gear",
+        "drive plate",
+        "drive pawl",
+        "lock pawl",
+        "coil spring"
+      ],
+      "steps": [
+        "Remove the washer pump.",
+        "Remove, in order, the crank arm nut, crank arm, rubber seal cap, retaining ring, shim washers, shield and spacer washer.",
+        "Slide the gear assembly out of the housing (see figure 80 in the manual).",
+        "Slide the drive plate and shaft out of the gear and remove the drive pawl, lock pawl and coil spring as needed."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 79 in the manual.",
+        "If the gear is not in park, it can come out without disturbing the relay switch or terminal board."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper drive gear: assemble (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "drive pawl",
+        "lock pawl",
+        "drive plate",
+        "gear and tube"
+      ],
+      "steps": [
+        "Place the drive pawl on the drive plate as in figure 81 in the manual.",
+        "Lay the lock pawl over the drive pawl as in figure 81.",
+        "Slide the gear and tube over the drive shaft (see figure 82 in the manual), moving the pawls so their pins enter the gear guide channel (see figure 83)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

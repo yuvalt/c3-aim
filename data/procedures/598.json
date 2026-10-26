@@ -1,0 +1,37 @@
+{
+  "page": 598,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Accessories specifications: Cruise-Master",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": [
+        "Cruise-Master speed control"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "solenoid resistance",
+          "value": "5 ohms ± 1/4 ohm"
+        },
+        {
+          "what": "solenoid wire resistance",
+          "value": "40 ohms"
+        },
+        {
+          "what": "maximum allowable vacuum leakage rate for servo unit",
+          "value": "5 inches of Vacuum Per Minute"
+        },
+        {
+          "what": "operational test speed",
+          "value": "50 MPH"
+        }
+      ],
+      "notes": [
+        "Section 15. The table names no models."
+      ],
+      "continues": false
+    }
+  ]
+}

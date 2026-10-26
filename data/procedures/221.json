@@ -1,0 +1,36 @@
+{
+  "page": 221,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-20",
+  "procedures": [
+    {
+      "title": "Main cylinder: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "reservoir diaphragm",
+        "cover",
+        "bail wire",
+        "push rod",
+        "push rod retainer",
+        "boot",
+        "mounting gasket",
+        "clevis pin"
+      ],
+      "steps": [
+        "Fit the diaphragm in the reservoir cover, put the cover on the cylinder and snap the bail wire over to hold it.",
+        "(Installation) Put the push rod through the push rod retainer if it was taken apart.",
+        "Push the retainer over the cylinder end, press a new boot over the push rod and down onto the retainer, and slide a new mounting gasket into place.",
+        "Bolt the main cylinder to the firewall.",
+        "Connect the push rod clevis to the brake pedal with the pin and retainer.",
+        "Connect the brake lines to the main cylinder.",
+        "Fill the reservoirs to the levels in figure 7 in the manual and bleed the brakes.",
+        "Adjust brake pedal free play if needed."
+      ],
+      "specs": [],
+      "notes": [
+        "Wheel cylinder and anchor pin service on this page applies to drum brakes only and is not included."
+      ],
+      "continues": false
+    }
+  ]
+}

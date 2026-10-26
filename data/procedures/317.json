@@ -1,0 +1,25 @@
+{
+  "page": 317,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-20",
+  "procedures": [
+    {
+      "title": "Distributor contact points: replace (V8)",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["contact point set", "distributor cap", "primary lead", "condenser lead", "cam lubricator wick"],
+      "steps": [
+        "The point set is replaced as a complete unit; spring tension and alignment are factory set, so only dwell needs adjusting afterward.",
+        "Remove the cap: push a screwdriver into the latch slot, press down and turn 1/4 turn either way.",
+        "Remove the 2 screws holding the base of the contact set.",
+        "Unhook the primary and condenser leads from the nylon-insulated connection in the contact set (see figure 6i in the manual).",
+        "Install the new set by reversing these steps, routing the primary and condenser leads exactly as in figure 6i; wrong routing lets the leads foul the cap, weight base and breaker advance plate.",
+        "At 20,000 to 25,000 miles (or sooner), replace the cam lubricator wick: squeeze it together at the base with long-nose pliers and lift it out, wipe all old lubricant off the cam, and fit the new one the same way.",
+        "Set the wick end to just touch the cam lobes; pressing too hard over-greases the cam and gets grease on the points. Do not add grease to the cam.",
+        "Start the engine and check dwell and ignition timing."
+      ],
+      "specs": [{"what": "cam lubricator wick replacement interval", "value": "20,000 to 25,000 miles"}],
+      "notes": ["Never oil the cam lubricator; replace the wick when necessary, square to the cam and just touching the lobe (figure 7i)."],
+      "continues": false
+    }
+  ]
+}

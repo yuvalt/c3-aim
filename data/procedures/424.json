@@ -1,0 +1,60 @@
+{
+  "page": 424,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-37",
+  "procedures": [
+    {
+      "title": "Power cylinder (Corvette): remove, inspect and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power cylinder",
+        "piston rod seal",
+        "snap ring",
+        "piston rod scraper",
+        "scraper element",
+        "backup washer",
+        "ball stud seal",
+        "end plug",
+        "lube fitting",
+        "spring",
+        "spring seat",
+        "ball stud",
+        "O-ring seal",
+        "ball seat"
+      ],
+      "steps": [
+        "Disassembly: take out the snap ring and pull the rod out to remove the piston rod seal, taking care not to spray oil.",
+        "Remove the rod scraper, scraper element, backup washer and rod seal from the rod.",
+        "At the ball stud end, remove the ball stud seal.",
+        "Remove the snap ring holding the end plug with the lube fitting.",
+        "Push on the ball stud end and remove the end plug, spring, spring seat and ball stud.",
+        "Remove the O-ring from the top lip of the ball stud opening.",
+        "To replace the ball seat, press it out with tool J-8937.",
+        "Assembly: reassemble the rod seal parts in reverse order, first coating the seal and scraper inner faces thinly with Lubriplate or equivalent.",
+        "Reassemble the ball stud parts in reverse order.",
+        "Make sure each snap ring is fully seated in its groove.",
+        "Installation: install in reverse of removal.",
+        "Reconnect the 2 hydraulic lines, fill with fluid, bleed out air as under Maintenance and Adjustments, and grease the ball joint."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 65 in the manual for the exploded view."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power steering hoses: install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering hoses"
+      ],
+      "steps": [
+        "Route the hoses in their correct positions as shown in figure 67 in the manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

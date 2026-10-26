@@ -1,0 +1,61 @@
+{
+  "page": 419,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-32",
+  "procedures": [
+    {
+      "title": "Steering damper: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering damper",
+        "damper pivot bracket",
+        "relay rod bracket",
+        "frame bracket",
+        "retainers",
+        "bushings",
+        "through bolt"
+      ],
+      "steps": [
+        "Removal: remove the bolt from the damper pivot bracket at the relay rod.",
+        "Remove the nut from the damper pivot at the frame bracket and pull the damper out.",
+        "The damper is serviced only as a complete unit; replace it if damaged or badly worn.",
+        "Installation: put the piston rod end into the frame bracket and fit the retainers, bushings and nut.",
+        "Put the cylinder end pivot into the relay rod bracket and fit the through bolt."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering hydraulic system: bleed",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump reservoir",
+        "power steering fluid"
+      ],
+      "steps": [
+        "Fill the reservoir to the correct level and leave it undisturbed at least 2 minutes.",
+        "Start the engine, run it only about 2 seconds, and top up if needed.",
+        "Repeat until the level stays steady after running the engine.",
+        "Raise the front so the wheels are off the ground.",
+        "Bring the engine to about 1500 rpm.",
+        "Turn the raised wheels left and right, just touching the wheel stops.",
+        "Top up if needed.",
+        "Lower the car and turn the wheels left and right on the ground.",
+        "Check the level and refill as needed.",
+        "If the oil is very foamy, let the car sit a few minutes with the engine off and repeat the procedure, and also:"
+      ],
+      "specs": [
+        {
+          "what": "bleeding engine speed",
+          "value": "approximately 1500 rpm"
+        }
+      ],
+      "notes": [
+        "The 1968 Corvette uses linkage-type power steering: an engine-driven vane pump feeds a control valve that senses demand and supplies a power cylinder. Its steering gear is the manual-steering unit and is serviced as such, except for adjustment; the linkage is serviced like the manual linkage."
+      ],
+      "continues": true
+    }
+  ]
+}

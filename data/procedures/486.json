@@ -1,0 +1,112 @@
+{
+  "page": 486,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-32",
+  "procedures": [
+    {
+      "title": "Speedometer or tachometer head replacement",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "speedometer head",
+        "tachometer head",
+        "odometer reset cable",
+        "speedminder (speed warning) buzzer",
+        "wiper solenoid",
+        "cluster bezel"
+      ],
+      "steps": [
+        "Remove the left-hand cluster from the car first.",
+        "Unplug the odometer reset and speedminder connectors from the back of the speedometer head.",
+        "Remove the 3 screws holding the head to the back of the cluster and lift the head out carefully.",
+        "Move the wiper solenoid to the back of the new tachometer and/or the speedminder buzzer to the back of the new speedometer, then fasten the head to the cluster bezel.",
+        "Reconnect the odometer and/or speedminder reset cable at the back of the speedometer.",
+        "Reinstall the left-hand cluster."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Speedometer and tachometer cable replacement or lubrication",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "speedometer cable",
+        "tachometer cable",
+        "cable conduit"
+      ],
+      "steps": [
+        "Disconnect the cable at the speedometer or tachometer head and pull the old core out from the head end of the conduit.",
+        "If the core is broken, remove the lower piece from the transmission or distributor end.",
+        "Coat the lower 3/4 of the core with AC speedometer cable lubricant and feed it into the conduit.",
+        "Connect the upper end to the head and road test to confirm it works."
+      ],
+      "specs": [],
+      "notes": [
+        "Do not kink the cable housings."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Center gauges (fuel, temperature, ammeter, oil pressure): service notes",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "fuel gauge",
+        "fuel tank sending unit",
+        "temperature gauge",
+        "engine temperature unit",
+        "ammeter",
+        "oil pressure gauge",
+        "oil pressure line"
+      ],
+      "steps": [
+        "Remove the center instrument panel (gauge pack) before taking out any of these gauges.",
+        "Fuel gauge: check the gas gauge fuse in the fuse panel before troubleshooting the gauge or tank sender.",
+        "Temperature gauge: test and replace faulty units; do not try to repair the engine unit or gauge.",
+        "When fitting a new engine temperature unit, use no thread compound, since it raises resistance and gives false readings.",
+        "Ammeter: keep the terminals clean and tight.",
+        "Oil pressure gauge: if the pressure line becomes restricted, blow it out or replace it."
+      ],
+      "specs": [],
+      "notes": [
+        "The fuel gauge circuit is the cluster gauge plus a float-controlled rheostat in the tank."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clock replacement",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "clock",
+        "clock set shaft knob"
+      ],
+      "steps": [
+        "Remove the set shaft knob screw and the knob.",
+        "Remove the screws holding the clock to the back of the housing and take the clock out from the rear.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Seat belt and door ajar indicators",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "seat belt indicator switch",
+        "door ajar indicator bulb",
+        "door jamb switch"
+      ],
+      "steps": [
+        "Replace the seat belt indicator (a push-reset thermal switch fed from the fuel gauge terminal) as a complete unit.",
+        "For the door ajar indicator, check the bulb and the remote door jamb switch on the lock pillar."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

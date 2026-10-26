@@ -1,0 +1,60 @@
+{
+  "page": 423,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-36",
+  "procedures": [
+    {
+      "title": "Power steering control valve: balance",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "control valve",
+        "adjusting nut",
+        "power cylinder rod",
+        "frame bracket",
+        "dust cap"
+      ],
+      "steps": [
+        "...to exactly half of the rotation it took to reverse the rod's direction.",
+        "If instead the rod extends when the pump starts, turn the nut counterclockwise until the rod starts to retract, then clockwise until it starts out again, and set the nut exactly halfway between.",
+        "With the valve balanced, the rod should move in and out by hand.",
+        "Stop the engine and connect the cylinder rod to the frame bracket.",
+        "Restart the engine; if the raised front wheels do not turn either way from center, the valve is balanced. Readjust if not.",
+        "Once correct, grease the valve end and fit the dust cap."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the adjusting nut is a special friction nut; turn it back and forth no more than needed."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power cylinder (Corvette): remove, inspect and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power cylinder",
+        "hydraulic lines",
+        "cylinder rod",
+        "frame bracket",
+        "grommets",
+        "retainers",
+        "ball stud",
+        "brass hose seats"
+      ],
+      "steps": [
+        "Removal: disconnect the 2 hydraulic lines at the cylinder and drain the fluid into a container; do not reuse it.",
+        "Remove the cotter pin, nut, retainer and grommet from the cylinder rod at the frame bracket.",
+        "If replacements are needed, also remove the grommet and retainer from the bracket.",
+        "Remove the cotter pin, nut and ball stud at the relay rod.",
+        "Take the cylinder out of the car.",
+        "Inspection: check the seals for leaks and replace leaking seals per Disassembly.",
+        "Check the brass hose connection seats for cracks or damage and replace as needed.",
+        "For any service beyond ball seat or seal replacement and ball stud removal, replace the whole cylinder.",
+        "Check the frame bracket parts for wear."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

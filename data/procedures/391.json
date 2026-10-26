@@ -1,0 +1,106 @@
+{
+  "page": 391,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-4",
+  "procedures": [
+    {
+      "title": "Steering wheel alignment and high point centering",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering wheel",
+        "wormshaft",
+        "coupling lower clamp",
+        "tie rod adjusting sleeves"
+      ],
+      "steps": [
+        "Set the front wheels straight ahead; confirm by driving a short way on a flat surface and noting the wheel position that holds a straight line.",
+        "With wheels straight, check that the high-point mark on the wormshaft is on top (12 o'clock) and lines up with the mark in the lower coupling clamp.",
+        "If the gear is off its high point, loosen the adjusting sleeve clamps on both tie rods and turn both sleeves the same number of turns in the same direction to bring the gear back to high point.",
+        "Reset toe-in as in Section 3 if needed.",
+        "With wheels straight and gear on high point, measure each horizontal spoke against the wheel's horizontal centerline (see figure 6 in the manual).",
+        "If the spokes are more than 1-1/8 in. off horizontal, remove and recenter the steering wheel."
+      ],
+      "specs": [
+        {
+          "what": "steering wheel spoke off-horizontal limit",
+          "value": "1-1/8 inches"
+        }
+      ],
+      "notes": [
+        "Caution: turning the sleeves unequally or in opposite directions changes the toe-in."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Toe-in adjustment",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "tie rods"
+      ],
+      "steps": [
+        "Set toe-in at the steering linkage as described in Section 3."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Corvette steering ratio: change",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "tie rod",
+        "steering arm",
+        "tie rod ball stud nut"
+      ],
+      "steps": [
+        "Remove the tie rod ball stud nut at the steering arm and free the tie rod from the arm (see figure 7 in the manual).",
+        "Put the tie rod end in the forward hole for the 17.6:1 fast ratio, or the rear hole for the 20.2:1 standard ratio.",
+        "Refit the stud nut and tighten it securely.",
+        "Do the same on the other steering arm."
+      ],
+      "specs": [
+        {
+          "what": "fast steering ratio (forward hole)",
+          "value": "17.6:1"
+        },
+        {
+          "what": "standard steering ratio (rear hole)",
+          "value": "20.2:1"
+        }
+      ],
+      "notes": [
+        "Caution: with power steering do not use the rear steering arm hole; parts may interfere."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering wheel (regular production): remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering wheel",
+        "horn button cap",
+        "receiving cup",
+        "belleville spring",
+        "pivot ring",
+        "steering wheel nut"
+      ],
+      "steps": [
+        "Removal: disconnect the battery ground cable.",
+        "Unplug the column harness from the chassis harness at the connector using tool J-22727 (see figure 9 in the manual).",
+        "Pull off the horn button cap or center ornament and its retainer.",
+        "Take out the 3 receiving cup screws.",
+        "Remove the receiving cup, belleville spring, bushing and pivot ring.",
+        "Remove the wheel nut and washer.",
+        "Fit the J-2927 centering adapter on the shaft and thread the puller anchor screws into the wheel's threaded holes."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 8 in the manual for the wheel and horn parts."
+      ],
+      "continues": true
+    }
+  ]
+}

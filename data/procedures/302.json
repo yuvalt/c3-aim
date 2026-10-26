@@ -1,0 +1,75 @@
+{
+  "page": 302,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-5",
+  "procedures": [
+    {
+      "title": "Battery: recharge (slow, fast, emergency boost)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "After an emergency boost, charge further; a boost may crank the engine once but usually not a second and third time."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "12 volt battery suggested charging rates (100 amp-hr or less capacity)",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [],
+      "specs": [
+        {"what": "boost charge for light load test", "value": "20 minutes at 50 amps"},
+        {"what": "slow charge", "value": "24 hours at 4 amps"},
+        {"what": "fast charge", "value": "1-1/2 hours at 40-50 amps"},
+        {"what": "quick boost", "value": "30 minutes at 40-50 amps"},
+        {"what": "dry charge warm-up boost", "value": "10 minutes at 15 amps"}
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Battery: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "battery cables"],
+      "steps": [
+        "Visual inspection: replace the battery if the case or cover is cracked or broken.",
+        "Check the electrolyte level; too low or too high hurts performance.",
+        "Check for loose cable connections and corrosion and fix them before testing further.",
+        "Instrument test: use an approved tester and follow its maker's procedure (a timed discharge/charge sequence of about 2 to 3 minutes). Do not charge the battery before this test.",
+        "If no tester is available, use the specific gravity cell comparison test instead (less accurate).",
+        "Test new batteries that went fully flat over a long time (e.g. storage) with the hydrometer method, not load-comparison equipment.",
+        "Full charge hydrometer test (only for batteries that pass the tester or cell comparison test but still fail in service): remove the battery, correct the level with drinking water, slow-charge it fully, then read each cell.",
+        "Readings below 1.230 (temperature corrected) mean the battery is defective; replace it.",
+        "Readings above 1.310 (temperature corrected) mean the cells were wrongly filled or serviced; expect poor service and short life."
+      ],
+      "specs": [
+        {"what": "instrument test duration", "value": "approx. 2 to 3 minutes"},
+        {"what": "full charge hydrometer reading, defective battery", "value": "less than 1.230 corrected"},
+        {"what": "full charge hydrometer reading, improper fill/service", "value": "above 1.310 corrected"}
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Battery specific gravity: read with a hydrometer",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "hydrometer"],
+      "steps": [
+        "Use a hydrometer that is clean inside and out.",
+        "Never read right after adding water; first mix it in by charging at least 15 minutes at a rate high enough to gas vigorously.",
+        "If the hydrometer has a thermometer, draw electrolyte in and out several times so it reaches cell temperature.",
+        "Hold the hydrometer upright and draw just enough liquid for the float to float freely.",
+        "With the hydrometer at eye level and the float vertical and clear of the tube, read at the liquid surface, ignoring the curve where liquid climbs the float stem.",
+        "Do not drip electrolyte on the car or clothing; wash any drips off at once with baking soda solution."
+      ],
+      "specs": [],
+      "notes": ["Specific gravity falls as temperature rises and rises as it falls, so readings must be corrected for temperature."],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "page": 572,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Heating and air conditioning specifications: compressor",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "A/C compressor",
+        "compressor clutch coil"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "compressor make",
+          "value": "Frigidaire"
+        },
+        {
+          "what": "compressor type",
+          "value": "6 Cylinder Axial"
+        },
+        {
+          "what": "compressor displacement, Corvette Four-Season",
+          "value": "10.8 Cu. In."
+        },
+        {
+          "what": "compressor rotation",
+          "value": "Clockwise"
+        },
+        {
+          "what": "compressor suction and discharge connector bolt torque",
+          "value": "25 ft. lbs."
+        },
+        {
+          "what": "compressor clutch coil resistance (at 80°F.)",
+          "value": "4.18-4.38 ohms"
+        },
+        {
+          "what": "compressor clutch coil current (at 80°F.)",
+          "value": "2.86 amps @ 12 Volts"
+        },
+        {
+          "what": "rear head to shell stud nut torque",
+          "value": "23 lb. ft."
+        },
+        {
+          "what": "shaft mounting nut torque",
+          "value": "15 lb. ft."
+        },
+        {
+          "what": "belt tension",
+          "value": "See Tune-Up Chart"
+        }
+      ],
+      "notes": [
+        "Section 1A. Four-Season systems other than Corvette (and Comfortron) use a 12.6 Cu. In. compressor; the Corvette Four-Season uses 10.8 Cu. In."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Heating and air conditioning specifications: system capacities and fuses",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "refrigerant",
+        "compressor oil",
+        "A/C fuses"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "refrigerant type",
+          "value": "R-12"
+        },
+        {
+          "what": "refrigerant charge, Corvette Four-Season",
+          "value": "3 lbs., 4 oz."
+        },
+        {
+          "what": "compressor oil",
+          "value": "525 Viscosity"
+        },
+        {
+          "what": "compressor oil capacity, all systems",
+          "value": "11 oz."
+        },
+        {
+          "what": "Four-Season systems fuse, fuse block",
+          "value": "25 amp."
+        },
+        {
+          "what": "Four-Season systems fuse, in line",
+          "value": "30 amp."
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front suspension specifications: wheel alignment (vehicle at curb weight)",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "front wheel alignment",
+        "front wheel bearings"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "caster, manual steering",
+          "value": "Pos. 1° ± 1/2°"
+        },
+        {
+          "what": "caster, power steering",
+          "value": "Pos. 2 1/4° ± 1/2°"
+        },
+        {
+          "what": "camber",
+          "value": "Pos. 3/4° ± 1/2°"
+        },
+        {
+          "what": "steering axis inclination",
+          "value": "7° ± 1/2°"
+        },
+        {
+          "what": "toe-in (total)",
+          "value": "3/16\" to 5/16\""
+        },
+        {
+          "what": "wheel bearing adjustment",
+          "value": "12 ft. lbs."
+        },
+        {
+          "what": "wheel bearing preload",
+          "value": "zero"
+        },
+        {
+          "what": "wheel bearing end movement",
+          "value": ".001\" to .008\""
+        }
+      ],
+      "notes": [
+        "Section 3. Caster and camber must not vary more than 1/2° from side to side.",
+        "Set toe-in with the steering gear in its straight-ahead position, after caster and camber are set. Any change to caster or camber affects toe, so always recheck and reset toe afterwards."
+      ],
+      "continues": false
+    }
+  ]
+}

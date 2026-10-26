@@ -1,0 +1,41 @@
+{
+  "page": 507,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-53",
+  "procedures": [
+    {
+      "title": "Wiper drive gear: assemble (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "drive plate",
+        "coil spring",
+        "spacer washers",
+        "shield",
+        "shim washers",
+        "snap ring",
+        "seal cap",
+        "crank arm",
+        "washer pump"
+      ],
+      "steps": [
+        "Hold the gear and turn the drive plate by hand until both pawl guide pins snap into their pockets in the gear (see figure 83 in the manual).",
+        "Refit the coil spring between the lock and drive pawls.",
+        "Put the inner spacer washer on the shaft and install the gear in the housing in roughly the position of figure 80 in the manual, keeping both pins in their pockets.",
+        "Refit, in order, the outer spacer washer, shield, shim washers (enough for no more than .005 in. end play), snap ring and rubber seal cap (see figure 79).",
+        "Run the wiper to park/off and install the crank arm.",
+        "Refit the washer pump to the wiper (see figure 70)."
+      ],
+      "specs": [
+        {
+          "what": "drive gear shaft end play",
+          "value": ".005\" max."
+        }
+      ],
+      "notes": [],
+      "continues": false
+    }
+  ],
+  "notes": [
+    "The Type C washer pump and/or valve can be removed from the wiper as a unit, so the wiper need not come off the car for pump service."
+  ]
+}

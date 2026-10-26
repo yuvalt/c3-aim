@@ -1,0 +1,95 @@
+{
+  "page": 497,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-43",
+  "procedures": [
+    {
+      "title": "Directional signal switch: replace (Corvette standard and telescoping column)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "directional signal switch",
+        "upper bearing housing",
+        "switch cover",
+        "wiring protector",
+        "escutcheon"
+      ],
+      "steps": [
+        "Cut the switch wiring just above the connector.",
+        "Remove the 3 switch mounting screws; slide the switch, cover and upper bearing housing off the column, drawing the wires out through the protector and escutcheon.",
+        "For the new switch, take off the harness connector supplied on its wiring.",
+        "Fit the upper bearing housing and signal switch into the switch cover.",
+        "Thread the wiring through the escutcheon and protector until the switch sits on the mast jacket.",
+        "With the switch on the mast jacket, install the 3 mounting screws.",
+        "Fit the thrust and wave washers and snap the lock ring into place.",
+        "Install the turn signal lever and the hazard warning knob.",
+        "Fit the cancelling cam and the upper bearing preload spring on the steering shaft.",
+        "Install the steering wheel, with the directional signal switch in neutral first.",
+        "Fit the connector to the directional signal harness and plug it into the body harness connector."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Wiper transmission: remove and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "wiper transmission",
+        "drive rods",
+        "wiper arms and blades",
+        "crank arm"
+      ],
+      "steps": [
+        "Make sure the wiper motor is parked.",
+        "Open the hood.",
+        "Corvette only: pull the rubber plug from the front of the wiper door actuator, insert a screwdriver and push the internal piston rearward to open the wiper door.",
+        "Take the wiper arm and blade assemblies off the transmission; on articulated left-hand arms, remove the carburetor-type clip holding the pinned arm to the blade arm.",
+        "Remove the plenum chamber air intake grille or screen, if fitted.",
+        "Loosen the nuts holding the drive rod ball stud to the crank arm and detach the drive rod.",
+        "Remove the transmission screws or nuts and drop the transmission and drive rods into the plenum chamber.",
+        "Lift the transmission and linkage out through the cowl opening.",
+        "Install in reverse order, with the blades in Park position within 3/8 in. of the reveal molding stop on recessed arms."
+      ],
+      "specs": [
+        {
+          "what": "wiper blade park position (recessed arms)",
+          "value": "± 3/8\" from stop of reveal moulding"
+        }
+      ],
+      "notes": [
+        "See figure 58 in the manual (wiper and motor linkage)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper motor: remove and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "wiper motor",
+        "sealing gaskets",
+        "washer hoses"
+      ],
+      "steps": [
+        "Make sure the wiper motor is parked.",
+        "Open the hood.",
+        "Disconnect the washer hoses and the electrical connectors from the motor.",
+        "Remove the plenum chamber grille or access cover and loosen the nuts holding the drive rod ball stud to the crank arm.",
+        "Remove the 3 motor screw assemblies or nuts and take out the motor.",
+        "Inspect the sealing gaskets at the motor and screws; replace as needed.",
+        "Set the motor against the cowl and install its screws or nuts.",
+        "Reconnect the wiring and washer hoses.",
+        "Install the plenum chamber grille or access cover."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the motor must be in Park before it goes on the cowl. Do not install a motor that has been dropped or hung by its drive link."
+      ],
+      "continues": false
+    }
+  ],
+  "notes": [
+    "Type E non-depressed park wiper (Chevelle, Chevrolet, Corvette): blades park about 2 in. above the windshield molding; 12-volt compound-wound rectangular motor driving a helical gear, intermediate gear and pinion, and output gear and shaft carrying the crank arm. Two parallel switches control start, stop and park."
+  ]
+}

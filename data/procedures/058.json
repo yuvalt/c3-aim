@@ -1,0 +1,55 @@
+{
+  "page": 58,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-39",
+  "procedures": [
+    {
+      "title": "Receiver-dehydrator: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "receiver-dehydrator",
+        "O-rings"
+      ],
+      "steps": [
+        "Purge the refrigerant from the system.",
+        "Disconnect the inlet and outlet lines and cap or tape them at once.",
+        "Remove the screws holding the receiver-dehydrator to the condenser bracket and take it out.",
+        "Put the new unit in place and fit its attaching screws; keep it capped until the moment of installation.",
+        "Connect the inlet and outlet lines with new O-rings coated with clean refrigeration oil and torque to 13 ft. lbs.",
+        "Add 1 fluid oz. of refrigeration oil, then evacuate, charge and check the system."
+      ],
+      "specs": [
+        {
+          "what": "receiver-dehydrator inlet/outlet connections",
+          "value": "13 ft. lbs."
+        },
+        {
+          "what": "oil added with new receiver-dehydrator",
+          "value": "1 fluid oz."
+        }
+      ],
+      "notes": [
+        "See figure 43/45 in the manual; figure 44 shows other models."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Sight glass: replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "sight glass",
+        "sight glass seal",
+        "retainer nut"
+      ],
+      "steps": [
+        "Purge the system."
+      ],
+      "specs": [],
+      "notes": [
+        "A damaged sight glass is replaced with a service unit containing glass, seal and retainer (see figure 46 in the manual)."
+      ],
+      "continues": true
+    }
+  ]
+}

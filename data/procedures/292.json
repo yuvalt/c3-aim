@@ -1,0 +1,29 @@
+{
+  "page": 292,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-1",
+  "procedures": [
+    {
+      "title": "Air Injection Reactor (A.I.R.) system: description",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection pump",
+        "air injection tubes",
+        "diverter valve",
+        "check valves",
+        "air manifolds",
+        "hoses"
+      ],
+      "steps": [
+        "Know the parts: belt-driven air injection pump with brackets, one injection tube per cylinder, a diverter valve, check valves (2 on V8s), and the air manifolds, tubes and hoses connecting them (see figure 1 in the manual).",
+        "Never swap the special carburetor or distributor of an A.I.R. engine for one made for an engine without A.I.R."
+      ],
+      "specs": [],
+      "notes": [
+        "The pump (with built-in filter) pushes air through the manifolds and tubes into the exhaust near the exhaust valves, where it burns unburned exhaust gas.",
+        "The diverter valve cuts off injected air when manifold vacuum rises sharply (see figure 3 in the manual)."
+      ],
+      "continues": false
+    }
+  ]
+}

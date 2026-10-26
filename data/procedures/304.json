@@ -1,0 +1,23 @@
+{
+  "page": 304,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-7",
+  "procedures": [
+    {
+      "title": "Battery: install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "battery carrier", "battery hold-down", "battery cables", "ground cable"],
+      "steps": [
+        "Make sure nothing is lying in the carrier so the battery sits flat on its bottom.",
+        "Tighten the hold-down evenly until snug, not so tight that the case or cover distorts or cracks.",
+        "Check that the cables are in good shape and the clamps clean and tight, including the ground cable at the engine block or frame.",
+        "Check polarity so the battery is not reversed relative to the charging system.",
+        "Connect the grounded battery terminal last to avoid shorts.",
+        "Do not open cable terminals beyond the position shown; with the terminal fully open push it onto the post at least flush with or below the top, and never drive it on."
+      ],
+      "specs": [{"what": "battery hold-down", "value": "60-80 in. lbs."}],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

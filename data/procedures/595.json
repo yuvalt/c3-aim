@@ -1,0 +1,87 @@
+{
+  "page": 595,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Body and chassis electrical specifications: lamp usage",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamps",
+        "bulbs",
+        "lamps"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "headlamp unit, outer - high beam",
+          "value": "37 1/2 Watts, bulb 4002"
+        },
+        {
+          "what": "headlamp unit, outer - low beam",
+          "value": "55 Watts, bulb 4002"
+        },
+        {
+          "what": "headlamp unit, inner - high beam only",
+          "value": "37 1/2 Watts, bulb 4001"
+        },
+        {
+          "what": "parking lamp and directional signal",
+          "value": "4-32 candle power, bulb 1157NA"
+        },
+        {
+          "what": "tail, stop and directional signal",
+          "value": "4-32 candle power, bulb 1157"
+        },
+        {
+          "what": "backing lamp",
+          "value": "32 candle power, bulb 1156"
+        },
+        {
+          "what": "instrument illumination lamps",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "hi-beam indicator",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "directional indicator",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "cigarette lighter lamp",
+          "value": "1 candle power, bulb 1445"
+        },
+        {
+          "what": "ignition lock lamp",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "heater or A/C control panel",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "glove box lamps",
+          "value": "2 candle power, bulb 1895"
+        },
+        {
+          "what": "dome and courtesy lamps, cartridge type (All)",
+          "value": "12 candle power, bulb 211"
+        },
+        {
+          "what": "dome and courtesy lamps, bayonet type, Corvette",
+          "value": "6 candle power, bulb 212-631"
+        },
+        {
+          "what": "dome and courtesy lamps, bayonet type, Corvette convertible",
+          "value": "6 candle power, bulb 631"
+        }
+      ],
+      "notes": [
+        "Section 12. Corvette rows and rows for all models; the table continues on the next page."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "page": 395,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-8",
+  "procedures": [
+    {
+      "title": "Steering coupling: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering coupling",
+        "instrument panel column mounting bracket",
+        "steering column",
+        "clamp bolt"
+      ],
+      "steps": [
+        "Unbolt and remove the instrument panel column mounting bracket.",
+        "With one person in the driver's seat and one at the engine compartment, raise the column just enough to pull the coupling off the steering gear; the person under the hood guides any column shift levers through the dash opening.",
+        "If the car must be left at this stage, set the column back in its mounted position and loosely refit the mounting bracket to hold it.",
+        "Take the coupling out of the car.",
+        "Installation: raise the column for clearance and loosely fit the coupling onto the steering gear shaft, keeping the column supported in its normal position whenever it is not being moved.",
+        "Slide the coupling into its installed position and fit the clamp bolt.",
+        "Fasten the coupling to the column's flanged end with washers and nuts, keeping the coupling adjustment shown in figure 16 in the manual.",
+        "Refit the instrument panel column mounting bracket, torqued to the spec at the rear of the manual.",
+        "Plug in the column harness and, if fitted, the back-up lamp/neutral safety switch connector.",
+        "Refit the seal, protective covers and trim cover or boot (see figure 14 in the manual); on the Corvette these covers go on from the engine compartment side."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: never let the column hang from the dash area once the bracket is off, or it will distort; keep it supported in its normal position.",
+        "Chevrolet/Chevelle-only automatic indicator pointer and lower cover steps are omitted."
+      ],
+      "continues": true
+    }
+  ]
+}

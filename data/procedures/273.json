@@ -1,0 +1,112 @@
+{
+  "page": 273,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Cooling, p.6K-2",
+  "procedures": [
+    {
+      "title": "Cooling system checks",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "thermostat",
+        "upper radiator hose",
+        "fan belt"
+      ],
+      "steps": [
+        "Exhaust leak into coolant: drain until coolant is just above the top of the cylinder head, disconnect the upper hose, remove the thermostat and fan belt, start the engine and rev it quickly several times; a noticeable rise in water or bubbles means exhaust is leaking in."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Coolant: periodic maintenance",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "coolant",
+        "GM Cooling System Inhibitor and Sealer"
+      ],
+      "steps": [
+        "Keep freeze protection suited to the area, and never below 0°F protection, for corrosion protection.",
+        "When topping up after coolant loss, or where it may drop below -20°F, use ethylene glycol coolant meeting GM Specification 1899-M.",
+        "Every 2 years flush with plain water and refill with fresh water plus high-quality inhibited permanent glycol coolant to GM 1899-M, protected to at least 0°F; add GM Cooling System Inhibitor and Sealer or equivalent.",
+        "Add Cooling System Inhibitor and Sealer again every fall after that."
+      ],
+      "specs": [],
+      "notes": [
+        "Never use alcohol or methanol coolants or plain water.",
+        "Main corrosion causes: air drawn in (low radiator level, leaking water pump, loose hose connections) and exhaust gas leaking past the head gasket or through cracks in head or block.",
+        "GM Cooling System Inhibitor slows rust and scale and is safe with aluminum parts."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cooling system: clean with GM Cooling System Cleaner",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "drain plugs",
+        "thermostat",
+        "thermostat housing",
+        "lower hose"
+      ],
+      "steps": [
+        "Drain the system, including the block, and close both drain plugs.",
+        "Take out the thermostat and refit the housing.",
+        "Add part No. 1 (liquid) of the cleaner.",
+        "Fill with water to about 3 inches below the top of the overflow pipe.",
+        "Cover the radiator and run at moderate speed until coolant reaches 180 degrees.",
+        "Uncover the radiator and run 20 minutes more without boiling.",
+        "With the engine running, add part No. 2 (powder) and run 10 more minutes.",
+        "Stop the engine, wait a few minutes, then open the drain cocks or pull the pipe plugs and disconnect the lower hose, taking care not to scald your hands."
+      ],
+      "specs": [],
+      "notes": [
+        "For other cleaners, follow their maker's directions.",
+        "Blow dirt and bugs out of the core air passages from the back with air pressure, without bending fins."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cooling system: reverse flush",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "radiator",
+        "flushing gun",
+        "lead-away hose",
+        "heater core",
+        "thermostat"
+      ],
+      "steps": [
+        "Always reverse flush after cleaning; water runs opposite to normal flow to push out deposits.",
+        "Radiator: remove the upper and lower hoses and refit the cap; put a lead-away hose on the top, a new hose on the outlet with the flushing gun in it, and connect the gun to water and air.",
+        "Radiator: fill with water, then give short air blasts, letting it refill between blasts, building air pressure gradually since a clogged radiator takes only limited pressure; continue until the lead-away water runs clear.",
+        "Block and head: with the thermostat out and the heater hoses disconnected and capped at the engine, put a lead-away hose on the water pump inlet and a new hose on the top water outlet with the flushing gun in it.",
+        "Block and head: fill the jacket with water, then use short air blasts until the water runs clear.",
+        "Heater: pull the outlet hose off the heater core pipe and the inlet hose off the engine, insert the flushing gun and flush the core, applying air carefully to avoid damaging it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fan belt: adjust",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "fan belt",
+        "Delcotron",
+        "strand tension gauge"
+      ],
+      "steps": [
+        "Loosen the Delcotron mounting bolts.",
+        "Pull the Delcotron away from the engine until the strand tension gauge shows the tension in the Engine Tune-Up Specifications.",
+        "Tighten all Delcotron bolts securely."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

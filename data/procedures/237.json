@@ -1,0 +1,105 @@
+{
+  "page": 237,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-5",
+  "procedures": [
+    {
+      "title": "Battery and battery cables: service",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery",
+        "battery cables",
+        "hold-down bolts",
+        "terminal felt washer"
+      ],
+      "steps": [
+        "Measure electrolyte specific gravity in each cell (see figure 6 in the manual); if under 1.230 corrected to 80°F, slow-charge the battery or test it further.",
+        "Disconnect the coil primary lead at the negative terminal so the engine cannot fire, then read battery terminal voltage with a voltmeter while cranking; under 9.0 volts at roughly 80° ± 20°F means the battery needs more testing (Section 6Y).",
+        "Look for corrosion on the battery, cables and nearby area, loose or broken carriers, cracked or bulged case, dirt and acid, leaking electrolyte and low level.",
+        "Top up the cells with distilled or demineralized water.",
+        "Keep the battery top clean of acid film and dirt: wash with a weak ammonia or soda solution to neutralize acid, then rinse with clean water, keeping the vent plugs tight so solution cannot get in.",
+        "Tighten the hold-down bolts enough to stop the battery moving, but not so much that the case is strained.",
+        "Make sure the cables are tight on the posts; oil the terminal felt washer.",
+        "Clean corroded posts and cable terminals separately with soda solution and a wire brush, then coat posts and clamps thinly with petrolatum before refitting."
+      ],
+      "specs": [
+        {
+          "what": "minimum specific gravity (corrected to 80°F)",
+          "value": "1.230"
+        },
+        {
+          "what": "minimum cranking terminal voltage at about 80° ± 20°F",
+          "value": "9.0 volts"
+        }
+      ],
+      "notes": [
+        "A battery that stays undercharged points to a loose or bad fan belt, defective Delcotron, high charging-circuit resistance, oxidized regulator points or a low voltage setting.",
+        "A battery using too much water means voltage output is too high."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Delcotron and regulator: tune-up check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "Delcotron",
+        "voltage regulator"
+      ],
+      "steps": [
+        "Use the battery checks above as the tune-up test of the charging system; follow up per Section 6Y as the battery condition indicates."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Drive belts: service",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "drive belts",
+        "strand tension gauge"
+      ],
+      "steps": [
+        "Check belt condition.",
+        "Measure tension with a strand tension gauge (see figure 7 in the manual).",
+        "Adjust to the tension given in the Tune Up Chart."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Manifold heat control valve: service",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "manifold heat control valve"
+      ],
+      "steps": [
+        "Check that the valve moves freely (see figure 9 in the manual for the V8).",
+        "Free a sticking shaft with GM Manifold Heat Control Solvent or equivalent, tapping the shaft end to end to help loosen it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Intake manifold: tighten",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "intake manifold bolts"
+      ],
+      "steps": [
+        "Torque the intake manifold bolts to specifications in the order on the Torque Sequence Chart."
+      ],
+      "specs": [],
+      "notes": [
+        "Even a small intake manifold leak ruins performance and economy."
+      ],
+      "continues": true
+    }
+  ]
+}

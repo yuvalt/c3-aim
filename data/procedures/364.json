@@ -1,0 +1,28 @@
+{
+  "page": 364,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-35",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic fluid level check",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "transmission fluid",
+        "dipstick",
+        "vent pipe"
+      ],
+      "steps": [
+        "At operating temperature: start the engine in Park without racing it and move the selector through every range.",
+        "Right away, with the selector in Park, engine running and the car on level ground, read the dipstick; it should be at FULL.",
+        "Add fluid if needed to reach FULL.",
+        "If the car has not been driven 15 expressway miles or the equivalent, check with the fluid at room temperature (70°F): start in Park without racing, run through each range, then read the dipstick in Park with the engine running on level ground; it should read 1/4\" below ADD."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: do not overfill; the fluid can foam and blow out the vent pipe as it heats. Running too low, especially cold, can cause total loss of drive and transmission failure.",
+        "A level set correctly at 70°F will read FULL once the transmission reaches 180°F."
+      ],
+      "continues": true
+    }
+  ]
+}

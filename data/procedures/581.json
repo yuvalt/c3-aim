@@ -1,0 +1,291 @@
+{
+  "page": 581,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Tune-up chart: 327 V8",
+      "topic": "specifications",
+      "applies_to": "327 V8",
+      "parts": [
+        "spark plugs",
+        "distributor",
+        "ignition timing",
+        "drive belts",
+        "valve lash",
+        "idle speed",
+        "fuel pump"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 hp: compression (psi)",
+          "value": "160"
+        },
+        {
+          "what": "327 350 hp: compression (psi)",
+          "value": "150"
+        },
+        {
+          "what": "spark plug, standard",
+          "value": "AC 44"
+        },
+        {
+          "what": "spark plug, cold",
+          "value": "AC 43"
+        },
+        {
+          "what": "spark plug gap",
+          "value": ".035"
+        },
+        {
+          "what": "point dwell",
+          "value": "28° - 32°"
+        },
+        {
+          "what": "point gap",
+          "value": ".016\" (Used) .019\" (New)"
+        },
+        {
+          "what": "breaker arm spring tension",
+          "value": "19 - 23 Ounces"
+        },
+        {
+          "what": "condenser",
+          "value": ".18 - .23 Microfarad"
+        },
+        {
+          "what": "327 300 hp: timing, synchro.",
+          "value": "4°B"
+        },
+        {
+          "what": "327 300 hp: timing, auto.",
+          "value": "4°B"
+        },
+        {
+          "what": "327 350 hp: timing, synchro.",
+          "value": "4°B"
+        },
+        {
+          "what": "327 350 hp: timing, auto.",
+          "value": "—"
+        },
+        {
+          "what": "valve lash, inlet and exhaust",
+          "value": "Hydraulic - One Turn Down From Zero Lash"
+        },
+        {
+          "what": "327 300 hp: idle rpm, synchro.",
+          "value": "700*"
+        },
+        {
+          "what": "327 300 hp: idle rpm, auto.",
+          "value": "600"
+        },
+        {
+          "what": "327 350 hp: idle rpm, synchro.",
+          "value": "750*"
+        },
+        {
+          "what": "327 350 hp: idle rpm, auto.",
+          "value": "—"
+        },
+        {
+          "what": "fuel pump pressure",
+          "value": "5 to 6-1/2"
+        },
+        {
+          "what": "fuel pump volume",
+          "value": "One Pint in 30 - 45 Seconds"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tune-up chart: 427 V8",
+      "topic": "specifications",
+      "applies_to": "427 V8",
+      "parts": [
+        "spark plugs",
+        "distributor",
+        "ignition timing",
+        "valve lash",
+        "idle speed",
+        "fuel pump"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "427 390 and 400 hp: compression (psi)",
+          "value": "160"
+        },
+        {
+          "what": "427 430 and 435 hp: compression (psi)",
+          "value": "150"
+        },
+        {
+          "what": "427 390, 400 and 435 hp: spark plug, standard",
+          "value": "AC 43N"
+        },
+        {
+          "what": "427 390, 400 and 435 hp: spark plug, cold",
+          "value": "AC C42N"
+        },
+        {
+          "what": "427 430 hp: spark plug, standard",
+          "value": "AC 43XL"
+        },
+        {
+          "what": "427 430 hp: spark plug, cold",
+          "value": "AC 42XL"
+        },
+        {
+          "what": "spark plug gap",
+          "value": ".035"
+        },
+        {
+          "what": "point dwell",
+          "value": "28° - 32°"
+        },
+        {
+          "what": "point gap",
+          "value": ".016\" (Used) .019\" (New)"
+        },
+        {
+          "what": "427 390 and 400 hp: breaker arm spring tension",
+          "value": "28 - 32 oz."
+        },
+        {
+          "what": "427 430 and 435 hp: breaker arm spring tension",
+          "value": "19 - 23 oz."
+        },
+        {
+          "what": "condenser",
+          "value": ".18 - .23 Microfarad"
+        },
+        {
+          "what": "427 390 and 400 hp: timing, synchro.",
+          "value": "4°B"
+        },
+        {
+          "what": "427 390 and 400 hp: timing, auto.",
+          "value": "4°B"
+        },
+        {
+          "what": "427 430 hp: timing, synchro.",
+          "value": "12°B (adjust timing at 800 rpm)"
+        },
+        {
+          "what": "427 435 hp: timing, synchro.",
+          "value": "4°B"
+        },
+        {
+          "what": "427 430 and 435 hp: timing, auto.",
+          "value": "—"
+        },
+        {
+          "what": "427 390 and 400 hp: valve lash",
+          "value": "Hydraulic - One Turn Down From Zero Lash"
+        },
+        {
+          "what": "427 430 hp: valve lash, inlet",
+          "value": ".022"
+        },
+        {
+          "what": "427 430 hp: valve lash, exhaust",
+          "value": ".024"
+        },
+        {
+          "what": "427 435 hp: valve lash, inlet",
+          "value": ".024"
+        },
+        {
+          "what": "427 435 hp: valve lash, exhaust",
+          "value": ".028"
+        },
+        {
+          "what": "427 390 hp: idle rpm, synchro.",
+          "value": "700"
+        },
+        {
+          "what": "427 400 hp: idle rpm, synchro.",
+          "value": "750"
+        },
+        {
+          "what": "427 430 hp: idle rpm, synchro.",
+          "value": "1000"
+        },
+        {
+          "what": "427 435 hp: idle rpm, synchro.",
+          "value": "750"
+        },
+        {
+          "what": "427 390 and 400 hp: idle rpm, auto.",
+          "value": "600"
+        },
+        {
+          "what": "427 430 and 435 hp: idle rpm, auto.",
+          "value": "—"
+        },
+        {
+          "what": "fuel pump pressure",
+          "value": "5 to 8-1/2"
+        },
+        {
+          "what": "fuel pump volume",
+          "value": "One Pint in 30 - 45 Seconds"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tune-up chart: all engines",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": [
+        "drive belts",
+        "air cleaner",
+        "crankcase vent",
+        "fuel filter",
+        "distributor cam lubricator"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "tune-up interval",
+          "value": "Every 12,000 miles"
+        },
+        {
+          "what": "fan & P/S belt tension",
+          "value": "50 lb. Min. 75 ± 5 lbs. (Used) 125 ± 5 lbs. (New) Using Strand Tension Gauge"
+        },
+        {
+          "what": "A/C compressor belt tension",
+          "value": "65 lb. Min. 95 ± 5 lbs. (Used) 140 ± 5 lbs. (New) Using Strand Tension Gauge"
+        },
+        {
+          "what": "A.I.R. pump belt tension",
+          "value": "35 lb. Min. 55 ± 5 lbs. (Used) 75 ± 5 lbs. (New) Using Strand Tension Gauge"
+        },
+        {
+          "what": "crankcase vent",
+          "value": "Service at 12,000 Miles"
+        }
+      ],
+      "notes": [
+        "Compression is psi at cranking speed with throttle wide open; cylinders may vary by at most 20 lbs.",
+        "Timing is set at idle with the vacuum advance line disconnected and plugged. A = A.T.D.C., B = B.T.D.C.",
+        "Mechanical valve lash is set with the engine at operating temperature and running.",
+        "Set idle with automatic transmissions in drive. On air-conditioned cars set idle with the A/C off, except where marked *.",
+        "V8 distributor: change the cam lubricator end for end every 12,000 miles and replace it at 24,000 miles.",
+        "Fuel filter: replace the element in the carburetor inlet every 12 months or 12,000 miles, whichever comes first.",
+        "Caution: the air cleaner also acts as a flame arrestor if the engine backfires; keep it installed unless removal is needed for repair or service.",
+        "Paper air cleaner element: at the first 12,000 miles inspect for dust leaks, holes or damage and replace if needed; if good, rotate it 180° from its original position. Replace at 24,000 miles. Do not wash, oil, tap or blow it out with an air hose. Replace a \"Bowtie\" filter, if fitted, every 24,000 miles.",
+        "Polyurethane element: every 12,000 miles clean in solvent such as kerosene, squeeze dry, soak in engine oil, squeeze out, then wring in a clean dry cloth to remove excess oil.",
+        "Flame arrestor (in the base of the air cleaner): every 12,000 miles clean with kerosene or suitable solvent and dry with compressed air."
+      ],
+      "continues": false
+    }
+  ]
+}

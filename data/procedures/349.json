@@ -1,0 +1,20 @@
+{
+  "page": 349,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-20",
+  "procedures": [
+    {
+      "title": "Clutch special tools",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch pilot bearing"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 23 in the manual shows: J-1522 pilot bearing driver, J-5824 clutch pilot tool, J-1448 pilot bearing puller."
+      ],
+      "continues": false
+    }
+  ]
+}

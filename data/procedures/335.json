@@ -1,0 +1,32 @@
+{
+  "page": 335,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-6",
+  "procedures": [
+    {
+      "title": "Three-speed transmissions (Saginaw and Warner): general description",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "main drive gear",
+        "mainshaft",
+        "countergear",
+        "anti-rattle plate",
+        "reverse idler gear",
+        "synchronizer assemblies",
+        "side cover"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Saginaw 3-speed: all forward gears synchronized, helical gears throughout. Main drive gear rides on a ball bearing at the front of the case and pilots in an oil-impregnated bushing in the crankshaft. Mainshaft front pilots in rollers inside the hollow main drive gear; its rear rides on a ball bearing at the front of the extension housing.",
+        "Saginaw countergear runs on one row of rollers at each end, with thrust washers between the gear ends and the case bosses. An anti-rattle plate at the front of the countergear spring-loads the counter and clutch gears to damp torsional vibration. Reverse idler turns on an in-place bored bushing on a short shaft, held forward by a snap ring.",
+        "Borg-Warner heavy duty 3-speed: same layout but built for high torque and speed, with heavy duty ball bearings, double-row countergear rollers, and a reverse idler on 25 roller bearings with thrust washers.",
+        "Shifting: rods to the rear side cover lever for first/reverse, and a cross shaft to the front side cover lever for second/third.",
+        "Each synchronizer is a clutch hub, clutch sleeve, two key springs and three energizer keys, held on the mainshaft by a snap ring.",
+        "All forward gears are synchronized, so sequential downshifts for engine braking need no double-clutching. Reverse is not synchronized but is a helical gear for quiet running.",
+        "The manual does not say here which car lines use the Saginaw or the Warner unit."
+      ],
+      "continues": false
+    }
+  ]
+}

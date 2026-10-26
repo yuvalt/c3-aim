@@ -1,0 +1,24 @@
+{
+  "page": 428,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-2",
+  "procedures": [
+    {
+      "title": "Tire wear: diagnose",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "A thin feather edge of rubber on one side of the tread confirms misalignment (see figure 1 in the manual); reset toe-in or recheck full front end alignment.",
+        "Heel and toe wear: tread blocks worn saw-tooth fashion, the leading (first to grip under braking) end worn more. Some is normal; it shows more on front tires since rears are also worn the opposite way by drive force.",
+        "Excessive heel and toe wear comes from fast driving and hard braking: advise the owner and rotate tires regularly."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 2 in the manual compares over- and under-inflation wear."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "page": 165,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-6",
+  "procedures": [
+    {
+      "title": "Rear wheel bearings: check end play",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "brake disc",
+        "dial indicator J-8001"
+      ],
+      "steps": [
+        "(continued) Rest the indicator pointer on the flange or spindle end (see figure 10 in the manual).",
+        "Push and pull the brake disc in and out while reading the indicator.",
+        "If end play is between .001\" and .008\", no adjustment is needed; otherwise note the reading and adjust as below."
+      ],
+      "specs": [
+        {
+          "what": "rear spindle bearing end play",
+          "value": ".001\" to .008\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear wheel bearings: adjust",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "spindle nut",
+        "cotter pin",
+        "drive spindle flange",
+        "brake caliper",
+        "brake disc",
+        "thread protector J-21859-1",
+        "puller J-22602",
+        "bearing shim",
+        "bearing spacer"
+      ],
+      "steps": [
+        "Set the parking brake so the spindle cannot turn, then remove the cotter pin and spindle nut.",
+        "Release the parking brake and pull the drive spindle flange off the splined spindle end.",
+        "Remove the brake caliper and disc (see Section 5).",
+        "Fit thread protector J-21859-1 on the spindle threads, then pull the drive spindle out of its support with tool J-22602 (see figure 11 in the manual).",
+        "Take the shim and bearing spacer out of the spindle support.",
+        "Note the old shim size. If end play read over .008\", choose a shim thinner by the excess; if under .001\", choose one thicker by the shortfall."
+      ],
+      "specs": [
+        {
+          "what": "bearing shims available",
+          "value": ".097\" to .148\" in .003\" steps"
+        }
+      ],
+      "notes": [
+        "Caution: keep the J-22602 puller plate vertical in the torque control arm before putting load on the puller screw.",
+        "Worked example: reading .011\" (.003\" too much); old shim .145\"; new shim .139\" (.006\" thinner) gives .005\" end play, which is in range."
+      ],
+      "continues": true
+    }
+  ]
+}

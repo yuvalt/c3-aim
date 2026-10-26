@@ -1,0 +1,57 @@
+{
+  "page": 233,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-1",
+  "procedures": [
+    {
+      "title": "Engine tune up: general approach",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [],
+      "steps": [
+        "Do a complete tune up rather than fixing just one or two items.",
+        "Part one: do the visual and mechanical checks and adjustments.",
+        "Part two: do the instrument checkout with the available test equipment, following that equipment maker's instructions.",
+        "If a condition needing major repair turns up, go to the relevant section of this manual or the Passenger Chassis Overhaul Manual."
+      ],
+      "specs": [],
+      "notes": [
+        "Higher compression, better electrical systems and other design changes make these engines more sensitive to tune; tune affects power, performance and fuel use."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Spark plugs: remove",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "spark plugs",
+        "spark plug wires"
+      ],
+      "steps": [
+        "Blow dirt away from around the plugs with compressed air.",
+        "Disconnect the plug wires and take out the plugs."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Compression test",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "compression gauge",
+        "starter remote control cable"
+      ],
+      "steps": [
+        "Take off the air cleaner and block the throttle and choke wide open.",
+        "Connect the remote starter cable and press the compression gauge firmly into a spark plug hole (see figure 1 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Low or uneven compression must be corrected before the tune up can succeed."
+      ],
+      "continues": true
+    }
+  ]
+}

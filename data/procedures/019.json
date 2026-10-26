@@ -1,0 +1,78 @@
+{
+  "page": 19,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-16",
+  "procedures": [
+    {
+      "title": "Lubrication diagram: Corvette",
+      "topic": "lubrication",
+      "applies_to": "Corvette",
+      "parts": [
+        "front suspension",
+        "steering linkage",
+        "steering gear",
+        "air cleaner",
+        "front wheel bearings",
+        "transmission",
+        "rear axle",
+        "oil filter",
+        "battery",
+        "parking brake",
+        "brake master cylinder"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "1 front suspension",
+          "value": "CL, every 6,000 miles"
+        },
+        {
+          "what": "2 steering linkage",
+          "value": "CL, every 6,000 miles"
+        },
+        {
+          "what": "3 steering gear",
+          "value": "CL, every 36,000 miles"
+        },
+        {
+          "what": "4 air cleaner",
+          "value": "replace every 24,000 miles"
+        },
+        {
+          "what": "5 front wheel bearings",
+          "value": "WB, whenever brakes are serviced"
+        },
+        {
+          "what": "6 transmission (3-speed, 4-speed, automatic)",
+          "value": "AT (automatic) or GL (manual), every 6,000 miles"
+        },
+        {
+          "what": "7 rear axle",
+          "value": "GL, every 6,000 miles"
+        },
+        {
+          "what": "8 oil filter",
+          "value": "every 6,000 miles (symbol)"
+        },
+        {
+          "what": "9 battery",
+          "value": "every 6,000 miles"
+        },
+        {
+          "what": "10 parking brake",
+          "value": "CL, every 6,000 miles"
+        },
+        {
+          "what": "11 brake master cylinder",
+          "value": "BF, every 6,000 miles"
+        }
+      ],
+      "notes": [
+        "See figure 14 in the manual for where each point is on the chassis.",
+        "Key: GL = multi-purpose or universal gear lubricant; CL = chassis lubricant; AT = DEXRON automatic transmission fluid; WB = wheel bearing lubricant; BF = brake fluid.",
+        "Refill a Positraction rear axle with the special lubricant only.",
+        "Intervals come from the symbol shapes: plain circle = lubricate every 6,000 miles, circle with tick marks = replace every 24,000 miles, black square = every 36,000 miles. Oil filter and battery show plain circles; see the text pages for their actual service."
+      ],
+      "continues": false
+    }
+  ]
+}

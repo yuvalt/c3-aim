@@ -1,0 +1,63 @@
+{
+  "page": 152,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-13",
+  "procedures": [
+    {
+      "title": "Lower control arm spherical joint: inspect",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "lower control arm spherical joint",
+        "ball stud nut",
+        "cotter pin",
+        "steering knuckle"
+      ],
+      "steps": [
+        "Hard greasing is another wear sign: if the liner grooves are worn away it takes abnormal pressure to push grease through, and both lower joints should be replaced.",
+        "If none of the above calls for replacement, check stud tightness in the knuckle on each side: wire-brush the nut and cotter pin and look for signs the stud is loose.",
+        "If it looks tight, pull the cotter pin and prick-punch matching marks on the nut, stud and knuckle.",
+        "Tighten the nut from its installed position and read the torque. Under 45 lb-ft means the stud may have been loose; replacing both lower joints may be advised.",
+        "Check that 60-94 lb-ft can be reached without the stud or joint bottoming on the knuckle; if it bottoms, replace the joint or the knuckle."
+      ],
+      "specs": [
+        {
+          "what": "ball stud nut, minimum torque reading as found",
+          "value": "45 lbs. ft."
+        },
+        {
+          "what": "ball stud nut torque reachable without bottoming",
+          "value": "60-94 lbs. ft."
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Lower control arm spherical joint: replace",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "lower control arm spherical joint",
+        "rivets",
+        "special alloy bolts",
+        "brake caliper",
+        "ball stud nuts"
+      ],
+      "steps": [
+        "Removal: support the lower arm's outer end on a floor jack, keeping the jack pad clear of the lower stud nut and seal.",
+        "Corvette (disc brakes): take off the caliper as described under wheel hub removal.",
+        "Remove the upper and lower ball stud nuts, free both studs from the knuckle and wire the knuckle and disc assembly up to the fender to keep it out of the way.",
+        "Cut off the joint rivets without enlarging the holes in the control arm.",
+        "Installation: fit the new joint against the underside of the arm and hold it with the special bolts and nuts in the kit.",
+        "Torque the bolts and the ball stud nut to the Specifications.",
+        "Grease the joint."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: use only the alloy bolts supplied; the special thick-head bolt goes on the forward side of the control arm.",
+        "This procedure is for Chevrolet and Corvette; the pressed-in Chevelle/Camaro/Chevy II joint (figures 21-22) is a different method."
+      ],
+      "continues": false
+    }
+  ]
+}

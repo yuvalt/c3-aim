@@ -1,0 +1,69 @@
+{
+  "page": 207,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-6",
+  "procedures": [
+    {
+      "title": "Hydraulic brake hose: remove and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake hose",
+        "copper gasket",
+        "U-shaped retainer",
+        "hose support bracket",
+        "steel brake line"
+      ],
+      "steps": [
+        "(Removal) Unscrew the double-flare connector of the steel line from the hose fitting.",
+        "Take off the U-shaped retainer and pull the hose out of its support bracket.",
+        "Unscrew the hose fitting from the wheel cylinder inlet.",
+        "(Installation) Put a new copper gasket on the male (cylinder) end of the hose.",
+        "Wet the threads with brake fluid and screw the hose into the wheel cylinder inlet.",
+        "With the car's weight on its wheels, suspension at normal height and front wheels straight, feed the female end through the support bracket and let the hose find its own position. Seat the hex of the fitting in the bracket's 12-point hole in whichever position twists the hose least (see figure 9 in the manual).",
+        "Fit the U-shaped retainer to lock the hose in the bracket.",
+        "Lift the wheel fully off the ground and turn the wheels lock to lock while watching the hose; it must not touch anything through full suspension and steering travel. If it does, remove the retainer, turn the female end one or two points in the bracket the needed way, refit the retainer and check again.",
+        "Thread the steel tube connector into the hose fitting and tighten it securely.",
+        "Bleed all brakes.",
+        "Do not tighten the male (wheel cylinder) end after the other end is secured; if it needs tightening, disconnect the opposite end first and reconnect using the steps above."
+      ],
+      "specs": [],
+      "notes": [
+        "Hoses need only periodic inspection for road damage.",
+        "Do not twist the hose more than necessary; its natural curve keeps it clear of suspension and steering parts through their full movement."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hydraulic brake tubing: double-lap flaring",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake tubing",
+        "compression couplings",
+        "J-8051 flaring tool",
+        "die blocks",
+        "upset flare punch"
+      ],
+      "steps": [
+        "Clamp the tube in the correct-size die blocks, flat ends of the blocks toward the end to be cut off. Cut the tube flush and square, then dress the end square with a mill file.",
+        "Take the tube out of the blocks and deburr inside and outside edges.",
+        "Slip the compression couplings onto the tube and dip the end to be flared in brake fluid (helps the flare form).",
+        "Put half of the die blocks in the tool body, counterbored ends toward the ram guide. Lay the tube in with about 1/2 in. sticking out past the end. Fit the other half, close the latch plate and run the nuts down finger tight.",
+        "Pick the correct-size upset flare punch (its hollow end gauges how much tube forms the double flare). Insert it gauge end toward the die blocks, fit the ram and tap lightly until the punch meets the blocks and forces them against the stop plate (see figure 12 in the manual).",
+        "Tighten the latch plate nuts hard with the supplied wrench so the tube cannot slip, alternating and starting with the nut at the closed hole to avoid bending the plate. Remove punch and ram, turn the punch around, refit it with the ram and tap until the punch face meets the die block face (see figure 13 in the manual). Remove ram and punch; this ends the first operation."
+      ],
+      "specs": [
+        {
+          "what": "tube protrusion beyond die blocks",
+          "value": "approximately 1/2\""
+        }
+      ],
+      "notes": [
+        "Brake tubing is double-wall annealed steel terne-plate tubing that resists corrosion and withstands high pressure.",
+        "CAUTION: replace tubing only with the special steel brake tubing; ordinary copper tubing must not be used. Ends must be double-lap flared for a strong, leak-free joint; a poor flare will leak and disable the brakes.",
+        "Use flaring tool J-8051 (see figure 10 in the manual). Figure 11 in the manual compares a split single-lap flare (A) with a sound double-lap flare (B)."
+      ],
+      "continues": true
+    }
+  ]
+}

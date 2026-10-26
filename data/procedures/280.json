@@ -1,0 +1,59 @@
+{
+  "page": 280,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-6",
+  "procedures": [
+    {
+      "title": "Choke coil (V8): replace",
+      "topic": "fuel",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "choke coil",
+        "choke coil shield",
+        "choke rod",
+        "choke valve",
+        "air cleaner"
+      ],
+      "steps": [
+        "Rochester 4MV and Holley: fit and adjust the choke rod with the shield off.",
+        "Rochester 4MV and Holley: unhook the upper end of the rod, lower the shield over the rod onto the coil, slide the shield to the best fit along the manifold and reconnect the rod's upper end.",
+        "Check that the choke valve swings freely from fully open to fully closed.",
+        "Start and warm the engine and check choke operation.",
+        "Refit the air cleaner."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Throttle linkage: adjust (Corvette cable)",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": [
+        "accelerator pedal",
+        "throttle cable",
+        "cable clamp bolt",
+        "carburetor throttle lever",
+        "TV rod",
+        "accelerator return spring"
+      ],
+      "steps": [
+        "Disconnect the throttle rod swivel at the carburetor throttle lever.",
+        "Corvette: hold the accelerator pedal to the floor against its stop, move the carburetor throttle lever wide open and tighten the cable clamp bolt to 45 in. lbs.",
+        "With automatic transmission, disconnect the TV rod at the throttle lever.",
+        "With automatic transmission, hold the throttle lever fully open, pull the TV rod to its full detent position, adjust the rod so it just enters the lever hole and connect it.",
+        "Refit the accelerator return spring."
+      ],
+      "specs": [
+        {
+          "what": "Corvette throttle cable clamp bolt",
+          "value": "45 in. lbs."
+        }
+      ],
+      "notes": [
+        "Cable throttle controls need no adjustment except on the Corvette; TV controls on cable linkages are adjusted like the TV rod step.",
+        "Figure 12C in the manual (page 6M-10) shows the Corvette linkage."
+      ],
+      "continues": false
+    }
+  ]
+}

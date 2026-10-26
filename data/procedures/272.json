@@ -1,0 +1,58 @@
+{
+  "page": 272,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Cooling, p.6K-1",
+  "procedures": [
+    {
+      "title": "Coolant level: check",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "radiator cap",
+        "radiator"
+      ],
+      "steps": [
+        "Check coolant level only with the engine cool (especially with air conditioning); opening the cap on a hot system can cause serious injury.",
+        "Downflow radiator: keep the level 1 inch below the bottom of the filler neck when cold, or at the bottom of the neck when warm.",
+        "Crossflow radiator: keep the level 3 inches below the bottom of the filler neck when cold.",
+        "If coolant is lost repeatedly, check the pressure cap and its seat for sealing, and look for loose hose connections, bad hoses and gasket leaks."
+      ],
+      "specs": [
+        {
+          "what": "radiator pressure cap",
+          "value": "15 (lb.)"
+        },
+        {
+          "what": "safe coolant temperature with 15 lb. cap",
+          "value": "up to 247°F"
+        }
+      ],
+      "notes": [
+        "Overfilling hurts the cap's ability to seal.",
+        "Removing or loosening the cap drops pressure to atmospheric and coolant above 212°F flashes to steam, blowing coolant out of the upper hose and top tank.",
+        "Running above water's normal boiling point is fine as long as the cold coolant level is right.",
+        "Radiator service is in Section 13; fan shroud replacement in Section 11. The pressure cap has a relief valve that vents to the overflow (see figure 1 in the manual).",
+        "The water pump (ball bearing, centrifugal vane impeller) needs no care except keeping the top air vent and bottom drain holes clear; overhaul is in Section 6K of the Passenger Chassis Overhaul Manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cooling system checks",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "radiator",
+        "water pump",
+        "upper radiator hose"
+      ],
+      "steps": [
+        "Radiator restriction: warm the engine, shut it off and feel the radiator; it should be hot at the top and warm at the bottom with an even rise between. Cold spots mean clogged sections.",
+        "Water pump: run the engine and squeeze the upper hose; you should feel a pressure surge. Also check the pump vent hole is not plugged."
+      ],
+      "specs": [],
+      "notes": [
+        "A bad head gasket can let exhaust into the coolant, forming acids that damage radiator and engine."
+      ],
+      "continues": true
+    }
+  ]
+}

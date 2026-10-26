@@ -1,0 +1,86 @@
+{
+  "page": 289,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Fuel Pump, p.6M-15",
+  "procedures": [
+    {
+      "title": "Fuel pump: inspect",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump",
+        "mounting bolts",
+        "fuel line connections"
+      ],
+      "steps": [
+        "Check that the pump mounting bolts and the inlet and outlet connections are tight."
+      ],
+      "specs": [],
+      "notes": [
+        "The diaphragm pump is driven off a camshaft eccentric; on V8s a push rod between the eccentric and the pump rocker arm works it (see figure 1P in the manual). It is serviced only as a complete assembly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Fuel pump: test",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump",
+        "fuel pipes",
+        "pressure test gauge"
+      ],
+      "steps": [
+        "Test with the pump on the engine and fuel in the tank.",
+        "Tighten loose line connections and check the lines for bends or kinks.",
+        "Disconnect the fuel pipe at the carburetor and the distributor-to-coil primary wire so the engine cranks without firing; hold a container at the pipe end and crank a few turns.",
+        "If little or no fuel comes out, the pipe is clogged or the pump has failed: before pulling the pump, disconnect the pipes at the tank and pump outlet, blow them through with an air hose, reconnect and retest.",
+        "If flow is good, attach a pressure gauge to the open end of the pump-to-carburetor pipe and run the engine at about 450-1,000 rpm on the fuel in the bowl.",
+        "A good pump holds pressure within spec and steady across 450-1,000 rpm; replace it if pressure is low, high, or changes much with speed."
+      ],
+      "specs": [],
+      "notes": [
+        "The tank-to-pump line is the suction side and pump-to-carburetor the pressure side; pressure-side leaks drip fuel, while suction-side leaks only show up as reduced delivery.",
+        "CAUTION: when cranking remotely at the starter, disconnect the primary distributor lead at the coil negative post and have the ignition switch ON, or the switch grounding circuit will be damaged."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Fuel pump: remove",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump",
+        "fuel pump gasket",
+        "fuel pump push rod",
+        "pipe plug",
+        "fuel pump adapter"
+      ],
+      "steps": [
+        "Disconnect the inlet and outlet pipes at the pump.",
+        "Remove the mounting bolts, pump and gasket.",
+        "V8, if the push rod must come out: on 427 (396) engines remove the pipe plug and push rod; on 327 (302/307/350) engines remove the fuel pump adapter, gasket and push rod."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fuel pump: install",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel pump",
+        "fuel pump gasket",
+        "fuel pump push rod",
+        "pipe fitting",
+        "fuel pump adapter"
+      ],
+      "steps": [
+        "V8, if the push rod was removed: refit it along with the pipe fitting or fuel pump adapter, using gasket sealer on the gasket or fitting."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

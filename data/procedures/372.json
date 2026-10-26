@@ -1,0 +1,18 @@
+{
+  "page": 372,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-43",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic special tools",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 8T in the manual shows: J-8763 transmission holding fixture; J-3289-14 holding fixture base; J-21427-1 speedometer gear remover; J-9539 slide hammer bolts (3/8\"-16); J-8105 speedometer gear remover puller; J-21885 accumulator piston installer; J-21369 converter pressure check fixture; J-21362 seal protector, forward and direct clutch inner; J-21363 seal protector, intermediate clutch inner; J-21409 seal protector, forward clutch outer; J-21664 clutch spring compressor adapter ring; J-4670 clutch spring compressor; J-8059, J-5586 and J-5403 snap ring pliers; J-1313 torque wrench 0-140 ft. lbs."
+      ],
+      "continues": true
+    }
+  ]
+}

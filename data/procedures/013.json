@@ -1,0 +1,89 @@
+{
+  "page": 13,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-10",
+  "procedures": [
+    {
+      "title": "Engine crankcase oil: capacity and viscosity",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "engine oil"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "SAE 5W and 5W-20 are not for sustained high-speed driving.",
+        "SAE 30 and 20W-40 may be used above 90°F.",
+        "SAE 5W-30 may be used below 32°F.",
+        "SAE 10W-40 may be used between 0 and 90°F.",
+        "Use only oils certified by the supplier as meeting the automakers' sequence tests or GM Standard 6041-M; the container will say so."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine oil level: check",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "oil gauge rod (dipstick)"
+      ],
+      "steps": [
+        "After running the engine, wait a few minutes for oil to drain back before checking.",
+        "Keep the level between the \"Add Oil\" and \"Full\" lines on the gauge rod.",
+        "Do not overfill.",
+        "Check often and top up as needed."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine oil and filter: change intervals",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "engine oil",
+        "oil filter"
+      ],
+      "steps": [
+        "Drain and refill the crankcase every 4 months or 6000 miles, whichever comes first, under normal driving.",
+        "Drain only when the engine is fully warm, so contaminants come out with the oil.",
+        "Replace the filter at the first oil change and at every second change after that."
+      ],
+      "specs": [
+        {
+          "what": "oil change, normal service",
+          "value": "every 4 months or every 6000 miles"
+        },
+        {
+          "what": "oil change, heavy duty (start-stop or long idling)",
+          "value": "2500-3000 miles"
+        },
+        {
+          "what": "filter change, heavy duty",
+          "value": "5000-6000 miles"
+        }
+      ],
+      "notes": [
+        "Change more often under prolonged dusty conditions.",
+        "Crankcase dilution: fuel and water vapor condense in a cold engine and form acids that etch piston pins, cam bearings and other parts. The thermostat, coolant bypass, exhaust manifold heat control, automatic choke and crankcase ventilation all reduce it."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Manifold heat control valve: check",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "manifold heat control valve"
+      ],
+      "steps": [
+        "Every 6,000 miles, check that the valve moves freely.",
+        "If the shaft sticks, free it with GM Manifold Heat Control Solvent or equivalent."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

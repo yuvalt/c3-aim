@@ -1,0 +1,49 @@
+{
+  "page": 415,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-28",
+  "procedures": [
+    {
+      "title": "Steering column: install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "seal",
+        "support assembly",
+        "clamp",
+        "clamp bolt",
+        "steering wheel",
+        "turn signal, horn, back-up lamp and neutral start connectors"
+      ],
+      "steps": [
+        "Corvette: fasten the seal and support assembly to the dash panel from the engine compartment side (see figure 20 in the manual).",
+        "Corvette: tighten the clamp, washer and clamp bolt on the engine compartment side.",
+        "If the column has lower shift levers, connect the transmission linkage to them in the engine compartment and adjust per Section 7.",
+        "Refit the steering wheel as described in this section.",
+        "Plug in the turn signal, horn, back-up lamp and neutral start switch connectors; adjust the back-up lamp/neutral start switch per Section 12.",
+        "Adjust the steering gear and align and center the steering wheel as described in this section."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering column: realign",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering column",
+        "flexible coupling"
+      ],
+      "steps": [
+        "Realign the column if there is slow return after turns, noise, an uneven feel when turning the wheel, or a distorted flexible coupling.",
+        "Also realign whenever the column has been fully loosened or taken out of the car.",
+        "Do the work with the car on the ground and all four wheels carrying its weight."
+      ],
+      "specs": [],
+      "notes": [
+        "The Corvette-specific procedure follows on the next page."
+      ],
+      "continues": false
+    }
+  ]
+}

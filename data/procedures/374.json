@@ -1,0 +1,22 @@
+{
+  "page": 374,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-1",
+  "procedures": [
+    {
+      "title": "Fuel tank: drain by siphoning",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": ["fuel tank", "3/8\" I.D. hose", "pipe nipple", "air hose"],
+      "steps": [
+        "There is no drain plug, so siphon the fuel out.",
+        "Get about 10 feet of 3/8\" I.D. hose and cut a flap-type slit about 18\" from one end, angled toward the short end (see figure 1 in the manual).",
+        "Push a small pipe nipple, slightly larger in O.D. than the hose I.D., into the other end.",
+        "Feed the nipple end down the filler neck with the hose's natural curl pointing down until you hear it hit the tank bottom.",
+        "Put the free end in a suitable container, then aim an air hose downward into the slit to start the fuel flowing."
+      ],
+      "specs": [],
+      "notes": ["Corvette: the tank gauge (sending unit) is on the lower side of the tank and can be serviced without removing the tank; the tank straps hinge at the tank support and bolt at the rear end."],
+      "continues": true
+    }
+  ]
+}

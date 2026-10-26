@@ -1,0 +1,74 @@
+{
+  "page": 214,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-13",
+  "procedures": [
+    {
+      "title": "Parking brake rear cables (Corvette): remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake rear cables",
+        "rear wheel flange plate",
+        "equalizer"
+      ],
+      "steps": [
+        "Fasten the cable to the rear wheel flange plate.",
+        "Clip the cables along the frame rail.",
+        "Pass the cable end through the equalizer and hook it to the equalizer connector.",
+        "Adjust the parking brake (see Maintenance and Adjustments).",
+        "Lubricate the cables and all moving parts (see Lubrication, Section 0)."
+      ],
+      "specs": [],
+      "notes": [
+        "Corvette parking brake shoes are covered under Disc Brakes (p.5-29)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Brake pedal: remove and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "brake pedal",
+        "nylon bushings",
+        "pedal pivot shaft",
+        "pedal support brace",
+        "clutch pedal",
+        "main cylinder",
+        "pedal bracket",
+        "support plate"
+      ],
+      "steps": [
+        "(Removal) Manual transmission: unhook the clutch pedal return spring.",
+        "Disconnect the clutch push rod from the pedal.",
+        "Remove the retainer and clevis pin to free the brake pedal from the main cylinder push rod.",
+        "Corvette: remove the steering column (see Section 9).",
+        "Corvette: hold the main cylinder from the engine side and remove the 4 support brace nuts.",
+        "Corvette: remove the 4 nuts and bolts holding the support plate to the bracket and take off the plate.",
+        "Corvette: remove the 2 screws holding the bracket under the instrument panel and lower bracket and pedals to the floor.",
+        "Take the retainer off the right end of the pedal pivot shaft.",
+        "Slide the clutch pedal assembly to the left and out of the support brace.",
+        "Pull out the brake pedal and all nylon bushings.",
+        "(Inspection) Clean the metal parts with a good non-toxic solvent.",
+        "Wipe the nylon bushings with a clean cloth only.",
+        "Check every nylon bushing for wear or damage.",
+        "Check the bushing mating surfaces for wear or damage; replace parts as needed.",
+        "(Installation) Lubricate and fit nylon bushings on the pivot shaft, at the right side of the support brace cutout, and in both ends of the brake pedal bore.",
+        "Hook the brake pedal return spring on the pedal arm, set the pedal in the support brace and index the spring in the brace cutout.",
+        "Slide the pivot shaft through the support brace and pedal bore.",
+        "Fit the retainer on the right end of the pivot shaft.",
+        "Corvette: fasten the bracket with the pedals under the instrument panel with 2 screws.",
+        "Corvette: fit the support plate to the bracket with 4 bolts and nuts.",
+        "Corvette: position the main cylinder, install the 4 bracket and cylinder mounting bolts and secure everything with 4 nuts.",
+        "Corvette: reinstall the steering column (see Section 9)."
+      ],
+      "specs": [],
+      "notes": [
+        "If needed, remove air conditioning parts first (see Section 1A).",
+        "CAUTION: never clean nylon bushings with any cleaning agent.",
+        "Steps for the Chevelle and Camaro pedal return spring are omitted. See figure 24 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

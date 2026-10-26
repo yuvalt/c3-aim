@@ -1,0 +1,162 @@
+{
+  "page": 367,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-38",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic governor: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [
+        "Pull the governor out of the case.",
+        "Install in reverse order with a new cover gasket, then set the fluid level."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic modulator and modulator valve: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "vacuum modulator",
+        "modulator retainer and screw",
+        "modulator O-ring",
+        "modulator valve"
+      ],
+      "steps": [
+        "Remove the modulator screw and retainer.",
+        "Pull the modulator out of the case and discard its O-ring.",
+        "Remove the modulator valve from the case.",
+        "Install in reverse order with a new O-ring on the modulator, then set the fluid level."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic parking linkage: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "bottom pan",
+        "oil strainer",
+        "detent lever",
+        "manual shaft",
+        "jam nut",
+        "manual shaft retaining pin",
+        "manual shaft seal",
+        "parking actuator rod",
+        "parking pawl bracket",
+        "parking pawl return spring",
+        "parking pawl shaft retainer",
+        "parking pawl shaft",
+        "cup plug",
+        "parking pawl"
+      ],
+      "steps": [
+        "Remove the bottom pan and strainer.",
+        "Unscrew the jam nut holding the detent lever on the manual shaft.",
+        "Pull the manual shaft retaining pin from the case.",
+        "Remove the manual shaft and jam nut; leave the manual shaft seal unless it must be replaced.",
+        "Remove the parking actuator rod and detent lever assembly.",
+        "Unscrew and remove the parking pawl bracket.",
+        "Remove the pawl return spring.",
+        "Only if parts must be replaced: remove the pawl shaft retainer, then the pawl shaft, cup plug and pawl.",
+        "Install in reverse order, using a new seal and cup plug if they were removed and a new pan gasket; set the fluid level."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic rear seal: replace",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "propeller shaft",
+        "rear seal"
+      ],
+      "steps": [
+        "Remove the propeller shaft.",
+        "Pry the seal out with a screwdriver or small chisel.",
+        "Drive in a new seal with tool J-21359.",
+        "Refit the propeller shaft."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic: other service with transmission in vehicle",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "oil filler pipe and O-ring",
+        "oil pan and gasket",
+        "downshift solenoid or connector",
+        "valve body spacer plate, gasket and check balls",
+        "front accumulator piston",
+        "rear servo and rear accumulator",
+        "front servo",
+        "speedometer driven gear",
+        "case extension and gasket",
+        "strainer and O-ring"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "When done as single jobs rather than in an overhaul, these are best done with the transmission in the car (procedures in the Overhaul Manual, Transmission Disassembly and Reassembly): oil filler pipe and O-ring; oil pan and gasket; downshift solenoid or connector; valve body spacer plate, gasket and check balls; front accumulator piston; rear servo and rear accumulator; rear band apply check with tool J-21370; front servo; speedometer driven gear; case extension or gasket; strainer and O-ring."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic transmission: remove and install",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "negative battery cable",
+        "parking brake",
+        "exhaust pipes",
+        "propeller shaft",
+        "speedometer cable",
+        "case connector lead",
+        "vacuum modulator line",
+        "oil cooler pipes",
+        "shift control linkage",
+        "rear mount",
+        "frame crossmember",
+        "parking brake pulley",
+        "detent solenoid wire",
+        "converter under pan",
+        "converter-to-flywheel bolts",
+        "transmission-to-engine bolts",
+        "oil filler tube",
+        "converter holding tool J-5384"
+      ],
+      "steps": [
+        "Before lifting the car, disconnect the negative battery cable and release the parking brake.",
+        "Put the car on a hoist and remove both exhaust pipes (Corvette).",
+        "Remove the propeller shaft.",
+        "Disconnect the speedometer cable, the lead to the case connector, the modulator vacuum line and the oil cooler pipes.",
+        "Disconnect the shift control linkage.",
+        "Support the transmission on a transmission jack.",
+        "Unhook the rear mount from the frame crossmember.",
+        "Remove the two bolts at each end of the crossmember, plus (on Corvette) the through bolt inside the frame and the parking brake pulley; take out the crossmember.",
+        "Remove the oil cooler lines, modulator vacuum line, speedometer cable and detent solenoid wire at the transmission.",
+        "Remove the converter under pan.",
+        "Remove the converter-to-flywheel bolts.",
+        "Lower the transmission until the jack is just carrying it.",
+        "Remove the transmission-to-engine bolts and the oil filler tube at the transmission.",
+        "Raise the transmission back to its normal height, support the engine on a jack, slide the transmission back off the engine and lower it out."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: hold the converter with tool J-5384 while lowering, or keep the rear of the transmission lower than the front, so the converter does not fall out.",
+        "Steps for Camaro (parking brake cables, reinforcement plate, left exhaust pipe) and the exhaust bolt loosening for Chevrolet and Chevelle are omitted."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "page": 422,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-35",
+  "procedures": [
+    {
+      "title": "Power steering pump: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump",
+        "drive pulley",
+        "pulley nut",
+        "pump hoses",
+        "pump belt"
+      ],
+      "steps": [
+        "Unbolt the pump from its mounting parts and lift it out.",
+        "Remove the drive pulley nut.",
+        "Pull the pulley with J-21239 (stamped pulleys) or J-8433-1 with adapter J-8433-2 (cast iron pulleys); never hammer it off or the pump will be damaged.",
+        "Installation: fit the pulley, drawing it on with the pulley nut; do not hammer on the pump shaft.",
+        "Set the pump in place on the car and fit its mounting parts loosely (see figure 62 in the manual).",
+        "Connect and tighten the hose fittings.",
+        "Fill the reservoir and bleed the pump by turning the pulley backward (counterclockwise seen from the front) until no more air bubbles appear.",
+        "Fit the belt over the pulley.",
+        "Tension the belt as under Pump Belt Tension.",
+        "Bleed the system as under Maintenance and Adjustments."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering control valve ball stud seal: replace",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "control valve ball stud seal",
+        "seal clamp",
+        "spacer",
+        "pitman arm"
+      ],
+      "steps": [
+        "Remove the pitman arm as under Steering Linkage.",
+        "Remove the clamp by taking off its nut, bolt and spacer; if it is a crimped clamp, straighten the end and pull the clamp and seal off the stud.",
+        "Fit the new seal and clamp over the stud so the seal lips mate with the clamp.",
+        "Center the ball stud, seal and clamp in the adapter housing opening, then fit the spacer, bolt and nut (see figure 64 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Service replacements use a nut-and-bolt clamp in place of the crimped type."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power steering control valve: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "control valve",
+        "relay rod clamp bolt",
+        "pump to valve hoses",
+        "valve to power cylinder hoses",
+        "pitman arm ball stud"
+      ],
+      "steps": [
+        "Removal: raise the front of the car and support it on stands.",
+        "Remove the relay rod-to-control valve clamp bolt.",
+        "Disconnect the 2 pump-to-valve hoses, draining fluid into a container, then disconnect the 2 valve-to-power cylinder hoses.",
+        "Remove the ball stud nut at the pitman arm and free the valve from the pitman arm.",
+        "Swing the pitman arm right, clear of the valve, and unscrew the valve from the relay rod.",
+        "Take the valve out of the car.",
+        "Installation: install in reverse order.",
+        "Reconnect the lines, fill with fluid, bleed out the air as under Maintenance and Adjustments, and grease the ball joint."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering control valve: balance",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "control valve",
+        "adjusting nut",
+        "power cylinder piston rod",
+        "frame bracket"
+      ],
+      "steps": [
+        "Balance the valve after any disassembly, or to cure steering that is harder one way than the other (see figure 66 in the manual).",
+        "With the valve installed, hoses connected and reservoir filled, leave the piston rod disconnected from the frame bracket (detach it if the car is in service).",
+        "With the car on a hoist, start the engine.",
+        "If the rod stays retracted, turn the adjusting nut clockwise until the rod starts out, then counterclockwise until it just starts in; then turn the nut clockwise"
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

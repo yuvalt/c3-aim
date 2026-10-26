@@ -1,0 +1,30 @@
+{
+  "page": 61,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-42",
+  "procedures": [
+    {
+      "title": "A/C blower motor: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "blower motor",
+        "air cooling tube",
+        "sill plate molding",
+        "right splash shield"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Unplug the blower motor wire and the rubber air cooling tube.",
+        "Remove the front 3 sill plate molding screws and pry the molding out to reach the right splash shield bolts.",
+        "Remove the splash shield bolts and the splash shield.",
+        "Remove the motor-to-case screws and lower the motor out through the splash shield opening, gently prying the flange if the sealer holds it.",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [
+        "Four-Season system. Figure 48 in the manual shows the Corvette (427 V8) compressor mounting."
+      ],
+      "continues": false
+    }
+  ]
+}

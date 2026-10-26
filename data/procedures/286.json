@@ -1,0 +1,26 @@
+{
+  "page": 286,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Air Cleaners, p.6M-12",
+  "procedures": [
+    {
+      "title": "Polyurethane air cleaner element: clean",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "polyurethane element",
+        "support screen",
+        "air cleaner body",
+        "gaskets"
+      ],
+      "steps": [
+        "Squeeze excess oil or solvent out; never shake, swing or wring the element, which can tear it.",
+        "Fit the element on its screen support (see figure 4A in the manual).",
+        "Set the air cleaner body back on the carburetor air horns with new gaskets.",
+        "Put the element in the air cleaner with its lower lip seated correctly and no folds or creases that would spoil the seal; check the upper lip is seated when fitting the cover."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

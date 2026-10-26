@@ -1,0 +1,28 @@
+{
+  "page": 202,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-1",
+  "procedures": [
+    {
+      "title": "Brake system: general description",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "dual main cylinder",
+        "brake pipe distribution and switch assembly",
+        "brake alarm indicator light",
+        "parking brake lever"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Every 1968 model uses a split system: the front and rear brakes have independent hydraulic circuits fed by a dual main cylinder (see figure 1 in the manual), so a failed line or cylinder in one circuit still leaves enough braking to stop the car under control.",
+        "The dual main cylinder resembles the earlier Corvette unit: one body casting with two separate reservoirs and outlets. The front reservoir/outlet feeds the front brakes, the rear one feeds the rear brakes. Two pistons, pushed by the pedal push rod, turn pedal force into line pressure. The filler cap is reached from the engine compartment.",
+        "A brake pipe distribution and switch assembly sits below the main cylinder; front and rear lines run through it (see figure 2 in the manual). It is wired to the brake alarm light on the instrument panel. If one circuit leaks, a pressure difference of 150 to 250 psi during braking pushes its piston against the springs onto an electrical contact and lights the lamp. The same lamp also lights with the parking brake applied.",
+        "The drum-brake description on this page (Duo-Servo self-adjusting shoes, double-piston wheel cylinders) covers the other car lines; the 1968 Corvette has four-wheel disc brakes as standard (see Disc Brakes, p.5-23).",
+        "Corvette parking brake: a ratchet-type lever located behind the console (description continues on the next page).",
+        "Page also carries the section 5 contents and the Duo-Servo brake index."
+      ],
+      "continues": true
+    }
+  ]
+}

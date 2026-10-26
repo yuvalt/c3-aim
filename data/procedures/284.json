@@ -1,0 +1,27 @@
+{
+  "page": 284,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-10",
+  "procedures": [
+    {
+      "title": "Throttle linkage: Corvette layout (figure 12C)",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": [
+        "throttle cable",
+        "throttle linkage",
+        "carburetor throttle lever",
+        "cable bracket",
+        "return spring",
+        "3x2 carburetor linkage"
+      ],
+      "steps": [
+        "Use figure 12C in the manual to identify the Corvette throttle linkage parts when adjusting or replacing them.",
+        "327 and 427 (except 3x2): the throttle cable runs from the firewall along the engine to a bracket and the carburetor throttle lever, with a return spring at the bracket (View C).",
+        "427 with 3x2 carburetors: the cable connects at the rear carburetor and rods link the three carburetors (Views A and B); the left-hand linkage is shown and the right-hand side is opposite."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

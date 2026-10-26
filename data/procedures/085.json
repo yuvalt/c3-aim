@@ -1,0 +1,20 @@
+{
+  "page": 85,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-66",
+  "procedures": [
+    {
+      "title": "A/C special tools",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C service tools"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "See figure 91 in the manual. Tools (excluding the Comfortron-only testers J-22368 and J-21530): J-8393 charging station; J-5453 goggles; J-9459 90° gauge line adapter; J-5420 gauge line adapter; J-6084 leak detector; J-8433 puller; J-9395 puller pilot; J-6271 Fitzall valve (single can); J-5421 pocket thermometers (2); J-5403 #21 snap ring pliers; J-6435 #26 snap ring pliers; J-9396 compressor holding fixture; J-9397 compressing fixture; J-9403 clutch hub holding tool; J-9399 9/16\" thin wall socket; J-9401 hub and drive plate remover; J-9480 hub and drive plate installer; J-9392 seal remover; J-9393 seal seat remover; J-9398 pulley bearing remover; J-9481 pulley and bearing installer; J-8092 handle; J-21352 internal assembly support block; J-5139 oil pickup tube remover; J-9432 needle bearing installer; J-9553 seal seat O-ring remover; J-21508 seal seat O-ring installer; J-22974 shaft seal protector; J-9527 pressure test connector; J-9402 parts tray."
+      ],
+      "continues": false
+    }
+  ]
+}

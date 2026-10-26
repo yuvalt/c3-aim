@@ -1,0 +1,102 @@
+{
+  "page": 194,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-35",
+  "procedures": [
+    {
+      "title": "Differential carrier: remove and install",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "differential carrier",
+        "carrier cover",
+        "carrier gasket",
+        "strut rod bracket",
+        "camber cam bolts",
+        "carrier-to-cover bolts (8)",
+        "two 1/2\"-13 x 1-1/4\" bolts (aligning studs)",
+        "rubber cushion",
+        "U-bolts",
+        "filler plug",
+        "hypoid lubricant"
+      ],
+      "steps": [
+        "(continued) Mark the camber cam and bolt positions on the strut rod bracket and loosen the cam bolts.",
+        "Remove the 4 bolts holding the bracket to the carrier underside and drop the bracket; remove the camber cam bolts and swing the strut rods up out of the way.",
+        "Remove the 8 carrier-to-cover bolts, loosening them gradually so the lubricant drains.",
+        "Pull the carrier part way out of the cover, drop its nose to clear the crossmember, and work it down and out.",
+        "Installation: clean the inside of the carrier cover, grease the gasket surface well and lay a new gasket on the cover.",
+        "Make 2 aligning studs by cutting the heads off two 1/2\"-13 x 1-1/4\" bolts and slotting the plain end; screw them into two carrier bolt holes below center, one each side.",
+        "Lift the carrier into place, guiding the studs into the cover (see figure 87 in the manual).",
+        "Fit the carrier-to-cover bolts and tighten securely.",
+        "Connect the propeller shaft to the companion flange and transmission yoke.",
+        "Fit the rubber cushion on the bracket, place it on the frame crossmember, fit the nut and torque to specification.",
+        "Lift the drive shafts into place and clamp the inboard trunnions to the side gear yokes with the U-bolts.",
+        "Attach the strut rods to the bracket, lift the bracket under the carrier, fit the 4 bolts and torque to specification; set the camber cams to their marks and tighten the cam nuts.",
+        "Reconnect the spring end link bolts (see Spring Installation).",
+        "Remove the filler plug on the right side of the cover and fill with hypoid lubricant up to the hole.",
+        "Lower the car and road test for leaks, noise and general operation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Positraction differential: on-vehicle check",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "Positraction differential",
+        "adapter J-5748",
+        "1/2-13 bolt",
+        "0-150 lb-ft torque wrench"
+      ],
+      "steps": [
+        "With a manual transmission, put it in neutral.",
+        "Raise the rear until the wheels are clear and remove one wheel and tire.",
+        "Fit adapter J-5748 to the axle shaft flange and put a 1/2-13 bolt in the adapter (see figure 88 in the manual).",
+        "Hold the other wheel firmly so it cannot turn, and read the torque needed to turn the axle with a 0-150 lb-ft torque wrench on J-5748."
+      ],
+      "specs": [
+        {
+          "what": "Positraction rotating torque, new",
+          "value": "70 ft. lbs. minimum"
+        },
+        {
+          "what": "Positraction rotating torque, used",
+          "value": "no less than 40 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Positraction is optional and fits in the standard carrier in place of the regular differential; service is the same as a standard axle apart from this check.",
+        "J-5748 is listed among the Corvette rear suspension special tools (figure 105)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Propeller shaft and universal joints: general description",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "propeller shaft",
+        "universal joints",
+        "front slip yoke",
+        "transmission output shaft",
+        "damper and sleeve",
+        "O-ring seal",
+        "snap rings"
+      ],
+      "steps": [
+        "If a driveline clunk develops on a car with the 3-speed automatic, clean the slip yoke spline and pack it with about one tablespoon of lithium soap base chassis lube."
+      ],
+      "specs": [],
+      "notes": [
+        "All models use a one-piece, exposed tubular propeller shaft with extended-life cross-type U-joints that need no periodic maintenance.",
+        "The splined front yoke slides into the transmission output shaft, letting the shaft length change slightly as the axle moves up and down.",
+        "Two versions exist: Dana (see figure 89 in the manual) and Saginaw (see figure 90 in the manual); some applications carry a damper, which is not serviced separately; replace the sleeve and damper as an assembly (see figure 91 in the manual) to avoid imbalance.",
+        "The spline needs no periodic service; an O-ring in the transmission output shaft keeps transmission oil from reaching it.",
+        "Dana shafts hold the U-joint bearings with ordinary external snap rings; Saginaw shafts hold them with injected nylon..."
+      ],
+      "continues": true
+    }
+  ]
+}

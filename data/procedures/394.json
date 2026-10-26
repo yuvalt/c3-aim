@@ -1,0 +1,60 @@
+{
+  "page": 394,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-7",
+  "procedures": [
+    {
+      "title": "Steering wheel (Corvette telescoping): remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "telescoping steering wheel",
+        "hub",
+        "cancelling cam",
+        "spring",
+        "spacer",
+        "lock knob",
+        "lock screw",
+        "horn contact",
+        "horn button cap"
+      ],
+      "steps": [
+        "Remove the shaft nut and washer and pull the wheel and hub together with puller J-2927.",
+        "Slide the cancelling cam and spring off the shaft.",
+        "Installation (torques per the specs at the rear of the manual): if removed, slide the cancelling cam and spring onto the shaft.",
+        "If the hub was separated, reattach it to the wheel with its original screws.",
+        "Set the wheel and hub on the column and secure with washer and nut.",
+        "Place the spacer on the wheel.",
+        "Place the lock knob on the wheel.",
+        "Pass the lock screw through the knob, thread it into the shaft and set it to the locked position.",
+        "Fasten the spacer to the wheel with 3 screws.",
+        "With the knob in the locked position, fasten it to the lock screw with 2 screws.",
+        "Take out the 3 spacer screws, then fasten the horn contact to the spacer and wheel with 3 screws.",
+        "Refit the horn button cap.",
+        "Plug the column harness back in at the chassis plug.",
+        "Reconnect the battery ground cable."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering coupling: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering coupling",
+        "column harness connector",
+        "back-up lamp/neutral safety switch connector"
+      ],
+      "steps": [
+        "Removal: disconnect the battery ground cable.",
+        "Unplug the column harness and the back-up lamp/neutral safety switch connectors (see figure 9 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Steps specific to Camaro, Chevy II, Chevrolet and Chevelle (mast jacket covers, indicator wire) are omitted here."
+      ],
+      "continues": true
+    }
+  ]
+}

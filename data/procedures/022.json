@@ -1,0 +1,31 @@
+{
+  "page": 22,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-3",
+  "procedures": [
+    {
+      "title": "Blower motor: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "blower motor",
+        "blower wheel",
+        "blower case",
+        "radiator supply tank"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "If the car has a radiator supply tank, take out its screws and set the tank aside.",
+        "Unplug the blower motor wire.",
+        "Remove the screws holding the motor to the blower case and lift out the motor; pry gently on the flange if the sealer is holding it.",
+        "Remove the nut retaining the blower wheel and separate the wheel from the motor.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "Fit the blower wheel onto the motor with its open end facing away from the motor.",
+        "See figure 4 in the manual (blower and case)."
+      ],
+      "continues": false
+    }
+  ]
+}

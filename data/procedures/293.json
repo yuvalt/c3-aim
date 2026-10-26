@@ -1,0 +1,80 @@
+{
+  "page": 293,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-2",
+  "procedures": [
+    {
+      "title": "Air Injection Reactor (A.I.R.) system: description",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "diverter valve",
+        "pressure relief valve",
+        "check valves"
+      ],
+      "steps": [
+        "When A.I.R. seems faulty, check engine tune first, especially fuel-air ratio items: crankcase ventilation, carburetor and air cleaner."
+      ],
+      "specs": [],
+      "notes": [
+        "Cutting air during the richer decel period prevents backfire; on overrun all the air is dumped through the diverter valve muffler.",
+        "At high speed excess air is dumped through the relief valve, located on the pump or on the diverter valve depending on design.",
+        "Check valves keep exhaust from flowing back into and damaging the pump, which can happen even in normal running.",
+        "Any faulty A.I.R. part or related engine part can raise emissions."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pump drive belt: inspect, adjust and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection pump drive belt",
+        "pump mounting bolt",
+        "pump adjustment bracket bolt",
+        "strand tension gauge"
+      ],
+      "steps": [
+        "Check the belt for wear, cracks or deterioration and replace if needed.",
+        "Check tension with a strand tension gauge and adjust if below 50 lbs.",
+        "To adjust: loosen the pump mounting bolt and adjustment bracket bolt, move the pump until the belt is at spec, then tighten the bracket bolt and mounting bolt.",
+        "To replace: loosen the same bolts, swing the pump in until the belt comes off, fit the new belt and adjust."
+      ],
+      "specs": [
+        {
+          "what": "A.I.R. belt minimum tension before adjustment",
+          "value": "50 lbs."
+        },
+        {
+          "what": "A.I.R. belt tension, used belt",
+          "value": "55 ± 5 lb."
+        },
+        {
+          "what": "A.I.R. belt tension, new belt",
+          "value": "75 ± 5 lb."
+        }
+      ],
+      "notes": [
+        "CAUTION: never pry on the pump housing; distorting it causes major pump damage."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. drive pulley: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "drive pulley",
+        "drive belt"
+      ],
+      "steps": [
+        "Remove the drive belt and replace the drive pulley.",
+        "Install and adjust the belt."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 2 in the manual shows the pump: do not oil the vent hole; the relief valve and pressure setting plug are on the pump."
+      ],
+      "continues": false
+    }
+  ]
+}

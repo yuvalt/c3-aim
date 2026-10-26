@@ -1,0 +1,75 @@
+{
+  "page": 63,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-44",
+  "procedures": [
+    {
+      "title": "POA valve (evaporator control valve): replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "POA valve",
+        "valve bracket"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable and purge the refrigerant.",
+        "Disconnect the inlet, outlet, oil bleed and expansion valve lines and cap them at once.",
+        "Remove the screw holding the valve body bracket to the evaporator case (or case bracket) and take out the valve with its bracket.",
+        "Install the new valve in reverse order, then evacuate and charge the system."
+      ],
+      "specs": [],
+      "notes": [
+        "The valve cannot be repaired or adjusted; replace it if faulty.",
+        "See figure 49 in the manual for installation on each model."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Expansion valve: replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "expansion valve",
+        "power element bulb",
+        "equalizer line",
+        "inlet screen",
+        "insulation"
+      ],
+      "steps": [
+        "Before replacing, rule out other causes: bulb correctly placed on the low pressure line, clamped tight and insulated, and the liquid inlet screen (between valve and receiver-dehydrator line) not clogged.",
+        "Disconnect the battery ground cable and purge the system.",
+        "Unclamp the power element bulb from the low pressure line and disconnect the equalizer line from the POA valve.",
+        "Disconnect the low pressure connector, then the high pressure connector.",
+        "Remove the screw and bracket holding the valve to the blower or evaporator case and take the valve out.",
+        "Check the inlet screen; if plugged, replace it and recheck valve operation, and replace the valve only if it still misbehaves.",
+        "Connect the lines to the new valve, clamp its bulb on top of the low pressure line and connect the equalizer line to the suction throttling valve.",
+        "Refit the insulation around the bulb and make sure the bulb touches the suction line firmly.",
+        "Reconnect the battery ground cable.",
+        "Evacuate and charge the system.",
+        "Check for correct operation."
+      ],
+      "specs": [],
+      "notes": [
+        "The valve is preset at the factory and cannot be adjusted.",
+        "Failure causes: needle stuck open or shut from corrosion, or a discharged power element from a broken capillary line or tip.",
+        "See figure 50 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Vacuum tank: description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "vacuum tank",
+        "check valve"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Carburetor vacuum falls under hard acceleration; the vacuum tank, with a check valve, stores vacuum so the controls keep working.",
+        "On the Corvette there is no separate A/C vacuum tank (see next page)."
+      ],
+      "continues": false
+    }
+  ]
+}

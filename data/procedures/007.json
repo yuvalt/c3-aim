@@ -1,0 +1,79 @@
+{
+  "page": 7,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-4",
+  "procedures": [
+    {
+      "title": "Vehicle serial number: decode",
+      "topic": "other",
+      "applies_to": "all models",
+      "parts": [
+        "vehicle serial number tag"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "position 1",
+          "value": "manufacturer identity (1 = Chevrolet)"
+        },
+        {
+          "what": "positions 2-5",
+          "value": "body style / model number (see model identification)"
+        },
+        {
+          "what": "position 6",
+          "value": "last digit of model year (8 = 1968)"
+        },
+        {
+          "what": "position 7",
+          "value": "assembly plant letter"
+        },
+        {
+          "what": "positions 8-13",
+          "value": "unit number, starting at 100,001 at every plant"
+        }
+      ],
+      "notes": [
+        "The manual's sample tag is 1 5645 8 F 100025 (F = Flint); a Corvette tag carries 194 37/67 as the body style."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Keys and locks",
+      "topic": "other",
+      "applies_to": "Corvette",
+      "parts": [
+        "ignition key",
+        "door lock key",
+        "spare tire compartment lid lock"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Each car comes with four keys: two with hexagonal heads and two with round heads.",
+        "The hexagonal-head key fits the ignition switch and the front door locks.",
+        "The round-head key fits the glove box and rear compartment locks; on the Corvette it fits the spare tire compartment lid lock."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Pushing and towing: automatic transmission",
+      "topic": "transmission",
+      "applies_to": "all models",
+      "parts": [
+        "automatic transmission",
+        "battery"
+      ],
+      "steps": [
+        "Do not try to start a car with an automatic transmission by pushing it.",
+        "If the battery is flat, start the engine with an auxiliary battery and jumper cables.",
+        "Connect positive to positive and negative to negative."
+      ],
+      "specs": [],
+      "notes": [
+        "Do not tow a car to start it: the disabled car may accelerate into the tow vehicle.",
+        "Caution: never use booster batteries totalling more than 12 volts, or the electrical system can be damaged."
+      ],
+      "continues": false
+    }
+  ]
+}

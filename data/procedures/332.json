@@ -1,0 +1,86 @@
+{
+  "page": 332,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-3",
+  "procedures": [
+    {
+      "title": "Clutch assembly: install in vehicle",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch cover",
+        "flywheel",
+        "clutch fork",
+        "throwout bearing",
+        "dust boot",
+        "flywheel housing",
+        "fork push rod"
+      ],
+      "steps": [
+        "Rotate the clutch until the cover's \"X\" mark matches the flywheel's \"X\" mark, then line up the cover bolt holes with the nearest flywheel holes.",
+        "Put a bolt in each hole and draw them down evenly and gradually until tight, so the clutch is not distorted.",
+        "Take out the pilot tool.",
+        "Unhook the fork, grease the ball socket and the fork fingers at the bearing end with a high melting point grease such as graphite (Moly grease on Corvette), and refit the fork on the ball stud.",
+        "Pack the recess inside the throwout bearing collar and coat the throwout fork groove lightly with graphite grease (Moly grease on Corvette); see figure 3 in the manual.",
+        "Fit the fork and dust boot into the clutch housing, mount the throwout bearing on the fork, then install the flywheel housing.",
+        "Install the transmission (see transmission section).",
+        "Connect the fork push rod and spring.",
+        "Adjust the shift linkage (see transmission section).",
+        "Adjust the linkage for pedal free play and check the clutch release point."
+      ],
+      "specs": [],
+      "notes": [
+        "The grease slinger always faces the transmission side.",
+        "Clutch cover loads reach 1-1/4 tons.",
+        "Figure 3 compares release bearings: the bent-finger type is 1-1/4\" long, the other 1-7/8\"."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch pedal",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch pedal",
+        "pedal support brace",
+        "brake pedal"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The pendant clutch pedal hangs from a support brace shared with the brake pedal and has to come out before the brake pedal can be removed. Service is covered in Section 5. See figure 4 in the manual (Corvette linkage shown separately)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Clutch cross shaft: remove, repair and install",
+      "applies_to": "all models",
+      "topic": "clutch",
+      "parts": [
+        "clutch cross shaft",
+        "linkage return spring",
+        "lower linkage springs",
+        "clutch pedal push rod",
+        "fork push rod",
+        "outboard ball stud",
+        "inboard ball stud",
+        "nylon ball stud seats",
+        "engine bracket ball stud",
+        "anti-rattle O-ring"
+      ],
+      "steps": [
+        "Take off the linkage return spring and lower linkage springs, and unhook the pedal and fork push rods from their cross shaft levers.",
+        "Loosen the nut on the outboard ball stud and slide the stud out of the bracket slot.",
+        "Move the shaft outboard far enough to clear the inboard ball stud, then lift it out.",
+        "Inspect the nylon ball stud seats for wear or damage, and check the engine bracket ball stud assembly and its special anti-rattle O-ring; replace worn or damaged parts.",
+        "Grease the ball studs and seats with graphite grease before reassembly.",
+        "Install in reverse order.",
+        "Adjust the clutch linkage as described earlier."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 5 in the manual for the lower linkage parts."
+      ],
+      "continues": false
+    }
+  ]
+}

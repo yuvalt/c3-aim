@@ -1,0 +1,60 @@
+{
+  "page": 421,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-34",
+  "procedures": [
+    {
+      "title": "Power steering hydraulic system: test",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "pressure gauge J-5176",
+        "thermometer J-5421",
+        "pump reservoir",
+        "pressure hose",
+        "power steering pump"
+      ],
+      "steps": [
+        "Engine off: disconnect the flexible pressure line at the pump and fit gauge J-5176 so the gauge sits between the shut-off valve and the pump; open the shut-off valve.",
+        "Remove the reservoir cap, check the level, and fill to the full mark on the dipstick.",
+        "Start the engine and, holding the wheel against a stop, check the gauge connections for leaks.",
+        "Bleed the system as under Maintenance and Adjustments.",
+        "Put thermometer J-5421 in the reservoir filler and turn the wheel stop to stop several times until the fluid reaches 150° to 170°F.",
+        "Hold the wheel against a stop briefly and read the gauge; a maximum pressure below spec (see the specifications at the end of the manual) means a faulty hydraulic circuit, so go on to test two.",
+        "Test two (circuit closed): slowly close the J-5176 shut-off valve and read the gauge, then reopen the valve quickly to protect the pump.",
+        "If the pressure is below spec, the pump output is low and the pump is faulty.",
+        "If the pressure is within spec, the fault is in the external hoses, connections, control valve and adapter, or steering gear."
+      ],
+      "specs": [
+        {
+          "what": "fluid temperature for pressure test",
+          "value": "150° to 170°F"
+        }
+      ],
+      "notes": [
+        "Caution: to avoid flat-spotting the tires, do not turn the wheel more than 5 times without rolling the car to a new tire contact patch.",
+        "If the pump fails test two, repeat the test after it is repaired and reinstalled to verify the repair and check the gear or valve and adapter, which may also be faulty."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power steering pump: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump",
+        "pump hoses",
+        "pump belt",
+        "pump to alternator belt"
+      ],
+      "steps": [
+        "Removal: disconnect the hoses at the pump; hold their ends up so oil does not drain, and cap or tape them against dirt (see figure 62 in the manual).",
+        "Cap the 2 pump fittings so the pump does not drain.",
+        "Take off the pump belt.",
+        "Corvette with 427 engine: loosen the alternator adjustment and remove the pump-to-alternator belt."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

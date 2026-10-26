@@ -1,0 +1,72 @@
+{
+  "page": 156,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-17",
+  "procedures": [
+    {
+      "title": "Lower control arm cross shaft and/or bushings: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "lower control arm",
+        "lower control arm cross shaft",
+        "cross shaft bushings",
+        "collars"
+      ],
+      "steps": [
+        "Move the capscrew to the other end of the shaft, turn the arm over on the support (bushing flange again clear) and press out the second bushing; discard it.",
+        "Installation: with the cross shaft in the arm and J-7052-1 in place, set the arm on J-5888-3 and start a bushing by hand into the arm over the shaft end.",
+        "Put installer J-7052-5 over the bushing; make sure the three-piece spacer does not overlap the bushing holes in the arm.",
+        "Press until the bushing flange meets the arm (see figure 29 in the manual).",
+        "Turn the arm over and press in the other bushing the same way; the shaft should then turn by hand.",
+        "Fit the collar, lock washer and capscrew at each end; torque to specification only after the spring is installed."
+      ],
+      "specs": [],
+      "notes": [
+        "The end of the cross shaft with two bolt holes goes toward the front of the arm."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Upper control arm spherical joint: inspect and replace",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "upper control arm spherical joint",
+        "ball stud",
+        "rivets",
+        "5/16\" bolts"
+      ],
+      "steps": [
+        "Inspection: after replacement steps 1-4 below, put a nut on the stud and read the torque needed to turn the stud in the joint.",
+        "Replace the joint if the reading is far above or below specification; if the upper joint is worn, replace both upper and lower joints.",
+        "Replacement: support the car at the outer end of the lower control arm.",
+        "Remove the wheel and tire.",
+        "Remove the cotter pin and nut from the upper ball stud.",
+        "Free the stud from the knuckle.",
+        "Chisel off the joint rivets.",
+        "Drill the joint holes in the arm out to 21/64\" for the 5/16\" bolts in the kit.",
+        "Fit the new joint with the special bolts and nuts supplied.",
+        "Reconnect the ball stud to the knuckle."
+      ],
+      "specs": [
+        {
+          "what": "upper joint ball stud turning torque, new joint",
+          "value": "3 to 10 lbs. ft."
+        },
+        {
+          "what": "enlarged bolt hole size",
+          "value": "21/64\""
+        },
+        {
+          "what": "joint attaching bolts",
+          "value": "5/16\""
+        }
+      ],
+      "notes": [
+        "The upper control arm does not have to be removed for this inspection.",
+        "Lube fittings: same as for the lower joint; new joints come without a fitting, so install a self-threading fitting in the untapped hole."
+      ],
+      "continues": false
+    }
+  ]
+}

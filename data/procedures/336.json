@@ -1,0 +1,66 @@
+{
+  "page": 336,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-7",
+  "procedures": [
+    {
+      "title": "Three-speed floor shift linkage adjustment (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "1st/reverse shift rod",
+        "2nd/3rd shift rod",
+        "swivels",
+        "swivel lock nuts",
+        "shift control lever and bracket assembly",
+        "locating gauge"
+      ],
+      "steps": [
+        "Loosen the swivel lock nuts on both shift rods; each rod must slide freely through its swivel.",
+        "Put the shift lever inside the car in neutral and insert a 41/64 in. locating gauge in the notch of the lever and bracket assembly.",
+        "By hand, move the shift levers on the transmission to neutral.",
+        "With the 1st/reverse rod and lever held against the gauge, tighten the locknut against the swivel.",
+        "With the 2nd/3rd rod and lever held against the gauge, run the front nut up to the swivel, then tighten the rear nut against the swivel.",
+        "Pull the gauge and check the shifts.",
+        "Go back to neutral and reinsert the gauge; if it will not slide freely into the bracket assembly, adjust the linkage again."
+      ],
+      "specs": [
+        {
+          "what": "shift linkage locating gauge",
+          "value": "41/64 in."
+        }
+      ],
+      "notes": [
+        "See figure 7 in the manual (Corvette linkage at the side cover and gauge location)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Three-speed shift control lever and bracket assembly: replace (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "shift control lever knob",
+        "console trim plate",
+        "seat assembly",
+        "transmission control rods",
+        "shift control support bracket",
+        "crossmember",
+        "console boot"
+      ],
+      "steps": [
+        "Inside the car, take off the shift lever knob.",
+        "Remove the console trim plate and the seat assembly.",
+        "Unhook the transmission control rods from the shift control levers.",
+        "Remove the bolts holding the shift control to the support bracket.",
+        "Remove the bolts holding the support bracket to the crossmember.",
+        "Take the support out of the car, then pull the control assembly downward out of the console boot and out of the car.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "For disassembly of the lever and bracket, use figure 9 in the manual for the parts breakdown and how they are positioned."
+      ],
+      "continues": false
+    }
+  ]
+}

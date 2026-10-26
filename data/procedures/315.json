@@ -1,0 +1,35 @@
+{
+  "page": 315,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-18",
+  "procedures": [
+    {
+      "title": "Ignition system (breaker point): periodic maintenance",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor breaker points", "spark plugs", "cam lubricator wick", "ignition coil"],
+      "steps": [
+        "Service the breaker points and spark plugs periodically; just inspect the rest of the system for operation, tight connections and wiring condition.",
+        "Test the coil with a reputable tester.",
+        "Replace the cam lubricator wick whenever the contact set is replaced; do not oil the wick or the cam.",
+        "Position a new wick so its end just touches the breaker cam lobe."
+      ],
+      "specs": [],
+      "notes": ["The distributor shaft is lubricated from a lube reservoir around the mainshaft in the body."],
+      "continues": false
+    },
+    {
+      "title": "Breakerless (transistor) ignition: maintenance",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["ignition pulse amplifier", "magnetic pulse distributor", "distributor upper bushing", "plastic seal"],
+      "steps": [
+        "No periodic maintenance is needed: the pulse amplifier (forward of the radiator bulkhead) has no moving parts and the distributor shaft and bushings are permanently lubricated.",
+        "At overhaul, remove the plastic seal over the upper bushing cavity and add SAE 20 oil to the packing.",
+        "Fit a new plastic seal; the old one is damaged on removal."
+      ],
+      "specs": [{"what": "upper bushing packing oil", "value": "SAE 20"}],
+      "notes": ["Breakerless ignition is an option for Corvette only. The lower bushing is oiled by engine splash through a hole in the housing."],
+      "continues": true
+    }
+  ]
+}

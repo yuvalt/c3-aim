@@ -1,0 +1,18 @@
+{
+  "page": 350,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-21",
+  "procedures": [
+    {
+      "title": "Manual transmission special tools",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 24 in the manual shows: J-0933 clutch gear bearing retainer wrench; J-1126 transmission guide pins; J-8059 retainer snap ring pliers; J-21629 and J-22246 countergear loading tools; J-5778 extension housing bushing remover/installer; J-5154 extension housing seal installer; J-5814-15 speedometer drive gear remover; J-1453-01 speedometer drive gear press plates; J-9771 press plates (not shown); J-358-1 press plate holder; J-4653 overdrive governor wrench; J-5590 clutch gear bearing installer; J-7785 clutch gear retainer lip seal installer."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "page": 552,
+  "source": "1968 Chevrolet Chassis Service Manual, Bumpers, p.14-8",
+  "procedures": [
+    {
+      "title": "Front bumper (Corvette): remove and install",
+      "topic": "bumpers",
+      "applies_to": "Corvette",
+      "parts": [
+        "bumper guards",
+        "face bar",
+        "shims and washers",
+        "bumper braces",
+        "decorative radiator grilles"
+      ],
+      "steps": [
+        "Separate the guards from the face bar.",
+        "Record where shims and washers go as you strip the assembly, to ease reassembly.",
+        "(Installation) Bolt the face bar to the bumper braces loosely.",
+        "Fit the guards to the face bar and frame crossmember loosely.",
+        "Align the bumper to the body, then tighten the outer face bar bolts first, then the center bolts, and the guard-to-frame bolts last.",
+        "Refit the decorative radiator grilles.",
+        "Lower the car off the hoist."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear bumper (Corvette): remove and install",
+      "topic": "bumpers",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear bumper",
+        "bumper braces",
+        "bumper rods",
+        "bolts, washers and nuts"
+      ],
+      "steps": [
+        "(Removal) Put the car on a hoist.",
+        "From under the car, remove the bolts, washers and nuts fastening the bumper to the braces and rods, outboard bolts first.",
+        "Remove the braces and rods from the frame.",
+        "(Installation) Attach the braces and rods to the frame loosely.",
+        "Fit all bolts, washers and nuts before tightening any of them.",
+        "Align the rear bumpers to the body, then tighten all bolts."
+      ],
+      "specs": [],
+      "notes": [
+        "Steps cover the left-hand bumper; the right-hand side is done the same way.",
+        "See figure 9 in the manual (exploded view of the rear bumper installation, on the previous page)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear license plate housing (Corvette): remove",
+      "topic": "bumpers",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear license plate housing",
+        "license plate",
+        "housing retaining screws"
+      ],
+      "steps": [
+        "Remove the license plate.",
+        "Remove the housing retaining screws and lift the housing off."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 10 in the manual."
+      ],
+      "continues": false
+    }
+  ]
+}

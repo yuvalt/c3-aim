@@ -1,0 +1,61 @@
+{
+  "page": 322,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-25",
+  "procedures": [
+    {
+      "title": "Distributor (breaker point type): assemble (V8)",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["distributor housing", "plastic seal", "felt washer", "vacuum advance unit", "breaker plate", "spring retainer", "weight cam", "advance weights", "mainshaft", "tachometer drive gear", "drive gear shims", "drive gear", "roll pin", "contact point set", "condenser", "rotor"],
+      "steps": [
+        "Fill the housing lube cavity with the proper compound, press in a new plastic seal and fit the felt washer.",
+        "Install the vacuum advance unit, then the breaker plate, then the spring retainer on the upper bushing.",
+        "Lubricate the weight cam, slide it over the mainshaft and fit the weights and springs (see figure 14i in the manual).",
+        "Insert the mainshaft into the housing, indexing it with the drive gear and washers; on Corvette, install the tachometer drive gear.",
+        "Slide the gear shims and drive gear onto the shaft and tap a new pin through gear and shaft. Check the shaft turns freely.",
+        "Set mainshaft end clearance to .002\"-.007\" by adding or removing shims.",
+        "Mount the point set and condenser on the breaker plate and route the leads as in figure 6i.",
+        "Fit the rotor to the cam, matching the round and square pilot holes."
+      ],
+      "specs": [
+        {"what": "distributor mainshaft end clearance", "value": ".002\"-.007\""},
+        {"what": "contact point spring tension", "value": "19-23 oz."}
+      ],
+      "notes": ["Point spring tension is set above spec at the factory to make final adjustment easier."],
+      "continues": false
+    },
+    {
+      "title": "Distributor: install (engine not disturbed)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor", "distributor clamp", "vacuum line", "primary wire", "distributor cap", "spark plug wires"],
+      "steps": [
+        "Turn the rotor about 1/8 turn clockwise past the mark made on the housing at removal.",
+        "Push the distributor down into the block with the housing in its normal installed position; jiggle the rotor slightly if needed to mesh with the camshaft gear. When seated, the rotor should line up with the mark.",
+        "Snug the clamp bolt and connect the vacuum line.",
+        "Connect the primary wire to the coil, install the cap, and refit plug and coil wires if removed, each in its proper place in the supports.",
+        "Time the ignition (see Tune Up in Section 6)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor: install (engine disturbed)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor", "No. 1 spark plug", "rocker cover", "hold-down clamp", "distributor cap"],
+      "steps": [
+        "Bring No. 1 piston to firing position by either method: (a) remove No. 1 plug, crank with a finger over the hole until compression is felt, then keep cranking until the pulley timing mark aligns with the tab on the front cover; or (b) remove the left-bank rocker cover (V8), crank until No. 1 intake valve closes, then about 1/3 turn more until the timing mark aligns.",
+        "Hold the distributor over the block opening in its normal installed attitude, noting where the vacuum unit points.",
+        "Point the rotor toward the front of the engine, then turn it about 1/8 turn more counterclockwise toward the left bank, and push the distributor down to the camshaft, turning the rotor slightly if needed until it engages.",
+        "Pressing firmly down on the housing, bump the starter a few times to be sure the oil pump shaft is engaged; fit the hold-down clamp and bolt and snug it.",
+        "Turn the distributor body slightly until the points just open, then tighten the clamp bolt.",
+        "Set the cap in place and check that the rotor lines up with the No. 1 plug terminal."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

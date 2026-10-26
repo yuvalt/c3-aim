@@ -1,0 +1,35 @@
+{
+  "page": 227,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-26",
+  "procedures": [
+    {
+      "title": "Disc brake caliper: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "caliper",
+        "brake hose",
+        "brake tubing",
+        "shoe retaining pin",
+        "cotter pin",
+        "shoe assemblies",
+        "U-shaped retainer",
+        "caliper mounting bolts"
+      ],
+      "steps": [
+        "(Removal) Put the car on a hoist.",
+        "Remove the wheel.",
+        "Front caliper: disconnect the brake hose at the line support bracket. Corvette rear caliper: disconnect the brake tube from the inboard caliper half. Tape the open line or tube end.",
+        "Pull the cotter pin from the shoe retaining pin, then remove the pin and shoes (two pins on Corvette heavy-duty front calipers). Mark inboard and outboard shoes if they will be reused.",
+        "Free the hose end at the bracket by taking off the U-shaped retainer and pulling the hose out.",
+        "Remove the 2 hex head bolts and lift the caliper off its mounting bracket.",
+        "(Disassembly) Clean the caliper outside with Declene or equivalent. Corvette front caliper: remove the brake hose."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 39 in the manual (exploded caliper: bolts, bleeder valve, caliper halves, piston springs, seals, pistons, boots, shoes, O-rings, retaining pin, cotter pin; Chevelle/Chevy II/Camaro shown)."
+      ],
+      "continues": true
+    }
+  ]
+}

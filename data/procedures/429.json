@@ -1,0 +1,23 @@
+{
+  "page": 429,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-3",
+  "procedures": [
+    {
+      "title": "Tire wear: diagnose",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Side (one shoulder) wear: wrong camber, low pressure, crowned roads or fast cornering; camber wears only one side, under-inflation wears both (figure 2 in the manual).",
+        "Center wear: mainly over-inflation, which can also cause hidden cord damage.",
+        "Uneven/spotty wear (figure 3): unequal caster or camber, bent suspension parts, unbalanced wheels, out-of-round drums, misadjusted brakes, etc.; find and fix the mechanical fault.",
+        "Cornering wear (figure 4): hard cornering unloads the inside rear tire so it slips and wears its inner half, looking like negative camber wear."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

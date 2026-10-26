@@ -1,0 +1,171 @@
+{
+  "page": 366,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-37",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic shift linkage adjustment (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "console selector lever",
+        "shift cable",
+        "transmission control lever",
+        "retaining clip",
+        "cotter pin"
+      ],
+      "steps": [
+        "Put the console selector lever in Drive.",
+        "Put the control lever on the transmission in its Drive position.",
+        "Connect the cable and secure it with the retaining clip and cotter pin as shown in view A of figure 4T in the manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic detent switch adjustment",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "detent switch"
+      ],
+      "steps": [
+        "Adjust the switch as shown in figure 1T in the manual (Corvette procedure on page 7-34)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Neutral safety switch adjustment (Turbo Hydra-Matic)",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "neutral safety switch"
+      ],
+      "steps": [
+        "Set the switch so the engine cranks in Park and Neutral only, not in any other position."
+      ],
+      "specs": [],
+      "notes": [
+        "Replacement is covered in Section 12."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic: drain and refill",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "bottom pan",
+        "pan gasket",
+        "oil strainer",
+        "strainer retainer bolt",
+        "intake pipe O-ring"
+      ],
+      "steps": [
+        "Drain right after driving, while the fluid is still hot.",
+        "Remove the pan screws, pan and gasket; throw the gasket away.",
+        "Remove the strainer retainer bolt, the strainer and the intake pipe O-ring; discard the strainer and O-ring.",
+        "Fit a new O-ring on the intake pipe and a new strainer on the pipe.",
+        "Clean the pan thoroughly.",
+        "Stick a new gasket to the pan with petroleum jelly.",
+        "Install the pan and torque its screws to specification.",
+        "Pour in fluid using a clean container, spout or funnel: about 7-1/2 pints if only the pan was off, 9-1/2 pints if the valve body was also removed, about 19 pints after a full overhaul.",
+        "Start the engine and let it idle with the carburetor off the fast idle step; set the selector to P and apply the hand brake.",
+        "Top up: warm (about 180°F) to the FULL mark; at room temperature (about 70°F) to 1/4\" below ADD."
+      ],
+      "specs": [
+        {
+          "what": "refill, pan only removed",
+          "value": "approx. 7-1/2 pints"
+        },
+        {
+          "what": "refill, pan and valve body removed",
+          "value": "9-1/2 pints"
+        },
+        {
+          "what": "refill after complete overhaul",
+          "value": "approx. 19 pints"
+        }
+      ],
+      "notes": [
+        "Caution: do not overfill; it will foam."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic pressure regulator valve: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "bottom pan",
+        "strainer",
+        "regulator boost valve bushing",
+        "boost valve",
+        "pressure regulator spring",
+        "regulator valve",
+        "spring retainer",
+        "spacers",
+        "snap ring"
+      ],
+      "steps": [
+        "Remove the bottom pan and strainer.",
+        "Push the boost valve bushing in against the regulator spring and take out the snap ring with J-5403 pliers.",
+        "Remove the boost valve bushing and valve.",
+        "Remove the regulator spring.",
+        "Remove the regulator valve, spring retainer and any spacers.",
+        "Install in reverse order and set the fluid level."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic control valve body: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "bottom pan",
+        "strainer",
+        "solenoid lead",
+        "control valve body",
+        "detent roller spring assembly",
+        "governor pipes",
+        "manual valve",
+        "check balls",
+        "spacer plate"
+      ],
+      "steps": [
+        "Remove the bottom pan and strainer.",
+        "Unplug the solenoid lead from the connector terminal.",
+        "Remove the valve body screws and the detent roller spring assembly; leave the solenoid screws in place.",
+        "Lower out the valve body with the governor pipes; handled carefully, the six check balls stay in place above the spacer plate.",
+        "Take the governor pipes and manual valve off the valve body.",
+        "Install in reverse order and set the fluid level."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: do not let the manual valve fall out."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic governor: remove and install",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "governor cover",
+        "governor cover gasket",
+        "governor assembly"
+      ],
+      "steps": [
+        "Remove the governor cover screws, cover and gasket.",
+        "Throw away the gasket."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

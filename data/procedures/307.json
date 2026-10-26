@@ -1,0 +1,66 @@
+{
+  "page": 307,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-10",
+  "procedures": [
+    {
+      "title": "Fusible links: identify and replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["fusible link", "starter solenoid", "horn relay", "engine compartment wiring harness", "generator and forward lamp harness"],
+      "steps": [
+        "Replace a fusible link only with wire of the same gauge that has hypalon insulation.",
+        "Battery charging circuit (10 gauge): on Corvette this link is a molded splice at the solenoid \"Bat\" terminal; splice in a new link (other models replace the whole battery cable).",
+        "Unfused 12 gauge and larger wiring: 16 gauge black link, molded splice at the horn relay; splice in a new link.",
+        "Generator warning light and field circuit (16 gauge): 20 gauge orange link in the battery feed to regulator #3 terminal wire, molded into the generator and forward lamp harness; splice in new 20 gauge wire.",
+        "Ammeter circuit: two orange 20 gauge links, one at the solenoid \"Bat\" terminal (Corvette) and one at the horn relay; splice in new 20 gauge wire for each."
+      ],
+      "specs": [],
+      "notes": ["A fusible link is usually 4 wire gauges smaller than the circuit it protects and is marked with its gauge."],
+      "continues": false
+    },
+    {
+      "title": "Charging system: maintenance and precautions",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron generator", "voltage regulator", "drive belt", "battery"],
+      "steps": [
+        "At regular intervals, check terminals for corrosion and looseness and wiring for frayed insulation.",
+        "Check that mounting bolts are tight.",
+        "Check drive belt alignment, tension and wear; correct belt tension matters more on an A.C. generator than a D.C. one.",
+        "When installing a battery, make sure battery, generator and regulator share the same ground polarity (negative ground only).",
+        "Connect booster batteries and chargers terminal-to-matching-terminal.",
+        "Never run the generator on an uncontrolled open circuit; make sure all circuit connections are secure.",
+        "Do not short or ground any generator or regulator terminal.",
+        "Do not try to polarize the generator.",
+        "Disconnect the battery ground cable before disconnecting any lead at the generator."
+      ],
+      "specs": [],
+      "notes": ["Charging trouble usually shows as bad indicator lamp or ammeter behavior, slow cranking (undercharged), high water use (overcharged), or generator noise or vibration."],
+      "continues": false
+    },
+    {
+      "title": "Charging system: static checks",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["fan belt", "battery", "voltage regulator", "Delcotron generator"],
+      "steps": [
+        "Check for a loose fan belt.",
+        "Check for a defective battery (see Battery).",
+        "Inspect all connections, including the slip-on connectors at the regulator and Delcotron."
+      ],
+      "specs": [],
+      "notes": ["Never ground the field to see whether the generator charges; it badly damages the charging system."],
+      "continues": false
+    },
+    {
+      "title": "Charging system: condition test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltage regulator"],
+      "steps": [],
+      "specs": [],
+      "notes": ["Corvette: test leads are hard to attach to the regulator in place; remove the regulator from its mount for the tests but keep it grounded."],
+      "continues": true
+    }
+  ]
+}

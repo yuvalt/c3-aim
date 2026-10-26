@@ -1,0 +1,38 @@
+{
+  "page": 64,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-45",
+  "procedures": [
+    {
+      "title": "Vacuum supply for A/C",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "vacuum tank"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The Corvette has no separate A/C vacuum tank; the A/C draws vacuum from the production tank in the left fender area."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Kick pad valve and plenum valve: description",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "kick pad valve",
+        "plenum (air inlet) valve",
+        "vacuum tank",
+        "check valve"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "A vacuum tank and check valve keep the air door from moving with engine vacuum changes (see figures 54-57 in the manual for kick pad valves).",
+        "The Corvette uses plenum valves to let outside air into the system."
+      ],
+      "continues": false
+    }
+  ]
+}

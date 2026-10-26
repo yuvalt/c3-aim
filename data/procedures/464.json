@@ -1,0 +1,60 @@
+{
+  "page": 464,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-10",
+  "procedures": [
+    {
+      "title": "Headlamp door replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamp door assembly",
+        "radiator grille",
+        "headlamp bezel",
+        "headlamp housing",
+        "\"J\" bar",
+        "support assembly",
+        "bearing"
+      ],
+      "steps": [
+        "Open the headlamp door.",
+        "Remove the decorative radiator grille and its screws.",
+        "Take off the headlamp bezel and tape over the door opening to protect the paint.",
+        "Remove the inner and outer headlamps, unhooking their springs with a hooked wire or small locking pliers.",
+        "Remove the front screw and bushing joining the headlamp housing to the support assembly link.",
+        "Remove the \"J\" bar that runs down from the side of the housing.",
+        "Through the grille opening, remove the 3 cap screws holding the bearing and housing assemblies to the support assembly.",
+        "Lift the door assembly forward and out.",
+        "Move the remaining parts to the new door and install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 11 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Headlamp door vacuum actuator replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamp vacuum actuator",
+        "radiator grille",
+        "pivot link pin",
+        "springs",
+        "vacuum hoses",
+        "cotter pin"
+      ],
+      "steps": [
+        "Remove the decorative radiator grille and screws.",
+        "Open the headlamps part way and take off the long spring on each side of the pivot link pin.",
+        "Disconnect the 2 vacuum hoses from the actuator.",
+        "Pull the cotter pin and slide out the pivot pin to free the actuator rod.",
+        "Remove the 4 nuts from the actuator studs and slide the actuator down and out through the grille opening.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

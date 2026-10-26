@@ -1,0 +1,144 @@
+{
+  "page": 240,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-8",
+  "procedures": [
+    {
+      "title": "Ignition timing: check and adjust",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "distributor clamp",
+        "timing light",
+        "timing tab"
+      ],
+      "steps": [
+        "Start the engine and run it at the idle speed in the tune up chart.",
+        "Point the timing light at the timing tab.",
+        "Loosen the distributor clamp, turn the distributor body to set timing, then tighten the clamp.",
+        "Stop the engine, remove the timing light and reconnect the spark advance hose."
+      ],
+      "specs": [],
+      "notes": [
+        "Tab marks are 2° apart; \"0\" is TDC of No. 1 cylinder and all BTDC settings are on the \"A\" (advance) side, which has the most marks."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Idle speed and mixture: adjust",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "idle mixture screws",
+        "idle speed screw"
+      ],
+      "steps": [
+        "Preliminary setting: turn each mixture screw in lightly until it seats, then back out 3 turns (do not tighten against the seat or damage may result).",
+        "With the engine at operating temperature, air cleaner on, pre-heater and choke valves fully open, set the idle speed screw to the specified rpm (automatic in Drive, manual in Neutral) (see figure 14 in the manual).",
+        "Turn the mixture screw for the highest steady idle, then reset the idle speed screw to the rpm on the decal.",
+        "Turn the mixture screw in until rpm drops 20 (lean roll).",
+        "Back the mixture screw out 1/4 turn.",
+        "Repeat the last 2 steps for the second mixture screw if there is one.",
+        "Reset the speed screw to the specified idle if needed."
+      ],
+      "specs": [],
+      "notes": [
+        "With air conditioning, set idle with A/C OFF, except 325 hp and 350 hp 327 engines with manual transmission (and L-4/L-6 automatics), which are set with A/C ON."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Crankcase ventilation valve: test",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "ventilation valve",
+        "ventilation hose"
+      ],
+      "steps": [
+        "Hook up the tachometer and vacuum gauge as for idle adjustment.",
+        "Set the parking brake, start the engine and set idle speed and mixture.",
+        "Disconnect the ventilation hose at the valve, block the valve opening and note the rpm change (see figure 15 in the manual).",
+        "If rpm changes less than 50, the valve is plugged; replace it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cylinder balance test",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "grounding leads",
+        "tachometer",
+        "vacuum gauge"
+      ],
+      "steps": [
+        "Connect the tachometer and vacuum gauge.",
+        "Start the engine and hold 1500 rpm.",
+        "Ground the large clip of the grounding leads and attach the individual leads to every plug except the pair under test (see figure 16 in the manual).",
+        "Pair the cylinders by splitting the firing order in half and stacking the halves; V8 firing order 1-8-4-3-6-5-7-2 gives pairs 1-6, 8-5, 4-7, 3-2.",
+        "Run the engine on each pair in turn, noting rpm and manifold vacuum.",
+        "More than 1 inch of vacuum or 40 rpm difference between pairs means the cylinders are out of balance."
+      ],
+      "specs": [
+        {
+          "what": "V8 firing order",
+          "value": "1-8-4-3-6-5-7-2"
+        }
+      ],
+      "notes": [
+        "This finds weak cylinders a compression test misses, such as a leaking intake manifold, a valve not opening because of a worn cam, or a bad plug."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Battery: additional test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery"
+      ],
+      "steps": [
+        "Test with special battery test equipment to its maker's specifications; see Section 6Y."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ignition: additional checks",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "ignition switch",
+        "distributor",
+        "coil"
+      ],
+      "steps": [
+        "Using suitable test equipment per its maker's instructions, check cranking voltage, ignition switch, distributor resistance, secondary resistance, and ignition output and secondary leakage."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cranking voltage: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "coil",
+        "voltmeter",
+        "starting motor"
+      ],
+      "steps": [
+        "Disconnect the coil primary lead at the coil negative terminal so the engine will not fire (see figure 17 in the manual).",
+        "Connect a voltmeter from the coil primary terminal (resistance wire side) to ground.",
+        "Crank the engine with the starter."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "page": 181,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-22",
+  "procedures": [
+    {
+      "title": "Rear torque control arm: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "torque control arm",
+        "brake line",
+        "parking brake cable",
+        "pivot bolt",
+        "toe-in shims",
+        "bushing retainer",
+        "retainer plate",
+        "bushings",
+        "tool J-7055-1",
+        "tool J-8111-23",
+        "screw J-8880-5",
+        "back-up plate (5/8\" steel)",
+        "axle drive shaft",
+        "strut rod"
+      ],
+      "steps": [
+        "(continued) Disconnect the brake line at the caliper and from the torque arm; disconnect the parking brake cable.",
+        "Remove the pivot bolt and toe-in shims and pull the arm out of the frame. Tape the shims together and label them for reassembly.",
+        "Repairs: drill out the flared end of the bushing retainer with an 11/16\" drill (see figure 57 in the manual).",
+        "Remove the special retainer plate and tap the retainer out of the bushing.",
+        "Spread the bushings apart with a chisel and tap them out of the arm (see figure 58 in the manual).",
+        "Lightly oil the outer diameters (not the rubber) of the new bushings and start them square in the arm.",
+        "Press the bushings in with J-7055-1 (see figure 59 in the manual).",
+        "With the bushings fully in, put the special plate over the flared part of a new retainer and push the retainer into the bushing.",
+        "Make a back-up plate for the flaring tool from 5/8\" thick, 1-1/2\" wide steel plate to the dimensions in figure 60 in the manual (about 5\" long), drilled with clearance holes for two 1/2\" bolts.",
+        "Set the back-up plate on the flared end of the retainer and bolt J-8111-23 to it with two 1/2\" x 5\" bolts, with the threaded hole of J-8111-23 centered over the unflared end and the chamfered retainer plate centered on the retainer tube.",
+        "Lightly oil the pointed end of screw J-8880-5 and thread it into J-8111-23 until it touches the retainer; keep threading until the retainer is flared (see figure 61 in the manual).",
+        "Installation: put the torque arm into the frame opening.",
+        "Put the toe-in shims back in their original places on both sides of the arm; fit the pivot bolt and tighten without final torque.",
+        "Lift the axle drive shaft into place and bolt it to the drive flange; torque the bolts to specification.",
+        "Lift the strut rod into place and insert the strut rod shaft..."
+      ],
+      "specs": [],
+      "notes": [
+        "The arm may need to be forced outboard to give room to drop the drive shaft.",
+        "If the bushings are badly rusted in and the arm starts to spread during removal, hold it with a C-clamp.",
+        "For spindle support work, see Wheel Spindle and Support earlier in this section."
+      ],
+      "continues": true
+    }
+  ]
+}

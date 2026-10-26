@@ -1,0 +1,81 @@
+{
+  "page": 312,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-15",
+  "procedures": [
+    {
+      "title": "Field relay: check and adjust",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["field relay", "voltage regulator", "50 ohm variable resistor"],
+      "steps": [
+        "If regulator voltage is above the closing voltage spec and the lamp stays on, the field relay is bad; check and adjust it (see specifications).",
+        "Closing voltage: connect a 50 ohm variable resistor in series between a hot lead and the relay coil (see figure 13c in the manual).",
+        "Set the resistor to open.",
+        "Turn the ignition off.",
+        "Slowly reduce resistance and note the voltage at which the relay closes.",
+        "Adjust by bending the heel iron (see figure 14c in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Charging harness: other wire checks",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["charging system wiring harness"],
+      "steps": ["Check each remaining wire for continuity with an ohmmeter or a 12 volt test light, putting the wire in series in the test circuit."],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Delcotron generator: remove and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron generator", "battery ground strap", "generator brace", "drive belt", "generator mount bolt"],
+      "steps": [
+        "Disconnect the battery ground strap at the battery so the diodes are not damaged.",
+        "Disconnect the wiring at the Delcotron.",
+        "Remove the generator brace bolt; with power steering, loosen the pump brace and mount nuts. Take off the drive belt(s).",
+        "Support the generator, remove the mount bolt (the 6.2\" Delcotron has 2) and lift it out.",
+        "Install in reverse order, then adjust the drive belt."
+      ],
+      "specs": [],
+      "notes": ["Service operations cover the 5.5\" aluminum and 6.2\" perforated stator Delcotrons."],
+      "continues": false
+    },
+    {
+      "title": "Delcotron pulley: replace",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["Delcotron pulley", "fan", "spacer", "washer", "pulley nut"],
+      "steps": [
+        "5.5\" Delcotron, single groove: hold the shaft with a 5/16\" allen wrench in its end while turning the nut off with a 15/16\" box wrench (see figure 15c in the manual).",
+        "Remove the washer, then slide the pulley, fan and spacer off the shaft.",
+        "Install in reverse, using a torque wrench with a crow-foot adapter to tighten the nut to 50 ft. lbs.",
+        "Double groove: put a 15/16\" socket with wrench flats (or Adapter J-21501 and a box wrench) on the nut, pass a 5/16\" allen wrench through into the shaft hex to hold it, and remove the nut.",
+        "Remove the washer and slide off the pulley, fan and spacer.",
+        "To install, slide on spacer, fan, pulley and washer and start the nut.",
+        "Tighten the nut to 50 ft. lbs. with the socket, adapter and a torque wrench."
+      ],
+      "specs": [{"what": "Delcotron pulley nut", "value": "50 ft. lbs."}],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Delcotron brushes: replace (6.2\" Delcotron)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["brush holder", "brushes", "capacitor", "blade connectors", "indicator light relay wire"],
+      "steps": [
+        "Remove the 2 nuts holding the blade connectors and take off the connectors (see figure 17c in the manual); slide the indicator light relay wire off its post.",
+        "Remove the 2 screws holding the capacitor and brush holder to the rear end frame and remove the brush holder.",
+        "Leave the capacitor with the generator; its lead is connected inside and should not be strained."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

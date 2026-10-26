@@ -1,0 +1,28 @@
+{
+  "page": 159,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-20",
+  "procedures": [
+    {
+      "title": "Front suspension special tools",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "J-5888-3 support",
+        "J-22944 spring remover (Corvette)",
+        "J-7052-2 spacer",
+        "J-7052-5 installer",
+        "J-8092 driver handle",
+        "J-8849 installer",
+        "J-8850 installer"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 14 (special tools) list, Corvette-relevant items: (1) J-5888-3 Support; (3) J-22944 Spring Remover (Corvette); (4) J-7052-2 Spacer; (5) J-7052-5 Installer; (9) J-8092 Driver Handle; (10) J-8849 Installer (outer bearing cup); (11) J-8850 Installer (inner bearing cup).",
+        "Also used in Corvette procedures but not in this list: J-7052-1 and the 7/16 x 20 and 3/8-24 capscrews furnished with J-5888.",
+        "Tools listed only for other models (e.g. J-22739 Chevelle/Camaro/Chevy II spring remover, J-9519 and J-21474/J-21058 series bushing and joint tools) are omitted."
+      ],
+      "continues": false
+    }
+  ]
+}

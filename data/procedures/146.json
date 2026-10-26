@@ -1,0 +1,105 @@
+{
+  "page": 146,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-7",
+  "procedures": [
+    {
+      "title": "Riding height and coil spring sag: check",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "front coil springs",
+        "lower control arm",
+        "steering knuckle"
+      ],
+      "steps": [
+        "Measure floor to the center of the lower control arm inner pivot.",
+        "Corvette: measure floor to the bottom face of the lower steering knuckle boss for the spherical joint, same side.",
+        "Compare the difference between the two with the Specifications, with the car at curb weight (full fuel tank, spare and jack in place, nobody aboard).",
+        "Repeat on the other side; the two sides must agree within 1/2\".",
+        "If height is wrong, replace the springs (there is no adjustment)."
+      ],
+      "specs": [
+        {
+          "what": "side-to-side riding height difference, max",
+          "value": "1/2\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ball stud: break loose from steering knuckle",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "spherical joint ball stud",
+        "ball stud seal",
+        "steering knuckle"
+      ],
+      "steps": [
+        "Hold a piece of flat bar stock against the knuckle boss.",
+        "Strike the bar, not the knuckle itself, to free the stud."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: take great care not to cut or damage the ball stud seal whenever a stud is knocked loose from the knuckle.",
+        "Unless stated, repair procedures in this section apply to all five car lines including Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Front wheel hub: replace",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "front wheel hub",
+        "brake disc",
+        "brake caliper",
+        "spindle nut",
+        "cotter pin",
+        "grease cap"
+      ],
+      "steps": [
+        "Remove the hub cap, crack the wheel nuts loose and raise the car.",
+        "Remove the wheel nuts, wheel and tire, and the brake drum or caliper.",
+        "Disc brakes: unbolt the caliper from its mounting, slipping a fabricated block 1-1/16 x 1-1/16 x 2 in. between the pads as it comes off; wire the caliper up out of the way.",
+        "Pry off the grease cap; remove the cotter pin, spindle nut and washer; pull the hub without dropping the bearings.",
+        "Install in reverse order, then adjust the wheel bearings (see Front wheel bearings: adjust)."
+      ],
+      "specs": [
+        {
+          "what": "spacer block between disc brake pads",
+          "value": "1-1/16 x 1-1/16 x 2 inches"
+        }
+      ],
+      "notes": [
+        "With disc brakes, hub and disc are serviced together as one assembly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Front wheel hub bolts: replace",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "wheel hub bolts",
+        "front wheel hub"
+      ],
+      "steps": [
+        "Press or drive out the old bolts (they are not peened in), protecting the hub's wheel mounting face.",
+        "Start a new serrated bolt in the hole with light hammer taps, keeping it square to the flange.",
+        "Press the bolt in until the head sits fully against the flange (see figure 9 in the manual)."
+      ],
+      "specs": [
+        {
+          "what": "hub to disc attaching bolts (disc-brake models other than Corvette)",
+          "value": "60 lb. ft."
+        }
+      ],
+      "notes": [
+        "Corvette: the hub does not need to be separated from the disc. On other disc-brake models the hub must be indexed to the disc and unbolted; hub and disc are balanced together."
+      ],
+      "continues": false
+    }
+  ]
+}

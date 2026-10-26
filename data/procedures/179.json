@@ -1,0 +1,58 @@
+{
+  "page": 179,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-20",
+  "procedures": [
+    {
+      "title": "Rear strut rod and bracket: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "shock absorber lower eye",
+        "strut rod shaft",
+        "washer and nut",
+        "camber cam nut",
+        "cotter pin"
+      ],
+      "steps": [
+        "(continued) ...over the strut shaft; fit washer and nut and torque to specification.",
+        "Lower the car to the floor, then torque the camber cam nut and the strut rod shaft nut to specification and fit the cotter pin through the rod bolt.",
+        "Check rear camber and adjust if needed."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear transverse spring: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "rear leaf spring",
+        "link bolt",
+        "rubber cushions",
+        "cushion retainers",
+        "1/4\" or 5/16\" chain with grab hook",
+        "C-clamp",
+        "floor jack",
+        "center clamp plate"
+      ],
+      "steps": [
+        "Raise the rear and support it on the frame just ahead of the torque control arm pivots; remove the wheels and tires.",
+        "Put a floor jack under the spring at the link bolt and raise the spring until it is almost flat.",
+        "Wrap a 1/4\" or 5/16\" chain with grab hook around the suspension crossmember and spring and hook it tight; C-clamp the chain to the spring so it cannot slip (see figure 50 in the manual).",
+        "Lower the jack to unload the link bolt; remove the link bolt cotter pin, nut and rubber cushions.",
+        "Raise the spring end with the jack again as before and take off the chain once it goes slack.",
+        "Lower the jack slowly until spring tension is fully released.",
+        "Repeat these steps on the other side.",
+        "Remove the 4 bolts and washers holding the spring center clamp plate (see figure 51 in the manual).",
+        "Drop the spring and slide it out from under the car (see figure 52 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: only use 1/4\" or 5/16\" chain with a safe grab hook to hold the spring; never rope, wire, cable or other means.",
+        "Figure 49 in the manual shows the spring mounting: link bolt, cushions, cushion retainers and plate."
+      ],
+      "continues": true
+    }
+  ]
+}

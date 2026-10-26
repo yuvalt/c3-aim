@@ -1,0 +1,53 @@
+{
+  "page": 183,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-24",
+  "procedures": [
+    {
+      "title": "Rear stabilizer shaft: replace",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "stabilizer shaft",
+        "stabilizer bushings",
+        "frame brackets"
+      ],
+      "steps": [
+        "Raise the rear and support it at the frame side rails on stands.",
+        "Disconnect the stabilizer shaft from both torque arms (see figure 64 in the manual); remove its brackets from the frame and take the shaft out.",
+        "Check the bushings for deterioration and the shaft for bends, breaks or other faults; replace parts as needed and do not try to straighten the shaft.",
+        "Fit the bushings on the shaft and loosely attach the shaft to the torque arms and frame brackets.",
+        "Position the shaft so it sits correctly once tightened, then torque the attaching bolts to specification."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Corvette rear axle: general description",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "differential carrier",
+        "suspension crossmember",
+        "universal joints",
+        "axle drive shafts",
+        "hypoid ring gear and pinion",
+        "pinion bearings",
+        "differential bearings",
+        "shims",
+        "side gear yokes",
+        "snap rings",
+        "caged needle bearings"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The carrier housing holds the differential and hypoid gears and sits on a crossmember mounted to the frame; it drives the wheels through U-joints and drive shafts (see figure 66 in the manual).",
+        "The overhung pinion runs on two preloaded tapered roller bearings; the two-pinion differential runs on tapered roller bearings.",
+        "Pinion depth (mounting distance), differential bearing preload and backlash are all set with shims.",
+        "The side gears drive two splined yokes held sideways by snap rings on the splined end; the yokes run in caged needle bearings pressed into the carrier..."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "page": 147,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-8",
+  "procedures": [
+    {
+      "title": "Front wheel bearings: remove, inspect and install",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "front wheel bearings",
+        "bearing cups",
+        "inner bearing lip seal",
+        "cotter pin",
+        "front wheel hub"
+      ],
+      "steps": [
+        "Removal: take off the hub (see Front wheel hub: replace). Throw away the old cotter pin; use a new one on assembly.",
+        "Lift the outer bearing out of the hub by hand.",
+        "Pry out the inner lip seal (discard it) and remove the inner bearing.",
+        "Clean all parts in solvent and blow dry.",
+        "Inspect: look for cracked separators and worn or pitted rollers and races; check the brake drum for scoring and out-of-round; check that the outer cups fit tightly in the hub.",
+        "Cup replacement: make press-out bars from steel bar stock as in figure 10 of the manual.",
+        "Pass the removers through the hub with their ends in the slots in the hub shoulder behind the cup.",
+        "Push the cups out using an extension pipe or rod.",
+        "Press in new cups with J-8849 (outer cup) and J-8850 (inner cup) on driver handle J-8092; keep them square and fully seated on the hub shoulder.",
+        "Installation: pack both bearings with high melting point wheel bearing grease.",
+        "Fit the inner bearing, then a new inner lip seal with its flange toward the bearing cup.",
+        "Slide the hub carefully onto the spindle.",
+        "Push the outer bearing firmly into the hub by hand.",
+        "Fit the spindle washer and nut, snug it, then adjust (see Front wheel bearings: adjust)."
+      ],
+      "specs": [
+        {
+          "what": "cup remover bar length, inner cup (fig. 10)",
+          "value": "2-5/32\""
+        },
+        {
+          "what": "cup remover bar length, outer cup (fig. 10)",
+          "value": "1-5/8\""
+        },
+        {
+          "what": "cup remover bar section (fig. 10)",
+          "value": "7/16 x 7/16"
+        },
+        {
+          "what": "cup remover end radius (fig. 10)",
+          "value": "3/8\""
+        }
+      ],
+      "notes": [
+        "Tools: J-8849 outer cup installer, J-8850 inner cup installer, J-8092 driver handle.",
+        "Figure 10 shows the bar-stock cup removers and a 1-1/4\" dia. pipe or arbor used to press them.",
+        "Scan defect: this PDF page holds the top half of manual page 3-8 and the top half of page 3-10. The Steering Knuckle procedure that starts here (raise the car on a twin-post hoist so the coil spring stays compressed...) is cut off, and manual page 3-9 (steering knuckle, shock absorber, stabilizer bar removal) is missing from the PDF."
+      ],
+      "continues": false
+    }
+  ]
+}

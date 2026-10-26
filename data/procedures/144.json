@@ -1,0 +1,73 @@
+{
+  "page": 144,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-5",
+  "procedures": [
+    {
+      "title": "Caster and camber: adjust",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper control arm inner support shaft",
+        "caster/camber shims",
+        "support shaft to crossmember nuts"
+      ],
+      "steps": [
+        "Loosen the nuts holding the upper control arm support shaft to the crossmember.",
+        "For caster: move shims between the front and rear bolts. Moving shims from the rear bolt to the front bolt reduces positive caster.",
+        "For camber: add or remove shims equally at the front and rear bolts. Adding equal shims at both reduces positive camber.",
+        "Retighten the nuts."
+      ],
+      "specs": [
+        {
+          "what": "caster change per 1/32\" shim moved from rear to front bolt",
+          "value": "approx. 1/2°"
+        },
+        {
+          "what": "camber change per 1/32\" shim at each bolt (Corvette)",
+          "value": "approx. 1/6°"
+        }
+      ],
+      "notes": [
+        "Shims sit between the upper control arm inner support shaft and the frame-mounted support bracket (see figure 6 in the manual).",
+        "Caster and camber can be set in the same operation.",
+        "Caster and camber specifications are in the Specifications section of the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering axis inclination: check",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "steering knuckle"
+      ],
+      "steps": [
+        "Set camber correctly first.",
+        "Measure steering axis inclination; if it is outside limits with camber correct, the knuckle is bent: replace it.",
+        "After fitting a new knuckle, readjust caster, camber and toe-in."
+      ],
+      "specs": [],
+      "notes": [
+        "Camber is the outward tilt of the wheel; steering axis inclination is the inward tilt of the knuckle. Changing one changes the other.",
+        "Specifications are given at the end of the section/book."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Toe-in: adjust",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "tie rods",
+        "tie rod clamps"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Toe-in is the difference between the distance across the front of the two front tires and across the rear, with wheels straight ahead. Specifications are in the Specifications section.",
+        "Adjust toe-in only after caster and camber are set."
+      ],
+      "continues": true
+    }
+  ]
+}

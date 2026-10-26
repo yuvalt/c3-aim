@@ -1,0 +1,28 @@
+{
+  "page": 191,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-32",
+  "procedures": [
+    {
+      "title": "Axle drive shaft: remove, repair and install",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "axle drive shaft",
+        "inboard trunnion",
+        "side gear yoke",
+        "bolt lock tabs",
+        "spindle drive flange"
+      ],
+      "steps": [
+        "Removal: disconnect the inboard trunnion of the drive shaft from the side gear yoke.",
+        "Bend the bolt lock tabs down and remove the 4 bolts holding the shaft flange to the spindle drive flange.",
+        "Pry the shaft out of the outboard drive flange pilot and take it out outboard end first (see figure 82 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 81 in the manual shows the axle drive shaft assembly."
+      ],
+      "continues": true
+    }
+  ]
+}

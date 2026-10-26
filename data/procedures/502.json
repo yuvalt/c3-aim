@@ -1,0 +1,54 @@
+{
+  "page": 502,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-48",
+  "procedures": [
+    {
+      "title": "Wiper motor brush plate and circuit breaker: remove (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "brush plate",
+        "circuit breaker",
+        "case and field assembly",
+        "armature",
+        "brushes",
+        "brush springs"
+      ],
+      "steps": [
+        "Scribe a line along the side of the casting and end cap for reassembly.",
+        "Remove the 2 motor through bolts.",
+        "Push the spare motor lead length through the casting grommet and ease the case, field and armature away from the casting (see figure 71 in the manual).",
+        "Unsolder the black lead from the circuit breaker (see figure 72 in the manual).",
+        "Straighten the 4 tabs holding the brush plate to the field coil retainers, without breaking any.",
+        "Fit a U-shaped retainer clip over the brush holder whose lead goes to the circuit breaker (see figure 73 in the manual).",
+        "Hold the opposite brush and lift the brush holder off its tabs just far enough to clear the commutator.",
+        "Let that brush come out of its holder, remove the brush spring and lift the holder off the armature shaft."
+      ],
+      "specs": [],
+      "notes": [
+        "Manual lists the Type C depressed park wiper for Chevelle, Chevrolet and Corvette.",
+        "Type C: blades park against the lower windshield molding; 12-volt compound-wound motor with a worm driving the main gear and crank arm; a relay coil, armature and switch in the gear box control start and stop through a latch; an electric washer pump on the gear box is driven by the wiper gear. Motor, gear box and washer pump can each be serviced on their own.",
+        "The motor section can be taken apart without disturbing the gear box.",
+        "If needed, remove the armature end play adjusting screw and push a rod through the hole against the armature end."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper armature: remove (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "armature",
+        "thrust ball"
+      ],
+      "steps": [
+        "Do brush plate removal steps 1 through 8.",
+        "Lift the armature out of the case and field.",
+        "Remove the thrust ball from the shaft end if needed and keep it; a magnet picks it up easily."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "page": 195,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-36",
+  "procedures": [
+    {
+      "title": "Propeller shaft and universal joints: general description",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "Saginaw U-joint bearings",
+        "nylon retainer",
+        "service bearings with lock ring groove"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "(continued) ...nylon injected through small holes in the yoke into a ring groove shared by yoke and bearing. Replacement bearings for these shafts have a lock ring groove in the housing, inboard of the yoke, to hold them (see figure 103 in the manual)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Propeller shaft (Dana): remove, repair and install",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "propeller shaft",
+        "companion flange",
+        "trunnion bearing U-bolts",
+        "bearing cups",
+        "transmission yoke",
+        "dust seals"
+      ],
+      "steps": [
+        "Removal: raise the car, mark how the shaft lines up with the companion flange, and remove the trunnion bearing U-bolts to free the rear U-joint (see figure 92 in the manual).",
+        "Tape the bearing cups to the trunnion so the cups and rollers are not lost.",
+        "On Corvettes, also remove the trunnion U-bolts at the transmission yoke.",
+        "Pull the front yoke out of the transmission by moving the shaft rearward under the axle; watch for oil leaking from the transmission output shaft housing."
+      ],
+      "specs": [],
+      "notes": [
+        "The U-joints (see figure 93 in the manual) are extended-life and need no routine inspection or lubrication, but whenever one is taken apart, repack the bearings, fill the trunnion end reservoirs with high-melting-point wheel bearing grease and fit new dust seals."
+      ],
+      "continues": true
+    }
+  ]
+}

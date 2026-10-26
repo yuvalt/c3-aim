@@ -1,0 +1,83 @@
+{
+  "page": 56,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-37",
+  "procedures": [
+    {
+      "title": "Refrigerant leak at O-ring connection: repair",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "O-ring",
+        "fitting",
+        "R-12"
+      ],
+      "steps": [
+        "(Continuing) discharge the system as in Evacuating and Charging Procedures.",
+        "Check the O-ring and fitting and replace either if damaged at all.",
+        "Coat the O-ring with clean refrigeration oil before refitting it, and fit it carefully.",
+        "Retighten the fitting using a backing wrench, put 1/2 to 1 lb. of R-12 in the system and leak test again.",
+        "Purge out that 1/2 to 1 lb. test charge.",
+        "Evacuate and charge the system."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: never run the system on the small test charge."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant leak at hose clamp connection: repair",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigerant hose",
+        "hose clamp",
+        "connector"
+      ],
+      "steps": [
+        "Check the clamp is tight, tighten if needed and leak test again.",
+        "If it still leaks, discharge the system, loosen the clamp and pull the hose off.",
+        "Inspect hose and connector; replace any scored or damaged part.",
+        "Dip the end of the new hose in clean refrigeration oil and slide it carefully onto the connector, never past the locating bead.",
+        "Torque the clamp to spec.",
+        "Leak test with 1/2 to 1 lb. of R-12 in the system, without running the compressor.",
+        "Purge out the test charge.",
+        "Evacuate and charge the system."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Compressor leaks",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "compressor shaft seal",
+        "compressor shell seals"
+      ],
+      "steps": [
+        "For leaks at the shaft seal or shell, replace the seals as covered under Compressor in the Chassis Overhaul Shop Manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant hose failure",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigerant hose",
+        "receiver-dehydrator"
+      ],
+      "steps": [
+        "After a hose leak or rupture, or a loose fitting that lost much refrigerant and oil, repair it, then flush and recharge the whole system.",
+        "If the system stood open to the atmosphere for a long time, also replace the receiver-dehydrator."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

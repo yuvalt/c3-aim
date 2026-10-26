@@ -1,0 +1,82 @@
+{
+  "page": 597,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Windshield wiper specifications: depressed park, two speed",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "windshield wiper motor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "operating voltage",
+          "value": "12 VDC"
+        },
+        {
+          "what": "gear ratio",
+          "value": "45:1"
+        },
+        {
+          "what": "crank arm rotation (looking at crank arm)",
+          "value": "Counter Clockwise"
+        },
+        {
+          "what": "crank arm speed (no load), Lo",
+          "value": "34 rpm/min."
+        },
+        {
+          "what": "crank arm speed (no load), Hi",
+          "value": "65 rpm/min."
+        },
+        {
+          "what": "current draw, no load (low speed)",
+          "value": "4.5 amperes"
+        },
+        {
+          "what": "current draw, installed in car (dry windshield)",
+          "value": "5.0 amperes"
+        },
+        {
+          "what": "current draw, stall",
+          "value": "15 Max. amperes"
+        },
+        {
+          "what": "shunt field resistance (ohms)",
+          "value": "5-6 ohms"
+        }
+      ],
+      "notes": [
+        "The non-depressed park two-speed wiper table on this page is for other models and is omitted."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Windshield washer pump specifications",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": [
+        "windshield washer pump"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "number of \"squirts\" at full pressure",
+          "value": "12"
+        },
+        {
+          "what": "pressure (psi)",
+          "value": "11-15"
+        },
+        {
+          "what": "coil resistance (ohms)",
+          "value": "20"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

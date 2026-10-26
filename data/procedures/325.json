@@ -1,0 +1,31 @@
+{
+  "page": 325,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-28",
+  "procedures": [
+    {
+      "title": "Ignition pulse amplifier: disassemble and check components",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["transistors TR1 and TR2", "trigger transistor TR3", "diode D1", "capacitors C1, C2, C3", "resistors R1-R6", "ohmmeter"],
+      "steps": [
+        "Transistors TR1 and TR2 (see figure 20i in the manual): zero both ways in step 1 means shorted; in step 2, zero both ways means shorted and infinite both ways means open; read step 3 like step 2.",
+        "Trigger transistor TR3: judge the same way as TR1/TR2 (step 1 zero both = shorted; steps 2 and 3 zero both = shorted, infinite both = open).",
+        "Diode D1: zero both ways = shorted; infinite both ways = open.",
+        "Capacitor C1: zero both ways = shorted.",
+        "Capacitors C2 and C3: put the ohmmeter across each; zero both ways = shorted.",
+        "Resistor R1: infinite both ways = open.",
+        "Resistor R2: use a scale with 1800 ohms in or near its middle third; infinite both ways = open.",
+        "Resistor R3: use a scale with 680 ohms in or near its middle third; infinite both ways = open.",
+        "Resistor R4: use a scale with 15000 ohms in or near its middle third; infinite on either reading = open.",
+        "Resistor R5: use the lowest range; infinite on either reading = open. On some applications R5 is in the vehicle harness, not on the board."
+      ],
+      "specs": [
+        {"what": "resistor R2 nominal", "value": "1800 ohm"},
+        {"what": "resistor R3 nominal", "value": "680 ohm"},
+        {"what": "resistor R4 nominal", "value": "15000 ohm"}
+      ],
+      "notes": ["Figures 18i and 19i in the manual show the test points and the amplifier internal circuit."],
+      "continues": true
+    }
+  ]
+}

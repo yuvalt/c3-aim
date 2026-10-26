@@ -1,0 +1,50 @@
+{
+  "page": 176,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-17",
+  "procedures": [
+    {
+      "title": "Rear wheel spindle and support: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "drive spindle",
+        "spindle support",
+        "bearing cups",
+        "deflector",
+        "inner grease seal",
+        "bearing removers (3/8\" square bar)",
+        "cup installer J-7817",
+        "handle J-8092",
+        "parking brake cable",
+        "brake backing plate",
+        "shock absorber",
+        "strut rod mounting shaft",
+        "tool J-8331",
+        "outer bearing",
+        "outer seal"
+      ],
+      "steps": [
+        "Removal: take out the drive spindle as described under Wheel Bearing Adjustment.",
+        "Make bearing removers from 3/8\" square steel bar (see figure 40 in the manual).",
+        "With the deflector, inner grease seal and inner bearing race off, the bearing cups can be driven out with the remover while the support is still on the torque arm; fit new cups with installer J-7817 and handle J-8092 (see figure 41 in the manual).",
+        "To take the support off the torque arm: disconnect the parking brake cable from the actuating lever.",
+        "Remove the 4 nuts holding the support to the torque arm; lift off the brake backing plate and move it aside.",
+        "Disconnect the shock absorber lower eye from the strut rod mounting shaft, supporting the outer end of the spring first if needed.",
+        "Remove the cotter pin and nut from the strut rod mounting shaft and pull the shaft out of the support and strut rod.",
+        "Remove the spindle support; service the cups as above.",
+        "To remove the spindle outer bearing and seal: place J-8331 between the chamfered edge of the bearing seat and the bearing inner race, clamp it in a vise and apply pressure to unseat the bearing (see figure 42 in the manual).",
+        "Put J-8331 and the spindle in an arbor press and press the bearing off (see figure 43 in the manual).",
+        "Remove the outer seal, check it and replace if damaged.",
+        "Pack the outer bearing with high-melting-point wheel bearing grease and place it on the spindle."
+      ],
+      "specs": [],
+      "notes": [
+        "The shock absorber has internal rebound control, which is why the spring end may need support before disconnecting it.",
+        "Caution: take great care placing J-8331 against the machined spindle surface; remove any nicks or burrs from the tool where it touches the spindle before pressing.",
+        "The outer seal must go on the spindle before the outer bearing inner race and rollers.",
+        "Figure 39 in the manual is a cross-section of the spindle, support, bearings, spacers, deflector and brake parts."
+      ],
+      "continues": true
+    }
+  ]
+}

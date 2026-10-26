@@ -1,0 +1,51 @@
+{
+  "page": 276,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel, p.6M-2",
+  "procedures": [
+    {
+      "title": "Carburetor application (figure 1C)",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": [
+        "Rochester 4MV carburetor",
+        "Holley 2300 carburetor",
+        "Holley 4150 carburetor",
+        "idle speed screw",
+        "idle mixture screws"
+      ],
+      "steps": [
+        "Find the carburetor for the engine in the chart, then find its idle speed and mixture screws in the matching labeled photo (see figure 1C in the manual)."
+      ],
+      "specs": [
+        {
+          "what": "Corvette 327 300 hp",
+          "value": "Rochester 4MV"
+        },
+        {
+          "what": "Corvette 327 350 hp",
+          "value": "Rochester 4MV"
+        },
+        {
+          "what": "Corvette 427 390 hp",
+          "value": "Rochester 4MV"
+        },
+        {
+          "what": "Corvette 427 400 hp",
+          "value": "Holley 2300C primary + Holley 2300 secondaries"
+        },
+        {
+          "what": "Corvette 427 435 hp",
+          "value": "Holley 2300C primary + Holley 2300 secondaries"
+        },
+        {
+          "what": "Corvette 427 430 hp",
+          "value": "Holley 4150"
+        }
+      ],
+      "notes": [
+        "Only the Corvette (column 5) entries of the all-model chart are kept."
+      ],
+      "continues": false
+    }
+  ]
+}

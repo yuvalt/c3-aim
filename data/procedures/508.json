@@ -1,0 +1,169 @@
+{
+  "page": 508,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-54",
+  "procedures": [
+    {
+      "title": "Washer pump: remove (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "windshield washer pump",
+        "pump cover"
+      ],
+      "steps": [
+        "Raise the hood.",
+        "Disconnect the washer hoses and electrical connections from the pump.",
+        "Remove the 3 screws holding pump and cover to the wiper and lift the pump off the gear box."
+      ],
+      "specs": [],
+      "notes": [
+        "With the pump off, all working parts are accessible (see figures 84 and 85 in the manual)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Vent grille and windshield wiper cover panel: remove and install",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "vent grille",
+        "wiper cover panel",
+        "vacuum actuator",
+        "actuator rubber plug",
+        "control assembly",
+        "stop screws"
+      ],
+      "steps": [
+        "Raise the hood and disconnect the battery ground cable (battery is behind the driver's seat).",
+        "Remove the 8 screws in the vent grille.",
+        "Move the grille forward and up to lift it off.",
+        "With vacuum available, open the cover panel by pulling the wiper cover panel switch down; otherwise remove the plug at the front of the vacuum actuator, insert a screwdriver and push the piston in until the panel rises.",
+        "Remove the 4 bolts and bushings holding the panel to the control assembly arms and lift it off.",
+        "To install, with the actuator rod EXTENDED, set the panel over the actuator arms and fit the bushings and bolts.",
+        "With the actuator closed, line the vent grille up with its brackets, install its screws and reconnect the battery ground cable.",
+        "Operate the system and check both panels: set the panel-to-windshield gap with the 2 stop screws D on the rear outboard control links (loosen the lock nuts, turn the screws) to .060 in. at the reveal molding clip at windshield center; the screws bear on plastic pads on the plenum.",
+        "Adjust the grille fore and aft in its slotted holes.",
+        "Adjust the whole control assembly, grille and panel up or down at the firewall mounting nuts E."
+      ],
+      "specs": [
+        {
+          "what": "wiper cover panel to windshield gap (at center)",
+          "value": ".060\""
+        }
+      ],
+      "notes": [
+        "The actuator rubber plug is part of the vacuum system; refit/replace it right away.",
+        "System: a vacuum actuator on a control assembly swings the panel up and forward, sharing the headlamp cover vacuum source. The console wiper switch energizes a vacuum solenoid behind the tachometer housing, which signals the actuator through a relay. A limit switch, closed only when the panel is fully open, lets the wiper motor run.",
+        "See figure 86 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel bumpers: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "wiper cover panel bumpers",
+        "vent grille"
+      ],
+      "steps": [
+        "Remove the 8 vent grille screws and lift the grille off, noting where the washer hoses run.",
+        "Reach under the cover panel with an offset Phillips screwdriver and replace the soft bumpers if thinner than 3/16 in.",
+        "Refit and align the grille, routing the washer hoses correctly."
+      ],
+      "specs": [
+        {
+          "what": "wiper cover panel bumper replacement limit",
+          "value": "less than 3/16\" thick"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel actuator: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "wiper cover panel actuator",
+        "turnbuckle rod"
+      ],
+      "steps": [
+        "Disconnect the vacuum hoses from the actuator.",
+        "Loosen the lock nut on the turnbuckle rod nut.",
+        "Remove the 2 nuts, bolts, washers and bushings holding the actuator to its bracket.",
+        "Turn the actuator to work it out of the engine compartment.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "View C of figure 86 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel limit switch: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "limit switch",
+        "vent grille"
+      ],
+      "steps": [
+        "Remove the 8 vent grille screws and lift the grille off.",
+        "Remove the bolt and bushing from the rod.",
+        "Remove the 2 bolts holding the bracket to the plenum panel and take out the assembly.",
+        "Remove the bolt holding the switch and take the switch off.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "View B of figure 86 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel control assembly: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "control assembly",
+        "wiper cover panel",
+        "vent grille"
+      ],
+      "steps": [
+        "Remove the 8 vent grille screws and lift the grille off.",
+        "Remove the screw and bushings fastening the limit switch link to the control assembly (View B).",
+        "Remove the cover panel actuator as described above.",
+        "Remove the 4 nuts and reinforcements from the outboard studs of the control assembly on the firewall.",
+        "Swing the whole control assembly with the cover panel forward and up to remove it for bench work.",
+        "Install in reverse order.",
+        "Align the grille and panel vertically to the fenders at nuts E; set the .060 in. panel-to-windshield gap at screws D."
+      ],
+      "specs": [
+        {
+          "what": "wiper cover panel to windshield gap",
+          "value": ".060\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel vacuum relay: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "wiper vacuum relay"
+      ],
+      "steps": [
+        "Remove the screws holding the wiper vacuum relay to the inner fender panel."
+      ],
+      "specs": [],
+      "notes": [
+        "View A of figure 86 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

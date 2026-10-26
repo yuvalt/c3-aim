@@ -1,0 +1,84 @@
+{
+  "page": 36,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-17",
+  "procedures": [
+    {
+      "title": "Refrigerant-12: handling precautions",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "Refrigerant-12",
+        "refrigerant drum"
+      ],
+      "steps": [
+        "Do not heat the container on a gas stove or radiator or with a blow torch; use only a bucket of warm water (125°F maximum) or warm wet rags.",
+        "Do not rely on the safety plug; drums have burst when it failed.",
+        "Do not weld or steam clean on or near the system; pressure can build to a dangerous level.",
+        "When filling a small drum from a large one, never fill it completely; leave space above the liquid for expansion.",
+        "Avoid breathing large amounts of R-12 after an accidental rapid discharge, especially where a flame device such as a gas heater is present.",
+        "Wear goggles or glasses when working around the system.",
+        "If liquid R-12 gets in the eyes: stay calm and do not rub them; flood the area with lots of cold water to bring it gradually above freezing; apply mineral, cod liver or antiseptic oil as a protective film against infection; see an eye specialist as soon as possible."
+      ],
+      "specs": [],
+      "notes": [
+        "Strong concentrations of R-12 meeting a live flame produce a toxic gas that also attacks bright metal.",
+        "Any liquid R-12 that touches you is at least 21.7°F below zero.",
+        "Releasing large amounts of R-12 into a room is normally harmless."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant lines: handling precautions",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigerant lines",
+        "flexible refrigerant hoses",
+        "O-ring fittings",
+        "hose clamp connections"
+      ],
+      "steps": [
+        "Keep metal tubing free of kinks; one kink can greatly reduce system capacity.",
+        "Never bend a flexible hose to a radius under 10 times its diameter.",
+        "Keep flexible hoses at least 2-1/2\" away from the exhaust manifold.",
+        "Inspect flexible hoses at least yearly for leaks or brittleness and replace any that fail.",
+        "Use only sealed lines from parts stock.",
+        "Discharge all refrigerant before opening any fitting; even so, open it very slowly with face and hands clear, and bleed off any pressure slowly.",
+        "Wear safety goggles whenever opening a refrigerant line.",
+        "Cap any line opened to atmosphere at once to keep out moisture and dirt.",
+        "Use the correct wrenches on O-ring fittings and back up the opposing fitting with a wrench.",
+        "On flexible hose connections, hold the swaged fitting, the flare nut and the coupling with three separate wrenches so the fitting does not turn and damage the seat.",
+        "Make sure O-rings and seats are perfect; a burr or speck of dirt can leak.",
+        "Make sure sealing beads on hose clamp connections are free of nicks and scratches."
+      ],
+      "specs": [
+        {
+          "what": "minimum flexible hose bend radius",
+          "value": "10 times hose diameter"
+        },
+        {
+          "what": "minimum flexible hose clearance to exhaust manifold",
+          "value": "2-1/2\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Refrigeration system: maintaining chemical stability",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "Refrigerant-12",
+        "refrigeration oil"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Internal metal parts, refrigerant and oil stay chemically stable only with pure R-12 and clean refrigeration oil.",
+        "Dirt, air or moisture upset this; heat speeds them into acids and sludge that break down components, and they also distort the R-12 temperature-pressure relationship, lowering efficiency (see figure 23 in the manual)."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "page": 296,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-5",
+  "procedures": [
+    {
+      "title": "A.I.R. air injection tubes: inspect and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection tubes",
+        "exhaust manifold",
+        "penetrating oil"
+      ],
+      "steps": [
+        "V8: clamp the exhaust manifold in a vise, clean the carbon off the tubes and work them out of the manifold using penetrating oil.",
+        "Fit new tubes in the manifold."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pump: inspect",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection pump",
+        "drive belt",
+        "pressure relief valve",
+        "hoses",
+        "air manifolds"
+      ],
+      "steps": [
+        "Run the engine up to about 1500 rpm and feel the air flow from the hoses; if it increases with speed the pump is working.",
+        "If flow is missing or does not increase, check belt tension and look for a leaking pressure relief valve (it can be heard with the pump running).",
+        "For excessive noise, run the engine with the pump belt off; if the noise remains, it is not the A.I.R. system.",
+        "If the noise goes away with the belt off, check for a seized pump, leaks or bad routing at hoses, tubes, air manifolds and connections, and proper pump mounting.",
+        "If none of these is found and the pump is still too noisy, replace the pump."
+      ],
+      "specs": [],
+      "notes": [
+        "The system is never fully silent; normal noise rises in pitch with engine speed."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pump: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection pump",
+        "pump pulley",
+        "drive belt",
+        "mounting bolts",
+        "hoses"
+      ],
+      "steps": [
+        "Disconnect the hoses at the pump.",
+        "Remove the pump pulley.",
+        "Remove the mounting bolts and the pump.",
+        "Fit the new pump with its mounting bolts loose.",
+        "Install the pump pulley.",
+        "Install and adjust the belt.",
+        "Connect the hoses.",
+        "Tighten the mounting bolts securely."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pressure relief valve: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "pressure relief valve",
+        "pump housing",
+        "Tool J-7055-5",
+        "Tool J-6585"
+      ],
+      "steps": [
+        "Pull the relief valve from the housing with J-7055-5 and J-6585 (see figure 8 in the manual).",
+        "Tap the new valve in with a 15/16\" socket until it shoulders on the housing (see figure 9 in the manual), taking great care not to distort the housing."
+      ],
+      "specs": [],
+      "notes": [
+        "If the relief valve is built into the diverter valve, replace the whole diverter valve unit."
+      ],
+      "continues": true
+    }
+  ]
+}

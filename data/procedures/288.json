@@ -1,0 +1,70 @@
+{
+  "page": 288,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Air Cleaners, p.6M-14",
+  "procedures": [
+    {
+      "title": "Thermostatically controlled air cleaner: inspect and test",
+      "topic": "fuel",
+      "applies_to": "all models (where thermostatic air cleaner fitted)",
+      "parts": [
+        "vacuum motor",
+        "control damper",
+        "temperature sensor"
+      ],
+      "steps": [
+        "Apply at least 9 inches of vacuum (engine or separate source) to the vacuum motor fitting.",
+        "The damper should close the cold air passage and open the hot air pipe for as long as vacuum is applied.",
+        "If the motor will not move the damper under direct vacuum, check that its linkage is connected to the door and not binding.",
+        "If the linkage is fine, replace the motor; if the motor passes, replace the sensor."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air cleaner vacuum motor: replace",
+      "topic": "fuel",
+      "applies_to": "all models (where thermostatic air cleaner fitted)",
+      "parts": [
+        "vacuum motor",
+        "retaining strap",
+        "snorkel tube",
+        "damper door",
+        "sheet metal screw"
+      ],
+      "steps": [
+        "Remove the air cleaner from the engine.",
+        "Drill out the spot welds holding the motor strap to the snorkel tube.",
+        "Lift the motor and unhook its linkage rod from the damper door.",
+        "Replacement: drill a 7/64\" hole in the snorkel tube at the center of the strap location (see figure 7A in the manual).",
+        "Hook the motor linkage to the damper door and fasten the strap with a sheet metal screw.",
+        "Refit the air cleaner and check motor and damper operation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air cleaner temperature sensor: replace",
+      "topic": "fuel",
+      "applies_to": "all models (where thermostatic air cleaner fitted)",
+      "parts": [
+        "temperature sensor",
+        "sensor gasket",
+        "retaining clip",
+        "vacuum hoses"
+      ],
+      "steps": [
+        "Remove the air cleaner and disconnect the vacuum hoses at the sensor.",
+        "Pry up the retaining clip tabs, noting the sensor's position so the new one goes in the same way.",
+        "Remove the clip and sensor.",
+        "Fit the new sensor and gasket in the noted position.",
+        "Press the clip on, supporting the sensor by its sides so the center mechanism is not damaged.",
+        "Refit the air cleaner and reconnect the vacuum hoses."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

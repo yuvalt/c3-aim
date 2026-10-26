@@ -1,0 +1,81 @@
+{
+  "page": 38,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-19",
+  "procedures": [
+    {
+      "title": "Gauge set: description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "gauge set",
+        "gauge manifold"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The only time both manifold valves are opened together is to bypass refrigerant vapor from the high side to the low side, or to evacuate both sides.",
+        "The charging station supplies two flexible lines to connect the gauge set to the system."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Vacuum pump: operation and maintenance",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "vacuum pump",
+        "J-8393 charging station",
+        "vacuum pump oil",
+        "5 ampere time delay cartridge fuse",
+        "intake filter"
+      ],
+      "steps": [
+        "Take the dust cap off the pump discharge outlet before running the pump.",
+        "Keep all openings capped when idle so moisture is not drawn into the system.",
+        "Change the oil every 250 hours of normal use: unscrew the hex nut on the back of the pump, tilt the pump back and drain the oil.",
+        "Refill with 8 ounces of vacuum pump oil (Frigidaire 150 or equivalent); to flush the pump use the same clean oil, never solvent.",
+        "After extreme or long exposure to cold, leave the pump indoors until the oil is near room temperature, or the fuse will blow.",
+        "If the fuse blows, replace it only with a 5 ampere time delay fuse; a substitute will damage the starting windings.",
+        "When evacuating a burnt-out system, fit a filter on the intake fitting to keep sludge out of the pump.",
+        "Do not use the vacuum pump as an air compressor."
+      ],
+      "specs": [
+        {
+          "what": "vacuum pump oil change interval",
+          "value": "every 250 hours"
+        },
+        {
+          "what": "vacuum pump oil capacity",
+          "value": "8 ounces"
+        },
+        {
+          "what": "vacuum pump fuse",
+          "value": "5 ampere time delay cartridge"
+        }
+      ],
+      "notes": [
+        "Used to remove air and moisture from the system; part of the J-8393 charging station (see figure 26 in the manual).",
+        "Poor lubrication shortens pump life.",
+        "The fuse in the common line protects the motor windings and blows under excessive load."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant leak testing",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-6084 leak detector",
+        "propane torch"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Leak test whenever a leak is suspected or after work that disturbs lines or connections; how much testing depends on the complaint and the work done. When in doubt, test.",
+        "Leak-detecting dye in the system is not recommended: refrigerant can leak with no oil leak (dye misses it, a torch detector does not); additives other than inhibitors can upset system stability; insoluble dyes can curdle and block the expansion valve inlet screen.",
+        "Leak Detector J-6084 (see figure 27 in the manual) is a propane torch; R-12 drawn into its sampling tube changes the flame color in proportion to the leak size."
+      ],
+      "continues": true
+    }
+  ]
+}

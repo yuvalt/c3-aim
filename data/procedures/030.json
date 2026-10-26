@@ -1,0 +1,37 @@
+{
+  "page": 30,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-11",
+  "procedures": [
+    {
+      "title": "Four-Season air conditioning controls: Corvette",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "A/C control panel",
+        "fan lever",
+        "air-temperature thumb-wheel",
+        "outlets-defroster thumb-wheel",
+        "heater water shut-off valve",
+        "air selector doors",
+        "outlets door",
+        "defroster door"
+      ],
+      "steps": [
+        "Maximum heat: set the left indicator to 'hot', the right indicator to 'Htr' and the fan to 'Hi'.",
+        "Maximum cooling: set the left indicator to 'cold', the right indicator to 'A/C' and the fan to 'Hi'.",
+        "De-ice: set the left indicator to 'hot', the right indicator to 'de-ice' and the fan to 'Hi'."
+      ],
+      "specs": [],
+      "notes": [
+        "Controls are a new thumb-wheel design in the floor console (see figure 16 in the manual); airflow is basically as on the other car lines (figure 14).",
+        "Fan lever (front of panel): moving it left to right runs the three-speed blower.",
+        "Left thumb-wheel (air source and temperature): 'off' shuts down the whole system; 'vent' detent puts the vacuum-operated air selector doors on outside air.",
+        "At the 'cold' detent: selector doors go to recirculated air, the temperature door goes to cold, the blower runs on low automatically, and the compressor runs if the ambient temperature is above 30°F and/or the right indicator is on the 'A/C' side of the 'Htr' detent.",
+        "Moving past 'cold' opens the vacuum-operated heater water shut-off valve and the temperature door to reach the chosen temperature.",
+        "Right thumb-wheel (outlets/defroster): 'A/C' sends all air through the dash outlets via the vacuum-operated outlets door; the dot detent between 'A/C' and 'HTR' gives bi-level (dash and floor) flow; 'Htr' sends all air to the floor outlet and stops the compressor; between 'HTR' and 'De-ice' the cable-operated defroster door sends part or all of the air to the defroster outlets.",
+        "Results can be moderated with the fan speed or by moving the temperature indicator between 'hot' and 'cold'."
+      ],
+      "continues": false
+    }
+  ]
+}

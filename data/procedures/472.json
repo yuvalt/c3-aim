@@ -1,0 +1,69 @@
+{
+  "page": 472,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-18",
+  "procedures": [
+    {
+      "title": "Stoplight switch replacement",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "stoplight switch"
+      ],
+      "steps": [
+        "(Continued) Check the switch: it must close when the brake pedal is pushed 3/8\" to 5/8\" from fully released."
+      ],
+      "specs": [
+        {
+          "what": "stoplight switch contact point",
+          "value": "3/8\" to 5/8\" pedal travel from fully released (.38-.64\" per figure)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Headlamp dimmer switch replacement",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "dimmer switch",
+        "floor mat",
+        "multi-plug connector"
+      ],
+      "steps": [
+        "Fold back the upper left corner of the front floor mat, release the connector lock fingers and unplug the dimmer switch.",
+        "Remove the 2 screws holding the switch to the toe pan.",
+        "Plug the connector onto the new switch and check it works.",
+        "Fasten the new switch to the toe pan with the 2 screws and lay the mat back."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Backup lamp switch replacement (transmission mounted)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "backup lamp switch",
+        "shield",
+        "wiring clip",
+        "reverse lever rod"
+      ],
+      "steps": [
+        "Raise the car on a hoist.",
+        "Separate the switch lead from the harness at the in-line connector.",
+        "Remove the bolt holding the wiring clip to the transmission.",
+        "Remove the wire clip securing the reverse lever rod to the switch.",
+        "Remove the screws holding the switch and shield to the transmission and take off the switch.",
+        "Install in reverse order and confirm the switch works in reverse."
+      ],
+      "specs": [],
+      "notes": [
+        "Do not remove the transmission-to-bracket bolts.",
+        "Figure 33 in the manual shows an automatic transmission installation; the manual does not name models for this procedure."
+      ],
+      "continues": false
+    }
+  ]
+}

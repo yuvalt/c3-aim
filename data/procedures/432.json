@@ -1,0 +1,103 @@
+{
+  "page": 432,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-6",
+  "procedures": [
+    {
+      "title": "Wheels: balance",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "wheel and tire assembly",
+        "balance weights"
+      ],
+      "steps": [
+        "Static: correct with a commercial wheel balancer, following its instructions.",
+        "Dynamic: use a commercial dynamic balancer, which tells where to put weights.",
+        "First clear any debris from the wheel vent slots and wheel discs (especially mud that may have frozen).",
+        "To fix static balance without upsetting dynamic balance, split the needed weight half on the inner rim edge and half on the outer edge.",
+        "To fix dynamic balance without upsetting static balance, put half the weight on the rim opposite the heavy spot and the other half 180° away on the other side of the rim.",
+        "Balance wheels with wire wheel covers with the covers installed."
+      ],
+      "specs": [],
+      "notes": [
+        "Static unbalance causes front wheel pounding called tramp.",
+        "Dynamic (running) balance requires static balance plus smooth running about the wheel centerline."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wheel run-out: check",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "road wheel",
+        "rim"
+      ],
+      "steps": [
+        "Measure side wobble on the side of the rim at the tire base; it must not exceed 1/16\".",
+        "With the tire off, measure on the rim bead seat; the wheel must run true to the spindle within 1/16 inch.",
+        "If run-out is excessive, check for a bent or poorly mounted wheel, worn knuckle bearings or worn steering connections."
+      ],
+      "specs": [
+        {
+          "what": "lateral run-out at rim side (tire on)",
+          "value": "1/16\" max"
+        },
+        {
+          "what": "radial run-out at bead seat (tire off)",
+          "value": "1/16 inch max"
+        }
+      ],
+      "notes": [
+        "Run-out, eccentricity and balance relate closely to steering and front wheel alignment (see the suspension section)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tire wear indicators: check",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Look for the indicator bands molded into the groove bottoms; they show as 1/2-inch wide bands at 1/16 inch tread depth.",
+        "Replace the tire when bands show in two or more neighboring grooves."
+      ],
+      "specs": [
+        {
+          "what": "tread depth when indicators appear",
+          "value": "1/16 of an inch"
+        },
+        {
+          "what": "indicator band width",
+          "value": "1/2-inch"
+        }
+      ],
+      "notes": [
+        "See figure 8 in the manual (tread still good vs. worn out)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tubeless tire: remove from rim",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tubeless tire",
+        "valve core",
+        "rim"
+      ],
+      "steps": [
+        "Remove the valve cap and core and let all the air out.",
+        "Push the inner side of the tire down into the rim well with a bead loosening tool; if using tire irons, avoid damaging the bead sealing ribs.",
+        "With irons on the opposite side, lever the bead off in small bites around the rim."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: never use tire irons that have sharp edges or corners."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "page": 461,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-7",
+  "procedures": [
+    {
+      "title": "Headlamp (sealed beam) replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "sealed beam headlamp",
+        "headlamp bezel",
+        "retaining ring",
+        "spring"
+      ],
+      "steps": [
+        "On Corvette, open the headlamp panel fully.",
+        "Take out the bezel screws and the bezel.",
+        "Unhook the spring from the retaining ring and remove the 2 ring screws.",
+        "Remove the ring, unplug the sealed beam at its connector and take it out.",
+        "Plug the connector onto the new unit and set it in place with the number molded in the lens at the top.",
+        "Refit the retaining ring with its screws and spring.",
+        "Check the lamp works, then refit the bezel."
+      ],
+      "specs": [],
+      "notes": [
+        "Inboard No. 1 lamps use a 2-terminal plug; outboard No. 2 lamps use a 3-terminal plug.",
+        "See figure 13 in the manual for the Corvette headlamp assembly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Parking lamp bulb replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "parking lamp bulb",
+        "parking lamp lens"
+      ],
+      "steps": [
+        "Take out the 2 lens screws and free the lens from the housing..."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

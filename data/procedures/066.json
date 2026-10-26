@@ -1,0 +1,23 @@
+{
+  "page": 66,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-47",
+  "procedures": [
+    {
+      "title": "A/C fuses: description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C fuse",
+        "high speed blower fuse"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "One fuse in the junction block covers the whole A/C system except the blower on high speed.",
+        "A second fuse for the high speed blower circuit sits in the wiring between the horn relay and the A/C relay.",
+        "Listed under Four-Season and Comfortron systems with no model named."
+      ],
+      "continues": false
+    }
+  ]
+}

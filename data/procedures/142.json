@@ -1,0 +1,73 @@
+{
+  "page": 142,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-3",
+  "procedures": [
+    {
+      "title": "Front wheel bearings: adjust",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "front wheel bearings",
+        "spindle nut",
+        "cotter pin",
+        "dust cap",
+        "hub cap"
+      ],
+      "steps": [
+        "Raise the wheel; take off the hub cap and the dust cap, then pull the cotter pin from the spindle end.",
+        "Turn the wheel by hand while tightening the spindle nut to 12 lb-ft.",
+        "Back the nut off one flat and fit the cotter pin; if the slot and hole do not align, back off a further 1/2 flat or less until the pin fits.",
+        "Spin the wheel to confirm it turns freely, then spread and bend the cotter pin end to lock it.",
+        "Refit the dust cap and hub cap (or wheel disc) and lower the wheel.",
+        "Repeat on the other front wheel."
+      ],
+      "specs": [
+        {
+          "what": "spindle nut, initial tightening (wheel rotating)",
+          "value": "12 lbs. ft."
+        },
+        {
+          "what": "bearing preload",
+          "value": "zero"
+        },
+        {
+          "what": "bearing end movement",
+          "value": ".001\" to .008\""
+        }
+      ],
+      "notes": [
+        "Badly adjusted bearings cause poor steering stability: wander, shimmy and rapid tire wear.",
+        "The spindle is drilled both ways and the nut is slotted on all six sides, which allows fine adjustment.",
+        "Do not repack or adjust wheel bearings as part of new car conditioning."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Front end alignment: preliminary checks",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "steering gear",
+        "spherical joints",
+        "steering shaft coupling",
+        "tie rods",
+        "front springs",
+        "tires",
+        "wheel bearings",
+        "shock absorbers"
+      ],
+      "steps": [
+        "Follow the instructions supplied with the alignment machine being used.",
+        "Check alignment with the car level and at curb weight.",
+        "Before aligning, look for and fix: a loose or misadjusted steering gear; a steering gear housing loose on the frame; worn or loose spherical joints or steering shaft coupling; loose tie rods or steering connections; wrong front spring heights; out-of-balance or low tires; misadjusted wheel bearings; faulty shock absorbers.",
+        "Roll the car forward before measuring so slack is taken up as in forward driving."
+      ],
+      "specs": [],
+      "notes": [
+        "Steering complaints are not always caused by alignment, hence the checks first.",
+        "Figure 3 shows the Camaro and Chevy II front suspension (not Corvette)."
+      ],
+      "continues": false
+    }
+  ]
+}

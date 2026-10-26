@@ -1,0 +1,121 @@
+{
+  "page": 418,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-31",
+  "procedures": [
+    {
+      "title": "Relay rod (Corvette): remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "relay rod",
+        "spring seat",
+        "spring",
+        "end plug",
+        "cotter pin",
+        "tie rod ends",
+        "steering damper bracket"
+      ],
+      "steps": [
+        "Fit the spring seat, spring and end plug.",
+        "Screw the end plug in until the springs are compressed and the plug bottoms, then back it off 3/4 turn, or as far as needed to line up the cotter pin hole; fit the cotter pin to lock it.",
+        "Reconnect the tie rod ends to the relay rod as described under Tie Rods.",
+        "Lubricate the tie rod ends and the pitman arm-to-relay rod ball joint.",
+        "Refit the steering damper bracket and tighten its bolts; refit the damper as under Steering Damper installation.",
+        "Set toe-in and align the steering wheel as described earlier in this section."
+      ],
+      "specs": [
+        {
+          "what": "relay rod end plug",
+          "value": "bottom, then back off 3/4 turn"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Idler arm: remove and install",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "idler arm",
+        "relay rod",
+        "idler arm ball stud",
+        "seal",
+        "cotter pin"
+      ],
+      "steps": [
+        "Removal: remove the idler arm-to-frame nut and bolt (the Corvette uses no washer here).",
+        "Remove the cotter pin and nut from the idler arm-to-relay rod ball stud.",
+        "Free the relay rod from the idler arm by striking it with a hammer while backing it with a heavy hammer.",
+        "Remove the idler arm.",
+        "Installation: set the idler arm on the frame and fit its mounting bolts and nuts (no washer on Corvette).",
+        "Fit the relay rod to the idler arm with the seal on the stud; fit and tighten the nut.",
+        "Fit the cotter pin.",
+        "Use the torque values in the specifications at the rear of the manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Pitman arm: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "pitman arm",
+        "pitman arm ball stud",
+        "relay rod",
+        "sector shaft nut",
+        "cotter pin"
+      ],
+      "steps": [
+        "Removal: pull the cotter pin from the pitman arm ball stud and remove the nut.",
+        "Free the relay rod from the pitman arm by striking the side of the rod or arm where the stud mounts while backing it with a heavy hammer or similar; pull the relay rod down off the stud.",
+        "Remove the pitman arm nut from the sector shaft and mark the arm's position on the shaft.",
+        "Pull the arm with tool J-6632 (see figure 3 in the manual).",
+        "Installation: fit the arm on the sector shaft on the marks made at removal.",
+        "Fit the sector shaft nut.",
+        "Place the relay rod on the pitman arm and fit the nut, tightening further only enough to line up a castellation with the stud hole, then fit the cotter pin."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering arm: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering arm",
+        "tie rod",
+        "front wheel",
+        "hub",
+        "brake drum",
+        "brake disc",
+        "caliper",
+        "steering arm retaining bolts",
+        "special locknuts",
+        "wheel bearings",
+        "keyed washer",
+        "spindle nut",
+        "ball stud dust cover"
+      ],
+      "steps": [
+        "Use this when collision or other damage requires replacing a steering arm.",
+        "Removal: disconnect the tie rod from the steering arm as described in this section.",
+        "Remove the hub cap, dust cap, spindle nut cotter pin and spindle nut, then pull the wheel, hub and drum outward as a unit; if it sticks, back off the brake adjustment (Section 5). On disc brake cars remove the caliper and disc instead.",
+        "With these off, reach the steering arm bolt heads and remove the retaining nuts to take the arm off.",
+        "Installation: set the arm in place and fit the retaining bolts.",
+        "Fit the nuts, using only the special locknut the Chevrolet Parts Catalog lists for this joint.",
+        "Pack the wheel bearings with high-quality wheel bearing grease and refit the bearings and wheel/hub/drum, or on disc brake cars the disc and caliper.",
+        "Fit the keyed washer and spindle nut and adjust the bearings per Front Wheel Bearing Adjustment in Section 3.",
+        "Fit the tie rod ball stud into the steering arm with its dust cover in place.",
+        "Fit the castellated nut, tighten it securely and fit the cotter pin.",
+        "Check turning (cornering) wheel relationship and toe-in per Section 3 and correct as needed."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

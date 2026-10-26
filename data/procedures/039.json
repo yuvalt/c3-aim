@@ -1,0 +1,71 @@
+{
+  "page": 39,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-20",
+  "procedures": [
+    {
+      "title": "Refrigerant leak testing",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "J-6084 leak detector",
+        "sampling hose",
+        "reaction plate",
+        "propane cylinder"
+      ],
+      "steps": [
+        "Make sure the system holds enough refrigerant to leak test.",
+        "Open the control valve just until a low hiss is heard, then light the gas at the chimney opening.",
+        "Adjust the flame; it works best with the blue flame about 3/8\" above the reaction plate, which soon glows cherry red.",
+        "Move the end of the sampling hose around likely leak points without pinching or kinking it; hold it just below the point tested, since R-12 is heavier than air.",
+        "Watch the flame: green or yellow-green means a very small leak; brilliant blue or purple means a large leak; it returns to nearly colorless pale blue once past the leak. Work in a dim area."
+      ],
+      "specs": [
+        {
+          "what": "leak detector flame height above reaction plate",
+          "value": "3/8\""
+        }
+      ],
+      "notes": [
+        "Never use the lit detector where combustible or explosive gases, dust or vapors may be present.",
+        "Do not breathe the fumes from R-12 burning in the flame; they can be toxic in large concentrations.",
+        "If the flame stays yellow away from a leak, not enough air is being drawn in or the reaction plate is dirty.",
+        "High-side leaks show best right after running the system a few minutes and shutting off, before pressures equalize; low-side leaks (especially the front seal) show best after the engine has been off several minutes.",
+        "Propane cylinders for the torch are widely available."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant-12 and compressor oil: supply",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "Refrigerant-12",
+        "refrigeration oil",
+        "compressor"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "R-12 comes from Parts Stock in 25 lb. drums (used with the J-8393 station for normal charging) and 15 oz. disposable cans (for odd jobs such as flushing).",
+        "Use only special refrigeration oil, supplied in 1 quart graduated bottles; recap the bottle at once to keep it moisture-free. See Air Conditioning System Capacities for total oil capacity.",
+        "Hoses and connections are porous, so the refrigerant level drops over time. Oil travels mixed with the refrigerant, so low charge starves the compressor of oil and can eventually let oil build up in the evaporator."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Compressor serial number: location",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "compressor",
+        "serial number plate"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The serial number (numbers and letters) is on a plate on top of the compressor; quote it on all forms and correspondence about servicing the compressor."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "page": 201,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-42",
+  "procedures": [
+    {
+      "title": "Corvette rear suspension special tools",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "J-8111-23",
+        "J-22602",
+        "J-9436",
+        "J-21057",
+        "J-8331",
+        "J-7877",
+        "J-7817",
+        "J-21548",
+        "J-21556",
+        "J-22804-1",
+        "J-5748",
+        "J-7079-2",
+        "J-8001",
+        "J-8092",
+        "J-7055-1",
+        "J-8614"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Tools shown in figure 105 in the manual:",
+        "J-8111-23: torque control arm spacer (bushing retainer) flaring tool",
+        "J-22602: wheel drive spindle remover",
+        "J-9436: wheel drive spindle outer bearing installer",
+        "J-21057: drive pinion oil seal installer",
+        "J-8331: wheel drive spindle outer bearing remover",
+        "J-7877: strut rod bushing replacement set",
+        "J-7817: wheel drive spindle bearing cup installer",
+        "J-21548: propeller shaft U-joint trunnion seal installer",
+        "J-21556: axle drive shaft U-joint trunnion seal installer",
+        "J-22804-1: pinion seal gauge plate",
+        "J-5748: Positraction torque measuring adapter",
+        "J-7079-2: driver handle, insert type",
+        "J-8001: dial indicator set",
+        "J-8092: driver handle, threaded type",
+        "J-7055-1: torque control arm bushing installer",
+        "J-8614: rear axle companion flange holder"
+      ],
+      "continues": false
+    }
+  ]
+}

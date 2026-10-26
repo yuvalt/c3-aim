@@ -1,0 +1,134 @@
+{
+  "page": 345,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-16",
+  "procedures": [
+    {
+      "title": "Four-speed transmissions (Muncie and Saginaw): general description",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Muncie shifting: rods go to the cover shifter levers for first through fourth and to the reverse lever in the case extension. The rear cover lever works 1st/2nd, the front lever 3rd/4th. All forward gears synchronized; reverse is an unsynchronized helical gear.",
+        "Saginaw 4-speed: similar to the Saginaw 3-speed (ball bearings, single-row countergear rollers, anti-rattle plate). Its reverse idler is always meshed with the 1-2 synchronizer gear and turns on an in-place bored bushing on a short shaft retained by a Woodruff key.",
+        "Saginaw 4-speed differences from the 3-speed: front synchronizer does 3rd/4th, rear does 1st/2nd; the 1-2 sleeve carries reverse gear teeth; mainshaft gears from the front are third, second, first; a fourth blocker ring sits between the 1-2 synchronizer and first gear.",
+        "Saginaw 4-speed side cover is on the left of the case, like the 3-speed cover plus a reverse shifter shaft, detent ball and detent spring."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Four-speed shift linkage adjustment",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "shift rods",
+        "swivels",
+        "swivel locknuts",
+        "transmission shift levers L, M, N",
+        "shift control lever A",
+        "locating gauge B",
+        "reverse rod",
+        "1st/2nd rod",
+        "3rd/4th rod"
+      ],
+      "steps": [
+        "Loosen the swivel locknuts on the shift rods so the rods slide freely in the swivels.",
+        "Put transmission levers L, M and N in their neutral detents.",
+        "Move control lever A to its neutral detent and insert locating gauge B in the control lever bracket.",
+        "Tighten the swivel locknuts on the reverse rod.",
+        "Do the same for the 1st/2nd rod (D) and the 3rd/4th rod.",
+        "Remove the gauge and throw it away.",
+        "Check that it shifts properly and readjust if needed."
+      ],
+      "specs": [],
+      "notes": [
+        "Corvette linkage is shown in figure 18 in the manual; figure 17 covers other car lines.",
+        "After removing the gauge on Camaro with Muncie only, shorten the rod three turns with the jam nuts (not a Corvette step).",
+        "The manual labels both the reverse lever and the 3rd/4th rod as \"E\"."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Gearshift lever reverse blocker cable: replace and adjust",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "console (seat separator)",
+        "shift lever seal retainer",
+        "shift lever seal",
+        "shift lever knob",
+        "lever to bracket bolts",
+        "reverse blocker cable",
+        "T-handle",
+        "cable retainer",
+        "set screw"
+      ],
+      "steps": [
+        "Replacement: remove the console (seat separator).",
+        "Remove the lever seal retainer and slide the seal up the lever.",
+        "Remove the knob and the 2 bolts holding the lever to the bracket; take out the lever.",
+        "Feed the new blocker cable up through the lever and T-handle and fit the cable retainer through the access slot.",
+        "Set the retainer so the blocker end sits .010/.020\" above the lever bracket face, then lock it and cut off the extra cable.",
+        "Reinstall by reversing the first three steps.",
+        "Adjustment: with the set screw loose, pass the cable through the hole in the round retainer above the handle.",
+        "With the handle fully down, pull the cable taut and set it to the dimension shown in figure 19 in the manual.",
+        "Tighten the set screw.",
+        "Bend over and cut the extra wire so it does not foul the lever bore or the knob threads."
+      ],
+      "specs": [
+        {
+          "what": "blocker end above lever bracket surface",
+          "value": ".010/.020\""
+        },
+        {
+          "what": "reverse blocker cable set screw",
+          "value": "15-20 in. lbs."
+        }
+      ],
+      "notes": [
+        "The handle must spring back freely from any position.",
+        "Figure 19 in the manual shows adjustment and lubrication points."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Four-speed shift control lever and bracket assembly",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "shift control lever and bracket assembly"
+      ],
+      "steps": [
+        "Use the three-speed control lever and bracket replacement procedure (Corvette version on page 7-7)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Speedometer driven gear and oil seal: replace (four-speed)",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "speedometer cable",
+        "retainer",
+        "retainer bolt and lock washer",
+        "fitting",
+        "driven gear and shaft",
+        "O-ring"
+      ],
+      "steps": [
+        "Disconnect the speedometer cable.",
+        "Remove the retainer bolt and lock washer, then the retainer.",
+        "Pry the fitting, gear and shaft out of the housing with a screwdriver in the fitting slot.",
+        "Pry the O-ring out of its groove, fit a new one and insert the shaft.",
+        "With the fitting slot toward the housing boss, push the assembly into the housing until the retainer can enter the groove.",
+        "Install the retainer, lock washer and bolt."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

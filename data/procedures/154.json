@@ -1,0 +1,32 @@
+{
+  "page": 154,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-15",
+  "procedures": [
+    {
+      "title": "Lower control arm: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "lower control arm",
+        "front coil spring",
+        "lower ball stud",
+        "cross shaft bolts",
+        "cross shaft bushing bolts"
+      ],
+      "steps": [
+        "Removal: take out the front coil spring (see Front coil spring: remove and install).",
+        "Free the lower ball stud from the knuckle boss (see Lower control arm spherical joint).",
+        "Remove the lower control arm from the car.",
+        "Installation: put the lower ball stud into the knuckle boss and torque to specification.",
+        "Install the coil spring.",
+        "Torque the cross shaft bolts to specification.",
+        "With the car on the floor, torque the cross shaft bushing bolts to specification."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 23 in the manual for the control arm attachment."
+      ],
+      "continues": false
+    }
+  ]
+}

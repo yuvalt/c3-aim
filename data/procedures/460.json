@@ -1,0 +1,39 @@
+{
+  "page": 460,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-6",
+  "procedures": [
+    {
+      "title": "Headlamp housing (panel) alignment",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamp housing",
+        "vacuum actuator",
+        "actuator rod",
+        "connecting link",
+        "bumper screw",
+        "headlamp bezel"
+      ],
+      "steps": [
+        "(Continued) Pull the cotter pin from the rod pin.",
+        "With the engine idling to supply vacuum, turn the actuator rod until the bushing hole lines up with the front end of the slot in the connecting link (extended position).",
+        "Stop the engine, retract the actuator rod and back the rod out 1/2 turn to preload it in the link.",
+        "Up (bezel to opening): loosen the jam nut and run the rubber-covered bumper screw up or down until it touches, then turn it 1-1/2 more turns up."
+      ],
+      "specs": [
+        {
+          "what": "actuator rod preload",
+          "value": "unscrew 1/2 turn"
+        },
+        {
+          "what": "up-stop bumper screw",
+          "value": "1-1/2 turns past contact"
+        }
+      ],
+      "notes": [
+        "Align the headlamp housing before aiming the headlamps."
+      ],
+      "continues": false
+    }
+  ]
+}

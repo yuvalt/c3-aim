@@ -1,0 +1,43 @@
+{
+  "page": 62,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-43",
+  "procedures": [
+    {
+      "title": "Evaporator core: replace",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "evaporator core",
+        "evaporator cover",
+        "POA valve",
+        "expansion valve",
+        "windshield wiper door actuator",
+        "A.I.R. combustion pipe"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Purge the refrigerant from the system.",
+        "Take off the carburetor air cleaner.",
+        "Disconnect the expansion valve inlet line and the POA valve outlet line; cap and seal all open lines immediately.",
+        "Remove the windshield wiper door actuator assembly and the POA valve bracket-to-case screws.",
+        "Disconnect every wire and vacuum hose attached to the evaporator assembly.",
+        "Remove the cover-to-firewall stud nuts and the cover-to-evaporator case screws (some engines need the A.I.R. combustion pipe removed).",
+        "Pull the cover out and up without damaging the core.",
+        "Remove the core retaining screws and lift out the core.",
+        "Install in reverse order.",
+        "Add 3 fluid oz. of refrigeration oil for a new core, then evacuate and charge the system."
+      ],
+      "specs": [
+        {
+          "what": "oil added with new evaporator core",
+          "value": "3 fluid oz."
+        }
+      ],
+      "notes": [
+        "The core comes out without removing the whole evaporator/blower unit.",
+        "See figure 49 in the manual (POA valve installation)."
+      ],
+      "continues": false
+    }
+  ]
+}

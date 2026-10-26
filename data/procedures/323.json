@@ -1,0 +1,64 @@
+{
+  "page": 323,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-26",
+  "procedures": [
+    {
+      "title": "Distributor: install (engine disturbed)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor cap", "spark plug wires", "plug wire supports", "vacuum line", "primary wire"],
+      "steps": [
+        "Install the cap, check all high-tension connections and refit plug wires if removed, each in its numbered support bracket to prevent cross-firing.",
+        "Connect the vacuum line and the primary wire to the coil.",
+        "Start the engine and set timing (see Tune Up in Section 6)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Breakerless (magnetic pulse) distributor: remove",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["ignition shield", "tachometer drive cable", "pickup coil leads", "distributor cap", "vacuum line", "hold-down clamp", "distributor-to-block gasket"],
+      "steps": [
+        "With a radio, remove the 3 ignition shield bolts (1 on top, 2 at the rear facing the firewall).",
+        "Disconnect the tachometer drive cable from the housing.",
+        "Unplug the pickup coil leads at the connector.",
+        "Remove the distributor cap.",
+        "Crank the engine until the rotor is at No. 1 firing position and the harmonic balancer mark is on the pointer.",
+        "Remove the vacuum line.",
+        "Remove the clamp screw and hold-down clamp.",
+        "Lift out the distributor and its gasket; the rotor turns as it comes out, so mark rotor-to-housing position afterward for reinstallation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Breakerless (magnetic pulse) distributor: disassemble and reassemble",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["rotor", "centrifugal weights", "weight springs", "tachometer drive gear", "roll pin", "drive gear", "washer", "drive shaft", "timer core", "pickup coil connector", "retaining ring", "magnetic pickup assembly", "brass washer", "felt pad", "vacuum advance unit"],
+      "steps": [
+        "Remove the rotor screws and rotor.",
+        "Remove the centrifugal weight springs and weights.",
+        "Remove the tachometer drive gear (Corvette only).",
+        "Drive out the roll pin, supporting the drive gear so the permanent magnet is not damaged, then remove the gear and washer.",
+        "Remove the drive shaft assembly.",
+        "Take the centrifugal weight support and timer core off the shaft.",
+        "Remove the connector from the pickup coil leads.",
+        "Remove the retaining ring holding the magnetic core support plate to the shaft bushing.",
+        "Lift out the whole magnetic pickup assembly as one unit.",
+        "Remove the brass washer and felt pad.",
+        "Remove the vacuum advance unit."
+      ],
+      "specs": [],
+      "notes": [
+        "To replace only the stationary magnetic pickup, do just steps 3, 4, 5, 7, 8, 9 and the reassembly step.",
+        "See figure 16i in the manual for the component layout."
+      ],
+      "continues": true
+    }
+  ]
+}

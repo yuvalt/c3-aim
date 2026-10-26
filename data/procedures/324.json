@@ -1,0 +1,92 @@
+{
+  "page": 324,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-27",
+  "procedures": [
+    {
+      "title": "Breakerless (magnetic pulse) distributor: disassemble and reassemble",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["distributor"],
+      "steps": ["Reassemble by doing the removal steps in reverse order."],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Breakerless (magnetic pulse) distributor: install",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["distributor", "distributor-to-block gasket", "distributor clamp", "spark plug wires", "distributor cap", "vacuum line", "tachometer drive cable", "ignition shield"],
+      "steps": [
+        "Confirm the engine is at No. 1 firing position (balancer mark on the pointer).",
+        "Lay a new distributor-to-block gasket on the block.",
+        "Set the rotor to the housing mark made at removal, then install the distributor so the vacuum diaphragm points about 45° forward on the right side of the engine and the rotor points at the No. 1 cap contact.",
+        "Fit the clamp with the screw loose enough to turn the distributor for timing.",
+        "Put the No. 1 plug wire in the tower marked on the old cap, then the rest clockwise in firing order 1-8-4-3-6-5-7-2.",
+        "Connect the distributor-to-coil primary wires.",
+        "Install the cap.",
+        "Set timing, then fully tighten the clamp screw.",
+        "Connect the vacuum line.",
+        "Connect the tachometer drive cable.",
+        "Refit the ignition shields."
+      ],
+      "specs": [{"what": "firing order", "value": "1-8-4-3-6-5-7-2"}],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Breakerless distributor: off-engine test",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["distributor"],
+      "steps": [
+        "Check centrifugal and vacuum advance on a distributor tester or synchroscope adapted for this distributor.",
+        "Since it requires removal, leave this test until other system checks are done."
+      ],
+      "specs": [],
+      "notes": ["No dwell reading is possible on this distributor, and the advance mechanisms are unlikely to cause trouble."],
+      "continues": false
+    },
+    {
+      "title": "Ignition coil: replace",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["ignition coil", "ignition shield", "high tension lead", "coil support bolts", "friction clamp"],
+      "steps": [
+        "Disconnect the ignition switch and distributor leads at the coil; on radio-equipped Corvettes, first remove the ignition shield bolts.",
+        "Pull the high-tension wire from the coil center terminal.",
+        "Remove the 2 coil support bolts, or loosen the friction clamp screw, and remove the coil.",
+        "Fit the new coil and install the bolts or tighten the clamp.",
+        "Seat the high-tension lead firmly in the center terminal and reconnect the switch and distributor primary leads; refit the ignition shield on Corvettes.",
+        "Start the engine and check coil operation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Ignition pulse amplifier: disassemble and check components",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["ignition pulse amplifier", "bottom plate", "panel board", "transistors", "heat sink", "insulators", "capacitors C2 and C3"],
+      "steps": [
+        "Remove the amplifier bottom plate.",
+        "Note where each lead connects to the panel board.",
+        "Remove the 3 panel board screws and lift the assembly out of the housing.",
+        "Note the markings and positions of the 2 transistors on the panel board and heat sink.",
+        "Note the insulators between transistors and heat sink, and between heat sink and panel board.",
+        "Remove the transistor screws and separate the 2 transistors and the heat sink from the board.",
+        "Inspect the panel board carefully for damage.",
+        "For component checks, use an ohmmeter with a 1-1/2 volt cell on its low range unless told otherwise.",
+        "Unsolder capacitors C2 and C3 at the points shown in figure 18i of the manual before checking the board.",
+        "For each check, connect the ohmmeter as shown, then reverse the leads for a second reading (circuit in figure 19i)."
+      ],
+      "specs": [
+        {"what": "soldering gun", "value": "25 watt"},
+        {"what": "solder", "value": "60% tin, 40% lead"}
+      ],
+      "notes": ["Avoid overheating the panel board when soldering; clip away any epoxy and apply new commercially available epoxy."],
+      "continues": true
+    }
+  ]
+}

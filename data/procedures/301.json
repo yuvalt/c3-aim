@@ -1,0 +1,77 @@
+{
+  "page": 301,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-4",
+  "procedures": [
+    {
+      "title": "Battery electrolyte level: check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "Do not overfill; overfilling loses electrolyte and causes poor performance, short life and heavy corrosion.",
+        "In service, add only water, never electrolyte.",
+        "Never let the level fall below the top of the plates; exposed plate areas can be permanently damaged."
+      ],
+      "specs": [],
+      "notes": [
+        "High water usage means overcharging, usually from high battery temperature, a regulator set too high, or a poor regulator ground connection.",
+        "Normal water use is about 1 to 2 ounces per month per battery."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Battery top, cables and hold-down: clean and service",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "battery cables", "cable clamps", "battery carrier", "battery hold-down"],
+      "steps": [
+        "Inspect the battery exterior periodically for damage, dirt and corrosion.",
+        "With vent plugs tight, wash the top with dilute ammonia or soda solution to neutralize acid, then rinse with clean water.",
+        "If posts or cable terminals are corroded, disconnect the cables and clean terminals and clamps separately with soda solution and a wire brush.",
+        "Reinstall the clamps and coat them lightly with petroleum jelly to slow corrosion.",
+        "Make sure the carrier and hold-down are clean, corrosion-free and sound enough to hold the battery level before installing it.",
+        "Tighten the hold-down bolts so the battery cannot shake, without straining the case or cover."
+      ],
+      "specs": [{"what": "battery hold-down bolts", "value": "60-80 in. lbs."}],
+      "notes": ["Acid film and dirt on the top can let current leak between terminals and slowly discharge the battery."],
+      "continues": false
+    },
+    {
+      "title": "Battery charging: safety precautions",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "Do not smoke near batteries that are charging or were recently charged.",
+        "Do not break live circuits at the battery terminals.",
+        "Take care when connecting or disconnecting booster leads or fast-charger clamps; poor connections cause arcing."
+      ],
+      "specs": [],
+      "notes": ["Charging produces explosive gas that can linger around the battery for several hours; a spark or flame can make the battery explode."],
+      "continues": false
+    },
+    {
+      "title": "Battery: recharge (slow, fast, emergency boost)",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "Before any charging method, check and correct the electrolyte level.",
+        "Slow charge: charge at about 4 amperes for 24 hours or longer as needed; the battery is full when cells gas freely and 3 corrected specific gravity readings taken an hour apart show no rise.",
+        "Fast charge: charge at 40 to 50 amperes for 1-1/2 hours; if electrolyte reaches 125°F first, stop temporarily or lower the rate. Finish with a slow charge to reach full charge.",
+        "Emergency boost: charge at 40 to 50 amperes for one-half hour to get enough to crank the engine, then follow with driving or a fast or slow charge."
+      ],
+      "specs": [
+        {"what": "slow charge", "value": "approx. 4 amperes, 24 hours or more"},
+        {"what": "fast charge", "value": "40 to 50 amperes, 1-1/2 hours"},
+        {"what": "fast charge electrolyte temperature limit", "value": "125°F"},
+        {"what": "emergency boost charge", "value": "40 to 50 amperes, one-half hour"}
+      ],
+      "notes": [
+        "Only the slow charge brings a battery to full charge.",
+        "Do not condemn a battery because it fails to crank after an emergency boost."
+      ],
+      "continues": true
+    }
+  ]
+}

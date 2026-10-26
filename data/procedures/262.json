@@ -1,0 +1,115 @@
+{
+  "page": 262,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-30",
+  "procedures": [
+    {
+      "title": "Valve stem oil seal and/or valve spring (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "spark plug",
+        "spark plug gasket"
+      ],
+      "steps": [
+        "Refit the spark plug with a new gasket and torque to specifications.",
+        "Install and adjust the valve mechanism."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cylinder head (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "cylinder head",
+        "cylinder head gasket",
+        "cylinder head bolts"
+      ],
+      "steps": [
+        "Remove the intake manifold.",
+        "Remove the exhaust manifolds.",
+        "Remove the valve mechanism.",
+        "Drain the coolant from the block.",
+        "Remove the head bolts, head and gasket; rest the head on 2 wood blocks to protect it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cylinder head (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "cylinder head",
+        "cylinder head gasket",
+        "cylinder head bolts",
+        "gasket sealer",
+        "sealing compound"
+      ],
+      "steps": [
+        "Make sure head and block gasket faces are clean and free of nicks or deep scratches, and clean the bolt threads in the block and on the bolts (dirt throws off torque).",
+        "Steel gasket: coat both sides of a new gasket with a thin, even layer of good sealer (a paint roller works well); too much sealer can hold the gasket beads off the surfaces.",
+        "Steel-asbestos composition gasket: use no sealer.",
+        "Lay the gasket over the dowel pins with the bead up.",
+        "Lower the head carefully onto the dowels and gasket.",
+        "Coat the head bolt threads with sealing compound and run them in finger tight.",
+        "Tighten the bolts gradually in the order on the torque sequence chart up to the specified torque.",
+        "Install the exhaust manifold, then the intake manifold.",
+        "Install and adjust the valve mechanism."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Oil pan: remove (Corvette)",
+      "topic": "engine",
+      "applies_to": "Corvette",
+      "parts": [
+        "oil pan",
+        "oil pan gaskets and seals",
+        "oil dip stick and tube",
+        "starter",
+        "flywheel underpan",
+        "steering linkage idler",
+        "oil baffle"
+      ],
+      "steps": [
+        "Disconnect the battery positive cable and remove the oil dip stick and tube.",
+        "Raise and support the car and drain the engine oil.",
+        "Remove the starter and the flywheel underpan.",
+        "Disconnect the steering linkage idler at the frame and let the linkage down.",
+        "Remove the oil pan and throw away the gaskets and seals.",
+        "On Hi-Performance engines, take out the oil baffle before doing any further work."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Oil pan (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "oil pan",
+        "oil pan gasket set",
+        "side gaskets",
+        "rear oil pan seal",
+        "front oil pan seal"
+      ],
+      "steps": [
+        "Clean all gasket surfaces thoroughly and use a new pan gasket set.",
+        "Stick the side gaskets on the pan rails using gasket sealer to hold them.",
+        "Fit the rear pan seal in the rear main bearing cap groove with its ends butting the side gaskets (see figure 8V in the manual).",
+        "Fit the front pan seal in the front cover groove with its ends butting the side gaskets.",
+        "If the crank was turned with the pan off, set the damper timing mark at 6 o'clock."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

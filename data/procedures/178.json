@@ -1,0 +1,65 @@
+{
+  "page": 178,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-19",
+  "procedures": [
+    {
+      "title": "Rear shock absorber: remove and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "shock absorber",
+        "lower mounting nut",
+        "lock washer",
+        "rubber grommets",
+        "strut rod mounting shaft",
+        "frame bracket"
+      ],
+      "steps": [
+        "(continued) Remove the lower nut and lock washer.",
+        "Slide the upper eye out of the frame bracket and pull the lower eye and rubber grommets off the strut rod shaft.",
+        "Check the grommets and the upper eye for heavy wear.",
+        "Installation: slide the upper eye into the frame bracket and fit bolt, lock washer and nut.",
+        "Put the rubber grommet, lower eye, inboard grommet, washers and nut on the strut rod shaft.",
+        "Torque the nuts to specification."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear strut rod and bracket: remove, repair and install",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "strut rod",
+        "strut rod shaft",
+        "strut rod bracket",
+        "camber cam and bolt",
+        "bushing caps",
+        "strut rod bushings",
+        "tools J-7877-1, J-7877-2, J-7877-3, J-7079-2",
+        "shock absorber"
+      ],
+      "steps": [
+        "Raise the car for working room.",
+        "Disconnect the shock absorber lower eye from the strut rod shaft.",
+        "Remove the strut rod shaft cotter pin and nut; pull the shaft out toward the front of the car (see figure 46 in the manual).",
+        "Mark the camber cam position against the bracket so it goes back the same way (see figure 47 in the manual).",
+        "Loosen the camber bolt and nut; remove the 4 bolts holding the strut rod bracket to the carrier and lower the bracket.",
+        "Remove the cam bolt nut and the cam and bolt; pull the strut down out of the bracket and take off the bushing caps.",
+        "Check the bushings and replace worn ones; replace the strut rod if bent or damaged.",
+        "Bushing removal: with the rod held level and the bushing centered on J-7877-2, press or drive the bushing out with J-7877-1 and J-7079-2 (see figure 48 in the manual).",
+        "Bushing installation: with the rod end centered on J-7877-2, press or drive the new bushing in with J-7877-3 and J-7079-2; J-7877-3 bottoms on the rod when the bushing is fully in.",
+        "Installation: fit the bushing caps over the inboard bushing and slide the rod into the bracket; fit the cam and bolt, line the cam up with the mark, and snug the nut without final torque.",
+        "Lift the bracket to the carrier lower mounting face and torque the bolts to specification.",
+        "Lift the outer end of the rod into the spindle support fork and push the strut rod shaft through so its flat matches the flat in the fork; fit the nut without final torque.",
+        "Place the shock absorber lower eye and bushing over the shaft..."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts layout in figure 45 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

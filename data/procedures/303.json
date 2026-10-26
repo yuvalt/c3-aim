@@ -1,0 +1,76 @@
+{
+  "page": 303,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-6",
+  "procedures": [
+    {
+      "title": "Battery specific gravity: read with a hydrometer",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery",
+        "hydrometer"
+      ],
+      "steps": [
+        "Correct each reading to 80°F: add .004 (four points) per 10° above 80°F; subtract .004 per 10° below 80°F.",
+        "Example: 1.260 at 110°F corrects to 1.272 (fully charged); 1.272 at 0°F corrects to 1.240 (partly charged)."
+      ],
+      "specs": [
+        {
+          "what": "fully charged specific gravity",
+          "value": "approx. 1.270 at 80°F"
+        },
+        {
+          "what": "temperature correction",
+          "value": ".004 per 10°F from 80°F"
+        }
+      ],
+      "notes": [
+        "See figure 7b in the manual: do not draw in too much electrolyte, keep the tube vertical, float free, read at eye level."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Battery: specific gravity cell comparison test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery",
+        "hydrometer"
+      ],
+      "steps": [
+        "Use this when no instrument tester is available.",
+        "Measure the specific gravity of every cell, whatever the state of charge.",
+        "If the highest and lowest cells differ by .050 (50 points) or more, replace the battery."
+      ],
+      "specs": [
+        {
+          "what": "max cell-to-cell specific gravity difference",
+          "value": ".050 (50 points)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Battery cable terminals: install on posts (Corvette battery installation)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "battery",
+        "battery cable terminals",
+        "battery hold-down",
+        "battery cables"
+      ],
+      "steps": [
+        "Do not spread the cable terminal open past the position shown in figure 8b, or it takes a permanent set and stays loose.",
+        "With the terminal fully open, press it onto the post as far as it will go, at least flush with or below the post top.",
+        "Never drive the terminal onto the post with a hammer or other tool."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 8b in the manual shows the Corvette battery seated in its carrier with the hold-down hardware (view B) and the battery cable clipped along the body to the starter solenoid (view A)."
+      ],
+      "continues": false
+    }
+  ]
+}

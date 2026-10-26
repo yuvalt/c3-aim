@@ -1,0 +1,63 @@
+{
+  "page": 510,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-56",
+  "procedures": [
+    {
+      "title": "Wiper cover panel vacuum relay: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "wiper vacuum relay",
+        "vacuum hoses"
+      ],
+      "steps": [
+        "Move the 4 hoses from the old relay to the new one, matching each hose stripe color to the letter on the relay pipe: G green, Y yellow, R red."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Wiper cover panel manual override vacuum switch: replace",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "manual override vacuum switch"
+      ],
+      "steps": [
+        "Remove the switch screw and push the switch rearward to free it from the bracket.",
+        "Move the vacuum hoses to the new switch.",
+        "Set the new switch in place and fasten it with the screw."
+      ],
+      "specs": [],
+      "notes": [
+        "The switch opens the wiper cover panel; it is under the left side of the instrument console, at the far right of the controls."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Horn relay-buzzer: buzzer check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "horn relay-buzzer",
+        "door jamb switch",
+        "ignition switch"
+      ],
+      "steps": [
+        "Make sure the key is fully in the ignition switch.",
+        "Open the driver's door and watch the dome lamp.",
+        "If neither dome lamp nor buzzer works, check the door switch.",
+        "If the dome lamp lights but no buzz, remove the horn relay-buzzer and find terminals No. 1 and No. 4.",
+        "Jumper terminal No. 4 to ground; with slip-on terminals, slide a prod into the harness connector to make contact."
+      ],
+      "specs": [],
+      "notes": [
+        "The horn relay and key reminder buzzer are one unit; terminal numbering is the same on all models though type and location vary (see figures 87 and 88 in the manual).",
+        "Buzzer: with the key in and the driver's door open, terminal No. 4 is grounded through the door switch; current through the coil opens the buzzer contacts, which re-close, many times a second. Closing the door or pulling the key stops it.",
+        "Horn: closing the horn switch grounds the coil, the armature closes the horn relay contacts and the horns get battery feed; the buzzer contacts stay open meanwhile."
+      ],
+      "continues": true
+    }
+  ]
+}

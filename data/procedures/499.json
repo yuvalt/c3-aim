@@ -1,0 +1,82 @@
+{
+  "page": 499,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-45",
+  "procedures": [
+    {
+      "title": "Wiper gear box: disassemble (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "terminal board and park switch",
+        "ground strap"
+      ],
+      "steps": [
+        "Drill out the rivets holding the terminal board and the park switch ground strap to the mounting plate."
+      ],
+      "specs": [],
+      "notes": [
+        "Screws, nuts and washers to fit a replacement terminal board-park switch come with the new assembly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper motor: disassemble (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "motor frame and field",
+        "armature",
+        "end plate",
+        "thrust plug",
+        "end play washers",
+        "brush springs"
+      ],
+      "steps": [
+        "Do gear box disassembly steps 1 through 7b first.",
+        "Remove the motor through bolts, tap the frame lightly and take the motor off the mounting plate.",
+        "Release brush spring tension (see figure 63 in the manual), then slide the armature and end plate out of the frame.",
+        "Pull the end plate off the armature; note the thrust plug between shaft and end plate.",
+        "Take the end play washers off the armature, noting their order for reassembly."
+      ],
+      "specs": [],
+      "notes": [
+        "Manual lists the Type E non-depressed park wiper for Chevelle, Chevrolet and Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper motor: inspect (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "motor frame and field"
+      ],
+      "steps": [
+        "Inspect every part and replace any that are unserviceable."
+      ],
+      "specs": [],
+      "notes": [
+        "All parts are sold separately except the motor frame and field, which come as one assembly. Service kits include screws, nuts and washers to replace the gear cover and terminal board rivets."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper motor and gear box: assemble (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "armature",
+        "end play washers"
+      ],
+      "steps": [
+        "Reassemble the motor by reversing the disassembly."
+      ],
+      "specs": [],
+      "notes": [
+        "Armature end play is set by the end play washers; see figure 64 in the manual for their order.",
+        "See figure 60 in the manual for the exploded view."
+      ],
+      "continues": true
+    }
+  ]
+}

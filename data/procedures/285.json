@@ -1,0 +1,57 @@
+{
+  "page": 285,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Fuel - Air Cleaners, p.6M-11",
+  "procedures": [
+    {
+      "title": "Air cleaner: maintenance intervals",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "air cleaner element"
+      ],
+      "steps": [
+        "Turn the oiled paper element 180° at 12,000 miles.",
+        "Replace the element every 24,000 miles.",
+        "Do both more often in dusty or other harsh driving conditions."
+      ],
+      "specs": [
+        {
+          "what": "rotate paper element 180°",
+          "value": "12,000 miles"
+        },
+        {
+          "what": "replace paper element",
+          "value": "24,000 miles"
+        }
+      ],
+      "notes": [
+        "1968 Chevrolets use 3 types: oiled paper, oiled paper with polyurethane band, and wire mesh with polyurethane band.",
+        "Light discoloration of an oiled paper element from a little dirt does not mean it is plugged or less effective.",
+        "Most automatic transmission cars have a thermostatic inlet air temperature control that mixes heat stove air and under-hood air."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Polyurethane air cleaner element: clean",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "polyurethane element",
+        "support screen",
+        "air cleaner cover",
+        "wing nut",
+        "air horn gaskets"
+      ],
+      "steps": [
+        "Remove the cover wing nut, cover and element.",
+        "Check the element for tears or rips and replace it if needed.",
+        "Clean all dirt from the air cleaner bottom and cover; discard the air horn gaskets.",
+        "Take the element off its support screen, wash it in kerosene or mineral spirits and squeeze out the solvent (see figure 3A in the manual); never use hot degreaser or acetone-type solvents.",
+        "Dip the element in light engine oil and squeeze out the excess."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

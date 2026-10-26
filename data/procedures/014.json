@@ -1,0 +1,166 @@
+{
+  "page": 14,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-11",
+  "procedures": [
+    {
+      "title": "Crankcase ventilation valve: service",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "PCV valve",
+        "ventilation hoses",
+        "fittings",
+        "flame arrestor"
+      ],
+      "steps": [
+        "Replace the valve every 12,000 miles or 12 months.",
+        "At the same time, clean the hoses, fittings and flame arrestor.",
+        "At each oil change, test the system and service it if needed."
+      ],
+      "specs": [],
+      "notes": [
+        "Do this more often in prolonged dusty conditions."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Air Injection Reactor (A.I.R.): service",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "A.I.R. pump filter",
+        "A.I.R. pump drive belt"
+      ],
+      "steps": [
+        "Every 12 months or 12,000 miles, whichever is first, service the A.I.R. pump filter.",
+        "At the same interval, check the drive belt for wear and tension.",
+        "Keep idle speed, ignition timing and idle mixture at specification; tune up periodically."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air cleaner: service",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "air cleaner element"
+      ],
+      "steps": [
+        "Polyurethane element: every 12,000 miles, wash in solvent, squeeze dry, soak in engine oil, then squeeze out the surplus.",
+        "Oil-wetted paper element: at the first 12,000 miles, look for dust leaks, holes or damage and replace if found.",
+        "If the paper element is good, turn it 180° from its original position.",
+        "Replace the paper element at 24,000 miles.",
+        "Never wash, oil, tap or blow out a paper element with air.",
+        "If fitted, replace the Bow-Tie filter every 24,000 miles."
+      ],
+      "specs": [],
+      "notes": [
+        "Service more often in prolonged dusty conditions."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Battery terminal felt washers: lubricate",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "battery terminal felt washers"
+      ],
+      "steps": [
+        "Every 6,000 miles, soak the felt washers under the battery cable connections with engine oil."
+      ],
+      "specs": [],
+      "notes": [
+        "The washers sit between the case top and the cable ends to limit acid corrosion."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Distributor cam lubricator: service",
+      "topic": "lubrication",
+      "applies_to": "327 and 427 V8",
+      "parts": [
+        "distributor cam lubricator"
+      ],
+      "steps": [
+        "8-cylinder: every 12,000 miles, turn the cam lubricator end for end.",
+        "Replace it every 24,000 miles."
+      ],
+      "specs": [],
+      "notes": [
+        "Applies to all 8-cylinder engines."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear axle and manual transmission: lubricant",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "rear axle",
+        "Positraction rear axle",
+        "manual transmission"
+      ],
+      "steps": [
+        "Check the lubricant level in the axle and transmission every 6,000 miles.",
+        "Top up with the same kind of lubricant already in the housing.",
+        "Check with the unit at operating temperature: level should reach the bottom of the filler plug hole.",
+        "If the unit is cold, the level should be 1/2 inch below the filler plug hole."
+      ],
+      "specs": [
+        {
+          "what": "standard rear axle lubricant",
+          "value": "SAE 90 \"Multi-Purpose\" gear lubricant"
+        },
+        {
+          "what": "Positraction rear axle lubricant",
+          "value": "special Positraction lubricant"
+        },
+        {
+          "what": "3-speed, overdrive and 4-speed transmission lubricant",
+          "value": "SAE 90 \"Multi-Purpose\" gear lubricant"
+        },
+        {
+          "what": "extended extreme cold",
+          "value": "SAE 80 viscosity grade may be used"
+        },
+        {
+          "what": "multi-purpose gear lubricant spec",
+          "value": "U.S. Army Ord. Spec. MIL-L-2105B"
+        }
+      ],
+      "notes": [
+        "Never use straight mineral oil gear lubricant in a hypoid axle.",
+        "Positraction axles must get the special Positraction lubricant.",
+        "The rear axle lubricant is not changed for the life of the car; use the lubricants above when refilling after repairs."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Powerglide transmission: fluid check and change",
+      "topic": "transmission",
+      "applies_to": "all models",
+      "parts": [
+        "Powerglide transmission",
+        "dipstick",
+        "low band"
+      ],
+      "steps": [
+        "Every 6,000 miles, check fluid on the dipstick with the engine idling, lever in neutral, parking brake on and transmission hot.",
+        "If below the full mark, add a small amount of automatic transmission fluid, recheck, and repeat until full.",
+        "Do not overfill.",
+        "At the first fluid change, adjust the low band (see Section 7)."
+      ],
+      "specs": [
+        {
+          "what": "fluid",
+          "value": "General Motors DEXRON Automatic Transmission Fluid, Part numbers 1050568, 69, 70"
+        }
+      ],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 24,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-5",
+  "procedures": [
+    {
+      "title": "Heater hoses: routing and replacement",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "heater hoses",
+        "heater core"
+      ],
+      "steps": [
+        "If a hose will not come off the core pipe easily, cut the hose just ahead of the core pipe.",
+        "Slit the piece left on the pipe lengthwise, then peel it off."
+      ],
+      "specs": [],
+      "notes": [
+        "The core is easily damaged at the seams where the pipes attach if the pipes are forced."
+      ],
+      "continues": false
+    }
+  ]
+}

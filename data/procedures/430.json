@@ -1,0 +1,136 @@
+{
+  "page": 430,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-4",
+  "procedures": [
+    {
+      "title": "Tire wear: diagnose",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Cornering also overloads and distorts the outside tires, wearing their outer half like excess positive camber.",
+        "Tell cornering wear from camber wear by the rounded outer shoulder and roughened, abraded tread; it may leave a fin along each tread row or a stepped look.",
+        "The only cure for cornering wear is gentler driving."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tires: rotate",
+      "topic": "wheels-tires",
+      "applies_to": "Corvette",
+      "parts": [
+        "tires",
+        "spare tire"
+      ],
+      "steps": [
+        "Rotate tires every 6000 miles, or sooner with heavy wear; Corvette tires every 4000 miles or sooner.",
+        "Follow the pattern in figure 5 of the manual (a 5-wheel pattern that brings the spare into use, or a 4-wheel pattern in which the fronts move straight back and the rears cross to the opposite front).",
+        "While the tires are off, look for unusual wear and bulges, and remove stones, glass and nails.",
+        "Reset front and rear pressures per the inflation table in Specifications, Section 10."
+      ],
+      "specs": [
+        {
+          "what": "rotation interval, Corvette",
+          "value": "4000 miles or sooner"
+        },
+        {
+          "what": "rotation interval, general",
+          "value": "6000 miles"
+        }
+      ],
+      "notes": [
+        "Following the schedule gives every tire equal mileage in each position by the end of the fourth change."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tire noise: diagnose",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "Drive at various speeds under part throttle, hard acceleration and deceleration: axle and exhaust noise change with these conditions, tire noise does not.",
+        "Drive a smooth stretch at normal pressure, then again with tires at fifty pounds; tire noise drops noticeably, axle noise does not.",
+        "Lower the tires back to normal one at a time to find the noisy one; never leave the high pressure in after the test.",
+        "If the front tires make most of the noise, check front wheel alignment."
+      ],
+      "specs": [
+        {
+          "what": "test inflation pressure",
+          "value": "fifty pounds"
+        }
+      ],
+      "notes": [
+        "Tire noise is loudest at about 20-30 mph.",
+        "Common causes: pressure below recommendation, misalignment, uneven wear, or a defective (thumper) tire."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tires: clean",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires",
+        "whitewall tires"
+      ],
+      "steps": [
+        "Sponge off road dirt with clear water or mild soap solution.",
+        "For whitewalls, a good whitewall cleaner works faster and removes stains soap will not."
+      ],
+      "specs": [],
+      "notes": [
+        "Never use gasoline, kerosene or any petroleum-based cleaner: oil damages and discolors tire rubber."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Road wheel: change with jack",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "road wheel",
+        "wheel nuts",
+        "hub cap",
+        "jack"
+      ],
+      "steps": [
+        "Apply the parking brake; block the front wheels when changing a rear.",
+        "Take off the hub cap or wheel disc and break the wheel nuts loose.",
+        "Position the jack as described in Section 0 (General Information) and lift until the tire is off the ground.",
+        "Remove the nuts and the wheel.",
+        "Reinstall in reverse order and torque the nuts to 55-75 ft. lbs."
+      ],
+      "specs": [
+        {
+          "what": "wheel nut torque",
+          "value": "55-75 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Caution: with wheel discs, line up the disc's pilot hole with the valve stem so its anti-rotation notches engage the lugs on the rim."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tires: repair punctures",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires"
+      ],
+      "steps": [
+        "After a tire has lost all or most of its air, especially at highway speed, dismount it and inspect inside for damage."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "page": 203,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-2",
+  "procedures": [
+    {
+      "title": "Brake system: general description",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake lever",
+        "parking brake front cable",
+        "pulley assembly",
+        "equalizer",
+        "parking brake rear cable"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Corvette parking brake routing: the cable goes forward from the lever to a pulley assembly on a frame crossmember, then rearward to an equalizer close to the rear frame crossmember. One single-piece rear cable runs through the equalizer and on to both rear brakes.",
+        "Figure 1 in the manual shows Delco Moraine and Bendix main cylinders in section; figure 2 shows the distribution and switch assembly on Chevrolet and Camaro."
+      ],
+      "continues": false
+    }
+  ]
+}

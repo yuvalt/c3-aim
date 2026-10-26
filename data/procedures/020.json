@@ -1,0 +1,26 @@
+{
+  "page": 20,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-1",
+  "procedures": [
+    {
+      "title": "Heater system: general description",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "heater core",
+        "blower and air inlet assembly",
+        "heater hoses",
+        "air distributor duct"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Heater parts mount on the right side of the firewall: blower, air inlet assembly and water hoses on the engine side; heater core and distributor duct on the passenger side.",
+        "The heater uses outside air only; the blower draws it from the cowl vent plenum chamber.",
+        "There is no water valve, so coolant flows through the core and keeps it hot at all times.",
+        "Airflow is set by three doors in the distributor duct: Air, Temperature and Defroster (see figure 1 in the manual)."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "page": 410,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-23",
+  "procedures": [
+    {
+      "title": "Standard Corvette steering column: disassemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "standard Corvette steering column",
+        "upper bearing preload spring",
+        "cancelling cam",
+        "turn signal lever",
+        "hazard warning knob",
+        "C retaining ring",
+        "thrust washer",
+        "wave washer",
+        "upper flange"
+      ],
+      "steps": [
+        "Lay the column on a suitable bench (see figure 46 in the manual for the exploded view).",
+        "Take the upper bearing preload spring and cancelling cam off the end of the column.",
+        "Unscrew the turn signal lever retaining screw and remove the lever; push the hazard warning knob in, then unscrew and remove it.",
+        "Remove the C retaining ring from the upper shaft with snap ring remover J-22569 (see figure 47 in the manual), then take off the thrust washer and wave washer.",
+        "Remove the 3 upper flange mounting bolts."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 46 parts: upper flange, retaining screws, mast jacket, wiring protector, bearing, signal switch screws, turn signal switch, upper bearing housing, signal switch cover, wheel nut, preload spring, cancelling cam, retaining ring, thrust and wave washers, spring, packing seal, spacer, clamp bolt and nut, steering shaft."
+      ],
+      "continues": true
+    }
+  ]
+}

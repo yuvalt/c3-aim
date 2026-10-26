@@ -1,0 +1,21 @@
+{
+  "page": 256,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-24",
+  "procedures": [
+    {
+      "title": "V8 engine mechanical: scope",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [],
+      "steps": [
+        "Use this section for removing and installing the engine and for replacing or adjusting the sub-assemblies listed in its index.",
+        "For full overhaul of components after removal, go to Section 6 of the Chassis Overhaul Manual."
+      ],
+      "specs": [],
+      "notes": [
+        "Covers the 302, 307, 327, 350, 396 and 427 cu. in. V8s in every passenger car line (see figure 1V in the manual)."
+      ],
+      "continues": false
+    }
+  ]
+}

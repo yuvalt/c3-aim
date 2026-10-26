@@ -1,0 +1,52 @@
+{
+  "page": 12,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-9",
+  "procedures": [
+    {
+      "title": "Engine crankcase oil: capacity and viscosity",
+      "topic": "lubrication",
+      "applies_to": "all models",
+      "parts": [
+        "engine oil",
+        "oil filter"
+      ],
+      "steps": [
+        "Choose oil viscosity for the lowest temperature expected until the next change, not for the temperature on the day of the change.",
+        "When changing oil, plan for the temperatures of the next 4 months."
+      ],
+      "specs": [
+        {
+          "what": "crankcase capacity, 8 Cylinder (327)",
+          "value": "4 qt."
+        },
+        {
+          "what": "crankcase capacity, 8 Cylinder (427) Corvette",
+          "value": "5 qt."
+        },
+        {
+          "what": "add with filter change (6 and 8 cyl.)",
+          "value": "1 qt."
+        },
+        {
+          "what": "viscosity, above freezing (+32°F)",
+          "value": "SAE 20W, SAE 10W-30"
+        },
+        {
+          "what": "viscosity, below freezing and above 0°F",
+          "value": "SAE 10W, SAE 10W-30"
+        },
+        {
+          "what": "viscosity, below 0°F",
+          "value": "SAE 5W, SAE 5W-20"
+        }
+      ],
+      "notes": [
+        "Light oils (SAE 5W, 10W) suit cold weather for easy starting; heavier grades (SAE 20, 20W) suit hot weather for oil economy.",
+        "Multi-viscosity oils (SAE 5-10W, 5W-20, 10W-20W, 10W-30) combine both.",
+        "Wrong viscosity for a sudden cold snap causes hard starting.",
+        "Viscosity numbers describe body only, not other quality factors."
+      ],
+      "continues": false
+    }
+  ]
+}

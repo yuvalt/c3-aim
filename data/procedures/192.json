@@ -1,0 +1,74 @@
+{
+  "page": 192,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-33",
+  "procedures": [
+    {
+      "title": "Axle drive shaft: remove, repair and install",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "trunnion yoke",
+        "bearing lock rings",
+        "bearing cups",
+        "needle rollers",
+        "trunnion",
+        "dust seals",
+        "seal installer J-21556",
+        "1-1/4\" pipe",
+        "U-bolts",
+        "bolt lock"
+      ],
+      "steps": [
+        "(continued) Repairs: remove the bearing lock ring from the trunnion yoke.",
+        "Set the yoke on a length of 1-1/4\" pipe on an arbor press bed.",
+        "Press the trunnion down with a socket or rod until the opposite bearing cup is pushed out of the yoke.",
+        "Take out the trunnion and press out the other cup, without dropping the cup or losing rollers.",
+        "Do the other joint the same way.",
+        "Take the dust seals off the trunnion; clean and inspect the rollers and trunnion; repack the bearings with high-melting-point wheel bearing grease.",
+        "Fit new dust seals with the seal cavity toward the trunnion end; put J-21556 over the trunnion end into the seal cavity and press until the tool bottoms on the trunnion (see figure 83 in the manual).",
+        "Start one cup into the yoke, set the trunnion into it, add the other cup, and press both cups in while keeping the trunnion aligned.",
+        "Press the cups in far enough to fit the lock rings, and fit them.",
+        "Installation: set the inboard trunnion into the side gear yoke and fit the U-bolts; turn the yokes so the trunnion seats are 90 degrees apart.",
+        "Fit the outboard flange into the spindle drive flange pilot, lay the bolt lock over the holes and fit the 4 bolts; torque to specification and bend the lock tabs flat against the bolt heads."
+      ],
+      "specs": [],
+      "notes": [
+        "Besides packing the bearings, fill the grease reservoir at the end of each trunnion completely, packing from the bottom of the hole to avoid air pockets.",
+        "Seal fitting is critical: use the specified tool so the seal does not distort and seats properly.",
+        "A bench vise can be used instead of an arbor press, following the same steps."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Pinion flange, dust deflector and/or oil seal: replace",
+      "topic": "driveline",
+      "applies_to": "Corvette",
+      "parts": [
+        "companion flange",
+        "flange nut and washer",
+        "pinion oil seal",
+        "deflector",
+        "flange holder J-8614-1",
+        "carrier front mounting bracket",
+        "propeller shaft",
+        "1/2\" block"
+      ],
+      "steps": [
+        "Removal: raise the car and put a stand under the frame so the wheels hang free.",
+        "Put a 1/2\" wood or steel block between the top of the carrier behind the companion flange and the body floor, so the carrier cannot twist up when the front bracket is freed.",
+        "Unbolt the carrier front mounting bracket from the frame crossmember.",
+        "Remove the nuts and the 2 bracket-to-carrier through bolts, and take off the bracket.",
+        "Disconnect the propeller shaft at the transmission and at the companion flange; slide the transmission yoke forward and lower the shaft out.",
+        "Mark the flange nut position relative to the pinion so the original pinion bearing preload can be reset.",
+        "Hold the flange with J-8614-1 and remove the nut and washer (see figure 84 in the manual).",
+        "Drive the flange off with a brass drift and hammer (see figure 85 in the manual).",
+        "Pry the oil seal out of the carrier with a screwdriver.",
+        "Inspection: check the flange splines for heavy wear or twisting and the deflector for looseness; if loose or damaged, break the stakes, remove it, fit a new one and stake it.",
+        "Installation: pack the space between the seal lips with lithium-base extreme pressure grease..."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

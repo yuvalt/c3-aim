@@ -1,0 +1,127 @@
+{
+  "page": 589,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Steering specifications: standard steering",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering gear",
+        "steering linkage",
+        "tie rods"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "steering gear type",
+          "value": "Recirculating Ball"
+        },
+        {
+          "what": "gear ratio",
+          "value": "16:1"
+        },
+        {
+          "what": "overall ratio",
+          "value": "Road 20.2:1, Fast 17.6:1"
+        },
+        {
+          "what": "linkage type",
+          "value": "Parallel Relay Rod"
+        },
+        {
+          "what": "linkage location",
+          "value": "Rear"
+        },
+        {
+          "what": "number of tie rods",
+          "value": "2"
+        }
+      ],
+      "notes": [
+        "Section 9. Corvette column."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering specifications: power steering",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump",
+        "power steering gear"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "pump pressure",
+          "value": "870-1000"
+        },
+        {
+          "what": "steering gear type",
+          "value": "Recirculating Ball"
+        },
+        {
+          "what": "ratio",
+          "value": "16:1 Overall"
+        }
+      ],
+      "notes": [
+        "The pump type cell is blank in the Corvette column."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Steering adjustment specifications: standard steering",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": [
+        "steering gear"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "worm bearing preload (torque to turn worm shaft)",
+          "value": "5 - 8 Lb. In."
+        },
+        {
+          "what": "sector lash adjustment",
+          "value": "4 - 10 Lb. In. in excess of above"
+        },
+        {
+          "what": "total steering gear preload",
+          "value": "16 Lb. In. Maximum"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering adjustment specifications: power steering",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering gear"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "worm bearing preload",
+          "value": "4 to 7 lb. in."
+        },
+        {
+          "what": "sector lash adjustment",
+          "value": "4 to 10 lb. in. excess of above"
+        },
+        {
+          "what": "total steering gear preload",
+          "value": "14 lb. in Max."
+        }
+      ],
+      "notes": [
+        "The Corvette has its own rows in the power steering adjustment table; the ball drag / thrust bearing / over center rows are for the other models' integral gear."
+      ],
+      "continues": false
+    }
+  ]
+}

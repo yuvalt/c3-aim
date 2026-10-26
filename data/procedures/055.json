@@ -1,0 +1,145 @@
+{
+  "page": 55,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-36",
+  "procedures": [
+    {
+      "title": "A/C component replacement: preparing the system",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "compressor",
+        "receiver-dehydrator",
+        "condenser",
+        "expansion valve inlet screen"
+      ],
+      "steps": [
+        "After a compressor mechanical failure, take the compressor out.",
+        "Take out the receiver-dehydrator and scrap it.",
+        "Flush the condenser to clear out debris pumped into it.",
+        "Disconnect the receiver-dehydrator line at the expansion valve inlet and check the inlet screen for metal chips or debris; replace the screen if plugged, then reconnect the line.",
+        "Fit a new receiver-dehydrator.",
+        "Fit the replacement compressor.",
+        "Add oil: 1 fluid oz. for the new receiver-dehydrator plus the amount the replacement compressor needs (see Checking Compressor Oil Charge).",
+        "Evacuate and charge the system.",
+        "Check system performance."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant line O-ring connections: service",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "O-rings",
+        "refrigerant lines"
+      ],
+      "steps": [
+        "Fit a new O-ring every time a connection is opened.",
+        "Dip the new O-ring in clean refrigeration oil before fitting.",
+        "Hold the fitting with a backing wrench so the pipe does not twist and damage the O-ring.",
+        "Tighten to the table torque; do not overtighten."
+      ],
+      "specs": [
+        {
+          "what": "1/4 in. tube O.D., 7/16 thread: steel tubing",
+          "value": "13 ft-lb"
+        },
+        {
+          "what": "1/4 in. tube O.D., 7/16 thread: aluminum tubing",
+          "value": "6 ft-lb"
+        },
+        {
+          "what": "3/8 in. tube O.D., 5/8 thread: steel tubing",
+          "value": "33 ft-lb"
+        },
+        {
+          "what": "3/8 in. tube O.D., 5/8 thread: aluminum tubing",
+          "value": "12 ft-lb"
+        },
+        {
+          "what": "1/2 in. tube O.D., 3/4 thread: steel tubing",
+          "value": "33 ft-lb"
+        },
+        {
+          "what": "1/2 in. tube O.D., 3/4 thread: aluminum tubing",
+          "value": "12 ft-lb"
+        },
+        {
+          "what": "5/8 in. tube O.D., 7/8 thread: steel tubing",
+          "value": "33 ft-lb"
+        },
+        {
+          "what": "5/8 in. tube O.D., 7/8 thread: aluminum tubing",
+          "value": "20 ft-lb"
+        },
+        {
+          "what": "3/4 in. tube O.D., 1-1/16 thread: steel tubing",
+          "value": "33 ft-lb"
+        },
+        {
+          "what": "3/4 in. tube O.D., 1-1/16 thread: aluminum tubing",
+          "value": "25 ft-lb"
+        }
+      ],
+      "notes": [
+        "For a steel-to-aluminum joint, use the aluminum tubing torque."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant hose clamp connections: install and remove",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "refrigerant hose",
+        "hose clamp",
+        "hose fitting"
+      ],
+      "steps": [
+        "Install: coat the tube and hose with clean refrigeration oil.",
+        "Push the hose over the three sealing beads until it butts against the fourth (locating) bead; use no sealer.",
+        "Fit the clamps with their locating arms hooked over the cut end of the hose.",
+        "Tighten the clamp screw to 35-42 lb. in.; do not retighten afterwards.",
+        "Remove: with a sharp knife, make an angled cut in the hose (see figure 38 in the manual) to loosen it, then work it off the fitting.",
+        "Trim off the slit end of the hose before refitting, and reinstall as above."
+      ],
+      "specs": [
+        {
+          "what": "hose clamp screw",
+          "value": "35-42 lb. in."
+        },
+        {
+          "what": "hose clamp screw retorque threshold",
+          "value": "below 10 lb. in."
+        },
+        {
+          "what": "hose clamp screw retorque",
+          "value": "20-25 lb. in."
+        }
+      ],
+      "notes": [
+        "Clamp torque normally drops as the hose settles; only retorque if it has fallen below 10 lb. in., and then to 20-25 lb. in. More may damage the hose.",
+        "Caution: use only approved refrigeration hose, never heater hose. Do not nick or score the sealing beads when cutting off a hose; a lengthwise cut risks this."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Refrigerant leak at O-ring connection: repair",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "O-ring",
+        "fitting"
+      ],
+      "steps": [
+        "Check the fitting torque and tighten to spec if loose, using a backing wrench; do not overtighten. Leak test again.",
+        "If it still leaks, discharge the refrigerant"
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

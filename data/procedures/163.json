@@ -1,0 +1,58 @@
+{
+  "page": 163,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-4",
+  "procedures": [
+    {
+      "title": "Corvette rear suspension: general description",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "axle drive shafts",
+        "universal joints",
+        "spindle flange",
+        "differential side gear yokes",
+        "spindle support",
+        "tapered roller bearings",
+        "bearing spacer and shims",
+        "strut rods",
+        "camber cam",
+        "shock absorbers",
+        "transverse leaf spring",
+        "spring liners",
+        "stabilizer shaft"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Each rear spindle is driven by a tubular drive shaft with a U-joint at both ends; the outer end bolts by flange to a splined spindle flange, the inner end bolts to the differential side gear yoke.",
+        "Each spindle support carries an inner and an outer tapered roller bearing; bearing adjustment is by a spacer plus a shim of chosen thickness between the bearings.",
+        "Forged fork-shaped brackets on the spindle supports take the outer ends of the rubber-bushed strut rods; the strut rods run sideways to a bracket bolted under the carrier, where an eccentric cam at the inner mount sets rear camber.",
+        "Shock absorbers (direct, double-acting) mount at the top eye to a frame bracket and at the bottom eye to a threaded stud on the strut rod mounting shaft.",
+        "The multi-leaf spring is clamp-bolted at its center to a mounting face under the carrier cover; each end of the main leaf has a hole for the link bolt to the rear of the torque control arm. The spring has full-length liners.",
+        "An optional stabilizer shaft attaches to the upper rear of the torque control arms and runs rearward to two rubber-bushed brackets on the frame."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear suspension: periodic inspection",
+      "topic": "rear-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "shock absorbers",
+        "suspension bushings",
+        "suspension attaching bolts"
+      ],
+      "steps": [
+        "Check shock absorber action.",
+        "Check the condition of the suspension bushings.",
+        "Check that the suspension attaching bolts are tight.",
+        "Look over all components for defects."
+      ],
+      "specs": [],
+      "notes": [
+        "No scheduled maintenance or adjustment is needed for the rear suspension parts."
+      ],
+      "continues": false
+    }
+  ]
+}

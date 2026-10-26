@@ -1,0 +1,30 @@
+{
+  "page": 500,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-46",
+  "procedures": [
+    {
+      "title": "Wiper motor and gear box: assemble (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "armature shaft bushings",
+        "gear box cover",
+        "ground strap",
+        "crank arm"
+      ],
+      "steps": [
+        "Oil the armature shaft bushings with light machine oil.",
+        "Assemble the gear box by reversing the disassembly, greasing the gear teeth with Delco Cam and Ball Bearing lubricant or equal.",
+        "Seat the cover correctly over the dowel pins and refit the ground strap.",
+        "Put the wiper in park (see figure 65 in the manual) and fit the crank arm on the output shaft, turning it until its marks line up with the cover marks.",
+        "Install the retaining nut, hold the crank arm in a vise and tighten the nut."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ],
+  "notes": [
+    "The Type E washer pump is a positive-displacement bellows pump (bellows, spring and valves) driven by a 4-lobe cam on the wiper gear, which turns whenever the wiper runs (see figure 66 in the manual)."
+  ]
+}

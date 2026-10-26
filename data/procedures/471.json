@@ -1,0 +1,74 @@
+{
+  "page": 471,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-17",
+  "procedures": [
+    {
+      "title": "Lighting (headlamp) switch replacement",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "headlamp switch",
+        "knob and shaft",
+        "ferrule nut",
+        "multi-contact connector",
+        "vacuum hoses",
+        "instrument panel"
+      ],
+      "steps": [
+        "(Continued) Corvette: remove the screws along the top and left side of the instrument panel and pull the panel forward to reach the switch.",
+        "Reach under the panel, press the switch shaft retainer and pull out the knob and shaft.",
+        "Remove the ferrule nut and take the switch out of the panel.",
+        "Disconnect the vacuum hoses from the Corvette switch, tagging each hose position.",
+        "Unplug the multi-contact connector; a screwdriver can be used at the side of the switch to pry it off.",
+        "Plug the connector onto the new switch, reconnect the vacuum hoses, and reassemble in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 26 in the manual for the shaft retainer."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Windshield wiper switch replacement",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "wiper switch",
+        "wiper switch knob",
+        "switch plate",
+        "center console \"Corvette\" plate"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the screws from the upper center console plate marked \"Corvette\".",
+        "Unplug the wiring from the switch.",
+        "Lift the switch and plate out of the console.",
+        "Hold the switch arm with small locking pliers, carefully pry the knob off, then remove the switch screws.",
+        "To install, first put a small rod into the switch arm before pushing the knob onto the arm from outside the trim plate, then reverse the removal steps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Stoplight switch replacement",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "stoplight switch",
+        "switch bracket",
+        "brake pedal housing"
+      ],
+      "steps": [
+        "Unplug the harness connector at the switch.",
+        "Remove the retaining nut if fitted and unscrew the switch from its bracket.",
+        "Corvette: remove the screw holding the switch bracket to the brake pedal housing.",
+        "Install: line up the switch bracket on the brake pedal housing and fit the screw (see figure 29 in the manual).",
+        "Plug the connector back onto the switch..."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

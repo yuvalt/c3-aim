@@ -1,0 +1,89 @@
+{
+  "page": 465,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-11",
+  "procedures": [
+    {
+      "title": "Headlamp vacuum relay replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "vacuum relay",
+        "vacuum hoses"
+      ],
+      "steps": [
+        "Raise the hood.",
+        "Carefully pull the 4 hoses off the relay.",
+        "Remove the 2 relay screws and lift the relay out.",
+        "Install in reverse order and check the headlamp covers work under vacuum."
+      ],
+      "specs": [],
+      "notes": [
+        "Put each color-coded hose back on its own fitting; Corvette fittings have molded R-Y-G letters and the hoses are color striped."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Headlamp vacuum tank replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "vacuum tank",
+        "power brake booster",
+        "master cylinder",
+        "vacuum hoses"
+      ],
+      "steps": [
+        "Raise the hood.",
+        "Remove the power brake booster and master cylinder (see Section 5).",
+        "Disconnect the tank hoses, noting each hose stripe color and position, and tape the hose ends to keep dirt out.",
+        "From under the left fender skirt, remove the screw assemblies holding the tank.",
+        "From inside the engine compartment, lift out the tank with its built-in brackets.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Headlamp vacuum hose routing",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "vacuum hoses",
+        "check valve",
+        "vacuum tank",
+        "headlamp switch",
+        "relay valve",
+        "actuator",
+        "manual control valve"
+      ],
+      "steps": [
+        "Route replacement hoses so they are not pinched.",
+        "Use the exact-length actuator-to-relay hoses for each side.",
+        "Connect: manifold vacuum to check valve; check valve to tank; check valve to headlamp switch; headlamp switch to relay valve; tank to relay valve; relay valve to the closed side and to the open side of each actuator; and (Corvette) manual control valve to relay valve."
+      ],
+      "specs": [],
+      "notes": [
+        "Many Corvette hoses are color striped and bundled. See figure 19 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tail, stop, directional and backup lamp bulb replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "rear lamp bulbs",
+        "lens"
+      ],
+      "steps": [
+        "Remove the lens screws and free the lens.",
+        "Change the bulb and check the lamp works.",
+        "Refit the lens and screws."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

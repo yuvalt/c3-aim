@@ -1,0 +1,30 @@
+{
+  "page": 140,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-1",
+  "procedures": [
+    {
+      "title": "Front suspension: general description",
+      "topic": "front-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper control arm",
+        "lower control arm",
+        "coil spring",
+        "spherical joints",
+        "steering knuckle",
+        "front wheel bearings",
+        "stabilizer bar",
+        "upper control arm shims"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "All 1968 Chevrolet lines, Corvette included, use a short-long arm (S.L.A.) independent front suspension with coil springs sitting on the lower control arms.",
+        "Spherical (ball) joints link both control arms to the steering knuckle; wheel bearings are tapered roller type.",
+        "Corvette camber and caster are both set with shims between the upper control arm inner support shaft and its frame bracket (Chevrolet full-size uses a cam and strut rod instead).",
+        "Every Corvette has a front stabilizer bar."
+      ],
+      "continues": false
+    }
+  ]
+}

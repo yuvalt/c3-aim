@@ -1,0 +1,27 @@
+{
+  "page": 494,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-40",
+  "procedures": [
+    {
+      "title": "Directional signal switch: general service notes",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "directional signal switch",
+        "hazard flasher",
+        "signal flasher"
+      ],
+      "steps": [
+        "Replace the switch as an assembly if faulty; only the cancelling and detent springs on one of the two designs can be serviced (see figure 54 in the manual).",
+        "Follow Steering, Section 9, for any work on the energy-absorbing column; this section only supplements it."
+      ],
+      "specs": [],
+      "notes": [
+        "All models have lane-change and hazard warning functions.",
+        "The hazard warning needs an extra flasher in the fuse panel able to run up to six lamps at once; signal flasher units differ by number of lamps.",
+        "The switch replacement steps on this page are for Chevrolet, Chevelle, Chevy II and Camaro only."
+      ],
+      "continues": false
+    }
+  ]
+}

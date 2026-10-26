@@ -1,0 +1,26 @@
+{
+  "page": 187,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-28",
+  "procedures": [
+    {
+      "title": "Rear axle failure analysis",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "hypoid ring gear and pinion",
+        "differential gears",
+        "tapered roller bearings"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Most common failures: hypoid tooth scoring and fracture, differential gear fracture and/or differential bearing failure, and axle bearing failure.",
+        "Hypoid tooth scoring (see figure 67 in the manual) usually comes from poor break-in, wrong lubricant, too little backlash or bad ring/pinion alignment. Left alone it erodes or pits the teeth until they break, possibly harming bearings. It shows as a loud whine on drive, coast or both.",
+        "Hypoid tooth fracture (see figure 68 in the manual) also comes from long overloading (fatigue) or shock loads (sudden break).",
+        "Differential gear failure comes from shock loads, long overloading (fatigue), or overheated thrust faces from heavy wheel spin breaking down the lubricant, leading to seized thrust faces or broken teeth (see figure 69 in the manual).",
+        "Tapered roller bearings fail mainly from wear due to long service or dirt in the oil; next most often from preload set too tight or too loose, causing spalling. That can misalign the gear set and score the hypoid gears."
+      ],
+      "continues": false
+    }
+  ]
+}

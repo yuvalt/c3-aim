@@ -1,0 +1,119 @@
+{
+  "page": 238,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-6",
+  "procedures": [
+    {
+      "title": "Intake manifold: tighten",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "intake manifold bolts"
+      ],
+      "steps": [
+        "Follow the sequence on the Torque Sequence Chart."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fuel lines and fuel filter: service",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "fuel lines",
+        "fuel filter"
+      ],
+      "steps": [
+        "Check fuel lines for kinks, bends or leaks and fix any found.",
+        "Check the filter and replace it if plugged."
+      ],
+      "specs": [],
+      "notes": [
+        "For poor high-speed performance, run the fuel pump tests in Section 6M."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cooling system: tune-up service",
+      "topic": "cooling",
+      "applies_to": "all models",
+      "parts": [
+        "hoses",
+        "hose clamps",
+        "coolant"
+      ],
+      "steps": [
+        "Check for leaks, soft hoses, loose clamps and correct coolant level; service as needed."
+      ],
+      "specs": [],
+      "notes": [
+        "A pressure test (Additional Checks and Adjustments) can find internal or external leaks."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Accelerator linkage: check and adjust",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": [
+        "accelerator rod",
+        "carburetor throttle lever"
+      ],
+      "steps": [
+        "Disconnect the accelerator rod from the carburetor throttle lever.",
+        "Hold the throttle lever wide open.",
+        "Pull the accelerator rod to its wide open position (through the detent with automatic transmission).",
+        "Adjust the rod so it drops freely into the throttle lever hole.",
+        "Reconnect the rod at the throttle lever."
+      ],
+      "specs": [],
+      "notes": [
+        "Accelerator linkage details are in Section 6M."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Crankcase ventilation (closed positive): service",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "ventilation valve",
+        "ventilation hoses",
+        "flame arrestor",
+        "oil filler cap"
+      ],
+      "steps": [
+        "Test the ventilation valve as described under Additional Checks and Adjustments.",
+        "Check hoses for deterioration or plugging.",
+        "Check every hose connection.",
+        "If a flame arrestor is fitted, take it out, wash it in solvent and blow it dry with compressed air."
+      ],
+      "specs": [],
+      "notes": [
+        "All engines use the Closed Positive system: manifold vacuum pulls air from the carburetor air cleaner through the engine and a regulating valve into the manifold so fumes are burned; the oil filler cap is non-vented (see figure 10 in the manual)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Air injection reactor system: tune-up inspection",
+      "topic": "emissions",
+      "applies_to": "all models",
+      "parts": [
+        "air injection pump belt",
+        "AIR hoses",
+        "air manifolds",
+        "air tubes",
+        "hose clamps"
+      ],
+      "steps": [
+        "Look for leaks, deteriorated hoses, cracked air manifolds or tubes and loose clamps.",
+        "Check the air pump belt condition and tension.",
+        "Make repairs per Section 6T."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

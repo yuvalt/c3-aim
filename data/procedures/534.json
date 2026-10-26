@@ -1,0 +1,33 @@
+{
+  "page": 534,
+  "source": "1968 Chevrolet Chassis Service Manual, Radiator and Grille, p.13-1",
+  "procedures": [
+    {
+      "title": "Radiator and fan shroud: general information",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "radiator",
+        "radiator drain cock",
+        "fan shroud"
+      ],
+      "steps": [
+        "Check coolant level cold: on the Corvette's crossflow radiator it should sit 3 in. below the bottom of the filler neck."
+      ],
+      "specs": [
+        {
+          "what": "coolant level, crossflow radiator (cold)",
+          "value": "three inches below the bottom of the filler neck"
+        }
+      ],
+      "notes": [
+        "Radiators have copper-brass cores, except the Corvette 427 L88 V8 and all 327 V8s with manual transmission, which have aluminum cores.",
+        "Only Chevrolet models and the Chevy II 4-cylinder use downflow radiators; the Corvette uses the crossflow design.",
+        "All radiators now use a drain cock instead of a drain plug.",
+        "Fan shrouds are plastic except on Corvettes without C60, which use steel shrouds.",
+        "Radiators mount to the support with cap screws and/or brackets; shrouds attach with cap screws and/or clips."
+      ],
+      "continues": false
+    }
+  ]
+}

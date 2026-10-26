@@ -1,0 +1,23 @@
+{
+  "page": 11,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-8",
+  "procedures": [
+    {
+      "title": "Vehicle lifting points: Corvette (figures 9 and 10)",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "frame",
+        "jack stands",
+        "frame lift adapters"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 9 in the manual: drive-on hoist or two-post hoist with drive-on adapters contacts the tires; floor jack, jack stands or center-post hoist go on the frame side rails at four places (behind the front kick-up and ahead of the rear kick-up on each side); jack stands may also go under the front frame horns at the very front.",
+        "Figure 10 in the manual: frame lift adapter (steel beam with wood blocks) under the rear of the frame, clearing the exhaust pipes."
+      ],
+      "continues": false
+    }
+  ]
+}

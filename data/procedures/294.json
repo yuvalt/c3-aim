@@ -1,0 +1,54 @@
+{
+  "page": 294,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-3",
+  "procedures": [
+    {
+      "title": "A.I.R. pump pulley: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "pump pulley",
+        "pump pulley bolts",
+        "drive belt"
+      ],
+      "steps": [
+        "Keep the pulley from turning by squeezing the belt, and loosen the pulley bolts.",
+        "Remove the belt, then the pulley.",
+        "Fit the pulley with its bolts hand tight.",
+        "Install and adjust the belt.",
+        "Holding the pulley by squeezing the belt, torque the pulley bolts to 25 ft. lbs.",
+        "Recheck belt tension and adjust if needed."
+      ],
+      "specs": [
+        {
+          "what": "A.I.R. pump pulley bolts",
+          "value": "25 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Figure 4 in the manual shows air manifold, hose and tube routing."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pump filter: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "centrifugal filter fan",
+        "pump pulley",
+        "drive belt"
+      ],
+      "steps": [
+        "Remove the drive belt and pump pulley.",
+        "Pry off the outer disc of the filter fan.",
+        "Pull the rest of the filter off with pliers (see figure 6 in the manual), keeping fragments out of the air intake hole.",
+        "Draw the new filter on using the pulley and its bolts (see figure 7 in the manual); never hammer or press it on.",
+        "Tighten the bolts alternately so the filter goes down evenly, and make sure its outer edge slips into the housing; slight interference with the housing bore is normal."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "page": 580,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine torques: 327 V8",
+      "topic": "specifications",
+      "applies_to": "327 V8",
+      "parts": [
+        "engine fasteners"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "crankcase front cover (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "flywheel housing pans (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil filter bypass valve (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil pan to crankcase (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil pump cover (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "rocker arm cover (1/4-20)",
+          "value": "55 lb. in."
+        },
+        {
+          "what": "connecting rod cap (11/32-24)",
+          "value": "35 lb. ft."
+        },
+        {
+          "what": "camshaft sprocket (5/16-18)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "oil pan to crankcase (5/16-18)",
+          "value": "65 lb. in."
+        },
+        {
+          "what": "clutch pressure plate (3/8-16)",
+          "value": "35 lb. ft."
+        },
+        {
+          "what": "distributor clamp (3/8-16)",
+          "value": "10 lb. ft."
+        },
+        {
+          "what": "flywheel housing (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "exhaust manifold (3/8-16)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "inlet manifold (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "water outlet (3/8-16)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "water pump (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "cylinder head (7/16-14)",
+          "value": "65 lb. ft."
+        },
+        {
+          "what": "main bearing cap (7/16-14)",
+          "value": "80 lb. ft."
+        },
+        {
+          "what": "oil pump (7/16-14)",
+          "value": "65 lb. ft."
+        },
+        {
+          "what": "flywheel (7/16-20)",
+          "value": "60 lb. ft."
+        },
+        {
+          "what": "torsional damper (7/16-20)",
+          "value": "60 lb. ft."
+        },
+        {
+          "what": "temperature sending unit (1/2-14)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "oil filter",
+          "value": "Hand Tight"
+        },
+        {
+          "what": "oil pan drain plug (1/2-20)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "spark plug (14mm)",
+          "value": "25 lb. ft."
+        }
+      ],
+      "notes": [
+        "Section 6. 327 column of the engine torque table; column spans read from the page image."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine torques: 427 V8",
+      "topic": "specifications",
+      "applies_to": "427 V8",
+      "parts": [
+        "engine fasteners"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "crankcase front cover (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "flywheel housing pans (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil filter bypass valve (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil pan to front cover (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "oil pump cover (1/4-20)",
+          "value": "80 lb. in."
+        },
+        {
+          "what": "rocker arm cover (1/4-20)",
+          "value": "50 lb. in."
+        },
+        {
+          "what": "camshaft sprocket (5/16-18)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "oil pan to crankcase (5/16-18)",
+          "value": "135 lb. in."
+        },
+        {
+          "what": "clutch pressure plate (3/8-16)",
+          "value": "35 lb. ft."
+        },
+        {
+          "what": "distributor clamp (3/8-16)",
+          "value": "10 lb. ft."
+        },
+        {
+          "what": "flywheel housing (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "exhaust manifold (3/8-16)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "inlet manifold (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "water outlet (3/8-16)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "water pump (3/8-16)",
+          "value": "30 lb. ft."
+        },
+        {
+          "what": "connecting rod cap (3/8-24)",
+          "value": "50 lb. ft."
+        },
+        {
+          "what": "cylinder head (7/16-14)",
+          "value": "80 lb. ft.*"
+        },
+        {
+          "what": "oil pump (7/16-14)",
+          "value": "65 lb. ft."
+        },
+        {
+          "what": "rocker arm stud (7/16-14)",
+          "value": "50 lb. ft."
+        },
+        {
+          "what": "flywheel (7/16-20)",
+          "value": "60 lb. ft."
+        },
+        {
+          "what": "main bearing cap, 2 bolt (1/2-13)",
+          "value": "95 lb. ft."
+        },
+        {
+          "what": "main bearing cap, 4 bolt (1/2-13)",
+          "value": "105 lb. ft."
+        },
+        {
+          "what": "temperature sending unit (1/2-14)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "torsional damper (1/2-20)",
+          "value": "85 lb. ft."
+        },
+        {
+          "what": "oil filter",
+          "value": "Hand Tight"
+        },
+        {
+          "what": "oil pan drain plug (1/2-20)",
+          "value": "20 lb. ft."
+        },
+        {
+          "what": "spark plug (14mm)",
+          "value": "25 lb. ft."
+        }
+      ],
+      "notes": [
+        "* RPO L88, L89 (aluminum cylinder head): short head bolts 65 lb. ft., long head bolts 75 lb. ft.",
+        "The page groups the oil filter and drain plug under the 1/2-20 size heading."
+      ],
+      "continues": false
+    }
+  ]
+}

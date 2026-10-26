@@ -1,0 +1,75 @@
+{
+  "page": 413,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-26",
+  "procedures": [
+    {
+      "title": "Corvette telescoping steering column: assemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "spring clip",
+        "coupling",
+        "retainer clip",
+        "bearing retainer",
+        "flange",
+        "turn signal switch",
+        "upper bearing housing",
+        "signal switch cover",
+        "wiring protector",
+        "escutcheon",
+        "inner jacket section",
+        "keys",
+        "bumper",
+        "bumper key strap",
+        "wave washer",
+        "thrust washer",
+        "upper retaining ring",
+        "mesh cover",
+        "cancelling cam",
+        "upper bearing preload spring"
+      ],
+      "steps": [
+        "(continued) ...then the clip, spring, coupling and retainer clip on the bottom of the shaft.",
+        "Carefully slide the shaft into the lower end of the jacket.",
+        "Fit the bearing retainer over the lower ends of the shaft and jacket and secure it with 3 screws.",
+        "Fit the flange and flange bolt to the shaft's lower end.",
+        "Thread the turn signal switch wires through the switch cover, set the switch and upper bearing housing in the cover, and fasten the switch with its 3 screws.",
+        "Place the wiring protector inside.",
+        "Start the escutcheon and wiring protector, with the switch wires, over the end of the outer jacket.",
+        "Slide the inner jacket section into the outer section.",
+        "Tighten the signal switch screws to fasten the switch cover to the inner jacket flange.",
+        "Fasten the bottom of the wiring protector to the column with 2 screws.",
+        "Assemble the keys and bumper, set the assembly in the jacket, and fit the bumper key strap.",
+        "Place the wave washer, thrust washer and upper retaining ring at the top of the shaft; seat the ring in its groove with a screwdriver.",
+        "Fit the turn signal lever with its screw and screw in the hazard warning knob.",
+        "If removed, wrap the mesh cover around the jacket's mesh section and tape it with electrical or friction tape.",
+        "Slide the cancelling cam and upper bearing preload spring over the top of the shaft."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Steering column: install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering column",
+        "dash panel seals",
+        "covers",
+        "plates",
+        "clamps",
+        "instrument panel column mounting bracket"
+      ],
+      "steps": [
+        "Before fitting the column, slide the dash panel seals, covers, plates and clamps loosely onto it in their order (see figures 17 to 20 in the manual).",
+        "Move the seat fully back, then carefully work the column into place in the car and at the steering gear."
+      ],
+      "specs": [],
+      "notes": [
+        "Fit the instrument panel mounting bracket loosely only; do not tighten it until the steering coupling is connected."
+      ],
+      "continues": true
+    }
+  ]
+}

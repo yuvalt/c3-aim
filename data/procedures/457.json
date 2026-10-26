@@ -1,0 +1,79 @@
+{
+  "page": 457,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-3",
+  "procedures": [
+    {
+      "title": "Fusible links: locations and service",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "fusible links",
+        "starter solenoid \"Bat\" terminal",
+        "horn relay",
+        "generator and forward lamp harness"
+      ],
+      "steps": [
+        "Battery charging circuit link (Corvette): it is a molded splice at the solenoid \"Bat\" terminal; repair by splicing in a new link.",
+        "Horn relay link (16 gauge, black, protects all unfused 12-gauge-or-larger wiring): unplug the in-line connector and replace the link; it is not part of the harness.",
+        "Generator warning light and field circuit link (20 gauge, orange, in the battery feed to regulator #3 terminal wire): splice in a new 20 gauge wire.",
+        "Ammeter circuit links (two, 20 gauge, orange; at the solenoid \"Bat\" terminal on Corvette and at the horn relay): splice in new 20 gauge wire as needed."
+      ],
+      "specs": [],
+      "notes": [
+        "On models other than Corvette the charging-circuit link is a 14 gauge brown pigtail built into the battery positive cable, protecting the 10 gauge charging circuit.",
+        "Harness wires follow a color code common to all Chevrolets; composite wiring diagrams are figs. 89 to 110 at the end of the section."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Lighting and wiring maintenance",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": [
+        "wiring harness",
+        "lighting units"
+      ],
+      "steps": [
+        "Check now and then that all wiring connections are clean and tight and that lamps are mounted firmly for a good ground.",
+        "Replace any harness whose insulation is burned, cracked or deteriorated.",
+        "Solder every splice or broken-wire repair using rosin flux solder, then cover splices and bare wire with insulating tape.",
+        "Never substitute a wire of smaller gauge than the original.",
+        "Secure every harness and wire with clips so vibration cannot chafe the insulation.",
+        "Test circuits for continuity or shorts with a test lamp or low-reading voltmeter, using the wiring diagrams."
+      ],
+      "specs": [],
+      "notes": [
+        "Loose or corroded connections can cause a run-down battery, hard starting, dim lamps and generator/regulator damage."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Headlamp aiming with T-3 Safety Aimer (Type B)",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "headlamps",
+        "headlamp bezels",
+        "T-3 Safety Aimer"
+      ],
+      "steps": [
+        "Caution: first check and tighten the radiator support and grille bolts; on Corvette, confirm the headlamp panel is adjusted correctly (see Headlamp Panel Adjustment).",
+        "Prepare the car: full fuel, oil and coolant, no load, tires at recommended pressure.",
+        "Drive onto the chosen aiming area, bounce the car several times and let it settle.",
+        "Take off the headlamp bezels if needed.",
+        "Fit the aimers on either the No. 1 or No. 2 pair of lamps so the lamp aiming points sit in the smooth inner ring of each aimer.",
+        "Press the center knob of each aimer firmly to lock it on (see figure 3 in the manual), then swing the crossarms inboard to roughly horizontal.",
+        "Knot both ends of the elastic string and hook it through the slots across both horizontal crossarms.",
+        "Rotate both aimers until the string just clears the crossarm points.",
+        "Horizontal: turn the horizontal aiming screw on the left lamp (see figure 4 in the manual) until the string sits over the crossarm centerline..."
+      ],
+      "specs": [],
+      "notes": [
+        "In a dual headlamp system the inboard lamp is No. 1 and the outboard lamp is No. 2.",
+        "Wet the suction cups slightly for best grip.",
+        "Chevy II and Camaro 7-inch lamps need an adapter with the Type B aimer."
+      ],
+      "continues": true
+    }
+  ]
+}

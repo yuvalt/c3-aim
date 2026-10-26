@@ -1,0 +1,57 @@
+{
+  "page": 133,
+  "source": "1968 Chevrolet Chassis Service Manual, Frame, p.2-1",
+  "procedures": [
+    {
+      "title": "Frame: general description",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "frame",
+        "side rails",
+        "crossmembers"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The Corvette frame is a stiff perimeter frame with five crossmembers.",
+        "Ahead of the rear kick-up, closed trapezoid-section side members surround and guard the passenger compartment.",
+        "At the cowl the side members sweep inward in an \"S\" curve, giving a base for the engine mounts and room for front wheel travel.",
+        "Behind the kick-up, box-section side rails carry the rear axle and suspension.",
+        "All five crossmembers are welded in, including the front one, which used to be bolted."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Frame alignment: check",
+      "topic": "frame",
+      "applies_to": "all models",
+      "parts": [
+        "frame",
+        "tram gauge",
+        "plumb bob"
+      ],
+      "steps": [
+        "Check frame alignment (along with steering geometry and wheel alignment) on any car in an accident that could have bent the frame.",
+        "Set the car on a level surface with its weight on the wheels.",
+        "Look the frame over first; obvious damage often shows without measuring.",
+        "Step 1: X-check horizontally with a tram between matching points on opposite sides, tram points centered on each locating point and cross bar level.",
+        "If the two diagonals of any section differ by more than 3/16\", the frame needs correction.",
+        "Without a tram gauge, hang a plumb bob from each reference point on a level floor, mark the floor under its tip, and measure between the marks with a rule.",
+        "Step 2: check the vertical dimensions from the datum plane to each point being trammed.",
+        "After repair, set the tram to the specified dimension and recheck."
+      ],
+      "specs": [
+        {
+          "what": "X-check diagonal agreement",
+          "value": "within 3/16\""
+        }
+      ],
+      "notes": [
+        "With correct settings the tram bar lies parallel to the frame, unless a reference point is itself in the damaged area.",
+        "Hole dimensions are taken to the dead center of the hole, flush with the surrounding metal."
+      ],
+      "continues": false
+    }
+  ]
+}

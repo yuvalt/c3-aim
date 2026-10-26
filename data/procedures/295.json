@@ -1,0 +1,109 @@
+{
+  "page": 295,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-4",
+  "procedures": [
+    {
+      "title": "A.I.R. pump filter: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "centrifugal filter"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "A new filter may squeal at first until its outer sealing lip wears in."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. air manifold, hoses and tubes: inspect and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air manifold",
+        "A.I.R. hoses",
+        "A.I.R. tubes",
+        "anti-seize compound"
+      ],
+      "steps": [
+        "Check all hoses for deterioration or holes and all tubes for cracks or holes (see figure 4 in the manual).",
+        "Check every hose and tube connection, and check routing; interference causes wear.",
+        "If a pressure-side leak is suspected, or pressure-side parts were disconnected, brush soapy water on the connections with the pump running; bubbles show leaks.",
+        "To replace, note the routing, remove the hoses and/or tubes, fit new ones routed the same way, and tighten all connections.",
+        "Use anti-seize compound on the threads where the air manifold meets the exhaust manifold (V8)."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: the 1/4\" pipe threads in the V8 exhaust manifold are straight pipe threads; do not run a 1/4\" tapered pipe tap into them.",
+        "A.I.R. hoses are a special high-temperature material; do not substitute other hose."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. check valve: inspect and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "check valve",
+        "pump outlet hose",
+        "air manifold"
+      ],
+      "steps": [
+        "Inspect whenever its hose is disconnected or failure is suspected; a dead pump with signs of exhaust gas inside points to a failed check valve.",
+        "Blow through the valve by mouth toward the air manifold, then try to suck back; air must flow only toward the manifold.",
+        "To replace, disconnect the pump outlet hose at the check valve and unscrew the valve from the air manifold without bending or twisting the manifold."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. diverter valve: inspect and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "diverter valve",
+        "vacuum signal line",
+        "diverter valve muffler",
+        "diverter valve gasket"
+      ],
+      "steps": [
+        "Check condition and routing of all lines, especially the signal line; all must be secure, unkinked and leak-free.",
+        "Disconnect the signal line at the valve; with the engine running there must be vacuum.",
+        "At steady idle no air should come from the muffler; snap the throttle open and shut and a blast of air should come out the muffler for at least 1 second.",
+        "Replace a defective valve: disconnect the vacuum signal line and the valve exhaust hose(s), remove the valve from the pump, and take the muffler off noting its angle.",
+        "Fit the muffler to the new valve at the same angle.",
+        "Mount the valve to the pump or bracket with a new gasket and torque the screws to 85 in. lbs.",
+        "Reconnect the outlet and vacuum signal lines and check for leaks."
+      ],
+      "specs": [
+        {
+          "what": "diverter valve attaching screws",
+          "value": "85 in. lbs."
+        }
+      ],
+      "notes": [
+        "CAUTION: diverter valves that look alike are built for different engines; install the correct one."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. air injection tubes: inspect and replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "air injection tubes",
+        "exhaust manifold"
+      ],
+      "steps": [
+        "No routine service; on V8s, inspect the tubes whenever the exhaust manifolds are off for carbon buildup and warped or burned tubes (see figure 5 in the manual).",
+        "Wire-brush off any carbon.",
+        "Replace warped or burned tubes."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

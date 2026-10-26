@@ -1,0 +1,39 @@
+{
+  "page": 208,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-7",
+  "procedures": [
+    {
+      "title": "Hydraulic brake tubing: double-lap flaring",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "finish flare punch",
+        "ram"
+      ],
+      "steps": [
+        "Finish the flare: insert the pointed finish flare punch and the ram, then tap the ram until a good seat forms (see figure 14 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Check the seat now and then while finishing so it is not over-seated."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Parking brake: adjust",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "rear brake assemblies",
+        "parking brake"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The rear brakes serve as both the hydraulic service brake and the mechanical parking brake (continues on the next page).",
+        "The service-brake (drum) preliminary adjustment on this page applies to drum-brake models only and is not included; the Corvette uses four-wheel disc brakes."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "page": 585,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Distributor specifications: 327 Corvette engines",
+      "topic": "specifications",
+      "applies_to": "327 V8",
+      "parts": [
+        "distributor",
+        "spark plugs"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 hp base engine: ignition distributor",
+          "value": "1111194 (Tach Drive)"
+        },
+        {
+          "what": "1111194: centrifugal advance (crank degrees @ engine RPM)",
+          "value": "C-4499: 0 @ 900 RPM, 9° @ 1200 RPM, 15° @ 1500 RPM, 30° @ 5100 RPM"
+        },
+        {
+          "what": "1111194: vacuum advance (crank degrees)",
+          "value": "C-3064: 0 @ 6\" Hg., 15° @ 12\" Hg."
+        },
+        {
+          "what": "1111194: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111194: ignition timing BTDC at engine idle",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111194: idle setting, emission control system",
+          "value": "600 (Automatic), 700 (Manual)"
+        },
+        {
+          "what": "1111194: original equipment spark plug",
+          "value": "AC 44 (5610296)"
+        },
+        {
+          "what": "327 350 hp RPO L79: ignition distributor",
+          "value": "1111438 (Tach Drive)"
+        },
+        {
+          "what": "1111438: centrifugal advance",
+          "value": "C-4692: 0 @ 950 RPM, 14° @ 1400 RPM, 20° @ 1800 RPM, 30° @ 4700 RPM"
+        },
+        {
+          "what": "1111438: vacuum advance",
+          "value": "C-3036: 0 @ 8\" Hg., 152 @ 15.5\" Hg."
+        },
+        {
+          "what": "1111438: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111438: ignition timing",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111438: idle setting, emission control system",
+          "value": "750 (Manual)"
+        },
+        {
+          "what": "1111438: original equipment spark plug",
+          "value": "AC 44 (5610296)"
+        },
+        {
+          "what": "327 350 hp RPO L79 (transistor ignition): ignition distributor",
+          "value": "1111441 (Transistor Ign. System)"
+        },
+        {
+          "what": "1111441: centrifugal advance",
+          "value": "C-4701: 0 @ 900 RPM, 16.5° @ 1400 RPM, 30° @ 4400 RPM"
+        },
+        {
+          "what": "1111441: vacuum advance",
+          "value": "C-3036: 0 @ 8\" Hg., 15° @ 15.5\" Hg."
+        },
+        {
+          "what": "1111441: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111441: ignition timing",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111441: idle setting, emission control system",
+          "value": "750 (Manual)"
+        },
+        {
+          "what": "1111441: original equipment spark plug",
+          "value": "AC 44 (5610296)"
+        }
+      ],
+      "notes": [
+        "Idle speed set in Neutral for manual transmissions, in Drive for automatics.",
+        "The 1111438 vacuum advance end point is printed \"152 @ 15.5\" Hg.\"; the same C-3036 unit is listed elsewhere as 15° @ 15.5\" Hg., so \"152\" is probably a misprint of 15°."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Distributor specifications: 427 Corvette engines",
+      "topic": "specifications",
+      "applies_to": "427 V8",
+      "parts": [
+        "distributor",
+        "spark plugs"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "427 RPO L36 390 hp / RPO L68 400 hp: ignition distributor",
+          "value": "1111293 (Tach Drive)"
+        },
+        {
+          "what": "1111293: centrifugal advance",
+          "value": "C-4626: 0 @ 900 RPM, 8° @ 1250 RPM, 17° @ 2000 RPM, 32° @ 5000 RPM"
+        },
+        {
+          "what": "1111293: vacuum advance",
+          "value": "C-3955: 0 @ 7\" Hg., 12° @ 12\" Hg."
+        },
+        {
+          "what": "1111293: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111293: ignition timing",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111293: idle setting, emission control system",
+          "value": "600 (Automatic), 700 (Man L36), 750 (Man L68)"
+        },
+        {
+          "what": "1111293: original equipment spark plug",
+          "value": "AC 43N (5611019)"
+        },
+        {
+          "what": "427 RPO L36 390 hp / RPO L68 400 hp (transistor ignition): ignition distributor",
+          "value": "1111294 (Transistor Ign. System)"
+        },
+        {
+          "what": "1111294: centrifugal advance",
+          "value": "C-4631: 0 @ 900 RPM, 8° @ 1250 RPM, 17° @ 2000 RPM, 32° @ 5000 RPM"
+        },
+        {
+          "what": "1111294: vacuum advance",
+          "value": "C-3955: 0 @ 7\" Hg., 12° @ 12\" Hg."
+        },
+        {
+          "what": "1111294: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111294: ignition timing",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111294: idle setting, emission control system",
+          "value": "600 (Automatic), 700 (Man L36), 750 (Man L68)"
+        },
+        {
+          "what": "1111294: original equipment spark plug",
+          "value": "AC 43N (5611019)"
+        },
+        {
+          "what": "427 RPO L71 435 hp / RPO L89 435 hp: ignition distributor",
+          "value": "1111296 (Transistor Ign. System Tach Drive)"
+        },
+        {
+          "what": "1111296: centrifugal advance",
+          "value": "C-4637: 0 @ 900 RPM, 30° @ 3800 RPM"
+        },
+        {
+          "what": "1111296: vacuum advance",
+          "value": "C-3036: 0 @ 8\" Hg., 15° @ 15.5\" Hg."
+        },
+        {
+          "what": "1111296: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111296: ignition timing",
+          "value": "4° BTDC"
+        },
+        {
+          "what": "1111296: idle setting, emission control system",
+          "value": "750 (Man L71)"
+        },
+        {
+          "what": "1111296: original equipment spark plug",
+          "value": "AC 43N (L71) (5611019); AC 43XL (L89) (5611273)"
+        },
+        {
+          "what": "427 RPO L88 430 hp: ignition distributor",
+          "value": "1111295 (Transistor Ign. System Tach Drive)"
+        },
+        {
+          "what": "1111295: centrifugal advance",
+          "value": "C-4699: 0 @ 1200 RPM, 18° @ 1900 RPM, 30° @ 5000 RPM"
+        },
+        {
+          "what": "1111295: vacuum advance",
+          "value": "None"
+        },
+        {
+          "what": "1111295: point dwell",
+          "value": "28°-32°"
+        },
+        {
+          "what": "1111295: ignition timing",
+          "value": "12° BTDC"
+        },
+        {
+          "what": "1111295: idle setting, emission control system",
+          "value": "1000 (Manual)"
+        },
+        {
+          "what": "1111295: original equipment spark plug",
+          "value": "AC 43XL (5611273)"
+        }
+      ],
+      "notes": [
+        "Idle speed set in Neutral for manual transmissions, in Drive for automatics."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 388,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-1",
+  "procedures": [
+    {
+      "title": "Manual steering gear lubricant: check and fill",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "manual steering gear",
+        "gear cover retaining screws"
+      ],
+      "steps": [
+        "Check the gear lubricant level every 36,000 miles; do not drain the housing or change the grease seasonally.",
+        "Take out the lower and the outboard cover retaining screws (see figure 2 in the manual).",
+        "Fit the filling device into the lower screw hole."
+      ],
+      "specs": [],
+      "notes": [
+        "The gear is factory filled with water-resistant grease; top up only with water-resistant EP chassis lubricant.",
+        "All 1968 columns, including tilt and telescope options, are the energy-absorbing collapsible type (mast jacket, shift tube and steering shaft collapse in a frontal impact)."
+      ],
+      "continues": true
+    }
+  ]
+}

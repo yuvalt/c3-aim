@@ -1,0 +1,23 @@
+{
+  "page": 153,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-14",
+  "procedures": [
+    {
+      "title": "Spherical joint lube fittings: replace",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "spherical joint lube fitting"
+      ],
+      "steps": [
+        "To replace just a fitting, a standard threaded fitting may be used.",
+        "New spherical joint assemblies come without a fitting: screw a self-threading fitting into the untapped hole provided."
+      ],
+      "specs": [],
+      "notes": [
+        "Factory joints use special self-threading lube fittings."
+      ],
+      "continues": false
+    }
+  ]
+}

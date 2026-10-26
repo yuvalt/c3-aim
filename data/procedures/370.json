@@ -1,0 +1,102 @@
+{
+  "page": 370,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-41",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic vacuum modulator checks",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [
+        "Measure the gap between the other modulator's sleeve end and the gauge line; replace the suspect modulator if it is more than 1/16\".",
+        "Sleeve alignment: roll the modulator body on a flat surface and watch whether the sleeve runs true to the can; if concentric with a free plunger, it is good.",
+        "A modulator that passes all of these tests should be reused."
+      ],
+      "specs": [
+        {
+          "what": "bellows comparison gap",
+          "value": "1/16\" or less"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic shift points (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "specifications",
+      "parts": [],
+      "steps": [],
+      "specs": [
+        {
+          "what": "V-327 base, 3.09 axle, F70-15 tire, closed throttle: 1-2 up",
+          "value": "6.8-10.1 MPH"
+        },
+        {
+          "what": "V-327 base, closed throttle: 2-1 down",
+          "value": "9.6-6.1 MPH"
+        },
+        {
+          "what": "V-327 base, closed throttle: 2-3 up",
+          "value": "15.5-20.0 MPH"
+        },
+        {
+          "what": "V-327 base, closed throttle: 3-2 down",
+          "value": "17.2-12.9 MPH"
+        },
+        {
+          "what": "V-327 base, thru detent: 1-2 up",
+          "value": "32.2-44.4 MPH"
+        },
+        {
+          "what": "V-327 base, thru detent: 2-1 down",
+          "value": "38.3-23.6 MPH"
+        },
+        {
+          "what": "V-327 base, thru detent: 2-3 up",
+          "value": "66.1-80.8 MPH"
+        },
+        {
+          "what": "V-327 base, thru detent: 3-2 down",
+          "value": "75.3-59.8 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, 3.08 axle, closed throttle: 1-2 up",
+          "value": "7.7-11.5 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, closed throttle: 2-1 down",
+          "value": "10.5-6.1 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, closed throttle: 2-3 up",
+          "value": "15.8-23.0 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, closed throttle: 3-2 down",
+          "value": "17.9-13.3 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, thru detent: 1-2 up",
+          "value": "41.8-55.4 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, thru detent: 2-1 down",
+          "value": "39.8-19.6 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, thru detent: 2-3 up",
+          "value": "73.5-90.8 MPH"
+        },
+        {
+          "what": "V-427 L36 or L68, thru detent: 3-2 down",
+          "value": "84.7-66.3 MPH"
+        }
+      ],
+      "notes": [
+        "Only the Corvette rows of the table are kept."
+      ],
+      "continues": false
+    }
+  ]
+}

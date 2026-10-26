@@ -1,0 +1,82 @@
+{
+  "page": 235,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Tune Up, p.6-3",
+  "procedures": [
+    {
+      "title": "Spark plugs: service and install",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "spark plugs",
+        "spark plug gaskets",
+        "spark plug wires"
+      ],
+      "steps": [
+        "Be very careful with the tap not to cross-thread; crank the engine several times afterward to blow out loosened material.",
+        "Fit the plugs with new gaskets and torque to specifications.",
+        "Connect the spark plug wires."
+      ],
+      "specs": [],
+      "notes": [
+        "Common causes of poor plug performance: too little torque to seat the gasket fully, too much torque (changes the gap), installing on a dirty gasket seat, and installing into corroded threads."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Ignition system: service",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "distributor cap",
+        "rotor",
+        "spark plug wires"
+      ],
+      "steps": [
+        "Take off the distributor cap, clean it and check for cracks, carbon tracks and burned or corroded terminals; replace if needed.",
+        "Clean the rotor and check for damage or wear; replace if needed.",
+        "Replace brittle, oil-soaked or damaged plug wires and route each to the correct plug; seat the wires properly in their supports to avoid cross-firing.",
+        "Tighten all ignition connections.",
+        "Repair or replace frayed, loose or damaged wires."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Magnetic pulse (breakerless) distributor: maintenance",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "ignition pulse amplifier",
+        "distributor"
+      ],
+      "steps": [
+        "No periodic maintenance is needed; the amplifier has no moving parts and the distributor shaft and bushings are permanently lubricated.",
+        "For problems and repair of the transistorized magnetic pulse system, see Section 6Y."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Breaker point distributor: service",
+      "topic": "engine",
+      "applies_to": "all models",
+      "parts": [
+        "distributor",
+        "centrifugal advance mechanism",
+        "vacuum spark control",
+        "breaker plate",
+        "contact points"
+      ],
+      "steps": [
+        "Test the centrifugal advance: turn the rotor clockwise as far as it goes and release it; the springs must return it to the retarded position, otherwise take the distributor apart and fix the cause.",
+        "Test the vacuum spark control: turn the movable breaker plate counterclockwise and check that the spring returns it to retarded; correct any binding, since stiffness changes ignition timing.",
+        "Inspect the points and clean or replace them as needed (see figure 4 in the manual for the V8 distributor and figure 5 for point alignment)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

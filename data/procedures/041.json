@@ -1,0 +1,52 @@
+{
+  "page": 41,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-22",
+  "procedures": [
+    {
+      "title": "Gauge set: install to check system operation (Four-Season)",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "gauge set",
+        "gauge adapters"
+      ],
+      "steps": [
+        "When taking the gauge lines off the compressor fittings, unscrew the adapters from the fittings rather than the lines from the adapters."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Air conditioning performance test",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "gauge set",
+        "thermometers",
+        "18 inch fan"
+      ],
+      "steps": [
+        "Close doors and windows; have the car indoors or in shade.",
+        "Raise the hood and make sure engine exhaust is ventilated.",
+        "Put the transmission in NEUTRAL and run the engine at 2000 rpm.",
+        "Set the A/C controls for maximum cooling and high blower speed.",
+        "Set the temperature control for full recirculated air with all A/C outlets open.",
+        "Install the gauge set.",
+        "Let the system stabilize for about 10 minutes.",
+        "Place one thermometer in front of the grille and another in the right-hand diffuser outlet.",
+        "Compare readings with the performance data table for the car."
+      ],
+      "specs": [],
+      "notes": [
+        "The test checks whether the system performs satisfactorily and guides diagnosis; the fixed conditions let readings be compared with the standard tables.",
+        "Relative humidity is not in the tables: after the run-in on recirculated air and maximum cooling, humidity over the evaporator settles at about 35% to 40% regardless of outside conditions.",
+        "If head pressure runs too high at high ambient temperatures, place an 18\" fan in front of the car blowing into the condenser.",
+        "Higher ambient temperatures give higher readings. In very humid areas readings may approach but not reach the table figures on a good system.",
+        "Low-side pressure directly governs outlet temperature; if it is too low, ice gradually forms on the evaporator fins, blocking airflow and reducing or stopping cooling.",
+        "The Comfortron and GM Chevrolet Air Conditioner setup variations in the manual do not apply to Corvette."
+      ],
+      "continues": true
+    }
+  ]
+}

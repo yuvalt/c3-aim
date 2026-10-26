@@ -1,0 +1,127 @@
+{
+  "page": 265,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-33",
+  "procedures": [
+    {
+      "title": "Torsional damper (V8): install, 396 and 427",
+      "topic": "engine",
+      "applies_to": "427 V8",
+      "parts": [
+        "torsional damper",
+        "Tool J-21058",
+        "damper retaining bolt",
+        "accessory drive pulley",
+        "engine front mount through-bolts"
+      ],
+      "steps": [
+        "Set the damper over the crankshaft key.",
+        "Pull it onto the crankshaft with Tool J-21058 (see figure 13V in the manual).",
+        "Remove the tool.",
+        "Install the damper retaining bolt and torque to specifications, then the accessory drive pulley.",
+        "Install the radiator and shroud (Section 13) and the fan pulley and fan (Section 6K).",
+        "Install the fan belt and set tension with a strand tension gauge.",
+        "Corvette: lower the engine and reinstall the front mount through-bolts.",
+        "Fill the cooling system, start the engine and check for leaks."
+      ],
+      "specs": [],
+      "notes": [
+        "With engine and radiator still in the car, a 1/2\"-20 x 5\" bolt and 1/2\"-20 nut can substitute for the J-21058 bolt and nut.",
+        "CAUTION: thread the bolt into the crankshaft at least 1/2\"."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Torsional damper (V8): install, 302 and 327 325/350 hp",
+      "topic": "engine",
+      "applies_to": "327 V8 (325 and 350 hp)",
+      "parts": [
+        "torsional damper",
+        "Tool J-21058"
+      ],
+      "steps": [
+        "Install the damper as for 396/427 engines, but use a 7/16\"-20 x 5\" bolt and nut instead of the ones supplied with J-21058."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Crankcase front cover (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "crankcase front cover",
+        "front cover gasket"
+      ],
+      "steps": [
+        "Remove the oil pan.",
+        "Remove the torsional damper.",
+        "Remove the water pump (Section 6K).",
+        "Remove the front cover bolts, then the cover and gasket; discard the gasket."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Crankcase front cover (V8): install, 302/307/327/350",
+      "topic": "engine",
+      "applies_to": "327 V8",
+      "parts": [
+        "crankcase front cover",
+        "front cover gasket",
+        "oil seal",
+        "gasket sealer"
+      ],
+      "steps": [
+        "Check that the cover face and block front face are clean and flat.",
+        "Oil the seal; coat a new gasket with gasket sealer and fit cover and gasket over the dowel pins onto the block.",
+        "Install the cover screws and torque to specifications.",
+        "Install the water pump (Section 6K), torsional damper and oil pan."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Crankcase front cover (V8): install, 396/427",
+      "topic": "engine",
+      "applies_to": "427 V8",
+      "parts": [
+        "crankcase front cover",
+        "front cover gasket",
+        "oil seal",
+        "Aligning Tool J-22102"
+      ],
+      "steps": [
+        "Check that the cover face and block front face are clean and flat.",
+        "Oil the seal and put Aligning Tool J-22102 in it (see figure 14V in the manual); fit the cover with a new sealer-coated gasket to the block.",
+        "Install the cover screws, torque to specifications, then remove J-22102.",
+        "Install the water pump (Section 6K), torsional damper and oil pan."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front cover oil seal (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "front cover oil seal",
+        "Tool J-995",
+        "Tool J-8340",
+        "Tool J-22102"
+      ],
+      "steps": [
+        "Cover removed: pry the old seal out from the front with a large screwdriver.",
+        "Cover removed: drive in the new seal, open end toward the inside of the cover, with J-995 on 327 (302/307/350) engines (see figure 15V in the manual) or J-22102 on 427 (396) engines (see figure 16V in the manual), supporting the cover at the seal area so it does not distort.",
+        "Cover installed: with the damper off, pry the old seal out from the front with a large screwdriver without damaging the crankshaft surface.",
+        "Cover installed: drive in the new seal, open end toward the inside, with J-8340 on 327 (302/307/350) engines (see figure 17V in the manual) or J-22102 on 427 (396) engines (see figure 18V in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

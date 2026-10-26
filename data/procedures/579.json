@@ -1,0 +1,305 @@
+{
+  "page": 579,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Carburetor specifications: Rochester 4MV",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "Rochester 4MV carburetor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "part number, 327 (300) Auto.",
+          "value": "7028208"
+        },
+        {
+          "what": "part number, 327 (300) Syn.",
+          "value": "7028207"
+        },
+        {
+          "what": "part number, 327 (350) Syn.",
+          "value": "7028219"
+        },
+        {
+          "what": "part number, 427 (390) Auto.",
+          "value": "7028216"
+        },
+        {
+          "what": "part number, 427 (390) Syn.",
+          "value": "7028209"
+        },
+        {
+          "what": "float level, 327",
+          "value": "9/32"
+        },
+        {
+          "what": "float level, 427 (390)",
+          "value": "3/16"
+        },
+        {
+          "what": "float drop",
+          "value": "—"
+        },
+        {
+          "what": "accelerator pump",
+          "value": "9/32\""
+        },
+        {
+          "what": "idle vent",
+          "value": "3/8\""
+        },
+        {
+          "what": "fast idle, mechanical",
+          "value": "2 Turns"
+        },
+        {
+          "what": "fast idle, running",
+          "value": "2400 rpm"
+        },
+        {
+          "what": "carburetor choke rod",
+          "value": ".100"
+        },
+        {
+          "what": "choke vacuum break, 7028208 and 7028216 (Auto.)",
+          "value": ".160"
+        },
+        {
+          "what": "choke vacuum break, 7028207, 7028219, 7028209 (Syn.)",
+          "value": ".245"
+        },
+        {
+          "what": "choke unloader, 7028208",
+          "value": ".260\""
+        },
+        {
+          "what": "choke unloader, 7028207, 7028219, 7028216, 7028209",
+          "value": ".300\""
+        },
+        {
+          "what": "thermostat choke rod",
+          "value": "1 Rod Diameter Interference"
+        },
+        {
+          "what": "air valve spring, 7028208 and 7028207",
+          "value": "3/8"
+        },
+        {
+          "what": "air valve spring, 7028219, 7028216, 7028209",
+          "value": "7/8"
+        },
+        {
+          "what": "secondary closing",
+          "value": ".020\""
+        },
+        {
+          "what": "secondary opening",
+          "value": ".070\""
+        },
+        {
+          "what": "secondary lockout",
+          "value": ".010\""
+        },
+        {
+          "what": "main metering jet, primary",
+          "value": ".071\""
+        },
+        {
+          "what": "throttle bore, primary",
+          "value": "1-3/8\""
+        },
+        {
+          "what": "throttle bore, secondary",
+          "value": "2-1/4\""
+        },
+        {
+          "what": "air valve dashpot",
+          "value": ".015\""
+        },
+        {
+          "what": "secondary metering rod",
+          "value": "27/32\""
+        }
+      ],
+      "notes": [
+        "Section 6M. Only the 4MV columns for 327 (300), 327 (350) and 427 (390) are kept; other columns are for engines not used in the Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carburetor specifications: Holley 2300 and 4150",
+      "topic": "specifications",
+      "applies_to": "427 V8",
+      "parts": [
+        "Holley 2300 carburetor",
+        "Holley 4150 carburetor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "2300 primary, 427 (400) / 427 (435), Syn.: part number (Mfg. number)",
+          "value": "3925517 (R4055A)"
+        },
+        {
+          "what": "2300 secondary, 427 (400) / 427 (435), All: part number (Mfg. number)",
+          "value": "3925516 (R4056A)"
+        },
+        {
+          "what": "2300 primary, 427 (400), Auto.: part number (Mfg. number)",
+          "value": "3902353 (R3659A)"
+        },
+        {
+          "what": "4150, 427 (430), Syn.: part number (Mfg. number)",
+          "value": "3925519 (R4054A)"
+        },
+        {
+          "what": "2300: float level, mechanical, primary",
+          "value": ".350\""
+        },
+        {
+          "what": "2300 R4055A and R4056A: float level, mechanical, secondary",
+          "value": "—"
+        },
+        {
+          "what": "2300 R3659A: float level, mechanical, secondary",
+          "value": ".50"
+        },
+        {
+          "what": "4150 427 (430): float level, mechanical, primary",
+          "value": ".350"
+        },
+        {
+          "what": "4150 427 (430): float level, mechanical, secondary",
+          "value": ".50"
+        },
+        {
+          "what": "float level, final",
+          "value": "Use Sight Plug"
+        },
+        {
+          "what": "2300: accelerator pump",
+          "value": ".015\""
+        },
+        {
+          "what": "4150 427 (430): accelerator pump",
+          "value": ".015"
+        },
+        {
+          "what": "2300: idle vent",
+          "value": "—"
+        },
+        {
+          "what": "4150 427 (430): idle vent",
+          "value": ".065"
+        },
+        {
+          "what": "2300: fast idle, mechanical",
+          "value": ".025\""
+        },
+        {
+          "what": "2300: fast idle, final",
+          "value": "2200 rpm"
+        },
+        {
+          "what": "4150 427 (430): fast idle, mechanical",
+          "value": ".025"
+        },
+        {
+          "what": "4150 427 (430): fast idle, final",
+          "value": "2200 rpm"
+        },
+        {
+          "what": "2300 R4055A (primary, Syn.): choke vacuum break",
+          "value": ".250\""
+        },
+        {
+          "what": "2300 R4056A (secondary): choke vacuum break",
+          "value": "—"
+        },
+        {
+          "what": "2300 R3659A (primary, Auto.): choke vacuum break",
+          "value": ".250\""
+        },
+        {
+          "what": "4150 427 (430): choke vacuum break",
+          "value": ".300"
+        },
+        {
+          "what": "2300 R4055A (primary, Syn.): choke unloader",
+          "value": ".275\""
+        },
+        {
+          "what": "2300 R4056A (secondary): choke unloader",
+          "value": "—"
+        },
+        {
+          "what": "2300 R3659A (primary, Auto.): choke unloader",
+          "value": ".275\""
+        },
+        {
+          "what": "4150 427 (430): choke unloader",
+          "value": ".350"
+        },
+        {
+          "what": "thermostat choke rod",
+          "value": "1/2 to 1 Rod Dia. Interference"
+        },
+        {
+          "what": "2300: secondary stop",
+          "value": "Closed"
+        },
+        {
+          "what": "4150 427 (430): secondary stop",
+          "value": "1/2 Turn Open"
+        },
+        {
+          "what": "2300 R4055A: main metering jet, primary",
+          "value": "#64"
+        },
+        {
+          "what": "2300 R4056A: main metering jet",
+          "value": "#62"
+        },
+        {
+          "what": "2300 R3659A: main metering jet, primary",
+          "value": "#76"
+        },
+        {
+          "what": "4150 427 (430): main metering jet, primary",
+          "value": "# 69"
+        },
+        {
+          "what": "4150 427 (430): main metering jet, secondary",
+          "value": "# 76"
+        },
+        {
+          "what": "2300 R4055A: throttle bore",
+          "value": "1-1/2"
+        },
+        {
+          "what": "2300 R4056A: throttle bore",
+          "value": "1-3/4"
+        },
+        {
+          "what": "2300 R3659A: throttle bore",
+          "value": "1-1/2"
+        },
+        {
+          "what": "4150 427 (430): throttle bore, primary",
+          "value": "1-11/16"
+        },
+        {
+          "what": "4150 427 (430): throttle bore, secondary",
+          "value": "1-11/16"
+        }
+      ],
+      "notes": [
+        "The 4150 column for 302 / 396 (375) / 427 (425) (3923289, R4053A) is omitted; those engines were not used in the Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

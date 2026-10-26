@@ -1,0 +1,79 @@
+{
+  "page": 26,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-7",
+  "procedures": [
+    {
+      "title": "Defroster duct: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "defroster duct"
+      ],
+      "steps": [
+        "Remove the screws holding the defroster duct to the firewall and carefully lower the duct out of the car.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Bowden cables: adjust",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "bowden cables",
+        "distributor duct doors",
+        "cable attaching bracket"
+      ],
+      "steps": [
+        "With the cables connected to the control levers, move the levers fully left (closed).",
+        "Move the matching distributor duct door to its fully off position.",
+        "Attach the cable wire to the duct door lever and tighten the cable bracket screws.",
+        "Check that the cable works properly."
+      ],
+      "specs": [],
+      "notes": [
+        "1968 Corvette uses a new plastic bowden cable."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Blower switch: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "blower switch",
+        "heater control head"
+      ],
+      "steps": [
+        "Do steps 1-3 of the Corvette control head removal.",
+        "Remove the screws holding the blower switch to the control assembly and take out the switch.",
+        "Unplug the switch's electrical connector.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Blower resistor: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "blower resistor",
+        "air distributor duct"
+      ],
+      "steps": [
+        "Disconnect the wire at the resistor.",
+        "Remove the two screws holding the resistor to the distributor duct and remove it.",
+        "Install the new resistor in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "The glove box removal step applies to all models except Corvette."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page": 411,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-24",
+  "procedures": [
+    {
+      "title": "Standard Corvette steering column: disassemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper end assembly",
+        "turn signal switch",
+        "upper bearing housing",
+        "steering shaft",
+        "lower bearing assembly",
+        "flange",
+        "lower bearing spring",
+        "plunger",
+        "sleeve assembly",
+        "jacket seals",
+        "mesh cover"
+      ],
+      "steps": [
+        "Slide the upper end assembly and covers off the column end.",
+        "If the upper end parts need service, remove the turn signal switch mounting screws and lift the switch and upper bearing housing out of the cover.",
+        "Ease the steering shaft assembly out of the lower end of the mast jacket.",
+        "If needed, remove the lower bearing assembly from the jacket's lower end and throw it away.",
+        "Remove the flange bolt and flange from the shaft.",
+        "Slide the lower bearing spring, plunger and sleeve assembly, and thrust washer off the shaft.",
+        "If needed, remove the 2 seals from the inside of the jacket's lower end.",
+        "If needed, unwrap the mesh cover from the jacket."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Standard Corvette steering column: assemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "standard Corvette steering column",
+        "jacket seals",
+        "lower bearing",
+        "thrust washer",
+        "wave washer",
+        "packing seal",
+        "spacer",
+        "clamp bolt and nut",
+        "plunger",
+        "spring",
+        "flange",
+        "upper bearing housing",
+        "turn signal switch",
+        "upper flange",
+        "C retaining ring",
+        "wiring protector",
+        "mesh cover",
+        "cancelling cam"
+      ],
+      "steps": [
+        "Lightly coat all friction surfaces with lithium soap grease.",
+        "If the lower-end seals were removed, cement 2 new ones in place inside the jacket.",
+        "If the lower bearing was removed, press a new one into the lower end of the jacket.",
+        "From the top of the shaft, slide on the thrust washer, wave washer, packing seal, spacer, clamp bolt and nut, plunger and spring.",
+        "Fit the flange and flange bolt to the shaft's lower end.",
+        "Carefully slide the shaft into the lower end of the jacket.",
+        "Assemble the upper bearing housing and turn signal switch into the cover, and fasten the whole unit to the jacket upper flange with the 3 signal switch screws (see figure 48 in the manual).",
+        "Route the turn signal switch wires through the upper assembly.",
+        "Bolt the upper flange to the column with its 3 mounting bolts.",
+        "Place the wave washer, thrust washer and C ring loosely at the top of the shaft.",
+        "Seat the C ring with snap ring installer J-22659, making sure it is fully in the shaft groove.",
+        "Fit the turn signal lever with its screw and screw in the hazard warning knob.",
+        "Lay the switch wires flat along the column, fit the wiring protector, and slide the covers into place.",
+        "If removed, wrap the mesh cover around the jacket's mesh section and secure it with electrical or friction tape.",
+        "Fit the spring and cancelling cam on the shaft end."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Corvette telescoping steering column: disassemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "telescoping steering column",
+        "upper bearing preload spring",
+        "cancelling cam",
+        "spiral retaining ring",
+        "thrust washer",
+        "wave washer",
+        "lower bearing retainer",
+        "flange",
+        "clamp",
+        "spacer",
+        "spring",
+        "packing washer",
+        "bearing"
+      ],
+      "steps": [
+        "Lay the column on a suitable bench (see figure 49 in the manual for the exploded view).",
+        "Take the upper bearing preload spring and cancelling cam off the shaft end.",
+        "Remove the turn signal lever screw and lever; push in, unscrew and remove the hazard warning knob.",
+        "Pry the upper spiral retaining ring off the upper shaft with a screwdriver (see figure 50 in the manual); remove the thrust and wave washers.",
+        "Remove the 3 lower bearing retainer screws.",
+        "Ease the shaft assembly out of the jacket's lower end.",
+        "Remove the flange bolt and flange from the shaft's lower end.",
+        "Scribe the clamp so it can go back in the same radial and axial position; unwrap the mesh cover if needed.",
+        "Remove the clamp, bolt, nut, spacer, spring, washer, packing washer and bearing; use the notched groove on the shaft to lever the bearing off with a screwdriver."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

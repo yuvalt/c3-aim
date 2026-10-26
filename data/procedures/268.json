@@ -1,0 +1,62 @@
+{
+  "page": 268,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-36",
+  "procedures": [
+    {
+      "title": "Camshaft (V8): measure lobe lift",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "valve mechanism"
+      ],
+      "steps": [
+        "Install and adjust the valve mechanism."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Camshaft (V8): remove",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "camshaft",
+        "valve lifters",
+        "crankshaft front cover",
+        "grille",
+        "fuel pump push rod",
+        "camshaft sprocket",
+        "timing chain"
+      ],
+      "steps": [
+        "Remove the valve lifters.",
+        "Remove the front cover.",
+        "Remove the grille (Section 13).",
+        "Remove the fuel pump push rod (Section 6M).",
+        "Remove the cam sprocket bolts and take off sprocket and chain together; if the sprocket (a light fit) sticks, tap its lower edge lightly with a plastic mallet.",
+        "Thread two 5/16\"-18 x 4\" bolts into the cam sprocket bolt holes as a handle and draw the camshaft out (see figure 26V in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "CAUTION: all cam journals are the same diameter, so ease the camshaft out carefully to avoid damaging the bearings."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Camshaft (V8): install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "camshaft"
+      ],
+      "steps": [
+        "Coat the lobes of any new camshaft with Molykote or equivalent.",
+        "Oil the cam journals with engine oil and slide the camshaft in."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

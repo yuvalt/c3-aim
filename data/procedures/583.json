@@ -1,0 +1,157 @@
+{
+  "page": 583,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine electrical specifications: regulator",
+      "topic": "specifications",
+      "applies_to": "all models",
+      "parts": [
+        "voltage regulator"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "1119515 (Base) / 1119519 (Service Only): field relay air gap",
+          "value": ".015"
+        },
+        {
+          "what": "field relay point opening",
+          "value": ".030"
+        },
+        {
+          "what": "field relay closing voltage",
+          "value": "1.5-3.2"
+        },
+        {
+          "what": "voltage regulator air gap",
+          "value": ".067"
+        },
+        {
+          "what": "voltage regulator point opening",
+          "value": ".014"
+        },
+        {
+          "what": "voltage setting",
+          "value": "13.8-14.8 @ 85°F."
+        }
+      ],
+      "notes": [
+        "Both regulator models (1119515 base, 1119519 service only) share these values."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine electrical specifications: starting motor",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "starting motor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "1108361 (327 Cu. In. V-8 Auto. Trans.): brush spring tension, oz.",
+          "value": "35"
+        },
+        {
+          "what": "1108361: free speed volts",
+          "value": "10.6"
+        },
+        {
+          "what": "1108361: free speed amperes",
+          "value": "65-100*"
+        },
+        {
+          "what": "1108361: free speed rpm",
+          "value": "3600-5100"
+        },
+        {
+          "what": "1108361: resistance test (armature locked) volts",
+          "value": "3.5"
+        },
+        {
+          "what": "1108361: resistance test (armature locked) amperes",
+          "value": "300-360*"
+        },
+        {
+          "what": "1107368 (307 & 327 V-8 w/H.D. Clutch, 350 Cu. In. V-8): brush spring tension, oz.",
+          "value": "35"
+        },
+        {
+          "what": "1107368: free speed volts",
+          "value": "10.6"
+        },
+        {
+          "what": "1107368: free speed amperes",
+          "value": "65-100*"
+        },
+        {
+          "what": "1107368: free speed rpm",
+          "value": "3600-5100"
+        },
+        {
+          "what": "1107368: resistance test (armature locked) volts",
+          "value": "3.5"
+        },
+        {
+          "what": "1107368: resistance test (armature locked) amperes",
+          "value": "300-360"
+        },
+        {
+          "what": "1107365 (396 & 427 V-8 All Trans., Corvette w/14\" Ring Gear): brush spring tension, oz.",
+          "value": "35"
+        },
+        {
+          "what": "1107365: free speed volts",
+          "value": "10.6"
+        },
+        {
+          "what": "1107365: free speed amperes",
+          "value": "70-99*"
+        },
+        {
+          "what": "1107365: free speed rpm",
+          "value": "7800-12000"
+        },
+        {
+          "what": "1107365: resistance test (armature locked) volts",
+          "value": "3.0"
+        },
+        {
+          "what": "1107365: resistance test (armature locked) amperes",
+          "value": "410-480*"
+        },
+        {
+          "what": "1108351 (Corvette w/RPO L-88): brush spring tension, oz.",
+          "value": "35"
+        },
+        {
+          "what": "1108351: free speed volts",
+          "value": "10.6"
+        },
+        {
+          "what": "1108351: free speed amperes",
+          "value": "70-99*"
+        },
+        {
+          "what": "1108351: free speed rpm",
+          "value": "7800-12000"
+        },
+        {
+          "what": "1108351: resistance test (armature locked) volts",
+          "value": "3.5"
+        },
+        {
+          "what": "1108351: resistance test (armature locked) amperes",
+          "value": "300-360"
+        }
+      ],
+      "notes": [
+        "* Includes solenoid.",
+        "Starter models for engines not used in the Corvette are omitted."
+      ],
+      "continues": false
+    }
+  ]
+}

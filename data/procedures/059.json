@@ -1,0 +1,71 @@
+{
+  "page": 59,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-40",
+  "procedures": [
+    {
+      "title": "Sight glass: replace",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "sight glass",
+        "sight glass seal",
+        "retainer nut"
+      ],
+      "steps": [
+        "Unscrew the sight glass retainer nut with a screwdriver and take out the old glass and seal.",
+        "Fit the new glass, seal and retainer nut; do not turn the nut beyond the face of the housing or the O-ring seal may be damaged.",
+        "Evacuate and recharge the system."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 46 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Compressor: description",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "A/C compressor"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "Corvette Four-Season compressor displacement",
+          "value": "10.8 cu. in."
+        }
+      ],
+      "notes": [
+        "All systems use the same basic six-cylinder reciprocating compressor in two sizes: 12.6 cu. in. for Four-Season (except Corvette) and Comfortron, and 10.8 cu. in. for the Corvette Four-Season system and GM Chevrolet Air Conditioning."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Compressor: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C compressor",
+        "compressor connector",
+        "clutch coil lead",
+        "compressor belt",
+        "compressor mounting brackets"
+      ],
+      "steps": [
+        "Remove: purge the refrigerant from the system.",
+        "Take out the connector attaching bolt and the connector, and seal the connector outlets.",
+        "Unplug the lead to the clutch coil.",
+        "Loosen the brace and pivot bolts and take the belt off.",
+        "Remove the nuts and bolts holding the compressor brackets to the mounting bracket (see figures 47 and 48 in the manual; figure 48 has a Corvette view).",
+        "Before any compressor teardown, drain and measure its oil and check it for contamination to judge whether the rest of the system needs service.",
+        "Install: if the drained oil was clean, put the same amount of fresh refrigeration oil into the compressor; if the whole system had to be serviced for heavy contamination, put in a full fresh oil charge (see Checking Compressor Oil Charge)."
+      ],
+      "specs": [],
+      "notes": [
+        "Compressor overhaul is covered in the Chassis Overhaul Manual."
+      ],
+      "continues": true
+    }
+  ]
+}

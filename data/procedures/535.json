@@ -1,0 +1,69 @@
+{
+  "page": 535,
+  "source": "1968 Chevrolet Chassis Service Manual, Radiator and Grille, p.13-2",
+  "procedures": [
+    {
+      "title": "Aluminum radiator (Corvette): remove and install",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "aluminum radiator",
+        "radiator hoses",
+        "supply tank hose",
+        "fan shroud",
+        "radiator upper support brackets",
+        "hood support bracket"
+      ],
+      "steps": [
+        "Raise the hood and drain the radiator; for safety, put a bolt in the hole of the hood support bracket.",
+        "Disconnect the radiator inlet and outlet hoses and the supply tank hose at the radiator.",
+        "Remove the shroud-to-radiator support bracket screws (the L88 427 has no fan shroud).",
+        "Remove the shroud-to-radiator baffle bracket screws and let the shroud rest on the fan.",
+        "Remove the radiator upper support bracket screws and lift the radiator out carefully.",
+        "Installation: install in reverse order (see figure 5 in the manual for the assembled position), refill the cooling system and check for leaks."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Copper radiator (Corvette): remove and install",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "copper radiator",
+        "radiator hoses",
+        "transmission coolant lines",
+        "fan shroud",
+        "radiator upper support brackets",
+        "insulators",
+        "hood support bracket"
+      ],
+      "steps": [
+        "Raise the hood and drain the radiator; for safety, put a bolt in the hole of the hood support bracket.",
+        "Disconnect the radiator inlet and outlet hoses, and the transmission cooler lines if fitted.",
+        "Remove the shroud-to-radiator support bracket screws, then the shroud-to-baffle bracket (or radiator support) screws, and let the shroud rest on the fan.",
+        "Remove the upper support bracket screws, take off the brackets and insulators, and lift the radiator out carefully.",
+        "Installation: install in reverse order (see figure 5 in the manual), refill the cooling system and check for leaks."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine fan shroud: replace",
+      "topic": "radiator-grille",
+      "applies_to": "Corvette",
+      "parts": [
+        "fan shroud",
+        "engine fan"
+      ],
+      "steps": [
+        "Usually the engine fan must come off first to get clearance to remove the shroud."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

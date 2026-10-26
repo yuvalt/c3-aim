@@ -1,0 +1,113 @@
+{
+  "page": 588,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Transmission specifications: Turbo Hydra-Matic torques",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "Turbo Hydra-Matic transmission"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "pump cover bolts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "parking pawl bracket bolts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "case center support bolt",
+          "value": "23 lb. ft."
+        },
+        {
+          "what": "pump to case attaching bolts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "extension housing to case attaching bolts",
+          "value": "23 lb. ft."
+        },
+        {
+          "what": "rear servo cover bolts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "detent solenoid bolts",
+          "value": "7 lb. ft."
+        },
+        {
+          "what": "control valve body bolts",
+          "value": "8 lb. ft."
+        },
+        {
+          "what": "bottom pan attaching screws",
+          "value": "12 lb. ft."
+        },
+        {
+          "what": "modulator retainer bolt",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "governor cover bolts",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "manual lever to manual shaft nut",
+          "value": "8 lb. ft."
+        },
+        {
+          "what": "manual shaft to inside detent lever",
+          "value": "18 lb. ft."
+        },
+        {
+          "what": "linkage swivel clamp nut",
+          "value": "43 lb. ft."
+        },
+        {
+          "what": "converter dust shield screws",
+          "value": "93 lb. ft."
+        },
+        {
+          "what": "transmission to engine mounting bolts",
+          "value": "28 lb. ft."
+        },
+        {
+          "what": "converter to flywheel bolts",
+          "value": "33 lb. ft."
+        },
+        {
+          "what": "rear mount to transmission bolts",
+          "value": "40 lb. ft."
+        },
+        {
+          "what": "rear mount to crossmember bolt",
+          "value": "40 lb. ft."
+        },
+        {
+          "what": "crossmember mounting bolts",
+          "value": "25 lb. ft."
+        },
+        {
+          "what": "oil cooler line",
+          "value": "113 lb. In."
+        },
+        {
+          "what": "line pressure take-off plug",
+          "value": "13 lb. ft."
+        },
+        {
+          "what": "strainer retainer bolt",
+          "value": "10 lb. ft."
+        }
+      ],
+      "notes": [
+        "Section 7. The Powerglide torque table on this page is omitted (the 1968 Corvette automatic is the Turbo Hydra-Matic). Values as printed, including converter dust shield screws 93 lb. ft."
+      ],
+      "continues": false
+    }
+  ]
+}

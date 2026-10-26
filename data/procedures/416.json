@@ -1,0 +1,97 @@
+{
+  "page": 416,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-29",
+  "procedures": [
+    {
+      "title": "Steering column: realign (Corvette)",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering column",
+        "upper and lower outer covers",
+        "upper and lower extension covers",
+        "support",
+        "bracket",
+        "column lower plate",
+        "rag joint",
+        "upper flange pinch bolt"
+      ],
+      "steps": [
+        "Take off the upper and lower outer covers.",
+        "Take off the upper and lower extension covers.",
+        "Loosen, without removing, attaching screws F, H and J.",
+        "Loosen the 4 nuts F, 3 screws H, 2 screws K and the rag joint flange bolt J.",
+        "Keeping a gap of .30 ± .05 between the mast jacket and the inner half-round surface of the instrument panel, hold the column lower plate firmly against the front of the dash and pull support D rearward to take up the height difference between the panel and bracket B.",
+        "With the column located, torque screw assemblies H to 20 ft. lbs., then nuts F to 20 ft. lbs.",
+        "Holding the rag joint spacing at 1/4\" to 3/8\" (see figure 16 in the manual), torque the upper flange pinch bolt to 30 ft. lbs.",
+        "Fasten the column lower plate to the front of the dash with screws K torqued to 150 in. lbs.",
+        "Refit the upper and lower extension covers.",
+        "Refit the upper and lower outer covers."
+      ],
+      "specs": [
+        {
+          "what": "mast jacket to instrument panel gap",
+          "value": ".30 ± .05"
+        },
+        {
+          "what": "screw assemblies H",
+          "value": "20 ft. lbs."
+        },
+        {
+          "what": "nuts F",
+          "value": "20 ft. lbs."
+        },
+        {
+          "what": "rag joint spacing",
+          "value": "1/4\" to 3/8\""
+        },
+        {
+          "what": "upper flange pinch bolt",
+          "value": "30 ft. lbs."
+        },
+        {
+          "what": "column lower plate screws K",
+          "value": "150 in. lbs."
+        }
+      ],
+      "notes": [
+        "The manual's text cites figure 58 for this procedure; letter callouts refer to the manual's figure."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Tie rods: remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "tie rod",
+        "tie rod ends",
+        "tie rod sleeve",
+        "clamps",
+        "ball studs",
+        "castellated nuts",
+        "neoprene seals",
+        "cotter pins"
+      ],
+      "steps": [
+        "Replace tie rod ends when they show excessive up-and-down movement or any lost motion or end play at the ball stud.",
+        "Removal: pull the cotter pins from the ball studs and remove the castellated nuts.",
+        "Free the outer ball stud by striking the steering arm at the tie rod end with a hammer while backing it with a heavy hammer or similar; pull the tie rod down out of the arm if needed.",
+        "Free the inner ball stud from the relay rod the same way.",
+        "To separate the ends from the sleeve, loosen the clamp bolts and unscrew the ends.",
+        "Installation: if the ends were removed, coat the threads with EP chassis lube and screw the ends in, each the same distance into the sleeve.",
+        "Make sure the ball stud and nut threads are completely clean and smooth, and fit neoprene seals on the ball studs.",
+        "Fit the ball studs into the steering arms and relay rod.",
+        "Fit the ball stud nuts and cotter pins, then lubricate the tie rod ends.",
+        "Set toe-in per Section 3."
+      ],
+      "specs": [],
+      "notes": [
+        "Each tie rod is a sleeve with two threaded ends (right- and left-hand threads) locked by clamps; the ends self-adjust for wear and need only periodic lubrication and checks that the ball studs are tight.",
+        "Dirty or rough threads can let the ball stud spin in the end while tightening the nut.",
+        "Before locking the clamp bolts, align the tie rod ends with their ball studs with each ball joint centered in its travel, or the linkage will bind."
+      ],
+      "continues": false
+    }
+  ]
+}

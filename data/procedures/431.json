@@ -1,0 +1,89 @@
+{
+  "page": 431,
+  "source": "1968 Chevrolet Chassis Service Manual, Wheels and Tires, p.10-5",
+  "procedures": [
+    {
+      "title": "Tires: repair punctures",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires",
+        "repair plugs",
+        "patches"
+      ],
+      "steps": [
+        "Repair punctures permanently from inside the tire with it off the wheel; treat outside plug repairs as temporary and fix permanently soon.",
+        "Hot patch: clean all debris out of the hole without making it bigger, then vulcanize the patch per its maker's instructions.",
+        "Rubber plug: plugs go in from inside, or from outside without dismounting; coat the hole with repair cement first and follow the kit instructions.",
+        "Cold (self-vulcanizing) patch: clean the hole without enlarging it, buff an area inside big enough for the patch, then apply the special cement and patch per instructions.",
+        "Pressure gun: get materials and instructions from the tire supplier."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Tire installation safety precautions",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "tires",
+        "rims",
+        "valve core"
+      ],
+      "steps": [
+        "Make sure the rim flanges and bead ledges, especially hump and radius areas, are clean and smooth; wire-brush (or file, if severe) off old rubber, dried soap, rust and heavy paint.",
+        "Coat the beads, flanges and bead ledges generously with thin vegetable oil soap solution or approved rubber lubricant.",
+        "Never let pressure exceed 40 pounds while seating beads; if not seated by 40 pounds, deflate, re-center on the rim, re-lubricate and inflate again.",
+        "Make sure the valve core is in before inflating.",
+        "Use an extension gauge with a clip-on chuck so you can watch pressure while standing well clear."
+      ],
+      "specs": [
+        {
+          "what": "max pressure while seating beads",
+          "value": "40 pounds"
+        }
+      ],
+      "notes": [
+        "Building pressure to force a binding bead to seat (dirty, corroded or off-center rim) is DANGEROUS and can burst the bead and injure the mechanic."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Valve assembly: replace",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "valve assembly",
+        "rim"
+      ],
+      "steps": [
+        "Cut or knock the old valve out of the rim.",
+        "Clean the valve hole and the area around it inside the flange with steel wool."
+      ],
+      "specs": [],
+      "notes": [
+        "Always fit a new valve assembly.",
+        "See figure 6 in the manual for installing the valve."
+      ],
+      "continues": true
+    },
+    {
+      "title": "Wheels: balance",
+      "topic": "wheels-tires",
+      "applies_to": "all models",
+      "parts": [
+        "wheel and tire assembly",
+        "balance weights"
+      ],
+      "steps": [
+        "On disc brake cars (Corvette included), take the wheel and tire off the car to balance it, because the spring-loaded pads drag on the disc."
+      ],
+      "specs": [],
+      "notes": [
+        "Static (still) balance means weight is evenly spread around the axis of rotation so the wheel has no tendency to turn by itself."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "page": 420,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-33",
+  "procedures": [
+    {
+      "title": "Power steering hydraulic system: bleed",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "pump belt",
+        "pump pulley",
+        "power steering hoses"
+      ],
+      "steps": [
+        "Check belt tension and look for a bent or loose pulley; it must not wobble with the engine running.",
+        "Make sure the hoses touch nothing else, especially sheet metal and the exhaust manifold.",
+        "Check the oil level and fill as needed following steps 1 through 10.",
+        "Check for air in the oil; if present, try bleeding with steps 1 through 10. If the pump clearly will not bleed after a few tries, go to Hydraulic System Checks."
+      ],
+      "specs": [],
+      "notes": [
+        "Low oil level and air in the oil are the most common causes of objectionable pump noise."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power steering fluid level: check",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering reservoir",
+        "dipstick"
+      ],
+      "steps": [
+        "Read the reservoir dipstick with the oil at operating temperature.",
+        "Fill if needed to the correct level with GM Power Steering Fluid, or if unavailable, Type A automatic transmission fluid marked AQ-ATF followed by a number and the suffix A."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering gear (Corvette): adjust",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "steering gear"
+      ],
+      "steps": [
+        "Adjust the gear used with Corvette power steering exactly as the manual steering gear."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Power steering pump belt: adjust tension",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump",
+        "pump belt",
+        "pivot bolt",
+        "pump brace"
+      ],
+      "steps": [
+        "Loosen the pivot bolt nut and the pump brace adjusting nut.",
+        "With the belt on, move the pump until gauge J-7316 shows the specified tension (see figure 60 in the manual).",
+        "Tighten the pump brace adjusting nut, then the pivot bolt nut."
+      ],
+      "specs": [
+        {
+          "what": "pump belt strand tension, new belt",
+          "value": "125 lbs."
+        },
+        {
+          "what": "pump belt strand tension, used belt",
+          "value": "75 lbs."
+        }
+      ],
+      "notes": [
+        "Caution: never pry against the reservoir or pull on the filler neck to move the pump."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Power steering hydraulic system: test",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "power steering pump",
+        "pump belt",
+        "drive pulley"
+      ],
+      "steps": [
+        "Before testing, check belt tension (125 lbs. new, 75 lbs. used, with gauge J-7316) and the drive pulley condition.",
+        "Test one shows whether the hydraulic parts are faulty; if it does, test two identifies which part.",
+        "Test one (circuit open): have the engine at normal operating temperature, the front tires at correct pressure, and the idle set to the Section 6 spec; all tests are run at idle."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

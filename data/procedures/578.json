@@ -1,0 +1,274 @@
+{
+  "page": 578,
+  "source": "1968 Chevrolet Chassis Service Manual, Specifications",
+  "procedures": [
+    {
+      "title": "Engine specifications: camshaft",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "camshaft"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 hp: lobe lift ± .002\", intake",
+          "value": ".260\""
+        },
+        {
+          "what": "327 300 hp: lobe lift ± .002\", exhaust",
+          "value": ".2733\""
+        },
+        {
+          "what": "327 350 hp: lobe lift ± .002\", intake",
+          "value": ".2981\""
+        },
+        {
+          "what": "327 350 hp: lobe lift ± .002\", exhaust",
+          "value": ".2981\""
+        },
+        {
+          "what": "427 390 and 400 hp: lobe lift ± .002\", intake",
+          "value": ".2714\""
+        },
+        {
+          "what": "427 390 and 400 hp: lobe lift ± .002\", exhaust",
+          "value": ".2714\""
+        },
+        {
+          "what": "427 430 hp: lobe lift ± .002\", intake",
+          "value": ".3286\""
+        },
+        {
+          "what": "427 430 hp: lobe lift ± .002\", exhaust",
+          "value": ".3412\""
+        },
+        {
+          "what": "427 435 hp: lobe lift ± .002\", intake",
+          "value": ".3057\""
+        },
+        {
+          "what": "427 435 hp: lobe lift ± .002\", exhaust",
+          "value": ".3057\""
+        },
+        {
+          "what": "327: journal diameter",
+          "value": "1.8682\"-1.8692\""
+        },
+        {
+          "what": "427: journal diameter",
+          "value": "1.9482\"-1.9492\""
+        },
+        {
+          "what": "camshaft runout",
+          "value": ".0015\" (Max.)"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: valve system",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "valve lifters",
+        "rocker arms",
+        "valves",
+        "valve seats"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327 300 and 350 hp: lifter",
+          "value": "Hydraulic"
+        },
+        {
+          "what": "427 390 and 400 hp: lifter",
+          "value": "Hydraulic"
+        },
+        {
+          "what": "427 430 and 435 hp: lifter",
+          "value": "Mechanical"
+        },
+        {
+          "what": "327: rocker arm ratio",
+          "value": "1.50:1"
+        },
+        {
+          "what": "427: rocker arm ratio",
+          "value": "1.70:1"
+        },
+        {
+          "what": "hydraulic lifter engines: valve lash, intake and exhaust",
+          "value": "One Turn Down From Zero Lash"
+        },
+        {
+          "what": "427 430 hp: valve lash, intake",
+          "value": ".022\"*"
+        },
+        {
+          "what": "427 430 hp: valve lash, exhaust",
+          "value": ".024\"*"
+        },
+        {
+          "what": "427 435 hp: valve lash, intake",
+          "value": ".024\"*"
+        },
+        {
+          "what": "427 435 hp: valve lash, exhaust",
+          "value": ".028\"*"
+        },
+        {
+          "what": "face angle (int. & exh.)",
+          "value": "45°"
+        },
+        {
+          "what": "seat angle (int. & exh.)",
+          "value": "46°**"
+        },
+        {
+          "what": "seat runout (int. & exh.)",
+          "value": ".002\" (Max.)"
+        },
+        {
+          "what": "seat width, intake",
+          "value": "1/32\" - 1/16\""
+        },
+        {
+          "what": "seat width, exhaust",
+          "value": "1/16\" - 3/32\""
+        },
+        {
+          "what": "327: stem clearance, production, intake",
+          "value": ".0010\"-.0027\""
+        },
+        {
+          "what": "327: stem clearance, production, exhaust",
+          "value": ".0010\"-.0027\""
+        },
+        {
+          "what": "427: stem clearance, production, intake",
+          "value": ".0010\"-.0025\""
+        },
+        {
+          "what": "427: stem clearance, production, exhaust",
+          "value": ".0012\"-.0027\""
+        },
+        {
+          "what": "stem clearance, service",
+          "value": "Hi Limit Production + .001\" Intake - .002\" Exhaust"
+        }
+      ],
+      "notes": [
+        "* Engine at operating temperature and running.",
+        "** Aluminum heads: 45°."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Engine specifications: valve springs and dampers",
+      "topic": "specifications",
+      "applies_to": "327 V8, 427 V8",
+      "parts": [
+        "valve springs",
+        "valve spring dampers"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "327: outer spring free length",
+          "value": "2.03\""
+        },
+        {
+          "what": "327: outer spring pressure, closed (lbs. @ in.)",
+          "value": "76-84 @ 1.70\""
+        },
+        {
+          "what": "327: outer spring pressure, open (lbs. @ in.)",
+          "value": "194-206 @ 1.25\""
+        },
+        {
+          "what": "327: outer spring installed height ± 1/32\"",
+          "value": "1 5/32"
+        },
+        {
+          "what": "427 390, 400 and 435 hp: outer spring free length",
+          "value": "2.09\""
+        },
+        {
+          "what": "427 390, 400 and 435 hp: outer spring pressure, closed (lbs. @ in.)",
+          "value": "94-106 @ 1.88\""
+        },
+        {
+          "what": "427 390, 400 and 435 hp: outer spring pressure, open (lbs. @ in.)",
+          "value": "303-327 @ 1.38\""
+        },
+        {
+          "what": "427 430 hp: outer spring free length",
+          "value": "2.21\""
+        },
+        {
+          "what": "427 430 hp: outer spring pressure, closed (lbs. @ in.)",
+          "value": "69-81 @ 1.88\""
+        },
+        {
+          "what": "427 430 hp: outer spring pressure, open (lbs. @ in.)",
+          "value": "181-205 @ 1.32\""
+        },
+        {
+          "what": "427: outer spring installed height ± 1/32\"",
+          "value": "1 7/8"
+        },
+        {
+          "what": "427 430 hp: inner spring free length",
+          "value": "2.12\""
+        },
+        {
+          "what": "427 430 hp: inner spring pressure, closed (lbs. @ in.)",
+          "value": "37-45 @ 1.78\""
+        },
+        {
+          "what": "427 430 hp: inner spring pressure, open (lbs. @ in.)",
+          "value": "92-110 @ 1.22\""
+        },
+        {
+          "what": "427 430 hp: inner spring installed height ± 1/32\"",
+          "value": "1 3/4"
+        },
+        {
+          "what": "inner spring (all other 327 and 427 ratings)",
+          "value": "N.A."
+        },
+        {
+          "what": "327: damper free length",
+          "value": "1.94\""
+        },
+        {
+          "what": "327: damper approx. # of coils",
+          "value": "4"
+        },
+        {
+          "what": "427 390, 400 and 435 hp: damper free length",
+          "value": "1.94\"-2.00\""
+        },
+        {
+          "what": "427 390, 400 and 435 hp: damper approx. # of coils",
+          "value": "3 3/4"
+        },
+        {
+          "what": "427 430 hp: damper free length",
+          "value": "2.07\"-1.95\""
+        },
+        {
+          "what": "427 430 hp: damper approx. # of coils",
+          "value": "4 1/3"
+        }
+      ],
+      "notes": [
+        "Values as printed, including the 327 installed height \"1 5/32\" and the 427 430 hp damper free length \"2.07\"-1.95\"\"."
+      ],
+      "continues": false
+    }
+  ]
+}

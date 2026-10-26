@@ -1,0 +1,38 @@
+{
+  "page": 318,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-21",
+  "procedures": [
+    {
+      "title": "Distributor contact points: opening specification",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor contact points"],
+      "steps": [
+        "Clean used points before adjusting.",
+        "Set new points to the larger gap, since the rubbing block wears in slightly against the cam.",
+        "Do not feeler-gauge rough or uncleaned used points; the reading is not accurate (see figure 8i in the manual).",
+        "Align points by bending the fixed contact support, never the breaker lever; replace used points that are badly misaligned."
+      ],
+      "specs": [
+        {"what": "point opening, new points (all models)", "value": ".019\""},
+        {"what": "point opening, used points (all models)", "value": ".016\""}
+      ],
+      "notes": ["Points set too close burn and pit quickly; too wide gives a weak spark at high speed."],
+      "continues": false
+    },
+    {
+      "title": "Dwell angle: set (V8 distributor)",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["distributor cap window", "dwell adjusting screw", "hex wrench", "dwell meter"],
+      "steps": [
+        "On the car, with the engine idling at normal operating temperature, lift the window in the cap and insert a hex-type wrench into the adjusting screw (see figure 11i in the manual).",
+        "Preferred: turn the screw until a dwell meter reads 28° to 32° (30° preferred).",
+        "Alternate (only without a meter): turn the screw clockwise until the engine starts to misfire, then back it 1/2 turn counterclockwise for an approximate setting."
+      ],
+      "specs": [{"what": "V8 dwell angle", "value": "28° to 32°, 30° preferred"}],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page": 320,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-23",
+  "procedures": [
+    {
+      "title": "Distributor (breaker point type): disassemble",
+      "topic": "electrical",
+      "applies_to": "327 V8, 427 V8",
+      "parts": ["distributor", "rotor", "advance weights", "weight springs", "driven gear", "roll pin", "tachometer drive gear", "mainshaft", "cam-weight base", "vacuum advance unit", "breaker plate", "felt washer", "plastic seal"],
+      "steps": [
+        "On the tester, check spark variation, centrifugal and vacuum advance, and point condition to see what needs replacing.",
+        "Look at the breaker plate under the points; a smudgy line means oil or crankcase vapor has been getting between the points.",
+        "V8 (see figure 13i in the manual): remove the rotor.",
+        "Remove both weight springs and advance weights.",
+        "Drive out the roll pin holding the driven gear and slide the gear and spacers off the shaft; on Corvette, also remove the tachometer drive gear.",
+        "Remove any burrs from the shaft before pulling it, so the seals and bushing in the housing are not damaged.",
+        "Slide the mainshaft and cam-weight base assembly out of the housing.",
+        "Remove the vacuum advance unit screws and the unit.",
+        "Remove the spring retainer and lift out the breaker plate assembly; take the points and condenser off the plate.",
+        "Remove the felt washer and plastic seal under the breaker plate."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Distributor (breaker point type): clean and inspect",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["distributor shaft", "bushings", "breaker plate", "advance weights", "cap", "rotor", "condenser", "vacuum control unit"],
+      "steps": [
+        "Wash everything in solvent except the cap, rotor, condenser, breaker plate assembly and vacuum unit (solvent harms insulation and soaks the breaker plate lube felt).",
+        "Check the breaker plate assembly for damage or wear; replace as needed.",
+        "Check the shaft for wear and its fit in the body bushings; replace worn shaft or bushings.",
+        "Support the shaft in V-blocks and measure runout with a dial gauge; it must not exceed .002\".",
+        "Check the advance weights for wear or burrs and"
+      ],
+      "specs": [{"what": "distributor shaft runout", "value": ".002\" max."}],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

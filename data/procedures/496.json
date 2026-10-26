@@ -1,0 +1,37 @@
+{
+  "page": 496,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-42",
+  "procedures": [
+    {
+      "title": "Directional signal switch: replace (Corvette standard and telescoping column)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "directional signal switch",
+        "steering wheel",
+        "cancelling cam",
+        "preload spring",
+        "hazard warning knob",
+        "lower trim cover"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Under the instrument panel, separate the signal switch harness from the chassis harness at the multiple connector.",
+        "Remove the steering wheel (see Steering, Section 9).",
+        "Take off the preload spring and the cancelling cam.",
+        "Remove the screw holding the directional signal lever, then the lever.",
+        "Push the hazard warning knob in, unscrew it and remove it.",
+        "Remove the screws holding the lower trim cover, then the cover.",
+        "Take the retaining ring and the thrust and wave washers off the top end of the shaft."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 57 in the manual (telescoping column)."
+      ],
+      "continues": true
+    }
+  ],
+  "notes": [
+    "Tilt column steps 18-26 (Chevrolet, Chevelle, Camaro) at the top of the page are not Corvette."
+  ]
+}

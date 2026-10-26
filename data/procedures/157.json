@@ -1,0 +1,38 @@
+{
+  "page": 157,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-18",
+  "procedures": [
+    {
+      "title": "Upper control arm: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "upper control arm",
+        "upper control arm shaft",
+        "caster/camber shims",
+        "ball stud",
+        "bushing collar bolts"
+      ],
+      "steps": [
+        "Removal: support the car at the outer end of the lower control arm.",
+        "Remove the wheel and tire.",
+        "Remove the cotter pin and nut from the upper ball stud and free the stud from the knuckle.",
+        "Remove the two nuts holding the upper arm shaft to the front crossmember; Corvette: count the shims at each bolt.",
+        "If needed for clearance, remove the bolts attaching the arm to the frame.",
+        "Lift the arm out.",
+        "Installation: put the arm in place.",
+        "Fit the locknuts and bolts holding the arm shaft to the frame; Corvette: put back the same number of shims at each bolt as were removed.",
+        "Torque the nuts to the Specifications.",
+        "Pass the ball stud through the knuckle, fit and tighten the nut, and install the cotter pin.",
+        "Refit the wheel and tire and lower the car.",
+        "Bounce the front end to center the bushings, then torque the bushing collar bolts to the Specifications."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 30 in the manual for the upper control arm attachments.",
+        "Keeping the shim count preserves the caster and camber setting."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "page": 206,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-5",
+  "procedures": [
+    {
+      "title": "Brake bleeding: manual method",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "main cylinder cover and diaphragm"
+      ],
+      "steps": [
+        "Refit the main cylinder diaphragm and cover."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Brake pedal push rod to main cylinder clearance: adjust",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake pedal",
+        "push rod",
+        "push rod check nut",
+        "clevis"
+      ],
+      "steps": [
+        "Check that the pedal comes fully back on its own and that the pedal return spring still has its tension.",
+        "Loosen the push rod check nut.",
+        "Turn the push rod until the pedal pad moves 1/16 to 1/4 in. before the rod touches the main cylinder pistons (see figure 8 in the manual).",
+        "Tighten the check nut against the clevis and check the free movement again."
+      ],
+      "specs": [
+        {
+          "what": "brake pedal free movement before push rod contacts main cylinder pistons",
+          "value": "1/16\" to 1/4\""
+        }
+      ],
+      "notes": [
+        "The pedal stop is a fixed, non-adjustable rubber bumper at the released end of pedal travel.",
+        "The text cites fig. 9, but the 1/16-1/4 in. dimension appears in figure 8 (Brake Pedal Free Movement)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hydraulic brake hose: remove and install",
+      "topic": "brakes",
+      "applies_to": "all models",
+      "parts": [
+        "brake hose"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The flexible hoses carry pressure from the steel lines to the wheel brakes (description continues on the next page)."
+      ],
+      "continues": true
+    }
+  ]
+}

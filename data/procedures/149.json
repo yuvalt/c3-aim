@@ -1,0 +1,29 @@
+{
+  "page": 149,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-10",
+  "procedures": [
+    {
+      "title": "Stabilizer bar: remove and install",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "stabilizer bar",
+        "stabilizer bushings",
+        "stabilizer brackets",
+        "link bolts"
+      ],
+      "steps": [
+        "(Installation, continued) Slip the brackets over the bushings and bolt them to the frame, but leave them loose.",
+        "Attach the bar ends to the link bolts on the lower control arms.",
+        "Torque the bracket bolts and link nuts to the Specifications."
+      ],
+      "specs": [],
+      "notes": [
+        "Never let lubricant get on the outside of the frame bushings, or they can slip out of the brackets.",
+        "See figure 14 in the manual: the Corvette view shows the stabilizer, frame bracket, link bolt with retainers and bushings at the lower control arm.",
+        "The removal steps and installation step 1 are on manual page 3-9, which is missing from this PDF."
+      ],
+      "continues": false
+    }
+  ]
+}

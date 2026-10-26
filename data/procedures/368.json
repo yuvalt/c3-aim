@@ -1,0 +1,101 @@
+{
+  "page": 368,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-39",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic transmission: remove and install",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "flex plate",
+        "converter weld nuts",
+        "flex plate to converter bolts"
+      ],
+      "steps": [
+        "Install in reverse order, with one added step: before fitting the flex plate to converter bolts, check that the converter weld nuts sit flush with the flex plate and the converter turns freely by hand there.",
+        "Start all three bolts by hand and snug them finger tight before torquing to specification, to keep the converter aligned.",
+        "Take the car off the hoist and check the linkage adjustment."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic diagnosis: sequence and checks",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "transmission fluid",
+        "detent switch",
+        "vacuum line and fittings",
+        "manual linkage",
+        "neutral safety switch",
+        "parking pawl",
+        "indicator quadrant"
+      ],
+      "steps": [
+        "Know which units work in each gear and shift so the fault can be narrowed to a unit or circuit.",
+        "Find out exactly what the owner is complaining about; a short ride together often helps, and may show the condition is normal and should be left alone.",
+        "Check fluid level and condition.",
+        "Check and fix the detent switch.",
+        "Check and fix the vacuum line and fittings.",
+        "Check and fix the manual linkage.",
+        "Fluid: always check before a road test; fluid must show on the dipstick before driving. Check in Park, engine running, car level.",
+        "If the level was low, look for leaks.",
+        "Manual linkage: the engine must start only in Park and Neutral; in Park the pawl must engage freely and hold the car; the quadrant pointer must line up with each range."
+      ],
+      "specs": [
+        {
+          "what": "fluid level at normal operating temperature (170°-190°F)",
+          "value": "FULL mark"
+        },
+        {
+          "what": "fluid level at room temperature",
+          "value": "at or slightly below ADD mark"
+        }
+      ],
+      "notes": [
+        "Wrong fluid level can cause erratic shifts, pump noise and other faults.",
+        "A burnt smell and discolored fluid mean burnt clutches or bands; the transmission has to come out.",
+        "The manual's text reads \"warm fluid (room temperature)\" for the ADD-mark reading."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic oil leak diagnosis",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "oil pan",
+        "pan gasket",
+        "rear extension",
+        "rear seal",
+        "extension to case gasket",
+        "filler pipe O-ring",
+        "modulator O-ring",
+        "governor cover and gasket",
+        "speedometer gear O-ring",
+        "manual shaft seal",
+        "line pressure tap plug",
+        "parking pawl shaft cup plug",
+        "vent pipe",
+        "front seal",
+        "pump bolts and seals",
+        "converter"
+      ],
+      "steps": [
+        "Find the true source first; airflow around the engine and transmission can make a leak look like it comes from elsewhere, usually carrying oil rearward (a filler tube to case leak may show at the rear of the transmission).",
+        "Wipe the area clean before looking.",
+        "Use the red dye added at the factory to tell transmission fluid from other oils; a black light comparison with the engine and transmission dipstick oil also identifies the source.",
+        "Keep the engine running while looking for the leak.",
+        "Oil pan: check bolt torque, pan gasket fit or damage, and gasket face flatness.",
+        "Rear extension: check bolt torque, rear seal, extension to case gasket, and porous casting.",
+        "Case: check filler pipe O-ring (missing, damaged, or loaded on one side by a misplaced filler pipe bracket), modulator O-ring, governor cover/gasket/bolts, speedometer gear O-ring, manual shaft seal, line pressure tap plug (stripped or short of sealer), parking pawl shaft cup plug, vent pipe (see vent pipe causes), porous case.",
+        "Front end: check front seal (also look for nicks on the converter neck, a pump bushing moved forward, or a missing garter spring on the pump to converter seal), pump bolts and seals, converter weld leak."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

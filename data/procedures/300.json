@@ -1,0 +1,55 @@
+{
+  "page": 300,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-3",
+  "procedures": [
+    {
+      "title": "Dry charge battery: activate",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery"],
+      "steps": [
+        "After the first fill, recheck the level in every cell.",
+        "If a level has dropped below the split vent, top it up with more electrolyte.",
+        "Never use water when activating the battery."
+      ],
+      "specs": [],
+      "notes": [
+        "Poor activation leads to poor performance and short battery life.",
+        "Once filled, the battery is a wet charged battery and is maintained like any other wet battery."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Battery: diagnosing failure when it tests good",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "fan belt", "generator", "voltage regulator", "cable clamps"],
+      "steps": [
+        "Check whether accessories were left on overnight (discharged battery).",
+        "Consider short, slow-speed driving (undercharged battery).",
+        "Check whether electrical load exceeds generator capacity.",
+        "Check the charging system for high resistance, a slipping fan belt, or a faulty generator or regulator.",
+        "Look for abuse: dirty battery top, dirty or loose clamps and posts, wrong water additions."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Battery electrolyte level: check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["battery", "electrolyte level indicator vent plug"],
+      "steps": [
+        "Look at the level indicator in the second cell cap from the positive post: a dark rod top means the level is fine; a glowing top means water is needed (see figures 5b and 6b in the manual).",
+        "When the indicator shows low, check all six cells.",
+        "Alternatively, remove a vent plug and look into the vent well; the level is right when the surface first distorts at the bottom of the split vent.",
+        "Check regularly, and more often in hot weather and on long trips.",
+        "If low, add colorless, odorless drinking water to each cell up to the split vent."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

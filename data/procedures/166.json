@@ -1,0 +1,39 @@
+{
+  "page": 166,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-7",
+  "procedures": [
+    {
+      "title": "Rear wheel bearings: adjust",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "bearing spacer",
+        "bearing shim",
+        "spindle support",
+        "inner bearing",
+        "installer J-4731",
+        "spindle nut",
+        "washer",
+        "drive flange",
+        "cotter pin",
+        "outer seal",
+        "brake disc and caliper",
+        "axle drive shaft"
+      ],
+      "steps": [
+        "(continued) Put the bearing spacer and chosen shim on the spindle and set the spindle into the support.",
+        "Press the inner bearing race and rollers onto the spindle: place J-4731 over the spindle against the inner race, add a washer and the spindle nut, and tighten until the bearing is far enough on to fit the drive flange (see figure 12 in the manual).",
+        "Remove the nut, washer and J-4731; throw the nut away and use a new one for final assembly.",
+        "Slide the drive flange on, lined up with the spindle splines; fit washer and nut, torque to specification and fit the cotter pin. If the hole does not line up, tighten to the next flat.",
+        "Seat the outer seal of the spindle support in its bore by pressing on the metal part of the seal with a screwdriver or similar tool.",
+        "Refit the brake disc and caliper (see Section 5).",
+        "Refit the axle drive shaft and the wheel, return the camber cam to its marked position, and torque everything to specification."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the large end of the spacer faces the outer bearing, and the shim goes between the spacer and the inner bearing."
+      ],
+      "continues": false
+    }
+  ]
+}

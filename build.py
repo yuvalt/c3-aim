@@ -140,7 +140,9 @@ def procedures_md():
         out += [f"## {topic.replace('-', ' ').title()}", ""]
         for p, pr in items:
             pages = "-".join(str(n) for n in (p["pages"][0], p["pages"][-1])) if len(p["pages"]) > 1 else str(p["page"])
-            out += [f"### {pr['title']}", f"Source: 1968 Chevrolet Chassis Service Manual, Corvette Body (PDF page {pages})", ""]
+            src = p.get("source") or "1968 Chevrolet Chassis Service Manual"
+            applies = f" · applies to: {pr['applies_to']}" if pr.get("applies_to") else ""
+            out += [f"### {pr['title']}", f"Source: {src} (PDF page {pages}){applies}", ""]
             out += [f"{i}. {s}" for i, s in enumerate(pr.get("steps", []), 1)]
             out += [f"- Spec: {s['what']}: {s['value']}" for s in pr.get("specs", [])]
             out += [f"- Note: {n}" for n in pr.get("notes", [])]

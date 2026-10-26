@@ -1,0 +1,39 @@
+{
+  "page": 328,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-31",
+  "procedures": [
+    {
+      "title": "Starting motor and solenoid: check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["solenoid", "starting motor", "shift lever linkage", "pinion"],
+      "steps": [
+        "Over 7.7 volts: remove the starter and check solenoid current draw, pinion clearance and free movement of the shift lever linkage.",
+        "If the solenoid chatters but will not stay in, check for an open hold-in winding.",
+        "Always check pinion clearance after replacing a solenoid.",
+        "If the motor engages but does not crank or cranks slowly, look for excess resistance in the external circuit, a fault inside the motor, or high engine cranking resistance."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Starting motor: remove and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["starting motor", "solenoid", "battery ground cable", "starter front bracket", "starter mount bolts"],
+      "steps": [
+        "Disconnect the battery ground cable at the battery.",
+        "Raise the car to a good working height.",
+        "Disconnect all wires at the solenoid, putting each nut back on its stud as you go (thread sizes differ and can be mixed up and stripped).",
+        "Loosen the starter front bracket nut (V8), then remove the 2 mount bolts.",
+        "Remove the front bracket nut or bolt, swing the bracket out of the way, and lower the starter front end first, keeping it against the bell housing and rolling it end over end.",
+        "Install in reverse order: torque the mount bolts to 25-35 ft. lbs. first, then torque the brace bolt.",
+        "Check starter operation on the car."
+      ],
+      "specs": [{"what": "starter mount bolts", "value": "25-35 ft. lbs."}],
+      "notes": ["This is a general guide; details vary slightly by series and model (see figure 3s in the manual)."],
+      "continues": false
+    }
+  ]
+}

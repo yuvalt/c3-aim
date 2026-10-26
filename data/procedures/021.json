@@ -1,0 +1,28 @@
+{
+  "page": 21,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-2",
+  "procedures": [
+    {
+      "title": "Heater controls: Corvette description",
+      "topic": "heater-ac",
+      "applies_to": "Corvette",
+      "parts": [
+        "heater control panel",
+        "fan lever",
+        "temperature thumb-wheel",
+        "air/de-ice thumb-wheel",
+        "bowden cables"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "1968 Corvette controls are a new thumb-wheel type mounted in the floor console (see figure 3 in the manual); duct door layout and airflow match the other car lines (figure 1).",
+        "Fan lever (front of the panel): full left is off; moving it right selects the three blower speeds LOW, MED, HIGH.",
+        "Do not switch the blower on unless the AIR door is at least half open.",
+        "TEMPERATURE thumb-wheel (right side) moves the temperature door by bowden cable, changing the mix of heated and unheated air from cold to hot.",
+        "AIR/DE-ICE thumb-wheel (left side, bowden cable): at the 'air' detent the AIR door opens; moving past 'air' begins opening the DEFROSTER door for partial defrost flow; at 'de-ice' nearly all air goes to the defroster ducts. Positions between 'air' and 'de-ice' vary the floor/defroster split."
+      ],
+      "continues": false
+    }
+  ]
+}

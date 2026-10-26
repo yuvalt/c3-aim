@@ -1,0 +1,41 @@
+{
+  "page": 498,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-44",
+  "procedures": [
+    {
+      "title": "Wiper gear box: disassemble (Type E non-depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "washer pump",
+        "washer pump drive cam",
+        "crank arm",
+        "seal cap",
+        "retaining ring",
+        "gear box cover",
+        "output gear and shaft",
+        "intermediate gear and pinion",
+        "terminal board and park switch"
+      ],
+      "steps": [
+        "If a washer pump is fitted, remove its 2 mounting screws and lift it off (see figure 61 in the manual).",
+        "Remove the washer pump drive cam if needed; it is pressed on, so wedge it off with two screwdrivers between cam and plate.",
+        "Clamp the crank arm in a vise and remove its retaining nut.",
+        "Remove the crank arm, seal cap, Tru-Arc retaining ring and end-play washers.",
+        "Drill out the gear box cover staking tabs with a 9/32 in. drill and lift the cover off the gear train.",
+        "Remove the output gear and shaft, then slide the intermediate gear and pinion off its shaft.",
+        "If the terminal board and park switch must come out: unsolder the motor leads from the terminals, marking them for reassembly."
+      ],
+      "specs": [],
+      "notes": [
+        "Manual lists the Type E non-depressed park wiper for Chevelle, Chevrolet and Corvette.",
+        "The start/stop switch is on the instrument panel; the cam-operated park switch is in the gear box.",
+        "Caution: an unclamped crank arm can strip the wiper gears.",
+        "Clean the seal cap and repack it with waterproof grease before reassembly.",
+        "A service package supplies screws, nuts and lock washers to refit the cover.",
+        "See figure 60 in the manual (exploded motor and gear box)."
+      ],
+      "continues": true
+    }
+  ]
+}

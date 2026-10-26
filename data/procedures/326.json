@@ -1,0 +1,60 @@
+{
+  "page": 326,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-29",
+  "procedures": [
+    {
+      "title": "Ignition pulse amplifier: disassemble and check components",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": ["resistor R6", "transistors", "heat sink", "flat insulators", "silicone grease"],
+      "steps": [
+        "Resistor R6: use a scale with 150 ohms in or near its middle third; infinite both ways = open.",
+        "On reassembly, coat both sides of the flat transistor-to-heat-sink insulators, and the transistor side of the heat sink, with silicone grease (it conducts heat for better cooling)."
+      ],
+      "specs": [{"what": "resistor R6 nominal", "value": "150 ohm"}],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Spark plugs: clean, regap and install",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["spark plugs", "spark plug gaskets", "round feeler gauge"],
+      "steps": [
+        "Clean the plugs thoroughly with an abrasive-type cleaner.",
+        "Replace plugs with badly glazed or blistered porcelains.",
+        "Use plugs of the same make and number (heat range) in all cylinders.",
+        "File the center electrode flat before gapping.",
+        "Set the gap to specification with a round feeler gauge, bending only the side (ground) electrode, never the center electrode (see figure 21i in the manual).",
+        "Install with new gaskets and torque to specification; without a torque wrench, run them in finger tight and then 1/2 turn more.",
+        "Install carefully so the gap is not disturbed."
+      ],
+      "specs": [
+        {"what": "spark plug thread size", "value": "14 millimeter"},
+        {"what": "spark plug tightening without torque wrench", "value": "finger tight plus 1/2 turn"}
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Starting motor and solenoid: maintenance",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["starting motor", "solenoid", "brushes"],
+      "steps": ["No periodic lubrication or between-overhaul service is needed; the motor and brushes cannot be inspected without disassembly."],
+      "specs": [],
+      "notes": ["On V8s the ignition switch lead to the coil attaches at the coil, not at the starter solenoid as on in-line engines (see figure 2s in the manual)."],
+      "continues": false
+    },
+    {
+      "title": "Starting circuit: resistance check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltmeter"],
+      "steps": [],
+      "specs": [],
+      "notes": ["The starting motor cannot be checked against specifications on the car, but the circuit can be checked for excess resistance."],
+      "continues": true
+    }
+  ]
+}

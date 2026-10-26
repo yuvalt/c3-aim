@@ -1,0 +1,58 @@
+{
+  "page": 49,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-30",
+  "procedures": [
+    {
+      "title": "Evaporator control valve (POA): check",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "POA valve",
+        "gauge set"
+      ],
+      "steps": [
+        "Check suction pressure at the POA valve under performance-test conditions; this is the only operating check for the valve.",
+        "If the reading is wrong for the altitude, replace the valve; it cannot be repaired or adjusted."
+      ],
+      "specs": [
+        {
+          "what": "POA gauge reading at sea level",
+          "value": "29.5 psig."
+        },
+        {
+          "what": "at 1000 ft.",
+          "value": "30.0 psig."
+        },
+        {
+          "what": "at 2000 ft.",
+          "value": "30.5 psig."
+        },
+        {
+          "what": "at 3000 ft.",
+          "value": "31.0 psig."
+        },
+        {
+          "what": "at 4000 ft.",
+          "value": "31.5 psig."
+        },
+        {
+          "what": "at 5000 ft.",
+          "value": "32.0 psig."
+        },
+        {
+          "what": "at 6000 ft.",
+          "value": "32.5 psig."
+        },
+        {
+          "what": "at 7000 ft.",
+          "value": "33.0 psig."
+        }
+      ],
+      "notes": [
+        "Applies to Four-Season systems on all vehicles.",
+        "The POA is an absolute-pressure valve, so the gauge reading depends on altitude: 29.5 psig at sea level, rising one-half psi per additional 1000 feet."
+      ],
+      "continues": true
+    }
+  ]
+}

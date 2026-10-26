@@ -1,0 +1,23 @@
+{
+  "page": 141,
+  "source": "1968 Chevrolet Chassis Service Manual, Front Suspension, p.3-2",
+  "procedures": [
+    {
+      "title": "Front wheel bearings: adjust",
+      "topic": "front-suspension",
+      "applies_to": "all models",
+      "parts": [
+        "front wheel bearings",
+        "spindle nut"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Front suspension lubrication intervals are in Section 0 of the manual; this section covers only adjustments and repairs.",
+        "Unless a procedure names a model, it applies to all five car lines in the manual (Corvette included).",
+        "Figures 1 and 2 on this page show the Chevrolet and Chevelle front suspensions (not Corvette)."
+      ],
+      "continues": true
+    }
+  ]
+}

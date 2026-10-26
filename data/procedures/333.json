@@ -1,0 +1,21 @@
+{
+  "page": 333,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-4",
+  "procedures": [
+    {
+      "title": "Clutch pedal linkage (figure)",
+      "applies_to": "Corvette",
+      "topic": "clutch",
+      "parts": [
+        "clutch pedal",
+        "clutch pedal linkage"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure-only page: figure 4 in the manual shows the clutch pedal linkage for each car line, including a separate Corvette view."
+      ],
+      "continues": false
+    }
+  ]
+}

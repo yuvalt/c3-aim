@@ -1,0 +1,85 @@
+{
+  "page": 164,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-5",
+  "procedures": [
+    {
+      "title": "Rear wheel camber: adjust",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "strut rod",
+        "eccentric camber cam and bolt",
+        "cam bolt nut"
+      ],
+      "steps": [
+        "Set the rear wheels on an alignment machine and read the camber angle.",
+        "Loosen the cam bolt nut at the inner strut rod mount (see figure 8 in the manual).",
+        "Turn the cam and bolt until camber is at specification.",
+        "Tighten the nut and torque it to specification."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear wheel toe-in: adjust",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "torque control arm",
+        "torque control arm pivot bolt",
+        "pivot bushing",
+        "toe-in shims",
+        "hardened washers",
+        "cotter pin"
+      ],
+      "steps": [
+        "Remove the torque control arm pivot bolt.",
+        "Move the torque control arm to get the specified toe-in.",
+        "Fill the gap on the side toward the car centerline, between the arm bushing and the inner wall of the frame side member, with shims.",
+        "Shim the outboard gap as needed so the stack is solid between the bushing and the frame side member wall.",
+        "With the shim stack chosen, fit the pivot bolt and hardened washers, making sure every shim stays in place (see figure 9 in the manual).",
+        "Torque the nut to specification and fit the cotter pin; if the hole does not line up at that torque, tighten to the next flat."
+      ],
+      "specs": [
+        {
+          "what": "toe-in shim thicknesses available",
+          "value": "1/64\", 1/32\", 1/8\" and 1/4\""
+        }
+      ],
+      "notes": [
+        "Do not use a thicker shim than needed or force shims in on the inner side of the arm; this can shift the toe setting."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear wheel bearings: check end play",
+      "topic": "rear-suspension",
+      "applies_to": "Corvette",
+      "parts": [
+        "spindle bearings",
+        "axle drive shaft",
+        "wheel spindle flange",
+        "bolt lock tabs",
+        "camber cam",
+        "dial indicator J-8001"
+      ],
+      "steps": [
+        "Raise the rear of the car so the wheels are off the ground.",
+        "Bend back the bolt lock tabs and unbolt the outer end of the axle drive shaft from the wheel spindle flange.",
+        "Mark the camber cam position on its bracket, then loosen and turn the camber bolt until the strut rod pushes the torque control arm outward.",
+        "Swing the loose end of the drive shaft aside to reach the spindle.",
+        "Remove the wheel and tire.",
+        "Mount dial indicator J-8001 on the torque control arm and rest the pointer on the flange or spindle end."
+      ],
+      "specs": [
+        {
+          "what": "rear spindle bearing end play",
+          "value": ".001\" to .008\""
+        }
+      ],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

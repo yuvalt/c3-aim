@@ -1,0 +1,32 @@
+{
+  "page": 392,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-5",
+  "procedures": [
+    {
+      "title": "Steering wheel (regular production): remove and install",
+      "topic": "steering",
+      "applies_to": "all models",
+      "parts": [
+        "steering wheel",
+        "cancelling cam",
+        "horn contact",
+        "belleville spring",
+        "pivot ring",
+        "receiving cup"
+      ],
+      "steps": [
+        "Turn the puller's center bolt clockwise to pull the wheel (see figure 10 in the manual).",
+        "Installation: with the turn signal cancelling cam and horn contact in place, set the wheel on the shaft and secure with washer and nut, torqued to the spec at the rear of the manual.",
+        "Fit the belleville spring dish side up, then the pivot ring, bushing and receiving cup with its screws.",
+        "Refit the retainer and the horn button cap or center ornament.",
+        "Reconnect the column harness to the chassis connector.",
+        "Reconnect the battery ground cable."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: the turn signal control must be in neutral when fitting the wheel or the cancelling cam and control assembly can be damaged."
+      ],
+      "continues": false
+    }
+  ]
+}

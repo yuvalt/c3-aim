@@ -1,0 +1,59 @@
+{
+  "page": 228,
+  "source": "1968 Chevrolet Chassis Service Manual, Brakes, p.5-27",
+  "procedures": [
+    {
+      "title": "Disc brake caliper: remove, overhaul and install",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "caliper halves",
+        "O-rings",
+        "pistons",
+        "piston boots",
+        "piston seals",
+        "piston springs",
+        "J-22591/J-22629/J-22639 piston ring compressor",
+        "J-22592/J-22628/J-22638 boot seal installer"
+      ],
+      "steps": [
+        "Remove the 2 large hex head bolts to split the caliper halves; take the 2 small O-rings out of the cavities around the fluid transfer holes at the ends of the halves.",
+        "To free each boot, push the piston fully into the caliper, slip a screwdriver under the inner edge of the boot's steel ring and, levering on the piston, pry the boot out of its seat.",
+        "Take out the pistons and springs; strip the boot and seal off each piston.",
+        "(Cleaning and inspection) Clean all metal parts in Declene or equivalent, removing all dirt and grease; never use mineral-based solvents.",
+        "Blow out every fluid passage in both halves with an air hose.",
+        "Throw away all rubber parts; fit new boots, seals and O-rings from a service kit.",
+        "Inspect the piston bores; they must have no scores or pits. Replace the caliper half if very fine crocus cloth will not clean up a bore.",
+        "Measure piston-to-bore clearance with a feeler gauge. If the bore is good but clearance is over the upper limit, fit a new piston.",
+        "(Assembly) Fit the seal in the piston groove nearest the flat end, lip toward the large end; keep the lips in the groove and off the step at the groove end.",
+        "Drop the spring into the bottom of the bore.",
+        "Lubricate the seal with clean brake fluid.",
+        "Press the piston into the bore with compressor J-22639, J-22629 or J-22591 (see figure 40 in the manual), taking care not to damage the seal lip at the bore edge.",
+        "Fit the boot in the piston groove nearest the concave end, fold toward the sealed end.",
+        "Push the pistons in and check they slide smoothly until flush with the end of the bore; if not, recheck the piston, spring position and seal.",
+        "With installer J-22592, J-22628 or J-22638, seat the boot's steel ring evenly in the counterbore (see figure 41 in the manual); it must sit flush with or below the machined caliper face.",
+        "Put the O-rings in the small cavities around the fluid transfer holes at both ends of the outboard caliper half. Lubricate the hex head bolts with Delco Brake Lube or dip them in clean brake fluid, fit the halves together and bolt them (torque per the specifications at the back of the manual).",
+        "(Installation) Lower the caliper over the disc edge, pressing the pistons back with a putty knife so it clears (continues on next page)."
+      ],
+      "specs": [
+        {
+          "what": "piston-to-bore clearance, 2 1/16 inch bore",
+          "value": ".0045 to .010"
+        },
+        {
+          "what": "piston-to-bore clearance, 1 7/8 inch bore",
+          "value": ".0045 to .010"
+        },
+        {
+          "what": "piston-to-bore clearance, 1 3/8 inch bore",
+          "value": ".0035 to .009"
+        }
+      ],
+      "notes": [
+        "CAUTION: do not puncture the seal while removing pistons.",
+        "An unevenly seated or distorted boot ring lets dirt and corrosive matter into the bore."
+      ],
+      "continues": true
+    }
+  ]
+}

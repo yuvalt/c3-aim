@@ -1,0 +1,27 @@
+{
+  "page": 505,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-51",
+  "procedures": [
+    {
+      "title": "Wiper relay switch-latch and terminal board: install (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "terminal board",
+        "terminal board resistor",
+        "relay-switch assembly"
+      ],
+      "steps": [
+        "Resolder the leads to the terminal board as needed (see figure 77 in the manual).",
+        "Slide the terminal board into the housing, placing the resistor lead as in figure 78 in the manual.",
+        "Resolder the leads to the relay switch as needed.",
+        "Set the relay-switch in the housing."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 77 wiring: red relay lead to terminal No. 1; tan lead to the same relay switch terminal as the red coil lead; black with pink stripe also shown."
+      ],
+      "continues": true
+    }
+  ]
+}

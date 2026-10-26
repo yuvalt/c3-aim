@@ -1,0 +1,72 @@
+{
+  "page": 412,
+  "source": "1968 Chevrolet Chassis Service Manual, Steering, p.9-25",
+  "procedures": [
+    {
+      "title": "Corvette telescoping steering column: disassemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "upper steering shaft",
+        "lower steering shaft",
+        "locking wedge",
+        "locking rod",
+        "bumper key strap",
+        "keys",
+        "bumper",
+        "wiring protector",
+        "inner jacket section",
+        "turn signal switch",
+        "upper bearing housing",
+        "jacket seals",
+        "mesh cover"
+      ],
+      "steps": [
+        "Separate the upper shaft from the lower shaft; replace the locking wedge and locking rod now if required.",
+        "Remove the bumper key strap (see figure 52 in the manual), then the keys and bumper assembly.",
+        "Remove the screws holding the bottom of the wiring protector to the column.",
+        "Slide the inner jacket section, switch cover, switch, upper bearing housing and wiring protector off the top of the jacket.",
+        "If needed, remove the 3 turn signal switch screws and take out the switch and upper bearing housing.",
+        "If needed, remove the seals from inside the mast jacket.",
+        "If needed, unwrap the mesh cover from the jacket."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Corvette telescoping steering column: assemble",
+      "topic": "steering",
+      "applies_to": "Corvette",
+      "parts": [
+        "telescoping steering column",
+        "jacket seals",
+        "locking wedge",
+        "locking rod",
+        "upper steering shaft",
+        "lower steering shaft",
+        "bearing",
+        "spring",
+        "spacer",
+        "clamp"
+      ],
+      "steps": [
+        "Lightly coat all friction surfaces with lithium soap grease.",
+        "If the jacket seals were removed, cement new ones where the old ones were.",
+        "Put the locking wedge and locking rod into the upper shaft and slide the upper shaft into the lower shaft.",
+        "Fit the bearing, spring, spacer, clamp, bolt and nut; set the clamp at its scribed original location and torque the nut to 30 ft. lbs.",
+        "Fit the spring clip, seal, washer, bearing and spring,"
+      ],
+      "specs": [
+        {
+          "what": "telescoping column shaft clamp nut",
+          "value": "30 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Figure 49 parts: wiring protector, screws, turn signal switch, upper bearing housing, signal switch cover, mast jacket, bumpers, key, bumper key strap, wheel nut, upper bearing preload spring, cancelling cam, spiral retaining ring, thrust washer, wave washer, bearing, bearing retainer, spring, washer, retaining ring, spacer, clamp/bolt/nut, lower and upper steering shafts, locking rod, wedge."
+      ],
+      "continues": true
+    }
+  ]
+}

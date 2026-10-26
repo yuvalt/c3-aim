@@ -1,0 +1,23 @@
+{
+  "page": 474,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-20",
+  "procedures": [
+    {
+      "title": "Parking brake alarm switch replacement",
+      "topic": "brakes",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking brake alarm switch",
+        "parking brake cover"
+      ],
+      "steps": [
+        "(Continued) Set the new switch on the reinforcement and fit the screw.",
+        "Reconnect the switch wire and check the switch works.",
+        "Refit the cover."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

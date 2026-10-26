@@ -1,0 +1,56 @@
+{
+  "page": 501,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-47",
+  "procedures": [
+    {
+      "title": "Washer pump: remove and install (Type E wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "windshield washer pump"
+      ],
+      "steps": [
+        "Disconnect the wiring and washer hoses from the pump.",
+        "Remove the 2 pump-to-wiper screws and take the pump off (see figure 61 in the manual).",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "Manual lists the Type E non-depressed park wiper for Chevelle, Chevrolet and Corvette."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Washer pump: disassemble and assemble (Type E wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "washer pump cover",
+        "relay coil",
+        "ratchet pawl",
+        "terminal board",
+        "ratchet wheel",
+        "valve assembly",
+        "bellows",
+        "nylon slider"
+      ],
+      "steps": [
+        "Take off the pump cover.",
+        "Relay: unsolder the coil leads (polarity does not matter when resoldering), remove the coil retainer clip and slide the coil out of its bracket.",
+        "Ratchet pawl: squeeze the slotted end of the post and slide the pawl off.",
+        "Terminal board: remove the ratchet dog (see figure 67 in the manual) and lift the board off the base.",
+        "Ratchet wheel: remove the terminal board, then the lock ring, and slide the wheel off the shaft.",
+        "Valve assembly: remove the screws holding it to the bellows housing; carefully pry the bellows lip out of the valve body groove if needed.",
+        "Bellows: remove the valve assembly, turn the ratchet wheel counterclockwise to free the pump from lock-out (see figure 68 in the manual), hold the plunger arm, press the bellows bottom in with a thumb and twist it 90 degrees off the arm.",
+        "Nylon slider: unhook its spring and slide it off the base.",
+        "Reassemble in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: check the ratchet pawl spring is correctly fitted before refitting the cover.",
+        "Pumping is programmed electrically and mechanically by a relay and ratchet wheel."
+      ],
+      "continues": false
+    }
+  ]
+}

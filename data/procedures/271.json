@@ -1,0 +1,30 @@
+{
+  "page": 271,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-39",
+  "procedures": [
+    {
+      "title": "Engine special tools (figure 21)",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "special tools"
+      ],
+      "steps": [
+        "Use figure 21 in the manual to identify the J-numbered tools called for in the engine procedures."
+      ],
+      "specs": [],
+      "notes": [
+        "J-4536 engine lift kit; J-1264, J-8058, J-5853 torque wrenches (0-200 ft. lb., 0-50 ft. lb., 0-100 in. lb.).",
+        "J-8087 cylinder bore indicator set; J-8001 universal indicator set; J-7316 belt tension gauge; J-8037 piston ring compressor.",
+        "J-8020, J-8021, J-8032, J-22249, J-22147, J-22250 piston ring expanders (3 9/16\", 3 7/8\", 4\", 3 15/16\", 4 3/32\", 4 1/4\").",
+        "J-6994 and J-9510 piston pin assembly tools; J-5239 and J-6305 connecting rod guide sets (3/8\", 11/32\").",
+        "J-8062 valve spring compressor; J-8101 valve guide cleaner; J-5830 and J-7049 valve guide reamers (11/32\", 3/8\"); J-8089 carbon removing brush.",
+        "J-5860 cylinder head bolt wrench; J-5715 and J-6036 rocker arm stud reamers (.003\", .013\"); J-6880 rocker stud installer; J-5802 rocker stud remover.",
+        "J-9534 and J-9535 distributor lower bushing remover and installer; J-22144 and J-8369 oil pick-up screen installers; J-6098 cam bearing tool; J-0971 camshaft gear support.",
+        "J-6978 torsional damper puller; J-22197 torsional damper installer; J-21058 damper and sprocket installer; J-1619 and J-5825 crankshaft sprocket pullers; J-8105 crankshaft gear puller; J-5590 crankshaft sprocket or gear installer.",
+        "J-0966 and J-21742 crankcase cover centering gauges; J-22102 crankcase cover tool; J-8340 and J-996 crankcase cover seal installers."
+      ],
+      "continues": false
+    }
+  ]
+}

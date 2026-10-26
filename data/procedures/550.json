@@ -1,0 +1,31 @@
+{
+  "page": 550,
+  "source": "1968 Chevrolet Chassis Service Manual, Bumpers, p.14-6",
+  "procedures": [
+    {
+      "title": "Front bumper (Corvette): remove and install",
+      "topic": "bumpers",
+      "applies_to": "Corvette",
+      "parts": [
+        "front bumper face bar",
+        "bumper guards",
+        "decorative radiator grilles",
+        "bumper brackets and braces",
+        "frame crossmember"
+      ],
+      "steps": [
+        "(Removal) Put the car on a hoist.",
+        "Take off both decorative radiator grilles.",
+        "Remove the bolts holding the face bar to the brackets and braces.",
+        "Remove the bolts holding the lower edge of the bumper guards to the crossmember.",
+        "Lift off the bumper with face bar and guards."
+      ],
+      "specs": [],
+      "notes": [
+        "Face bar and guards come off without disturbing the braces, brackets or license plate assembly.",
+        "See figure 8 in the manual (exploded front bumper)."
+      ],
+      "continues": true
+    }
+  ]
+}

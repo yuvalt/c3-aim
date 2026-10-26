@@ -1,0 +1,50 @@
+{
+  "page": 308,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-11",
+  "procedures": [
+    {
+      "title": "Charging system: condition test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltage regulator", "Delcotron generator", "indicator lamp", "ammeter", "junction block"],
+      "steps": [
+        "With ignition off, do the static checks, set the parking brake and put the transmission in neutral.",
+        "Connect a voltmeter from the junction block relay to ground at the regulator base; keep the clip off any resistor or terminal extension under the regulator.",
+        "Hook up a tachometer.",
+        "Indicator lamp cars: turn ignition ON; if the lamp does not light, do the indicator lamp circuit tests first. Ammeter cars: turn ignition to ACC with an accessory on; if the ammeter shows no discharge, check the ammeter circuit first.",
+        "Indicator lamp cars: start the engine and run at 1500 rpm or more; if the lamp stays on, do the indicator lamp circuit test. Ammeter cars: start the engine; if the needle does not move toward charge, do the field circuit tests.",
+        "Turn on high-beam headlamps and the heater blower on high, run at 1500 rpm or more for a few minutes if needed, and read the voltmeter.",
+        "At 12-1/2 volts or more: turn off loads, stop the engine and go on to Adjusting Regulator Voltage.",
+        "Below 12-1/2 volts: do the Delcotron output test (ammeter method). If the Delcotron is bad, repair it and repeat the loaded voltage reading.",
+        "If the Delcotron is good: unplug the regulator, remove its cover, plug it back in, repeat the loaded voltage reading and turn the adjusting screw to raise the setting to 12-1/2 volts (see figure 7c in the manual).",
+        "Transistor regulator: remove the pipe plug, put a screwdriver in the slot and turn clockwise 1 or 2 notches to raise the setting (counterclockwise lowers it); each notch is about .3 volt. Turn off loads, stop the engine, go on to Adjusting Regulator Voltage.",
+        "If 12-1/2 volts cannot be reached, fit a new regulator and repeat the loaded voltage reading."
+      ],
+      "specs": [
+        {"what": "test engine speed", "value": "1500 rpm or above"},
+        {"what": "minimum system voltage under load", "value": "12-1/2 volts"},
+        {"what": "transistor regulator adjustment", "value": "approx. .3 volt per notch"}
+      ],
+      "notes": ["Voltage will not go much above 12-1/2 volts until the battery builds a surface charge (usually a few minutes) unless it is badly discharged or hot."],
+      "continues": false
+    },
+    {
+      "title": "Voltage regulator: adjust voltage setting",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["voltage regulator", "junction block", "1/4 ohm-25 watt resistor"],
+      "steps": [
+        "Wire a 1/4 ohm, 25 watt fixed resistor into the charging circuit at the junction block, between both leads and the terminal (see figure 8c in the manual).",
+        "Warm up at 1500 rpm or more for at least 15 minutes, then cycle the regulator by unplugging and replugging its connector, and read voltage.",
+        "13.5 to 15.2 volts means the regulator is good.",
+        "If outside 13.5 to 15.2 volts, keep the engine at 1500 rpm or more, unplug the four-terminal connector, remove the regulator cover and plug the connector back in."
+      ],
+      "specs": [
+        {"what": "regulator voltage (good)", "value": "13.5 to 15.2 volts"},
+        {"what": "warm-up", "value": "1500 rpm or above, at least 15 minutes"}
+      ],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

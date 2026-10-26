@@ -1,0 +1,16 @@
+{
+  "page": 376,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-3",
+  "procedures": [
+    {
+      "title": "Fuel tank filler neck drain hose: position",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": ["fuel tank filler neck", "filler neck drain hose", "rear bumperette"],
+      "steps": ["Route the filler neck drain hose down so its end sits flush with, up to 1/2 inch back from, the edge of the bumperette."],
+      "specs": [{"what": "filler drain hose end position", "value": "flush to 1/2 inch back from edge of bumperette"}],
+      "notes": ["Figure 5 in the manual shows the Corvette tank and its straps; figure 6 shows the filler neck, cap and drain hose."],
+      "continues": false
+    }
+  ]
+}

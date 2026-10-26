@@ -1,0 +1,30 @@
+{
+  "page": 475,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-21",
+  "procedures": [
+    {
+      "title": "Cigarette lighter replacement",
+      "topic": "interior",
+      "applies_to": "Corvette",
+      "parts": [
+        "cigarette lighter",
+        "lighter housing retainer",
+        "gear shift trim plate",
+        "vent control set screws",
+        "lighter lamp"
+      ],
+      "steps": [
+        "Disconnect the battery ground cable.",
+        "Remove the vent control set screws and the screws holding the gear shift trim plate, and take off the plate.",
+        "Squeeze the lighter lamp clip and unplug the connector under the lighter housing.",
+        "Unscrew the retainer from the back of the housing and free the lighter from the trim plate.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 40 in the manual."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "page": 363,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-34",
+  "procedures": [
+    {
+      "title": "Turbo Hydra-Matic: general description",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Selecting L2 at speed shifts to second and stays there until speed or throttle bring first gear as in Drive.",
+        "L1 can be selected at any speed: the transmission goes to second and stays until speed drops to about 40 MPH (depends on axle ratio), then holds first and will not upshift.",
+        "Any correspondence about a Turbo Hydra-Matic must quote the transmission serial number and the Vehicle Identification number; parts returned to Chevrolet must be tagged with the transmission serial number."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Turbo Hydra-Matic fluid level check",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "transmission fluid",
+        "dipstick"
+      ],
+      "steps": [
+        "Check the fluid with the transmission warm and the selector in Park, each time engine oil is checked or as given in Section 0 at engine oil changes.",
+        "Change the fluid at the Section 0 interval."
+      ],
+      "specs": [],
+      "notes": [
+        "The dipstick FULL mark reads correctly only at the normal operating temperature of 180°F, which takes at least 15 miles of expressway driving or the equivalent in town."
+      ],
+      "continues": true
+    },
+    {
+      "title": "Turbo Hydra-Matic detent switch adjustment (Corvette)",
+      "applies_to": "Corvette",
+      "topic": "transmission",
+      "parts": [
+        "detent switch",
+        "switch driver",
+        "switch bracket",
+        "accelerator lever",
+        ".092\" pin"
+      ],
+      "steps": [
+        "Line up the hole in the switch driver with the hole in the switch and push a .092 pin in .10\" deep to lock the driver.",
+        "Move the accelerator lever to wide open throttle, making sure the accelerator linkage is adjusted correctly first.",
+        "Mount the switch loosely on its bracket and slide it toward the lever until the driver touches the lever.",
+        "Tighten the bolt holding the switch to the bracket, then pull the pin."
+      ],
+      "specs": [
+        {
+          "what": "detent switch locating pin",
+          "value": ".092\" pin, inserted .10\" deep"
+        }
+      ],
+      "notes": [
+        "The Corvette uses the accelerator-lever-mounted switch shown in figure 1T in the manual; the carburetor plunger switch with dimension A applies to other car lines."
+      ],
+      "continues": false
+    }
+  ]
+}

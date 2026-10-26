@@ -1,0 +1,66 @@
+{
+  "page": 186,
+  "source": "1968 Chevrolet Chassis Service Manual, Rear Suspension and Drive Line, p.4-27",
+  "procedures": [
+    {
+      "title": "Rear axle lubricant: check level and leaks",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "axle lubricant",
+        "filler plug",
+        "pinion flange oil seal",
+        "carrier cover"
+      ],
+      "steps": [
+        "With the axle warm, check that lubricant is up to the filler plug level; top up as needed (see the Lubrication section for the type).",
+        "Check for leaks at the pinion flange oil seal, the wheel bearing seals, the filler plug and the carrier cover.",
+        "Fix leaks by replacing the faulty seal or gasket."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear axle attaching bolts and wheel nuts: inspect",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "wheel nuts",
+        "control arm bolts",
+        "axle-to-spring bolts"
+      ],
+      "steps": [
+        "For safety, check from time to time that the axle-to-spring bolts, wheel nuts and control arm bolts are secure."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear axle noise: diagnose",
+      "topic": "driveline",
+      "applies_to": "all models",
+      "parts": [
+        "ring gear and pinion",
+        "pinion bearings",
+        "differential side bearings",
+        "wheel bearings",
+        "tires"
+      ],
+      "steps": [
+        "Decide whether the noise is abnormal: slight noise only at one speed or in unusual conditions is normal, and axle noise often peaks at certain speeds without meaning a fault.",
+        "If the noise is loud, objectionable or present at all speeds, try to pin it to one unit; it is often mistaken for tire, transmission, propeller shaft or U-joint noise.",
+        "Help isolate it by raising tire pressure (to change tire noise), listening at different speeds under drive, float and coast on a suitable road, and steering left and right to bring out wheel bearing noise.",
+        "Gear noise: a cycling pitch, strong in a narrow speed range, under drive, float or coast. It is rare and usually comes from ring and pinion scoring due to poor or wrong lubrication when new. Side gears seldom cause noise since they only work when the wheels turn at different speeds.",
+        "Bearing noise: a whine of constant pitch that changes with road speed.",
+        "Pinion bearing: a steady rough sound, heard best on smooth blacktop since these bearings spin fastest; inspect tire treads if tire noise might be the cause.",
+        "Wheel bearing: drive on a smooth road at medium-low speed and, traffic permitting, swing sharply left and right; wheel bearing noise gets louder in the turns from side load. If it cannot be traced to front or rear, inspect the bearings.",
+        "Side (differential) bearing: a steady rough noise, slower than pinion bearing noise, that does not change in the turning test."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

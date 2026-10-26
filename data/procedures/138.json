@@ -1,0 +1,28 @@
+{
+  "page": 138,
+  "source": "1968 Chevrolet Chassis Service Manual, Frame, p.2-6",
+  "procedures": [
+    {
+      "title": "Torque specifications: body mounts",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "body mounts",
+        "body mount bolts",
+        "body mount cushions"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "body mount bolts, all (Corvette)",
+          "value": "45 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Figure 5 in the manual shows four Corvette body mount locations per side along the frame rails: #1 at the S-curve just behind the front wheel, #2 on the side rail at the front of the passenger compartment, #3 at the rear kick-up, #4 behind the rear wheel.",
+        "Mounts #1-#3 use a bolt from above through washer, upper cushion, frame bracket, lower cushion and retainer; #4 is stacked the other way, with its bolt inserted from below."
+      ],
+      "continues": false
+    }
+  ]
+}

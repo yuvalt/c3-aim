@@ -1,0 +1,65 @@
+{
+  "page": 504,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical - Body and Chassis, p.12-50",
+  "procedures": [
+    {
+      "title": "Wiper motor: assemble (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "case and field assembly",
+        "thrust discs",
+        "felt washer",
+        "thrust ball",
+        "armature",
+        "brush plate",
+        "circuit breaker",
+        "tie bolts"
+      ],
+      "steps": [
+        "If fitting a new field and case, splice its black and black-with-pink-stripe leads to the matching wiper leads.",
+        "Fit the rubber thrust disc, steel thrust disc and felt oiling washer into the case bearing, in that order.",
+        "Lubricate the armature shaft end that runs in the case bearing and fit the thrust ball in it.",
+        "Put the armature into the case and field.",
+        "Slide the part-built brush plate onto the shaft far enough to refit the last brush, then set the plate on its mounting tabs as in figure 73 in the manual.",
+        "Center the plate holes over the tabs and bend the tabs toward the brush holders to lock it.",
+        "Remove the brush retainer clips and resolder the circuit breaker ground lead to the circuit breaker.",
+        "On a new case and field, scribe a line matching the one on the old case.",
+        "Place the armature worm inside the housing and line the case up with the housing using the scribe marks.",
+        "Keeping the armature in the case, feed the worm shaft through the field and housing bearing until it meshes with the worm gear, drawing the spare leads through the housing grommet.",
+        "Turn the case until its bolt holes match the housing.",
+        "Fasten the case to the housing with the 2 tie bolts.",
+        "Adjust armature end play."
+      ],
+      "specs": [],
+      "notes": [
+        "If the brush plate is placed wrong, the circuit breaker ground lead will not reach its terminal.",
+        "Caution: the tabs must be centered in the plate holes.",
+        "The armature may need a slight turn before the worm engages the gear teeth."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Wiper relay switch-latch and terminal board: remove (Type C depressed park wiper)",
+      "topic": "electrical",
+      "applies_to": "Corvette",
+      "parts": [
+        "relay-switch assembly",
+        "terminal board",
+        "washer pump"
+      ],
+      "steps": [
+        "Remove the screws holding the washer pump to the wiper.",
+        "If the drive pawl is in full park (sitting in the magnetic switch slot, see figure 74 in the manual), remove the gear assembly first; if it is away from the latch arm (see figure 76 in the manual), go on.",
+        "Remove the relay-switch screw and carefully lift the relay-switch out of the gear box; unsolder its leads as needed.",
+        "Slide the terminal board out of the housing and unsolder its leads as needed."
+      ],
+      "specs": [],
+      "notes": [
+        "The gear box has two areas: relay control and latch, and the drive gear mechanism.",
+        "Use figure 77 in the manual when resoldering leads."
+      ],
+      "continues": false
+    }
+  ]
+}

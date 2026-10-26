@@ -1,0 +1,83 @@
+{
+  "page": 462,
+  "source": "1968 Chevrolet Chassis Service Manual, Electrical-Body and Chassis, p.12-8",
+  "procedures": [
+    {
+      "title": "Parking lamp bulb replacement",
+      "topic": "lamps",
+      "applies_to": "all models",
+      "parts": [
+        "parking lamp bulb",
+        "parking lamp lens"
+      ],
+      "steps": [
+        "(Continued) Change the bulb, check that the lamp works, then refit the lens and screws."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Parking lamp housing replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "parking lamp housing",
+        "radiator grille",
+        "lens",
+        "bulb"
+      ],
+      "steps": [
+        "Take out the 4 screws holding the radiator grille to the body.",
+        "Lift the grille out and remove the 2 nuts securing the lamp to the grille.",
+        "Unplug the lamp lead from the front wiring harness.",
+        "Move the lens and bulb to the new housing.",
+        "Mount the lamp in the grille with the 2 nuts.",
+        "Plug in the lamp lead and refit the grille."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front side marker lamp replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "front side marker lamp",
+        "bezel",
+        "radiator grille"
+      ],
+      "steps": [
+        "Take out the 4 grille-to-body screws and swing the grille aside to reach the marker lamp nuts.",
+        "Remove the retaining nuts from inside the fender.",
+        "Pull the lamp out of the fender and unplug it.",
+        "Plug the lamp in and fit the lamp and bezel into the fender.",
+        "Refit the bezel nuts.",
+        "Refit the 4 grille-to-body screws."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 14 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Front side marker lamp bulb replacement",
+      "topic": "lamps",
+      "applies_to": "Corvette",
+      "parts": [
+        "front side marker bulb",
+        "radiator grille"
+      ],
+      "steps": [
+        "Remove the grille screws and swing the grille to one side.",
+        "Reach through the grille opening, turn the plug connector 1/4 turn counterclockwise and pull it out; the bulb is held in the plug.",
+        "Change the bulb and refit the plug."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

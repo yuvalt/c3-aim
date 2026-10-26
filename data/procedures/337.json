@@ -1,0 +1,52 @@
+{
+  "page": 337,
+  "source": "1968 Chevrolet Chassis Service Manual, Clutch and Transmissions, p.7-8",
+  "procedures": [
+    {
+      "title": "Speedometer driven gear and seal: replace (three-speed)",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "speedometer cable",
+        "lock plate",
+        "lock plate bolt and lock washer",
+        "speedometer driven gear fitting",
+        "driven gear and shaft",
+        "O-ring"
+      ],
+      "steps": [
+        "Disconnect the speedometer cable.",
+        "Remove the lock plate bolt and lock washer from the extension, then the lock plate.",
+        "Put a screwdriver in the lock plate slot of the fitting and pry the fitting, gear and shaft out of the extension.",
+        "Pry the O-ring out of the fitting groove and fit a new one.",
+        "Coat the O-ring and driven gear shaft with transmission lubricant and insert the shaft.",
+        "Hold the assembly with the fitting slot facing the lock plate boss on the extension and insert it.",
+        "Push the fitting in until the lock plate can enter the groove, then bolt the lock plate to the extension."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Extension oil seal: replace (three-speed)",
+      "applies_to": "all models",
+      "topic": "transmission",
+      "parts": [
+        "propeller shaft",
+        "extension oil seal",
+        "case extension"
+      ],
+      "steps": [
+        "Remove the propeller shaft (Section 4) and anything else in the way.",
+        "Pry the old seal out of the extension.",
+        "Clean the counterbore with solvent and check it for damage.",
+        "Lubricate between the new seal's lips, coat its outside diameter with Permatex or equivalent, and start it squarely in the extension bore.",
+        "Drive it in with tool J-5154 until its flange bottoms on the extension.",
+        "Refit the propeller shaft and anything removed for clearance."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

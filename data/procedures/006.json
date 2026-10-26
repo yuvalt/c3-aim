@@ -1,0 +1,139 @@
+{
+  "page": 6,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-3",
+  "procedures": [
+    {
+      "title": "Model identification and vehicle dimensions: Corvette",
+      "topic": "specifications",
+      "applies_to": "Corvette",
+      "parts": [
+        "vehicle"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "model number 19437",
+          "value": "2-Door Sport Coupe, 2-Passenger"
+        },
+        {
+          "what": "model number 19467",
+          "value": "2-Door Convertible, 2-Passenger"
+        },
+        {
+          "what": "length overall",
+          "value": "182.5\""
+        },
+        {
+          "what": "width overall (body)",
+          "value": "68.9\""
+        },
+        {
+          "what": "height overall, convertible",
+          "value": "48.0\""
+        },
+        {
+          "what": "height overall, sport coupe",
+          "value": "48.0\""
+        },
+        {
+          "what": "wheelbase",
+          "value": "98.0\""
+        },
+        {
+          "what": "tread, front",
+          "value": "56.8\""
+        },
+        {
+          "what": "tread, rear",
+          "value": "57.6"
+        },
+        {
+          "what": "curb weight, convertible (base V-8)",
+          "value": "3145 lbs."
+        },
+        {
+          "what": "curb weight, sport coupe (base V-8)",
+          "value": "3135 lbs."
+        }
+      ],
+      "notes": [
+        "Rear tread is printed without an inch mark."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Unit and serial number locations",
+      "topic": "other",
+      "applies_to": "Corvette",
+      "parts": [
+        "vehicle serial number plate",
+        "body number trim and paint plate",
+        "engine",
+        "transmission",
+        "rear axle",
+        "Delcotron",
+        "starter",
+        "battery"
+      ],
+      "steps": [],
+      "specs": [
+        {
+          "what": "vehicle serial number plate (all models)",
+          "value": "Top of instrument panel left, front"
+        },
+        {
+          "what": "body number, trim and paint plate (Corvette)",
+          "value": "Upper left-hand door hinge pillar"
+        },
+        {
+          "what": "engine VIN, 8 cylinder",
+          "value": "On pad at front, right-hand side of cylinder block"
+        },
+        {
+          "what": "transmission VIN, 3-Spd. (B-W)",
+          "value": "On boss right rear corner of extension"
+        },
+        {
+          "what": "transmission VIN, 4-Spd. (Muncie)",
+          "value": "On left-side of case at lower rear of cover flange"
+        },
+        {
+          "what": "transmission VIN, 3-4 Spd. (Saginaw)",
+          "value": "On lower left side of case adjacent to rear of cover"
+        },
+        {
+          "what": "transmission VIN, Powerglide",
+          "value": "On right rear vertical surface of oil pan"
+        },
+        {
+          "what": "transmission VIN, Turbo Hydra-matic",
+          "value": "On light blue plate at right-side, VIN on cast pad left side of transmission"
+        },
+        {
+          "what": "rear axle number (Corvette)",
+          "value": "On bottom surface of carrier at cover mounting flange"
+        },
+        {
+          "what": "Delcotron number (all)",
+          "value": "On top drive end frame"
+        },
+        {
+          "what": "starter number (all)",
+          "value": "Stamped on outer case, toward rear"
+        },
+        {
+          "what": "battery number (all)",
+          "value": "On cell cover segment, top of battery"
+        }
+      ],
+      "notes": [
+        "The vehicle identification number is stamped on both the engine and the transmission of every car.",
+        "VIN example 1 8 F 100001: 1 = Chevrolet division, 8 = model year, F = assembly plant, 100001 = sequential serial number.",
+        "At plants building more than one Chevrolet series, VIN sequences are staggered so component numbers never repeat (Los Angeles example: 15000-16000 series start at 100001, 12000 series at 500001).",
+        "Plant prefixes on units let GM trace a unit back to the plant that built it; quote these numbers on product reports.",
+        "4 and 6 cylinder engine locations on the chart are omitted (not Corvette)."
+      ],
+      "continues": false
+    }
+  ]
+}

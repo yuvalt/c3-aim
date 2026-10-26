@@ -1,0 +1,30 @@
+{
+  "page": 10,
+  "source": "1968 Chevrolet Chassis Service Manual, General Information and Lubrication, p.0-7",
+  "procedures": [
+    {
+      "title": "Lifting the Corvette on a hoist or jack",
+      "topic": "frame",
+      "applies_to": "Corvette",
+      "parts": [
+        "frame side rail",
+        "#3 body mount",
+        "frame lift adapters",
+        "jack stands"
+      ],
+      "steps": [
+        "Use the shaded areas in figure 9 in the manual as hoist or jack contact points.",
+        "Single-post hoist: contact the frame side rails behind the front kick-up and ahead of the #3 body mount at the rear.",
+        "Twin-post hoist, no rear axle or suspension work planned: use suspension adapters or drive-on adapters at the front and drive-on adapters at the rear.",
+        "If axle work turns out to be needed, put jack stands under the frame side rails on both sides, then lower the rear post.",
+        "Twin-post hoist, rear axle work planned: use suspension adapters or drive-on adapters at the front and frame lift adapters at the rear (see figure 10 in the manual).",
+        "Without frame lift adapters, use jack stands instead."
+      ],
+      "specs": [],
+      "notes": [
+        "The frame lift adapter is a steel beam with wooden blocks bolted on top; the blocks let the beam clear the exhaust system."
+      ],
+      "continues": false
+    }
+  ]
+}

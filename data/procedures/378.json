@@ -1,0 +1,53 @@
+{
+  "page": 378,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-5",
+  "procedures": [
+    {
+      "title": "Fuel gauge tank unit: test",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": ["fuel gauge tank unit"],
+      "steps": [
+        "Do not test the tank unit by pushing a metal rod through the filler neck to move the float arm; the rod can spark against the tank lip or ground the gauge unit.",
+        "Instead, unplug the leads from the installed tank unit and connect them to a known-good tank unit outside the tank."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fuel gauge tank unit (metering unit): remove and install",
+      "topic": "fuel",
+      "applies_to": "Corvette",
+      "parts": ["fuel gauge tank unit", "spare tire carrier", "cam lock", "rubber gasket", "strainer screen", "fuel lines"],
+      "steps": [
+        "Take the spare tire off the carrier.",
+        "Unbolt and remove the spare tire carrier.",
+        "Disconnect the tank gauge wires.",
+        "Drain the fuel tank.",
+        "Disconnect the fuel lines at the gauge unit.",
+        "Remove the cam lock with Tool J-8950.",
+        "Lift out the unit and its rubber gasket carefully so the screen on the pickup pipe end is not damaged.",
+        "Blow the strainer clean with compressed air.",
+        "Install in reverse order, always with a new gasket."
+      ],
+      "specs": [],
+      "notes": ["When starting the cam lock, the gasket may need slight compression by pressing down on the tool; once the lock is under the retaining tangs, pressure can be released."],
+      "continues": false
+    },
+    {
+      "title": "Fuel lines: routing",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": ["fuel lines", "flexible fuel hoses", "fuel line clamps"],
+      "steps": [
+        "Route the tank-to-pump fuel lines along the right frame rail.",
+        "Secure them to the frame or underbody with clamp-and-screw assemblies or riveted clips.",
+        "Use flexible hoses at the tank pickup and at the fuel pump (see figures 11-14 in the manual)."
+      ],
+      "specs": [],
+      "notes": ["Corvette uses a vented, anti-surge filler cap (no separate tank vent hoses)."],
+      "continues": true
+    }
+  ]
+}

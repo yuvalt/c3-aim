@@ -1,0 +1,53 @@
+{
+  "page": 297,
+  "source": "1968 Chevrolet Chassis Service Manual, Air Injection Reactor System, p.6T-6",
+  "procedures": [
+    {
+      "title": "A.I.R. pressure relief valve: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "pressure setting plug",
+        "pressure relief valve"
+      ],
+      "steps": [
+        "To remove the pressure setting plug, gently unlock its legs from the inside of the relief valve with a small screwdriver.",
+        "To install, push the plug into the relief valve until the legs lock; if reusing a plug, make sure the legs are bent out enough to lock."
+      ],
+      "specs": [],
+      "notes": [
+        "Setting plugs of different lengths set the opening pressure for each vehicle-engine combination and are color coded."
+      ],
+      "continues": false
+    },
+    {
+      "title": "A.I.R. pump exhaust tube: replace",
+      "topic": "emissions",
+      "applies_to": "all models (A.I.R.-equipped)",
+      "parts": [
+        "pump exhaust tube",
+        "exhaust elbow",
+        "elbow gasket"
+      ],
+      "steps": [
+        "Tube type: grip the tube in a vise or with pliers and pull it out with a twisting motion (see figure 10 in the manual).",
+        "Tube type: insert the new tube and tap it in, using a plate to protect its end, until about 7/8\" sticks out above the cover; support the pump as in figure 11 in the manual and do not clamp it while tapping.",
+        "Bolt-on type: remove the 2 bolts, elbow and gasket; fit the new elbow with a new gasket and torque the bolts to 20 ft. lbs."
+      ],
+      "specs": [
+        {
+          "what": "exhaust tube protrusion above cover",
+          "value": "approx. 7/8\""
+        },
+        {
+          "what": "bolt-on exhaust elbow bolts",
+          "value": "20 ft. lbs."
+        }
+      ],
+      "notes": [
+        "Special tools (figure 12 in the manual): J-7055-5 and J-6585."
+      ],
+      "continues": false
+    }
+  ]
+}

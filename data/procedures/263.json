@@ -1,0 +1,69 @@
+{
+  "page": 263,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine - Engine Mechanical V8, p.6-31",
+  "procedures": [
+    {
+      "title": "Oil pan (V8): install",
+      "topic": "engine",
+      "applies_to": "Corvette",
+      "parts": [
+        "oil pan",
+        "steering linkage",
+        "oil dip stick and tube",
+        "battery cables"
+      ],
+      "steps": [
+        "Install the oil pan and torque the bolts to specifications.",
+        "Corvette: reconnect the steering linkage.",
+        "Corvette: install the dip stick tube and dip stick, then connect the battery cables.",
+        "Corvette: fill the engine with oil, start it and check for leaks."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Oil pump (V8): remove and install",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "oil pump",
+        "extension shaft",
+        "rear main bearing cap",
+        "oil pump screen"
+      ],
+      "steps": [
+        "Remove the oil pan.",
+        "Remove the pump-to-rear main bearing cap bolt and take out the pump and extension shaft.",
+        "Installation: fit the pump and extension shaft to the rear main cap, lining up the slot in the top of the extension shaft with the tang on the bottom of the distributor drive shaft.",
+        "Install the pump-to-cap bolt and torque to specifications.",
+        "Install the oil pan."
+      ],
+      "specs": [],
+      "notes": [
+        "The pump screen's bottom edge must sit parallel to the oil pan rails."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear main bearing oil seal (V8): replace",
+      "topic": "engine",
+      "applies_to": "all V8 engines (incl. 327, 427)",
+      "parts": [
+        "rear main bearing oil seal",
+        "rear main bearing cap"
+      ],
+      "steps": [
+        "With oil pan and oil pump off, remove the rear main bearing cap.",
+        "Pry the seal half out of the cap from the bottom with a small screwdriver (see figure 9V in the manual).",
+        "Oil the lip of the new seal half, keeping oil off the parting-line faces (they are glue-treated); set it in the cap and roll it in with finger and thumb, lightly, so the tangs at the parting line do not cut the bead on the back of the seal."
+      ],
+      "specs": [],
+      "notes": [
+        "Both halves can be replaced without removing the crankshaft.",
+        "Always replace upper and lower halves together, lip facing the front of the engine."
+      ],
+      "continues": true
+    }
+  ]
+}

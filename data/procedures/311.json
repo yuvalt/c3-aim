@@ -1,0 +1,52 @@
+{
+  "page": 311,
+  "source": "1968 Chevrolet Chassis Service Manual, Engine Electrical, p.6Y-14",
+  "procedures": [
+    {
+      "title": "Indicator lamp / initial field excitation circuit: test",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["test lamp", "voltage regulator", "Delcotron generator", "field relay", "drive belt"],
+      "steps": [
+        "Step 2: move the test lamp's ground lead to connect across connector terminals \"F\" and \"4\".",
+        "If it lights, the regulator has an open circuit or the relay is stuck closed; repair per Service Operations.",
+        "If it stays dark, the fault is in the \"F\"-to-\"F\" wire or the field windings; go to step 3.",
+        "Step 3: move the lamp lead from the connector \"F\" terminal to the Delcotron \"F\" terminal.",
+        "If it lights, the wire between the \"F\" terminals is open; fix it. If dark, the Delcotron field is open; repair per Service Operations.",
+        "If the lamp stays on or the ammeter shows discharge, suspect: a loose drive belt (adjust), a bad field relay (test and adjust), a bad Delcotron (output test), an open parallel resistance wire at normal idle (or, on ammeter cars, an open field excitation wire to the \"ACC\" terminal), or, with the switch off, a shorted positive diode."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Field circuit resistance wire: check",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["resistance wire", "ignition harness", "test lamp"],
+      "steps": [
+        "Connect a test lamp from harness connector terminal \"4\" to ground (see figure 11c, step 1, in the manual).",
+        "Turn ignition ON and watch the test lamp.",
+        "Lamp lights: resistance wire is good.",
+        "Lamp dark: the resistor is open. (The dash lamp also stays dark in this test because the two bulbs in series draw too little current.)"
+      ],
+      "specs": [{"what": "resistance wire rating", "value": "10 ohms, 6.25 watts minimum"}],
+      "notes": ["The resistance wire is part of the ignition harness and cannot be soldered; repair it with a crimp-type connector."],
+      "continues": false
+    },
+    {
+      "title": "Field relay: check and adjust",
+      "topic": "electrical",
+      "applies_to": "all models",
+      "parts": ["field relay", "voltage regulator", "voltmeter"],
+      "steps": [
+        "Connect a voltmeter from regulator No. 2 terminal to ground (see figure 12c in the manual).",
+        "Run the engine at fast idle (1500 to 2000 rpm) and read the voltmeter.",
+        "If it reads zero at the regulator, check the circuit from regulator No. 2 terminal to the Delcotron \"R\" terminal."
+      ],
+      "specs": [{"what": "field relay check engine speed", "value": "1500 to 2000 rpm"}],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

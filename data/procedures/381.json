@@ -1,0 +1,34 @@
+{
+  "page": 381,
+  "source": "1968 Chevrolet Chassis Service Manual, Fuel Tank and Exhaust Systems, p.8-8",
+  "procedures": [
+    {
+      "title": "Fuel lines: inspect and clean",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": ["fuel lines", "fuel tank strainer"],
+      "steps": [
+        "Inspect the fuel lines now and then for leaks, kinks and dents.",
+        "If dirt shows up in the carburetor or fuel pump or during disassembly, disconnect the lines and blow them out.",
+        "Check that the in-tank fuel strainer is present and undamaged."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fuel line retainer clip: replace",
+      "topic": "fuel",
+      "applies_to": "all models",
+      "parts": ["fuel line riveted retainer clip"],
+      "steps": [
+        "Remove the old clip from the frame.",
+        "Set the new clip in the old clip's position.",
+        "Index the blind rivet and expand it with Tool J-7777 using firm hand pressure (see figure 15 in the manual)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

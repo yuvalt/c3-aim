@@ -1,0 +1,102 @@
+{
+  "page": 60,
+  "source": "1968 Chevrolet Chassis Service Manual, Heater and Air Conditioning, p.1A-41",
+  "procedures": [
+    {
+      "title": "Compressor: remove and install",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C compressor",
+        "connector assembly",
+        "O-rings",
+        "compressor belt"
+      ],
+      "steps": [
+        "Set the compressor on the mounting bracket and fit all nuts, bolts and lock washers.",
+        "Mount the connector assembly on the compressor rear head with new O-rings.",
+        "Reconnect the coil lead, then fit and adjust the compressor belt.",
+        "Evacuate and charge the system.",
+        "Leak test and check for correct operation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Compressor belt tension: adjust",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "compressor belt"
+      ],
+      "steps": [
+        "Set belt tension to the Tune-Up chart in the Engine section."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Compressor failure with metal debris",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "A/C compressor"
+      ],
+      "steps": [
+        "If a failed compressor contains metal chips or shavings, check the system for foreign material and clean it as under Foreign Material in the System."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Collision procedure: A/C system inspection",
+      "topic": "heater-ac",
+      "applies_to": "all models",
+      "parts": [
+        "condenser",
+        "receiver-dehydrator",
+        "compressor",
+        "evaporator",
+        "refrigerant lines",
+        "hoses",
+        "controls",
+        "clutch pulley",
+        "charging station"
+      ],
+      "steps": [
+        "Take off the drive belt, cutting it if necessary.",
+        "Look over the condenser, receiver-dehydrator, compressor, mounting brackets, conditioning unit, all lines and all controls for damage.",
+        "Do not solder, weld or braze the condenser; replace it if the vapor passages in its horizontal tubes, return bends or manifolds are damaged at all.",
+        "Replace the receiver-dehydrator if it shows any internal damage, a fractured line or welded joint, or the system has been open to air for an unknown time.",
+        "Check the compressor for outside damage.",
+        "Check the evaporator; remove, replace or process the whole unit if damaged or exposed to air.",
+        "Inspect every line and flexible hose along its full length and replace any that are damaged.",
+        "Check all controls and wires and replace damaged parts.",
+        "Check that the clutch pulley works freely and is undamaged.",
+        "Hook up the Charging Station.",
+        "Purge the system; pressure should be no more than 3 to 5 pounds.",
+        "Take the compressor off its mount and remove the oil test fitting.",
+        "Empty the oil into a clean glass container and look for dirt, water, metal particles or other contamination; if present, replace the compressor and receiver-dehydrator and flush the other components with liquid refrigerant.",
+        "If the oil is clean, refill with Frigidaire 525 viscosity oil: a full charge if components were replaced or flushed, otherwise no more than was drained.",
+        "Pressurize the compressor to drum or can pressure and leak test its seals before installing it.",
+        "Refit the compressor and evacuate the system per the Evacuating Procedure.",
+        "Admit R-12 vapor at cylinder room temperature and pressure.",
+        "Leak test every fitting and connection, especially the compressor shaft seal if it was not bench tested.",
+        "Finish processing and charge the system."
+      ],
+      "specs": [
+        {
+          "what": "purge pressure, max",
+          "value": "3 to 5 pounds"
+        }
+      ],
+      "notes": [
+        "Inspect a collision-damaged A/C car as soon as possible; the longer the system is open, the more air, moisture and dirt get in. Use judgment, each case differs."
+      ],
+      "continues": false
+    }
+  ]
+}
