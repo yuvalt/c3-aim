@@ -1,0 +1,50 @@
+name: Fastener size (I measured it / I have a source)
+description: Add the size of a GM fastener used in the 1970 Corvette AIM
+title: "Size: GM "
+labels: ["fastener-size"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Unknown sizes are listed in `data/review/fastener_status.csv`. One part number per issue, please.
+  - type: input
+    id: pn
+    attributes:
+      label: GM part number
+      placeholder: "9418719"
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where it's used (AIM sheet/item, or describe)
+      placeholder: "K3 item 11, door window reveal molding"
+  - type: input
+    id: size
+    attributes:
+      label: Size
+      description: Thread x length for screws/bolts; thread for nuts; ID x OD x thickness for washers.
+      placeholder: "#8-18 x 3/4"
+    validations:
+      required: true
+  - type: input
+    id: head
+    attributes:
+      label: Head / drive / finish (if known)
+      placeholder: "oval head, Phillips, chrome"
+  - type: dropdown
+    id: how
+    attributes:
+      label: How do you know?
+      options:
+        - I measured an original part from my car
+        - I measured a NOS part in GM packaging
+        - GM catalog (please name it and the page)
+        - Vendor listing (please link it)
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes, links, photos
