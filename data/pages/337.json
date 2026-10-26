@@ -1,0 +1,90 @@
+{
+  "page": 337,
+  "group": "C60",
+  "sheet": "E8",
+  "title": "AIR CONDITIONING-GENERAL SPECS & PROCEDURES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "text",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60) plant procedures: evacuating and charging the A/C system (vacuum level and hold-time limits), refrigerant leak test limits, and the cooling functional test with required outlet temperature drop. No parts installed.",
+  "parts": [],
+  "torques": [],
+  "materials": [
+    {
+      "key": "",
+      "code": "150a",
+      "description": "REFRIGERANT (see UPC 0)",
+      "amount": "",
+      "where": "Evacuate & charge step 3: charge the system with the specified amount"
+    }
+  ],
+  "fastening": [],
+  "notes": [
+    "Evacuate & charge: 1) Attach vacuum-charging lines to the Schrader fittings. 2) Evacuate to at least 25 mm Hg absolute; after a 15-second hold (time between vacuum disconnect and charge connect) pressure must not exceed 28 mm Hg absolute. Longer hold times allow the limits in Table #1. 3) Charge with the specified amount of refrigerant (150a, see UPC 0). 4) Disconnect the lines and cap the fittings.",
+    "Leak test detector sensitivity: compressor seal and sight glass - no leak at 1 lb in 5 years; suction throttling valve diaphragm - 1 lb in 10 years; all other lines, connections and components - 1 lb in 40 years.",
+    "Cooling functional test: doors or windows open; temperature indicators at condenser inlet and RH upper cooling outlet; close LH side, center and lower RH outlets; set temperature pointer .3 in. to rear of \"COLD\" (outside air, water valve closed), outlets pointer at \"A/C\" (full forward), blower on HIGH; run engine at 2000 RPM; after one minute check the RH upper outlet temperature drop."
+  ],
+  "notes_internal": [
+    "Page heading 'PROCEDURES & ?T SPECIFICATIONS' has a hole punch through one word (probably TEST); not transcribed.",
+    "Title block: drawing 3965172; DR /C1, CK 5-8-69 C1, C/O box reads E6 although sheet is E8. No revisions.",
+    "Materials tag 150a has no lettered key on this sheet."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "TABLE #1",
+      "columns": [
+        "Elapsed Time Between Evacuation and Charge",
+        "Acceptable Evacuation Level (mm Hg)"
+      ],
+      "rows": [
+        [
+          "15-30 seconds",
+          "28 mm Hg"
+        ],
+        [
+          "31-60 seconds",
+          "30 mm Hg"
+        ],
+        [
+          "61-90 seconds",
+          "35 mm Hg"
+        ],
+        [
+          "91 seconds and over",
+          "40 mm Hg"
+        ]
+      ]
+    },
+    {
+      "title": "Cooling functional test",
+      "columns": [
+        "Condenser Inlet Temp. (F°)",
+        "R.H. Upper Outlet Temp. Drop (F° Minimum)"
+      ],
+      "rows": [
+        [
+          "70",
+          "20"
+        ],
+        [
+          "80",
+          "25"
+        ],
+        [
+          "90-100",
+          "30"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

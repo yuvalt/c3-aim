@@ -1,0 +1,317 @@
+{
+  "page": 317,
+  "group": "C60",
+  "sheet": "C2",
+  "title": "AIR CONDITIONING-ENGINE, MOUNTING COMPRESSOR, FAN, BELTS & PULLEYS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "454 engine cars with air conditioning (C60): compressor, fan blade, water pump belt idler pulley and the belts (water pump belt 1st track, compressor belt 3rd track). The idler pulley [3] mounts on the front of the engine with a bolt [12] through a spacer [9], and a nut [13] on a stud [16] with spacer [17] (View A); the compressor mounting assembly is screwed down with screw [8] with shim [7] as needed. Generator, fan clutch, pulleys and compressor mounting otherwise assemble as on the LS5 sheets.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "11??884",
+      "name": "GENERATOR ASM",
+      "name_expanded": "Generator (alternator) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3993889",
+      "name": "BLADE ASM-FAN",
+      "name_expanded": "Fan blade assembly (engine cooling fan)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3952332",
+      "name": "PULLEY ASM-IDLER",
+      "name_expanded": "Idler pulley assembly (water pump belt)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3952336",
+      "name": "BELT-W/PUMP (1ST TRACK)",
+      "name_expanded": "Belt - water pump drive (1st track)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "5910740",
+      "name": "COMPRESSOR",
+      "name_expanded": "A/C compressor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3969948",
+      "name": "BELT-COMP (3RD TRACK)",
+      "name_expanded": "Belt - A/C compressor drive (3rd track)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3910756",
+      "name": "SHIM",
+      "name_expanded": "Shim - compressor mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3786494",
+      "name": "SCREW ASM",
+      "name_expanded": "Screw assembly - compressor mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3952335",
+      "name": "SPACER",
+      "name_expanded": "Spacer - idler pulley bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9419276",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103328",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9418966",
+      "name": "BOLT",
+      "name_expanded": "Bolt - idler pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "120377",
+      "name": "NUT",
+      "name_expanded": "Nut - idler pulley stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3925596",
+      "name": "STUD",
+      "name_expanded": "Stud - idler pulley bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3925594",
+      "name": "SPACER",
+      "name_expanded": "Spacer - idler pulley stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "22-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "12",
+        "11",
+        "10"
+      ],
+      "holds": [
+        "3",
+        "9"
+      ],
+      "to": "front of engine",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bolt [12] with lock washer [11] and plain washer [10] goes through the idler pulley assembly [3] and the tubular spacer [9] into the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "17"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "front of engine",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: stud [16] threads into the engine, spacer [17] sits on it behind the idler bracket, and the idler pulley bracket [3] goes over the stud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "14",
+        "15"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "stud [16]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: nut [13] with lock washer [14] and plain washer [15] on stud [16] clamps the idler bracket [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "7"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "compressor mounting assembly (production, assembles same as LS5)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw [8] goes up through the compressor mounting assembly at the lower bracket; shim [7] fits between the mounting brackets as needed (shim sequence on sheet C4).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Assembles same as RPO LS5",
+    "[B] Belt strand tension-See UPC 6",
+    "[C] CAUTION: Do not remove shipping straddle plate & plugs from compressor rear until just before the hoses are assembled to it, to keep air out of the system."
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 3-4; visible '11' + '884'.",
+    "Stud [16]: drawn with an empty triangle (no number); torque_ref left null.",
+    "Fan [2], generator [1], water pump/crank pulleys, fan clutch: tagged A (assemble same as RPO LS5); fastening not drawn here.",
+    "Compressor [5]: only its mounting screw [8]/shim [7] shown; exact stack of shim [7] relative to the brackets is not clear in the drawing.",
+    "Belts [4], [6]: routing only; tension per note B.",
+    "Rev 1 date first digit unclear."
+  ],
+  "revisions": [
+    {
+      "date": "?-28-69",
+      "sym": "1",
+      "text": "ITEM 4 ROUTING RVD 2 PLACES",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "4-24-70",
+      "sym": "2",
+      "text": "WAS 3969926 BLADE ASM.",
+      "was": "3969926",
+      "item": "2"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 103322 L. WASHER",
+      "was": "103322",
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

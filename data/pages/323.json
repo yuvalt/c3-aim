@@ -1,0 +1,63 @@
+{
+  "page": 323,
+  "group": "C60",
+  "sheet": "C8",
+  "title": "AIR CONDITIONG-CARB. CAP",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) on the 454 (RPO LS5): a cap [1] is pushed onto an unused vacuum fitting on the side of the carburetor base. No fasteners.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3940920",
+      "name": "CAP",
+      "name_expanded": "Cap – carburetor vacuum fitting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "carburetor fitting (side of carburetor near the base)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cap [1] presses onto the fitting; no fastener.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Title misspelled 'CONDITIONG' on the sheet; copied as printed.",
+    "Torque legend triangles printed blank."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60",
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

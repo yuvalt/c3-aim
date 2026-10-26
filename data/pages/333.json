@@ -1,0 +1,188 @@
+{
+  "page": 333,
+  "group": "C60",
+  "sheet": "E4",
+  "title": "AIR CONDITIONING-FRONT VACUUM HOSES & WSWA RESERVOIR",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) engine-compartment vacuum hose routing to the plenum air valve actuator and water valve, plus the relocated windshield washer (WSWA) fluid reservoir (washer jar) at the front corner. The reservoir hangs on a bracket, and a shield sits beside it; both are riveted to the inner panel. The washer hose runs from the filter in the reservoir to the washer pump. The A/C harness fuse holder lead routes along the engine harness to the horn relay battery terminal.",
+  "parts": [
+    {
+      "item": "2",
+      "pn": "3799677",
+      "name": "HOSE",
+      "name_expanded": "Hose – windshield washer reservoir to pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3961549",
+      "name": "RESERVOIR ASM.",
+      "name_expanded": "Reservoir assembly – windshield washer fluid jar",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3828548",
+      "name": "RIVET",
+      "name_expanded": "Rivet",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3954251",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – washer reservoir",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3954252",
+      "name": "SHIELD",
+      "name_expanded": "Shield – washer reservoir",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3760369",
+      "name": "FILTER ASM.",
+      "name_expanded": "Filter assembly – washer reservoir pickup",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "inner front panel (radiator support / fender skirt area)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: rivets [4] go through the holes in the panel to fasten the reservoir bracket [5] and the shield [6]. Hole info in Section 0.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "bracket [5]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the reservoir [3] hooks over / sits in the U-shaped bracket [5]; no separate fastener shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "7"
+      ],
+      "to": "reservoir [3] and washer pump",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [2] enters the reservoir top and ends in filter [7] at the bottom; the other end runs along the harness to the washer pump.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "A/C vacuum hose"
+      ],
+      "to": "production vacuum hose (yellow stripe)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: cut the production yellow-stripe vacuum hose and connect it to the A/C vacuum hose; hoses held by production clamp and grommet at the dash.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: For hole info see Section 0.",
+    "NOTE: Route wire along Eng Wrg Harn & Gen & Fwd Lamp Harn & connect to \"Battery\" terminal on Horn Relay.",
+    "NOTE: Cut prod. vac hose, yellow stripe, & connect to A/C vac hose.",
+    "FUSE HOLDER & FUSE (Part of A/C Harn Asm)"
+  ],
+  "notes_internal": [
+    "Item 1: blank line; revision 4 '3891759 CLAMP RMV'D' (circled 4 beside it).",
+    "Reservoir [3] attachment to bracket [5]: inferred from View A shape, no fastener shown.",
+    "Torque legend triangles are empty; no torques on this sheet."
+  ],
+  "revisions": [
+    {
+      "date": "12-18-69",
+      "sym": "1",
+      "text": "HOSE ROUTING REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW B REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "PUMP DRAWING REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "2-24-70",
+      "sym": "4",
+      "text": "3891759 CLAMP RMV'D",
+      "was": "3891759",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "HOSE ROUTING REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

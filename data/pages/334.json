@@ -1,0 +1,177 @@
+{
+  "page": 334,
+  "group": "C60",
+  "sheet": "E5",
+  "title": "AIR CONDITIONING-CONTROL SYSTEM & WIRING DIAGRAM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60) control system and wiring diagram, part 1 of 2 (continues on E6): the dash A/C control head with temperature and outlets dial pointers, the fan speed switch, the master switch S1 and compressor/optional blower switch S2, the vacuum hose colors running to the diverter doors and actuators, and the power feed from the horn relay BAT terminal through an in-line fuse holder. Also shows the 16 DG wire to the compressor clutch coil. No part numbers; tables give the switch contact positions.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Div. Door in bi-level posn (Spring held).",
+    "Power feed: 12 OR wire from the fuse holder (in-line) to the A/C harness; 10 R wire from the horn relay \"BAT\" terminal to the fuse holder; dashed production wiring to battery positive (+) terminal and to the ignition switch (accessory term) and fuse panel.",
+    "Compressor (clutch coil) fed by 16 DG wire; 14 B wire asm. at the compressor."
+  ],
+  "notes_internal": [
+    "Wiring diagram only; no callouts, part numbers, torques or materials, so no parts/fastening.",
+    "Top-left label above 'WIRE ASM.' is hidden by a hole punch (one or two characters).",
+    "Title block: drawing 3965172; DR RT/C1, CK 4-18-69 C1, PREL E1 3/27/69; L-93766, L-94897. Rev 1 AUTH 28321 DR JD CK C1. Adjoining sheet key: E6, E5.",
+    "Wire routes not traced beyond the endpoints labeled in the drawing."
+  ],
+  "revisions": [
+    {
+      "date": "1-7-70",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "POWER SWITCH OPERATION - CONTACT POSITION OF S1 & S2",
+      "columns": [
+        "Dial Pointer",
+        "S1 Master Switch",
+        "S2 Comp & Opt Blower Sw"
+      ],
+      "rows": [
+        [
+          "Off",
+          "OPEN",
+          "CLOSED"
+        ],
+        [
+          "Inside",
+          "CLOSED",
+          "CLOSED"
+        ],
+        [
+          "Outside",
+          "CLOSED",
+          "CLOSED"
+        ],
+        [
+          "Bi-level",
+          "CLOSED",
+          "CLOSED"
+        ],
+        [
+          "Vent",
+          "CLOSED",
+          "OPEN"
+        ],
+        [
+          "Htr",
+          "CLOSED",
+          "OPEN"
+        ],
+        [
+          "De-Fog",
+          "CLOSED",
+          "OPEN"
+        ],
+        [
+          "De-Ice",
+          "CLOSED",
+          "OPEN"
+        ]
+      ]
+    },
+    {
+      "title": "Wires and connections shown",
+      "columns": [
+        "Wire / hose",
+        "Connects"
+      ],
+      "rows": [
+        [
+          "16 Y",
+          "Fan speed switch terminal 2; continues to E6"
+        ],
+        [
+          "16 LG",
+          "Fan speed switch terminal 3; continues to E6"
+        ],
+        [
+          "14 LBL",
+          "Fan speed switch terminal 4; continues to E6"
+        ],
+        [
+          "18 DBL",
+          "Fan speed switch terminal 5; continues to E6"
+        ],
+        [
+          "16 T",
+          "Labeled at harness top and near switches S1/S2 (bottom); route not traced"
+        ],
+        [
+          "16 GY",
+          "At switch S1 / S2 area"
+        ],
+        [
+          "16 LG",
+          "At switch S2"
+        ],
+        [
+          "14 BRN",
+          "Labeled near switches S1/S2 and the ignition switch/fuse panel feed; route not traced"
+        ],
+        [
+          "12 OR",
+          "Fuse holder (in-line) to harness; continues to E6"
+        ],
+        [
+          "10 R",
+          "Horn relay BAT terminal to fuse holder"
+        ],
+        [
+          "16 DG",
+          "Compressor clutch coil; continues to E6"
+        ],
+        [
+          "14 B",
+          "Wire asm. at compressor"
+        ],
+        [
+          "Vacuum hoses BLUE, TAN, RED, PINK, BLACK, WHITE, GREEN, YELLOW",
+          "Control head vacuum valve to door actuators and vac supply source"
+        ]
+      ]
+    },
+    {
+      "title": "Control head dial positions",
+      "columns": [
+        "Dial",
+        "Positions"
+      ],
+      "rows": [
+        [
+          "FAN (lever)",
+          "OFF, LO, M1, M2, HI"
+        ],
+        [
+          "Outlets dial",
+          "OFF, MAX A/C, NORM A/C, BI-LEVEL, VENT, HTR, DE ICE"
+        ],
+        [
+          "Temp dial",
+          "C to H"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

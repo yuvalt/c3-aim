@@ -1,0 +1,180 @@
+{
+  "page": 347,
+  "group": "LJ2",
+  "sheet": "A7",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2- CARBURETOR LINKAGE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "454 3x2 (triple two-barrel, tri-power) option LJ2, canceled before production: throttle linkage between the center and front/rear carburetors, throttle cable bracket and return spring. Rods are retained at the carburetor levers by clips; the cable bracket sits on a carburetor attaching stud under the carb nut, and the cable is held to it by a production clamp and screw.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "392196?",
+      "name": "CLIP",
+      "name_expanded": "Clip (rod center-to-rear)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3921959",
+      "name": "ROD-CTR TO RR",
+      "name_expanded": "Throttle rod, center to rear carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "???????",
+      "name": "ROD-CTR TO FRT",
+      "name_expanded": "Throttle rod, center to front carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3931076",
+      "name": "CLIP",
+      "name_expanded": "Clip (rod center-to-front)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3973861",
+      "name": "CABLE ASM.",
+      "name_expanded": "Accelerator (throttle) cable assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3972629",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Throttle cable bracket assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3972631",
+      "name": "SPRING",
+      "name_expanded": "Throttle return spring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "carburetor throttle lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clip [4] retains the end of rod [3] in the lever hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "carburetor throttle lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View C: clip [1] retains the end of rod [2] in the lever hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "carburetor attaching stud",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: bracket [6] goes over a carburetor attaching stud and is held by the carb attaching nut (production part, no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "bracket [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: cable [5] is held to the bracket end by a production clamp and production screw (no callouts); cable end connects to the carb lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "bracket [6] and carb lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: return spring [7] hooks between the bracket and the carburetor throttle lever.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Sheet status: revision 1 reads 'RPO LJ1 CANCELED' (sic, title block UPC is LJ2); treated as canceled. Title block also shows PREL A2 2-27-69.",
+    "Item 1 pn: last digit lost at edge of print, reads 392196?.",
+    "Item 3 pn: blacked out by a smudge/punch, unreadable.",
+    "Callout [5] has a half-filled circle symbol next to it with no legend on the sheet.",
+    "Revision date reads 6-16-69 (handwritten, fairly clear).",
+    "Page stamped K345 at left margin."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

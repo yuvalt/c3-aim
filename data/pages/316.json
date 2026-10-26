@@ -1,0 +1,242 @@
+{
+  "page": 316,
+  "group": "C60",
+  "sheet": "C1",
+  "title": "AIR CONDITIONING-COMPRESSOR, FAN BELT & PULLEYS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "350 engine cars with air conditioning (C60): front-of-engine drive layout with the A/C compressor, generator (alternator) with its fan and pulley, crankshaft pulley, water pump pulley, fan clutch and fan, and the compressor belt (2nd track) and generator belt (3rd track). The fan bolts to the fan clutch with bolts [5]; the clutch/pulley stack goes onto the water pump hub studs with production nuts and lock washers; the alternator pulley and fan are held by the alternator's own shaft nut and washer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1100884",
+      "name": "GENERATOR ASM.",
+      "name_expanded": "Generator (alternator) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1966990",
+      "name": "FAN",
+      "name_expanded": "Fan - generator (alternator cooling fan)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1949356",
+      "name": "PULLEY-GEN",
+      "name_expanded": "Pulley - generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3937771",
+      "name": "CLUTCH ASM.-FAN BLADE",
+      "name_expanded": "Fan clutch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419030",
+      "name": "BOLT",
+      "name_expanded": "Bolt - fan to fan clutch",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3911013",
+      "name": "PULLEY-CR/SHF",
+      "name_expanded": "Pulley - crankshaft",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3991410",
+      "name": "BELT-COMPRESSOR (2ND TRACK)",
+      "name_expanded": "Belt - A/C compressor drive (2nd track)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3876846",
+      "name": "PULLEY-WATER PUMP",
+      "name_expanded": "Pulley - water pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "5910741",
+      "name": "COMPRESSOR",
+      "name_expanded": "A/C compressor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3959166",
+      "name": "BELT-GEN (3RD TRACK)",
+      "name_expanded": "Belt - generator/alternator drive (3rd track)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3955182",
+      "name": "FAN",
+      "name_expanded": "Fan blade assembly (engine cooling fan)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "11",
+        "4"
+      ],
+      "to": "fan clutch [4]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [5] with a production lock washer goes through the fan [11] hub into the fan clutch [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4",
+        "8"
+      ],
+      "to": "water pump hub studs",
+      "qty": null,
+      "torque_ref": null,
+      "note": "The fan clutch [4] (with fan) and water pump pulley [8] slide onto the production studs on the water pump hub and are held by a production nut and lock washer on each stud (arrow A shows assembly direction). The studs are part of the water pump, no callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "crankshaft / harmonic balancer",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Crankshaft pulley [6] is held by a production screw assembly (no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "generator shaft",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Generator pulley [3] and fan [2] go on the generator shaft and are held by the generator's own washer and nut (marked GEN, supplied with the generator; no callout).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Belt strand tension-See UPC 6",
+    "[B] CAUTION: Do not remove shipping straddle plate & plugs from compressor rear until just before the hoses are assembled to it, to keep air out of the system.",
+    "[C] Shield must remain on water pump bearing hub until water pump pulley is installed."
+  ],
+  "notes_internal": [
+    "Torque legend shows only triangle 1 filled in; triangles 2-5 are blank.",
+    "Generator [1], compressor [9]: mounting brackets not on this sheet (see C3 compressor mounting); no fastening here.",
+    "Belts [7], [10]: route only, tension per UPC 6 (note A).",
+    "Rev 1 old generator number: 4th digit from the end is ambiguous (8 or 3); written as '?'.",
+    "Half-filled square symbols labeled GEN and ENG appear next to the generator nut/washer and View A; likely source-of-supply marks, not material tags."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "WAS 1100?25 GENERATOR",
+      "was": "1100?25",
+      "item": "1"
+    },
+    {
+      "date": "11-18-69",
+      "sym": "2",
+      "text": "VIEW 'A' ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "NOTE \"C\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "4-24-70",
+      "sym": "4",
+      "text": "WAS 3880858 BELT",
+      "was": "3880858",
+      "item": "7"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "page": 327,
+  "group": "C60",
+  "sheet": "D4",
+  "title": "AIR CONDITIONING-HEATER HOSES & WATER VALVE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) heater hoses and water (heater control) valve on 350 engines (except 454). The valve [1] is screwed to the evaporator case with screw [13]; hoses [3], [5], [6] run between the heater core pipes, valve, intake manifold and water pump with clamps [2]/[4]. Clip [7] holds hose [6] at the compressor mount: bolt [12] with lock washer [9] and nut [8], and bolt [10] with nut [11] (View B).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3????42",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – heater water valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "2467789",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose at heater core pipes",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3955961",
+      "name": "HOSE",
+      "name_expanded": "Hose – heater",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9423574",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3963739",
+      "name": "HOSE",
+      "name_expanded": "Hose – heater (to manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3955959",
+      "name": "HOSE",
+      "name_expanded": "Hose – heater (to water pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3853968",
+      "name": "CLIP",
+      "name_expanded": "Clip – heater hose at compressor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "120368",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "180129",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9422297",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "181610",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9419321",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "90-130",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "evaporator case bracket",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: screw [13] goes through the valve [1] mounting flange.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "heater core pipes",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamps [2] on the hoses at the heater core pipes.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3",
+        "5",
+        "6"
+      ],
+      "to": "water valve [1] nipples and manifold fitting",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clamps [4] at the valve ends of hoses (View A) and on hose [5] at the manifold.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "9",
+        "8"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "compressor mounting",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View B: bolt [12] goes through the compressor mount and the upper eye of clip [7]; lock washer [9] and nut [8] on the end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "compressor mounting parts",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View B: bolt [10] goes through the lower eye of clip [7] into the compressor mounting; nut [11] on the far side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "clip [7]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [7] wraps hose [6] near the water pump; a production clip holds the hose to the blower case.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1 pn: hole punch wipes the middle digits; visible '3' + '42' (7 digits assumed).",
+    "View B: bolt [10]/nut [11] pairing read from the dashed line; nut [11] could be on a separate stud.",
+    "Revision 1 '(SEE SHT C2) REMOVED': item not stated.",
+    "Hose [6] water pump end and hose [3] heater core end clamps: 2 vs 4 read per leader lines."
+  ],
+  "revisions": [
+    {
+      "date": "6-13-69",
+      "sym": "1",
+      "text": "(SEE SHT C2) REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-12-69",
+      "sym": "2",
+      "text": "WAS 3949878 VALVE ASM",
+      "was": "3949878",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3955920 CLAMP",
+      "was": "3955920",
+      "item": "2"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

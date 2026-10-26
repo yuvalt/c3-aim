@@ -1,0 +1,147 @@
+{
+  "page": 361,
+  "group": "LS5",
+  "sheet": "B5",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- RADIATOR SEALS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 radiator support foam seals (air dam / baffle seals around the radiator): the support-to-hood seal on top of the upper rail, upper and lower seals, and RH/LH side seals on the radiator support. Two push-in fasteners hold seals to the support; the other seals simply sit on the support flanges (no retention shown).",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3????92",
+      "name": "SEAL-SUPT TO HOOD",
+      "name_expanded": "Seal – radiator support to hood",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3966650",
+      "name": "SEAL-SUPT R. H.",
+      "name_expanded": "Seal – radiator support RH side",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3966648",
+      "name": "SEAL-SUPT UPR",
+      "name_expanded": "Seal – radiator support upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3954570",
+      "name": "SEAL-SUPT LWR",
+      "name_expanded": "Seal – radiator support lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3966647",
+      "name": "SEAL-SUPT L. H.",
+      "name_expanded": "Seal – radiator support LH side",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3966532",
+      "name": "FASTENER",
+      "name_expanded": "Fastener – push-in seal retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "LH side of radiator support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Push-in fastener [6] goes through LH seal [5] into a hole in the support side (dashed line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [],
+      "to": "radiator support upper rail, LH end",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Second fastener [6] goes through the foam seal on the inner upper rail at the LH end; which callout that seal belongs to is not marked.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "top of radiator support upper rail",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Seal [1] runs along the top of the upper rail, sealing against the hood; retention not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "3",
+        "4"
+      ],
+      "to": "radiator support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "RH side seal [2] (dashed lines to the support RH side), upper seal [3] under the upper rail, lower seal [4] along the lower rail; no fastener or adhesive shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch covers middle digits; visible '3' + '92'. Assumed 7 digits.",
+    "Item 1 has a filled/half-filled circle symbol in the drawing.",
+    "Revision block blank; K359 in margin."
+  ],
+  "revisions": [],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

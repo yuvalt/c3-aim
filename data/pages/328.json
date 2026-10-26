@@ -1,0 +1,195 @@
+{
+  "page": 328,
+  "group": "C60",
+  "sheet": "D5",
+  "title": "AIR CONDITIONING-RADIATOR SUPPLY TANK",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) cars with the 454 engine: the radiator supply tank (coolant expansion / surge tank) mounted on the inner fender skirt in the engine compartment. Two brackets are screwed to the fender skirt with screw-and-washer at dimpled holes; two strap clamps wrap the tank and are screwed to the brackets. The pressure cap goes on the tank filler neck.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "9420?51",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "118664",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3956047",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – supply tank, rear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3956045",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – supply tank strap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9418916",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3019249",
+      "name": "TANK ASM.",
+      "name_expanded": "Radiator supply tank assembly (coolant surge / expansion tank)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3956046",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly – supply tank, front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "861042",
+      "name": "CAP ASM.",
+      "name_expanded": "Cap assembly – supply tank pressure cap",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "120-180",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "fender skirt",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [1] with washer [2] goes through a dimpled 19/64 hole in the fender skirt into the front bracket asm. [7] behind it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "fender skirt",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [1] with washer [2] goes through the second dimpled 19/64 hole in the fender skirt into the rear bracket [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4",
+        "6"
+      ],
+      "to": "brackets [3] and [7]",
+      "qty": "2 (one per clamp)",
+      "torque_ref": "1",
+      "note": "Each strap clamp [4] wraps under the tank [6]; screw asm. [5] goes through the clamp's upper ear into the ear of bracket [3] or [7], clamping the tank between bracket and strap.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "tank [6] filler neck",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cap [8] fits on the tank's filler neck (shown near bracket [7]).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "DIMPLES 19/64 +0 -1/64 DIA. (2) HOLES"
+  ],
+  "notes_internal": [
+    "Item 1: fifth digit broken in the scan (looks like a partial 7); left as '?'.",
+    "Revision date handwritten and unclear; reads roughly '6-69-6?'.",
+    "Two dimple callouts in the drawing (one per screw location)."
+  ],
+  "revisions": [
+    {
+      "date": "6-?-6?",
+      "sym": "1",
+      "text": "WAS 361042 CAP",
+      "was": "361042",
+      "item": "8"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

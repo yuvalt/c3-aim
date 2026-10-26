@@ -1,0 +1,140 @@
+{
+  "page": 324,
+  "group": "C60",
+  "sheet": "D1",
+  "title": "AIR CONDITIONING-FITTING & MUFFLER ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) compressor fitting, muffler & tube assembly (the block fitting on the back of the A-6 compressor with the muffler can and tubes to the condenser inlet hose and the suction throttling valve). One bolt with plain and lock washer clamps the fitting to the compressor rear head over two O-rings. Separate numbers for 350 and 454 engines.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3992??4",
+      "name": "COMPRESSOR FTG, MUFFLER & TUBE ASM. (350 ENG.)",
+      "name_expanded": "Compressor fitting, muffler & tube assembly – 350 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3949928",
+      "name": "COMPRESSOR FTG, MUFFLER & TUBE ASM. (350 ENG.)",
+      "name_expanded": "Compressor fitting, muffler & tube assembly – 454 engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "120394",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "181641",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "14a",
+      "description": "OIL REFRIGERANT",
+      "amount": ".00625 QTS",
+      "where": "existing O-rings between fitting [1] and compressor rear head"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4",
+        "3",
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "compressor rear head (center threaded hole)",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Bolt [4] goes through lock washer [3], plain washer [2] and the fitting block of [1] into the back of the compressor; the two existing compressor O-rings (oiled with 14a) seal the suction and discharge ports.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "14a",
+      "holds": [
+        "1"
+      ],
+      "to": "compressor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Existing compressor O-rings (no callout) seal the fitting; lubricate with 14a refrigerant oil.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "EXISTING 'O' RING (14a)"
+  ],
+  "notes_internal": [
+    "Item 1 (350 eng.) pn: hole punch wipes digits 5-6; visible '3992' + '4'.",
+    "Line 2 of item 1 prints only '454 ENG.'; name repeated from line above.",
+    "Name printed 'COMPRESSOI: FTG' (damaged R)."
+  ],
+  "revisions": [
+    {
+      "date": "5-18-70",
+      "sym": "1",
+      "text": "WAS 3963760 COMP.FTG, MUFF.",
+      "was": "3963760",
+      "item": "1"
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "page": 321,
+  "group": "C60",
+  "sheet": "C6",
+  "title": "AIR CONDITIONING-CARB. SOLENOID & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. Air-conditioned engine with manual transmission (M20, M21): idle-speed solenoid on the carburetor. Bracket assembly [7] bolts to the carburetor with bolts [1] and [6]; the solenoid [4] sits in clamp [5], fastened to the bracket by clamp bolt [2] with washer [3]; an extension [9] is screwed to the throttle lever with screw [8] and nut [10] (View A) for the solenoid plunger to push on.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "94???34",
+      "name": "BOLT",
+      "name_expanded": "Bolt - bracket to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "121887",
+      "name": "BOLT",
+      "name_expanded": "Bolt - solenoid clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "606404",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "1114418",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly (idle speed solenoid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3940918",
+      "name": "CLAMP ASM.",
+      "name_expanded": "Clamp assembly - solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "180080",
+      "name": "BOLT",
+      "name_expanded": "Bolt - bracket lower foot",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3940916",
+      "name": "BRACKET ASM.",
+      "name_expanded": "Bracket assembly - solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "191985",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3940922",
+      "name": "EXTENSION",
+      "name_expanded": "Extension - throttle lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "271172",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "84-120",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "40-60",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "carburetor (top)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [1] goes down through the top of bracket assembly [7] into the carburetor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "carburetor base / manifold",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [6] goes down through the lower foot of the bracket [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "5",
+        "4"
+      ],
+      "to": "bracket [7]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Clamp bolt [2] with plain washer [3] clamps the clamp [5] around the solenoid [4] to the bracket; leave loose until the plunger is set (procedure step 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8",
+        "10"
+      ],
+      "holds": [
+        "9"
+      ],
+      "to": "carburetor throttle lever",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [8] goes through the throttle lever and extension [9], with nut assembly [10] on the other side.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Solenoid & carburetor adjustment, preconditions: engine running; choke and fast idle fully off; A/C compressor on.",
+    "1) Set throttle by hand to 1000 RPM using the tachometer. 2) Fit the energized solenoid loosely in the bracket, slide it up until the plunger just touches the throttle lever extension (text says item [8]), then tighten clamp bolt [2] to torque. 3) Recheck idle (1000 RPM); if off, adjust the plunger hex nut (A)."
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED (rev 1, CANCELLED STICKER ADDED).",
+    "Item 1: binder hole covers the middle digits; visible '94' + '34'; digit count assumed 7 from spacing.",
+    "Title block model reads '19000 (RPO L?? W/RPO M20, M21)'; engine RPO code is blotted (looks like 'LJ2', probably LT1 but not readable).",
+    "Procedure text calls the throttle lever extension item 8, but the callout list has extension = item 9 (screw = 8).",
+    "Nut (A) on the solenoid plunger is part of the solenoid (half-filled square, no callout)."
+  ],
+  "revisions": [
+    {
+      "date": "10-3-69",
+      "sym": "1",
+      "text": "CANCELLED STICKER ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

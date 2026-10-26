@@ -1,0 +1,197 @@
+{
+  "page": 326,
+  "group": "C60",
+  "sheet": "D3",
+  "title": "AIR CONDITIONING-REFRIGERANT HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) refrigerant hoses along the engine compartment side: hose assembly [8] and the condenser inlet hose run from the compressor fitting & muffler toward the front, held together by clip [1] and to the body by clip [3] with screw [2], near a dimpled 19/64 hole. Nut asm [4] sits on the panel nearby.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3770259",
+      "name": "CLIP",
+      "name_expanded": "Clip – hose to hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3856691",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3825416",
+      "name": "CLIP",
+      "name_expanded": "Clip – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3866846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3949930",
+      "name": "HOSE ASM.",
+      "name_expanded": "Hose assembly – refrigerant",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "45-65",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "11-13",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3",
+        "8"
+      ],
+      "to": "body panel (dimpled 19/64 hole)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Screw [2] goes through the tab of clip [3], which wraps hose [8]; dashed line leads to the dimpled 19/64 +/-1/64 dia. hole in the panel.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "condenser inlet hose",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip [1] holds hose [8] to the condenser inlet hose; no fastener.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [],
+      "to": "body panel left of the dimple",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut asm [4] shown on the panel; what it holds is not clear.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "fittings at the front and at the suction throttling valve",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Tube-nut joints marked torque 3 (11-13 lbs ft).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "DIMPLE 19/64 +/-1/64 DIA HOLE"
+  ],
+  "notes_internal": [
+    "Callouts 5, 6, 7 are blank lines with revision circles 2, 3, 4 (parts removed); not listed as parts.",
+    "Nut asm [4]: not clear whether screw [2] threads into it; recorded separately.",
+    "Torque 2 has no triangle in the drawing (its screw was removed, rev 4).",
+    "Hole tolerance read as '+/-1/64' (handwritten, small)."
+  ],
+  "revisions": [
+    {
+      "date": "6-9-70",
+      "sym": "1",
+      "text": "VIEW \"A\" REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "3925746 CLAMP REMOVED",
+      "was": "3925746",
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "3738197 PLUG REMOVED",
+      "was": "3738197",
+      "item": "6"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "9419380 SCREW (35-50LBS IN) RMV",
+      "was": "9419380",
+      "item": "7"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "HOSE DWG REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "350 & 454 ENG ROUTING CALL OUT RMV",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

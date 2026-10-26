@@ -1,0 +1,395 @@
+{
+  "page": 318,
+  "group": "C60",
+  "sheet": "C3",
+  "title": "AIR CONDITIONING-COMPRESSOR MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "350 engine cars with air conditioning (C60): A/C compressor mounting brackets. The compressor hangs on a front bracket [3] and a rear bracket [12], which bolt to a front support [8] and a rear support [14] on the engine; shims [11] go between the rear bracket and compressor as needed, set by a mandatory assembly sequence. The rear support (View A) is held by bolt [15] and a nut [10] on stud [13]; the front support by bolts [7] plus engine-supplied bolts.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "444684",
+      "name": "BOLT",
+      "name_expanded": "Bolt - front bracket to compressor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "187119",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3841698",
+      "name": "BRACKET-FRT.",
+      "name_expanded": "Bracket - compressor front mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "180122",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Second item-4 line, blank on the page (rev 5: 180124 RPO L46 removed)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3706737",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9419064",
+      "name": "BOLT",
+      "name_expanded": "Bolt - front support to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3841697",
+      "name": "SUPPORT-FRT.",
+      "name_expanded": "Support - compressor front (engine-mounted)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "180124",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9422297",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3852876",
+      "name": "SHIM",
+      "name_expanded": "Shim - rear bracket to compressor (use as required)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3841699",
+      "name": "BRACKET-REAR",
+      "name_expanded": "Bracket - compressor rear mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3932448",
+      "name": "STUD",
+      "name_expanded": "Stud - rear support to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3878222",
+      "name": "SUPPORT-REAR",
+      "name_expanded": "Support - compressor rear (engine-mounted)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3841724",
+      "name": "BOLT",
+      "name_expanded": "Bolt - rear support to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "18-22",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "compressor front",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Bolts [1] with lock washers [2] fasten the front bracket [3] to the compressor front face (two shown, upper and lower). Torque these first (sequence step 1).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "front support [8] / front bracket [3]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [4] with lock washer [5] and plain washer [6] goes in from the front at the front bracket, near the clutch pulley.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4",
+        "5"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "compressor rear",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [4] with lock washer [5] goes through the rear bracket [12] into the compressor rear; start only, torque after shimming (steps 2, 5).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "rear bracket mounting point",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [10] fastens the lower hole of the rear bracket [12].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "12",
+        "5"
+      ],
+      "to": "between rear bracket [12] and compressor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Shims [11] go between the rear bracket and compressor as required (note A, step 4).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "15",
+        "5"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "engine",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: bolt [15] with lock washer [5] holds the rear support [14] to the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "10",
+        "5"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "engine",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: stud [13] threads into the engine at the other end of the rear support [14]; nut [10] with lock washer [5] goes on the lower hole. Stud torque ref 2, nut ref 1.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "5"
+      ],
+      "holds": [
+        "14"
+      ],
+      "to": "rear bracket [12] at the rear support",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolt [9] with lock washer [5] (rev 4 drawing) joins the rear support [14] to the rear bracket; the compressor ground wire is drawn running to this area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "5"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "front of engine",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [7] with lock washer [5] holds the front support [8] to the engine; two other mounting points use engine-supplied bolts and washers (marked ENG, no callout). Other holes: see heater hose sheet for attaching parts.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "Mandatory assembly sequence for shims: 1) mount front bracket to compressor and torque its bolts; 2) mount rear brackets to compressor and only start the bolts; 3) position front and rear brackets against the supports on the engine; 4) add shims between rear bracket and compressor as required; 5) torque the rear bracket to compressor bolts.",
+    "[A] Use as required.",
+    "See heater hose sht. for attaching parts. (2 places)",
+    "COMPRESSOR GROUND WIRE"
+  ],
+  "notes_internal": [
+    "Bolt [9]: no torque triangle drawn.",
+    "Exact bracket/support pairing for bolt [4]+[5]+[6] (front) and bolt [9] is hard to follow in the drawing; described as positioned.",
+    "Note A 'Use as required' assumed to apply to shim [11]; tag A not found next to a callout (arrow A is a view arrow).",
+    "Second item-4 line is blank; rev 5 says 180124 RPO L46 removed.",
+    "Rev 6 old bolt number: 5th digit could be 3 or 9; written ?."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "SYM(5) DWG ADDED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "SHT NOTES REVISED (2) PLACES",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "5-22-70",
+      "sym": "3",
+      "text": "WAS 3765135 P WASHER",
+      "was": "3765135",
+      "item": "6"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "ITEM 5 DRAWING ADDED",
+      "was": null,
+      "item": "5"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "180124 RPO L46 REMOVED",
+      "was": null,
+      "item": "4"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "WAS 3779?40 BOLT",
+      "was": "3779?40",
+      "item": "7"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

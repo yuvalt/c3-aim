@@ -1,0 +1,206 @@
+{
+  "page": 335,
+  "group": "C60",
+  "sheet": "E6",
+  "title": "AIR CONDITIONING-CONTROL SYSTEM & WIRING DIAGRAM",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60) control system and wiring diagram, part 2 of 2 (continues from E5): engine-side components - blower motor, blower relay, blower resistor, thermal switch (opens below freezing), hot water valve, and the vacuum-operated air inlet valve (inside/outside air door) in the plenum. Includes the fan speed selector switch contact chart and the outlets dial vacuum port chart. No part numbers.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "Valve shown at temp dial control in \"COLD\" (Recirc. I.A. position).",
+    "I.A. Valve (Recir air) (Normally closed, spring held).",
+    "Switch (Thermal) (Opens below freezing temp).",
+    "Legend: dashed = production wiring; thin line = wire is part of equipment; heavy line = air conditioning wiring; connector views show wire entry side of connector; I.A. = inside air; O.A. = outside air."
+  ],
+  "notes_internal": [
+    "Wiring/vacuum diagram only; no callouts or part numbers.",
+    "Title block: drawing 3965172; DR RT/C1, CK 4-18-69 C1, PREL E2 3/27/69; L-93230. No revisions entered. Adjoining sheet key: E6, E5.",
+    "Wire routes not traced beyond labeled endpoints."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [
+    {
+      "title": "Fan Speed Selector Switch",
+      "columns": [
+        "Lever position",
+        "Contacts"
+      ],
+      "rows": [
+        [
+          "OFF",
+          "6 to 2"
+        ],
+        [
+          "LOW",
+          "1 to 2"
+        ],
+        [
+          "MED",
+          "1 to 3"
+        ],
+        [
+          "MED",
+          "1 to 4"
+        ],
+        [
+          "HIGH",
+          "1 to 5"
+        ]
+      ]
+    },
+    {
+      "title": "OUTLETS - DIAL OPERATION (VACUUM PORTS)",
+      "columns": [
+        "Pointer Position",
+        "1 O/A Diaph",
+        "2 W/Val",
+        "3 Supply",
+        "5 Htr",
+        "6 De-Ice",
+        "8 A/C",
+        "9 De-Fog"
+      ],
+      "rows": [
+        [
+          "1 Off",
+          "VAC",
+          "VAC",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC"
+        ],
+        [
+          "2 A/C cir",
+          "VAC",
+          "VAC",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC"
+        ],
+        [
+          "3 A/C O/S",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC"
+        ],
+        [
+          "4 Bi-level",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VENT",
+          "VAC"
+        ],
+        [
+          "5 Vent",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VENT",
+          "VAC"
+        ],
+        [
+          "6 Htr",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VAC"
+        ],
+        [
+          "7 De-Fog",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC",
+          "VENT",
+          "VENT",
+          "VENT"
+        ],
+        [
+          "8 De-Ice",
+          "VENT",
+          "VENT",
+          "VAC",
+          "VAC",
+          "VAC",
+          "VENT",
+          "VENT"
+        ]
+      ]
+    },
+    {
+      "title": "Wires and components shown",
+      "columns": [
+        "Wire / hose",
+        "Connects"
+      ],
+      "rows": [
+        [
+          "12 PPL",
+          "Blower motor; also at blower relay"
+        ],
+        [
+          "14 B (production, dashed)",
+          "To starting motor ground area / blower connector"
+        ],
+        [
+          "18 B (production, dashed)",
+          "Blower connector"
+        ],
+        [
+          "16 B",
+          "Blower connector"
+        ],
+        [
+          "16 DG",
+          "Thermal switch area; continues to E5 (compressor)"
+        ],
+        [
+          "16 T",
+          "Hot water valve / thermal switch connector area"
+        ],
+        [
+          "12 OR, 18 DBL, 14 LBL, 16 T, 16 Y, 16 LG",
+          "Harness from relay/resistor to E5"
+        ],
+        [
+          "WHITE vacuum hose",
+          "Hot water valve"
+        ],
+        [
+          "GREEN vacuum hoses",
+          "Air inlet valve (O.A./I.A.) actuator"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

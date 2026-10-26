@@ -1,0 +1,203 @@
+{
+  "page": 320,
+  "group": "C60",
+  "sheet": "C5",
+  "title": "AIR CONDITIONING-CARB. SOLENOID & ADJUSTMENT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. Air-conditioned LS5 and L46 engines with manual transmission (M20, M21): idle-speed (anti-dieseling/idle stop) solenoid on the carburetor. A bracket [1] bolts to the carburetor with bolt [6]; the solenoid [2] is held in the bracket by clamp [3] and clamp bolt [5]; an extension [8] is screwed to the carb throttle lever (View A) for the solenoid plunger to push on.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "394??15",
+      "name": "BRACKET",
+      "name_expanded": "Bracket - solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1114418",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly (idle speed solenoid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "394??17",
+      "name": "CLAMP ASM.",
+      "name_expanded": "Clamp assembly - solenoid",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "??6404",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1???20",
+      "name": "BOLT",
+      "name_expanded": "Bolt - solenoid clamp",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419?47",
+      "name": "BOLT",
+      "name_expanded": "Bolt - bracket to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "271172",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "394??21",
+      "name": "EXTENSION",
+      "name_expanded": "Extension - throttle lever",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "191985",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "?0-30",
+      "unit": "LBS IN",
+      "uncertain": true
+    },
+    {
+      "ref": "2",
+      "value": "1?-18",
+      "unit": "LBS FT",
+      "uncertain": true
+    },
+    {
+      "ref": "3",
+      "value": "?0-?0",
+      "unit": "LBS IN",
+      "uncertain": true
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "carburetor (top)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [6] goes down through the top of bracket [1] into the carburetor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "4"
+      ],
+      "holds": [
+        "3",
+        "2"
+      ],
+      "to": "bracket [1]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [5] with plain washer [4] clamps the clamp [3] around the solenoid [2] to the bracket [1]; leave loose until the plunger is set (procedure step 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "carburetor throttle lever",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "View A: screw [9] goes through the extension [8] and the carb lever, with nut assembly [7] on the other side.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "SHEET CANCELED",
+    "Solenoid & carburetor adjustment, preconditions: engine running; choke and fast idle fully off; A/C compressor on.",
+    "1) Set throttle by hand to 1000 RPM using the tachometer. 2) Fit the energized solenoid loosely in the bracket, slide it up until the plunger just touches the throttle lever extension [8], then tighten clamp bolt [5] to torque. 3) Recheck idle (1000 RPM); if off, adjust the plunger hex nut (A)."
+  ],
+  "notes_internal": [
+    "Sheet stamped CANCELED; scan is heavily blotted. Part numbers for items 1, 3, 4, 5, 6, 8 and all three torque values are partly unreadable; '?' used.",
+    "Items 2, 7, 9 read clearly.",
+    "Nut (A) on the solenoid plunger is part of the solenoid (marked with half-filled square, no callout)."
+  ],
+  "revisions": [
+    {
+      "date": "?-17-69",
+      "sym": "1",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

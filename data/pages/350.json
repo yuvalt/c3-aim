@@ -1,0 +1,183 @@
+{
+  "page": 350,
+  "group": "LS5",
+  "sheet": "A2",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- NON-ILLUSTRATED PARTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "RPO LS5 454 high-performance V-8: list of LS5-specific components that are not drawn in this option section (springs, stabilizer, rear hubs, brake line, balancer, manifolds, carburetor choke, throttle cable bracket, A/C compressor, generator, starter, distributor, clutch fork boot, fuel lines, exhaust, tachometer, radiator supply tank). Most assemble the same as production; part numbers are in the parts list or bill of material.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "NOTE: The following components are not illustrated in this R.P.O. See Parts List or Bill of Material for part numbers.",
+    "◑ Assemble same as production. See Parts List of Bill of Material for part numbers."
+  ],
+  "notes_internal": [
+    "Circled revision symbols on the sheet: 1 at 6Y1, 2 at 6C2, 3 at the 6N2 Accel. Cable Support Brkt line.",
+    "6T, 6Y1, 6Y2, 6Y3 carry no ◑ symbol (blank in 'assembles same as').",
+    "Rev 3 date is smudged; reads 5-19-70.",
+    "No parts/fastening: list sheet only. Page stamped K348."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "UPC 6Y1 ADDED",
+      "was": null,
+      "item": "6Y1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "UPC 6C-2 ADDED",
+      "was": null,
+      "item": "6C2"
+    },
+    {
+      "date": "5-19-70",
+      "sym": "3",
+      "text": "UPC 6N2 ADDED",
+      "was": null,
+      "item": "6N2"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [
+    {
+      "title": "NON-ILLUSTRATED PARTS",
+      "columns": [
+        "UPC",
+        "code",
+        "name",
+        "assembles same as"
+      ],
+      "rows": [
+        [
+          "1",
+          "A06",
+          "UNDERBODY UPHOLSTERY ITEMS (Decal-U/B Tun. Frt. Cnsl. Tr. Plt.)",
+          "PROD."
+        ],
+        [
+          "3",
+          "3C",
+          "FRONT SPRINGS",
+          "PROD."
+        ],
+        [
+          "3",
+          "3G",
+          "FRONT STABILIZER",
+          "PROD."
+        ],
+        [
+          "4",
+          "4A5",
+          "REAR HUBS & BEARINGS",
+          "PROD."
+        ],
+        [
+          "5",
+          "5F",
+          "BRAKE LINE",
+          "PROD."
+        ],
+        [
+          "6",
+          "6C2",
+          "CRANKSHAFT BALANCER",
+          "PROD."
+        ],
+        [
+          "6",
+          "6L",
+          "INTAKE & EXHAUST MANIFOLD",
+          "PROD."
+        ],
+        [
+          "6",
+          "6M1",
+          "CARBURETOR (Auto Choke Asm.)",
+          "PROD."
+        ],
+        [
+          "6",
+          "6N2",
+          "THROTTLE CONTROL",
+          "PROD."
+        ],
+        [
+          "6",
+          "6N2",
+          "THROTTLE CONTROL (Accel. Cable Support Brkt)",
+          "PROD."
+        ],
+        [
+          "6",
+          "6T",
+          "AIR COMPRESSOR",
+          ""
+        ],
+        [
+          "6",
+          "6Y1",
+          "GENERATOR",
+          ""
+        ],
+        [
+          "6",
+          "6Y2",
+          "STARTER MOTOR",
+          ""
+        ],
+        [
+          "6",
+          "6Y3",
+          "DISTRIBUTOR ASM.",
+          ""
+        ],
+        [
+          "7",
+          "7B1B",
+          "CLUTCH & CONTROLS (Clutch Fork Boot)",
+          "PROD."
+        ],
+        [
+          "8",
+          "8B",
+          "FUEL LINES",
+          "PROD."
+        ],
+        [
+          "8",
+          "8C",
+          "EXHAUST PIPE, MUFFLER & MUFFLER TAIL PIPE",
+          "PROD."
+        ],
+        [
+          "12",
+          "12J",
+          "INSTRUMENT CARRIER PANEL &/OR INSTRUMENTS (Tachometer Asm.)",
+          "PROD."
+        ],
+        [
+          "13",
+          "13A",
+          "RADIATOR SUPPLY TANK",
+          "PROD."
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

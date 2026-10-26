@@ -1,0 +1,201 @@
+{
+  "page": 329,
+  "group": "C60",
+  "sheet": "D6",
+  "title": "AIR CONDITIONING-HEATER HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) cars with the 454 engine: heater and coolant hose routing in the engine compartment between the radiator supply tank (surge tank), water pump, intake manifold, water valve and heater core pipe. A nipple screws into the water pump; the hoses are held with hose clamps, and a clip on the radiator support (View A) carries a hose using the production screw, clamp and nut. A production hose-clip mounting hole in the fender skirt is plugged with adhesive.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39???63",
+      "name": "HOSE",
+      "name_expanded": "Hose – supply tank to heater core pipe / water valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9423574",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3955920",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3967998",
+      "name": "HOSE",
+      "name_expanded": "Hose – intake manifold to supply tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3739798",
+      "name": "NIPPLE",
+      "name_expanded": "Nipple – water pump hose fitting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3955971",
+      "name": "HOSE",
+      "name_expanded": "Hose – water pump to supply tank",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "120527",
+      "name": "CLIP",
+      "name_expanded": "Clip – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "1?-25",
+      "unit": "LBS FT",
+      "uncertain": true
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "56c",
+      "description": "ADHESIVE",
+      "amount": ".003 OZ.",
+      "where": "plug in the unused production hose clip bracket mounting hole in the fender skirt (NOTE, top center)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "water pump",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Nipple [5] threads into the water pump; hose [6] slips on it and is held with a production hose clamp (B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "water pump nipple [5] and supply tank",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [6] runs from nipple [5] at the water pump up to the supply tank; production hose clamps (B) at both ends (View B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "intake manifold and supply tank",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [4] runs from the manifold fitting (production clamp B) up to the top of the supply tank.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2",
+        "3"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "supply tank, water valve and heater core pipe",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [1] leaves the bottom of the supply tank (production clamp B, View B) and runs to the water valve / heater core pipe area, where clamps [2] and [3] secure it.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "production heater hose (B)"
+      ],
+      "to": "radiator support / frame rail bracket",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: clip [7] holds the hose and is fastened with the production screw, clamp & nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "56c",
+      "holds": [],
+      "to": "fender skirt",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug the production hose-clip bracket mounting hole in the fender skirt with 56c adhesive.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: Plug hole (prod. ? hose clip bracket mtg.) in fender skirt.",
+    "B = Production part"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out the middle digits; visible '39' + '?' + '63'. Digit count assumed 7.",
+    "Torque 1: first figure blurred into the triangle; reads like 15 but second digit not certain.",
+    "NOTE text partly under a hole punch (word after 'prod.' missing).",
+    "Exact ends of hose [1] vs. clamps [2]/[3] read from the drawing approximately; [2] near the water valve, [3] near the heater core pipe.",
+    "Production strap (B) also holds a hose near the supply tank; not an AIM part on this sheet."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

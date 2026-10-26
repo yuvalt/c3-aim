@@ -1,0 +1,353 @@
+{
+  "page": 325,
+  "group": "C60",
+  "sheet": "D2",
+  "title": "AIR CONDITIONING-EVAPORATOR & REFRIGERANT CONTROL VALVE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) evaporator & blower assembly (the A/C box on the passenger-side firewall in the engine compartment) and the expansion/refrigerant control valve, drain tube and O-rings. The evaporator case is held to the dash panel with nuts [1] on production studs (top, bottom bracket and inside at View A) and nut [2] near the clip, sealed to the dash with 55b sealer; the valve is clamped in bracket [10] with screw [11], and screw [12] goes into a tapping plate in the dash panel. All refrigerant line joints take new O-rings.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "94?9845",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949810",
+      "name": "ASM-EVAP & BLO",
+      "name_expanded": "Evaporator & blower assembly (A/C box)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3148473",
+      "name": "TUBE DRAIN",
+      "name_expanded": "Tube – evaporator drain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3135649",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – drain tube",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "5910602",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – refrigerant control (expansion) valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8526645",
+      "name": "GSKT-\"O\" RING",
+      "name_expanded": "Gasket – O-ring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "8526398",
+      "name": "GSKT-\"O\" RING",
+      "name_expanded": "Gasket – O-ring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3140852",
+      "name": "GSKT-\"O\" RING",
+      "name_expanded": "Gasket – O-ring",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3942672",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "9419727",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3863393",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "30-40",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "60-84",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "6",
+      "value": "2-5",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "7",
+      "value": "11-13",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "8",
+      "value": "28-33",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "B",
+      "code": "55b",
+      "description": "SEALER",
+      "amount": ".04 Gal.",
+      "where": "evaporator case flange against the dash panel (bead min .38 dia.)"
+    },
+    {
+      "key": "C",
+      "code": "150a",
+      "description": "REFRIGERANT",
+      "amount": "3.25 Lbs. ± 2 Oz.",
+      "where": "system charge, tag at the valve [6] in View A"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "dash panel (production studs)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nuts [1] go on production studs sticking out of the dash panel: at the top of the evaporator/blower case, at the case's lower bracket (marked A), and from inside the dash at View A (marked A). See note A for residual torque.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "stud at the side of the evaporator case, next to the clip",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Nut [2] on a stud at the case's side flange beside the clip.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "seals",
+      "material": "55b",
+      "holds": [
+        "3"
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Sealer 55b bead along the evaporator case flange against the dash; bead .38 min dia.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "drain nipple under the evaporator case",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Drain tube [4] slips onto the case nipple, held by clamp [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [
+        "6",
+        "10"
+      ],
+      "to": "bracket [10]",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: screw [11] goes through the ear of bracket [10], which wraps around valve [6].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [],
+      "to": "tapping plate in dash panel (Sheet A5)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "View A: screw [12] goes into the tapping plate on the dash panel next to the valve.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "how": "seals",
+      "holds": [
+        "6"
+      ],
+      "to": "evaporator inlet tube (top) and line to fitting & muffler (bottom)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "O-rings [9] at both ends of valve [6]; top joint torque 6, bottom joint torque 8.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "how": "seals",
+      "holds": [
+        "6"
+      ],
+      "to": "equalizer line and liquid bleed line",
+      "qty": null,
+      "torque_ref": null,
+      "note": "O-rings [7] at the equalizer line (torque 5) and liquid bleed line connections.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "how": "seals",
+      "holds": [],
+      "to": "line to receiver dehydrator (Sheet B1)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "O-ring [8] at the receiver-dehydrator line joint (torque 7).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Tighten nut to installation torque; residual torque on the nut must be at least 10 lbs in after 24 hours.",
+    "NOTE: At time of application, sealer bead must be .38 dia. minimum, measured perpendicular to flange.",
+    "View B: valve at 45° (FWD arrow)."
+  ],
+  "notes_internal": [
+    "Item 1 pn: hole punch damages the 3rd digit; visible '94' + '9845'.",
+    "Tube-nut torque triangles 3 (evap tube at valve top), 5 (equalizer line), 6 (valve upper port), 7 (receiver line), 8 (line to fitting & muffler) point at fittings, not callouts; positions recorded in fastening notes as best read.",
+    "Screw [12]: drawn going into the dash tapping plate; which part it holds is not clear.",
+    "Bracket [10] mounting to the car not shown beyond screw [11].",
+    "'SCREW (See duct atch)' and 'CLIP' labels have no callouts.",
+    "Material 55b/150a legend letters B/C; A is the torque note."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "± 2 OZ. TOLERANCE ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "page": 360,
+  "group": "LS5",
+  "sheet": "B4",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- RADIATOR & SUPPORT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 radiator and radiator support (core support frame): the radiator sits on rubber insulators in the support and is clamped at the top by two plate assemblies (upper radiator retainers/clamps) bolted to the support with lock washers. The support itself bolts to the body at the top; a drain elbow and drain plug (petcock) thread into the radiator bottom tank.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "????596",
+      "name": "SUPPORT ASM.",
+      "name_expanded": "Radiator support assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "179823",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "103320",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3748358",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "180080",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "178537",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer (external tooth)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3952976",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly – radiator upper retainer/clamp (RH side in view)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3018571",
+      "name": "RADIATOR ASM.",
+      "name_expanded": "Radiator assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "444819",
+      "name": "PLUG DRAIN",
+      "name_expanded": "Drain plug – radiator",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3886891",
+      "name": "INSULATOR",
+      "name_expanded": "Insulator – radiator mount cushion",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3952977",
+      "name": "PLATE ASM.",
+      "name_expanded": "Plate assembly – radiator upper retainer/clamp (LH side in view)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "9419032",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "444040",
+      "name": "ELBOW",
+      "name_expanded": "Elbow – radiator drain",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-22",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2",
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "body, at the top of the support (upper RH corner area)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] with lock washer [3] and washer [4] goes down into the top rail of support [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "radiator support [1], upper corner (right side of view)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [5] with lock washer [6] through the side of the support into plate [7].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12",
+        "5",
+        "6"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "radiator support [1], upper corner (left side of view)",
+      "qty": "2",
+      "torque_ref": "1",
+      "note": "Bolts [12] and [5], each with lock washer [6], go through two holes in the side of the support into plate [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "radiator support [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Insulators [10] cushion the radiator: on the lower support cradles and under the upper plates [7]/[11], which clamp the radiator [8] tank tops (dashed line shows radiator dropping into the support).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [],
+      "to": "radiator [8] lower tank",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Elbow [13] threads into the radiator bottom tank; drain plug [9] threads into the elbow.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [],
+      "to": "elbow [13]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Drain plug [9] in elbow [13].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Production attaching parts."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch covers first digits; visible '596' with a partial digit before it (looks like 5 or 3). Assumed 7 digits.",
+    "Item 1 carries a half-filled circle symbol in the drawing.",
+    "A-callouts: brackets on the support upper rail use production attaching parts (not listed).",
+    "Revision 1 date handwritten '10-24-(9'; read as 10-24-69."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "ITEM 13 & TORQUE ADDED",
+      "was": null,
+      "item": "13"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

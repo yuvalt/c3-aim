@@ -1,0 +1,259 @@
+{
+  "page": 357,
+  "group": "LS5",
+  "sheet": "B1",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- REAR STABILIZER SHAFT",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 rear stabilizer shaft (rear sway bar) and end links. The bar [2] is held to the frame by bushings [8] in brackets [9] with screws [10] threaded into weld nuts on the frame. Each bar end connects through a bushed link [4] (bushings [1], bolts [3], nuts [12]) to a bracket [7] that is bolted to the rear spindle support arm (trailing arm) [13] with bolts [5], washers [6] and a backing plate [11] underneath. LH shown, RH opposite.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3872955",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – stabilizer link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967713",
+      "name": "SHAFT",
+      "name_expanded": "Shaft – rear stabilizer (rear sway bar)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "179842",
+      "name": "BOLT",
+      "name_expanded": "Bolt – stabilizer link",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3871326",
+      "name": "LINK",
+      "name_expanded": "Link – stabilizer end link",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9417950",
+      "name": "BOLT",
+      "name_expanded": "Bolt – link bracket to spindle support arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "103320",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – plain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3871329",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – stabilizer link, on spindle support arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3923675",
+      "name": "BUSHING",
+      "name_expanded": "Bushing – stabilizer shaft to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3913863",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – stabilizer shaft to frame (clamp)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3858700",
+      "name": "SCREW",
+      "name_expanded": "Screw – stabilizer bracket to frame",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3877979",
+      "name": "PLATE",
+      "name_expanded": "Plate – backing plate under spindle support arm",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "124829",
+      "name": "NUT",
+      "name_expanded": "Nut – stabilizer link bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3936469-70",
+      "name": "SPINDLE SUPT ARM & BRAKE ASM.",
+      "name_expanded": "Spindle support arm (rear trailing arm) & brake assembly (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "108-144",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "9",
+        "8",
+        "2"
+      ],
+      "to": "frame (weld nut)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bushing [8] on the shaft [2] is clamped by bracket [9]; screw [10] goes up from below through the bracket into a weld nut on the frame (no separate nut).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "1",
+        "12"
+      ],
+      "holds": [
+        "2",
+        "4"
+      ],
+      "to": "link [4] upper end",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Bolt [3] passes through the shaft [2] end eye, bushing [1] and the top of link [4]; nut [12] on the other side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3",
+        "1",
+        "12"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "bracket [7]",
+      "qty": "1 per side",
+      "torque_ref": "1",
+      "note": "Lower end of link [4] with bushing [1]: bolt [3] through the link and bracket [7], nut [12]. Note: press bushing until flange bottoms out on outboard side of link.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "spindle support arm [13]",
+      "qty": "2 per side",
+      "torque_ref": "2",
+      "note": "Two bolts [5] with washers [6] go down through bracket [7] and the top of the spindle support arm into plate [11] underneath. Note: install [11] with end protruding from arm as shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: L.H. shown. R.H. symmetrically opposite.",
+    "NOTE: Press bushing until flange bottoms out on outboard side of link.",
+    "NOTE: Install [11] with end protruding from arm as shown."
+  ],
+  "notes_internal": [
+    "Plate [11] appears to carry the threads for bolts [5] (no separate nuts shown); not stated explicitly.",
+    "Item 13 carries a half-filled circle symbol with no legend on this sheet.",
+    "Spindle support arm [13] itself is installed per the base suspension sheets; not shown here."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "ITEM 13 ADDED",
+      "was": null,
+      "item": "13"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "page": 332,
+  "group": "C60",
+  "sheet": "E3",
+  "title": "AIR CONDITIONING-WIRING & VACUUM HOSE ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) under-dash (passenger side) wiring and vacuum hoses: the A/C harness and vacuum hose bundle pass through grommets in the dash panel to the air selector duct, the diverter-door vacuum actuator (valve asm.) and the recirc-air actuator. The actuator is held to its bracket by two nuts with washers, and its link is screwed to the diverter door after the door is positioned. The right-hand courtesy lamp support is screwed into a nut asm. in a drilled hole in the air selector case.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "6297574",
+      "name": "HARNESS ASM.-A/C",
+      "name_expanded": "Harness assembly – A/C",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3002381",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – harness through dash panel",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1998991",
+      "name": "VALVE ASM.",
+      "name_expanded": "Valve assembly – vacuum actuator, diverter door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3949812",
+      "name": "LINK",
+      "name_expanded": "Link – actuator to diverter door",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "528846",
+      "name": "NUT ASM.",
+      "name_expanded": "Nut assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3937620",
+      "name": "SUPPORT-CTSY LAMP R. H.",
+      "name_expanded": "Support – courtesy lamp, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9422538",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9420567",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "120614",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "138479",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3983946",
+      "name": "CLIP-SPL.",
+      "name_expanded": "Clip – special (vacuum hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3724851",
+      "name": "TAPE-IND.",
+      "name_expanded": "Tape – identification",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – vacuum hose at actuator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "25-35",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "5-10",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1",
+        "vacuum hose asm."
+      ],
+      "to": "dash panel",
+      "qty": null,
+      "torque_ref": null,
+      "note": "A/C harness [1] and the vacuum hoses pass through grommet [2] (and a second grommet) in the dash panel and dash mat; hole info in Section 0.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "10"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "actuator bracket on the air selector duct",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "View B: the vacuum actuator [3] has two studs that go down through the bracket; washer [10] and nut [9] on each from underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "4"
+      ],
+      "to": "diverter door arm",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "View B: the actuator rod connects to link [4]; screw [8] fastens the link to the diverter door arm. Drive screw after door is positioned.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [
+        "blue stripe and red stripe vacuum hoses"
+      ],
+      "to": "actuator [3] ports",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "View B: one clip [14] on each hose at the actuator. For clip inst see plenum valve sheet (A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "vacuum hoses / harness"
+      ],
+      "to": "air selector duct, near the pink stripe hose",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Special clip [12] holds the hose bundle at the top of the air selector duct.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7",
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "air selector case",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View A: drill a .50 dia. hole in the selector case (2.48 up, .80 in); nut asm. [5] goes in the hole, and screw [7] goes through the courtesy lamp support [6] into it. Bend [6] to approx. 60 deg at assembly.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Identification tape [13] wraps the harness near the dash panel.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: For hole information see Section 0.",
+    ".50 DIA. HOLE",
+    "CAUTION: Drill can enter selector case a maximum of .50.",
+    "NOTE: Bend [6] at assembly to approximately 60°",
+    "NOTE: Drive screw after door is positioned.",
+    "A: For clip inst see plenum valve sheet",
+    "View A dimensions: 2.48, .80"
+  ],
+  "notes_internal": [
+    "Item 11: blank line; revision 6 '381700 NUT REMOVED' sits next to it.",
+    "View A: a shape marked '10' below support [6] is unclear (washer [10] or a courtesy lamp part); not assigned.",
+    "Item 1: top-left near a hole punch but digits readable."
+  ],
+  "revisions": [
+    {
+      "date": "2-24-70",
+      "sym": "5",
+      "text": "WAS 1998965 VALVE",
+      "was": "1998965",
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "381700 NUT REMOVED",
+      "was": "381700",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "ITEM (14) ADDED",
+      "was": null,
+      "item": "14"
+    },
+    {
+      "date": "",
+      "sym": "8",
+      "text": "HOSE DWG REV'D (2) PLACES",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "9",
+      "text": "NOTE \"A\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "10",
+      "text": "VIEW \"B\" REVISED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

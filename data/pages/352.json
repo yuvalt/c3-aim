@@ -1,0 +1,324 @@
+{
+  "page": 352,
+  "group": "LS5",
+  "sheet": "A4",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- CRANKCASE VENTILATION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 big-block crankcase ventilation (PCV): the hose and connector from the valve cover to the air cleaner, PCV hose and grommets, the oil-fill/breather plug, the air cleaner ID and horsepower stickers, and the exhaust-manifold studs. Hose [8] is clamped with clamps [7] (two torque values), plug [9] is torqued into the intake, and the LH/RH manifold studs [10]/[11] are driven to a set protrusion height rather than a torque. Air cleaner, flame arrestor, wing nut, PCV valve and the hose clamps marked [A] are production (non-RPO) parts.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3969860",
+      "name": "STICKER-IDENT.",
+      "name_expanded": "Sticker – identification (air cleaner lid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3902412",
+      "name": "STICKER-H.P. DESIGN",
+      "name_expanded": "Sticker – horsepower design (air cleaner lid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3901839",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV valve to carburetor/intake",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3933189",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – PCV valve, in valve cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3933188",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – valve cover vent connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3868842",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector – valve cover vent elbow",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "9423581",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – vent hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3919891",
+      "name": "HOSE",
+      "name_expanded": "Hose – valve cover vent to air cleaner (molded elbow)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "445673",
+      "name": "PLUG",
+      "name_expanded": "Plug – intake manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "445686",
+      "name": "OPT.",
+      "name_expanded": "Plug – intake manifold (optional alternate)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3760425",
+      "name": "STUD L.H.",
+      "name_expanded": "Stud – exhaust manifold outlet, LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3760426",
+      "name": "STUD R.H.",
+      "name_expanded": "Stud – exhaust manifold outlet, RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "air cleaner snorkel/inlet (upper end of hose [8])",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Upper clamp [7] (triangle 1) on the end of hose [8] that slides onto the air cleaner fitting (dashed line).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [
+        "8",
+        "6"
+      ],
+      "to": "connector [6]",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Lower clamp [7] (triangle 2) on the end of hose [8] over connector [6]; connector [6] pushes into grommet [5] in the valve cover.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "valve cover (LH in drawing)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connector [6] is a push fit in grommet [5], which sits in the valve cover hole.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "valve cover (RH in drawing)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "PCV valve (production part [A]) pushes into grommet [4] in the valve cover; hose [3] runs from the valve to the carburetor fitting, retained with production clamp [A].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [],
+      "to": "intake manifold (front, threaded hole)",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Plug [9] threads into the intake manifold.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [],
+      "to": "exhaust manifold outlet flange",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: stud [10] driven into the manifold outlet flange so it protrudes 1.75 ±.06. Note B: torque studs to the dimensions shown (no torque value).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "holds": [],
+      "to": "exhaust manifold outlet flange",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Stud [11] driven into the other manifold outlet flange so it protrudes 2.87 ±.06. Note B: torque studs to the dimensions shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "air cleaner lid",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Stickers [1] (ID) and [2] (H.P. design) are applied on the air cleaner lid, beside the wing nut and along the front edge.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Production Part",
+    "[B] Torque studs [10] & [11] to dimensions shown.",
+    "2.87 ±.06",
+    "1.75 ±.06"
+  ],
+  "notes_internal": [
+    "Item 7 appears twice in the drawing with different torque triangles (upper clamp = 1, lower clamp = 2); part torque_ref left null, refs given per fastening entry.",
+    "Which manifold side each stud dimension applies to is from the drawing position: [11] at the left of the picture with 2.87, [10] at the right with 1.75, despite [10] being listed L.H.",
+    "Hose [3] routing end (carburetor/intake) is inferred from the drawing; only the PCV valve end is clearly shown.",
+    "Rev 2 date read as 11-7-69; first characters slightly smudged."
+  ],
+  "revisions": [
+    {
+      "date": "8-28-69",
+      "sym": "1",
+      "text": "\"MOLDED END\" NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "11-7-69",
+      "sym": "2",
+      "text": "ITEM 10 ADDED",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "12-4-69",
+      "sym": "3",
+      "text": "VIEW \"A\" ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "ITEM 11 WAS ITEM 10",
+      "was": null,
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "2.87±.06 DIMENSION ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "NOTE \"B\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

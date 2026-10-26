@@ -1,0 +1,94 @@
+{
+  "page": 341,
+  "group": "LJ2",
+  "sheet": "A1",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2 -CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "canceled",
+  "summary": "Contents of RPO LJ2, the canceled 1970 454 V-8 with three two-barrel carburetors (3x2, tri-power): non-illustrated parts (A2), carburetors and choke (A3), air cleaner and crankcase vent (A4), fuel pipes, fuel pump, vacuum hoses and spark control (A5), A.I.R. hoses and diverter valve (A6), carburetor linkage (A7) and linkage adjustment (A8). An engine drawing points to where each sheet applies. Sheet stamped CANCELED.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Contents sheet; no parts. Drawing callouts: A3/A4/A7/A8 at air cleaner/carbs, A5 at fuel line, A6 at A.I.R. hose.",
+    "Circled 2 and 1 at lower right are revision markers."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "6-11-69",
+      "sym": "2",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "10-3-69",
+      "sym": "3",
+      "text": "RPO LJ2 CANCELLED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [
+    {
+      "title": "V-8 ENGINE 454 C.I.D. 3 X 2 CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED PARTS"
+        ],
+        [
+          "A3",
+          "CARBURETORS & CHOKE"
+        ],
+        [
+          "A4",
+          "AIR CLEANER & C/CASE VENT."
+        ],
+        [
+          "A5",
+          "FUEL PIPES, PUMP, VAC HOSES & SPARK CONT."
+        ],
+        [
+          "A6",
+          "A.I.R. HOSES & DIVERTER VALVE"
+        ],
+        [
+          "A7",
+          "CARBURETOR LINKAGE"
+        ],
+        [
+          "A8",
+          "CARBURETOR LINKAGE ADJUSTMENT"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

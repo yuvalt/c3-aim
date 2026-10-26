@@ -1,0 +1,397 @@
+{
+  "page": 339,
+  "group": "J50",
+  "sheet": "A1",
+  "title": "VACUUM POWER BRAKE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Power brake option (RPO J50): the vacuum brake booster (power brake head) bolted to the firewall over the brake pedal housing with a gasket, the master cylinder on the front of the booster, brake pipes to the pressure differential (distribution) switch, and the vacuum hose from the booster check valve to a fitting in the intake manifold. Booster nuts are inside on the pedal housing; the master cylinder is held by production nuts and washers on the booster studs.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3956739",
+      "name": "HEAD ASM.",
+      "name_expanded": "Power brake booster (vacuum head assembly)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3921676",
+      "name": "GASKET",
+      "name_expanded": "Gasket – booster to firewall/pedal housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3945369",
+      "name": "COVER",
+      "name_expanded": "Cover – brake pedal housing",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3963185",
+      "name": "HSG ASM-BRK PED",
+      "name_expanded": "Housing assembly – brake pedal (under-dash pedal support)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3974795",
+      "name": "STRIKER",
+      "name_expanded": "Striker",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9422297",
+      "name": "NUT",
+      "name_expanded": "Nut – booster studs",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3974708",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3974706",
+      "name": "PIPE ASM.",
+      "name_expanded": "Brake pipe assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "5461184",
+      "name": "CYLINDER",
+      "name_expanded": "Master cylinder",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3829058",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – vacuum hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3715073",
+      "name": "HOSE-ALL ENG.",
+      "name_expanded": "Vacuum hose – booster check valve to engine, all engines",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "730392",
+      "name": "GASKET",
+      "name_expanded": "Gasket – master cylinder to booster",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9787620",
+      "name": "RETAINER SEAL",
+      "name_expanded": "Retainer seal – master cylinder pushrod seal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "3986116",
+      "name": "FITTING LS5 & LS7 W/RPO M40",
+      "name_expanded": "Vacuum fitting in intake manifold – LS5 & LS7 with RPO M40 automatic",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3973473",
+      "name": "FITTING SMALL V-8 W/RPO M40",
+      "name_expanded": "Vacuum fitting in intake manifold – small V-8 with RPO M40 automatic",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3973474",
+      "name": "FITTING",
+      "name_expanded": "Vacuum fitting in intake manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3973470",
+      "name": "PIPE & SUPPORT ASM.",
+      "name_expanded": "Vacuum pipe & support assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "6",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "3981090",
+      "name": "LT1, LS5 & LS7",
+      "name_expanded": "Vacuum pipe & support assembly – LT1, LS5 & LS7 engines",
+      "models": [],
+      "qty": null,
+      "torque_ref": "6",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "135-175",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "16-26",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "5",
+      "value": "85-105",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "6",
+      "value": "140-190",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "C",
+      "code": "8b",
+      "description": "FLUID",
+      "amount": ".089 Gals.",
+      "where": "master cylinder [9] reservoirs; fill to .25 in. ± .125 from top"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "brake pedal housing [4] through the dash panel (firewall)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Booster [1] studs pass through gasket [2], the firewall and pedal housing [4]; nuts [6] go on from inside the car. Booster studs are part of the head assembly (no separate stud callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9",
+        "12"
+      ],
+      "to": "booster [1] front studs",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "Master cylinder [9] with gasket [12] goes on the booster's front studs, held by production nut & washer (no callout, torque 4). Install seal & retainer [13] on the cylinder first.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "master cylinder [9]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "NOTE: install seal & retainer on cylinder before installing cylinder to head.",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7",
+        "8"
+      ],
+      "to": "master cylinder [9] ports and pressure differential switch",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "Pipe tube nuts at the master cylinder (triangle 3); at the switch below the cylinder near the steering gear housing, triangles 2 (100-140 lbs in).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "booster check valve and engine vacuum fitting",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "Clamps [10] on each end of vacuum hose [11].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "14",
+        "15",
+        "16"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": "5",
+      "note": "View B: fitting threads into the manifold; torque 5 plus additional torque to align. Fitting [16] at 120° from engine centerline (base V-8), 90° (LT1 & LS5-LS7); [15] at 120°; [14] at 100°. Hose A to vacuum reserve tank, hose B M40 hose.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "17"
+      ],
+      "to": "accelerator cable bracket",
+      "qty": null,
+      "torque_ref": "6",
+      "note": "View A: pipe & support [17] clamped under the production bolt at the accelerator cable bracket (prod bolt, no callout). Triangle 6 is next to callout 17 in the main view.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "4",
+        "5"
+      ],
+      "to": "under dash",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Cover [3], pedal housing [4] and striker [5] carry 'same as production' symbols; attachment not detailed.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Install seal & retainer to cylinder before installing cylinder to head.",
+    "NOTE: Brake pedal must support an 80 lb. load at \"A\" after traveling a maximum of 1.8\". Check with motor off and no vacuum assist (View C).",
+    "NOTE: Brake system to be inspected for leaks at 1800 PSI for 10 seconds. Pressure differential switch must not activate during this test.",
+    "* Plus additional torque to align fitting.",
+    "A Hose to vacuum reserve tank. B M40 Hose.",
+    "View B: 120° (BASE V-8), 90° (LT1 & LS5-LS7), 120°, 100° from engine centerline."
+  ],
+  "notes_internal": [
+    "Item 1 last digit printed broken (looks like 'y'); read as 9, flagged uncertain.",
+    "Items 3 and 5 have a half-filled circle, item 4 a different quarter-style circle; no legend for them on this sheet (on G81 A1 the half circle = 'assemble same as production').",
+    "Item 7 torque: no triangle directly beside callout 7; triangles 2 at switch connections, left null.",
+    "Item 17 second line printed as 'LT1, LS5 & LS7' only; rev 2 '(LT-1) REMOVED' symbol appears by the 120° angle in View B.",
+    "Title block: drawing 3965172; DR /C1, CK 4-30-69 C1, PREL 4-28-69, C/O A1, A2; L-84143, 84144, 84604, 89940, 94632, 94459."
+  ],
+  "revisions": [
+    {
+      "date": "12-4-69",
+      "sym": "1",
+      "text": "REDRAWN & REDESIGNED 28321",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-23-70",
+      "sym": "2",
+      "text": "(LT-1) REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "J50",
+    "M40",
+    "LS5",
+    "LS7",
+    "LT1"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "page": 319,
+  "group": "C60",
+  "sheet": "C4",
+  "title": "AIR CONDITIONING-COMPRESSOR MOUNTING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "454 engine cars with air conditioning (C60): A/C compressor mounting. The compressor's front end bolts to a front support [3] on the engine with bolts [1] and [6]; at the rear it sits on a rear bracket [15] (on studs [16] with nuts [14]) and a front-side bracket [12] bolted with bolts [10] and [13] (View A). Compressor ground wire: see sheet E1.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "1???93",
+      "name": "BOLT",
+      "name_expanded": "Bolt - front support",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "187119",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3887167",
+      "name": "SUPPORT-FRONT",
+      "name_expanded": "Support - compressor front",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419277",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "103323",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "180177",
+      "name": "BOLT",
+      "name_expanded": "Bolt - compressor to front support",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3754153",
+      "name": "P. WASHER",
+      "name_expanded": "Plain washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "122145",
+      "name": "BOLT",
+      "name_expanded": "Bolt - rear bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "180157",
+      "name": "BOLT",
+      "name_expanded": "Bolt - front bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "103322",
+      "name": "SPL. WASHER",
+      "name_expanded": "Special washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3894362",
+      "name": "BRACKET-FRONT",
+      "name_expanded": "Bracket - compressor front (lower)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "180121",
+      "name": "BOLT",
+      "name_expanded": "Bolt - front bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "120377",
+      "name": "NUT",
+      "name_expanded": "Nut - rear bracket stud",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3894364",
+      "name": "BRACKET-REAR",
+      "name_expanded": "Bracket - compressor rear",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "3928906",
+      "name": "STUD",
+      "name_expanded": "Stud - rear bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "55-75",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "35-55",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1",
+        "2"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "engine / compressor front",
+      "qty": "3",
+      "torque_ref": "1",
+      "note": "Bolts [1] with lock washers [2] fasten the front support [3]; three shown (two upper, one lower near the compressor ground wire).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6",
+        "5",
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "compressor front ear",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolt [6] with lock washer [5] and plain washer [4] goes from the front through the compressor's front mounting ear into the front support [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "8",
+        "7"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "engine side mount (rear)",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Main view: bolt [9] with lock washer [8] and plain washer [7] goes through the rear bracket boss.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "16",
+        "7"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "engine",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: studs [16] thread into the engine with plain washer [7] on them; the rear bracket [15] goes over the studs.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14",
+        "8"
+      ],
+      "holds": [
+        "15"
+      ],
+      "to": "stud [16]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: nut [14] with lock washer [8] holds the rear bracket [15] on the stud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "11"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "engine / compressor",
+      "qty": "2",
+      "torque_ref": "3",
+      "note": "View A: bolts [10] with special washers [11] fasten the front bracket [12] (two).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13",
+        "8"
+      ],
+      "holds": [
+        "12"
+      ],
+      "to": "compressor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: bolt [13] with lock washer [8] goes up through the end of front bracket [12].",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "COMPRESSOR GROUND WIRE-SEE SHT E1"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole covers digits 2-4; visible '1' + '93' (OCR read 693).",
+    "Which parts (engine vs compressor) the brackets [12]/[15] bolts thread into is not clear in the drawing; 'to' fields are best description of position.",
+    "Plain washer [7] appears both in the main view at bolt [9] and in View A on stud [16]."
+  ],
+  "revisions": [
+    {
+      "date": "6-30-69",
+      "sym": "1",
+      "text": "WAS 942297 P.WASHER",
+      "was": "942297",
+      "item": "4"
+    },
+    {
+      "date": "5-22-70",
+      "sym": "2",
+      "text": "WAS 3693853 SPL. WASHER",
+      "was": "3693853",
+      "item": "11"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "ITEM 11 DRAWING ADDED",
+      "was": null,
+      "item": "11"
+    }
+  ],
+  "options": [],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

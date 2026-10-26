@@ -1,0 +1,325 @@
+{
+  "page": 345,
+  "group": "LJ2",
+  "sheet": "A5",
+  "title": "V-8 ENG 454 C.I.D. 3 X 2-FUEL PIPES, PUMP, VAC HOSES & SPARK CONT.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LJ2 454 tri-power fuel and vacuum plumbing: the mechanical fuel pump on the front of the block feeds a steel pipe up to two tees on top of the engine that split fuel to the three carburetors through rear, center and short pipes. Also the spark control: a solenoid mounted under two carburetor attaching nuts, with vacuum hoses and a tee running to the distributor vacuum advance.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3???880",
+      "name": "PIPE ASM-REAR",
+      "name_expanded": "Fuel pipe assembly – tee to rear carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "178661",
+      "name": "TEE",
+      "name_expanded": "Tee – fuel line",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3899686",
+      "name": "PIPE ASM-CENTER",
+      "name_expanded": "Fuel pipe assembly – between tees (center carb)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3933121",
+      "name": "PIPE ASM.",
+      "name_expanded": "Fuel pipe assembly – fuel pump to tee",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3919882",
+      "name": "PIPE ASM.",
+      "name_expanded": "Fuel pipe assembly – tee to front carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3909874",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3909883",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "6255640",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3906664",
+      "name": "TEE",
+      "name_expanded": "Tee – vacuum hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3969848",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3924632",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "1114433",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly – spark control (vacuum advance)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3890458",
+      "name": "HOSE",
+      "name_expanded": "Hose – vacuum, solenoid to distributor vacuum advance",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "445673",
+      "name": "PLUG",
+      "name_expanded": "Plug",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "445686",
+      "name": "OPT.",
+      "name_expanded": "Plug – optional",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "6440482",
+      "name": "PUMP ASM.-FUEL",
+      "name_expanded": "Fuel pump assembly (mechanical)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "20-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "80-120",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "15-25",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "100-125",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "25-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "4",
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "to": "fuel pump outlet and carburetor inlets",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Pipe [4] runs from the fuel pump [15] outlet up the front of the engine to the first tee [2]; center pipe [3] joins the two tees [2]; pipe [5] goes from a tee to the front carb and pipe [1] to the rear carb. Tube-nut fittings at each end take torque 1.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "15"
+      ],
+      "to": "engine block (front, right side)",
+      "qty": "2",
+      "torque_ref": "5",
+      "note": "View A: fuel pump [15] bolts to the block with production screws and a production gasket (no part numbers on this sheet).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [],
+      "to": "fuel pump mounting pad / block",
+      "qty": null,
+      "torque_ref": "4",
+      "note": "View A: plug [14] screws into the threaded hole next to the pump mounting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "12"
+      ],
+      "to": "carburetor (carb attaching studs)",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Solenoid [12] bracket goes over two carburetor studs and is held by the carb attaching nuts (no callout; torque 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": "3",
+      "note": "A bolt (no part number, dimple/drill symbol) with washer [8] goes into the manifold near the front carburetor; what it retains is not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13",
+        "12",
+        "11",
+        "10",
+        "9",
+        "6",
+        "7"
+      ],
+      "to": "distributor vacuum advance, solenoid and carburetor vacuum ports",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [13] runs from the distributor vacuum advance to solenoid [12]; hoses [10], [11], [6], [7] connect the solenoid and tee [9] to the carburetor vacuum fittings. Hoses push on; no clamps called out.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "CARB ATT NUTS",
+    "PROD GASKET",
+    "PROD SCREW"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes middle digits; visible '3' + '880' (one partial digit before 880).",
+    "Item 11 name partly hole-punched ('HO' visible); read as HOSE from the drawing callout on a hose.",
+    "Torque legend triangle numbers are faint; refs assigned 1-5 in printed order (top to bottom), matching drawing usage.",
+    "Vacuum hose routing between [6],[7],[10],[11] and the carb ports is only partly traceable.",
+    "Circled 1 at lower right marks revision 1."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

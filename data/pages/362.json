@@ -1,0 +1,234 @@
+{
+  "page": 362,
+  "group": "LS5",
+  "sheet": "B6",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- RAD SHROUD, EXTENSION & SEALS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 radiator fan shroud: the shroud bolts to the back of the radiator support with screw assemblies at the top and a nut and washer at the lower corner, and the lower shroud extension (fan shroud lower half) screws to the shroud. Foam seals (upper, lower, LH, RH) line the shroud's front edges against the radiator. View B gives fan blade to shroud clearance.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3956119",
+      "name": "SHROUD",
+      "name_expanded": "Shroud – radiator fan",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3847757",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3956089",
+      "name": "EXTENSION ASM.",
+      "name_expanded": "Extension assembly – fan shroud lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9418469",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419892",
+      "name": "WASHER",
+      "name_expanded": "Washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3956332",
+      "name": "SEAL-SHROUD LWR",
+      "name_expanded": "Seal – shroud lower",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3956329",
+      "name": "SEAL-SHROUD L. H.",
+      "name_expanded": "Seal – shroud LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3956331",
+      "name": "SEAL-SHROUD UPR",
+      "name_expanded": "Seal – shroud upper",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3956330",
+      "name": "SEAL-SHROUD R. H.",
+      "name_expanded": "Seal – shroud RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-110",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-30",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "3",
+      "value": "35-50",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "radiator support, upper brackets",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Screw assemblies [2] go from inside the shroud through its upper flange into the tabs on the radiator support top rail (dashed lines).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5",
+        "6"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "radiator support, lower LH corner",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Washer [6] and nut [5] secure the shroud's lower LH ear to the support at the lower corner (dashed line to SUPPORT). Torque triangle on [5] unreadable.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "shroud [1], lower part",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screw assemblies [4] join the extension [3] to the lower edge of the shroud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "to": "shroud [1] front edges",
+      "qty": null,
+      "torque_ref": null,
+      "how": "seals",
+      "note": "Seals line the shroud edges against the radiator: upper [9], lower [7], LH [8], RH [10]. Retention not shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "VIEW A: .70±.20",
+    "VIEW B: 1.20; 45 MIN."
+  ],
+  "notes_internal": [
+    "Item 5: torque triangle digit unreadable (smudged, possibly 3); torque_ref left null.",
+    "Item 4 torque triangle read as 2 (faint but legible).",
+    "View B '45 MIN.' printed with a smudge before 45; exact meaning (likely .45 fan-to-shroud clearance) not confirmed.",
+    "'SUPPORT' label at lower LH corner has a filled flag symbol, meaning not stated.",
+    "Revision 1 date handwritten; read as 12-8-69."
+  ],
+  "revisions": [
+    {
+      "date": "12-8-69",
+      "sym": "1",
+      "text": "WAS 3974015 SHROUD",
+      "was": "3974015",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "WAS 3974014 EXTENSION",
+      "was": "3974014",
+      "item": "3"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

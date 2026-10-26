@@ -1,0 +1,68 @@
+{
+  "page": 348,
+  "group": "LJ2",
+  "sheet": "A8",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2 CARBURETOR LINKAGE ADJUSTMENT",
+  "models": [
+    "19400"
+  ],
+  "page_type": "text",
+  "status": "canceled",
+  "summary": "454 3x2 (triple two-barrel, tri-power) option LJ2, canceled before production: how to set the progressive throttle linkage between the center (primary) carburetor and the front and rear secondary carburetors. Rod (B) runs from the primary throttle lever slot to the rear secondary lever and rod (D) to the front secondary lever; each rod end is retained by a clip. Related sheet: A7 (linkage parts).",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "A"
+      ],
+      "holds": [],
+      "to": "rear secondary carburetor lever (H)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip (A) retains rod (B) in the rear secondary lever hole; the other end of rod (B) rides on clevis pin (C) in the slot of the primary throttle lever (G).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "E"
+      ],
+      "holds": [],
+      "to": "front secondary carburetor lever (F)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Clip (E) retains the front secondary closing rod (D) in the front secondary lever hole.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Start with ignition off, center (primary) carburetor throttle closed, choke fully off, and front & rear (secondary) throttles closed.",
+    "Step 1: with clevis pin (C) bottomed in its slot on primary throttle lever (G), set rod (B) length so it stops one half rod diameter short of entering the hole in rear secondary lever (H); then install clip (A).",
+    "Step 2: adjust front secondary closing rod (D) so it just enters the hole in front secondary lever (F); install clip (E)."
+  ],
+  "notes_internal": [
+    "No part numbers on this sheet; letters A-H refer to the procedure. Parts are on sheet A7.",
+    "Model box reads 19400 as printed.",
+    "Status canceled from revision 1 'RPO LJ1 CANCELED' (sic; UPC LJ2).",
+    "Revision date reads 6-16-69 (partly smeared, matches A7).",
+    "Page stamped K346."
+  ],
+  "revisions": [
+    {
+      "date": "6-16-69",
+      "sym": "1",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

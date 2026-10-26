@@ -1,0 +1,134 @@
+{
+  "page": 355,
+  "group": "LS5",
+  "sheet": "A7",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- RADIATOR HOSES & HEAT SHIELD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 big-block upper and lower radiator hoses and a heat shield low on the side of the engine below the exhaust ports. The shield [1] bolts to a bracket on the engine with a production bolt through washer [2]; the inlet hose [5] and outlet hose [3] are held with clamps (clamp [4] plus production clamps), and the inlet hose must clear the generator (alternator) belt by .94 minimum.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3?80706",
+      "name": "SHIELD",
+      "name_expanded": "Shield – heat shield (engine side, below exhaust manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3792031",
+      "name": "WASHER",
+      "name_expanded": "Washer – heat shield bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3947868",
+      "name": "HOSE ASM.-OUTLET",
+      "name_expanded": "Hose assembly – radiator outlet (lower hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "2465814",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – radiator hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3967433",
+      "name": "HOSE ASM.-INLET",
+      "name_expanded": "Hose assembly – radiator inlet (upper hose)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "22-30",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "bracket on the side of the engine below the exhaust ports",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Production bolt (PROD PARTS, no callout) goes through washer [2] and the shield [1] into the engine-mounted bracket; a second production washer is shown under the bolt head.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "radiator inlet and water outlet on engine",
+      "qty": "2",
+      "torque_ref": null,
+      "note": "View A: inlet hose [5] is held at both ends by production clamps. Keep .94 minimum clearance between the hose and the generator belt.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "radiator outlet / water pump inlet",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clamp [4] on one end of outlet hose [3]; the other end uses production clamp [A] (part number & installation same as production).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Part number & installation same as production.",
+    ".94 MINIMUM CLEARANCE (hose to generator belt)"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch clips the second digit; looks like 9 but not certain, recorded as '?'.",
+    "Hoses [3] and [5] carry a half-filled circle symbol with no legend on this sheet.",
+    "Which radiator neck each hose meets is inferred from names (inlet = upper, outlet = lower); drawing shows View A only partially."
+  ],
+  "revisions": [],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

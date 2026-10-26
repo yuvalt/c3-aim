@@ -1,0 +1,142 @@
+{
+  "page": 338,
+  "group": "G81",
+  "sheet": "A1",
+  "title": "POSITRACTION",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "CANCELED sheet. Positraction rear axle option (RPO G81): the Positraction differential carrier assembly, an identification tag on the carrier, and a caution sticker (with the auto jack instruction tag) glued inside the jack stowage compartment cover behind the seats. Rear axle and transmission are covered under UPC 4A and 7B.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3899128",
+      "name": "CARRIER ASM.-CHART",
+      "name_expanded": "Carrier assembly – Positraction differential (see chart)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3892548",
+      "name": "TAG ASM.",
+      "name_expanded": "Tag assembly – identification tag on carrier",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3745926",
+      "name": "CAUTION STICKER",
+      "name_expanded": "Caution sticker – Positraction warning, inside jack stowage compartment cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "85a",
+      "description": "ADHESIVE",
+      "amount": ".009 LBS.",
+      "where": "caution sticker [3] on jack stowage compartment cover"
+    },
+    {
+      "key": "B",
+      "code": "18b",
+      "description": "LUBRICANT",
+      "amount": "3.7 LBS.",
+      "where": "carrier [1] (M22 ONLY)"
+    },
+    {
+      "key": "C",
+      "code": "33a",
+      "description": "LUBRICANT",
+      "amount": "3.7 LBS.",
+      "where": "carrier [1] (M22 ONLY)"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "glues",
+      "material": "85a",
+      "holds": [
+        "3"
+      ],
+      "to": "jack stowage compartment cover, next to the auto jack instruction tag",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Caution sticker [3] glued with 85a adhesive on the inside of the cover.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "carrier [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tag [2] shown hanging from the lower side of the carrier; attachment method not shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "rear axle / frame crossmember",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Carrier [1] marked 'assemble same as production - see parts list or bill of materials'. Torque triangle 1 (15-20 lbs ft) points to a plug/bolt on the side of the carrier that has no callout.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers. UPC 4A REAR AXLE ASM. UPC 7B TRANSMISSION & EXTENSION ASM.",
+    "Half-filled circle: Assemble same as production-See Parts List or Bill of Materials for part numbers.",
+    "(M22 ONLY) at the 33a/18b lubricant tags."
+  ],
+  "notes_internal": [
+    "Stamped CANCELED; revision 1 'SHEET CANCELED'. Date last digit unclear (12-12-6?, 5 or 9).",
+    "Torque 1 triangle points to an unlabeled fitting on the carrier (likely fill plug); no part gets torque_ref.",
+    "Title block: drawing 3965172; DR DP/C1, CK 4-28-69 C1, PREL 4-2?-69, C/O A1. Rev 1 AUTH 29?23."
+  ],
+  "revisions": [
+    {
+      "date": "12-12-6?",
+      "sym": "1",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "G81",
+    "M22"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

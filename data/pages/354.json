@@ -1,0 +1,248 @@
+{
+  "page": 354,
+  "group": "LS5",
+  "sheet": "A6",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- SPARK PLUG WIRING, SHIELDS & COIL",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 big-block spark plug wires (one per cylinder, 1-8), the coil-to-distributor high-tension wire, the ignition coil and its screw, and the plug-wire retainers (wire looms/brackets) on the valve covers. The coil [11] is bolted to the intake manifold with screw [12]; the wires are routed through retainers [9] and [13] on the valve cover studs. View B shows the distributor cap terminal positions for each cylinder.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "890??07",
+      "name": "WIRE ASM (CYL NO 1)",
+      "name_expanded": "Spark plug wire – cylinder 1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "8901007",
+      "name": "WIRE ASM (CYL NO 2)",
+      "name_expanded": "Spark plug wire – cylinder 2",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "8901008",
+      "name": "WIRE ASM (CYL NO 3)",
+      "name_expanded": "Spark plug wire – cylinder 3",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "8901009",
+      "name": "WIRE ASM (CYL NO 4)",
+      "name_expanded": "Spark plug wire – cylinder 4",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "8901010",
+      "name": "WIRE ASM (CYL NO 5)",
+      "name_expanded": "Spark plug wire – cylinder 5",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "8901011",
+      "name": "WIRE ASM (CYL NO 6)",
+      "name_expanded": "Spark plug wire – cylinder 6",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8901010",
+      "name": "WIRE ASM (CYL NO 7)",
+      "name_expanded": "Spark plug wire – cylinder 7",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "8901012",
+      "name": "WIRE ASM (CYL NO 8)",
+      "name_expanded": "Spark plug wire – cylinder 8",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "2977555",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – spark plug wire (loom bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "2989253",
+      "name": "WIRE ASM (HI TEN)",
+      "name_expanded": "Wire – high tension, coil to distributor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "1115287",
+      "name": "COIL ASM",
+      "name_expanded": "Ignition coil assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3848408",
+      "name": "SCREW ASM",
+      "name_expanded": "Screw assembly – coil mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "2977995",
+      "name": "RETAINER",
+      "name_expanded": "Retainer – spark plug wire (valve cover bracket)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "120-165",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "intake manifold (coil bracket, top rear of engine)",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [12] goes down through the coil [11] mounting foot into the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "13"
+      ],
+      "to": "valve cover hold-down stud/bolt (production ENGINE fastener)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Retainer [13] (View A) clips onto the valve cover at a production engine fastener and holds the plug wires in its slots.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9",
+        "13"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "to": "valve covers",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Plug wires are routed from the distributor through retainers [9] (near the distributor) and [13] (on the valve cover) down to the plugs: 2-4-6-8 on one bank, 1-3-5-7 on the other.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "coil [11] and distributor cap center",
+      "qty": null,
+      "torque_ref": null,
+      "note": "High-tension wire [10] pushes onto the coil tower and the distributor cap center terminal.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "View B: distributor cap terminal numbers, FWD arrow."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch over the middle digits; reads '890' + '07', two digits unreadable.",
+    "View B cap layout drawn with terminals 1-8; terminal positions not tabulated.",
+    "ENGINE marker (filled square) on the valve cover fastener where retainer [13] mounts = production part."
+  ],
+  "revisions": [
+    {
+      "date": "10-14-69",
+      "sym": "1",
+      "text": "WAS 8901004 WIRE",
+      "was": "8901004",
+      "item": "7"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

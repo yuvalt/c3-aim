@@ -1,0 +1,83 @@
+{
+  "page": 363,
+  "group": "LS7",
+  "sheet": "A1",
+  "title": "V-8 \"454\" ENGINE H.D.- CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "Contents of the LS7 option section (454 heavy-duty engine): non-illustrated parts (A2), choke, carburetor and fuel pipes (A4), crankcase vent, air cleaner and TCS (transmission controlled spark) system (A5), ignition wiring and coil (A6), and hood and hood decal (B2). Sheets A3 and B1 are cancelled. An engine drawing shows where A4 and A5 apply.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [],
+  "notes_internal": [
+    "Index page: no parts. Table copied from the two-column contents list.",
+    "Drawing callouts: A4/A5 at the air cleaner/carburetor; A5 at the crankcase vent at the LH valve cover. A1, A2, A6, B2 not called out.",
+    "Title block: drawing 3965172; DR WO/CID, CK 4-18-69 C1, PREL 3-24-69, C/O L88-A1; K361 in margin.",
+    "Revision date day partly struck through: '5-1?-70'. Sym written like an S; read as 5 (same glyph as the month 5).",
+    "Torque legend triangles blank."
+  ],
+  "revisions": [
+    {
+      "date": "5-1?-70",
+      "sym": "5",
+      "text": "REDRAWN & REDESIGNED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS7"
+  ],
+  "tables": [
+    {
+      "title": "CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED PARTS"
+        ],
+        [
+          "A3",
+          "CANCELLED"
+        ],
+        [
+          "A4",
+          "CHOKE, CARBURETOR & FUEL PIPES"
+        ],
+        [
+          "A5",
+          "C/CASE VENT, A/CLNR & TCS SYSTEM"
+        ],
+        [
+          "A6",
+          "IGNITION SYS WIRING & COIL"
+        ],
+        [
+          "B1",
+          "CANCELLED"
+        ],
+        [
+          "B2",
+          "HOOD & HOOD DECAL"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

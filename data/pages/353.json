@@ -1,0 +1,347 @@
+{
+  "page": 353,
+  "group": "LS5",
+  "sheet": "A5",
+  "title": "V-8 ENG 454 C.I.D.-OIL PRESS. PIPE, GAGE & TUBE & SOL. SHIELD",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 big-block oil pressure gauge line and starter heat shield. The oil pressure pipe [7] runs from an elbow [12] at the oil filter boss through connector [11] and sleeve [10] up the side of the block, clipped by bracket [8] and screw [9]; the gauge fitting [1] and tube [2] are at the rear of the engine. The starter motor [4] carries a brace [3] and a solenoid heat shield [5] held by a production screw and a special nut [6]; engine oil fill is 1.376 gal (7c) and the oil pan drain seal [13] is shown in View A.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "???1088",
+      "name": "GAGE ASM.",
+      "name_expanded": "Gauge assembly – oil pressure (engine-side fitting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3981089",
+      "name": "TUBE ASM.",
+      "name_expanded": "Tube assembly – oil pressure gauge",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3965588",
+      "name": "BRACE",
+      "name_expanded": "Brace – starter motor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "1108400",
+      "name": "MOTOR ASM-START",
+      "name_expanded": "Starter motor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3943647",
+      "name": "SHIELD",
+      "name_expanded": "Shield – starter solenoid heat shield",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3943648",
+      "name": "NUT-SPL.",
+      "name_expanded": "Nut – special (heat shield)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3961560",
+      "name": "PIPE ASM-OIL PRESSURE",
+      "name_expanded": "Pipe assembly – oil pressure",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3954228",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – oil pressure pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3817006",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly – pipe bracket",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "121534",
+      "name": "SLEEVE",
+      "name_expanded": "Sleeve – compression (oil pressure pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "135628",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector – oil pressure pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3954219",
+      "name": "ELBOW",
+      "name_expanded": "Elbow – oil pressure fitting at block",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "274244",
+      "name": "SEAL",
+      "name_expanded": "Seal – dipstick tube at oil pan",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "2",
+      "value": "35-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "90-130",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "4",
+      "value": "100-130",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "5",
+      "value": "100-125",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [
+    {
+      "key": "A",
+      "code": "7c",
+      "description": "OIL",
+      "amount": "1.376 Gal.",
+      "where": "engine oil filler cap on the valve cover"
+    }
+  ],
+  "fastening": [
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [],
+      "to": "engine block oil pressure port above the oil filter",
+      "qty": "1",
+      "torque_ref": "5",
+      "note": "Elbow [12] threads into the block. Note *: turn a max of one additional turn if needed to align the fitting.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11",
+        "10"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "elbow [12]",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "Connector [11] threads into elbow [12] (torque 4); the lower end of pipe [7] is clamped into it with sleeve [10] (torque 3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "8",
+        "7"
+      ],
+      "to": "engine (cylinder head/manifold area, LH side in drawing)",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [9] holds bracket [8], which clips pipe [7] partway up.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "upper fitting (gauge line)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Upper end of pipe [7] has a fitting nut (triangle 2) at its connection.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "rear of engine",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Gauge fitting [1] and tube [2] shown at the rear of the engine near the starter; the drawing does not show how they are secured.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "3"
+      ],
+      "to": "starter motor [4]",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Production screw (no callout; triangle 1) goes through the tab of shield [5] and into the starter end at brace [3]. Brace [3] and starter [4] carry the same half-filled circle symbol, whose legend is not on this sheet.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "starter solenoid end",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Special nut [6] secures the other end of shield [5] on a stud at the solenoid.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "engine block",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Starter [4] mounts with production engine bolts (marked ENG, triangle 1); the solenoid terminal is marked SOLENOID with a production symbol.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "how": "seals",
+      "holds": [],
+      "to": "oil pan",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: seal [13] on the dipstick/tube where it enters the oil pan.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "* Turn a max of one additional turn when required to align fitting.",
+    "OIL-1.376 Gal."
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out the first digits; only '1088' readable. Assumed 7 digits (column alignment), so '???1088'.",
+    "Item 11: last digit of 135628 is slightly broken but reads as 8.",
+    "Torque legend triangle numbers are filled in; refs 1-5 assigned by row order. Values themselves are clear. Pipe [7] and screw [9] both carry triangle 2 (35-50 LBS FT), as printed.",
+    "ENG and SOLENOID production-fastener symbols are filled squares; no legend explains them.",
+    "Item 13 location in View A labelled OIL PAN; the part it seals looks like a dipstick tube."
+  ],
+  "revisions": [
+    {
+      "date": "5-19-69",
+      "sym": "1",
+      "text": "WAS 2.00 GAL.",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "12-11-69",
+      "sym": "2",
+      "text": "WAS 3959158 GAGE ASM.",
+      "was": "3959158",
+      "item": "1"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "WAS 3870324 TUBE ASM.",
+      "was": "3870324",
+      "item": "2"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

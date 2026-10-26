@@ -1,0 +1,55 @@
+{
+  "page": 358,
+  "group": "LS5",
+  "sheet": "B2",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- HEATER HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 engine heater hose routing: the heater inlet hose from the intake manifold nipple back to the heater core at the firewall, alongside the production return hose from the water pump. Hoses are held by production clamps at each nipple and production hose clips along the routing; only the inlet manifold hose has an LS5-specific part number.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39???58",
+      "name": "HOSE-INLET MANIFOLD",
+      "name_expanded": "Hose – heater inlet from intake manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    }
+  ],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "intake manifold nipple and heater core inlet at firewall",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [1] slips over the production nipple at the intake manifold and the heater core pipe at the firewall; held with production clamps (no callout) at each end and production hose clips along the run with the second (production) hose.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [],
+  "notes_internal": [
+    "Item 1: hole punch wipes out the middle digits; visible '39' + '58' (OCR reads 39' 58). Assumed 7 digits.",
+    "Fastening uses production clamps/clips/nipples labeled PROD. with no part numbers on this sheet.",
+    "Revision block blank; K356 in margin."
+  ],
+  "revisions": [],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

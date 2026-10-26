@@ -1,0 +1,33 @@
+{
+  "page": 336,
+  "group": "C60",
+  "sheet": "E7",
+  "title": "AIR CONDITIONING- TEST PROCEDURE",
+  "models": [
+    "19000"
+  ],
+  "page_type": "diagram",
+  "status": "active",
+  "summary": "Air conditioning (RPO C60) evacuating and charging equipment hookup, shown as an example only: lines from the two Schrader service fittings on the compressor fitting & muffler assembly join at a tee, then run to a valve from the refrigerant supply and a valve to the vacuum supply. Companion to the procedure on E8. No part numbers.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "EVACUATING AND CHARGING EQUIPMENT (EXAMPLE ONLY)",
+    "'SCHRADER' FITTING (2) on COMPRESSOR FITTING & MUFFLER ASM; lines tee together to a VALVE FROM REFRIGERANT SUPPLY and a VALVE TO VACUUM SUPPLY."
+  ],
+  "notes_internal": [
+    "Shop equipment illustration only; no callouts, part numbers or torques. Torque triangles 1-5 printed at lower left with no values.",
+    "Title block: drawing 3965172; DR C1, CK 5-8-69 C1, PREL 5-5-69, C/O E7. No revisions."
+  ],
+  "revisions": [],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

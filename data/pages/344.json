@@ -1,0 +1,252 @@
+{
+  "page": 344,
+  "group": "LJ2",
+  "sheet": "A4",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2 AIR CLEANER & C/S VENT.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LJ2 454 tri-power: the triangular air cleaner spanning all three carburetors, sitting on a gasket on each carb, held down by a stud screwed into the center carb and a bolt at the end, with the production flame arrestor and wing nut on top. Also the crankcase (C/S) ventilation: a hose from the air cleaner base to a connector in a rocker-cover grommet on one side, and a PCV hose with valve and grommet on the other rocker cover.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "6423757",
+      "name": "AIR CLEANER",
+      "name_expanded": "Air cleaner assembly (triangular, tri-power)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "9425439",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3899698",
+      "name": "GASKET",
+      "name_expanded": "Gasket – air cleaner to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9423581",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3868842",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector – vent hose to rocker cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3933188",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – rocker cover vent connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3919892",
+      "name": "HOSE",
+      "name_expanded": "Hose – crankcase vent, air cleaner to rocker cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3928912",
+      "name": "STUD",
+      "name_expanded": "Stud – air cleaner hold-down",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3829058",
+      "name": "CLAMP",
+      "name_expanded": "Clamp – PCV hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3881859",
+      "name": "HOSE",
+      "name_expanded": "Hose – PCV, rocker cover to carburetor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3933189",
+      "name": "GROMMET",
+      "name_expanded": "Grommet – PCV valve in rocker cover",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "12-18",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "center (primary) carburetor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Stud [8] screws into the top of the center carburetor and passes up through the air cleaner base [1]; the production flame arrestor and wing nut (A, no part number here) go on the stud to hold the lid/element.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "2"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "end carburetor",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Bolt [2] goes down through the end hole of the air cleaner base [1] into the carburetor below.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "carburetor air horns",
+      "qty": null,
+      "torque_ref": null,
+      "note": "A gasket [3] sits between the air cleaner base [1] and each carburetor.",
+      "how": "seals",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "7"
+      ],
+      "to": "air cleaner base fitting and connector [5]",
+      "qty": "2",
+      "torque_ref": "2",
+      "note": "Hose [7] runs from the air cleaner base fitting to connector [5]; a clamp [4] at each end.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5",
+        "6"
+      ],
+      "to": "rocker cover",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connector [5] pushes into grommet [6] in the rocker cover.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "10"
+      ],
+      "to": "rocker cover PCV valve",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hose [10] (molded end to the rocker cover) is clamped [9] on the production PCV valve (A), which sits in grommet [11] in the opposite rocker cover.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Molded end must be assembled to rocker cover.",
+    "[A] Production part"
+  ],
+  "notes_internal": [
+    "Wing nut, arrestor and valve are tagged A = production part; no numbers on this sheet.",
+    "Which carb bolt [2] enters (front or rear) not clear from the drawing.",
+    "Circled 1 at lower right marks revision 1."
+  ],
+  "revisions": [
+    {
+      "date": "6-11-69",
+      "sym": "1",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

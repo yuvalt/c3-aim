@@ -14,9 +14,9 @@ page,sheet,item,pn,issue,hint
 39,1/A6,3,????839-40,unreadable digits,no registry match
 39,1/A6,4,???0?43,unreadable digits,no registry match
 39,1/A6,5,3926326,OCR disagrees,registry agrees
-39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 39,1/A6,,...0343,"registry has it, we don't",FRAME ASM.LWR COR INNER L. H.
 39,1/A6,,...2839,"registry has it, we don't",FRAME-LWR COR OTR
+39,1/A6,,...2840,"registry has it, we don't",FRAME-LWR COR OTR
 40,1/A7,2,?9349??,unreadable digits,no registry match
 40,1/A7,,39349..,"registry has it, we don't",FRAME ASM-W/S UPR OTR
 44,1/A11,1,393????,unreadable digits,"registry: 3932970,3932950"
@@ -49,8 +49,8 @@ page,sheet,item,pn,issue,hint
 96,1/F2,4,3962602,not in registry,
 98,1/F4,9,9419327,OCR disagrees,registry agrees
 104,1/F10,2,396663??0,unreadable digits,no registry match
-104,1/F10,,3966640,"registry has it, we don't",RETAINER
 104,1/F10,,3966639,"registry has it, we don't",RETAINER
+104,1/F10,,3966640,"registry has it, we don't",RETAINER
 105,1/F11,3,9414752,OCR disagrees,registry agrees
 105,1/F11,8,9414764,OCR disagrees,registry agrees
 105,1/F11,11,3936399,OCR disagrees,registry agrees
@@ -88,15 +88,15 @@ page,sheet,item,pn,issue,hint
 172,4/A4,5,3983392-3-4-5,bad format,
 172,4/A4,5,3983392-3-4-5,OCR disagrees,registry agrees
 172,4/A4,14,446212,OCR disagrees,registry agrees
-172,4/A4,,3983393,"registry has it, we don't",SHIM
-172,4/A4,,3983395,"registry has it, we don't",SHIM
 172,4/A4,,3983394,"registry has it, we don't",SHIM
+172,4/A4,,3983395,"registry has it, we don't",SHIM
+172,4/A4,,3983393,"registry has it, we don't",SHIM
 174,4/A6,10,3774712,OCR disagrees,registry agrees
 177,5/A2,4,3948131,OCR disagrees,registry agrees
 178,5/A3,2,3921086,not in registry,
 178,5/A3,13,54?0551,unreadable digits,no registry match
-178,5/A3,,54.0551,"registry has it, we don't",BOOT
 178,5/A3,,3921686,"registry has it, we don't",SPRING
+178,5/A3,,54.0551,"registry has it, we don't",BOOT
 185,6/A2,7,9419061,OCR disagrees,registry agrees
 189,6/B1,1,???????,unreadable digits,no registry match
 190,6/B2,1,?168878,unreadable digits,no registry match
@@ -197,5 +197,46 @@ page,sheet,item,pn,issue,hint
 311,C60/A9,11,,bad format,
 311,C60/A9,11,,OCR disagrees,
 313,C60/B1,1,37???58,unreadable digits,no registry match
+316,C60/C1,7,3991410,OCR disagrees,
+317,C60/C2,1,11??884,unreadable digits,no registry match
+317,C60/C2,2,3993889,OCR disagrees,
+317,C60/C2,3,3952332,OCR disagrees,
+317,C60/C2,4,3952336,OCR disagrees,
+317,C60/C2,16,3925596,OCR disagrees,
+318,C60/C3,4,,bad format,
+318,C60/C3,4,,OCR disagrees,
+319,C60/C4,1,1???93,unreadable digits,no registry match
+320,C60/C5,1,394??15,unreadable digits,no registry match
+320,C60/C5,2,1114418,OCR disagrees,
+320,C60/C5,3,394??17,unreadable digits,no registry match
+320,C60/C5,4,??6404,unreadable digits,no registry match
+320,C60/C5,5,1???20,unreadable digits,no registry match
+320,C60/C5,6,9419?47,unreadable digits,no registry match
+320,C60/C5,7,271172,OCR disagrees,
+320,C60/C5,8,394??21,unreadable digits,no registry match
+321,C60/C6,1,94???34,unreadable digits,no registry match
+324,C60/D1,1,3992??4,unreadable digits,no registry match
+325,C60/D2,1,94?9845,unreadable digits,no registry match
+327,C60/D4,1,3????42,unreadable digits,no registry match
+328,C60/D5,1,9420?51,unreadable digits,no registry match
+329,C60/D6,1,39???63,unreadable digits,no registry match
+330,C60/E1,2,111588?,unreadable digits,no registry match
+340,K66/A1,1,29????3,unreadable digits,no registry match
+340,K66/A1,2,6293398,OCR disagrees,
+345,LJ2/A5,1,3???880,unreadable digits,no registry match
+346,LJ2/A6,6,7029298,OCR disagrees,
+347,LJ2/A7,1,392196?,unreadable digits,no registry match
+347,LJ2/A7,2,3921959,OCR disagrees,
+347,LJ2/A7,3,???????,unreadable digits,no registry match
+353,LS5/A5,1,???1088,unreadable digits,no registry match
+354,LS5/A6,1,890??07,unreadable digits,no registry match
+355,LS5/A7,1,3?80706,unreadable digits,no registry match
+355,LS5/A7,5,3967433,OCR disagrees,
+356,LS5/A8,14,,bad format,
+356,LS5/A8,14,,OCR disagrees,
+358,LS5/B2,1,39???58,unreadable digits,no registry match
+359,LS5/B3,1,39003??,unreadable digits,no registry match
+360,LS5/B4,1,????596,unreadable digits,no registry match
+361,LS5/B5,1,3????92,unreadable digits,no registry match
 430,U69/A6,1,39??344,unreadable digits,no registry match
 430,U69/A6,2,37?8415,unreadable digits,no registry match

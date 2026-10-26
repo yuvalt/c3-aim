@@ -1,0 +1,336 @@
+{
+  "page": 351,
+  "group": "LS5",
+  "sheet": "A3",
+  "title": "V-8 ENG. \"454\"-CARB, FUEL PIPE, FUEL PUMP, SPARK PIPES & HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LS5 454 V-8: Quadrajet carburetor, fuel pump on the front of the block with the fuel pipe up to the carb, the electric choke/heat choke assembly on the intake manifold, the vacuum (spark) solenoid on a bracket under an intake manifold stud, and the spark (vacuum advance) pipes and hoses. Fuel pump bolts to the block with a gasket; the solenoid bracket is held by a production nut and lock washer; the choke is held by a production screw and its rod is retained at the carb lever by a retainer.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "7040205",
+      "name": "CARBURETOR ASM.",
+      "name_expanded": "Carburetor assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3969848",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3969931",
+      "name": "PIPE ASM.",
+      "name_expanded": "Fuel pipe assembly (fuel pump to carburetor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "445673",
+      "name": "PLUG",
+      "name_expanded": "Plug",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "445686",
+      "name": "OPT.",
+      "name_expanded": "Plug, optional",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3874876",
+      "name": "SCREW ASM.",
+      "name_expanded": "Screw assembly (fuel pump to block)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "6440770",
+      "name": "FUEL PUMP ASM.",
+      "name_expanded": "Fuel pump assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "1114434",
+      "name": "SOLENOID ASM.",
+      "name_expanded": "Solenoid assembly (vacuum control)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3969845",
+      "name": "HOSE",
+      "name_expanded": "Hose (at solenoid)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3969847",
+      "name": "PIPE",
+      "name_expanded": "Spark (vacuum) pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3969844",
+      "name": "PIPE",
+      "name_expanded": "Spark (vacuum) pipe",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3967471",
+      "name": "CHOKE ASM.",
+      "name_expanded": "Choke assembly (thermostatic choke coil on manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3924632",
+      "name": "HOSE",
+      "name_expanded": "Hose (distributor vacuum advance)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "3947818",
+      "name": "HOSE",
+      "name_expanded": "Hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "9431655",
+      "name": "RETAINER",
+      "name_expanded": "Choke rod retainer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-125",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-25",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "engine block, front right (fuel pump boss)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Screws [5] go through the fuel pump [6] mounting flange and a production gasket into the block.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "fuel pump [6] outlet and carburetor [1] inlet",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Fuel pipe [3] tube nuts thread into the pump outlet and the carb inlet; torque ref 2 shown at callout [3].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "block / fuel pump area",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Plug [4] (445686 optional) threads in near the fuel pump mounting; torque ref 1.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "intake manifold stud at engine #3 hole",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: solenoid [7] bracket goes over a stud in the engine #3 hole, held by a production nut and lock washer (no callout).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "solenoid [7] nipples",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View B: two hoses [8] push onto the solenoid nipples; in the main view they connect it to spark pipes [9]/[10] (arrow A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "11"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: choke [11] is held by a production screw (no callout); a tang locates it. Its rod goes up to the carb choke lever and is held there by retainer [14].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "14"
+      ],
+      "holds": [],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: retainer [14] holds the choke rod end in the carb lever.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "9",
+        "10"
+      ],
+      "to": "intake manifold / carburetor",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spark pipes [9] and [10] run along the manifold, held by a clip (no callout); hose [12] joins the pipe to the distributor vacuum advance unit (arrow B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "13"
+      ],
+      "to": "carburetor [1]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses [2] and [13] push onto carburetor fittings; other ends not clearly shown.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Carburetor [1] fastening not shown (marked with half-filled circle, which on sheet A2 means assembles same as production).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "ENGINE #3 HOLE (View B)"
+  ],
+  "notes_internal": [
+    "Item 1 has a half-filled circle symbol with no legend on this sheet (A2 legend: assemble same as production).",
+    "Item 12 has circled revision symbol 1.",
+    "Revision 1 old pn handwritten and partly unclear: reads 38?0?58 (3rd digit 5 or 9, 5th digit 4 or 9).",
+    "Exact routing of hoses [2] and [13] and the function of plug [4] not clear from the drawing.",
+    "Square half-black symbol at View B stud (engine #3 hole) has no legend.",
+    "Page stamped K349."
+  ],
+  "revisions": [
+    {
+      "date": "1-16-70",
+      "sym": "1",
+      "text": "WAS 38?0?58 HOSE",
+      "was": "38?0?58",
+      "item": "12"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "page": 343,
+  "group": "LJ2",
+  "sheet": "A3",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2 CARBURETORS & CHOKE",
+  "models": [
+    "19400"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "RPO LJ2 454 tri-power (three two-barrel carburetors): the primary (center) carburetor and two secondary (end) carburetors sit on the intake manifold, each on its own gasket, held by bolts and nuts on manifold studs. View A shows the auto-choke thermostat cover on the manifold, with its rod held by a clip and the cover held by a screw.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3902353",
+      "name": "CARB. ASM.-SECONDARY",
+      "name_expanded": "Carburetor assembly – secondary (front and rear 2-barrel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3975951",
+      "name": "CARB. ASM.-PRIMARY",
+      "name_expanded": "Carburetor assembly – primary (center 2-barrel)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3967483",
+      "name": "RPO LJ2",
+      "name_expanded": "Carburetor assembly – primary, RPO LJ2",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9418918",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3967486",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3967488",
+      "name": "GASKET",
+      "name_expanded": "Gasket – carburetor to intake manifold",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3975992",
+      "name": "THERMOSTAT CVR AUTO-CHOKE",
+      "name_expanded": "Thermostat cover – automatic choke (choke stove/coil on manifold)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "7005165",
+      "name": "CLIP",
+      "name_expanded": "Clip – choke rod",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "456867",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "84-120",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "3",
+        "4"
+      ],
+      "holds": [
+        "1",
+        "2",
+        "5"
+      ],
+      "to": "intake manifold",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Each carburetor [1],[2] sits on its own gasket [5] and is held by nuts [4] on manifold studs and bolts [3]. One bolt [3] is marked A: used only on the left as shown. A further callout marked '-' with torque 1 points to a nut on the right secondary carb (no part number; production part).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "8"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "intake manifold choke pocket",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: screw [8] holds the thermostat cover [6]; its callout triangle carries no number.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "7"
+      ],
+      "holds": [],
+      "to": "carburetor choke lever",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: clip [7] retains the choke rod from thermostat cover [6] at the carburetor choke lever.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Used only on left as shown."
+  ],
+  "notes_internal": [
+    "Item 8 callout triangle is empty (no number); torque_ref left null.",
+    "Callout '-' with triangle 1 at right secondary carb: no item number, likely a production nut.",
+    "Circled 3 next to note A marks revision 3."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "WAS 3967493 CHOKE",
+      "was": "3967493",
+      "item": "6"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 8 ADDED",
+      "was": null,
+      "item": "8"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "RPO LJ1 CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

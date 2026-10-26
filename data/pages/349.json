@@ -1,0 +1,129 @@
+{
+  "page": 349,
+  "group": "LS5",
+  "sheet": "A1",
+  "title": "V-8 ENGINE \"454\" C.I.D. HI PERF.- CONTENTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "index",
+  "status": "active",
+  "summary": "RPO LS5 454 cu. in. high-performance V-8 (390 hp big block): contents of the LS5 sheets, with overview drawings of the engine pointing to where each sheet applies (crankcase ventilation, carburetor and fuel pump, spark plug wiring, radiator hoses, generator/alternator mounting, heater hoses). View A shows where the V.I.N. derivative and the engine I.D. code are stamped on the block pad in front of the right cylinder head.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "V.I.N. LOCATION SEE UPC 0",
+    "ENGINE I.D. CODE (View A)"
+  ],
+  "notes_internal": [
+    "Contents rows A6 and A8 carry circled revision symbols 3 and 4.",
+    "View A: engine pad location read from drawing; side of engine not labeled.",
+    "Page stamped K347."
+  ],
+  "revisions": [
+    {
+      "date": "6-2-69",
+      "sym": "1",
+      "text": "C/O NOTE REMOVED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "1-6-70",
+      "sym": "2",
+      "text": "TITLE REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "SHT A6 REVISED",
+      "was": null,
+      "item": "A6"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "SHT A8 ADDED",
+      "was": null,
+      "item": "A8"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [
+    {
+      "title": "LS5 CONTENTS",
+      "columns": [
+        "sheet",
+        "title"
+      ],
+      "rows": [
+        [
+          "A1",
+          "CONTENTS"
+        ],
+        [
+          "A2",
+          "NON-ILLUSTRATED PARTS"
+        ],
+        [
+          "A3",
+          "CARB., FUEL PIPE, FUEL PUMP, SPARK PIPES & HOSES"
+        ],
+        [
+          "A4",
+          "CRANKCASE VENTILATION"
+        ],
+        [
+          "A5",
+          "OIL PRESSURE PIPE, GAGE & TUBE & SOLENOID HEAT SHIELD"
+        ],
+        [
+          "A6",
+          "SPARK PLUG WIRING, SHIELDS & COIL"
+        ],
+        [
+          "A7",
+          "RADIATOR HOSES & HEAT SHIELD"
+        ],
+        [
+          "A8",
+          "GEN. MTG., PULLEYS & BELTS"
+        ],
+        [
+          "B1",
+          "REAR STABILIZER SHAFT"
+        ],
+        [
+          "B2",
+          "HEATER HOSES"
+        ],
+        [
+          "B3",
+          "HOOD NUMERALS & MOLDING"
+        ],
+        [
+          "B4",
+          "RADIATOR & SUPPORT"
+        ],
+        [
+          "B5",
+          "RADIATOR SEALS"
+        ],
+        [
+          "B6",
+          "RADIATOR SHROUD, EXTENSION & SEALS"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

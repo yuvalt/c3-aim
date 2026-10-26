@@ -1,0 +1,259 @@
+{
+  "page": 346,
+  "group": "LJ2",
+  "sheet": "A6",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2- DIVERTER VALVE & A.I.R. HOSES",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "454 3x2 (triple two-barrel) engine option LJ2: A.I.R. (smog/air injection) system: air pump pulley, diverter valve on an adapter bolted to the air pump, LH and RH hoses from the valve to the air injection manifold pipes along each exhaust manifold, and the vacuum signal hose from the carburetor. The pulley bolts to the pump hub; the adapter and diverter valve bolt to the pump with washers, one nut on a stud; the hoses are clamped. Many hardware pieces (marked A) assemble same as RPO LT1.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3981061",
+      "name": "PIPE ASM.",
+      "name_expanded": "A.I.R. injection pipe assembly (air manifold), LH",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "1",
+      "pn": "3981064",
+      "name": "R.H.",
+      "name_expanded": "A.I.R. injection pipe assembly (air manifold), RH",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3955219",
+      "name": "HOSE L.H.",
+      "name_expanded": "A.I.R. hose, LH (diverter valve to LH pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3925522",
+      "name": "PULLEY",
+      "name_expanded": "A.I.R. pump pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419000",
+      "name": "BOLT",
+      "name_expanded": "Bolt (pulley to pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3877608",
+      "name": "SPACER",
+      "name_expanded": "Spacer (air pump mounting)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "7029298",
+      "name": "DIVERTER VALVE",
+      "name_expanded": "A.I.R. diverter valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3955220",
+      "name": "HOSE R.H.",
+      "name_expanded": "A.I.R. hose, RH (diverter valve to RH pipe)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3942591",
+      "name": "HOSE-SIGNAL",
+      "name_expanded": "Diverter valve vacuum signal hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut (diverter valve to adapter)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3955222",
+      "name": "ADAPTER ASM.",
+      "name_expanded": "Diverter valve adapter assembly (on air pump)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "75-95",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "150-175",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "3"
+      ],
+      "to": "air pump hub",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Bolts [4] go through the pulley [3] into the pump hub, from the front. Pulley carries a stamped part number (note B).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "10"
+      ],
+      "to": "air pump",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: adapter [10] bolts to the air pump outlet with a gasket between; bolt, plain washer and lock washer are A items (same as RPO LT1), no callout.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "adapter [10]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "View A: diverter valve [6] mounts on the adapter [10] with a gasket; one bolt with plain + lock washer (A items, no callout) and one nut [9] with plain + lock washer (A) on a stud.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2",
+        "7"
+      ],
+      "to": "diverter valve [6] outlets and pipe assemblies [1] check valves",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Hoses [2] (LH) and [7] (RH) have molded ends; clamped with A clamps (no callout) at the diverter valve and at the check valves (A VALVE) on the pipes [1].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "carburetor vacuum fitting and diverter valve [6]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Signal hose [8] runs from the carburetor fitting (CARB) to the diverter valve vacuum nipple.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1"
+      ],
+      "to": "cylinder heads (along each exhaust manifold)",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Pipe assembly [1] tube nuts thread into the heads; torque ref 2 shown at both callouts of [1]. Check valve (A VALVE) on the pipe.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "5"
+      ],
+      "to": "air pump mounting stud",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Spacer [5] sits on the pump mounting stud, retained by an A nut (no callout); pump also held by an A bolt.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "[A] Part assembles same as RPO LT1",
+    "[B] Stamped part no."
+  ],
+  "notes_internal": [
+    "View A: a second [2] callout points at the oval body on the diverter valve rather than a hose; read as printed.",
+    "Air cleaner, stud and bolt labelled in drawing without callouts (not part of this sheet's list).",
+    "Item 6 pn: Vision OCR read 7025298; crop clearly reads 7029298.",
+    "Page also stamped K344 at right margin."
+  ],
+  "revisions": [
+    {
+      "date": "9-17-69",
+      "sym": "2",
+      "text": "REDRAWN & REDESIGNED 25948",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

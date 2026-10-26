@@ -1,0 +1,428 @@
+{
+  "page": 356,
+  "group": "LS5",
+  "sheet": "A8",
+  "title": "V-8 ENG \"454\" C.I.D. HI PERF.- GEN. MTG., PULLEYS & BELTS",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 big-block front accessory drive: generator (alternator) [2] with its fan [3] and pulley [4], lower mounting bracket [5] and upper adjusting brace [1], crankshaft pulley [8], water pump pulley [11], fan clutch [12] and the two drive belts [6]/[7]. The bracket bolts to the engine with bolts [18] and lock washers [17]; a long bolt [20] passes through the bracket, generator ear, spacer [19] and washers [15] into nut [16]; the brace is bolted to the engine with [18]/[17] and to the generator with a production bolt. The crank pulley is held by bolt [10] and special washer [9]; the fan clutch bolts to the pump pulley with bolts [13].",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3919886",
+      "name": "BRACE",
+      "name_expanded": "Brace – generator upper adjusting brace",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "1100900",
+      "name": "GENERATOR",
+      "name_expanded": "Generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1966990",
+      "name": "FAN-GEN",
+      "name_expanded": "Fan – generator (alternator cooling fan)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3846180",
+      "name": "PULLEY-GEN",
+      "name_expanded": "Pulley – generator (alternator)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "3882810",
+      "name": "BRACKET",
+      "name_expanded": "Bracket – generator lower mounting",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3940991",
+      "name": "BELT (2ND TRACK)",
+      "name_expanded": "Belt – 2nd track (fan/generator belt)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "3952336",
+      "name": "BELT (1ST TRACK)",
+      "name_expanded": "Belt – 1st track",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3921923",
+      "name": "PULLEY-C/SHAFT",
+      "name_expanded": "Pulley – crankshaft (harmonic balancer pulley)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3914674",
+      "name": "SPL. WASHER",
+      "name_expanded": "Washer – special (crank pulley bolt)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "9418822",
+      "name": "BOLT",
+      "name_expanded": "Bolt – crankshaft pulley",
+      "models": [],
+      "qty": null,
+      "torque_ref": "3",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3889372",
+      "name": "PULLEY ASM.-W/PUMP",
+      "name_expanded": "Pulley assembly – water pump",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3937771",
+      "name": "CLUTCH ASM.",
+      "name_expanded": "Fan clutch assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "13",
+      "pn": "9419030",
+      "name": "BOLT",
+      "name_expanded": "Bolt – fan clutch / pulley to water pump hub",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "14",
+      "pn": "",
+      "name": "",
+      "name_expanded": "Blank line (nut 9418931 removed, rev 1)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "15",
+      "pn": "3825452",
+      "name": "P. WASHER",
+      "name_expanded": "Washer – plain",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "16",
+      "pn": "9422297",
+      "name": "NUT",
+      "name_expanded": "Nut – generator pivot bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": "4",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "17",
+      "pn": "103321",
+      "name": "L. WASHER",
+      "name_expanded": "Washer – lock",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "18",
+      "pn": "180122",
+      "name": "BOLT",
+      "name_expanded": "Bolt – generator bracket / brace to engine",
+      "models": [],
+      "qty": null,
+      "torque_ref": "5",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "19",
+      "pn": "3831946",
+      "name": "SPACER",
+      "name_expanded": "Spacer – generator pivot",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "20",
+      "pn": "3792380",
+      "name": "BOLT",
+      "name_expanded": "Bolt – generator pivot (long)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "100-140",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "40-50",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "3",
+      "value": "20-27",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "4",
+      "value": "20-30",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "5",
+      "value": "30-40",
+      "unit": "LBS FT"
+    },
+    {
+      "ref": "6",
+      "value": "15-20",
+      "unit": "LBS FT"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "18",
+        "17"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "engine (front of cylinder head/block)",
+      "qty": "2",
+      "torque_ref": "5",
+      "note": "View A: two bolts [18] with lock washers [17] go through the lower bracket [5] into the engine from the front/outboard side.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "20",
+        "15",
+        "19",
+        "16"
+      ],
+      "holds": [
+        "2",
+        "5"
+      ],
+      "to": "bracket [5]",
+      "qty": "1",
+      "torque_ref": "4",
+      "note": "View A: long bolt [20] passes through bracket [5], the generator mounting ears with plain washers [15] and spacer [19], and is secured by nut [16] (torque 4) on the far side. A third bolt [18] with lock washer [17] also enters the bracket/engine at the back of View A.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "18",
+        "17"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "engine (front of cylinder head)",
+      "qty": "1",
+      "torque_ref": "5",
+      "note": "View B: bolt [18] with lock washer [17] holds the inner end of brace [1] to the engine.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "generator [2] upper ear",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View B: production bolt, lock washer and plain washer (marked [A], no callouts) go through the slot in brace [1] into the generator; used to set belt tension.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3",
+        "4"
+      ],
+      "to": "generator [2] shaft",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Fan [3] and pulley [4] are clamped on the generator shaft by the production generator nut and washer (marked GEN, triangle 2).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "10",
+        "9"
+      ],
+      "holds": [
+        "8"
+      ],
+      "to": "crankshaft balancer",
+      "qty": "1",
+      "torque_ref": "3",
+      "note": "Bolt [10] through special washer [9] and production lock washer [A] holds the crank pulley [8].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "13"
+      ],
+      "holds": [
+        "11",
+        "12"
+      ],
+      "to": "water pump hub",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Bolts [13] with production lock washers [A] hold the fan clutch [12] and pulley [11] on the water pump hub; the production fan [A] is bolted to the clutch with production nuts (triangle 6) and lock washers on studs (triangle 3).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6",
+        "7"
+      ],
+      "to": "crank pulley [8], water pump pulley [11], generator pulley [4]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Belts [6] (2nd track) and [7] (1st track); note B: for belt tensioning see UPC 6.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "[A] Prod Part",
+    "[B] For belt tensioning-See UPC 6",
+    "[C] Shield must remain on water pump bearing hub until water pump pulley is installed."
+  ],
+  "notes_internal": [
+    "Item 14 line is blank (circled 1): rev 1 says nut 9418931 removed; probably that line, not stated explicitly.",
+    "Torque legend triangle numbers partly filled in; refs 1-6 assigned by row order.",
+    "Rev 2 text partly illegible after 'ITEM 17 ADDED &'.",
+    "Production stud (triangle 3) and nut (triangle 6) location: at the fan/clutch hub in View B; exact stack not clear.",
+    "Which belt goes over which pulleys not traced."
+  ],
+  "revisions": [
+    {
+      "date": "5-7-70",
+      "sym": "1",
+      "text": "9418931 NUT REMOVED",
+      "was": "9418931",
+      "item": "14"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "ITEM 17 ADDED & ??G REV",
+      "was": null,
+      "item": "17"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "ITEM 18 & TORQUE ADDED",
+      "was": null,
+      "item": "18"
+    },
+    {
+      "date": "6-12-70",
+      "sym": "4",
+      "text": "BRACE DRAWING REVISED",
+      "was": null,
+      "item": "1"
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

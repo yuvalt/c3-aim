@@ -1,0 +1,193 @@
+{
+  "page": 359,
+  "group": "LS5",
+  "sheet": "B3",
+  "title": "V-8 ENGINE 454-MOLDING, HOOD NUMERALS & HOLE DRILLING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "LS5 454 hood: the hood panel assembly, the LH/RH hood molding (the raised trim on the hood scoop / power bulge rear edge) and the \"454\" hood emblem numerals, plus drilling dimensions for the numerals (View A LH, View B RH). The molding has its own studs (no separate stud callout) that pass through the hood and take nuts from underneath; the numerals have pins that go into drilled holes.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "39003??",
+      "name": "NUMERAL",
+      "name_expanded": "Numeral \"4\" – hood 454 emblem (used twice)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3963199",
+      "name": "NUMERAL",
+      "name_expanded": "Numeral \"5\" – hood 454 emblem",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3966669",
+      "name": "PANEL ASM-HOOD",
+      "name_expanded": "Hood panel assembly (454 big-block hood)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "9419753",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9420272",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "3922285-6",
+      "name": "MOLDING",
+      "name_expanded": "Molding – hood (LH/RH)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "10-15",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "4"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "hood panel [3]",
+      "qty": null,
+      "torque_ref": "1",
+      "note": "Molding [6] has its own threaded studs (no separate callout); studs pass through the hood and nut [4] goes on from underneath.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "6"
+      ],
+      "to": "hood panel [3]",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Nut [5] on the molding's other stud/end attachment from underneath the hood.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "hood panel [3], top surface near the molding",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Numerals \"4\" [1], \"5\" [2], \"4\" [1] have integral pins that go into drilled holes: 11/64 dia (6) holes and 7/64 dia (3) holes, per View A (LH) and View B (RH). No retainer shown.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "11/64 +0 -1/64 DIA (6) HOLES",
+    "7/64 +0 -1/64 DIA (3) HOLES",
+    "VIEW A L.H.",
+    "VIEW B R.H. SAME AS L.H. EXC. AS SHOWN",
+    "View A dims: 1.60, 1.09, .97, 1.10, 1.09, .97, 1.65, .35, .05, .27, .10, .20, 3.04, 1.52",
+    "View B dims: 1.60, 2.87, 1.15, 1.69, 1.65"
+  ],
+  "notes_internal": [
+    "Item 1: hole punch wipes out last digits; visible '39003'. Assumed 7 digits.",
+    "Item 3 is followed by a half-filled circle symbol and revision 1 circle.",
+    "Hood panel [3]: base part, no fastening on this sheet (hinges elsewhere).",
+    "Circled 25 in Views A and B: reference mark, meaning not stated.",
+    "Revision 1 date read as 5-20-70 (printed '5·20·70', first character slightly smudged)."
+  ],
+  "revisions": [
+    {
+      "date": "5-20-70",
+      "sym": "1",
+      "text": "WAS 3964150 PANEL",
+      "was": "3964150",
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "VIEW A ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "VIEW B ADDED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "TITLE REVISED",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "\"PART OF\" SYM.REMOVED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LS5"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "page": 331,
+  "group": "C60",
+  "sheet": "E2",
+  "title": "AIR CONDITIONING-CONTROL ASM. WIRING & VACUUM HOSE ASM.",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) heater/A/C control head in the console: the control assembly with its temperature cable to the valve on the heater case, the color-striped vacuum hose harness to the actuators (outside-air diaphragm, water valve, heater, de-ice, A/C, defog), the switch, and the instrument panel harness and connector. The vacuum switch terminal is held by a screw (with M40 automatic), another screw holds hardware at the side of the control, and a clip retains the vacuum hose at the defroster vacuum actuator.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "447143",
+      "name": "SCREW-RPO M40",
+      "name_expanded": "Screw – with RPO M40 (Turbo Hydra-Matic)",
+      "models": [],
+      "qty": null,
+      "torque_ref": "2",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "3942622",
+      "name": "CONTROL ASM.",
+      "name_expanded": "Control assembly – A/C heater control head",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "3949876",
+      "name": "CABLE ASM.-TEMP",
+      "name_expanded": "Cable assembly – temperature control",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3942657",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – on control head",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9419320",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "2977253",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector – 14 ga brown wire",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "8901811",
+      "name": "HARNESS ASM.-INST. PANEL",
+      "name_expanded": "Harness assembly – instrument panel (A/C)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "3984651",
+      "name": "HOSE ASM.-VAC CONTROL",
+      "name_expanded": "Hose assembly – vacuum control harness (color-striped hoses)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – vacuum hose at defroster actuator",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "5-10",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "20-27",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "production terminal"
+      ],
+      "to": "vacuum switch on control asm. [2]",
+      "qty": "1",
+      "torque_ref": "2",
+      "note": "Screw [1] goes through the production terminal into the vacuum switch on the side of the control (RPO M40 cars).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket on the right side of the control asm.",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [5] goes into the right-hand side of the control asm. at the vacuum valve / hose connector area.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "3"
+      ],
+      "to": "control asm. [2] and the temperature valve at the heater case",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Temperature cable [3] is held at the control by a production nut and runs to the valve on the left of the heater/evaporator case.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "8"
+      ],
+      "to": "vacuum valve on control asm. [2]",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Vacuum hose asm. [8] plugs onto the control's vacuum valve; individual hoses go to the actuators per the stripe chart.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "9"
+      ],
+      "holds": [
+        "vacuum hose"
+      ],
+      "to": "defroster vacuum actuator",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Clip [9] at the vacuum actuator (top center). For clip installation see plenum valve sheet (note A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "6"
+      ],
+      "to": "14 ga brown wire, A/C harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Connector [6] joins the 14 ga brown lead near the control; harness [7] runs along the A/C harness.",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Defroster valve must return to free position within ± .25 at defroster valve tip when vacuum is vented.",
+    "View B: .60 (dimension at defroster valve).",
+    "A: For clip inst see plenum valve sheet."
+  ],
+  "notes_internal": [
+    "Half-filled circle symbols next to callouts 2, 3, 4 and 7 are unexplained on this sheet.",
+    "Control asm. [2]: mounting to the console is not shown (production fasteners).",
+    "Switch asm. [4]: shown on the control head; no separate fastener called out.",
+    "Screw [5]: what exactly it clamps is not clear in the drawing."
+  ],
+  "revisions": [
+    {
+      "date": "5-22-70",
+      "sym": "10",
+      "text": "WAS 8901372 HARNESS",
+      "was": "8901372",
+      "item": "7"
+    }
+  ],
+  "options": [
+    "C60",
+    "M40"
+  ],
+  "tables": [
+    {
+      "title": "HOSE",
+      "columns": [
+        "Hose",
+        "Stripe",
+        "Usage"
+      ],
+      "rows": [
+        [
+          "1",
+          "GREEN",
+          "O.S.A DIAPH"
+        ],
+        [
+          "2",
+          "WHITE",
+          "WATER VLVE"
+        ],
+        [
+          "3",
+          "NONE",
+          "SUPPLY"
+        ],
+        [
+          "5",
+          "PINK",
+          "HEATER"
+        ],
+        [
+          "6",
+          "RED",
+          "DE-ICE"
+        ],
+        [
+          "8",
+          "TAN",
+          "A/C"
+        ],
+        [
+          "9",
+          "BLUE",
+          "DE-FOG"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

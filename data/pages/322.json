@@ -1,0 +1,59 @@
+{
+  "page": 322,
+  "group": "C60",
+  "sheet": "C7",
+  "title": "AIR CONDITIONING-CARB SOLENOID WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "Air conditioning (C60) wiring between the A/C compressor feed wire and the carburetor idle solenoid, for cars with RPO LJ1-LJ2 and M20-M21 transmissions. This sheet was CANCELED 10-24-69. As drawn, the compressor feed wire's connector is removed, the wire is inserted into a connector [2] and plugged into the jumper of harness [1], which runs over the engine to the solenoid assembly.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [],
+      "how": "holds",
+      "holds": [
+        "1",
+        "2"
+      ],
+      "to": "compressor feed wire",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: the compressor feed wire's own connector is removed; the wire goes into connector [2], which plugs into the jumper of [1]. [1] runs across the top of the engine to the carburetor solenoid assembly. No mechanical fasteners shown.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "NOTE: Remove connector from compressor feed wire. Insert wire into [2] & plug it into jumper of [1]."
+  ],
+  "notes_internal": [
+    "Sheet CANCELED (stamp and revision 1); no callout list printed, so items [1] (wire/jumper harness) and [2] (connector) have no part numbers and are left out of parts.",
+    "Model box prints 'RPO LJ1-LJ2' as read; copied as printed.",
+    "Revision 1 date last digit partly smudged; reads 10-24-69."
+  ],
+  "revisions": [
+    {
+      "date": "10-24-69",
+      "sym": "1",
+      "text": "SHEET CANCELED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60",
+    "LJ1",
+    "LJ2",
+    "M20",
+    "M21"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

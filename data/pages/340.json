@@ -1,0 +1,359 @@
+{
+  "page": 340,
+  "group": "K66",
+  "sheet": "A1",
+  "title": "TRANSISTOR IGNITION SYSTEM- COIL & WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "canceled",
+  "summary": "RPO K66 transistor (electronic) ignition, canceled 1970 option: special ignition coil on the engine, a transistor ignition amplifier (control box) bolted to a panel beside the engine with three bolts, lock washers and nuts, plus the wiring harness and ignition-switch wire. The coil's black lead goes to the negative post and white to the positive post; the amplifier carries a black ground strap under a production screw. Sheet is stamped CANCELED.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "29????3",
+      "name": "CONNECTOR",
+      "name_expanded": "Connector",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "6293398",
+      "name": "WIRE ASM.",
+      "name_expanded": "Wire assembly (ignition switch to amplifier)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1115272",
+      "name": "COIL ASM.",
+      "name_expanded": "Ignition coil assembly (transistor ignition)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "1115263",
+      "name": "COIL ASM.",
+      "name_expanded": "Ignition coil assembly – LS5, LS7 & LJ2 engines",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "6297596",
+      "name": "HARNESS ASM.",
+      "name_expanded": "Wiring harness assembly (coil/distributor to amplifier)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "1115343",
+      "name": "AMPLIFIER ASM.",
+      "name_expanded": "Transistor ignition amplifier assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9419006",
+      "name": "BOLT",
+      "name_expanded": "Bolt",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "103319",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "9419912",
+      "name": "NUT",
+      "name_expanded": "Nut",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "9",
+      "pn": "1100884",
+      "name": "GENERATOR ASM.",
+      "name_expanded": "Generator (alternator) assembly",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3970045",
+      "name": "ENGINE ASM.-RPO L46",
+      "name_expanded": "Engine assembly – RPO L46",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3970047",
+      "name": "RPO C60",
+      "name_expanded": "Engine assembly – RPO C60",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3976047",
+      "name": "RPO LS5",
+      "name_expanded": "Engine assembly – RPO LS5",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3976048",
+      "name": "RPO M40",
+      "name_expanded": "Engine assembly – RPO M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3976049",
+      "name": "RPO LJ1",
+      "name_expanded": "Engine assembly – RPO LJ1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3976050",
+      "name": "RPO M40",
+      "name_expanded": "Engine assembly – RPO M40",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3972113",
+      "name": "RPO LT1",
+      "name_expanded": "Engine assembly – RPO LT1",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "10",
+      "pn": "3972115",
+      "name": "RPO LT1 W/M22",
+      "name_expanded": "Engine assembly – RPO LT1 with M22",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3747298",
+      "name": "TAPE",
+      "name_expanded": "Tape",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "2962572",
+      "name": "TERMINAL",
+      "name_expanded": "Terminal",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "35-50",
+      "unit": "LBS IN"
+    },
+    {
+      "ref": "2",
+      "value": "25-35",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "6",
+        "7",
+        "8"
+      ],
+      "holds": [
+        "5"
+      ],
+      "to": "body panel beside the engine (inner fender area)",
+      "qty": "3",
+      "torque_ref": "1",
+      "note": "Bolt [6] passes through the amplifier [5] mounting ears and the panel; lock washer [7] and nut [8] on the far side. Drill 9/32 dia. holes at the 3 dimples. Black ground strap is held by a production screw next to the amplifier.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "4"
+      ],
+      "to": "coil [3] terminals",
+      "qty": null,
+      "torque_ref": "2",
+      "note": "Harness [4]: black lead to coil negative (-) post, white lead to positive (+) post; terminal nuts are production (no callout) and take torque 2. Harness runs back along the fender through a clip and a grommet (see UPC 12) to the amplifier [5].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "11"
+      ],
+      "how": "holds",
+      "holds": [
+        "4"
+      ],
+      "to": "engine wiring harness",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Tape [11]: 5 inches used to tape the red-white and black positive coil wire to the engine wiring harness (note A).",
+      "from": "note"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "engine wiring harness positive lead (yellow wire)",
+      "qty": null,
+      "torque_ref": null,
+      "note": "View A: terminal [12] crimped onto the yellow wire and inserted into connector [1].",
+      "from": "note"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "2"
+      ],
+      "to": "ignition switch connector",
+      "qty": null,
+      "torque_ref": null,
+      "note": "Wire [2] terminal inserts into the ignition switch connector cavity; the 12 Ga pink wire is removed from the ignition switch connector.",
+      "from": "note"
+    }
+  ],
+  "notes": [
+    "Remove 12 Ga pink wire from ign sw connector.",
+    "Insert term in ign sw cavity.",
+    "Engine wiring harness positive lead: remove it from the coil, cut off the existing terminal, crimp terminal [12] onto the yellow wire, and insert it into connector [1].",
+    "[A] 5 inches used to tape Red-White & Black positive coil wire to Engine Wiring Harness.",
+    "DIMPLES 9/32 DIA.-3 HOLE",
+    "WIRES & CONN (PART OF DIST)",
+    "GROMMET (SEE UPC-12)"
+  ],
+  "notes_internal": [
+    "Item 1: binder hole wipes the middle digits; visible '29' ... '3' (possibly '63'/'53').",
+    "Half-filled circle symbols next to callouts 3, 9 and 10 are not explained on this sheet (elsewhere: 'assembles same as prod').",
+    "Coil [3] mounting not shown with callouts; engine [10] and generator [9] only located.",
+    "Rev 1 date: first digit smudged (reads like 6-30-69); rev 3 date reads 10-?-69 (second number unclear: 2 or 7)."
+  ],
+  "revisions": [
+    {
+      "date": "?-30-69",
+      "sym": "1",
+      "text": "1115263 RPO LS5, LS7 & LJ2 ADDED",
+      "was": null,
+      "item": "3"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "3976047 RPO LS5, 3976048 RPO M40, 3976049 RPO LJ1, 3976050 RPO M40 ADDED",
+      "was": null,
+      "item": "10"
+    },
+    {
+      "date": "10-?-69",
+      "sym": "3",
+      "text": "RPO K66 CANCELLED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "K66"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

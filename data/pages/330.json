@@ -1,0 +1,275 @@
+{
+  "page": 330,
+  "group": "C60",
+  "sheet": "E1",
+  "title": "AIR CONDITIONING-FRONT WIRING",
+  "models": [
+    "19000"
+  ],
+  "page_type": "assembly",
+  "status": "active",
+  "summary": "Air conditioning (C60) engine-compartment wiring: the A/C harness from the dash panel to the blower resistor, compressor relay (blower relay), water-valve vacuum switch and the compressor clutch, with its ground wire at the compressor. The harness and vacuum hose are held to the dash panel with clips and a strap; the relay and the switch are each held by a screw. Don't plug in the compressor connector until the system has been leak tested.",
+  "parts": [
+    {
+      "item": "1",
+      "pn": "3894533",
+      "name": "CLIP",
+      "name_expanded": "Clip – harness / vacuum hose",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "2",
+      "pn": "111588?",
+      "name": "RELAY ASM.",
+      "name_expanded": "Relay assembly – A/C",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": true,
+      "source": "page"
+    },
+    {
+      "item": "3",
+      "pn": "9422033",
+      "name": "STRAP",
+      "name_expanded": "Strap – harness",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "4",
+      "pn": "3942651",
+      "name": "RESISTOR ASM.",
+      "name_expanded": "Resistor assembly – blower motor resistor",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "5",
+      "pn": "9427398",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "6",
+      "pn": "9421936",
+      "name": "SCREW",
+      "name_expanded": "Screw",
+      "models": [],
+      "qty": null,
+      "torque_ref": "1",
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "7",
+      "pn": "2985549",
+      "name": "WIRE ASM.-GRD.",
+      "name_expanded": "Wire assembly – ground (compressor)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "8",
+      "pn": "138479",
+      "name": "L. WASHER",
+      "name_expanded": "Lock washer",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "11",
+      "pn": "3917359",
+      "name": "SWITCH ASM.",
+      "name_expanded": "Switch assembly – at water shut-off valve (View A)",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    },
+    {
+      "item": "12",
+      "pn": "3984660",
+      "name": "CLIP",
+      "name_expanded": "Clip – at water shut-off valve",
+      "models": [],
+      "qty": null,
+      "torque_ref": null,
+      "uncertain": false,
+      "source": "page"
+    }
+  ],
+  "torques": [
+    {
+      "ref": "1",
+      "value": "15-20",
+      "unit": "LBS IN"
+    }
+  ],
+  "materials": [],
+  "fastening": [
+    {
+      "fastener_items": [
+        "1"
+      ],
+      "holds": [
+        "A/C harness",
+        "A/C vacuum hose"
+      ],
+      "to": "dash panel",
+      "qty": "several",
+      "torque_ref": null,
+      "note": "Clips [1] hold the A/C harness and A/C vacuum hose along the dash panel; see sheet D-1 for the attaching nut.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "1"
+      ],
+      "to": "top of evaporator case / cowl, beside resistor [4]",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [5] is driven down through a clip [1] at the top of the evaporator area near the resistor [4].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "5"
+      ],
+      "holds": [
+        "11"
+      ],
+      "to": "bracket at water shut-off valve",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "View A: screw [5] holds switch asm. [11] (purple wire) on its bracket.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "6"
+      ],
+      "holds": [
+        "2"
+      ],
+      "to": "bracket beside the engine wiring harness",
+      "qty": "1",
+      "torque_ref": "1",
+      "note": "Screw [6] mounts the relay asm. [2].",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "3"
+      ],
+      "holds": [
+        "A/C harness"
+      ],
+      "to": "refrigerant hose",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "Strap [3] ties the harness lead to the refrigerant hose toward the compressor.",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [
+        "12"
+      ],
+      "holds": [
+        "vacuum hose"
+      ],
+      "to": "water shut-off valve",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View A: clip [12] at the valve. For clip installation see the plenum valve sheet (note A).",
+      "from": "drawing"
+    },
+    {
+      "fastener_items": [],
+      "holds": [
+        "7"
+      ],
+      "to": "compressor",
+      "qty": "1",
+      "torque_ref": null,
+      "note": "View B: ground wire [7] runs from the compressor connector and is fastened to the compressor bracket with the attaching parts shown (screw and washers; lock washer [8] presumably among them).",
+      "from": "drawing"
+    }
+  ],
+  "notes": [
+    "NOTE: Cut orange wire to within .25 of breakout & discard connector.",
+    "NOTE: Plug conn. (Black wires into A/C harness conn. (Ground)",
+    "CAUTION: Do not install connector to compressor until after system has been leak tested.",
+    "A: For clip inst see plenum valve sheet."
+  ],
+  "notes_internal": [
+    "Item 2: last digit broken in scan (looks like a 1 missing its foot); left as '?'.",
+    "Items 9 and 10: blank lines; revision 4 '381700 NUT REMOVED' sits next to item 9.",
+    "Resistor [4]: drawing shows its location on the evaporator case but no callout for its fasteners.",
+    "Lock washer [8]: no callout in the drawing; assumed part of View B attaching parts but not shown explicitly.",
+    "Item 1 also appears near the top screw [5]; that screw-through-clip reading is from the drawing but not certain."
+  ],
+  "revisions": [
+    {
+      "date": "2-24-70",
+      "sym": "4",
+      "text": "381700 NUT REMOVED",
+      "was": "381700",
+      "item": "9"
+    },
+    {
+      "date": "",
+      "sym": "5",
+      "text": "ITEM(12) ADDED",
+      "was": null,
+      "item": "12"
+    },
+    {
+      "date": "",
+      "sym": "6",
+      "text": "HOSE & VALVE DWG REV'D",
+      "was": null,
+      "item": null
+    },
+    {
+      "date": "",
+      "sym": "7",
+      "text": "NOTE \"A\" ADDED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "C60"
+  ],
+  "tables": [],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}

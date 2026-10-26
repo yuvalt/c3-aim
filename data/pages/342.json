@@ -1,0 +1,212 @@
+{
+  "page": 342,
+  "group": "LJ2",
+  "sheet": "A2",
+  "title": "V-8 ENGINE 454 C.I.D. 3 X 2 NON-ILLUSTRATED PARTS",
+  "models": [
+    "19400"
+  ],
+  "page_type": "chart",
+  "status": "active",
+  "summary": "List of components for RPO LJ2 (454 V-8 with three two-barrel carburetors, tri-power) that are not illustrated in this option, by UPC group, with whether each assembles the same as production or the same as RPO LS5 (454 4-barrel). Part numbers are in the parts list / bill of materials, not here.",
+  "parts": [],
+  "torques": [],
+  "materials": [],
+  "fastening": [],
+  "notes": [
+    "The following components are not illustrated in this R.P.O. See Parts List or Bill of Materials for part numbers.",
+    "◑ ---Assembles same as Prod.",
+    "*--- Assembles same as R.P.O. LS5"
+  ],
+  "notes_internal": [
+    "Chart page; no parts. 'ASSEMBLES' column decodes the half-filled circle (same as production) and * (same as RPO LS5) symbols.",
+    "'CRANSHAFT' spelled as printed.",
+    "Model box reads 19400 as printed (other LJ2 sheets read 19000 or 19400).",
+    "No CANCELED stamp on this sheet although p341 (LJ2 A1) records RPO LJ2 cancelled 10-3-69.",
+    "Rev 3 handwritten 'UPC 6C2' (the 2 looks like Z/R); circled 1 at 6Y1 and 2 at 12J mark revisions 1 and 2.",
+    "UPC 3 FRONT SUSPENSION has no sub-group code printed."
+  ],
+  "revisions": [
+    {
+      "date": "7-7-69",
+      "sym": "1",
+      "text": "UPC 6Y1 ADDED",
+      "was": null,
+      "item": "6Y1"
+    },
+    {
+      "date": "",
+      "sym": "2",
+      "text": "UPC 12J USAGE REVISED",
+      "was": null,
+      "item": "12J"
+    },
+    {
+      "date": "",
+      "sym": "3",
+      "text": "UPC 6C2 USAGE REVISED",
+      "was": null,
+      "item": "6C2"
+    },
+    {
+      "date": "",
+      "sym": "4",
+      "text": "RPO LJ1 CANCELLED",
+      "was": null,
+      "item": null
+    }
+  ],
+  "options": [
+    "LJ2",
+    "LS5"
+  ],
+  "tables": [
+    {
+      "title": "NON-ILLUSTRATED PARTS",
+      "columns": [
+        "UPC",
+        "code",
+        "name",
+        "assembles same as"
+      ],
+      "rows": [
+        [
+          "3",
+          "",
+          "FRONT SUSPENSION",
+          "*"
+        ],
+        [
+          "4",
+          "4F",
+          "REAR STABILIZER",
+          "*"
+        ],
+        [
+          "5",
+          "5F",
+          "BRAKE LINES",
+          "*"
+        ],
+        [
+          "6",
+          "6",
+          "ENGINE ASM.",
+          "PROD."
+        ],
+        [
+          "6",
+          "6C2",
+          "CRANSHAFT BALANCER",
+          "PROD."
+        ],
+        [
+          "6",
+          "6G2",
+          "OIL FILLER",
+          "*"
+        ],
+        [
+          "6",
+          "6G4",
+          "OIL LEVEL INDICATOR",
+          "*"
+        ],
+        [
+          "6",
+          "6K1",
+          "FAN & DRIVE",
+          "*"
+        ],
+        [
+          "6",
+          "6M4",
+          "FUEL PUMP & VACUUM PUMP",
+          "*"
+        ],
+        [
+          "6",
+          "6T",
+          "AIR COMPRESSOR",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Y1",
+          "GENERATOR",
+          "PROD."
+        ],
+        [
+          "6",
+          "6Y2",
+          "STARTING MOTOR & CONTROL",
+          "*"
+        ],
+        [
+          "6",
+          "6Y3",
+          "DISTRIBUTOR",
+          "*"
+        ],
+        [
+          "6",
+          "6Y4",
+          "SPARK PLUGS & WIRES",
+          "*"
+        ],
+        [
+          "7",
+          "7B1B",
+          "CLUTCH & CONTROL",
+          "*"
+        ],
+        [
+          "8",
+          "8B",
+          "FUEL TANK MOUNTING & FUEL LINES",
+          "PROD."
+        ],
+        [
+          "8",
+          "8C",
+          "EXHAUST PIPE, MUFFLER & TAIL PIPE",
+          "PROD."
+        ],
+        [
+          "9",
+          "9D",
+          "STEERING LINKAGE",
+          "PROD."
+        ],
+        [
+          "11-13",
+          "11E",
+          "MISC. FRONT END SHEET METAL PARTS",
+          "*"
+        ],
+        [
+          "11-13",
+          "13A",
+          "RADIATOR ASM.",
+          "*"
+        ],
+        [
+          "12",
+          "12A",
+          "BATTERY & LEADS",
+          "*"
+        ],
+        [
+          "12",
+          "12J",
+          "INSTRUMENT CARRIER PANEL AND/OR INSTRUMENTS",
+          "PROD. AND/OR RPO LS5"
+        ]
+      ]
+    }
+  ],
+  "extracted": {
+    "by": "claude-code",
+    "at": "2026-10-26"
+  }
+}
