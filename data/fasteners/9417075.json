@@ -1,0 +1,25 @@
+{
+  "pn": "9417075",
+  "kind": "screw",
+  "thread": "10-24",
+  "length": "3/4",
+  "head": "hex with captured washer",
+  "drive": null,
+  "finish": null,
+  "notes": "Thread 10-24 confirmed by two sources; length 3/4 and captured washer from camaros.org (JohnZ) only. Yenko forum says 'flat tip'. Camaro D80 spoiler use; 1970 Corvette A13 dash/plenum and C6 rear lamps.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "http://www.camaros.org/forum/index.php?topic=84.0",
+      "title": "front spoiler - camaros.org forum",
+      "quote": "Spoiler-to-lower valance - #9417075 screw (#10-24 x 3/4\" with captured washer) ... The 7075 screw had a hex head.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.yenko.net/forum/showthread.php?p=1246655",
+      "title": "Correct Factory D80 Spoiler Hardware 67-69 Camaros - The Supercar Registry",
+      "quote": "4 flat tip 10-24 bolts (GM PT# 9417075)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

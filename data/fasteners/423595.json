@@ -1,0 +1,25 @@
+{
+ "pn": "423595",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": "1/2",
+ "head": "indented hex, ext-tooth sems",
+ "drive": "hex",
+ "finish": "zinc (AMK repro)",
+ "notes": "Thread agreed by Zip and AMK; length 1/2 from AMK only (AMK B-13291). Used on headlamp vacuum relay and back-up lamp switch.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7314",
+   "title": "Bulk Fasteners Listing \u2014 AMK Products, Inc.",
+   "quote": "10-24 X 1/2 HX EXT SEMS, ZC. 6 pk",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.zip-corvette.com/68-82-headlight-actuator-vacuum-relay-screws.html",
+   "title": "1968-1982 Corvette Headlight Actuator Vacuum Relay Screws (GM Part 423595)",
+   "quote": "(4) 10-24 indented hex screws & external tooth washers",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

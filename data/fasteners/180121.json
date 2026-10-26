@@ -1,0 +1,19 @@
+{
+ "pn": "180121",
+ "kind": "bolt",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Appears in 1968 Camaro AIM OCR next to 180122 (generator area); neighbor 180120 = AMK B-10164 3/8-16 x 3/4 but not used (no inference). Searches: AMK/0180121, 'GM 180121 bolt 3/8-16', AMK listing.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.scribd.com/document/672974231/1968-AIM-Camaro-web",
+   "title": "1968 Camaro Assembly Manual Guide",
+   "quote": "180121 BOLT J i} 180122 BOLT",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

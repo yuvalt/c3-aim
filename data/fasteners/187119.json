@@ -1,0 +1,19 @@
+{
+ "pn": "187119",
+ "kind": "lock washer",
+ "thread": "5/16",
+ "length": null,
+ "head": "regular split lock washer",
+ "drive": null,
+ "finish": null,
+ "notes": "AMK B-13049; AMK also cross-refs 34806-S2 and 9417953. AMK listing gives two finishes (mech zinc / phosphate & oil), so finish null. Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8935",
+   "title": "Bulk Fasteners Listing - AMK Products (search snippet)",
+   "quote": "OEM Part #: (GB~) 34806-S2, 187119 (s), 9417953. AMK Part #: B-13049.; Description: 5/16 REG SPLIT WA MECH ZC.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "pn": "103322",
+ "kind": "washer",
+ "thread": "7/16",
+ "length": null,
+ "head": "split lock",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "Regular split lock washer for 7/16 bolt. NSN data: ID 0.446-0.459, OD 0.779 max. GM supersession 00103322 -> 00103328 (1981) -> 00120383 (1985) per oemcats.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8935",
+   "title": "Bulk Fasteners Listing - AMK Products, Inc.",
+   "quote": "7/16 REG SPLIT WASHER ... phosphate and oil (OEM cross-ref includes 103322; search snippet)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/67_gto_shifter.html",
+   "title": "1967 GTO Shifter and Console Parts",
+   "quote": "103322 WASHER, (Shifter to Mount-Top)(7/16\")",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://fsg-53-nuts-nails.parttarget.com/nuts-washers-103322_103341.html",
+   "title": "Nuts and Washers 103322 ...",
+   "quote": "lock washer with a hole diameter of 0.446 inches minimum and 0.459 inches maximum and an outside diameter of 0.779 inches maximum",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

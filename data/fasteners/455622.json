@@ -1,0 +1,19 @@
+{
+ "pn": "455622",
+ "kind": "rivet",
+ "thread": "1/8 dia",
+ "length": "3/8",
+ "head": "round",
+ "drive": null,
+ "finish": "aluminum",
+ "notes": "Single source (Chicago Corvette 1953-62 catalog). 'thread' field holds rivet diameter.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.chicagocorvette.net/category_view.php?cat_id=3",
+   "title": "BODY MOUNTING & REINFORCEMENTS \u00b7 1953-62 Catalog \u00b7 Chicago Corvette",
+   "quote": "RIVET SET - round head, 1/8\"x3/8\", GM #455622 aluminum (25 pc)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

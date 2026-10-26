@@ -1,0 +1,25 @@
+{
+ "pn": "9418712",
+ "kind": "screw",
+ "thread": "12-24",
+ "length": "1/2",
+ "head": "flat, ext-tooth sems",
+ "drive": "phillips",
+ "finish": "zinc (AMK repro)",
+ "notes": "AMK B-10387 cross-ref snippet only. CorvetteParts lists 9418712 as steering wheel 6-pc screw set (no size). Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7310",
+   "title": "Bulk Fasteners Listing \u2014 AMK Products, Inc.",
+   "quote": "(LWZ) 9418712 B-10387 12-24 X 1/2 PH FLAT EXT SEMS ZC",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://corvetteparts.com/catalog/steering-column?yr=C3",
+   "title": "C3 Corvette Steering Column: CorvetteParts.com",
+   "quote": "Screw Set, steering wheel (6 piece)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

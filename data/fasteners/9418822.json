@@ -1,0 +1,31 @@
+{
+ "pn": "9418822",
+ "kind": "bolt",
+ "thread": "3/8-16",
+ "length": "1 - 1 1/8",
+ "head": "hex, TR headmark",
+ "drive": "hex",
+ "finish": "phosphate",
+ "notes": "Length range: Chevelle kit/Hummer/Case say 1.0; Zip A/C bracket and Corvette Central alternator kits say 1 1/8 (kits may mix). Thread agreed by all. Grade 5.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.ebay.com/itm/356110388203",
+   "title": "Engine Mounts > Frame for 1967 Chevelle 396 Oem Correct Fasteners",
+   "quote": "3/8-16 X 1.0 GR5 HX BOLT \"TR\" PHOS. Oem # 304684-S2, 9418822",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.hummerpartsguy.com/BOLT-HEX-HEAD-38-16-X-100_p_11427.html",
+   "title": "9418822 - BOLT, HEX HEAD [3/8-16 X 1.00]",
+   "quote": "BOLT, HEX HEAD [3/8-16 X 1.00]",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.zip-corvette.com/64-76-327-350-ac-compressor-rear-bracket-bolts.html",
+   "title": "1964-1976 Corvette 327/350 AC Compressor Rear Bracket Bolts (GM Part 9418822)",
+   "quote": "Includes (2) 3/8-16 X 1 1/8\" grade 5 hex bolt w/ \"TR\" headmark, flat washers and lock washers",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

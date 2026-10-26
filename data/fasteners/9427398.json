@@ -1,0 +1,31 @@
+{
+ "pn": "9427398",
+ "kind": "screw",
+ "thread": "#10 tapping",
+ "length": "5/8-3/4",
+ "head": "hex washer (indented hex, .44 flat SEMS)",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "AMK B-11190 cross-ref; AMK pages disagree on length (5/8 vs 3/4), so recorded as range. Doc Rebuild repro kit (defroster duct to dash) uses zinc-plated indented hex washer head screws; original finish per AMK is phosphate. AMK pages 403/not fetched; quotes are search snippets.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-25",
+   "title": "BA-25 Hex SEMS Tapping Screw Assortment - AMK",
+   "quote": "B-11190 #10 x 5/8 hex .44 flat SEMS phosphate & oil, OEM #: (MUO) 9427398",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7215",
+   "title": "Bulk Fasteners Listing - AMK",
+   "quote": "9427398 B-11190 #10 X 3/4 HX ABT .44 FLAT SEMS PHOS",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://shop.docrebuild.com/1968-1982CorvetteDefrosterDuct3PieceMountKitReproOfGM9427398.aspx",
+   "title": "1968-1982 Corvette Defroster Duct 3 Piece Mount Kit Repro Of GM 9427398",
+   "quote": "Includes 3 Zinc plated indented hex head washer head screw to mount the defroster duct to the dash.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

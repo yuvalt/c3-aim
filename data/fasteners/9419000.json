@@ -1,0 +1,19 @@
+{
+ "pn": "9419000",
+ "kind": "bolt",
+ "thread": "1/4-20",
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Only source is OCR text of a 1981 Sprint parts book (valve rocker cover reinforcement bolt, used with bolt 180016); length lost in OCR. gmpartswiki returned 403. Single garbled source -> low.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://gmpartswiki.com/getpage?pageid=69477",
+   "title": "GMPartsWiki - Parts Book SPRINT-57 April 1981 (search snippet)",
+   "quote": "71 3 Sprint 307 9419000 1 4 20 x",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

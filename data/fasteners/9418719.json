@@ -6,9 +6,20 @@
   "head": "oval",
   "drive": "phillips",
   "finish": "chrome (unconfirmed)",
-  "notes": "Door top moulding screw (AIM K3 item 11; also F10). Size from a user-pasted Google AI summary with no citation; web search found no listing tying 9418719 to a size (only generic #8 x 3/4 oval phillips chrome trim screws, no GM number). Not shown in the pack until a second, sourced confirmation.",
+  "notes": "Door top moulding screw (AIM K3 item 11; also F10). Size from a user-pasted Google AI summary with no citation; web search found no listing tying 9418719 to a size (only generic #8 x 3/4 oval phillips chrome trim screws, no GM number). Not shown in the pack until a second, sourced confirmation. Round 3 (2026-10-26): 'GM 9418719'/Paragon 11219K/Corvette Central/'#8 oval' searches give the application (outer door window trim moulding screw, 6-pc set, 68-82; NSN 5305-01-166-1473) but still no size. Stays low.",
   "confidence": "low",
   "sources": [
-    {"url": "", "title": "Google AI summary (pasted by user, no citation)", "quote": "Oval Head Phillips Cross-Recessed Sheet Metal Screw (Self-Tapping); Thread Size: #8; Thread Length: 3/4 inch", "accessed": "2026-10-26"}
+    {
+      "url": "",
+      "title": "Google AI summary (pasted by user, no citation)",
+      "quote": "Oval Head Phillips Cross-Recessed Sheet Metal Screw (Self-Tapping); Thread Size: #8; Thread Length: 3/4 inch",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvettecentral.com/c3-68-82/weatherstrip/door-rear-glass/68-82-door-window-trim-moulding-screws-343029",
+      "title": "68-82 Door Window Trim Moulding Screws",
+      "quote": "GM Item No. 9418719 ... Paragon Item No. 11219K ... Outer - 6 Pieces (no size)",
+      "accessed": "2026-10-26"
+    }
   ]
 }

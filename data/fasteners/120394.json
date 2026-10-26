@@ -1,12 +1,15 @@
 {
- "pn": "120394",
- "kind": "bolt",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No hits for the number.",
- "confidence": "not_found",
- "sources": []
+  "pn": "120394",
+  "kind": "flat washer",
+  "thread": "13/32 (.406 ID)",
+  "length": null,
+  "head": "plain, .41 ID x .81 OD x .07 thick",
+  "drive": null,
+  "finish": "cadmium or zinc plated",
+  "notes": "Earlier pass had kind=bolt with no hits; AIM name is WASHER. GMPartsGiant: plain washer .406, cad/zinc plated, discontinued. AMK bulk listing snippet shows a .41 ID x .81 OD x .07 zinc flat washer row with OEM refs 44726-S2, 372285-S2, 120394 (AMK B-13018 per search summary; AMK column cut off, page 403). OD/thickness from AMK only.",
+  "confidence": "medium",
+  "sources": [
+    {"url": "https://www.gmpartsgiant.com/parts/gm-washer-fl-120394.html", "title": "120394 - Genuine GM Parts", "quote": "Wa, Plain .406 Cadmium Or Zinc Plated (Opt) *Marked Print", "accessed": "2026-10-26"},
+    {"url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8922", "title": "Bulk Fasteners Listing - AMK Products (search snippet)", "quote": ".41 ID X .81 DIA X .07 TK FLAT WASHER ZC ... 44726-S2, 372285-S2, 120394", "accessed": "2026-10-26"}
+  ]
 }

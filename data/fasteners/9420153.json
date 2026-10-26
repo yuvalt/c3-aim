@@ -1,0 +1,19 @@
+{
+ "pn": "9420153",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Called 'U' nut in AIM; a Corvair radio U-nut listing and a 1969 Camaro A/C condenser kit (as J-nut) cite it, AMK 2014 nut catalog lists the number, but no thread size found. Searches done: 'GM 9420153 U nut', '9420153 AMK nut'; budget exhausted.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://corvairfarmer.com/collections/radio",
+   "title": "Corvair Farmer - Radio (search snippet)",
+   "quote": "USED RADIO \"U\" NUT GM PART NUMBER: #9420153",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

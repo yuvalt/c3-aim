@@ -1,12 +1,31 @@
 {
  "pn": "9422654",
  "kind": "nut",
- "thread": null,
+ "thread": "#8",
  "length": null,
- "head": null,
+ "head": "U-nut (spring/clip nut), .44 wide x .62-.65 long, for .03-.06 panel",
  "drive": null,
- "finish": null,
- "notes": "No verifiable hits. A search summary claimed a camaros.org clip-nut mention but the fetched page did not contain the number.",
- "confidence": "not_found",
- "sources": []
+ "finish": "phosphate",
+ "notes": "AMK B-12245 (also BFC 382656-S2). AMK says .65 long, camaros.net says .62, so a range. Some vendors call it a J-nut (63-67 headlight bezel). Dr Rebuild sells a 68-69 Corvette grille kit as a repro of 9422654. AMK finish shown as phosphate (& oil).",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7156",
+   "title": "Bulk Fasteners Listing - AMK Products (search snippet; site 403)",
+   "quote": "#8B X .44 WIDE X .65 U-NUT .03 - .06 PNL PHOS",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - camaros.net (search snippet)",
+   "quote": "9422654-P153 spring nut #8 AMK B-12245",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware p2 - camaros.net (search snippet)",
+   "quote": "#8 .44 X .62L",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

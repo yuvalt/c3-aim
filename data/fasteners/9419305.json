@@ -1,0 +1,25 @@
+{
+ "pn": "9419305",
+ "kind": "screw",
+ "thread": "#10 (type AB tapping; camaros.net lists 10-16)",
+ "length": "1/2",
+ "head": "hex washer",
+ "drive": "hex 5/16",
+ "finish": "zinc & wax",
+ "notes": "AMK B-11082 cross-ref. camaros.net list maps to AMK B-12081 (phosphate version per AMK) -- finish may differ; size agrees.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-26",
+   "title": "AMK Products drawer BA-26 (search snippet)",
+   "quote": "#10 X 1/2 HXWA AB ZC | .0002 Zinc & Wax | (KTA) 9419305, 9421073 | Made in USA",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware - See Post #2 & #5 (search snippet)",
+   "quote": "AMK B-12081 (10) 9419305-P92 10-16X1/2 5/16AF .4 O.D.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

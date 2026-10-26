@@ -1,0 +1,25 @@
+{
+ "pn": "9423175",
+ "kind": "screw",
+ "thread": "#10",
+ "length": "5/8",
+ "head": "oval",
+ "drive": "phillips",
+ "finish": "phosphate",
+ "notes": "AB = type AB tapping screw, #8 head (AMK cross-ref, search snippet; site 403). Camaros.net forum says 1968 Camaro AIM shows 9423258 (#10-16 x 3/4) 'was 9423175 up to Dec. 1967' - a supersession for the Camaro instrument carrier, different length; not used here. Also sold as 67-68 Camaro instrument housing screw. Searches: 'GM 9423175 screw', '9423175 AMK screw #10 x 5/8 oval head'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-27",
+   "title": "Drawer - AMK Products, Inc.",
+   "quote": "(PRC) 9423175 ... #10 X 5/8 PH OV AB 8HD PHOS",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/correct-screw-size-for-instrument-carrier-housing.227746/",
+   "title": "Correct screw size for Instrument carrier housing?",
+   "quote": "1968 AIM lists p/n 9423258 (was 9423175 up to Dec. 1967), which is a #10-16 x 3/4\" long",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

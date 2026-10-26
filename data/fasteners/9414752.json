@@ -1,0 +1,31 @@
+{
+ "pn": "9414752",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "1/2",
+ "head": "oval",
+ "drive": null,
+ "finish": "phosphate",
+ "notes": "Sheet-metal (tapping) screw. -P51 = phosphate; chrome variant is 9414754 (3/4 long). AMK cross-refs it to B-12116 (#8 x 1/2 Phillips oval, stainless/chrome) - drive likely Phillips but not recorded from a direct quote. Classic/OER say headlamp retaining ring screw.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware - See Post #2 & #5 (camaros.net, search snippet)",
+   "quote": "Same screw available in Phosphate 9414752-P51 8-18X1/2 .27O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.classicindustries.com/product/9414752.html",
+   "title": "1957-1972 All Makes All Models Parts (Classic Industries, search snippet; 403)",
+   "quote": "#8 - 18 x 1/2\" oval head sheetmetal screw",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.oerparts.com/shop/parts/brand/oer/exterior-trim/moldings/molding-clips-fasteners/",
+   "title": "OER molding clips & fasteners (search snippet)",
+   "quote": "1958-72 GM; Retaining Screw; #8- 18 x 1/2\"; Various Applications",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

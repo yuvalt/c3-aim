@@ -1,0 +1,5 @@
+{"pn": "1361640", "kind": "nut", "thread": "3/8-16", "length": null, "head": "hex serrated flange", "drive": null,
+ "finish": "phosphate & oil", "notes": "AMK bulk listing (search snippet) gives 3/8-16 serrated flange nut; Corvette Central master-cylinder kit lists GM 9418931 + 1361640 as 3/8-16 flange nuts with lockwashers. Matches AIM use on brake pedal & main cylinder.", "confidence": "high",
+ "sources": [
+  {"url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7110", "title": "Bulk Fasteners Listing - AMK Products (search snippet)", "quote": "1361640 ... 3/8-16 serrated flange nut ... phosphate and oil", "accessed": "2026-10-26"},
+  {"url": "https://www.corvettecentral.com/c3-68-82/brakes/master-cylinders/64-82-master-cylinder-mounting-kit-4-pieces-192105", "title": "64-82 Master Cylinder Mount Kit - 4 Pieces", "quote": "Correct 3/8-16 flange nuts with lockwashers for mounting your 1964-1982 Corvette master cylinder ... 9418931 1361640", "accessed": "2026-10-26"}]}

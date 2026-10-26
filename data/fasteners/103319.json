@@ -1,0 +1,16 @@
+{
+  "pn": "103319",
+  "kind": "lock washer",
+  "thread": "1/4",
+  "length": null,
+  "head": "split",
+  "drive": null,
+  "finish": "plain",
+  "notes": "GMPartsGiant gives .250 ID x .48 OD x .072 thick, plain, superseded by 09439510. Detroit Diesel (GM division) listing names 103319 a 1/4 in. lock washer (title snippet). NCRS snippet: 103xxx AIM lock washers are split with plain finish.",
+  "confidence": "high",
+  "sources": [
+    {"url": "https://www.gmpartsgiant.com/parts/gm-washer-hsl-hardened-250x-48x-072-pl-103319.html", "title": "103319 - Genuine GM Washer, Hsl (Hardened)", "quote": "Washer - Hsl .250X .48x .072 Plain", "accessed": "2026-10-26"},
+    {"url": "https://www.powerlinecomponents.com/detroit_diesel/103319/lockwasher_14", "title": "103319 - Lock Washer, 1/4 in. (search result title)", "quote": "103319 - Lock Washer, 1/4 in.", "accessed": "2026-10-26"},
+    {"url": "https://www.tst.forums.ncrs.org/forum/technical-discussion/89467-c2-lock-washers-were-production-parts-not-available-as-service-parts", "title": "C2 Lock washers - NCRS (search snippet)", "quote": "these are all split lockwashers with a 'plain' finish", "accessed": "2026-10-26"}
+  ]
+}

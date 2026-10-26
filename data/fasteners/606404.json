@@ -1,0 +1,20 @@
+{
+  "pn": "606404",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Flat washer .29 ID x .50 OD x .05 thick (zinc & wax), per AMK B-11254 cross-ref (single source, search snippet). AIM calls it SPL. WASHER.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8920",
+      "title": "Bulk Fasteners Listing - AMK Products (search snippet; 403)",
+      "quote": "(MAB) 606404 B-11254 .29 ID x .50 OD x .05 flat washer, 10 pk, zinc & wax",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "dims": ".29 ID x .50 OD x .05 thick"
+}

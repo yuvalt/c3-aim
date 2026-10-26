@@ -1,0 +1,26 @@
+{
+  "pn": "3825452",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": "flat, 3/8 (.39 ID x .74 OD x .06 thick)",
+  "drive": null,
+  "finish": "phosphate & oil",
+  "notes": "Flat washer for 3/8 bolt. AMK B-11272; similar Ford 44723-S. Also used in 67-68 Camaro BB alternator bracket kits. Quotes from search snippets.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8922",
+      "title": "AMK Bulk Fasteners Listing - flat washers (search snippet)",
+      "quote": "10 pk Phosphate & Oil (MAN) 3825452, 44723-S (sim) B-11272 .39 ID X",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://nastyz28.com/threads/n-o-s-and-used-original-parts-for-sale-2022.338435/page-31",
+      "title": "N.O.S. and Used Original Parts For Sale - 2022 - nastyz28.com (search snippet)",
+      "quote": "3825452 ... 3/8\" Washer (3/4\" O.D., 1/16\" thick)",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "dims": ".39 ID x .74 OD x .06 thick (for 3/8 bolt)"
+}

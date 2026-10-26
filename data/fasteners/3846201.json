@@ -1,0 +1,37 @@
+{
+ "pn": "3846201",
+ "kind": "screw",
+ "thread": "5/16-18",
+ "length": "5/8-1",
+ "head": "hex, .75 conical captured washer",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "Thread 5/16-18 agreed by AMK, camaros.net/camaros.org, Corvette Central (high for thread). Length: AMK B-12548 and camaros posts say 5/8; Corvette Central headlamp support kit listing GM 3846201 says 5/16-18 x 1, so recorded as range. camaros.org post cites AMK B-12545 vs AMK catalog B-12548. AMK/camaros quotes are search snippets.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-11",
+   "title": "BA-11 Body Bolt Assortment - AMK",
+   "quote": "B-12548 5/16-18 x 5/8 hex .75 conical seam-type, phosphate & oil; OEM #: (KXV) 6023355 (sim) (Chry), 3846201, 385099 (sim)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5",
+   "quote": "3846201 - 5/16-18x5/8\" captured washer .75, flat end",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.org/forum/index.php?action=profile&u=4708&area=showposts&start=1995",
+   "title": "Show posts - 68camaroz28",
+   "quote": "3846201-Pages 147 & 206 (69 AIM) 5/16-18X5/8 .75 Conical AMK B-12545 (5) Support bar to radiator support.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettecentral.com/c3-68-82/lights-lamps/headlight-housings-pivots/68-82-headlight-support-to-body-and-housing-bolts-443023",
+   "title": "68-82 Headlight Support To Body And Housing Bolts - Corvette Central",
+   "quote": "includes 8-5/16-18 x 1\" bolts ... GM Item No. 3846201",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

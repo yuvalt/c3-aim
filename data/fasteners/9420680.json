@@ -1,0 +1,19 @@
+{
+ "pn": "9420680",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Identified only as a screw in GM 3759924/9420680 wiper door mounting kit (2 screws for wiper grille support bracket). No size found. Searches done: 'GM 9420680 screw', '9420680 AMK'; Paragon page fetch empty; search budget exhausted before more tries.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.ecproducts.com/products/34530/mounting-kit-windshield-wiper-door-8-pieces-68-72/",
+   "title": "Mounting Kit Windshield Wiper Door 8 Pieces 68-72",
+   "quote": "includes (6) nuts for linkage assembly & (2) screws for wiper grille support bracket ... GM PART # 3759924 / 9420680",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

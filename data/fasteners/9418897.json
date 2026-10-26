@@ -1,0 +1,19 @@
+{
+ "pn": "9418897",
+ "kind": "nut",
+ "thread": "7/16-14",
+ "length": null,
+ "head": "hex",
+ "drive": null,
+ "finish": "phosphate",
+ "notes": "Single source (AMK B-12796 cross-ref). Grade inconsistent in AMK snippets (GR5 vs GR8), so grade not recorded.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7105",
+   "title": "Bulk Fasteners Listing - AMK Products (search snippet; 403)",
+   "quote": "(KVZ) 34670-S2, 9418897 B-12796 7/16-14 GR5 FINISH HX NUT PHOS.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

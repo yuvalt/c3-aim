@@ -1,0 +1,31 @@
+{
+ "pn": "9420721",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "3/4",
+ "head": "pan",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "AMK B-12170 (zinc) and camaros.net agree on #8(-18) x 3/4. camaros.net says same as 9423863. Dr. Rebuild hardtop weatherstrip kit repro of 9420721 uses black Phillips pan head screws. Finish varies (zinc AMK vs black Dr. Rebuild) so not recorded. One search summary mentioned 1/4-20 x 1/2 but without a traceable source - ignored.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "Bulk Fasteners Listing - AMK Products (search snippet; 403)",
+   "quote": "OEM Part #: (HI~) 55928-S2, 9420721. AMK Part #: B-12170. Tapping Screws - Pan Head. Description: #8 X 3/4 PH PN AB ZC",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5 (camaros.net, search snippet)",
+   "quote": "9420721 8-18X3/4 .31 O.D. Phillips ... same as 9423863",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://shop.docrebuild.com/1968-1975CorvetteHardtopWeatherstripMountKitReproOfGM9420721and3922469.aspx",
+   "title": "1968-1975 Corvette Hardtop Weatherstrip 30 Piece Mount Kit Reproduction of GM 9420721 & 3922469 (search snippet)",
+   "quote": "black plated Phillips pan head screws",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

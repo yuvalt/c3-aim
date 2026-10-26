@@ -1,0 +1,31 @@
+{
+ "pn": "159612",
+ "kind": "screw",
+ "thread": "8-32",
+ "length": "5/8",
+ "head": "pan cross-recess",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "Size from Hummer H1 parts listings that carry GM number 159612 (H1 uses GM std parts, cf. 9418822). Camaro vendors list 159612 as steering wheel/horn contact screw (no size). Hummer site 403; snippets only.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.hummerpartsguy.com/SCREW-PAN-HEAD-8-32-X-58_p_696.html",
+   "title": "159612 / 01-359-0167 / 5305-01-359-0167 - SCREW, PAN HEAD [#8-32 X 5/8]",
+   "quote": "SCREW, PAN HEAD [#8-32 X 5/8]",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://hummerh1parts.com/amgehuh1cupa.html",
+   "title": "AM General Hummer H1 Current Parts",
+   "quote": "SCREW, #8-32x.62 PHCR 159612",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.ebay.com/itm/335347988742",
+   "title": "1967 1968 Camaro Steering Wheel Contact Screws GM# 159612",
+   "quote": "Replaces Original GM part# 159612",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

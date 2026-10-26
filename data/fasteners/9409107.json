@@ -1,12 +1,31 @@
 {
  "pn": "9409107",
  "kind": "screw",
- "thread": null,
- "length": null,
- "head": null,
+ "thread": "1/4-20",
+ "length": "1/2-5/8",
+ "head": "hex, captured washer",
  "drive": null,
  "finish": null,
- "notes": "No web hits for this number.",
- "confidence": "not_found",
- "sources": []
+ "notes": "Thread agreed by several sources. Length conflicts: camaros.net AMK list 1/4-20x5/8 (7/16 AF, split washer); Zip 63-67 hood support kit lists 3797168+9409107 with 1/4-20x1/2 hex w/captured washer (mapping not stated, but 3797168 is the cone-point pinch bolt per NCRS); Paragon 61-62 trunk latch kit citing this GM# says 1/4-20x1 (search snippet). Length recorded as range; Paragon 1in kit not included.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware - camaros.net (search snippet; site behind bot wall)",
+   "quote": "AMK B-12321 (2) 9409107-P171/361/366 1/4-20X5/8 7/16AF .44 split",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.zip-corvette.com/63-67-hood-support-mount-bolts.html",
+   "title": "1963-1967 Corvette Hood Support Bolts (GM Part 3797168, 9409107) - Zip",
+   "quote": "(2) 1/4-20 x 1/2\" hex bolt w/captured washer and \"E\" headmark.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.paragoncorvette.com/p-354883-trunk-latch-bolt-kit.aspx",
+   "title": "Paragon - Trunk Latch Bolt Kit (search snippet)",
+   "quote": "GM Part Number 9409107 ... three 1/4-20x1\" grade 2 bolts",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

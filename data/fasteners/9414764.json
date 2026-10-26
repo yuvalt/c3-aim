@@ -1,0 +1,31 @@
+{
+ "pn": "9414764",
+ "kind": "screw",
+ "thread": "10-16",
+ "length": "3/4",
+ "head": "oval, .31 O.D.",
+ "drive": "phillips",
+ "finish": "chrome",
+ "notes": "AMK B11135. Used on Corvette upper windshield/roof molding (Dr. Rebuild set).",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware - See Post #2 & #5 (search snippet)",
+   "quote": "9414764-10-16X3/4 .31 O.D. ... AMK B11135 (10)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.gmpartswiki.com/w/9414764",
+   "title": "GMPartsWiki - 9414764 (OCR, search snippet)",
+   "quote": "SCREW INSTRUMENT PANEL TRIM PLATE BEZEL TO TRIM PLATE 7 9414764 1963 ALL 39 69 10 X 8 16 X 3 4",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://shop.docrebuild.com/1968-1982CorvetteUpperMoldingScrewsSetReplacesGM9414764and9425578.aspx",
+   "title": "Dr. Rebuild Upper Molding Screws Set (search snippet)",
+   "quote": "8 chrome plated Phillips oval head trim screws",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

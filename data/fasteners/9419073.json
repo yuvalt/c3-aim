@@ -1,0 +1,31 @@
+{
+ "pn": "9419073",
+ "kind": "bolt",
+ "thread": "7/16-14",
+ "length": "1 - 1 1/8",
+ "head": "hex, 5/8 AF",
+ "drive": "hex",
+ "finish": "phosphate & oil",
+ "notes": "Grade 5. Length conflict: AMK listing text says 1 1/8, AMK table row and camaros.net lists say 1.0 -> recorded as range. AMK B-13682. GMPartsWiki: replaced by 454944. NSN 5306-01-181-5016.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7017",
+   "title": "AMK Bulk Fasteners Listing - hex 7/16 (search snippet)",
+   "quote": "4 pk Phosphate & Oil (KUZ) 304686-S2, 179858 (S), 9419073 B-13682 7/16-14 X 1 1/8 GR5 HX BOLT \"M\" PHOS.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "9419008-P103 9419073-P95 7/16-14X1.0 5/8AF AMK B-13682",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.garybeaupre.com/Site/Tranny_Fastener_Kits.html",
+   "title": "1975 Transmission & Shifter Mount Fastener Kits (search snippet)",
+   "quote": "Qty: 2. Grade: 5.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

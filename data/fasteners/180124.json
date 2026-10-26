@@ -1,0 +1,25 @@
+{
+ "pn": "180124",
+ "kind": "bolt",
+ "thread": "3/8-16",
+ "length": "1 1/4",
+ "head": "hex 9/16 AF",
+ "drive": null,
+ "finish": null,
+ "notes": "Grade 5. AMK sells B-10136 (phosphate) and B-10137 (zinc); camaros.net list shows GM suffix P79. Finish left null.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7016",
+   "title": "Bulk Fasteners Listing - AMK Products, Inc.",
+   "quote": "3/8-16 X 1 1/4 GR5 HX BOLT \"TR\" ZC ... (LPQ) 304722-S8, 180124 ... B-10137",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5",
+   "quote": "0180124-P79 3/8-16X1.25 9/16AF AMK B-10136 (4) Phosp B-10137 (4) Zinc",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

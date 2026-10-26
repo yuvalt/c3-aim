@@ -1,12 +1,19 @@
 {
-  "pn": "3922299",
-  "kind": "screw",
-  "thread": null,
-  "length": null,
-  "head": null,
-  "drive": null,
-  "finish": null,
-  "notes": "No hits for the number.",
-  "confidence": "not_found",
-  "sources": []
+ "pn": "3922299",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "No hits for the number. Round 3: CorvetteForum: attaches outside edges of lower steering column cover to bracket 3958714; screws without integral washers. No size. AMK wording search: nothing.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/2839828-lower-steering-column-cover-attachment.html",
+   "title": "Lower Steering Column Cover - attachment - CorvetteForum",
+   "quote": "the two screws 3922299 (UPC 12C sheet #7) attach the outside edges of that same panel to a metal bracket (3958714) under the steering column (search snippet)",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

@@ -1,0 +1,19 @@
+{
+ "pn": "9420146",
+ "kind": "screw",
+ "thread": "8-32",
+ "length": "1/2",
+ "head": "pan",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "AMK B-12531 cross-ref (search snippet). Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7330",
+   "title": "Bulk Fasteners Listing \u2014 AMK Products, Inc.",
+   "quote": "AMK lists OEM 9420146 as 8-32 x 1/2 pan head machine screw, phosphate & oil, AMK B-12531 (search-snippet paraphrase)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

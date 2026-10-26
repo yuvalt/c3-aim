@@ -1,0 +1,19 @@
+{
+ "pn": "9418971",
+ "kind": "screw asm",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Identified as 68-75 rear top lock pin housing screw w/ washer (Corvette Central 543004, Paragon 14151K, cross-ref SF-617) but no size published. Searches done: 'GM 9418971 screw', '9418971 AMK screw', 'Paragon 14151K ...'; eBay 403; budget exhausted.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvettecentral.com/68-75-soft-convertible-hardtop-rear-bow-lock-pin-543004",
+   "title": "Corvette Central 68-75 Conv/Hard Top Rear Pin Housing Screws",
+   "quote": "Screws for attaching rear hold down stud/bolt housing to soft top rear bow or hardtop. Set of 4. GM Item No.: 9418971",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

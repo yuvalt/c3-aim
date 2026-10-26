@@ -6,7 +6,14 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No hits for the number (bare, Chevrolet, Corvette console context).",
+ "notes": "No hits for the number (bare, Chevrolet, Corvette console context). Round 3: Doc Rebuild repro kits (shifter insert plate; rear compartment frame) describe black plated oval Phillips head screws with U-nuts but no size; Corvette Pacifica E19290 kit lists GM 3843505/9426552/9427761 without size. Search budget ran out before more tries.",
  "confidence": "not_found",
- "sources": []
+ "sources": [
+  {
+   "url": "https://shop.docrebuild.com/1968-1976CorvetteShifterInsertPlateMountKitReproOfGM3843505and9427761.aspx",
+   "title": "1968-1976 Corvette Shifter Insert Plate Mount Kit Repro Of GM 3843505 & 9427761",
+   "quote": "4-piece set of black plated oval Phillips head screws and black plated U-nuts (search snippet)",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

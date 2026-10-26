@@ -1,0 +1,25 @@
+{
+ "pn": "9419322",
+ "kind": "screw",
+ "thread": "#10 tapping",
+ "length": "3/4",
+ "head": "hex washer (unslotted)",
+ "drive": "hex",
+ "finish": "phosphate & oil",
+ "notes": "AMK BA-26 drawer cross-ref (AMK no. B-11090 / B-13418, page inconsistent). Corvette Central/Corvette Pacifica sell it as 68-81 lower shifter seal retainer screws (stainless repro). Also listed as 63-67 exhaust heat shield screw.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-26",
+   "title": "AMK Drawer BA-26 hex washer tapping screws (search snippet)",
+   "quote": "#10 x 3/4 hex washer ... phosphate and oil ... 377834-S2, 9419322, 9428472, 3863392 (wax)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettecentral.com/68-81-3-or-4-speed-lower-shifter-seal-retainer-to-533071",
+   "title": "68-81 3 Or 4 Speed Lower Shifter Seal Retainer to Floor Screws - Corvette Central (search snippet)",
+   "quote": "GM Item No.. 533071: 9419322 ... 1968-81 Manual transmission 10 x 3/4\" Stainless Steel Unslotted Washer Head Hex reatainer Screws",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

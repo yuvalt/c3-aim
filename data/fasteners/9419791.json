@@ -1,0 +1,25 @@
+{
+ "pn": "9419791",
+ "kind": "screw",
+ "thread": "#8 tapping (type AB)",
+ "length": "5/8",
+ "head": "pan",
+ "drive": "phillips",
+ "finish": "zinc & wax",
+ "notes": "AMK B-11147 per one search snippet of AMK listing 7230; a second search of the same page could not see 9419791 in the visible text, so single-source. Oldsmobile forum lists 9419791 as AC vent outlet screw (no size).",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "AMK Bulk Fasteners Listing - pan head tapping screws (search snippet)",
+   "quote": "OEM Part #: (VZ~) 56009-S2, 9419791. AMK Part #: B-11147. Description: #8 X 5/8 PH PN AB ZC.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://classicoldsmobile.com/forums/general-questions-44/screws-clips-wiring-harnesses-179811/",
+   "title": "Screws and clips for wiring harnesses - ClassicOldsmobile.com (search snippet)",
+   "quote": "9419791 ... LH/RH AC vent outlet to adapter",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

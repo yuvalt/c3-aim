@@ -1,0 +1,25 @@
+{
+ "pn": "9419077",
+ "kind": "bolt",
+ "thread": "7/16-14",
+ "length": "1-1/2 to 2 (sources disagree)",
+ "head": "hex",
+ "drive": null,
+ "finish": "phosphate",
+ "notes": "Thread agrees; length conflicts: AMK 1-1/2, NSN 1.940-2.000 in. Also cross-referenced by a vendor as a bellhousing bolt. Grade 5 per AMK.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7017",
+   "title": "AMK Bulk Fasteners Listing Hex 7/16-5/8 (search snippet)",
+   "quote": "7/16-14 X 1 1/2 GR5 HX BOLT ... phosphate ... (MTI) 181141 (Chry), 304762-S, 9419077",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://nationalstocknumber.info/part-number/9419077_01-206-7170",
+   "title": "9419077 Machine Bolt (search snippet; page 403)",
+   "quote": "hex machine bolt, thread diameter 0.438 in, 14 threads per inch, phosphate, length 1.940 to 2.000 in",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

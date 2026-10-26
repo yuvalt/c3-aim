@@ -34,9 +34,10 @@ def load_sizes():
     sizes = {}
     for f in pathlib.Path("data/fasteners").glob("*.json"):
         s = json.loads(f.read_text())
-        if s.get("confidence") not in ("high", "medium") or not (s.get("thread") or s.get("length")):
+        if s.get("confidence") not in ("high", "medium") or not (s.get("thread") or s.get("length") or s.get("dims")):
             continue
-        dims = " x ".join(v for v in (s.get("thread"), s.get("length")) if v) if s.get("thread") else f'length {s["length"]}'
+        dims = (" x ".join(v for v in (s.get("thread"), s.get("length")) if v) if s.get("thread")
+                else f'length {s["length"]}' if s.get("length") else s["dims"])
         desc = " ".join(v for v in (s.get("head"), s.get("drive")) if v)
         sizes[s["pn"]] = (f'size {dims}' if s.get("thread") else dims) + (f" {desc}" if desc else "") + (f', {s["finish"]}' if s.get("finish") else "") \
             + f' ({s["confidence"]}: {len(s.get("sources", []))} source{"s" * (len(s.get("sources", [])) != 1)})'

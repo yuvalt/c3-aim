@@ -6,7 +6,7 @@
   "head": "split",
   "drive": null,
   "finish": "plain",
-  "notes": "Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacked NSN 5310-00-010-3320 is a Fruehauf part, unrelated.",
+  "notes": "Size not found. NCRS snippet says it is a split lockwasher with plain finish; CorvetteForum AIM list names 0103320 but gives no size. Stacked NSN 5310-00-010-3320 is a Fruehauf part, unrelated. Pass 3 (2026-10-26): GMPartsGiant names it 'Washer, Hsl (Hardened)', discontinued, no size; camaros.com 1968 Camaro valance pad kit and a 67-69 Camaro catalog (lock washer, Y-block mounting) cite it without size; camaros.net list puts 0103320-P178 next to '3/8 Regular' label but the label belongs ambiguously, so not used; AMK search no hit.",
   "confidence": "not_found",
   "sources": [
     {
@@ -20,6 +20,12 @@
       "title": "AIM Rant - CorvetteForum",
       "quote": "Lock Washers/P-Washers 0103319-P82/103 0103320-P178 0103321-P70/81 3/8 Regular lock washer",
       "accessed": "2026-10-24"
+    },
+    {
+      "url": "https://www.gmpartsgiant.com/parts/gm-washer-hs-103320.html",
+      "title": "103320 - Genuine GM Washer, Hsl (Hardened)",
+      "quote": "Washer, Hs ... This part is discontinued",
+      "accessed": "2026-10-26"
     }
   ]
 }

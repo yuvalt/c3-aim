@@ -1,0 +1,25 @@
+{
+ "pn": "9427834",
+ "kind": "screw",
+ "thread": "#8 tapping",
+ "length": "5/8-3/4",
+ "head": "pan",
+ "drive": "phillips",
+ "finish": "phosphate",
+ "notes": "Length conflict: Zip says #8 x 5/8 with SEMS washer; AMK B-11221 cross-ref says #8 x 3/4. Finish phosphate per AMK only.",
+ "confidence": "conflict",
+ "sources": [
+  {
+   "url": "https://www.zip-corvette.com/68-77-astro-vent-duct-housing-to-dash-mount-screws.html",
+   "title": "1968-1977 Corvette Astro-Vent Duct Housing to Dash Mount Screws (GM Part 9427834)",
+   "quote": "Includes (6) #8 x 5/8 Phillips Pan Head with SEMS washer screws to hold the vent ball housing and retainer to the backside of the dash panel.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "Bulk Fasteners Listing - AMK Products (search snippet; 403)",
+   "quote": "9427834 B-11221 #8 X 3/4 PH PN A PHOS.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

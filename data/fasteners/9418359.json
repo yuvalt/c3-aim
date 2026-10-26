@@ -1,0 +1,25 @@
+{
+ "pn": "9418359",
+ "kind": "screw",
+ "thread": "#8-18 (type AB tapping)",
+ "length": "1/2",
+ "head": "pan, .31 O.D.",
+ "drive": "phillips",
+ "finish": "zinc & wax",
+ "notes": "AMK B-12153.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware - See Post #2 & #5 (search snippet)",
+   "quote": "9418359-P262 8-18X1/2 .31 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "AMK Bulk Fasteners Listing (search snippet)",
+   "quote": "#8 X 1/2 PH PN AB ZC ... Zinc & Wax ... 55927-S8, 9418359 ... B-12153",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

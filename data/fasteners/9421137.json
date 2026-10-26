@@ -1,0 +1,31 @@
+{
+ "pn": "9421137",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "1/2",
+ "head": "pan/round",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "Tapping screw, .31 head OD. AMK numbering conflicts (AMK site: B-11144; camaros.net list: B-13716) but size agrees. camaros.org forum: Phillips, 1/2 long.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "Bulk Fasteners Listing \u2014 AMK Products, Inc.",
+   "quote": "OEM Part #: (MDS) 9421137. AMK Part #: B-11144., Description: #8 X 1/2 PH PN TEK ZC.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware - See Post #2 & #5",
+   "quote": "B-13716 (2) 9421137-P229 8-18x1/2 .31 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.camaros.org/forum/index.php?topic=13090.0",
+   "title": "Console Screw - 9421137",
+   "quote": "All had phillips for #2",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

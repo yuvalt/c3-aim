@@ -1,0 +1,37 @@
+{
+ "pn": "9419276",
+ "kind": "washer",
+ "thread": "15/32 ID (approx .48; for 7/16 bolt)",
+ "length": "thickness .06",
+ "head": "flat, OD 7/8-15/16",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "ID agrees across sources (15/32 = .469 vs AMK .48); OD conflicts (AMK .88 vs 4speedconversions 15/16) so recorded as range. Allison list calls it 'WASHER,FLAT,7/16' (bolt size). Superseded by 120395 per GMPartsWiki. 'head' field holds washer type/OD, 'length' holds thickness. Quotes are search snippets.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/68-72_olds_pedal_numbers.html",
+   "title": "1969-72 Cutlass Pedal Assembly Part Numbers",
+   "quote": "9419276 0.837 WASHER, Pedal Pivot Bolt (15/32\" I.D. x 15/16\" O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-02",
+   "title": "BA-02 Flat Washer Assortment - AMK",
+   "quote": "B-11754 flat washer .48 ID x .88 OD x .06 phosphate & oil, OEM 9419276 (search snippet)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.drillingsolutionsltd.com/allsion-parts-13.html",
+   "title": "Allison transmission parts",
+   "quote": "9419276 WASHER,FLAT,7/16",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/gmpart?gmpartno=9419276",
+   "title": "GMPartsWiki - 9419276 WASHER",
+   "quote": "Parts History Catalog 87B \u00b7 REPLACED BY 120395",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

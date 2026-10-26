@@ -1,0 +1,25 @@
+{
+ "pn": "9427909",
+ "kind": "rivet",
+ "thread": "1/8 dia",
+ "length": "grip 3/16-1/4",
+ "head": "dome (blind/pop, Type P)",
+ "drive": null,
+ "finish": "aluminum",
+ "notes": "GM description 'Riv Dome Head Type P Grip 188' (grip .188 = 3/16) agrees with Auveco 8925 (cross-refs GM 9427909): 1/8 dia, 1/4 dome head, grip 3/16-1/4, AD44ABS. Auveco cross-ref seen only in search snippet. 'thread' field holds rivet shank diameter; 'length' holds grip range.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.gmpartsgiant.com/parts/gm-pop-rivet-9427909.html",
+   "title": "9427909 - Genuine GM Riv Dome Head Type P Grip 188, 850",
+   "quote": "Riv Dome Head Type P Grip 188, 850",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://autofastenersandclips.com/products/auveco-8925-pan-l-rivets",
+   "title": "Auveco 8925 Pan-L-Rivets Dome 1/4\u201d Dia 1/8\u201d Grip 3/16\u201d - 1/4\u201d AD44ABS Qty 100",
+   "quote": "Auveco 8925 Pan-L-Rivets Dome 1/4\u201d Dia 1/8\u201d Grip 3/16\u201d - 1/4\u201d AD44ABS; cross-reference GM 9427909 (search snippet)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "pn": "9418918",
+  "kind": "bolt",
+  "thread": "5/16-18",
+  "length": "1",
+  "head": "hex (washer-type per Dr. Rebuild title 'WB')",
+  "drive": null,
+  "finish": "black phosphate",
+  "notes": "Holley 3x2 carb mount bolt (also M40 trans interlock / park pawl bracket). Size from Crusader RS0282 cross-ref and eBay listing of GM supersession 9437847 (.312-18 x 1) that replaces 9418918; the eBay quote is from a search snippet. Dr. Rebuild page failed (expired certificate); its search snippet gives head/finish.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://palmerpower.com/crusader-rs0282-5-16-18-x-1-bolt/",
+      "title": "CRUSADER RS0282 5/16-18 X 1 Bolt",
+      "quote": "Crusader Hhcs, 5/16-18 X 1 Gr 8 Y/Z RS0282 ... Replaces Crusader 179818, 180079, 90205100, 9418918, 90204100",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.ebay.com/itm/316807589792",
+      "title": "Genuine GM .312 x 18 x 1 in Bolt 9437847",
+      "quote": "Genuine GM .312 x 18 x 1 in Bolt 9437847 ... Replaces Part Number: 9418918 (search snippet)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1967-1969CorvetteHolley3x2CarbMountWBBoltGenuineGM9418918NOS.aspx",
+      "title": "1967-1969 Corvette Holley 3x2 Carb Mount WB Bolt Genuine GM 9418918 NOS",
+      "quote": "genuine GM hex head WB bolt with Black phosphate made in the USA ... Two required per car (search snippet)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

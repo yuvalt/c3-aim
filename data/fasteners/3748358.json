@@ -1,0 +1,15 @@
+{
+  "pn": "3748358",
+  "kind": "thrust washer",
+  "thread": "21/64",
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "One clear source: 4speedconversions 1962 Chevy clutch linkage list (search snippet; site 403). Tracyvette lists 3748358 as 1968-81 Corvette clutch pedal rod washer (matches AIM 7/C2). A transmission fastener kit seller calls it a P washer. 21/64 is the stated size (likely ID); OD/thickness unknown.",
+  "confidence": "medium",
+  "sources": [
+    {"url": "https://4speedconversions-com.3dcartstores.com/62_chevy_pass_linkage.html", "title": "1962 Chevy Impala Clutch Linkage Components (search snippet)", "quote": "3748358 4.017 WASHER, Push Rod Lever Thrust (21/64\") ... Pedal push rod to pedal", "accessed": "2026-10-26"},
+    {"url": "https://store.tracyvette.com/category/726/", "title": "Pre-1970 - Tracyvette (search snippet)", "quote": "1968-1981 Corvette Clutch Pedal Rod Washer 3748358", "accessed": "2026-10-26"}
+  ]
+}

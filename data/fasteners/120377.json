@@ -1,0 +1,25 @@
+{
+ "pn": "120377",
+ "kind": "nut",
+ "thread": "3/8-16",
+ "length": null,
+ "head": "hex",
+ "drive": null,
+ "finish": "cadmium",
+ "notes": "Finish from 1962 Chevrolet passenger AIM entry.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/62_chevy_pass_linkage.html",
+   "title": "1962 Chevy Impala Clutch Linkage Components (search snippet; page 403)",
+   "quote": "120377 8.915 NUT, Hexagon (2) Size: 3/8\"-16 Plating: Cad.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.turbopartsworld.com/emd-locomotive-parts-2/",
+   "title": "EMD Locomotive Parts (search snippet)",
+   "quote": "120377 \u00b7 NUT.. Hex 3/8-16",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

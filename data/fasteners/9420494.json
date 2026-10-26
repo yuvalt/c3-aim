@@ -1,12 +1,25 @@
 {
  "pn": "9420494",
  "kind": "screw",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No hits for the number in any search (bare, GM, Corvette, wiper switch/radiator hose/starter context).",
- "confidence": "not_found",
- "sources": []
+ "thread": "#8-18",
+ "length": "1",
+ "head": "indented hex washer, .27 OD",
+ "drive": "hex",
+ "finish": "zinc (Dr Rebuild repro)",
+ "notes": "Earlier pass found nothing. camaros.net AMK table gives size (similar AMK B-10411). Dr Rebuild repro: 64-82 Corvette starter brace shield mount screw (no size). GMPartsWiki: discontinued. Doc Rebuild page cert error; snippets used.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "(8) 9420494-P55 9420554-P153 8-18X1.0 .27 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://shop.docrebuild.com/1964-1982CorvetteStarterBraceShieldMountScrewReproductionOfGM9420494.aspx",
+   "title": "1964-1982 Corvette Starter Brace Shield Mount Screw Reproduction Of GM 9420494 - Dr Rebuild (search snippet)",
+   "quote": "zinc plated ... indented hex washer head ... made in USA",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

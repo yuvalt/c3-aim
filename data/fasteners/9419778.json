@@ -1,0 +1,19 @@
+{
+ "pn": "9419778",
+ "kind": "screw",
+ "thread": "1/4-14",
+ "length": "3/8-3/4",
+ "head": "hex",
+ "drive": null,
+ "finish": null,
+ "notes": "Only one source (camaros.net hardware list, snippets) and snippets disagree on length (3/8 vs 3/4); 3/8 hex, .5 O.D. washer face. Same as 9415464 & 9426269 per list. Search budget exhausted before a second source.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "Original hardware - See Post #2 & #5 (camaros.net, search snippets)",
+   "quote": "9419778 1/4-14 x 3/4, 3/8 hex, .5 O.D. P229 ... AMK also has Stainless & zinc dichromate. Same screw as 9415464 & 9426269 (another snippet rendered the length as 3/8)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

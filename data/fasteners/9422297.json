@@ -1,0 +1,25 @@
+{
+ "pn": "9422297",
+ "kind": "nut",
+ "thread": "3/8-16",
+ "length": null,
+ "head": "hex, 9/16 AF, .33 thick, grade 8",
+ "drive": null,
+ "finish": null,
+ "notes": "AMK B-10526. Finish varies by suffix in the lists (P79/81 chrome vs cad). GMPartsGiant names it 'Nut, Rear Brake Backing Plate' (application, no size); PartTarget: self-locking hex nut, cadmium. The two forum lists may share an origin.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - camaros.net (search snippet)",
+   "quote": "9422297-P79/81 nut 3/8-16 GR8 9/16 AF .33 THK AMK B-10526 (6)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+   "title": "AIM Rant - CorvetteForum (search snippet; page 403)",
+   "quote": "9422297-P79/81 nut 3/8-16 GR8 9/16 AF .33 THK AMK B-10526 (6) Cad",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

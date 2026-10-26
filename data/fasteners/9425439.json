@@ -1,0 +1,31 @@
+{
+ "pn": "9425439",
+ "kind": "bolt",
+ "thread": "1/4-20",
+ "length": "5/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "AIM calls it SCREW. ECP sells it as 67-69 3x2 air cleaner base-to-carb bolt; Corvette Central lists same GM number (no size). 4speedconversions lists 9425439 as switch bracket to pedal bracket screw (matches AIM stop lamp switch use). Size from one source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.ecproducts.com/products/2375/bolt-air-cleaner-base-pair-67-69/",
+   "title": "Corvette Bolt Air Cleaner Base Pair 67-69 (#E12373) - ECP",
+   "quote": "includes (2) 1/4-20x5/8\" bolts ... GM Part Number: 9425439.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettecentral.com/c3-68-82/air-cleaners/68-69-3x2/67-69-air-cleaner-bolts-base-to-carburetor-3-x-2-152208",
+   "title": "67-69 Air Cleaner Bolts Base To Carburetor 3 x 2 / Tri Power - Corvette Central",
+   "quote": "One pair of bolts. ... GM Item No. 9425439",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/68-81_vette_pedals.html",
+   "title": "1968-81 Corvette Pedal Assemblies (search snippet)",
+   "quote": "9425439 SCREW, Switch bracket to pedal bracket",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,19 +1,25 @@
 {
-  "pn": "9421033",
-  "kind": "screw",
-  "thread": null,
-  "length": null,
-  "head": null,
-  "drive": null,
-  "finish": null,
-  "notes": "CorvetteForum 'screw size' thread (403) only says AIM lists #9421033 'which is a common fastener for other uses'; no size. GMPartsWiki page exists (Corvair context) but no dims.",
-  "confidence": "not_found",
-  "sources": [
-    {
-      "url": "https://www.corvetteforum.com/forums/c3-general/4808506-screw-size.html",
-      "title": "screw size - CorvetteForum (search snippet; page 403)",
-      "quote": "#9421033 which is a common fastener for other uses",
-      "accessed": "2026-10-24"
-    }
-  ]
+ "pn": "9421033",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Round 3: still no size. Vendors (Ecklers/Corvette Pacifica rear window storage door hinge/handle kits, Corvette Central 63-67 side exhaust cover screw 322041) cite GM 9421033 and say 'screws w/attached washers' but give no size. No AMK hit. Search budget ran out before more tries.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/4808506-screw-size.html",
+   "title": "screw size - CorvetteForum (search snippet; page 403)",
+   "quote": "#9421033 which is a common fastener for other uses",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.corvettepacifica.com/products/34523/bolt-kit-rear-window-storage-door-hinge-8-pieces-69-72/",
+   "title": "Bolt Kit Rear Window Storage Door Hinge 69-72 - Corvette Pacifica",
+   "quote": "Rear window storage door hinge screw kit, includes (8) screws w/attached washers. Attaches hinge to rear bulk head.",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

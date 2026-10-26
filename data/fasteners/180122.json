@@ -1,0 +1,31 @@
+{
+ "pn": "180122",
+ "kind": "bolt",
+ "thread": "3/8-16",
+ "length": "1",
+ "head": "hex, 9/16 AF",
+ "drive": "hex",
+ "finish": "zinc & wax (AMK repro)",
+ "notes": "AMK B-10149 (zinc) / B-10148 (phosphate). Grade conflict: AMK says GR5, RightParts says grade 8. camaros.net lists 0180122-P79. Quotes from search snippets.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7016",
+   "title": "AMK Bulk Fasteners Listing - hex bolts 3/8 (search snippet)",
+   "quote": "180122 ... B-10149 ... 3/8-16 X 1.0 GR5 HX BOLT \"TR\" ZC",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "0180122-P79 ... 3/8-16X1.0 9/16AF ... AMK B-10149",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.rightparts.com/details/item?itemid=11718005&xref=180122",
+   "title": "RightParts 180122 (search snippet)",
+   "quote": "GRADE 8 BOLT",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

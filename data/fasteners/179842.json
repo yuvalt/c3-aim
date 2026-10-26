@@ -1,0 +1,31 @@
+{
+ "pn": "179842",
+ "kind": "bolt",
+ "thread": "3/8-16",
+ "length": "1-1/4 to 1-3/8 (sources disagree)",
+ "head": "hex (forum: flanged, 9/16 AF, 3/4 flange)",
+ "drive": null,
+ "finish": "phosphate & oil",
+ "notes": "Length conflict: AMK B-14144 3/8-16 x 1-3/8 GR5; camaros.net forum says AMK B-10082 flanged 3/8-18[sic, likely 3/8-16] x 1-1/4 Gr5. GMPartsWiki: replaced by 9420462. Bellhousing-to-engine use matches AIM M40.",
+ "confidence": "conflict",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7016",
+   "title": "AMK Bulk Fasteners Listing Hex 3/8 (search snippet)",
+   "quote": "3/8-16 X 1 3/8 GR5 HX BOLT \"C\" PHOS. 4 pk | Phosphate & Oil | (LVP) 9418824, 179842 (s) | | B-14144",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/bolt-size-type.88086/",
+   "title": "camaros.net - Bolt Size / Type (search snippet)",
+   "quote": "179842/3828782 ... a flanged bolt, 3/8-18 x 1-1/4 with a 9/16AF hex and a 3/4\" flange, Grade 5 ... AMK #B-10082",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/gmpart?gmpartno=179842",
+   "title": "GMPartsWiki - 179842 BOLT (search snippet)",
+   "quote": "replaced by 9420462",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

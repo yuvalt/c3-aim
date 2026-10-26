@@ -1,0 +1,25 @@
+{
+ "pn": "9419328",
+ "kind": "screw",
+ "thread": "10-16",
+ "length": "1/2",
+ "head": "pan, .37 O.D.",
+ "drive": "cross recess (phillips)",
+ "finish": null,
+ "notes": "AMK B-11530. NSN 5305-00-432-4201 length 0.469-0.531 in.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware - See Post #2 & #5 (search snippet)",
+   "quote": "AMK B-11530 (10) 9419328-P163 10-16X1/2 .37 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.parttarget.com/General-Motors-Corp_nsn-parts_9419305_9422956.html",
+   "title": "PartTarget NSN parts by GM (search snippet)",
+   "quote": "MFG SKU: 9419328. NSN: 5305-00-432-4201. Item Name: Screw, Tapping. (pan head, cross recess type 1, length 0.469 to 0.531 in)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "pn": "9419892",
+  "kind": "flat washer",
+  "thread": ".28 ID",
+  "length": null,
+  "head": "flat, .28 ID x .62 OD x .07 thick",
+  "drive": null,
+  "finish": "zinc & chromate (NSN listing); AMK repro phosphate",
+  "notes": "Size only from camaros.net hardware list snippet (AMK B-11291). NSN listing (wbparts, 403) says round steel flat washer, zinc/chromate. CorvetteParts.com calls 9419892 a hardtop rear mounting bolt washer seal/gasket on C3, which is a different description; uses in AIM (accelerator, transmission) fit a plain washer.",
+  "confidence": "medium",
+  "sources": [
+    {"url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2", "title": "Original hardware - camaros.net (search snippet)", "quote": "9419892-P103 flat washer .28X.62X.07thk", "accessed": "2026-10-26"},
+    {"url": "https://www.wbparts.com/rfq/5310-01-103-6042.html", "title": "5310-01-103-6042 - FLAT WASHER (search snippet)", "quote": "round steel flat washer with zinc and chromate plating", "accessed": "2026-10-26"}
+  ]
+}

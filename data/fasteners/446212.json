@@ -1,0 +1,20 @@
+{
+  "pn": "446212",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": "zinc & wax (AMK repro)",
+  "notes": "Flat washer .44 ID x .88 OD x .08 thick per AMK cross-ref (search snippet only; AMK site not fetched). AMK B-15651.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=8922",
+      "title": "Bulk Fasteners Listing \u2014 AMK Products, Inc.",
+      "quote": ".44 ID X .88 D X .08 TK FLAT WA ZC. 12 pk | .0002 Zinc & Wax | (IAZ) 446212",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "dims": ".44 ID x .88 OD x .08 thick"
+}

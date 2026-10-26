@@ -1,0 +1,25 @@
+{
+ "pn": "103372",
+ "kind": "cotter pin",
+ "thread": "3/32",
+ "length": "1/2",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "thread field = pin diameter.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://cj3a.info/tech/starter.html",
+   "title": "CJ3A Starters and Controls",
+   "quote": "GM-103372 Pin, cotter 3/32\" x 1/2\"",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://aerobasegroup.com/part-number/m96x_00-839-2326",
+   "title": "M96X Cotter Pin - Aerobase (search snippet)",
+   "quote": "Pin 3/32 dia x.50 lg cotter pin",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

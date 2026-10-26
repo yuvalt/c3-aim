@@ -1,0 +1,31 @@
+{
+ "pn": "9419075",
+ "kind": "bolt",
+ "thread": "7/16-14",
+ "length": "1-1/4",
+ "head": "hex",
+ "drive": null,
+ "finish": null,
+ "notes": "Grade 5 per Zip. NSN record gives length 1.190-1.250 in. GMPartsWiki shows replaced by 9424069. Zip lists it for diff/trans mount bolts; AIM uses are bumper braces.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.zip-corvette.com/63-79-differential-mount-to-crossmember-bolts.html",
+   "title": "1963-1979 Corvette Differential Mount to Crossmember Bolts (GM Part 9419075)",
+   "quote": "Includes (4) 7/16-14 x 1-1/4\" grade 5 hex head bolts with original style headmarkings and heavy duty lock washers.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.wbparts.com/rfq/5305-01-186-5382.html",
+   "title": "5305-01-186-5382 - HEXAGON HEAD CAP SCREW",
+   "quote": "9419075 | 5305-01-186-5382 | Screw, cap, Hexagon Head | Fastener Length: 1.190 inches minimum and 1.250 inches maximum Head Style: C1 hexagon Nominal Thread Diameter: 0.438 inches",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/gmpart?gmpartno=9419075",
+   "title": "GMPartsWiki - 9419075 BOLT",
+   "quote": "replaced by 9424069 (search snippet; site 403)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}
