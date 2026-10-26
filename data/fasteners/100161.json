@@ -1,0 +1,19 @@
+{
+ "pn": "100161",
+ "kind": "bolt",
+ "thread": "1/2-13",
+ "length": "1 3/4",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Single forum source (CorvetteForum, quoting parts book). Searched: 'GM 100161', '100161 AMK', '100161 bolt'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/2936488-how-do-i-find-bolt-fastener-size-from-aim-or-shop-manual.html",
+   "title": "How do I find bolt/fastener size from AIM or Shop manual ? - CorvetteForum",
+   "quote": "for example #100161 is 1/2\"-13x 1 3/4\" bolt.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "pn": "103385",
+  "kind": "cotter pin",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Allison (GM division) parts list names '103385 - COTTER' without size. Case IH also uses 103385 for a 1/8 x 1 cotter pin, but that is a different numbering system and not used. No size found. Searched (Brave): 'GM 103385', '103385 AMK', '103385 cotter pin', '103385 corvette cotter pin'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://tktsales.com/allison_parts/page1.html",
+      "title": "Allison parts list - TKT Sales",
+      "quote": "103384 - PIN 103385 - COTTER 103395 - PIN COTTER,5/32 X 3/4",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

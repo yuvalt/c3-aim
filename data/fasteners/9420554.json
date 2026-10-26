@@ -1,0 +1,25 @@
+{
+ "pn": "9420554",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "1",
+ "head": "oval countersunk, #6 head, chrome plated (size of GM replacement 9414756)",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "Direct: camaros.net fastener list (reposted on CorvetteForum) gives 9420554-P153 8-18X1.0. NCRS (Joe Lucia, via NastyZ28): 9420554 discontinued 4/1983, replaced by 9414756 = oval CS phillips tapping screw 8-18 x 1, #6 head, chrome. Drive and head are from the replacement. Used for C3 console shift plate and 63-67 rocker molding ends.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+   "title": "AIM Rant - CorvetteForum",
+   "quote": "9420554-P153 8-18X1.0",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://nastyz28.com/threads/1970-z28-screw-for-retainer-on-shifter-boot.177954/",
+   "title": "1970 Z28 Screw for Retainer on Shifter Boot | NastyZ28.com",
+   "quote": "It was discontinued in April, 1983 and I have no other information on it. However, it was replaced at that time by GM #9414756, and I do have information on that screw. It was an oval, countersunk phillips head tapping screw of size 8-18 X 1\" . It had a #6 head and was chrome plated.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "pn": "9420137",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "U-nut (AIM name NUT). Searched: 'GM 9420137', '9420137 nut', '9420137 AMK', '9420137 U nut 8-18'. Found it as 70-73 Corvette exhaust bezel U-nut (Corvette Pacifica kit) and Nova console plate U-nut, no size given. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvettepacifica.com/products/13277/bezel-exhaust-chrome-plated-pair-70-73/",
+   "title": "Corvette Bezel Exhaust Chrome Plated Pair 70 73 | Corvette Pacifica",
+   "quote": "EXHAUST BEZEL U-NUT KIT, INCLUDES 8 PIECES. GM PART # 9420137.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/68-72_nova_console.html",
+   "title": "68-72 Nova Manual Shift Console Parts - 4 Speed Conversions",
+   "quote": "9420137 \u00b7 \"U' NUT (Plate to Console)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "pn": "9419858",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9419858', '9419858 screw', '9419858 AMK' (plus cached 'GM 9414711' set). Only found Corvette Pacifica/Paragon 1968-82 door main weatherstrip screw kit listing GM 9414711 / 9419858 with no size, and a garbled Corvair AIM page. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvettepacifica.com/products/10409/screw-set-door-main-weatherstrip-10-pieces-68-82/",
+   "title": "Corvette Screw Set Door Main Weatherstrip 10 Pieces 68 82 ( #E8001 ) | Corvette Pacifica",
+   "quote": "1968-82 C3 CORVETTE DOOR MAIN WEATHERSTRIP SCREW SET. GM PART # 9414711 / 9419858",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

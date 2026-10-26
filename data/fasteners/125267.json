@@ -1,0 +1,25 @@
+{
+  "pn": "125267",
+  "kind": "nut",
+  "thread": "5/8-18",
+  "length": null,
+  "head": "hex slotted (castle)",
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Slotted (castle) hex nut, 5/8-18; used on rear strut/shock mount per CorvetteForum.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.gmpartsgiant.com/parts/gm-nut-hex-sl-625x18-00x-000-zp-125267.html",
+      "title": "125267 - Genuine GM Parts",
+      "quote": "GM part # 125267 Nut, Hexagon Slot .625X18.00X .000 Zinc Coated (Dipped Or Plated)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-tech-performance/3127769-castle-nuts-thread-size-rear-shouck-mount.html",
+      "title": "Castle Nuts thread size rear shouck mount - CorvetteForum",
+      "quote": "5/8 x 18.... I even know the old GM part number... 125267",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "pn": "3876129",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": "1",
+ "head": "hex 5/16 AF (.5 dia, snippet truncated)",
+ "drive": "hex",
+ "finish": null,
+ "notes": "Single source: camaros.net 68/69 Camaro AIM fastener list (P92 voltage regulator). Used with 3876130 well nut for voltage regulator / horn relay mounting; 1968 Camaro AIM says shoulder of screw must be seated against threaded insert.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/factory-assembly-instruction-manual-help.459445/",
+   "title": "Factory Assembly Instruction Manual Help | Team Camaro Tech",
+   "quote": "3876129-P92 Voltage Regulator 10-24X1.0 5/16AF .5",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://oldsobsolete.com/products-page/chevy-parts-for-sale/1963-chevrolet-parts-for-sale/1963-1975-gm-voltage-regulator-support-screw-nos-3876129/",
+   "title": "1963 - 1975 Firebird, Corvette NOS Voltage Regulator Support Screw GM # 3876129",
+   "quote": "This new old stock voltage regulator to radiator support screw was manufactured by General Motors",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

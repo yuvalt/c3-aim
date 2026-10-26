@@ -1,0 +1,19 @@
+{
+ "pn": "9421936",
+ "kind": "screw",
+ "thread": "10-16",
+ "length": "5/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "CorvetteForum poster citing GM Parts Wiki (pageid=50521, which returns 403). Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/3833755-center-ac-duct-screw-size.html",
+   "title": "Center AC duct screw size - CorvetteForum",
+   "quote": "Found 9421936 on GM Parts Wiki. #10-16 x 5/8",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "pn": "9420825",
+  "kind": "screw",
+  "thread": "5/16-18",
+  "length": "9/16",
+  "head": "hex washer head, 1/2 AF, .66 OD",
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Self-tapping hex washer head screw (eBay Camaro kit calls it 'self tapping bolt 9420825'); used for spare tire tray/lid, brake/fuel line clips. Size from one camaros.net hardware list (same list reposted in several camaros.net and CorvetteForum threads), so one underlying source. Listed together with 3958062.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/brake-line-clip-bolts-for-67-camaro.218130/",
+      "title": "Brake Line Clip Bolts for 67 Camaro | Team Camaro Tech",
+      "quote": "9420825/3958062-68 AIM P72/73 5/16-18X9/16 1/2AF .66 O.D.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+      "title": "AIM Rant - CorvetteForum",
+      "quote": "3958062/9420825- 5/16-18X9/16 1/2AF .66",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.camaros.net/threads/time-for-another-68-z-28-to-be-restored.182584/page-28",
+      "title": "Time for another 68 Z/28 to be restored | Page 28 | Team Camaro Tech",
+      "quote": "The GM 9420825 screw used in conjunction with the 125912 clip seen here is a zinc coated screw",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

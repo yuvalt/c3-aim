@@ -1,0 +1,25 @@
+{
+  "pn": "3841497",
+  "kind": "nut",
+  "thread": "7/16-20",
+  "length": null,
+  "head": "hex, 9/16 AF, .22 thick (jam)",
+  "drive": null,
+  "finish": "phosphate",
+  "notes": "Shifter linkage / swivel-clevis jam nut. camaros.net AMK list and GM dealer catalog agree on 7/16-20. One gmpartsprime truck listing shows 'NUT, HEXAGON (.37X20 PC)' next to 3841497, likely a different-row/garbled entry; ignored.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+      "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech",
+      "quote": "3841497-P319 Shifter linkage nut 7/16-20 9/16 AF .22Thk AMK B-10511 (4)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.gmpartsgiant.com/parts-list/1985-gmc-g3500/transmission_manual/shift_control.html",
+      "title": "Shift Control of Transmission - Manual - 1985 GMC G3500",
+      "quote": "3841497 NUT, Transmission Shift Shaft Lever Rod, NUT, TRANS CONTROL LEVER KNOB ADJUST (.437X20, PHOSPHATE)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

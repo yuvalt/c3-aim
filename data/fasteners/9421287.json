@@ -1,0 +1,19 @@
+{
+ "pn": "9421287",
+ "kind": "bolt",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9421287', '9421287 bolt', '9421287 AMK', '9421287 shift lever bolt 5/16-24'. Found only AIM usage (1968 Chevy II M20 shifter, Chevelles.com: 66 AIM shifter lever held by bolt 9421287 on shafts with 5/16 NF internal threads) - no quote with the size next to the number, so no size recorded.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.chevelles.com/threads/66-muncie-shift-levers-fit-on-69-shift-assembleys.241667/",
+   "title": "66 muncie shift levers fit on 69 shift assembleys? | Team Chevelle",
+   "quote": "It has the shifter lever held by bolt 9421287 page PUC M20.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

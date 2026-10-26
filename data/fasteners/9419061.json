@@ -1,0 +1,19 @@
+{
+  "pn": "9419061",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "2-3/4",
+  "head": "9/16 hex",
+  "drive": null,
+  "finish": null,
+  "notes": "Alternator bracket bolt; size is a forum quote of the AMK catalog.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/1846709-bolt-size-and-length-for-70-alternator-bracket-to-head-and-exhaust-manifold.html",
+      "title": "Bolt size and length for 70 alternator bracket - CorvetteForum",
+      "quote": "AIM for my 71' calls out P/N 9419061 Bolt and the AMK Products catalog says it's a 3/8-16 2 3/4\" long with a 9/16\" hex head",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

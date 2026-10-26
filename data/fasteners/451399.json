@@ -1,0 +1,19 @@
+{
+  "pn": "451399",
+  "kind": "nut",
+  "thread": "5/16-24",
+  "length": null,
+  "head": "hex",
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Single GM-catalog description via gmpartsgiant: hex nut .312-24 = 5/16-24.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.gmpartsgiant.com/parts/gm-nut-451399.html",
+      "title": "451399 - Genuine GM Parts",
+      "quote": "GM part # 451399 Nut, Hexagon .312X24.00X .000 Zinc Coated (Dipped Or Plated)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

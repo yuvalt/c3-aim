@@ -1,0 +1,19 @@
+{
+ "pn": "9419030",
+ "kind": "bolt",
+ "thread": "5/16-18",
+ "length": "5/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Same page says 9419030 replaced by 106324 (106324 discontinued 7/75). Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/67-68_chevy_b_pedals.html",
+   "title": "67-68 Chevy Fullsize Pedal Assembly",
+   "quote": "9419030 BOLT, 5/16\" - 18 x 5/8\" 69 Assembly Manual History: 9419030 use 106324",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

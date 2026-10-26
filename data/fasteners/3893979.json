@@ -1,0 +1,19 @@
+{
+  "pn": "3893979",
+  "kind": "screw",
+  "thread": "#8",
+  "length": "3/8",
+  "head": "special button (flat underside)",
+  "drive": "phillips",
+  "finish": "black",
+  "notes": "Team Chevelle forum reply (cowl screen screw context). GM 1979 supersession list: 3893979 use 9431918 (no size found for 9431918). Head described as special button head, flat underside.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.chevelles.com/threads/screw-p-n-3893979-what-is-it.42299/",
+      "title": "Screw P/N 3893979. What is it? | Team Chevelle",
+      "quote": "Desert, 3893979 is a #8 x 3/8\" black phillips trim screw with a special button head which is flat on the under side.",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

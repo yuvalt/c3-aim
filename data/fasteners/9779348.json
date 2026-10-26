@@ -1,0 +1,19 @@
+{
+  "pn": "9779348",
+  "kind": "pin",
+  "thread": "1/4",
+  "length": "21/64",
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Searched: 'GM 9779348'; '9779348 AMK'; '9779348 pin stud'; '9779348 corvette'. TH350/400 shift cable pin stud (gmpartsgiant 'Pin, Trans Control Shift Cable Assembly To'; MOMCP/Motor City Vettes list it with 1382792). No size. Updated 2026-10-26 from Chevrolet Corvette Parts & Illustration Catalog 14A (rev. 12-83), fiche 3, group 4 (scan checked).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "",
+      "title": "Chevrolet Corvette Parts & Illustration Catalog 14A (rev. 12-83), fiche 3, group 4 (scan checked)",
+      "quote": "68-78 Y 9779348 1 1.60 PIN, CONT CABLE SEL LVR (1/4 X 21/64)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

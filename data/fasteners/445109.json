@@ -1,0 +1,20 @@
+{
+ "pn": "445109",
+ "kind": "nut",
+ "thread": "#8-18",
+ "length": null,
+ "head": "spring nut",
+ "drive": null,
+ "finish": null,
+ "dims": ".41 x .62 L",
+ "notes": "Spring nut, sill plate & trim molding. AMK 2014 catalog nuts-spring page (text extracted on who-sells-it.com) lists 445109 (with Ford 352522-S) under #8-18, .41 x .62 L, code LAI. Catalog text is column-extracted; one source. Searches: 'GM 445109', '445109 AMK'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://www.who-sells-it.com/cy/amk-products-5610/nuts-nut-retainers-nylon-pierce-rivet-2014-33580.html",
+   "title": "Nuts - Nut & Retainers, Nylon, Pierce, Rivet 2014 by AMK Products (search snippet)",
+   "quote": "65 nuts spring ... #8-18 .41 x .62 l lai 352522-s 445109",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "pn": "102646",
+  "kind": "nut",
+  "thread": "7/16-20",
+  "length": null,
+  "head": "hex, 5/8 AF, .38 thick (tie rod)",
+  "drive": null,
+  "finish": null,
+  "notes": "Searched: 'GM 102646'; '102646 castle nut'; '102646 AMK'; '102646 tie rod nut'. Identified as tie rod end castle nut (Corvette Pacifica E15125, Heartbeat City) but no thread size given; Corvette Pacifica page fetched, no size. Updated 2026-10-26 from Team Camaro Tech: correct bolts for resto (search snippet).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/correct-bolts-for-resto.337170/",
+      "title": "Team Camaro Tech: correct bolts for resto (search snippet)",
+      "quote": "0102646-P126 Tie Rod 7/16-20 5/8AF .38thk AMK B-10585",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

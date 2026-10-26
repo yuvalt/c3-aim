@@ -1,0 +1,12 @@
+{
+ "pn": "9419008",
+ "kind": "bolt",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "No size found. Searched (Brave via search.py): 'GM 9419008', '9419008 AMK', '9419008 bolt'. camaros.net hardware list shows '9419008-P103 9419073-P95 7/16-14X1.0 5/8AF'; in that list a part number followed directly by another part number has no description of its own (e.g. 9419751), so the 7/16-14x1.0 belongs to 9419073 and is not used. Listed in 80TS-RP supersession table and NSN indexes without size.",
+ "confidence": "not_found",
+ "sources": []
+}

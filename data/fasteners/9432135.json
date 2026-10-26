@@ -1,0 +1,19 @@
+{
+ "pn": "9432135",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9432135', '9432135 screw', '9432135 corvette kick panel', '\"Original Kick Panel Screw\" 9432135'. Only found a CorvetteForum thread title '70 Original Kick Panel Screw 9432135' (forum returns 403; snippets show no size). No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/4756758-how-to-dismantle-my-69-t-tops.html",
+   "title": "How to dismantle my '69 T tops? - CorvetteForum (similar-thread link)",
+   "quote": "70 Original Kick Panel Screw 9432135",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

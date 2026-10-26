@@ -1,0 +1,19 @@
+{
+ "pn": "9419005",
+ "kind": "bolt",
+ "thread": "1/4-20",
+ "length": null,
+ "head": "hex, TR headmark",
+ "drive": "hex",
+ "finish": null,
+ "notes": "Thread only, from a Zip kit (steering column lower clamp 3772212 + bolt 9419005) whose single bolt is 1/4-20 hex TR; kit-level attribution, length not given. Zip also lists 9419005 for 56-57 bumper, 56-58 deck lid hinge and 58-62 hood support kits (no sizes). Searched: 'GM 9419005', '9419005 bolt', '9419005 1/4-20'; parttarget NSN page empty.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.zip-corvette.com/63-66-steering-column-shaft-lower-clamp-w-bolt.html",
+   "title": "1963-1966 Corvette Steering Column Shaft Lower Clamp w/Bolt (GM Part 3772212, 9419005)",
+   "quote": "Includes 1/4-20 hex bolt with \"TR\" headmarking, lock washer and hex nut to complete installation. ... OE GM PART #: 3772212, 9419005",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

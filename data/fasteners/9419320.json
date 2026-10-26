@@ -1,0 +1,25 @@
+{
+ "pn": "9419320",
+ "kind": "screw",
+ "thread": "#10 (one source; another poster guessed #8)",
+ "length": "3/8-1/2",
+ "head": "hex (sheet metal)",
+ "drive": null,
+ "finish": null,
+ "notes": "Conflict: ClassicOldsmobile poster 'found #10 x 3/8'; CorvetteForum poster says door access panel screws (9419320 per '72 AIM) are hex head sheet metal screws 1/2\" long and guessed #8. Length recorded as range.",
+ "confidence": "conflict",
+ "sources": [
+  {
+   "url": "https://classicoldsmobile.com/forums/general-questions-44/gm-cross-reference-obsolete-parts-131793/",
+   "title": "gm cross reference ( obsolete parts) - ClassicOldsmobile.com",
+   "quote": "9419320 ( found #10 x 3/8)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/4944307-window-motor-cover.html",
+   "title": "Window Motor Cover - CorvetteForum",
+   "quote": "it's a #8, that's just a guess from looking at it. According to my '72 AIM these panel screws are #9419320 (M139, UPC 1, K8) ... The screws used to secure the access panels are hex head sheet metal screws a 1/2\" long",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

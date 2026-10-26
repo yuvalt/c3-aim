@@ -1,0 +1,25 @@
+{
+ "pn": "9414711",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9414711', '9414711 screw', '9414711 AMK'. Found only kit listing (Corvette Pacifica door main weatherstrip screw set, GM 9414711 / 9419858, no size), a 65 Chevy clutch-seal-to-dash usage, and a garbled OCR line in GM 80TS-RP supersession list ('9414711 9418790') that may indicate a replacement number but is too garbled to rely on. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvettepacifica.com/products/10409/screw-set-door-main-weatherstrip-10-pieces-68-82/",
+   "title": "Corvette Screw Set Door Main Weatherstrip 10 Pieces 68 82 ( #E8001 ) | Corvette Pacifica",
+   "quote": "GM PART # 9414711 / 9419858 1968 - 1982",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/69-70_chevy_b_linkage.html",
+   "title": "65-70 Impala Clutch Linkage - 4 Speed Conversions",
+   "quote": "9414711 SCREW, Seal to dash 65 Pass.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

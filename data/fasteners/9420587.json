@@ -1,0 +1,19 @@
+{
+ "pn": "9420587",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "3/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "From 69 Chevelle Assembly Manual quote (bezel to retainer). Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/68-72_chevelle_interior.html",
+   "title": "68-72 Chevelle Shifter Boots and Interior Parts",
+   "quote": "9420587 8.977 SCREW, Bezel to Retainer (#8-18 x 3/8\") 69 Assembly Manual (MC1-A3)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

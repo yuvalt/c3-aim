@@ -1,0 +1,25 @@
+{
+  "pn": "9414723",
+  "kind": "screw",
+  "thread": "#10 tapping (type A/AB)",
+  "length": "5/8",
+  "head": "pan",
+  "drive": "phillips",
+  "finish": "zinc (Auveco repro)",
+  "notes": "Size from Auveco 2808 listing (AutoFastenersAndClips), which names GM 9414723 and 9441941. Single source. Zip, Corvette Pacifica (8-piece rear license bezel screw set, GM 9414723 / 347347) and Mid America (63-67 rear license light screw kit) cite it without size.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://autofastenersandclips.com/products/auveco-2808-10-x-5-8-phillips-pan-head-tapping-screw-zinc",
+      "title": "Auveco 2808 #10 x 5/8 Phillips pan head tapping screw, zinc",
+      "quote": "Finish: Zinc Head Style: Phillips Pan Length: 5/8 in. Point Type: A/AB Screw Size: #10 Screw Type: Tapping ... GM: 9414723, 9441941",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvettepacifica.com/products/5753/screw-set-rear-license-plate-bezel-8-pieces-63-73/",
+      "title": "Screw Set Rear License Plate Bezel 8 Pieces 63-73 - Corvette Pacifica",
+      "quote": "1963-1973 CORVETTE C2 & C SCREW SET-REAR LICENSE BEZEL-8 PIECES. GM PART # 9414723 / 347347",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

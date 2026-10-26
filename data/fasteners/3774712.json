@@ -1,0 +1,31 @@
+{
+  "pn": "3774712",
+  "kind": "nut",
+  "thread": "7/16-20",
+  "length": null,
+  "head": "hex thick slotted (castle)",
+  "drive": null,
+  "finish": null,
+  "notes": "Slotted castle nut (trailing arm per vendors). Two GM catalog OCR entries give 7/16-20 (OCR renders 16 as '18' in the 1983 book, consistent with neighbouring '7 18 14' = 7/16-14 bolts).",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "http://www.gmpartswiki.com/getpage?pageid=2553",
+      "title": "GMPartsWiki - Parts and Accessories Catalog P&A 34 October 1963",
+      "quote": "NUT rear mtg 7 16 20 3774712",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "http://www.gmpartswiki.com/getpage?pageid=41082",
+      "title": "GMPartsWiki - Parts and Illustration Catalog P&A 14A December 1983",
+      "quote": "3774712 2 44 NUT 7 18 20 16",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://corvette.co.uk/steering-system-54-c.asp",
+      "title": "Steering System (corvette.co.uk)",
+      "quote": "GM 3774712 Hex THK Slotted Castle Nut Trailing Arm",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

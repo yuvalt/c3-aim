@@ -1,0 +1,19 @@
+{
+ "pn": "9422538",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "No size found. Searched (Brave via search.py): 'GM 9422538', '9422538 AMK', '9422538 corvette', '20222450 screw'. GM Parts History Catalog 87B: '9422538 use 20222450'; no size found for either number.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=92449",
+   "title": "GMPartsWiki - Parts History Catalog 87B November 1990 (search snippet)",
+   "quote": "9422538 use 20222450",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

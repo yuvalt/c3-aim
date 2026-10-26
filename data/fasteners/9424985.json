@@ -1,0 +1,25 @@
+{
+ "pn": "9424985",
+ "kind": "nut",
+ "thread": "7/16-14",
+ "length": null,
+ "head": "hex",
+ "drive": null,
+ "finish": null,
+ "notes": "Multiple GM dealer catalogs agree; grade 301M per GM listing.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.gmpartsgiant.com/parts-list/1987-chevrolet-suburban-r20/frames_springs_shocks_bumpers/frame.html",
+   "title": "Frame - 1987 Chevrolet Suburban R20 - GMPartsGiant",
+   "quote": "9424985 NUT, HEXAGON (7/16-14, 301M)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.gmpartsprime.com/auto-parts/1987-chevrolet-v20/bumpers_suspension_frames/frame.html",
+   "title": "Genuine Frame for 1987 Chevrolet V20 - GMPartsPrime",
+   "quote": "9424985 \u00b7 NUT, HEXAGON (7/16-14)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

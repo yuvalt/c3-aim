@@ -1,0 +1,25 @@
+{
+  "pn": "3863393",
+  "kind": "screw",
+  "thread": "1/4-14 tapping",
+  "length": "1",
+  "head": "hex 7/16 AF, .69 external-tooth washer",
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Hex washer-head tapping screw with external-tooth washer (heater box to firewall per AMK). camaros.net list and AMK catalog agree.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+      "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech",
+      "quote": "3863393-P52 1/4-14X1.0 7/16AF .69 External Zinc AMK B-11200 (2) or B-11201 (6)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://m.moam.info/tapping-screws-fillister-flat-hex_59b2bcab1723dddbc6359115.html",
+      "title": "TAPPING SCREWS - FILLISTER, FLAT, HEX (AMK catalog)",
+      "quote": "GM Heater Box > Firewall 1/4-14 X 1.0 7/16 AF .69 EXTERNAL LON, 3863393, 9780719, 14005067",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

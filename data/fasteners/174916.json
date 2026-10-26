@@ -1,0 +1,20 @@
+{
+  "pn": "174916",
+  "kind": "lock washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "dims": null,
+  "notes": "Toothed lock washer used with screw 9420415 (camaros.org 68/69 Camaro fastener list), AMK B-11314; no dimensions found. Searched: 'GM 174916'; '174916 lock washer'; '174916 toothed lock washer AMK B-11314'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://www.camaros.org/forum/index.php?action=profile&u=4708&area=showposts&start=1995",
+      "title": "Show posts - 68camaroz28 - Page 134",
+      "quote": "174916-Toothed Lock Washer w/9420415 screw , 69 AIM pages-28, 155, 156, 161, 182, 439, 440, 441, 460 AMK B-11314.",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "pn": "103386",
+ "kind": "cotter pin",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "dims": null,
+ "notes": "Searched: 'GM 103386', '103386 cotter pin', '103386 cotter pin AMK'. No GM/Chevrolet source. Case IH parts lists use 103386 for 'COTTER PIN 1/8 x 1 1/4', but that is a different numbering system (same treatment as 103385), so not used. No GM size quote.",
+ "confidence": "not_found",
+ "sources": []
+}

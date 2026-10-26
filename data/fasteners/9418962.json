@@ -1,0 +1,25 @@
+{
+ "pn": "9418962",
+ "kind": "screw",
+ "thread": "8-32",
+ "length": "5/8",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "AMK B-12569 cross-ref lists 9418962 (quoted on camaros.net); AMK version phosphate, while Camaro repro vendors sell it chrome as a 1967 shift-plate screw ('correct large head'), so finish left null. Single size source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/time-for-another-68-z-28-to-be-restored.182584/page-53",
+   "title": "Time for another 68 Z/28 to be restored - camaros.net",
+   "quote": "Check out this screw in the AMK catalog.... Page 120 8-32x5/8\" .26OD S2 (Phosphate coating) #B-12569 XV, 53272-S, 455703. 168852. 9418962",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://momcp.com/product/1967-69-camaro-shift-plate-screws-chrome/",
+   "title": "1967 Camaro Shift Plate Screws - MOMCP",
+   "quote": "Correct large head Camaro Shift Plate Screws. Chrome plated. ... Replaces original GM part # 9418962",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

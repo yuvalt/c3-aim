@@ -1,0 +1,20 @@
+{
+ "pn": "382588",
+ "kind": "washer",
+ "thread": null,
+ "length": null,
+ "head": "(size of GM replacement 3914674: flat, 3/8 hole x 1 OD x .01[snippet truncated] thick, phosphate)",
+ "drive": null,
+ "finish": null,
+ "dims": null,
+ "notes": "382588 superseded by 3914674 (6/73); the only dimensions given are for 3914674. Thickness value truncated in search snippet. dims left null since they are for the replacement.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/382588.html",
+   "title": "GM Part #382588 Washer - 4speedconversions",
+   "quote": "History: 382588 to 3914674 6/73 * Description is of part # 3914674 that superseded part # 382588 3914674 8.929 WASHER, Flat Hole Size: 3/8\" Outside Diameter: 1 Thickness: .01 Finish: Phos.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "pn": "9419753",
+ "kind": "nut",
+ "thread": "1/8 stud (stamped nut)",
+ "length": null,
+ "head": "stamped, 5/16 AF, .53 O.D.",
+ "drive": null,
+ "finish": null,
+ "notes": "Stamped (push-on) nut for 1/8 stud, used on hood molding/emblem. camaros.net hardware list (same list reposted on CorvetteForum 'AIM Rant'); 4speedconversions lists 9419753 as 'NUT (Emblem)'. 9419751 sits just before it in the list with no description of its own. Parts history 87A: 9419753 discontinued. Searches: 'GM 9419753', '9419753 AMK'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "camaros.net - Original hardware - See Post #2 & #5 (search snippet)",
+   "quote": "9419751-P139 9419753-P137/139 stamped nut 1/8 5/16AF .53 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://4speedconversions-com.3dcartstores.com/68-72_nova_console.html",
+   "title": "68-72 Nova Manual Shift Console Parts (search snippet)",
+   "quote": "9419753 \u00b7 NUT (Emblem)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

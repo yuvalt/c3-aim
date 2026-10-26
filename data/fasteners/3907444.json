@@ -1,0 +1,25 @@
+{
+  "pn": "3907444",
+  "kind": "nut",
+  "thread": "#14 (1/4) screw",
+  "length": null,
+  "head": "nylon push-in nut, 13/32 hole",
+  "drive": null,
+  "finish": "nylon",
+  "notes": "Plastic/nylon license plate push-in nut. Size from aftermarket replacements cross-referenced to GM 3907444 (two sellers agree); GM dealer sites give no size.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amazon.com/OAUTOO-License-3907444-15614745-4755299/dp/B09VKG1CGP",
+      "title": "OAUTOO 50pcs Nylon License Plate Nut for GM 3907444 (Amazon)",
+      "quote": "Nylon License Plate Nut for GM 3907444, 15614745, 4755299, Screw Size 1/4\" (#14), Fits into 13/32\" Hole",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.memotronics.com/license-plate-nut-1-4-14-nylon-for-gm-3907444-chrysler-6023925-qty-9/",
+      "title": "License Plate Nut 1/4\" #14 Nylon, for GM 3907444 & Chrysler 6023925",
+      "quote": "License Plate Nut 1/4\" #14 Nylon, for GM 3907444",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pn": "415919",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "dims": "17/32 ID x 15/16 OD x 3/32 thick",
+  "notes": "Size from OCR of 1967 GM P&A catalog (steering wheel washer group); OCR text dropped the fraction slashes ('17 32 I D x 15 16 O D x 3 32 thk'). MOMCP also lists 415919 in a Camaro leaf spring eye bolt set. Searched: 'GM 415919'; '415919 washer'.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "http://www.gmpartswiki.com/getpage?pageid=83472",
+      "title": "GMPartsWiki - Parts and Accessories Catalog P&A 34 November 1967",
+      "quote": "WASHER ... ALL ALL 17 32 I D x 15 16 O D x 3 32 thk 415919",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://momcp.com/product/1967-81-camaro-or-firebird-leaf-spring-eye-bolts-correct/",
+      "title": "1967-81 Camaro Or Firebird Leaf Spring Eye Bolts, Correct",
+      "quote": "Replaces original GM part # 103028, 103329, 415919 & 3892754",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

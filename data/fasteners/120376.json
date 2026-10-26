@@ -1,0 +1,25 @@
+{
+ "pn": "120376",
+ "kind": "nut",
+ "thread": "5/16-18",
+ "length": null,
+ "head": "hex",
+ "drive": null,
+ "finish": null,
+ "notes": "oemcats GM listing 'cz' finish (likely cadmium/zinc, not recorded). IH/Navistar also list 120376 as NUT 5/16''-18 G5 (non-GM, supporting only).",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://oemcats.com/oem-parts/00120376.html",
+   "title": "GM 00120376 Nut, genuine OEM part",
+   "quote": "This part is a nut, hexagon .312-18 cz (fan blade clutch), for Chevrolet, Chevrolet Trucks, Buick, and Cadillac cars.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://s1partscenter.com/brands/international/standard-parts/nut/120376",
+   "title": "120376 Navistar International | Nut 5/16 in",
+   "quote": "120376 Nut, 5/16 in. is a genuine Navistar Intern",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

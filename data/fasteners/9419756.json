@@ -1,0 +1,31 @@
+{
+ "pn": "9419756",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "No size found. Searched (Brave via search.py): 'GM 9419756', '9419756 AMK', 'AMK B-13381 nut', '9419756 B-13381'. camaros.net says GM 9419756 = AMK B-13381 (hood louver nuts, 12 req'd; changed to 11501047 11-90), and AMK describes B-13381 as '#10 HEX FLANGE STAMPED NUT .63 DIA PHOS.', but that size is not quoted next to the GM number, so not recorded. AMK product page returned 403.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/self-tapping-nuts.125604/",
+   "title": "Self-tapping nuts | Team Camaro Tech (search snippet)",
+   "quote": "The correct nuts for your louvers are GM 9419756. They are B-13381",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.amkproducts.com/product/b-13381/",
+   "title": "B-13381 Stamped Nuts - Thread Cutting - AMK (search snippet)",
+   "quote": "#10 HEX FLANGE STAMPED NUT .63 DIA PHOS.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/nos-hood-louvers.414474/",
+   "title": "Nos hood louvers | Team Camaro Tech (search snippet)",
+   "quote": "9419756 - Nuts (12 required) Changed to 11501047 11-90",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

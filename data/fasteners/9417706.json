@@ -1,0 +1,25 @@
+{
+ "pn": "9417706",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "GM P&A catalog scans on GMPartsWiki (OCR): 'sill moulding' screw No. 10-24; length digits are garbled in OCR in all copies ('x 3 Ii l 8', 'x 3 1 l8', 'x 4 8'), so length left null. camaros.net list only gives 9417706-P186 (no size).",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://m.gmpartswiki.com/getpage?pageid=219333",
+   "title": "GMPartsWiki - Parts and Accessories Catalog October 1968",
+   "quote": "All 9417706 10 SCREW sill moulding No 10 24 x 3 Ii l 8",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=76152",
+   "title": "GMPartsWiki - Parts and Accessories Catalog P&A 34 February 1969",
+   "quote": "ALL ALL 9417706 SCREW No 10 24 x 3 1 l8",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

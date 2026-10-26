@@ -1,0 +1,25 @@
+{
+  "pn": "9428015",
+  "kind": "screw",
+  "thread": "5/16-18",
+  "length": "3/4",
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Single vendor source (Corvette Pacifica set E10512, rear quarter trim panel / convertible top side rail screw); the 5/16-18 x 3/4 there is a stainless repro. Doc's Rebuild kits describe the 9428015 kits as chrome Phillips machine screws, but no size. Searched: 'GM 9428015'; '9428015 AMK'; '9428015 screw'; '9428015 corvette'.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.corvettepacifica.com/products/596/screw-set-rear-quarter-trim-panel-retainer-8-pieces-68-77/",
+      "title": "Corvette Screw Set Rear Quarter Trim Panel Retainer 8 Pieces 68 77 (#E10512) | Corvette Pacifica",
+      "quote": "SCREW SET-REAR QUARTER TRIM PANEL-SIDE RAIL-1968-1977 Convertible top side rail screw 5/16-18 X 3/4\" s/s.\\ GM PART # 9428015",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1968-1969CorvetteTrimMountReproOfGM9422654and3909073and9428015.aspx",
+      "title": "1968-1975 Corvette Convertible Rear Quarter Trim Panel 16 Piece Mounting Kit Repro Of GM 9422654, 3909073 and 9428015",
+      "quote": "includes all the Chrome Phillips head machine screws and trim screws, plus the u-nuts",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

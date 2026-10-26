@@ -1,0 +1,19 @@
+{
+ "pn": "447143",
+ "kind": "screw",
+ "thread": "8-18",
+ "length": "1/4",
+ "head": "hex, .34 OD",
+ "drive": null,
+ "finish": null,
+ "notes": "camaros.net 69 Camaro fastener list. An AMK catalog snippet also lists 447143 near 8-18 hex washer screws but the row alignment is ambiguous (1/4 vs 3/8), so not used.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech",
+   "quote": "0447143- P39/91/162 (69 AIM UPC 1 A5) Hex screw 8-18X1/4 .34\" O.D.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

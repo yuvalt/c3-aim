@@ -1,0 +1,19 @@
+{
+ "pn": "126375",
+ "kind": "bolt",
+ "thread": "5/16-18",
+ "length": "1 1/2",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Steering column firewall bracket bolt; forum poster quoting the 68-82 AIM. Single source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/4205288-steering-column-firewall-bracket-bolt-help.html",
+   "title": "Steering Column Firewall Bracket Bolt Help - CorvetteForum",
+   "quote": "Per the AIM for all 68-82: Pt#126375 = 5/16\" - 18 x 1 1/2\"",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

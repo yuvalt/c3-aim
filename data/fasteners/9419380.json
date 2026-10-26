@@ -1,0 +1,14 @@
+{
+  "pn": "9419380",
+  "kind": "screw",
+  "thread": "1/4-14",
+  "length": "3/4",
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Size from one source: 4speedconversions list of 1973-75 Oldsmobile Cutlass assembly manual items ('9419380 SCREW, Bumper bracket (1/4\"-14 x 3/4\")'). The 1/4-14 pitch suggests a sheet-metal/tapping screw. Other hits (Classic Industries/OER, Heartbeat City: Firebird radiator filler panel / fan shroud bracket top bolt; NastyZ28: 70 Camaro washer jar screw) give no size. Searched: 'GM 9419380', '9419380 AMK'.",
+  "confidence": "medium",
+  "sources": [
+    {"url": "https://4speedconversions-com.3dcartstores.com/73_77_a_pedals.html", "title": "73-77 GM A Body Pedal Assembly", "quote": "103320 · 9419380 · 8.977 SCREW, Bumper bracket (1/4\"-14 x 3/4\") 1973 Oldsmobile Cutlass-442 Assembly Manual (Sec. 7, Page 122)", "accessed": "2026-10-26"}
+  ]
+}

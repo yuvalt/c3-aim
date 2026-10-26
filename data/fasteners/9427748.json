@@ -1,0 +1,19 @@
+{
+ "pn": "9427748",
+ "kind": "screw",
+ "thread": "#8 sheet metal (tapping)",
+ "length": null,
+ "head": "dome",
+ "drive": null,
+ "finish": null,
+ "notes": "Headlamp bezel-to-housing screw. One CorvetteForum post (thread page 403, only search snippets) gives #8 sheet metal, dome-style head for the screws on a '71 and names 9427748 as the AIM number for them; snippets are fragmentary (a length 'of 1/2\"' appears but its context is cut), so length not recorded. Searches: 'GM 9427748', '9427748 AMK', '9427748 screw headlamp bezel'.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-tech-performance/2280671-need-specs-for-screws-79-headlamps.html",
+   "title": "Need specs for Screws: 79 Headlamps - CorvetteForum (search snippet)",
+   "quote": "The screws on my 71 that hold the cover around the headlights (4 each headlight) are size 8, sheetmetal thread, dome style h ... The GM number in my 71 AIM for the screws is #9427748",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

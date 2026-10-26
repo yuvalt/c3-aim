@@ -1,0 +1,26 @@
+{
+ "pn": "446161",
+ "kind": "washer",
+ "thread": null,
+ "length": null,
+ "head": "Type A flat",
+ "drive": null,
+ "finish": "zinc",
+ "dims": ".214 ID x .45 OD x .065 thick",
+ "notes": "GM Type A flat washer, zinc. Same dims on many GMPartsGiant catalog pages (one source). Searches: 'GM 446161', '446161 AMK', '446161 washer', 'gmpartsgiant 446161 washer'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.gmpartsgiant.com/parts-list/1993-chevrolet-g10/fuel_system_exhaust_emission_system/cruise_control.html",
+   "title": "Cruise Control - 1993 Chevrolet G10 | GMPartsGiant (search snippet)",
+   "quote": "446161 WASHER, TYPE A FLAT .214X.45X.065 ZINC COATED (DIPPED OR PLATED)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.gmpartsgiant.com/parts-list/1991-oldsmobile-custom_cruiser/fuel_system_exhaust_emission_system/exhaust_system.html",
+   "title": "Exhaust System - 1991 Oldsmobile Custom Cruiser | GMPartsGiant (search snippet)",
+   "quote": "446161 WASHER, TYPE A FLAT .214X.45X.065 ZINC COATED (DIPPED OR PLATED)(FUEL TANK SHIELD)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

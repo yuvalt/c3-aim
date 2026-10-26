@@ -1,0 +1,25 @@
+{
+  "pn": "3843384",
+  "kind": "bolt",
+  "thread": "7/16-20",
+  "length": "1 1/8",
+  "head": "hex, double-circle headmark",
+  "drive": null,
+  "finish": null,
+  "notes": "Caliper mount / half-shaft flange bolt. One vendor quote ties size to GM number; a CorvetteForum post says Paragon lists the caliper bolt as 7/16-20x1-1/8 (no GM number in snippet).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.ecproducts.com/products/33975/bolt-kit-rear-brake-caliper-mounting-8-pieces-65-82/",
+      "title": "Corvette Bolt Kit Rear Brake Caliper Mounting 8 Pieces 65 82 (#E18640) | EC Products",
+      "quote": "1965-1982 CORVETTE REAR BRAKE CALIPER MOUNTING BOLT KIT, GM PART # 3843384, Includes 4 bolts and washers. ... Rear caliper mounting bolt kit, \"Double Circle\" headmark, 7/16-20 1 1/8\" includes 4 bolts and washers.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-tech-performance/3627591-caliper-bolt-question.html",
+      "title": "Caliper Bolt question - CorvetteForum",
+      "quote": "Paragon describes it as a 7/16-20x1-1/8\" bolt",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

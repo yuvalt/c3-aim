@@ -1,0 +1,31 @@
+{
+  "pn": "9418967",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "3/4",
+  "head": "hex 9/16 AF, grade 5",
+  "drive": null,
+  "finish": null,
+  "notes": "Three sources agree: 3/8-16 x 3/4 grade 5, 9/16 hex. Used for transmission mount bracket to crossmember.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.corvettepacifica.com/products/12322/support-transmission-manual-used-reconditioned-68-79/",
+      "title": "Corvette Support Transmission Manual Used Reconditioned 68 79 | Corvette Pacifica",
+      "quote": "Transmission mount bracket to crossmember attaching bolt kit. 3/8-16 x 3/4\", grade 5. GM PART # 9418967",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+      "title": "Original hardware - See Post #2 & #5 | Page 2 | Team Camaro Tech",
+      "quote": "9418967-P79 3/8-16X3/4 9/16AF AMK B-10163 (2) Phosp B-10164 (2) Zinc",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://nastyz28.com/threads/n-o-s-and-used-original-parts-for-sale-2022.338435/page-31",
+      "title": "N.O.S. and Used Original Parts For Sale - 2022 | Page 31 | NastyZ28.com",
+      "quote": "two 9418967 3/8\"-16 X 3/4\" Grade 5 bolts with \"M\" markings",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

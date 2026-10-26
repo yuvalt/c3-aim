@@ -1,0 +1,25 @@
+{
+ "pn": "454976",
+ "kind": "bolt",
+ "thread": "7/16 (diameter only; pitch not stated)",
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "CorvetteParts lists gm# 454976 on a 1976L-78 A/C compressor adjust bolt with 'standard 7/16\" threads'; MAM lists 454976 on a 63-82 front lower control arm bolt kit; AIM use here is control arm. No length found. Low.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://corvetteparts.com/catalog/air-conditioning?itm=Bolt",
+   "title": "Bolt in Corvette Air Conditioning - CorvetteParts.com",
+   "quote": "1976L-1978 Bolt, air conditioning compressor adjust (standard 7/16\" threads) pn: 750006 \u00b7 gm #: 454976",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.mamotorworks.com/corvette/product/corvette-1963-1982-bolt-kit-front-control-arm-lower-4-670727",
+   "title": "1963-1982 Corvette Front Lower Control Arm 8 Piece Bolt Kit - 454976 - MAM",
+   "quote": "1963-1982 Corvette Front Lower Control Arm 8 Piece Bolt Kit - 454976",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

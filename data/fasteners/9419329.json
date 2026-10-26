@@ -1,0 +1,19 @@
+{
+  "pn": "9419329",
+  "kind": "screw",
+  "thread": "10-16",
+  "length": "5/8",
+  "head": "pan, SEMS washer, self-tapping",
+  "drive": null,
+  "finish": null,
+  "notes": "Only source is an auto-service blog (likely auto-written) tying it to a 1965 Malibu instrument panel; Corvette vendors list 9419329 as the 63-67 headlamp switch screw set, no size. Treat as unverified.",
+  "confidence": "low",
+  "sources": [
+    {
+      "url": "https://www.ahgautoservice.com/what-size-screws-are-in-the-chevy-license-plate/",
+      "title": "What size screws are in the Chevy license plate? | AHG Auto Service",
+      "quote": "The GM #9419329 fastener used on the instrument panel of your 1965 Malibu (and similar Chevy models) is a #10\u201116 \u00d7 5/8\u2033 Pan\u2011Head SEMS self\u2011tapping screw with attached washer",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

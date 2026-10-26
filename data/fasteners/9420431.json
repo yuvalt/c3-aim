@@ -1,0 +1,25 @@
+{
+ "pn": "9420431",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": "1/2",
+ "head": "hex, 5/16 AF, .4 OD",
+ "drive": null,
+ "finish": null,
+ "notes": "From a camaros.net hardware list (same author's list also reposted on CorvetteForum); 69 AIM page 156. One underlying source.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/time-for-another-68-z-28-to-be-restored.182584/page-28",
+   "title": "Time for another 68 Z/28 to be restored - camaros.net",
+   "quote": "9420431-P156 10-24X1/2 5/16AF .4 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+   "title": "AIM rant - CorvetteForum",
+   "quote": "9420431-P156 10-24X1/2 5/16AF .4 O.D.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

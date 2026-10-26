@@ -1,0 +1,25 @@
+{
+  "pn": "9411890",
+  "kind": "screw asm.",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Used as TH400 inspection (converter) cover bolt 1968-69 per a Chevelle catalog; camaros.net hardware list has '9411890-P119' with no size; a camaros.net thread asks its size (AIM 1967 trans dust cover) without answer in snippet. No size found. Searched (Brave): 'GM 9411890', '9411890 AMK', '9411890 bolt', '9411890 inspection cover bolt'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://rparts-sites.s3.amazonaws.com/2c4ad8f278fc59a27d14d38eb7e9513a/design/2Chevy-Parts-Catalog-Chevelle-El-Camino-Monte-Carlo-68-77.pdf",
+      "title": "1968-1988 Chevelle Catalog",
+      "quote": "INSPECTION COVER BOLTS · 68-69 9411890 · TH400",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://camaros.net/forums/27-transmission-driveline/211271-dust-cover-bolt-size.html",
+      "title": "dust cover bolt size | Team Camaro Tech",
+      "quote": "the AIM states that it should be part #9411890",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

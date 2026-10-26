@@ -1,0 +1,26 @@
+{
+  "pn": "3700338",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "dims": ".46 ID x 1.38 OD x .18 thick",
+  "notes": "Flat washer, trans mount to crossmember (Classic Muscle). Dims from AMK 2014 flat-washer catalog snippet (AMK code KUV). A separate AMK conical-washer page OCR reads '.40 X.75 X.27 KUV, 3700338' but that text is garbled across columns; GM 1954/1962 catalog OCR for this number is unreadable.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "http://www.who-sells-it.com/cy/amk-products-5610/washers-2014-33572.html",
+      "title": "Washers 2014 by AMK Products",
+      "quote": ".46 x 1.38 x .18 tk kuv 3700338",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.classicmuscle.com/transmission-mount-to-cross-member-flat-washer",
+      "title": "1962-1967 Transmission Mount to Cross Member Flat Washer | Classic Muscle",
+      "quote": "1962-1967 Transmission Mount to Cross Member Flat Washer \u00b7 Part Number: 3700338",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "pn": "9419275",
+ "kind": "washer",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "No size found. Searched (Brave via search.py): 'GM 9419275', '9419275 AMK', '9419275 washer', '5310-00-081-4219 flat washer'. AMK washers catalog snippet has 9419275 but the size before it is cut off ('.19 x .75 ... tk lzu 9419275'). WBParts lists 9419275 as a reference number of NSN 5310-00-081-4219 (flat washer; another site gives that NSN .339-.359 hole, .051-.080 thick), but no dims are quoted next to the GM number, so not recorded.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.wbparts.com/rfq/5310-00-081-4219.html",
+   "title": "5310-00-081-4219 - FLAT WASHER | WBParts (search snippet)",
+   "quote": "LS1785516, ... 9419275, 1276-18-481",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

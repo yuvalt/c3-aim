@@ -1,0 +1,25 @@
+{
+ "pn": "9419004",
+ "kind": "bolt",
+ "thread": "1/4-20",
+ "length": "3/4",
+ "head": "hex 7/16 AF",
+ "drive": "hex",
+ "finish": null,
+ "notes": "From AMK 2014 catalog text (flattened, via who-sells-it.com): row '1/4-20 x 3/4 7/16 af ... 9419004 180020'. Consistent with GM 80TS-RP supersession list where 180020 -> 9419004. A 1987 GM TSB calls 9419004 a zinc chromate coated bolt (truck application; finish may vary by use). Classic Muscle sells it as 1968 BB P/S valve to bracket & bracket to pump bolt. Single sizing source, flattened table, so medium.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://www.who-sells-it.com/cy/amk-products-5610/bolts-bumper-carriage-2014-33583.html",
+   "title": "Bolts - Bumper, Carriage 2014 by AMK Products",
+   "quote": "1/4-20 x 3/4 7/16 af bds 304646-s 179795 s 9419004 180020",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://ck5.com/forums/threads/chevrolet-tsb-87-t-51-rear-power-window-slow.227602/",
+   "title": "Chevrolet TSB 87-T-51 rear power window slow | CK5 Network",
+   "quote": "replacing one of the window regulator motor bolts with a zinc chromate coated bolt, P/N 9419004",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

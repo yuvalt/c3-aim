@@ -1,0 +1,19 @@
+{
+ "pn": "9420751",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9420751', '9420751 screw', '9420751 grille screw corvette'. Appears in GM Oct 1968 P&A catalog 8.900 hex head bolt tabulation (gmpartswiki page 219350; OCR garbled, page 403 on fetch) and in Chevelle ZL2 cowl-door actuator hardware where a poster notes it is not in the AMK cross reference. No readable size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.chevelles.com/threads/70-72-cowl-hood-door-vacuum-actuator-screw-hole-addition.1147802/",
+   "title": "70-72 Cowl Hood Door Vacuum Actuator Screw Hole Addition | Team Chevelle",
+   "quote": "P/N 9420751 isn't listed in the AMK cross reference.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

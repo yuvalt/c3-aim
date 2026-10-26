@@ -1,0 +1,16 @@
+{
+  "pn": "9422273",
+  "kind": "nut",
+  "thread": "1/4-20",
+  "length": null,
+  "head": "hex lock nut (7/16 AF, .23 thick)",
+  "drive": null,
+  "finish": null,
+  "notes": "Size from AMK hex lock nut table (via who-sells-it.com snippet): row '1/4-20 7/16 af .23 tk ... 34975-s 9422273'; row layout (size, AF, thickness, Ford no., GM no.) inferred from neighbouring rows, single source, so medium. Midnight Oil lists 9422273 as the lock nut in the 1968 Camaro RS headlight bellcrank set. GM parts history (87B, 1990): 9422273 use 9422293. Searched: 'GM 9422273', '9422273 AMK'.",
+  "confidence": "medium",
+  "sources": [
+    {"url": "http://www.who-sells-it.com/cy/amk-products-5610/nuts-hex-hex-slot-hex-flange-keps-lug-2014-33581.html", "title": "AMK Products nuts: hex, hex slot, hex flange, keps, lug (who-sells-it.com)", "quote": "1/4-20 7/16 af .23 tk mmu 34975-s 9422273 s7 pcs price", "accessed": "2026-10-26"},
+    {"url": "https://momcp.com/product/1968-camaro-rs-headlight-bellcrank-lever-spring-set/", "title": "1968 Camaro RS Headlight Bellcrank Lever Bracket & Spring Set - Midnight Oil", "quote": "Replaces original GM part # 3925477 Spring, 9422273 Lock nut, 3767139 Washer", "accessed": "2026-10-26"},
+    {"url": "http://www.gmpartswiki.com/getpage?pageid=92449", "title": "GMPartsWiki - Parts History Catalog 87B November 1990", "quote": "9422273 use 9422293", "accessed": "2026-10-26"}
+  ]
+}

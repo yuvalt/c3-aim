@@ -1,0 +1,25 @@
+{
+ "pn": "9418551",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": "3/8",
+ "head": "conical, .44",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "Same number is the 67-68 Camaro / Nova glove box hinge screw. camaros.net list: 10-24 x 3/8, .44 conical head, Phillips, AMK B-10925. Vendors (NPD, AMD, Ecklers, eBay R-202 'Surface Finish: Black') cite GM 9418551 without size. Searches: 'GM 9418551'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/time-for-another-68-z-28-to-be-restored.182584/page-28",
+   "title": "Time for another 68 Z/28 to be restored | Team Camaro Tech (search snippet)",
+   "quote": "9418551-P42 10-24X3/8 .44 Conical Glove Box Hinge 67/68 Phillips Head AMK B-10925 (3)",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/333528369619",
+   "title": "66-67 Chevy II / Nova Glove Box Door Hinge Screw Set (search snippet)",
+   "quote": "GM # 9418551 \u00b7 Manufacturer Warranty: Yes \u00b7 Manufacturer Part Number: R-202 \u00b7 Surface Finish: Black",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "pn": "9414766",
+  "kind": "screw",
+  "thread": "10-16",
+  "length": "1",
+  "head": "oval, cross-recess (.31 O.D.)",
+  "drive": "phillips",
+  "finish": "chrome",
+  "notes": "Two independent sources: camaros.net original-hardware list (AMK-based) and NCRS post quoting GM P&A Section 8.9. Used as sill plate screw on 1964-67 Corvette.",
+  "confidence": "high",
+  "sources": [
+    {"url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2", "title": "Original hardware - See Post #2 & #5 | Page 2 | Team Camaro Tech", "quote": "9414766-10-16X1.0 .31 O.D.", "accessed": "2026-10-26"},
+    {"url": "https://www.tst.forums.ncrs.org/forum/technical-discussion/59301-63-power-booster-sill-plate-screws", "title": "63 Power Booster & Sill Plate Screws - NCRS", "quote": "The later fastener from the 6-hole era, 9414766, is a #10-16x1 oval head, cross recess, fastener that's chrome plated.", "accessed": "2026-10-26"}
+  ]
+}

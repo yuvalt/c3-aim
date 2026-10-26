@@ -1,0 +1,19 @@
+{
+ "pn": "9418857",
+ "kind": "screw",
+ "thread": "10-24",
+ "length": "3/8",
+ "head": "hex, \"P\" headmark",
+ "drive": null,
+ "finish": null,
+ "notes": "Zip back-up light switch mount kit (GM Part 9418857) includes 2 screws + 2 external tooth lock washers. Single source (page fetched).",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.zip-corvette.com/63-81-back-up-light-switch-transmission-mount-hardware.html",
+   "title": "1963-1981 Corvette Back-Up Light Switch Transmission Mount Hardware (GM Part 9418857)",
+   "quote": "Includes (2) 10-24 x 3/8\" hex head machine screw w/ \"P\" headmark and (2) external tooth lock washers.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

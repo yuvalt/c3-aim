@@ -1,0 +1,25 @@
+{
+ "pn": "9420202",
+ "kind": "nut",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9420202', '9420202 nut', 'GM 11502631 nut'. 72 AIM uses 9420202 for rear CORVETTE letters (PAL/acorn-style nut); 1981 GM P&A catalog lists it as 'NUT RR FDR PEAK MLDG' (metal). GM 87B Parts History (Nov 1990): 9420202 use 4488535 / use 11502631 (no size found for those). A CorvetteForum post gives NOS emblem nut dims '3/8 high, 7/16 hex base, 3/32 hole' but it is not clear those dims are for 9420202 rather than 446617/446618, so not recorded.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c3-general/4988243-c3-corvette-letters-pal-acorn-nuts.html",
+   "title": "C3 Corvette Letters PAL Acorn Nuts - CorvetteForum",
+   "quote": "The '72 AIM cites part number 9420202 for the rear letters; gas door is 446618 (which is probably the same nut as the 446617 below).",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/getpage?pageid=92449",
+   "title": "GMPartsWiki - Parts History Catalog 87B November 1990",
+   "quote": "9420202 use 4488535 ... 9420202 use 11502631",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

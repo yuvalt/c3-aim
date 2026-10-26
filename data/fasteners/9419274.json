@@ -1,0 +1,25 @@
+{
+  "pn": "9419274",
+  "kind": "washer (P. washer / split)",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "Called 'SPLIT WASHER, NSS' in 1970-71 Camaro AIM pedal listings and 'Special Washer' on a NastyZ28 NOS listing; no dimensions. No size found. Searched (Brave): 'GM 9419274', '9419274 AMK', '9419274 washer', '9419274 split washer size'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://4speedconversions-com.3dcartstores.com/70-71_f_pedals.html",
+      "title": "1970-71 Camaro/Firebird Pedal Assembly",
+      "quote": "9419274 SPLIT WASHER, NSS 1970 Camaro Assembly Manual (UPC 6 , Sheet B11)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://nastyz28.com/threads/n-o-s-and-used-original-parts-for-sale-2022.338435/page-34",
+      "title": "N.O.S. and Used Original Parts For Sale - 2022 | NastyZ28",
+      "quote": "attaching Screw, GM # 9419727; and Special Washer, GM 9419274",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

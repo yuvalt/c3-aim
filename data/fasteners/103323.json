@@ -1,0 +1,31 @@
+{
+ "pn": "103323",
+ "kind": "lock washer",
+ "thread": "1/2",
+ "length": null,
+ "head": "split (helical spring)",
+ "drive": null,
+ "finish": null,
+ "notes": "Size from Detroit Diesel / EMD (GM divisions using GM standard part numbers) listings only, not a Chevrolet/Corvette source; same approach as 103320 (low). Cub Cadet/IH 103323 (also a 1/2 lock washer) is a different numbering system, not used. Searches: 'GM 103323', '103323 AMK', '103323 lock washer GM'.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.powerlinecomponents.com/detroit-diesel/103323/lock-washer-12-in",
+   "title": "103323 - Lock Washer, 1/2 in. - Powerline Components (Detroit Diesel) (search snippet)",
+   "quote": "Lock Washer, 1/2 in.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.schber.com/product/washer-lock-1-2-h-d-103323/",
+   "title": "WASHER LOCK 1/2\" H.D. 103323 - SCHBER (EMD) (search snippet)",
+   "quote": "WASHER LOCK 1/2\" H.D. 103323",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.powerpartspro.com/axle-parts/allison/103323-washer-lock-spring-helical",
+   "title": "103323 WASHER-LOCK, SPRING, HELICAL - Power Parts Pro (Allison) (search snippet)",
+   "quote": "103323 WASHER-LOCK, SPRING, HELICAL",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

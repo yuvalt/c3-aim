@@ -1,0 +1,25 @@
+{
+  "pn": "9419727",
+  "kind": "screw",
+  "thread": "1/4-14",
+  "length": "5/8",
+  "head": "hex washer, self-tapping",
+  "drive": null,
+  "finish": "P",
+  "notes": "Hex washer head tapping screw. 4speedconversions lists finish as 'P' (likely phosphate, not spelled out).",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://4speedconversions-com.3dcartstores.com/9419727.html",
+      "title": "GM Part # 9419727 - 4 Speed Conversions",
+      "quote": "General Motors Part Number 9419727 Self Tapping Screw Specifications94197278.977 SCREW, Hex headSize: 1/4-14Length: 5/8Finish: P",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://gus-stories.org/PDF/CheckerPartsCatalog/1978_PC_12.pdf",
+      "title": "Checker Motors Corp. Group 12 TRANSMISSION",
+      "quote": "9419727 \u00b7 Screw (1/4-14 X 5/8 Hex Wa. Hd. Tap.)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

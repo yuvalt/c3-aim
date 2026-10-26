@@ -1,0 +1,25 @@
+{
+ "pn": "381909",
+ "kind": "bolt",
+ "thread": "7/16-14",
+ "length": "2 1/4",
+ "head": "hex, 5/8 AF",
+ "drive": null,
+ "finish": "black oxide",
+ "notes": "Upper control arm shaft bolt. AMK catalog (snippet text jumbled but row reads 7/16-14 x 2 1/4 5/8 af ... 381909) plus The Parts Place set.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "http://www.who-sells-it.com/cy/amk-products-5610/bolts-bumper-carriage-2014-33583.html",
+   "title": "AMK Products bolts catalog page - who-sells-it",
+   "quote": "7/16-14 x 2 1/4 5/8 af loe 381909",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.thepartsplaceinc.com/product/1969/1969-chevrolet-chevelle-malibu-front-upper-control-arm-bolt-nut-set-bolts-are-7-16-x-2-1-4-with-the-correct-tr-marked-with-6-slashes-black-oxide-set-of-4-bolts-with-nuts-gm-381909/90527",
+   "title": "The Parts Place - front upper control arm bolt & nut set",
+   "quote": "BOLTS ARE 7/16\" X 2 1/4\" WITH THE CORRECT CIRCLE MARKING WITH 6 SLASHES. BLACK OXIDE) - SET OF 4 BOLTS WITH NUTS (GM # 381909)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "pn": "9420455",
+  "kind": "screw",
+  "thread": "10-32",
+  "length": "1/4",
+  "head": "flat trim head, cross recess (#8 head per GM description)",
+  "drive": "phillips",
+  "finish": null,
+  "notes": "GM catalog description (gmpartsgiant) gives '#8- #10-32 X.250'; read as 10-32 x 1/4 with #8 head size, but the '#8-' prefix is ambiguous. Vendors list it as telescopic steering column lock ring/lever screw (pair), 1965-89 Corvette; CorvetteForum calls them 'two very small phillips screws'.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.gmpartsgiant.com/parts-list/1989-chevrolet-corvette/front_suspension_steering/steering_wheel_horn_parts.html",
+      "title": "Steering Wheel & Horn Parts fit your 1989 Chevrolet Corvette",
+      "quote": "9420455 SCREW, FLAT Trim Head CROSS Rec Ma, SCREW, FLAT TRIM HEAD CROSS REC MA (#8- #10-32 X.250)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-tech-performance/2496051-82-telescopic-steering-problems.html",
+      "title": "82 telescopic steering problems - CorvetteForum",
+      "quote": "two very small phillips screws (9420455) that hold the round locking lever (459083)",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

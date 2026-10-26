@@ -1,0 +1,25 @@
+{
+  "pn": "9426552",
+  "kind": "screw",
+  "thread": "8-32",
+  "length": null,
+  "head": "countersunk (substitute, per forum)",
+  "drive": null,
+  "finish": null,
+  "notes": "Rear storage compartment striker/frame screw. Only size hint is a CorvetteForum owner who replaced missing 9426552 screws with 'the shortest csk 832' from a hardware store: a substitute, not an official size, so low. Length unknown. Searched: 'GM 9426552'; '9426552 screw'; '9426552 corvette storage compartment striker screw'.",
+  "confidence": "low",
+  "sources": [
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/4349867-1969-rear-storage-compartment-date-code.html",
+      "title": "1969 Rear Storage Compartment - date code? - CorvetteForum",
+      "quote": "The screw number is 9426552 per the assembly manual, I was missing 2 screws so I went to Ace hardware and bought the shortest csk 832 screw they had",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://shop.docrebuild.com/1968-1979CorvetteCompartmentFrameMountKitReproOfGM3843505and9426552.aspx",
+      "title": "1968-1979 Corvette Rear Compartment Frame Mount Kit Repro Of GM 3843505 & 9426552",
+      "quote": "includes 9 Chrome plated trim screws with",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

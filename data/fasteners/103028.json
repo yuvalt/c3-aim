@@ -1,0 +1,19 @@
+{
+  "pn": "103028",
+  "kind": "nut",
+  "thread": "1/2-20",
+  "length": null,
+  "head": "hex (plain, per NSN alternate listing)",
+  "drive": null,
+  "finish": null,
+  "notes": "Size only from an Allison Transmission (a GM division using GM standard part numbers) listing: '103028 - NUT-1/2-20'. Not a Corvette/Chevrolet source, so low. NSN 5310-00-010-3028 lists 103028 among alternates for a hexagon plain nut, no size in snippet. Other 103028 hits (Bendix R-14 relay valve, Terex, Caterpillar) are other numbering systems. Searched: 'GM 103028', '103028 AMK', '103028 nut', '103028 corvette nut'.",
+  "confidence": "low",
+  "sources": [
+    {
+      "url": "https://en.hespareparts.com/engines-and-generators/allison-transmission-parts/103028-nut-1-2-20.html",
+      "title": "103028 Allison Transmission: 103028 - NUT-1/2-20",
+      "quote": "Allison Transmission: 103028 - NUT-1/2-20 part",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

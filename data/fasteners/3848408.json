@@ -1,0 +1,25 @@
+{
+  "pn": "3848408",
+  "kind": "bolt",
+  "thread": "5/16-18",
+  "length": "5/8",
+  "head": "indented hex, captured external-tooth star washer, L headmark",
+  "drive": null,
+  "finish": null,
+  "notes": "Horn mounting bolt with captive star washer; Corvette Pacifica page fetched directly.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.classicindustries.com/product/3848408.html",
+      "title": "1966-82 Horn Mounting Bolt Set, L Headmark, 5/16-18 x 5/8\" | Classic Industries",
+      "quote": "3848408 | 1966-82 Horn Mounting Bolt Set, L Headmark, 5/16-18 x 5/8\"",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvettepacifica.com/products/34185/bolt-kit-horn-mounting-l-headmark-2-pieces-66-82/",
+      "title": "Corvette Bolt Kit Horn Mounting L Headmark 2 Pieces 66 82 (#E18890) | Corvette Pacifica",
+      "quote": "Horn mounting bolt kit, \"L\" headmark, 5/16-18x5/8\", indented hex w/captured external tooth star washer. 2 Bolts. GM PART # 3848408",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "pn": "9419101",
+ "kind": "bolt",
+ "thread": "1/2-13",
+ "length": "1 1/2",
+ "head": "hex 3/4 AF",
+ "drive": null,
+ "finish": null,
+ "notes": "Two sources agree; AMK B-12590.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.firebirdnation.com/threads/bolt-size-question-front-frame-brackets.566310/",
+   "title": "Bolt Size Question - Front Frame Brackets | Firebird Nation",
+   "quote": "#9419101 1/2\"-13 x 1-1/2 AMK #B-12590",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/correct-bolts-for-resto.337170/",
+   "title": "Correct bolts for resto | Team Camaro Tech",
+   "quote": "9419101-P178 1/2-13X1.5 3/4AF AMK B-12590 (4)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

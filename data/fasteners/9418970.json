@@ -1,0 +1,25 @@
+{
+ "pn": "9418970",
+ "kind": "screw asm",
+ "thread": "1/4-20",
+ "length": "1/2",
+ "head": "pan, .480 OD, captive flat washer (.50 OD; .75 OD on door-pull use)",
+ "drive": "phillips",
+ "finish": "black phosphate (zinc on some uses)",
+ "notes": "Screw with captive flat washer. NCRS NCC Vettecetera Nov 2021 article (Gary Beaupre) on a '66: 1/4-20 x 1/2 Phillips pan head with captured flat washer; glove box / window run versions black phosphate with .50 OD washer (head OD .480), door-pull versions zinc with .75 OD washer. 1970 AIM use (window guide cam) finish not confirmed. Zip and others sell it as 63-67 glove box hinge/support screws without size. Searches: 'GM 9418970', '9418970 AMK'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.ncc.ncrs.org/wp-content/uploads/2021/10/Vettecetera_1121.pdf",
+   "title": "Vettecetera Nov 2021 - GM 9418970 Screw Assemblies; Non-Identical Twins (PDF text)",
+   "quote": "On my '66, eleven of the GM 9418970 screw assemblies ... Those screws are black phosphate, Phillips pan-head, with a captured flat washer which is also black phosphate. The threads are 1/4-20x1/2\". The screw head OD is 0.480\" and the flat washer OD is 0.50\".",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.zip-corvette.com/63-67-glove-box-hinge-support-screws.html",
+   "title": "63-67 Glove Box Hinge & Support Screws - Zip (search snippet)",
+   "quote": "OE GM PART #: 9418970",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

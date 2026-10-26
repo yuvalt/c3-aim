@@ -1,0 +1,25 @@
+{
+ "pn": "9420567",
+ "kind": "screw",
+ "thread": "#8-18 (tapping)",
+ "length": "3/8",
+ "head": "hex washer, 1/4 AF, .34 OD",
+ "drive": null,
+ "finish": null,
+ "notes": "Hex washer head tapping screw. AMK 2014 tapping screws catalog (two text extractions of the same catalog, so one source): 8-18 x 3/8, 1/4 AF, .34 OD, code ODW. Searches: 'GM 9420567'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "http://www.who-sells-it.com/cy/amk-products-5610/screws-tapping-2014-33579.html",
+   "title": "Screws - Tapping 2014 by AMK Products (search snippet)",
+   "quote": "8-18 x 3/8 1/4 af .34 od odw 9420567",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://m.moam.info/tapping-screws-fillister-flat-hex_59b2bcab1723dddbc6359115.html",
+   "title": "TAPPING SCREWS - FILLISTER, FLAT, HEX (AMK catalog text) (search snippet)",
+   "quote": "8-18 3/8 1/4 AF .34 OD ODW, 9420567",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

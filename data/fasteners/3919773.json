@@ -1,0 +1,31 @@
+{
+  "pn": "3919773",
+  "kind": "nut",
+  "thread": "#8 screw (some list #8-#10)",
+  "length": null,
+  "head": "nylon anchor nut, 5/16 square hole",
+  "drive": null,
+  "finish": "nylon",
+  "notes": "Nylon anchor/bezel nut for 5/16 square hole. Aftermarket cross-refs differ: #8 vs #8-#10 vs #6/#8 screw size; recorded as #8 (common to all).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.clipsandfasteners.com/Headlight-Bezel-Nut-8-Screw-Size-GM-3919773-p/a11691.htm",
+      "title": "Headlight Bezel Nut #8 Screw Size GM 3919773",
+      "quote": "Headlight Bezel Nut #8 Screw Size GM 3919773",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.shop-supplies.com/proddetail.php?prod=FN1574",
+      "title": "Auveco 11691 | G.M. 3919773 | Disco 1574",
+      "quote": "Professional Quality #8 - #10 Screw Size Nylon Nut, Comparable to: Auveco 11691 | G.M. 3919773",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.memotronics.com/8-6-screw-nylon-nut-for-gm-3919773-22649878-22649879-qty-100/",
+      "title": "#8/#6 Screw Nylon Nut for GM 3919773",
+      "quote": "G.M. 3919773,22649878,22649879 \u00b7 Material Nylon \u00b7 Screw Size #8",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

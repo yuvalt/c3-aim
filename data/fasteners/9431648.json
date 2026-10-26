@@ -1,0 +1,19 @@
+{
+ "pn": "9431648",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": "truss",
+ "drive": "phillips",
+ "finish": null,
+ "notes": "T-top weatherstrip side retainer screw (70-77E). Only head style found, from a stainless repro listing; no thread/length found. Searched \"GM 9431648\", \"9431648 AMK\", \"9431648 screw\", \"9431648 truss head screw size\".",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.ebay.com/itm/135290044879",
+   "title": "1970-1977 EARLY CORVETTE T-Top Weatherstrip Screw Kit STAINLESS STEEL (8pcs) - eBay",
+   "quote": "9431648 \u00b7 Manufacturer Part Number \u00b7 9431648SS \u00b7 Material \u00b7 STAINLESS STEEL \u00b7 Features \u00b7 TRUSS PHILLIPS HEAD",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

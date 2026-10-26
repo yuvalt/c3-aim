@@ -1,0 +1,19 @@
+{
+ "pn": "444684",
+ "kind": "bolt",
+ "thread": "5/16-24",
+ "length": "3/4",
+ "head": "hex",
+ "drive": "hex",
+ "finish": null,
+ "notes": "GM Standard Parts Catalog 89 (April 1983), group 8.900 Bolts Hexagon Head (OCR snippet): row '5 16 24 3 4 444684 300M 100' = 5/16-24 x 3/4, material ID 300M, pkg 100. Single authoritative source but OCR-flattened, so medium. Searched: 'GM 444684'.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.gmpartswiki.com/getpage?pageid=19557",
+   "title": "GMPartsWiki - Standard Parts Catalog 89 April 1983 (8.900 Bolts Hexagon Head)",
+   "quote": "5 16 24 1 2 181591 280M 1 5 16 24 3 4 444684 300M 100 5 16 24 1 186634 300IVI 100",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

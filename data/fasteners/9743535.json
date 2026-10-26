@@ -1,0 +1,14 @@
+{
+  "pn": "9743535",
+  "kind": "ball joint (stud asm.)",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "AIM 'STUD ASM.' on 3/A3 steering knuckle; a Corvette suspension page identifies 9743535 as the original upper ball joint (9743535 upper, 9742108 lower). Not a standard fastener; no stud thread size found. Searched: 'GM 9743535'.",
+  "confidence": "not_found",
+  "sources": [
+    {"url": "https://www.geocities.ws/bobluis/suspension.htm", "title": "Suspensiones del Corvette Sting Ray y Stingray", "quote": "Las rótulas originales eran #9743535 (superior) y #9742108 (inferior).", "accessed": "2026-10-26"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "pn": "9418824",
+ "kind": "bolt",
+ "thread": "3/8 dia (pitch not stated)",
+ "length": "about 1",
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Only a hedged forum recollection ('I believe they are 3/8\" by about 1\" long') in a thread titled GM 9418824 (spare tire lock bolt bracket to crossmember). Vendors (Corvette Pacifica #57031, Corvette Central 552033, Classic Muscle 'pump adjuster bolt') list the number without size. Searched: 'GM 9418824', '9418824 bolt 3/8-16', '9418824 AMK'.",
+ "confidence": "low",
+ "sources": [
+  {
+   "url": "https://www.corvetteforum.com/forums/c1-and-c2-corvettes/3481920-gm-9418824-a.html",
+   "title": "Gm 9418824 - CorvetteForum",
+   "quote": "Gusto- I'm talking about the (2) that fasten into the cross-member. I don't have any handy to verify, but I believe they are 3/8\" by about 1\" long.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.classicmuscle.com/p-pump-adjuster-bolt-9418824",
+   "title": "Pump Adjuster Bolt | Classic Muscle",
+   "quote": "Product ID: 9418824",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

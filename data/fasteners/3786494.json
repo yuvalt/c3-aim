@@ -1,0 +1,31 @@
+{
+ "pn": "3786494",
+ "kind": "bolt",
+ "thread": "3/8-16",
+ "length": "1",
+ "head": "indented hex, 9/16 AF, attached split lock washer",
+ "drive": "hex",
+ "finish": "phosphate & oil",
+ "notes": "Two independent sources agree on 3/8-16 x 1. Head mark reported as 'e' (Classic Muscle) / T in circles (NastyZ28 used part). AMK B-10907 per CorvetteForum.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://nastyz28.com/threads/n-o-s-and-used-original-parts-for-sale-2022.338435/page-31",
+   "title": "N.O.S. and Used Original Parts For Sale - 2022 | Page 31 | NastyZ28.com",
+   "quote": "Indented Hex Head 3/8\"-16 X 1\" Bolt, GM # 3786494, w/attached lock washer",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech",
+   "quote": "3786494-P94 Motor Mt LH 3/8-16X1.0 9/16 AF .55 split B-1090",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvetteforum.com/forums/c1-and-c2-corvettes/4661703-p-s-install-bolt.html",
+   "title": "P/S install bolt? - CorvetteForum",
+   "quote": "2 pk Phosphate & Oil (KAS) 3786494 B-10907",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

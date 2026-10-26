@@ -1,0 +1,31 @@
+{
+  "pn": "358501",
+  "kind": "nut",
+  "thread": "7/16-20",
+  "length": null,
+  "head": "3/4 hex (lug nut, RH thread)",
+  "drive": null,
+  "finish": "zinc",
+  "notes": "Wheel lug nut, right-hand thread, 3/4 hex.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.gmpartsgiant.com/parts/gm-nut-asm-v-358501.html",
+      "title": "358501 - Genuine GM Parts",
+      "quote": "GM part # 358501 Nut, Hexagon .437X20.00X .000 Zinc Coated (Dipped Or Plated)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.classicindustries.com/product/all-years/chevrolet/nova/parts/wl700101.html",
+      "title": "Classic Industries WL700101",
+      "quote": "GM : 358501 OER\u00ae Authorized standard style 3/4 hex head lug nut with 7/16-20 thread.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.memotronics.com/7-16-20-right-hand-wheel-nut-gm-358501-chrysler-2072728-qty-50/",
+      "title": "Memotronics",
+      "quote": "7/16\"-20 Right Hand Wheel Nut GM 358501 & Chrysler 2072728",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

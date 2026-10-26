@@ -1,0 +1,19 @@
+{
+ "pn": "9418828",
+ "kind": "nut",
+ "thread": "1/2-13",
+ "length": null,
+ "head": "hex 3/4 AF, .44 thick, grade 5",
+ "drive": null,
+ "finish": null,
+ "notes": "camaros.net 68/69 Camaro fastener list (same list reposted in many threads; one source). AMK B-12797. Length n/a for nut.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "Original hardware - See Post #2 & #5 | Team Camaro Tech",
+   "quote": "9418828-P178 1/2-13 GR5 3/4AF .44thk AMK B-12797 (6)",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

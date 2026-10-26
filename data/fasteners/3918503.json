@@ -1,0 +1,25 @@
+{
+  "pn": "3918503",
+  "kind": "bolt",
+  "thread": "3/8-16",
+  "length": "1 1/8",
+  "head": "indented hex 9/16 AF, .8 conical washer",
+  "drive": null,
+  "finish": null,
+  "notes": "Door hinge bolt with conical washer (SEMS). Zip page fetched directly.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/factory-assembly-instruction-manual-help.459445/",
+      "title": "Factory Assembly Instruction Manual Help | Team Camaro Tech",
+      "quote": "3918503-P68 3/8-16X1 1/8 9/16AF .8 Conical AMK B-10877 (4)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.zip-corvette.com/68-82-door-hinge-bolt-set-16.html",
+      "title": "1968-1982 Corvette Door Hinge Bolt Set (16) (GM Part 3918503) | Zip",
+      "quote": "3/8 -16 x 1 1/8\" indented hex head bolt with conical shaped washer ... GM Part 3918503",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "pn": "9419014",
+ "kind": "bolt",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: '9419014 AMK', 'GM 9419014', '9419014 bolt', '9419014 180044'. Only lead: GM 80TS-RP (Sept 1979) supersession OCR shows '180044 9419014' (old 180044 replaced by 9419014), no size. Neighbouring numbers 9419002/9419004 are 1/4-20 hex bolts in AMK's catalog, but that is not evidence for this number. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.gmpartswiki.com/getpage?pageid=22845",
+   "title": "GMPartsWiki - Part Number Replacements and Supersessions 80TS-RP September 1979",
+   "quote": "180044 9419014",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

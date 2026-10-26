@@ -1,0 +1,19 @@
+{
+  "pn": "9428715",
+  "kind": "screw",
+  "thread": "6-32",
+  "length": null,
+  "head": "pan",
+  "drive": null,
+  "finish": null,
+  "notes": "Zip repro kit for GM 9428715 (68-72 rear window lower pin screws) says 6-32 pan head; length not given. Single source. Corvette Pacifica also lists the rear window wedge plate screw kit as GM 9428715, no size.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.zip-corvette.com/68-72-rear-window-lower-pin-screws-4.html",
+      "title": "1968-1972 Corvette Rear Window Lower Pin Screws (4) (GM Part 9428715) - Zip",
+      "quote": "Includes (4) 6-32 pan head screws for mounting removable rear window lower pins to aluminum window frame. ... OE GM PART #: 9428715",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

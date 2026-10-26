@@ -1,0 +1,19 @@
+{
+ "pn": "181635",
+ "kind": "bolt",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 181635', '181635 bolt', '181636 bolt', '181635 standard parts bolts hexagon'. Only lead: GM 80TS-RP (Sept 1979) supersession OCR '181635 181636' (181635 apparently replaced by 181636); no size found for either. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.gmpartswiki.com/getpage?pageid=22845",
+   "title": "GMPartsWiki - Part Number Replacements and Supersessions 80TS-RP September 1979",
+   "quote": "180046 9419016 181635 181636",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

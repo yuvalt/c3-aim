@@ -1,0 +1,25 @@
+{
+  "pn": "9427627",
+  "kind": "screw",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "CorvetteParts.com sells it as the 1968-76 interior rear view mirror arm retainer-to-base screw, no size. GM P&A 30H (1973) shows a disposition line near it ('9427627 USE 00155938'), column alignment uncertain. No size found. Searched (Brave): 'GM 9427627', '9427627 AMK', '9427627 mirror screw', '9427627 corvette screw size'.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://corvetteparts.com/item/screw-interior-rear-view-mirror-arm-retainer-to-base-1968-1976e",
+      "title": "1968-1976E Corvette Screw, interior rear view mirror arm retainer to base - CorvetteParts.com",
+      "quote": "Replacement for OEM/GM Number: 9427627 · Selling Unit: each",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "http://t.gmpartswiki.com/getpage?pageid=68618",
+      "title": "GMPartsWiki - Parts History Catalog P&A 30H January 1973",
+      "quote": "9427627 USE 00155938",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

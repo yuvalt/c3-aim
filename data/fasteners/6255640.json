@@ -1,0 +1,26 @@
+{
+  "pn": "6255640",
+  "kind": "washer",
+  "thread": null,
+  "length": null,
+  "head": "(size of GM replacement 14037984: 25/64 ID x 13/16 OD x 1/8 thick)",
+  "drive": null,
+  "finish": null,
+  "dims": ".81 OD",
+  "notes": "Flat washer, trans mount bracket. OD from Gary Beaupre's kit notes on the original. GM replacement 14037984 is listed as 25/64 ID x 13/16 OD x 1/8 thk (another listing on the same page: 13/32 ID 13/16 OD).",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "http://www.garybeaupre.com/Site/Tranny_Fastener_Kits.html",
+      "title": "1975 Transmission & Shifter Mount Fastener Kits",
+      "quote": "item 2b in my kit has an OD of 0.74\u201d, whereas the original GM washer, 6255640, had an OD of 0.81\u201d.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.wholesalegmpartsonline.com/products/Chevrolet/S10/WASHER-Engine-Clutch-Release-Fork-Exhaust-Muffler-Generator-Mounting-Power-Brake-Booster-Transfer-Case/2682829/14037984.html",
+      "title": "Washer 14037984 | Wholesale GM Parts Online",
+      "quote": "WASHER,HYDRAULIC PUMP,FRT & RR BRKT TO PUMP ADJ BOLT*25/64 ID X 13/16 OD X 1/8 THK SPECIAL*REPL 3779986, 3898786, 6255640",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "pn": "9427832",
+ "kind": "screw",
+ "thread": null,
+ "length": null,
+ "head": null,
+ "drive": null,
+ "finish": null,
+ "notes": "Searched: 'GM 9427832', '9427832 screw', '9427832 AMK', '9427832 vacuum override switch screw'. Only an eBay listing title (1968-1982 Corvette wiper/headlight vacuum override switch screw, GM# 9427832) with no size, and a garbled GM 80TS-RP supersession page. No size quote.",
+ "confidence": "not_found",
+ "sources": [
+  {
+   "url": "https://www.ebay.ca/sch/i.html?_nkw=corvette+wiper+switch+vacuum",
+   "title": "corvette wiper switch vacuum for sale | eBay",
+   "quote": "GM# 9427832 1968-1982 Corvette Wiper Headlight Vacuum Override Switch Screw",
+   "accessed": "2026-10-26"
+  }
+ ]
+}
