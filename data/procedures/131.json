@@ -1,0 +1,164 @@
+{
+  "page": 131,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-46",
+  "procedures": [
+    {
+      "title": "Folding top header weatherstrip: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "header weatherstrip",
+        "neoprene base weatherstrip cement"
+      ],
+      "steps": [
+        "(continuing) ...fasteners as shown in figure 81 in the manual, together with neoprene base weatherstrip cement."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 80 in the manual shows the side rail weatherstrip between the #3 bow and rear bow with its cement point."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe (19437) roof panels: adjust",
+      "topic": "roof",
+      "parts": [
+        "roof panel inner lances",
+        "center strut",
+        "front outboard locating pins",
+        "floating notched receiver",
+        "triangular attachment bolt",
+        "front and rear holding locks",
+        "shims"
+      ],
+      "steps": [
+        "Adjust the 2 inner lances (floating mounts received at the center strut) fore/aft and in/out by loosening their 2 hex screws.",
+        "Set lance height by adding or removing shims.",
+        "Adjust the front outboard locating pins the same way, except no shims are used.",
+        "For contour alignment at the outer rear corner, loosen the floating notched receiver and move it until aligned.",
+        "For spacing, turn the triangular attachment bolt at the upper rear pillar to move the panel fore or aft.",
+        "Move the front and rear holding locks fore or aft within their slotted mounting holes."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe roof panel headlining: replace",
+      "topic": "roof",
+      "parts": [
+        "roof panel headlining",
+        "plastic fasteners"
+      ],
+      "steps": [
+        "Remove the 2 screws on each side.",
+        "Release the plastic fasteners around the panel edge."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe roof panel weatherstrip and front drip molding: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "roof panel weatherstrip",
+        "plastic clips",
+        "front drip molding"
+      ],
+      "steps": [
+        "Remove the screws at each end of the weatherstrip.",
+        "Pry out the plastic clips along its length.",
+        "The front drip molding is a press fit: pull it outward carefully to replace it."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe interior trim panels: remove and install",
+      "topic": "trim",
+      "parts": [
+        "rear window trim panel",
+        "rear quarter trim panel",
+        "rear roof trim panel",
+        "rear window lock assemblies",
+        "plastic fasteners",
+        "locating pins"
+      ],
+      "steps": [
+        "Rear window trim panel: pull outward carefully at the plastic fasteners to remove.",
+        "To install it, align the 2 locating pins first, then push in the plastic fasteners.",
+        "Rear quarter trim panel: remove the 4 screws at both ends and next to the rear roof headlining.",
+        "Rear roof trim panel: remove the rear window lock assemblies, then 2 screws and the remaining 4 screws along the roof."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe rear window storage tray: replace and adjust",
+      "topic": "body",
+      "parts": [
+        "rear window storage tray",
+        "tray hinge",
+        "hinge strap",
+        "tray latch"
+      ],
+      "steps": [
+        "Remove the hinge screws at the rear body panel, or at the hinge strap to the tray.",
+        "Adjust the latch by bending it until it engages properly."
+      ],
+      "specs": [],
+      "notes": [
+        "The tray holds the rear window assembly when it is out of the car."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe rear window glass: replace",
+      "topic": "glass",
+      "parts": [
+        "rear window glass",
+        "rear window frame (upper and lower members)",
+        "dowel pins",
+        "polysulfide caulking"
+      ],
+      "steps": [
+        "Take the rear window assembly out of the car and lay it on a bench.",
+        "With a small rod or nail under 1/16\" diameter, carefully drive out the dowel pins at both frame corners.",
+        "Separate the lower frame member from the old glass and frame.",
+        "Remove the glass from the upper frame member and scrape the old sealer out of the groove all around the frame.",
+        "Run a bead of caulking (polysulfide or equivalent) in the slot of both frame pieces.",
+        "Set the new glass into the curved frame member.",
+        "Fit the lower member to the glass and reinstall the dowel pins.",
+        "Wipe excess caulking off the glass."
+      ],
+      "specs": [
+        {
+          "what": "dowel pin drift diameter",
+          "value": "less than 1/16\" dia."
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Sport coupe rear window: adjust and replace weatherstrip",
+      "topic": "windows",
+      "parts": [
+        "rear window locks",
+        "lower receiving plates",
+        "rear window weatherstrip"
+      ],
+      "steps": [
+        "Move the locks and lower receiving plates within their slotted mounting holes to get an even, adequate seal.",
+        "Replace the weatherstrip between the rear window and body opening by cementing it to the rear inner body surface around the opening."
+      ],
+      "specs": [],
+      "notes": [
+        "The locks and receiving plates set the holding force."
+      ],
+      "continues": false
+    }
+  ]
+}

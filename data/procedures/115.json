@@ -1,0 +1,78 @@
+{
+  "page": 115,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-30",
+  "procedures": [
+    {
+      "title": "Dents or pits in panels, cracks in glaze coat",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel",
+        "plastic solder repair kit"
+      ],
+      "steps": [
+        "Fill the flaws using the plastic solder repair described earlier.",
+        "Feather-sand the area with No. 220 paper and finish with No. 320.",
+        "Prepare the area for paint refinishing."
+      ],
+      "specs": [
+        {
+          "what": "feather-sand paper",
+          "value": "No. 220"
+        },
+        {
+          "what": "finish sand paper",
+          "value": "No. 320"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cracked panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel",
+        "woven glass fiber cloth",
+        "C clamps"
+      ],
+      "steps": [
+        "Saw along the break line with a hacksaw blade and remove the broken section (see figure 65 in the manual).",
+        "Strip paint down to the plastic on both pieces using Lacquer Remover or equivalent.",
+        "On the underside of both pieces, thoroughly remove dirt and deadener for about 2 to 3 inches back from the break, then remove paint and scuff for a good bond.",
+        "Remove all cracked or fractured material along the break, bevel the mating edges to about 30 degrees with a file or grinder, and scuff the plastic along the edges.",
+        "Mask surrounding panels with non-staining tape.",
+        "Align the two pieces with C clamps, leaving roughly 1/8 inch between them or whatever gap gives correct alignment (see figure 66 in the manual).",
+        "Cut two backup pieces of woven glass fiber cloth large enough to overlap the break by about 2 inches.",
+        "Clean the repair area with Prep-Sol, then a tack rag.",
+        "Apply the resin repair procedure described earlier."
+      ],
+      "specs": [
+        {
+          "what": "recommended working temperature",
+          "value": "at least 70°-75°F"
+        },
+        {
+          "what": "cleaning distance back from fracture (underside)",
+          "value": "approximately 2 to 3 inches"
+        },
+        {
+          "what": "edge bevel angle",
+          "value": "approximately 30°"
+        },
+        {
+          "what": "gap between panel pieces",
+          "value": "approximately 1/8\""
+        },
+        {
+          "what": "backup cloth overlap",
+          "value": "approximately two inches"
+        }
+      ],
+      "notes": [
+        "Sometimes extra reinforcement along the fracture helps (continued next page).",
+        "Figure 50 on this page shows the body mounts (No. 1 to No. 4) with bolt, washer, cushions, shim, nut and access cover."
+      ],
+      "continues": true
+    }
+  ]
+}

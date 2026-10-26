@@ -1,0 +1,131 @@
+{
+  "page": 107,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-22",
+  "procedures": [
+    {
+      "title": "Leather and coated fabrics: clean",
+      "topic": "trim",
+      "parts": [
+        "leather upholstery",
+        "coated fabric trim"
+      ],
+      "steps": [
+        "Work up a thick suds on gauze or cheesecloth and apply it to the surface.",
+        "Repeat with just a damp cloth, no soap.",
+        "Dry the surface with a soft cloth."
+      ],
+      "specs": [],
+      "notes": [
+        "Never use body polishes or cleaners, volatile cleaners, furniture polish, oils, varnishes, or household cleaning or bleaching agents."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carpet: clean",
+      "topic": "interior",
+      "parts": [
+        "floor carpet"
+      ],
+      "steps": [
+        "Brush or vacuum the carpet thoroughly; often nothing more is needed.",
+        "If very dirty, take the carpet out of the car and vacuum it well.",
+        "Clean about 1 square foot at a time with a foaming upholstery cleaner.",
+        "After each area, vacuum up as much cleaner as possible.",
+        "Fluff the pile with an air hose, then let the carpet dry.",
+        "Once fully dry, fluff the pile again with the air hose."
+      ],
+      "specs": [],
+      "notes": [
+        "A lightly soiled carpet can be cleaned in the car with a little foaming upholstery cleaner and a brush."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Carpets and covers: remove and cement",
+      "topic": "interior",
+      "parts": [
+        "front compartment carpet",
+        "jute padding",
+        "sill plates",
+        "console trim"
+      ],
+      "steps": [
+        "To remove front compartment carpet, take off the sill plates and loosen the console trim (see Front End - Cowl Area and Console Trim).",
+        "Where carpet is cemented: strip off all old carpet, jute, etc. left stuck to the floor.",
+        "Make sure the floor is fairly clean and dry.",
+        "Apply 3M-1711 cement or equivalent per the package directions."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Seats: remove and adjust",
+      "topic": "seats",
+      "parts": [
+        "seat",
+        "seat forward support",
+        "seat hold-down brackets",
+        "seat shims",
+        "seat back stops"
+      ],
+      "steps": [
+        "Removal: Remove the bolt holding each front support to the floor.",
+        "Fold the seat back forward.",
+        "Loosen the 2 bolts on each seat hold-down bracket.",
+        "Slide the seat forward out of the brackets.",
+        "Adjustment: Set seat height, front and rear, with shims or washers.",
+        "Change backrest angle by adjusting the stops on the lower edge of the seat back."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Body mounting bolts: check torque",
+      "topic": "body",
+      "parts": [
+        "body mounting bolts",
+        "body mounting brackets",
+        "rear crossmember shims"
+      ],
+      "steps": [
+        "Periodically check torque on all body mount bolts to help prevent squeaks and rattles.",
+        "Torque all bolts shown in figure 49 in the manual to spec."
+      ],
+      "specs": [
+        {
+          "what": "body mounting bolts",
+          "value": "40 to 50 lb. ft."
+        }
+      ],
+      "notes": [
+        "Figure 49 in the manual shows the underbody-to-frame mounting brackets.",
+        "Shims on the rear crossmember are cemented in place."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Body repairs: general instructions",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "fiberglass body panels",
+        "steel reinforcements"
+      ],
+      "steps": [
+        "When welding steel parts mounted on the body, keep flame and weld heat off the plastic panels.",
+        "Shield the surrounding area with wet asbestos or similar; several layers of aluminum foil work well if clear of direct flame.",
+        "Straighten steel parts in the body carefully; when using hydraulic jacks or similar, make sure the part bracing the fixed end can take the load.",
+        "If alignment is off after collision or other damage, inspect the steel reinforcements in the cowl and sill areas carefully.",
+        "Follow the path of the impact force and check the body for broken bonds and cracks before, during and after repair."
+      ],
+      "specs": [],
+      "notes": [
+        "Fiberglass parts are tougher than steel but will not yield or take a set, so they cannot be straightened.",
+        "Small cracks and bond faults usually grow if not repaired.",
+        "Repair panels: illustrated starting at figure 51 in the manual (text continues on the next page)."
+      ],
+      "continues": false
+    }
+  ]
+}

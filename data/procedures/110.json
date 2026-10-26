@@ -1,0 +1,115 @@
+{
+  "page": 110,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-25",
+  "procedures": [
+    {
+      "title": "Repair panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "fiberglass repair panels"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Continued from the previous page: the panels shown in figures (up to) 54 are typical of service repair panels sold through Chevrolet parts sources; installation methods are given in later paragraphs.",
+        "See figure 55 in the manual for the kinds of bonds (joint types) found during repair work.",
+        "Figure 41 on this page shows the sill plate and trim molding (exploded view of sill plate, molding and screws)."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Fiberglass repair precautions",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "#71 protective cream",
+        "resin kit",
+        "plastic solder kit"
+      ],
+      "steps": [
+        "Use the protective cream whenever working with Resin Kit materials; it is generally not needed with the plastic solder kit.",
+        "Wash hands and dry them completely.",
+        "Put about 1/2 inch (1/2 teaspoon) of #71 cream in the palm.",
+        "Spread it thinly until it vanishes, working it into cuticles, between the fingers and around the wrists.",
+        "Apply a second coat the same way (repeat the squeeze and spread steps).",
+        "Briefly hold hands under cold running water to set the cream.",
+        "Get resin mix off your hands quickly, and always before it begins to gel; clean it off with lacquer thinner, then soap and water.",
+        "Wear a respirator when grinding; rinse skin in cold water to reduce irritation from glass and cured resin dust.",
+        "Where possible, use a belt sander fitted with a vacuum attachment to control dust.",
+        "Work only in a well ventilated area, since resin mixes can give off toxic fumes.",
+        "Keep resin off clothing.",
+        "Use only the approved repair kits; other materials may not meet engineering and safety standards.",
+        "Keep materials, tools and the work area clean and dry, because dirt or moisture can upset the chemical reaction.",
+        "Before repairing, press around the damage by hand to find hidden hairline cracks or breaks.",
+        "Also inspect other likely spots (around exhaust pipes, grille, headlamps and wear points) for minor damage and fix it early."
+      ],
+      "specs": [
+        {
+          "what": "protective cream per application",
+          "value": "about 1/2 inch (1/2 teaspoonful)"
+        }
+      ],
+      "notes": [
+        "Cream protects against contact (occupational) dermatitis, which is not contagious; improved resin formulas in the approved kits have nearly eliminated skin irritation."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Plastic solder kit repair (minor damage)",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "plastic solder repair kit"
+      ],
+      "steps": [
+        "Strip the finish from the damaged spot with paint remover or a power sander, and check for other areas needing repair.",
+        "Mix the materials (see figure 56 in the manual).",
+        "Spread the material with a putty knife or rubber squeegee, working it into the damage and building it up to the required contour (see figure 57 in the manual).",
+        "For deep fills or vertical surfaces, build up in several layers of about 1/2 inch each.",
+        "Grind, sand and paint as usual to finish (see figure 58 in the manual)."
+      ],
+      "specs": [
+        {
+          "what": "max layer thickness, deep or vertical fills",
+          "value": "about 1/2\""
+        }
+      ],
+      "notes": [
+        "For small cracks, surface flaws and small holes."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Resin kit repair (major damage)",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "resin repair kit",
+        "resin",
+        "hardener",
+        "Thixatrope",
+        "fiberglass cloth"
+      ],
+      "steps": [
+        "Press by hand around the damage to find hidden damage.",
+        "Strip the finish around the damage with paint remover, then inspect again for more damage.",
+        "Grind or file a \"V\" into the crack or break, giving the sides of the V a shallow slope for the most bonding area; a belt sander with vacuum attachment keeps dust down (see figure 59 in the manual).",
+        "If the back of the damage can be reached, plan a button-type repair: clean the back side so resin-soaked glass cloth can be laminated on both sides.",
+        "Cut the fiberglass cloth to size, at least five layers for a typical repair.",
+        "Mix hardener and resin at 1 part hardener to 4 parts resin, adding Thixatrope to thicken the mix and cut down on runniness."
+      ],
+      "specs": [
+        {
+          "what": "hardener to resin ratio",
+          "value": "1 part hardener to 4 parts resin"
+        },
+        {
+          "what": "minimum cloth layers, average repair",
+          "value": "5"
+        }
+      ],
+      "notes": [
+        "Kit contains resin, hardener, Thixatrope, fiberglass cloth, protective creams and mixing utensils; used for torn panels and separated joints.",
+        "Caution (continues next page): cleanliness is critical."
+      ],
+      "continues": true
+    }
+  ]
+}

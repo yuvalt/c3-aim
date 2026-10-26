@@ -1,0 +1,34 @@
+{
+  "page": 113,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-28",
+  "procedures": [
+    {
+      "title": "Scratched panels, spot refinishing",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel"
+      ],
+      "steps": [
+        "Strip all paint around the scratch down to the plastic using Lacquer Removing Solvent.",
+        "Featheredge the area with No. 220 wet-or-dry paper, then block sand to finish with No. 320 wet-or-dry paper (see figure 63 in the manual).",
+        "Clean the area with Prep-Sol or equivalent, then wipe with a tack rag.",
+        "Mask adjoining panels before painting, using only non-staining masking tape on the plastic body."
+      ],
+      "specs": [
+        {
+          "what": "featheredge sandpaper",
+          "value": "No. 220 wet or dry"
+        },
+        {
+          "what": "finish block sand paper",
+          "value": "No. 320 wet or dry"
+        }
+      ],
+      "notes": [
+        "Caution: avoid sanding deep into the glass mat; if you must cut fairly deep, use the dents-and-pits repair instead.",
+        "Figures on this page (44 marking hinge position, 45 removing hinge spring, 46 installing tool J-9559 in new spring, 47 gas tank door and rear trim) belong to other procedures."
+      ],
+      "continues": true
+    }
+  ]
+}

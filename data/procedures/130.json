@@ -1,0 +1,39 @@
+{
+  "page": 130,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-45",
+  "procedures": [
+    {
+      "title": "Folding top side rail weatherstrip: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "side rail weatherstrip",
+        "neoprene weatherstrip cement"
+      ],
+      "steps": [
+        "(continuing) ...cemented, so the bond takes.",
+        "Use only good-quality neoprene cement made for weatherstrip work."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Folding top header weatherstrip: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "header weatherstrip",
+        "header panel",
+        "studs",
+        "sheet metal screws"
+      ],
+      "steps": [
+        "The weatherstrip is held to the header panel by studs, sheet metal screws and special"
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 78 in the manual shows installing the wire-on binding and trimming excess material; figure 79 shows the top frame and linkage (#1, #2, #3 and rear bows, Sections A-A to D-D)."
+      ],
+      "continues": true
+    }
+  ]
+}

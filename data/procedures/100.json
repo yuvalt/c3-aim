@@ -1,0 +1,57 @@
+{
+  "page": 100,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-15",
+  "procedures": [
+    {
+      "title": "Window regulator, manual: remove and install",
+      "topic": "windows",
+      "parts": [
+        "manual window regulator",
+        "stationary horizontal channel",
+        "window crank housing",
+        "crank shaft",
+        "pin",
+        "washer spring",
+        "front glass channel",
+        "adjusting stud"
+      ],
+      "steps": [
+        "Remove the 2 screws holding the stationary horizontal channel.",
+        "Remove the window crank housing (3 screws).",
+        "Take out the crank shaft, pin and spring washer.",
+        "Remove the 2 regulator screws located next to the spring opening.",
+        "Remove the lower bolt holding the front glass channel.",
+        "Take the nut off the adjusting stud and move the front channel outward to give room for the regulator.",
+        "Fold the regulator linkage out to its elongated position.",
+        "Holding the front channel pushed outward, work the regulator forward and rearward and out through the access hole (see figure 36 in the manual).",
+        "Installation: reverse the removal steps.",
+        "Lubricate all guide rails and rollers whenever the regulator is apart.",
+        "Test the regulator thoroughly before refitting the door trim panel.",
+        "Adjust the window (see door window adjustments)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Window regulator, power: remove, disassemble and install",
+      "topic": "windows",
+      "parts": [
+        "power window regulator",
+        "window motor",
+        "electrical connectors"
+      ],
+      "steps": [
+        "If the window will not work, check the electrical connections first (figure 37 in the manual shows junctions, switches and circuit breaker).",
+        "Removal: Unplug the electrical connectors from the motor before doing any work on the regulator.",
+        "Do steps 1 through 12 of Window Regulator - Manual removal."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 37 in the manual shows the regulator location on the door and its wiring.",
+        "Disassembly caution: do not remove the motor from the regulator until the locking steps that follow are done."
+      ],
+      "continues": true
+    }
+  ]
+}

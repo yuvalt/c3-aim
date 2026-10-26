@@ -1,0 +1,137 @@
+{
+  "page": 103,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-18",
+  "procedures": [
+    {
+      "title": "Door hinges: remove and install",
+      "topic": "doors",
+      "parts": [
+        "door hinges",
+        "hinge shims",
+        "door sill plate",
+        "cowl kick panel",
+        "radio speaker",
+        "mast jacket cover",
+        "instrument panel pad",
+        "dash panel pad",
+        "air inlet ducts",
+        "power window wiring",
+        "door lock striker"
+      ],
+      "steps": [
+        "For the lower hinge, remove the door sill plate, cowl kick panel and radio speaker.",
+        "To reach the upper hinge screws, remove the lower mast jacket cover and the instrument panel pad (left side) or dash panel pad (right side), plus the air inlet ducts.",
+        "If removing the whole door on a car with power windows, disconnect and remove the wiring running between hinge pillar and door.",
+        "If the hinge will go back in the same spot, scribe around the inner strap on the door panel and note how many shims sit between hinge strap and door panel.",
+        "Remove the bolts holding the hinge to the door.",
+        "Remove the bolts holding the hinge to the body.",
+        "Installation: If the door was off the car, scribe around the lock striker (see Adjustments - Door Lock Striker) and take the striker off the lock pillar.",
+        "Install the hinges with the same number of shims as removed, lining the door hinge straps up with the scribe marks.",
+        "Adjust the door as needed.",
+        "On power-window doors, reconnect the wiring.",
+        "Refit all trim and panels removed for the job."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: never let the door hang unsupported on a single hinge."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door sill plate and molding: replace",
+      "topic": "moldings",
+      "parts": [
+        "door sill plate",
+        "upper sill molding",
+        "lower sill molding",
+        "carpet",
+        "cowl trim kick panel",
+        "lock pillar front edge trim"
+      ],
+      "steps": [
+        "The sill plate (which holds the carpet, cowl trim kick panel and lock pillar front edge trim) comes off by removing its 4 screws.",
+        "Replace the upper molding by removing its 7 screws.",
+        "To replace the lower molding, first remove the upper molding, then remove 5 screws and 4 nuts at the molding face."
+      ],
+      "specs": [],
+      "notes": [
+        "Assembly details: figure 41 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Underbody storage compartment: remove and install",
+      "topic": "interior",
+      "parts": [
+        "underbody storage compartment",
+        "right hand storage box",
+        "storage compartment doors",
+        "center storage box"
+      ],
+      "steps": [
+        "Open the lid and lift out the right hand box.",
+        "Remove the 8 screws along the frame inner flange and the lower strap of the door hinges.",
+        "Lift the assembly up out of the underbody.",
+        "To remove the doors from the assembly, take out the screws at the upper hinge strap: 3 for each outer door, 2 for the center door.",
+        "Remove the center box via the 7 screws around its inside top edge.",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [
+        "Located just behind the front seats; divided into three separate storage areas. See figure 42 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top compartment lid: adjust",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top compartment lid",
+        "lid hinges",
+        "hinge shims",
+        "lid lock",
+        "lock striker",
+        "release cable retainer"
+      ],
+      "steps": [
+        "Hinges: Scribe a line on the lid following the hinge strap outline so lid movement can be seen while adjusting (see figure 44 in the manual).",
+        "Add or remove hinge shims to raise or lower the lid surface.",
+        "After any change of lid position on the hinges, inspect lock engagement and adjust if needed.",
+        "Lock: Move the lock striker in or out within its slotted mounting holes.",
+        "To adjust release, loosen the lock retaining bolts and slide the lock fore or aft within the slots in its base; for more adjustment, move the cable retainer in the needed direction.",
+        "Test the lock release afterward and readjust as required."
+      ],
+      "specs": [
+        {
+          "what": "lid to body gap, sides",
+          "value": "1/16\" to 3/16\""
+        },
+        {
+          "what": "lid to body gap, rear",
+          "value": "3/16\" to 1/4\""
+        }
+      ],
+      "notes": [
+        "Closed lid must sit flush with the surrounding body surfaces.",
+        "Parts identification: figure 43 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top compartment lid hinges: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top compartment lid hinge",
+        "hinge shims",
+        "hinge spring"
+      ],
+      "steps": [
+        "Removal: Scribe around the hinge (see figure 44 in the manual).",
+        "Open the lid fully and remove the 3 retaining screws to take the hinge out as an assembly; note how many shims sit between hinge frame and compartment floor."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

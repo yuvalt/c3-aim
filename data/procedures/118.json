@@ -1,0 +1,60 @@
+{
+  "page": 118,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-33",
+  "procedures": [
+    {
+      "title": "Fractured panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel",
+        "plastic solder"
+      ],
+      "steps": [
+        "Let the patch harden.",
+        "File or grind the patch to the panel's general contour, taking care not to gouge the patch or nearby panel.",
+        "Fill any remaining flaws with plastic solder.",
+        "Let the fill harden, then finish sand ready for paint."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Panel replacement",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "replacement panel",
+        "woven glass fiber cloth",
+        "resin",
+        "hardener"
+      ],
+      "steps": [
+        "Cut out the damaged panel with a hacksaw blade, and clean all dirt and paint off the underside of the old panel(s) for about 2 to 3 inches back from the joint line.",
+        "Using lacquer solvent or equivalent, strip paint from the finish side of the adjoining panel for 2 to 3 inches next to where the new panel goes.",
+        "Scuff both the new panel and the adjoining panel for 2 to 3 inches back from the joint line, then wipe clean.",
+        "Bevel all mating edges to about 30 degrees through the full thickness so the joined pieces form a single V butt joint on the finish side; reshape the new panel if it does not fit the break closely.",
+        "Cut two backup pieces of woven glass fiber cloth running the full joint length (or shorter overlapping pieces), wide enough to lap the joint by 2 or 3 inches on each side.",
+        "Mix enough liquid plastic (resin with hardener) in an unwaxed paper cup (see Resin Repair procedure)."
+      ],
+      "specs": [
+        {
+          "what": "cleaning/scuffing distance from attaching line",
+          "value": "approximately 2 to 3 inches"
+        },
+        {
+          "what": "edge bevel",
+          "value": "approximately 30°"
+        },
+        {
+          "what": "backup cloth lap each side",
+          "value": "two or three inches"
+        }
+      ],
+      "notes": [
+        "Complete service panels, or sections cut from them, may be used (see Repair Panels in the general instructions). Fit the panel with all attaching parts installed to get correct alignment.",
+        "Figure 53 on this page shows underbody construction."
+      ],
+      "continues": true
+    }
+  ]
+}

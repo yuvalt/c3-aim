@@ -1,0 +1,37 @@
+{
+  "page": 97,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-12",
+  "procedures": [
+    {
+      "title": "Door window glass: remove and install",
+      "topic": "windows",
+      "parts": [
+        "door window glass",
+        "sash screws",
+        "horizontal guide channel",
+        "window stop",
+        "channel assemblies",
+        "glass frame assembly",
+        "pads and fasteners",
+        "roller assemblies"
+      ],
+      "steps": [
+        "Take off the door trim panel.",
+        "Remove the window outer and inner seal assemblies.",
+        "Raise the window fully so the 2 sash screws line up with the access holes.",
+        "Remove the 2 sash screws on the horizontal guide channel, holding the nut with your other hand (see figure 30 in the manual).",
+        "Remove the 1 Phillips screw at the top of the channel assembly to free the stop.",
+        "Move the front and rear channel assemblies fully outboard for clearance.",
+        "Lift the window up and out, guiding the rollers through the inner door panel opening (see figure 31 in the manual).",
+        "If fitting new glass, remove the 2 pads with fasteners and the frame assembly (3 bolts through the glass, see figure 32 in the manual) and mount them on the new glass first.",
+        "Slide the glass into the door with its convex side facing outboard.",
+        "Fit and tighten the 2 sash bolt-and-nut assemblies through the horizontal guide channel and glass frame."
+      ],
+      "specs": [],
+      "notes": [
+        "Figures 18-20 (caulking application, windshield installation, cowl ventilator controls) are on this page."
+      ],
+      "continues": true
+    }
+  ]
+}

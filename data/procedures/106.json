@@ -1,0 +1,45 @@
+{
+  "page": 106,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-21",
+  "procedures": [
+    {
+      "title": "Folding top material: clean",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top fabric"
+      ],
+      "steps": [
+        "Wash the top often with neutral soap suds, lukewarm water and a soft-bristle brush.",
+        "Rinse with plenty of clean water until no soap remains.",
+        "If still dirty, rinse the whole top, then apply a mild foaming cleanser to about two square feet at a time.",
+        "Scrub that area with a small soft-bristle hand brush, adding water until the cleaner foams up.",
+        "Wipe off the loosened dirt with a cloth or sponge before it gets ground into the fabric.",
+        "Apply more cleanser and keep scrubbing until clean."
+      ],
+      "specs": [],
+      "notes": [
+        "Caution: keep cleanser from running onto the body paint; it can leave streaks if it runs and dries."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Leather and coated fabrics: clean",
+      "topic": "trim",
+      "parts": [
+        "leather upholstery",
+        "coated fabric trim",
+        "vinyl coated formed headlining"
+      ],
+      "steps": [
+        "Wipe the surface now and then with a dry cloth.",
+        "When dirt builds up, use lukewarm water and neutral soap."
+      ],
+      "specs": [],
+      "notes": [
+        "Covers genuine leather and coated fabrics, including the vinyl coated formed headlining.",
+        "Figure 35 in the manual shows the manual window regulator: roller and slide assembly, channel assembly, screws, housing, washer-spring, shaft, pin."
+      ],
+      "continues": true
+    }
+  ]
+}

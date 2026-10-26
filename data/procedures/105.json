@@ -1,0 +1,126 @@
+{
+  "page": 105,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-20",
+  "procedures": [
+    {
+      "title": "Folding top compartment lid lock: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "compartment lid lock",
+        "control cable",
+        "cable retainer"
+      ],
+      "steps": [
+        "Remove the 3 lock retaining screws and take the lock off the lid.",
+        "Installation: Set the lock on the lid lined up with the scribe mark and install its screws.",
+        "Fit the cable end into the control and secure the retainer.",
+        "Test the lock thoroughly and adjust if needed (see lock adjustment)."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Folding top compartment lid lock control: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "lock control",
+        "control cables",
+        "cable retainers",
+        "push rod"
+      ],
+      "steps": [
+        "Removal: Remove the inner mounting clamps from both cables and unhook the cables from the control by removing the retainers.",
+        "Remove the 4 mounting screws and take the control off the lid.",
+        "Installation: Set the control on the lid and install the mounting screws.",
+        "Fit both cable ends into the control and secure them with the retainers.",
+        "Engage the push rod with its retainer.",
+        "Test the locks and adjust if necessary."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Gas tank door and rear trim: replace and adjust",
+      "topic": "body",
+      "parts": [
+        "gas tank door",
+        "tail pipe bezel",
+        "rear trim letters",
+        "door latch lock pins"
+      ],
+      "steps": [
+        "Replace the gas tank door assembly and bezel by removing the sheet metal screws around the inner face of the bezel.",
+        "To adjust latch holding force, remove the door assembly and turn the individual lock pins with an Allen wrench.",
+        "Trim letters are held by special nuts reached from under the car."
+      ],
+      "specs": [],
+      "notes": [
+        "Installation details shown in figure 47 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear filler panel: remove and install",
+      "topic": "body",
+      "parts": [
+        "rear filler panel",
+        "rear license plate housing",
+        "tail pipes"
+      ],
+      "steps": [
+        "Remove the rear license plate and its housing (see Section 14).",
+        "Disconnect the tail pipes from the mufflers.",
+        "Remove the 8 screws holding the filler panel to the body (see figure 47 in the manual).",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Spare tire mount: remove and install",
+      "topic": "body",
+      "parts": [
+        "spare tire mount",
+        "pivot bolts",
+        "swivel bolt assembly",
+        "spare tire cover assembly"
+      ],
+      "steps": [
+        "Removal: Take out the spare tire as described in the Owner's Manual.",
+        "Loosen the pivot bolt lock nuts and back the pivot bolts out of the crossmember weld nuts.",
+        "Remove the 2 screws holding the swivel bolt assembly to the body.",
+        "Remove the 4 bolts holding the cover assembly to the body.",
+        "Installation: reverse the removal steps; grease the nut and bolt threads with chassis grease before fitting the swivel bolt assembly."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 48 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Rear grille and plenum air door: remove and install",
+      "topic": "body",
+      "parts": [
+        "rear deck grille",
+        "plenum air door",
+        "grille frame",
+        "gasket"
+      ],
+      "steps": [
+        "Remove the 4 screws holding the grille to the rear deck panel.",
+        "Remove the 3 screws holding the frame, plenum air door and gasket assembly.",
+        "Use new fasteners when replacing the rubber door.",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 49 in the manual."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "page": 127,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-42",
+  "procedures": [
+    {
+      "title": "Folding top: adjustments",
+      "topic": "convertible-top",
+      "parts": [
+        "top hinges",
+        "rear bow hold-down pins",
+        "rear bow hold-down lock assemblies",
+        "locating pins"
+      ],
+      "steps": [
+        "Rear bow hold-down locks: shift the lock fore or aft within the slotted holes in the lock housing.",
+        "Turn the locating pins to change how hard the seal is held against the folding top lid.",
+        "Move the hold-down pins left or right to center the raised top on the body."
+      ],
+      "specs": [],
+      "notes": [
+        "(Hinge, continued) repositioning the hinge also corrects faulty fore/aft engagement of the rear bow hold-down pins in their locks, and a loose or over-tight top rear panel when the top is up and locked.",
+        "Centering the hold-down pins fixes poor alignment at the windows and pins that are hard to enter into the locks."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top assembly: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top assembly (frame with trim)",
+        "top hinges",
+        "rigid plastic trim"
+      ],
+      "steps": [
+        "Raise the top but leave the header and rear bow locks unlatched.",
+        "Remove the rigid plastic trim (see Interior Trim).",
+        "Scribe the outline of each hinge plate on the lock pillar to record its position.",
+        "Remove the 2 screws holding each hinge to the lock pillar and lift the top assembly off.",
+        "To install, line each hinge plate up with the scribe marks on the lock pillar and fit the screws.",
+        "Adjust if needed (see Folding Top Adjustments)."
+      ],
+      "specs": [],
+      "notes": [
+        "The whole top, frame with trim attached, comes off as one assembly."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top trim and rear window assembly: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top trim",
+        "rear window",
+        "rear side rail weatherstrip",
+        "header inner weatherstrip",
+        "header outer weatherstrip",
+        "wire-on binding",
+        "binding end caps",
+        "#3 bow",
+        "stay straps",
+        "pads",
+        "rear bow",
+        "rear bow weatherstrip",
+        "plastic filler"
+      ],
+      "steps": [
+        "Before removing the old trim, fully adjust the top (see Folding Top Adjustments).",
+        "Removal: take off the rear side rail window sealing weatherstrip (see Weatherstrip) and the screws at the ends of the header inner weatherstrip.",
+        "Pull the tacks holding the top and the header outer weatherstrip to the header (see figure 72 in the manual).",
+        "Peel the cemented trim off the rear side rail (Section C-C in figure 71).",
+        "Remove the wire-on binding end caps and the tacks holding the binding to the #3 bow (View F).",
+        "Remove the staples holding the trim to the #3 bow.",
+        "Remove the tacks at the upper ends of the stay straps on the #3 bow; pads may come off now if wanted.",
+        "Before removing pads and straps, mark their positions on the header (printed 'head') and #3 bow.",
+        "Unbolt the rear bow from the top frame: 2 screws each side (see figure 73 in the manual).",
+        "Carry the trim and rear bow assembly to a clean bench.",
+        "Remove the plastic filler from the rear bow weatherstrip, then pull the weatherstrip and trim off the rear bow (Section A-A; see figure 74 in the manual).",
+        "Installation: find and mark the centers of the header, #3 bow, rear bow and the front and rear edges of the trim.",
+        "Keep these center marks aligned throughout, rechecking often, especially while tacking or stapling.",
+        "Fit the top trim and weatherstrip onto the rear bow,"
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 71 in the manual identifies the parts and shows the lettered cross-sections (cut views; arrows show the viewing direction).",
+        "Mark the installed positions of loose parts such as stay straps and pads as they come off, to guide fitting replacements.",
+        "Do not remove the header weatherstrip completely: it must be in place during final trim installation to get correct trim tension.",
+        "See the Frame and Linkage portion for bow numbering."
+      ],
+      "continues": true
+    }
+  ]
+}

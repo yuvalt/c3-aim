@@ -1,0 +1,39 @@
+{
+  "page": 128,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-43",
+  "procedures": [
+    {
+      "title": "Folding top trim and rear window assembly: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "top trim",
+        "rear bow",
+        "plastic filler strip",
+        "pads",
+        "stay straps",
+        "#3 bow",
+        "header",
+        "window extension",
+        "neoprene trim cement GM #3695016",
+        "wire-on binding"
+      ],
+      "steps": [
+        "(continuing installation step 2) ...referring to Section A-A and figure 74 in the manual; the filler strip goes in last and locks the assembly together. Align the center marks.",
+        "If new pads are needed, fit them now, lined up with the marks made when the old ones came off (see figures 75 and 76 in the manual).",
+        "Mount the trim and rear bow assembly on the top frame with the 4 screws removed earlier.",
+        "Latch the rear bow in the desired top-up position.",
+        "Pull the stay straps up and staple or tack them to the #3 bow (see figure 77 in the manual).",
+        "Pull the trim's front edge up to the header, align center marks, smooth the fabric and temporarily clamp, tack or staple it to the header.",
+        "Draw the window extension up to the #3 bow with center marks aligned, fold plenty of fabric under and tack it to the #3 bow.",
+        "Apply neoprene trim cement (GM Part #3695016 or equivalent) to the area shown in View D of figure 71, following the package directions.",
+        "Pull the roof part of the trim over the #3 bow, align the marks and tack or staple it (printed 'tack on staple').",
+        "Cut off the extra material and fit the wire-on binding"
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 72 in the manual shows trim, weatherstrip, tacking strip, top pad and header panel at the header (View A). Figure 73 shows the rear bow retaining screws at the #3 bow; figure 74 shows fitting trim and weatherstrip with the filler to the rear bow."
+      ],
+      "continues": true
+    }
+  ]
+}

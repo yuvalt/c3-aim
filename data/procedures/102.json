@@ -1,0 +1,61 @@
+{
+  "page": 102,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-17",
+  "procedures": [
+    {
+      "title": "Door lock and remote controls: remove and install",
+      "topic": "doors",
+      "parts": [
+        "door lock",
+        "lock control rods"
+      ],
+      "steps": [
+        "After the lock mechanism is assembled, adjust the linkage by unclipping and turning the threaded rods until it works properly.",
+        "Lubricate all components before installation."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Outer door handle and lock cylinder: remove and install",
+      "topic": "doors",
+      "parts": [
+        "outside door handle",
+        "door lock cylinder",
+        "handle housing",
+        "handle seal"
+      ],
+      "steps": [
+        "Removal: Take off the handle assembly by removing the 3 nuts holding its studs to the handle housing.",
+        "Take out the lock cylinder by removing the 2 screws at the top of the assembly.",
+        "Installation: Fit a new seal if needed.",
+        "Set the handle housing in place and install the handle assembly.",
+        "Check the door lock operation carefully.",
+        "Refit the door trim panel."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts shown in figure 39 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door hinges: remove and install",
+      "topic": "doors",
+      "parts": [
+        "door hinges",
+        "hinge access cover"
+      ],
+      "steps": [
+        "Removal: Take off the door trim panel.",
+        "Remove the hinge access cover from the door inner panel."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts shown in figure 40 in the manual."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "page": 117,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-32",
+  "procedures": [
+    {
+      "title": "Fractured panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel",
+        "fiberglass cloth",
+        "resin",
+        "hardener"
+      ],
+      "steps": [
+        "Grind or file away all cracked and splintered material from the fracture.",
+        "Bevel the fracture edge to roughly 20 degrees.",
+        "Strip paint around the fracture with Lacquer Solvent or equivalent.",
+        "Scuff the surface for bonding, then clean with Prep-Sol and wipe dry.",
+        "Mask adjoining panels with non-staining tape.",
+        "Cut a fiberglass cloth strip big enough to overlap the fracture by 1 to 2 inches all around.",
+        "Mix the plastic in an unwaxed paper cup (see the Resin Repair Kit procedure).",
+        "Wet the glass cloth in the mix by brushing or dipping, then squeeze out the excess.",
+        "Lay the wetted cloth over the fracture on the outside of the panel, overlapping 1 to 2 inches, and press it into the break.",
+        "Sponge excess plastic out of the cloth, working from the middle of the break toward the edges.",
+        "Cut off excess or loose glass strands from the patch.",
+        "If there are low spots, mix another batch of resin and hardener thoroughly and add short fibers cut from glass cloth until it is like putty.",
+        "Spread the mix generously over the fracture and surrounding area with a spatula, building up enough to allow filing and sanding."
+      ],
+      "specs": [
+        {
+          "what": "fracture edge bevel",
+          "value": "approximately 20°"
+        },
+        {
+          "what": "cloth overlap of fracture",
+          "value": "1 to 2 inches"
+        }
+      ],
+      "notes": [
+        "Used when the panel underside cannot be reached or its contour makes back plies impractical.",
+        "Avoid resin-rich spots in the cloth: patch strength depends directly on its glass content.",
+        "Hold the woven glass in place with Saranwrap or similar until the resin gels.",
+        "Figure 52 on this page shows center body construction."
+      ],
+      "continues": true
+    }
+  ]
+}

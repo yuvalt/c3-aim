@@ -1,0 +1,47 @@
+{
+  "page": 91,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-6",
+  "procedures": [
+    {
+      "title": "Windshield: remove and install",
+      "topic": "glass",
+      "parts": [
+        "windshield glass",
+        "adhesive caulking material",
+        "caulking cartridge",
+        "rubber glass spacers",
+        "reveal molding clips",
+        "upper reveal molding",
+        "side reveal molding",
+        "side retainer molding",
+        "lower corner reveal molding",
+        "windshield pillar weatherstrip"
+      ],
+      "steps": [
+        "Load the caulking into the cartridge (see figure 17 in the manual).",
+        "Run one smooth unbroken bead on the inside face of the glass next to the edge, all the way around (see figure 18 in the manual): about 1/4 inch wide at the base, shaped as a 3/8 inch tall pyramid.",
+        "If the bead slumps, pause about 2-3 minutes to let it firm up; if you hit an air bubble, back the gun up and add enough material to fill the void before going on.",
+        "The reveal molding clips self-seal; no sealer is needed on them before setting the glass.",
+        "With a helper, lower the glass onto the spacers, lining up the marks on the glass and frame (see figure 19 in the manual).",
+        "Press the glass lightly to seat the caulking against the opening flanges; paddle the material where needed for a full seal.",
+        "Water-test right away with a cold water spray; paddle caulking into any leak with a flat screwdriver or stick, preferably working from inside the car.",
+        "Reinstall trim in this order: upper reveal molding, side reveal molding, side retainer molding, lower corner reveal molding, windshield pillar weatherstrip."
+      ],
+      "specs": [
+        {
+          "what": "caulking bead base width",
+          "value": "approximately 1/4 inch"
+        },
+        {
+          "what": "caulking bead height",
+          "value": "3/8 inch"
+        }
+      ],
+      "notes": [
+        "Caution: never aim a heavy water stream straight at the caulking while it is still soft.",
+        "Figure 5 in the manual (cowl area trim) is on this page: instrument panel pad L.H., side trim panels L.H./R.H., dash panel pad R.H., J nut, screws and special washers."
+      ],
+      "continues": false
+    }
+  ]
+}

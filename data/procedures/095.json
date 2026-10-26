@@ -1,0 +1,50 @@
+{
+  "page": 95,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-10",
+  "procedures": [
+    {
+      "title": "Door window: adjust",
+      "topic": "windows",
+      "parts": [
+        "window channel assembly",
+        "plate assembly",
+        "hex bolts"
+      ],
+      "steps": [
+        "Fore/aft: loosen the 2 inner hex bolts at the top of the plate assembly (View A) and the 1 hex bolt at the channel bottom.",
+        "Move the channel as far as the slotted holes allow, then tighten."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Door hinges: adjust door",
+      "topic": "doors",
+      "parts": [
+        "door hinges",
+        "hinge shims",
+        "door lock striker",
+        "hinge cover",
+        "instrument panel",
+        "right dash pad",
+        "cowl kick panel",
+        "air inlet duct",
+        "radio speaker"
+      ],
+      "steps": [
+        "Take off the door trim panel.",
+        "Scribe around the striker's circular flange on the lock pillar, then remove the striker bolt.",
+        "For up/down: remove the hinge cover (2 screws) to reach the upper hinge screws.",
+        "For in/out and fore/aft: remove the instrument panel (left door only) or right dash pad (right door), cowl kick panel, air inlet duct and radio speaker to reach the hinge screws.",
+        "Adjust the door as needed, never letting it hang unsupported on a single hinge."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 24 in the manual. Fore/aft = slide door in the slotted holes in the hinge pillar; in/out = add/remove shims between hinge pillar and front hinge straps; up/down = rear hinge straps in the inner door panel slots. Door position also depends on striker position.",
+        "Figures 11-14 (windshield weatherstrip and molding removal) are on this page."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page": 99,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-14",
+  "procedures": [
+    {
+      "title": "Door glass run channels: remove and install",
+      "topic": "windows",
+      "parts": [
+        "glass run channel",
+        "door trim panel"
+      ],
+      "steps": [
+        "Adjust the channel as described under Doors - Adjustments - Door Windows.",
+        "Refit the door trim panel."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Window regulator, manual: remove and install",
+      "topic": "windows",
+      "parts": [
+        "manual window regulator",
+        "regulator access cover",
+        "sash bolt and nut assemblies",
+        "window glass"
+      ],
+      "steps": [
+        "Removal: Take off the trim panel.",
+        "Remove the access cover (5 bolts).",
+        "Run the window fully up.",
+        "Remove the 2 sash bolt-and-nut assemblies that hold the window glass."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts identification: figure 35 in the manual.",
+        "Figure 26 in the manual shows removing the inside window crank handle with tool J-7797: push the tool in the arrow direction to disengage the retaining spring."
+      ],
+      "continues": true
+    }
+  ]
+}

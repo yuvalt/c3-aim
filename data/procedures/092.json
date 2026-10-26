@@ -1,0 +1,71 @@
+{
+  "page": 92,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-7",
+  "procedures": [
+    {
+      "title": "Cowl ventilator assembly: adjust",
+      "topic": "body",
+      "parts": [
+        "cowl ventilator valve",
+        "control cable",
+        "plastic adjustment link"
+      ],
+      "steps": [
+        "Turn the plastic adjustment link midway along the control cable under the dash to set the adjustment.",
+        "Set it so the ventilator valve is fully shut with the knob pushed forward."
+      ],
+      "specs": [],
+      "notes": [
+        "Applies to left or right side; see figure 20 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Cowl ventilator assembly: remove and install",
+      "topic": "body",
+      "parts": [
+        "cowl ventilator control cable",
+        "knob assembly",
+        "guide nut",
+        "console trim plate",
+        "cowl kick panel"
+      ],
+      "steps": [
+        "Take off the cowl kick panel.",
+        "Free the control cable from its bracket by removing the screw.",
+        "Remove the knob assembly screw.",
+        "Lift out the console trim plate and remove the nut holding the guide.",
+        "Remove the screw securing the cable at the inside front of the console.",
+        "Take apart the control mechanism.",
+        "Disconnect the cable at the adjusting link and pull it through to remove.",
+        "Install in reverse order, then check operation and adjust."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Door lock striker: adjust",
+      "topic": "doors",
+      "parts": [
+        "door lock striker bolt",
+        "striker washer",
+        "floating cage plate",
+        "modeling clay"
+      ],
+      "steps": [
+        "For up/down or in/out: loosen the striker bolt, move it as needed and retighten.",
+        "To check fore/aft: first confirm the door is aligned correctly.",
+        "Put modeling clay or body caulking compound in the lock bolt opening (see figure 21 in the manual).",
+        "Close the door just far enough for the striker to leave an impression.",
+        "Measure the striker impression as described next."
+      ],
+      "specs": [],
+      "notes": [
+        "The striker is one bolt-and-washer threaded into a floating tapped cage plate in the lock pillar; the lock fork-bolt snaps over it to hold the door shut.",
+        "Caution: do not shut the door fully on the clay; that makes the clay very hard to remove."
+      ],
+      "continues": true
+    }
+  ]
+}

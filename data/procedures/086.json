@@ -1,0 +1,41 @@
+{
+  "page": 86,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-1",
+  "procedures": [
+    {
+      "title": "Body construction: general description",
+      "topic": "body",
+      "parts": [
+        "steel reinforcing frame",
+        "fiberglass body panels"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "The body is a steel framework (see figure 1 in the manual) combined with fiberglass-reinforced plastic panels, giving more torsional rigidity and beam strength.",
+        "Two body styles: convertible (folding top or removable hardtop; either top standard, both optional) and the new coupe with removable roof panels.",
+        "Page also carries the section 1B index."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hood: adjust",
+      "topic": "hood",
+      "parts": [
+        "hood",
+        "hood hinges",
+        "hood catch",
+        "hood bumpers"
+      ],
+      "steps": [
+        "Adjust hood position first, then the catches (see figure 2 in the manual).",
+        "To move the hood fore or aft, loosen the lower hinge retaining bolts and shift the hood within the slotted holes of the hinge strap."
+      ],
+      "specs": [],
+      "notes": [
+        "Hood position relative to the opening and fenders depends on hinge position plus catch and bumper position/adjustment."
+      ],
+      "continues": true
+    }
+  ]
+}

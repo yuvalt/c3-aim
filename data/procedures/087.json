@@ -1,0 +1,104 @@
+{
+  "page": 87,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-2",
+  "procedures": [
+    {
+      "title": "Hood: adjust",
+      "topic": "hood",
+      "parts": [
+        "hood",
+        "hood hinges",
+        "hinge shims",
+        "hood bumper screw",
+        "catch bolt",
+        "catch release cable retainer"
+      ],
+      "steps": [
+        "Bring the hood top flush with neighboring surfaces by shimming under the hinges and adjusting the bumper screw and catch bolt engagement (specified gaps: see figure 3 in the manual).",
+        "To adjust how the catch bolt enters the plate, loosen the 2 catch bolt mounting screws and move the bolt assembly.",
+        "To synchronize catch release, adjust the cable retainer at the left-hand catch bolt assembly."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Hood assembly: remove and install",
+      "topic": "hood",
+      "parts": [
+        "hood",
+        "hood hinge upper strap",
+        "hinge shims",
+        "hood support assembly"
+      ],
+      "steps": [
+        "If the hood will be reused, scribe around the hinge upper strap (see figure 4 in the manual).",
+        "Have a helper hold the hood; remove the screws holding the hinge straps and support assembly to the hood.",
+        "If the hinges come off the car, record the shim count under each hinge.",
+        "To install the original hood, line the hinges up with the scribe marks and refit the hinge and support screws.",
+        "If adjustment is needed, follow Hood adjustment / hood catch."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Hood prop: retention for service",
+      "topic": "hood",
+      "parts": [
+        "hood prop track",
+        "hood prop slide"
+      ],
+      "steps": [
+        "For lengthy under-hood work, put a 1/4 inch bolt and nut through the existing hole in the prop track and slide so the hood cannot close accidentally."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Front emblem: removal access",
+      "topic": "body",
+      "parts": [
+        "front emblem",
+        "flags",
+        "numbers",
+        "molding inserts",
+        "special nuts"
+      ],
+      "steps": [
+        "Raise the hood to reach the special nuts that hold the front emblem, flags, numbers and molding inserts."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Cowl area trim: remove and install",
+      "topic": "interior",
+      "parts": [
+        "right-hand dash pad",
+        "instrument panel pad",
+        "side trim panels",
+        "cowl ventilator kick panel",
+        "sill plate"
+      ],
+      "steps": [
+        "Right-hand dash pad / instrument panel pad: remove the 2 screws on the outboard flange.",
+        "Remove the 2 screws at the inner flange of the center cluster panel.",
+        "Pull the pad outward to free the special plastic clips along the panel top.",
+        "Pull the pad upward to free the spring clip at the top of the side trim panel.",
+        "Cowl ventilator / kick panel (see figure 6 in the manual): loosen the 4 sill plate screws enough to take pressure off the kick panel.",
+        "Remove the 1 screw in the center of the kick panel.",
+        "Lift the panel out while pushing it rearward.",
+        "Install by reversing these steps.",
+        "Left and right side trim panels can then be lifted out by pulling forward and upward to free the 2 spring clips at the front console assembly."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 5 in the manual shows pad and side trim panel mounting."
+      ],
+      "continues": false
+    }
+  ]
+}

@@ -115,6 +115,39 @@ def fastener_rollups(pages):
     return "\n".join(out)
 
 
+def procedures_md():
+    """How-to steps from the 1968 Chevrolet Chassis Service Manual, grouped by topic. Separate from the AIM facts."""
+    by_topic, merged = {}, {}
+    for f in sorted(pathlib.Path("data/procedures").glob("*.json")):
+        p = json.loads(f.read_text())
+        for pr in p.get("procedures", []):
+            key = pr["title"].lower()
+            if key in merged:  # same procedure continued on a later page: join it
+                prev_p, prev = merged[key]
+                for k in ("steps", "specs", "notes"):
+                    prev[k] = prev.get(k, []) + pr.get(k, [])
+                prev_p["pages"].append(p["page"])
+                continue
+            p = {**p, "pages": [p["page"]]}
+            pr = {k: list(v) if isinstance(v, list) else v for k, v in pr.items()}
+            merged[key] = (p, pr)
+            by_topic.setdefault(pr.get("topic", "other"), []).append((p, pr))
+    out = ["# Service procedures (1968 Chevrolet Chassis Service Manual, Corvette sections)", "",
+           "How to remove, install and adjust parts, rewritten in short steps. This is the 1968 manual: the 1970 "
+           "Corvette is the same generation, but check 1970 changes against the AIM sheets. Part numbers and "
+           "torques for 1970 come from the AIM (aim_sheets.md).", ""]
+    for topic, items in sorted(by_topic.items()):
+        out += [f"## {topic.replace('-', ' ').title()}", ""]
+        for p, pr in items:
+            pages = "-".join(str(n) for n in (p["pages"][0], p["pages"][-1])) if len(p["pages"]) > 1 else str(p["page"])
+            out += [f"### {pr['title']}", f"Source: 1968 Chevrolet Chassis Service Manual, Corvette Body (PDF page {pages})", ""]
+            out += [f"{i}. {s}" for i, s in enumerate(pr.get("steps", []), 1)]
+            out += [f"- Spec: {s['what']}: {s['value']}" for s in pr.get("specs", [])]
+            out += [f"- Note: {n}" for n in pr.get("notes", [])]
+            out.append("")
+    return "\n".join(out)
+
+
 def sheet_md(p):
     items = {x["item"]: x for x in p.get("parts", [])}
     label = lambda i: f'[{i}] {items[i]["name_expanded"]} {items[i]["pn"]}' if i in items else f"[{i}]"
@@ -178,6 +211,7 @@ def main():
                                 torques.get(x.get("torque_ref"), ""), x.get("uncertain"), "", SIZES.get(pn, "")])
             for pn, name, context in table_parts(p):
                 w.writerow([pn, "", "", name, "", p["group"], p["sheet"], p["title"], p["page"], "", "", "", context, ""])
+    (DIST / "service_procedures.md").write_text(procedures_md())
     (DIST / "instructions.md").write_text(pathlib.Path("prompts/gpt_instructions.md").read_text())
     print(f"{len(pages)} sheets → dist/")
 

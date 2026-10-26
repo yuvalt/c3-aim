@@ -1,0 +1,31 @@
+{
+  "page": 119,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-34",
+  "procedures": [
+    {
+      "title": "Panel replacement",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "replacement panel",
+        "3/16\" bolts",
+        "washers",
+        "woven glass cloth"
+      ],
+      "steps": [
+        "Line up the new panel and clamp it so a closed V butt joint forms at the junction.",
+        "If clamping is impossible, hold alignment with 3/16 inch bolts and large washers on both the inner and outer sides, or with straps and sheet metal screws.",
+        "Wet the woven glass cloth backup plies in the mix by dipping or brushing."
+      ],
+      "specs": [
+        {
+          "what": "alignment bolts",
+          "value": "3/16\""
+        }
+      ],
+      "notes": [
+        "Figure 54 on this page shows rear body construction."
+      ],
+      "continues": true
+    }
+  ]
+}

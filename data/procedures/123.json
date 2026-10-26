@@ -1,0 +1,31 @@
+{
+  "page": 123,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-38",
+  "procedures": [
+    {
+      "title": "Hard top vinyl covering: remove",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover"
+      ],
+      "steps": [
+        "Loosen the cemented edges of the fabric roof cover."
+      ],
+      "specs": [
+        {
+          "what": "heat lamp distance from fabric (minimum)",
+          "value": "18\""
+        },
+        {
+          "what": "maximum fabric temperature",
+          "value": "200°F"
+        }
+      ],
+      "notes": [
+        "Caution: heat with lamps kept at least 18 inches away, only until the fabric is warm. Lamps too close or fabric over 200°F can lose its grain, blister or turn very shiny.",
+        "Figure 67 in the manual (Molding and Weatherstrip) fills most of this page: exploded hard top weatherstrip and molding layout, views A-D."
+      ],
+      "continues": false
+    }
+  ]
+}

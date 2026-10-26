@@ -1,0 +1,101 @@
+{
+  "page": 96,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-11",
+  "procedures": [
+    {
+      "title": "Door hinges: adjust door",
+      "topic": "doors",
+      "parts": [
+        "door lock striker",
+        "trim pads and panels",
+        "door hinges"
+      ],
+      "steps": [
+        "Reinstall the striker, trim pads and panels.",
+        "Lubricate the door hinges with Lubriplate or equivalent."
+      ],
+      "specs": [],
+      "notes": [
+        "After any door adjustment, check window and lock pillar alignment and correct as needed.",
+        "Check lock and striker engagement before slamming the door; it may need adjusting."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door trim panel and inside handles: remove and install",
+      "topic": "trim",
+      "parts": [
+        "door trim panel",
+        "window crank",
+        "lock control",
+        "door lock handle",
+        "plastic fastener clips",
+        "polyurethane cover"
+      ],
+      "steps": [
+        "Use tool J-7797 to pull the clips holding the window crank and lock control (see figure 26 in the manual).",
+        "Remove the 4 screws at the inside corners of the inner door panel.",
+        "Pry the trim panel off carefully at the plastic fastener clips around its edge.",
+        "Remove the 1 screw and slide the door lock handle forward to remove it (see figure 27 in the manual).",
+        "Peel the formed plastic polyurethane cover off along its adhesive bead.",
+        "Install in reverse order, aligning the trim panel properly."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 25 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door weatherstrip: install",
+      "topic": "weatherstrip",
+      "parts": [
+        "door weatherstrip",
+        "weatherstrip cement"
+      ],
+      "steps": [
+        "Clean off all dirt, loose paint and old cement before fitting new weatherstrip.",
+        "Use only a quality cement the maker rates for weatherstrip."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 28 in the manual shows mounting location."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Window outer seal assembly: remove and install",
+      "topic": "weatherstrip",
+      "parts": [
+        "window outer seal assembly",
+        "retaining clips"
+      ],
+      "steps": [
+        "Run the window fully down.",
+        "Remove the 2 screws at the seal ends (see figure 29 in the manual).",
+        "Pry gently at the 6 retaining clips.",
+        "Lift the seal out and up.",
+        "To install, engage the clips and fit the 2 screws."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Window inner seal assembly: remove and install",
+      "topic": "weatherstrip",
+      "parts": [
+        "window inner seal assembly"
+      ],
+      "steps": [
+        "Take off the door trim panel.",
+        "Remove the 6 screws on the top of the inner door panel holding the seal tabs (see figure 29 in the manual).",
+        "Lift the seal up and rotate it outward, working the tabs through the opening.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

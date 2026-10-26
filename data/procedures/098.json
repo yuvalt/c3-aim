@@ -1,0 +1,69 @@
+{
+  "page": 98,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-13",
+  "procedures": [
+    {
+      "title": "Door window glass: remove and install",
+      "topic": "windows",
+      "parts": [
+        "door window glass",
+        "front and rear glass run channels",
+        "window seals",
+        "door trim panel"
+      ],
+      "steps": [
+        "(Installation, continued) Set the front and rear channels to the correct in/out position.",
+        "Refit the inner and outer window seals, then the door trim panel."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Door window inner molding: remove and install",
+      "topic": "moldings",
+      "parts": [
+        "door window inner molding",
+        "window seals"
+      ],
+      "steps": [
+        "Take out the window glass assembly (see Window Glass).",
+        "Take off the outer and inner window seals.",
+        "Reach a screwdriver through the access holes in the inner door panel and remove the 5 screws along the molding face (see figure 33 in the manual).",
+        "Lift the molding upward to remove it.",
+        "Install by reversing these steps."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts shown in figure 29 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door glass run channels: remove and install",
+      "topic": "windows",
+      "parts": [
+        "front glass run channel",
+        "rear glass run channel",
+        "stationary horizontal guide channel",
+        "adjusting stud"
+      ],
+      "steps": [
+        "Removal (same for front or rear channel): Take off the door trim assembly.",
+        "Take out the window glass assembly.",
+        "Remove the screw at the channel's lower end plus the 2 screws holding the channel to the top face of the door inner panel.",
+        "Remove the 2 screws holding the stationary horizontal guide channel.",
+        "Take the nut off the adjusting stud.",
+        "Turn the stud fully clockwise to gain clearance for removal.",
+        "Lift the channel out through the upper slot, taking care it clears the opening (see figure 34 in the manual).",
+        "Installation: Set the run channel in the door and start its retaining bolts loosely.",
+        "Install the window glass."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts identification: figure 23 in the manual (window adjustment points, views A and B)."
+      ],
+      "continues": true
+    }
+  ]
+}

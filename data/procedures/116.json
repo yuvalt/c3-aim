@@ -1,0 +1,32 @@
+{
+  "page": 116,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-31",
+  "procedures": [
+    {
+      "title": "Cracked panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "glass cloth strips"
+      ],
+      "steps": [
+        "Optionally reinforce the fracture by laying glass cloth strips in the break before applying the plastic mix."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Fractured panels",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Introduction begins here; see next page. Figure 51 on this page shows front body construction (hood, access door, grille panel, fender panels, bonding strips, reinforcements, lower radiator grille panel)."
+      ],
+      "continues": true
+    }
+  ]
+}

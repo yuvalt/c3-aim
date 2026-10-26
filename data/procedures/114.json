@@ -1,0 +1,39 @@
+{
+  "page": 114,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-29",
+  "procedures": [
+    {
+      "title": "Scratched panels, spot refinishing",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel"
+      ],
+      "steps": [
+        "Refinish the panel following the paint refinishing part of the manual."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Dents or pits in panels, cracks in glaze coat",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel",
+        "plastic solder repair kit"
+      ],
+      "steps": [
+        "Strip paint around the damage down to the plastic with Lacquer Removing Solvent or equivalent.",
+        "Scuff the surrounding area so the repair bonds well.",
+        "Clean the work area with Prep-Sol, then finish with a tack rag."
+      ],
+      "specs": [],
+      "notes": [
+        "For a heavy glancing blow that leaves a dent or large pit (see figure 64 in the manual), and for cracks in the glaze/finish coat.",
+        "Use only where damage is limited and the plastic is not pierced but needs building up.",
+        "Figure 48 (spare tire mount) and figure 49 (rear grille and air door) also appear on this page."
+      ],
+      "continues": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "page": 132,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-47",
+  "procedures": [
+    {
+      "title": "Corvette body special tools",
+      "topic": "other",
+      "parts": [
+        "J-9559 hood spring tool",
+        "J-7797 door handle clip remover"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Figure 82 in the manual: (1) J-9559 Hood Spring Tool; (2) J-7797 Door Handle Clip Remover. No procedure text on this page; it ends the Corvette Body section."
+      ],
+      "continues": false
+    }
+  ]
+}

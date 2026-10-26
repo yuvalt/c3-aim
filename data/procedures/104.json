@@ -1,0 +1,71 @@
+{
+  "page": 104,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-19",
+  "procedures": [
+    {
+      "title": "Folding top compartment lid hinges: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top compartment lid hinge",
+        "hinge spring",
+        "hinge shims",
+        "tool J-9559"
+      ],
+      "steps": [
+        "Close the lid as far as it will go and insert tool J-9559 between the stretched spring coils; then open the lid fully and take the spring off the hinge (see figure 45 in the manual).",
+        "Right after removing the spring, push the long bolt supplied with J-9559 through the holes in the tool end and through the spring, and fit the nut.",
+        "To take the spring out of J-9559, or fit J-9559 into a new spring: clamp a closed 6 or 8 inch C-clamp in a vise or fix it to a bench anchored to the floor.",
+        "Hook one spring end in the clamp and the other on a chain hoist or cherry picker hook (see figure 46 in the manual).",
+        "Stretch the spring just enough to insert J-9559; fit the through bolt if the spring will not go onto the hinge right away.",
+        "Installation: Refit the same number of shims removed; or, for collision repair etc., set the hinge in the compartment, install the upper screws, shim the gap between floor and hinge frame, then install the lower screw.",
+        "If the spring was removed, fit it in J-9559 and place it on the hinge with the lid raised; closing the lid frees J-9559 for removal.",
+        "Seat the upper spring end in whichever of the 3 notches gives the best lid action."
+      ],
+      "specs": [
+        {
+          "what": "force to close folding top compartment lid",
+          "value": "approximately three pounds"
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Folding top compartment lid top lock: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "top lock",
+        "cable mounting clamps",
+        "lock cover",
+        "lock gasket",
+        "nut-washer assemblies"
+      ],
+      "steps": [
+        "For a lock on either side, remove the cable mounting clamps (1 hex screw).",
+        "Remove the 2 nut-washer assemblies.",
+        "Once the lock is off its studs, carefully remove the cover and gasket from the lid.",
+        "Install by reversing these steps, then test the lock and control mechanism."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Folding top compartment lid lock: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "compartment lid lock",
+        "control cable",
+        "cable retainer",
+        "cable mounting clamps"
+      ],
+      "steps": [
+        "Removal: Remove the cable mounting clamps; remove the retainer from the control cable and unhook the cable from the control.",
+        "Scribe a mark on the lid around the outer outline of the lock."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

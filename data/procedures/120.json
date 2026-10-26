@@ -1,0 +1,52 @@
+{
+  "page": 120,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-35",
+  "procedures": [
+    {
+      "title": "Panel replacement",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "woven glass cloth",
+        "resin",
+        "hardener"
+      ],
+      "steps": [
+        "Squeeze excess plastic out of the cloth.",
+        "Lay the wetted backup plies on the underside of the panels, holding them with paper until the plastic gels if needed.",
+        "Mix another batch of resin and hardener thoroughly and add glass fiber cut in 1/2 inch lengths until it is putty-like, or use glass cloth instead.",
+        "Fill the V groove with the reinforced mix or saturated cloth, building up the surrounding area enough for finishing.",
+        "Let the patch harden.",
+        "File or sand (#80-D paper) to the general panel contour.",
+        "Let the fill harden, then sand ready for paint."
+      ],
+      "specs": [
+        {
+          "what": "chopped glass fiber length",
+          "value": "1/2\""
+        },
+        {
+          "what": "contour sandpaper",
+          "value": "#80-D"
+        }
+      ],
+      "notes": [
+        "Figures 55 (typical body bonds), 56, 57 and 58 (plastic solder mixing, applying, finishing) are on this page."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hard top care and storage",
+      "topic": "hardtop",
+      "parts": [
+        "hard top",
+        "headlining"
+      ],
+      "steps": [
+        "Clean the painted outside of the hard top the same way as the rest of the body."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

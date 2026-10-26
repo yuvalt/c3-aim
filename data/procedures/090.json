@@ -1,0 +1,90 @@
+{
+  "page": 90,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-5",
+  "procedures": [
+    {
+      "title": "Sun visor: attach and adjust",
+      "topic": "interior",
+      "parts": [
+        "sun visor",
+        "windshield header",
+        "adjusting screw"
+      ],
+      "steps": [
+        "Attach the visor to the windshield header as shown in figure 9 in the manual.",
+        "Turn the adjusting screw clockwise to add friction."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Windshield: remove and install",
+      "topic": "glass",
+      "parts": [
+        "windshield glass",
+        "windshield pillar weatherstrip",
+        "lower corner reveal moldings",
+        "side retainer moldings",
+        "side reveal moldings",
+        "upper reveal molding",
+        "reveal molding retaining clips",
+        "rubber glass spacers",
+        "GM kit 4226000",
+        "adhesive caulking material",
+        "pressure sensitive sealing strip",
+        "steel music wire",
+        "caulking primer"
+      ],
+      "steps": [
+        "Open the windshield wiper access door.",
+        "Take off the wipers.",
+        "Remove the L and R weatherstrips: take out the mounting screw, pry from the channel, and pull carefully downward (see figure 11 in the manual).",
+        "Remove the L and R lower corner reveal moldings: take out the 2 screws at the end flanges to the fender, then pry gently off the clips.",
+        "Remove the L and R side retainer moldings by taking out 3 screws each to the frame (see figure 12 in the manual).",
+        "Remove the L and R side reveal moldings by taking out the 1 remaining screw (see figure 13 in the manual).",
+        "Mark the molding and header rail with tape for realignment, pry the upper reveal molding out at a corner with a screwdriver (see figure 14 in the manual), then pull the rest free by hand.",
+        "Tie one end of the music wire to a wooden handle, push the other end through the caulking at a lower windshield corner, and tie it to a second wooden handle (see figure 15 in the manual).",
+        "With a helper, saw through the caulking with the wire: up one side, across the top, down the other side and across the bottom.",
+        "Lift the old glass out.",
+        "Scrape the caulking off the pinchweld flange with a sharp scraper or wood chisel.",
+        "Inspect the upper reveal molding clips (4 needed) and replace any that are bent or distorted.",
+        "Glue the rubber spacers in place with weatherstrip adhesive: step-type at the bottom, flat-type at the top and sides (see figure 16 in the manual).",
+        "Set the new glass in the opening with suction cups and check its fit to the pinchweld all the way around; overlap must be even and at least 3/16\"; shim under the lower spacers if needed to get the overlap at the upper and lower flanges.",
+        "Once fit is right, mark the glass and windshield pillar with a grease pencil.",
+        "Take the glass out and lay it on a protected surface.",
+        "Clean the inside edge of the glass of oil, grease and other contamination.",
+        "Peel the backing and apply the pressure sensitive sealing strip about 1/4 inch in from the edge, all around the inside face of the glass.",
+        "Brush silane primer around the inside edge surface of the glass and on the sealing surface of the windshield frame.",
+        "Cut the cartridge nozzle off along the edge of the paint line.",
+        "Mix the caulking material and accelerator thoroughly per the container directions."
+      ],
+      "specs": [
+        {
+          "what": "glass-to-pinchweld overlap",
+          "value": "3/16\" minimum"
+        },
+        {
+          "what": "sealing strip distance from glass edge",
+          "value": "approximately 1/4 inch"
+        },
+        {
+          "what": "music wire diameter",
+          "value": ".020\""
+        },
+        {
+          "what": "caulking working time after mixing",
+          "value": "approximately 35 minutes"
+        }
+      ],
+      "notes": [
+        "Caulking cures soon after air exposure, so glass must go in promptly after the material is applied.",
+        "GM kit 4226000 contains caulking material, pressure sensitive sealing strip, .020\" music wire and caulking primer; also needed: caulking gun, 2 wood handles, black weatherstrip adhesive, rubber glass spacers.",
+        "Figure 10 in the manual identifies the moldings and weatherstrips.",
+        "Old caulking need not be fully removed from the frame, but no loose pieces may remain in the opening.",
+        "Do the following steps right after mixing the caulking."
+      ],
+      "continues": true
+    }
+  ]
+}

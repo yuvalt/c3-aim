@@ -1,0 +1,74 @@
+{
+  "page": 129,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-44",
+  "procedures": [
+    {
+      "title": "Folding top trim and rear window assembly: remove and install",
+      "topic": "convertible-top",
+      "parts": [
+        "wire-on binding",
+        "binding caps",
+        "header",
+        "rear side rail",
+        "header weatherstrip",
+        "header trim panel"
+      ],
+      "steps": [
+        "(continuing) ...as shown in figure 78 and View D of figure 71 in the manual, then fit the binding caps.",
+        "Take off the temporary clamps or fasteners holding the trim to the header.",
+        "Latch the header down, pull the trim assembly up tight and mark it for final fitting.",
+        "Apply trim cement to the header and the rear side rail.",
+        "Unlatch the header from the windshield and tack or staple the trim to the header (see figure 72 in the manual).",
+        "Lay the trim onto the already-cemented rear side frame.",
+        "Refit the weatherstrips removed during disassembly and the header weatherstrip retaining screws.",
+        "Install the header trim panel.",
+        "Make any needed adjustments (see Folding Top Adjustments)."
+      ],
+      "specs": [],
+      "notes": [
+        "Figure 75 in the manual shows pad construction (header, bows #1-#3, padding, cover, tacks, screws, liner, staples); figure 76 shows the pad installed; figure 77 shows the left stay strap attached at the #3 bow with the pad."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top frame and linkage: service and lubrication",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top frame",
+        "linkage pivot joints"
+      ],
+      "steps": [
+        "If the job needs the top trim off, follow the Folding Top Trim and Rear Window Assembly procedure.",
+        "To replace the whole frame as a unit, follow the trim procedure and the Top Assembly Removal and Installation procedure.",
+        "Oil the pivot joints with light machine oil once a year, sparingly so the trim is not stained."
+      ],
+      "specs": [
+        {
+          "what": "pivot joint lubrication interval",
+          "value": "once a year"
+        }
+      ],
+      "notes": [
+        "Figure 79 in the manual shows the frame and linkage construction, with cross-sections of the pivot joints."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top side rail weatherstrip: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "side rail weatherstrip",
+        "neoprene base cement"
+      ],
+      "steps": [
+        "The weatherstrip is held by loose screws built into the weatherstrip assembly and by neoprene base cement between it and the side rail (see figure 80 in the manual).",
+        "When replacing, clean all rust, old cement and dirt off the surfaces to be"
+      ],
+      "specs": [],
+      "notes": [
+        "This weatherstrip seals the window opening."
+      ],
+      "continues": true
+    }
+  ]
+}

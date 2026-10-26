@@ -1,0 +1,64 @@
+{
+  "page": 101,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-16",
+  "procedures": [
+    {
+      "title": "Window regulator, power: remove, disassemble and install",
+      "topic": "windows",
+      "parts": [
+        "power window regulator",
+        "window motor",
+        "sector gear",
+        "mounting plate weld nut",
+        "1/4\"-20 x 1\" bolt",
+        "guide rails"
+      ],
+      "steps": [
+        "Disassembly: Lock the spring-loaded arm before taking the motor off (see figure 38 in the manual).",
+        "Clamp the regulator assembly in a vise.",
+        "Power the motor with jumper leads from a 12 volt DC source until the semi-circular hole in the sector gear lines up over one of the 2 weld nuts on the mounting plate.",
+        "Thread a 1/4\"-20 x 1\" bolt into that weld nut so its end goes through the sector gear hole; if needed, open the gear hole slightly with a file or drill.",
+        "Fit a nut on the bolt to hold the arm locked.",
+        "Installation: If the regulator was disassembled, make sure the lock bolt has been taken out.",
+        "Install the lubricated regulator and guide rails in reverse order of removal.",
+        "Install the window.",
+        "Confirm the connectors are firmly on the motor, then test the window thoroughly.",
+        "Refit the door trim panel and control handles."
+      ],
+      "specs": [],
+      "notes": [
+        "The regulator arm is spring-loaded."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door lock and remote controls: remove and install",
+      "topic": "doors",
+      "parts": [
+        "door lock",
+        "remote control assembly",
+        "upper control rod",
+        "lock control rods",
+        "crank link (intermediate pivot)",
+        "access hole cover"
+      ],
+      "steps": [
+        "Removal: Run the window fully up.",
+        "Take off the door trim panel.",
+        "Remove the cover from the upper rear access hole.",
+        "Free the upper control rod: first remove the plastic guide clip, then release the carburetor-type clips at each end and pull the rod out through the access hole.",
+        "Free the lock control rods by releasing the clips at each end and lifting the rods outward.",
+        "Remove the remote control assembly (4 screws into the inner door panel).",
+        "Remove the crank link (intermediate pivot) (2 screws into the inner panel).",
+        "Remove the door lock (3 screws) and lift it out through the access hole.",
+        "Installation: reverse the removal steps."
+      ],
+      "specs": [],
+      "notes": [
+        "Parts identification: figure 27 in the manual.",
+        "Figure 28 in the manual shows the door weatherstrip: weatherstrip, screws, spacer, striker and lock pillar."
+      ],
+      "continues": true
+    }
+  ]
+}

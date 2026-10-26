@@ -1,0 +1,142 @@
+{
+  "page": 126,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-41",
+  "procedures": [
+    {
+      "title": "Hard top vinyl covering: install",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover",
+        "reveal moldings",
+        "weatherstrips"
+      ],
+      "steps": [
+        "Coat the whole fabric roof cover with cement and let it dry about 15 minutes.",
+        "Fold the vinyl cover back onto the cemented roof panel, keeping the cover seam parallel to the car's center line.",
+        "Repeat for the other side of the roof.",
+        "Work out wrinkles and bubbles with a spatula or roller.",
+        "Trim the extra vinyl all around the top, leaving a flange of at least 1/2\" to cement to the removable hardtop substructure.",
+        "Reinstall the reveal moldings and weatherstrips."
+      ],
+      "specs": [
+        {
+          "what": "cement drying time",
+          "value": "approximately 15 minutes"
+        },
+        {
+          "what": "vinyl trim flange (minimum)",
+          "value": "1/2\""
+        }
+      ],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Vinyl roof cover: repair scuffs or small cuts near exterior moldings",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover"
+      ],
+      "steps": [
+        "If there is a small cut, first try to cement the loose ends.",
+        "Get scrap roof cover material, or take some from a hidden spot on the same car (e.g. under the reveal moldings).",
+        "With an electric wood-burning needle or low-heat soldering gun, scrape vinyl off the scrap or hidden area and apply it at once to the damaged spot.",
+        "Blend the added vinyl into the cover with the needle or soldering gun."
+      ],
+      "specs": [],
+      "notes": [
+        "These repairs avoid removing or replacing the cover.",
+        "Caution: keep the heat low or the cover can discolor."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Vinyl roof cover: repair wrinkles, blisters and bubbles",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover"
+      ],
+      "steps": [
+        "Prick every wrinkle, blister and bubble with a small needle.",
+        "Soak a clean shop towel in water and wring it out.",
+        "Lay the towel over the affected area.",
+        "Run a household iron back and forth over the towel until it is dry; if the iron has settings, use \"wool\".",
+        "Remove the towel and check the area.",
+        "If slight wrinkles or blisters remain, use a syringe with a hypodermic needle to inject enough clear water to dampen the fabric backing.",
+        "Then repeat the towel and iron steps (steps 2 through 4)."
+      ],
+      "specs": [
+        {
+          "what": "iron heat setting",
+          "value": "\"wool\""
+        }
+      ],
+      "notes": [
+        "Caution: stop ironing once the towel is dry; extra heat can permanently damage the vinyl cover."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top: care",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top",
+        "plastic rear window"
+      ],
+      "steps": [
+        "Do not leave the top folded for long if it is damp or soaked; let it dry in the raised position before stowing.",
+        "Do not put advertising stickers, gummed labels or masking tape on the plastic back window."
+      ],
+      "specs": [],
+      "notes": [
+        "Storing a wet top folded risks water stains, mildew or shrinkage.",
+        "Sticker adhesive is hard to remove and may harm the plastic window."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top plastic rear window: care and cleaning",
+      "topic": "convertible-top",
+      "parts": [
+        "plastic rear window"
+      ],
+      "steps": [
+        "For light dust, never use a dry cloth; wipe across the window with a soft cotton cloth dampened with water.",
+        "To wash, use cold or tepid (not hot) water with mild neutral soap suds, rinse with clear water, and wipe with a slightly damp clean soft cloth.",
+        "Do not scrape off frost, snow or ice; in an emergency warm water may be used, keeping it off the glass windows and windshield."
+      ],
+      "specs": [],
+      "notes": [
+        "The plastic scratches and abrades easily.",
+        "A quality plastic window cleaner is sold through Chevrolet parts sources.",
+        "Caution: never use alcohol or other solvents or volatile cleaners on the plastic window; they can deteriorate it, and spills can spot the paint on the rear body panels below."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Folding top: adjustments",
+      "topic": "convertible-top",
+      "parts": [
+        "folding top header",
+        "header trim panel",
+        "header clamping screws",
+        "top hinges",
+        "side roof rail weatherstrip",
+        "rigid plastic trim"
+      ],
+      "steps": [
+        "Top fit is adjusted at 3 locations (see figure 70 in the manual); a mix of these, plus door and window adjustments, may be needed.",
+        "Header: remove the header trim panel, loosen the 2 clamping screws and move the header fore or aft.",
+        "To reach the outer header clamping screw, remove the side roof rail weatherstrip (see Weatherstrip).",
+        "Hinge: remove the rigid plastic trim (see Interior Trim) to reach the hinge.",
+        "Move the hinge up/down and fore/aft within the slotted holes in the hinge plate and body."
+      ],
+      "specs": [],
+      "notes": [
+        "Header adjustment fixes header latch guide pin alignment with the windshield upper frame holes; signs of misalignment are loose top trim when up and locked, and hard-to-engage header locks.",
+        "Repositioning the hinge corrects poor top fit at the upper and rear window edges and faulty fore and aft ..."
+      ],
+      "continues": true
+    }
+  ]
+}

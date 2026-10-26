@@ -1,0 +1,39 @@
+{
+  "page": 125,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-40",
+  "procedures": [
+    {
+      "title": "Hard top vinyl covering: install",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover",
+        "nitrile vinyl trim adhesive",
+        "Xylol solvent"
+      ],
+      "steps": [
+        "Clean the roof panel with a Xylol solvent (e.g. 3M Adhesive Cleaner or equivalent); let the solvent soak before rubbing, and remove or smooth out leftover old cement.",
+        "If possible, fit the new cover at room temperature (about 72°) so it fits easier and wrinkles come out.",
+        "Find the roof panel center line by marking center points at the front of the hard top and at the back window opening.",
+        "Fold the cover lengthwise, lay it on the roof panel and set the overhang (about 1\").",
+        "Apply nitrile non-staining vinyl trim adhesive (e.g. 3M Vinyl Trim Adhesive) to the roof panel beside the fabric cover center line.",
+        "Keep the cement coat as thin as possible, using a mohair roller."
+      ],
+      "specs": [
+        {
+          "what": "installation temperature",
+          "value": "approximately 72°"
+        },
+        {
+          "what": "cover overhang",
+          "value": "approximately 1\""
+        }
+      ],
+      "notes": [
+        "Too much cement can trap solvent and cause blisters between cover and roof panel.",
+        "If nitrile non-staining cement is unavailable, a neoprene non-staining weatherstrip cement (3M weatherstrip cement or equivalent) may be used.",
+        "Figure 69 in the manual shows marking a molding position with a pencil; figure 70 (Folding Top Adjustments) is also on this page."
+      ],
+      "continues": true
+    }
+  ]
+}

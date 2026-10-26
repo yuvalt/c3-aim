@@ -1,0 +1,68 @@
+{
+  "page": 93,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-8",
+  "procedures": [
+    {
+      "title": "Door lock striker: adjust",
+      "topic": "doors",
+      "parts": [
+        "door lock striker bolt",
+        "striker spacers"
+      ],
+      "steps": [
+        "The striker head should sit centered fore and aft (some tolerance is allowed), while keeping the minimum dimensions in figure 21 in the manual.",
+        "Use service spacers alone or stacked to reach the specified alignment.",
+        "To add spacers: pencil-mark the striker position on the lock pillar.",
+        "Fit a 5/16\" wrench into the hex fitting in the striker bolt head and remove the striker (see figure 22 in the manual).",
+        "Reinstall in reverse order, keeping the striker inside the pencil mark."
+      ],
+      "specs": [
+        {
+          "what": "spacer 5/64\"",
+          "value": "part no. 4469196"
+        },
+        {
+          "what": "spacer 5/32\"",
+          "value": "part no. 4469197"
+        },
+        {
+          "what": "spacer 1/4\"",
+          "value": "part no. 4469194"
+        },
+        {
+          "what": "spacer 5/16\"",
+          "value": "part no. 4469195"
+        }
+      ],
+      "notes": [
+        "Important: after a door is removed/refitted or realigned, do not shut it fully until you have visually confirmed the fork-bolt engages the striker.",
+        "Figure 21 (striker impression minimum dimensions) is not on this page."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Door window: adjust",
+      "topic": "windows",
+      "parts": [
+        "door window",
+        "window channel assembly",
+        "adjusting stud",
+        "hex nut",
+        "screw and stop assemblies"
+      ],
+      "steps": [
+        "In/out at the top of the window (do each channel): remove the door trim panel.",
+        "Loosen the 2 outer screws at the top of the inner door panel (View A, figure 23 in the manual).",
+        "Remove the hex nut on the adjusting stud (View B).",
+        "Turn the stud to place the window where wanted.",
+        "Retighten the hex nut and the 2 screws.",
+        "Up/down (screw-and-stop assemblies at upper and lower ends of each channel): loosen the 2 Phillips screws.",
+        "Slide the channel to the window height wanted.",
+        "Tighten the screws and recheck window position."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

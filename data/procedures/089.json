@@ -1,0 +1,65 @@
+{
+  "page": 89,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-4",
+  "procedures": [
+    {
+      "title": "Console assembly: remove",
+      "topic": "interior",
+      "parts": [
+        "rear console assembly",
+        "front console assembly",
+        "heater and side vent controls",
+        "shift knob",
+        "shift boot",
+        "console trim plate"
+      ],
+      "steps": [
+        "Remove the rear console first (or loosen it enough), because it overlaps the front console (see figure 6 in the manual).",
+        "Remove the 2 screws on the left and right sides of the rear console.",
+        "With the right rear storage compartment box out, remove the 1 hex bolt and washer at the center of the underbody panel.",
+        "Lift the rear console housing straight up, keeping it clear of the parking brake handle.",
+        "With the left and right side trim panels out, remove the 2 screws at the side flanges of the front console.",
+        "Disassemble the heater and side vent controls, shift knob, boot and trim plate.",
+        "Pull the front console rearward and upward to remove it (see figure 7 in the manual)."
+      ],
+      "specs": [],
+      "notes": [
+        "Protect the seat cushion with a sheet of heavy cardboard pressed against it while using the screwdriver on the rear console screws."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Outside rear view mirror: remove and install",
+      "topic": "body",
+      "parts": [
+        "outside rear view mirror",
+        "allen head set screw",
+        "mirror mounting assembly"
+      ],
+      "steps": [
+        "Loosen/remove the allen head set screw on the outboard side of the mirror support to take the mirror off the door (see figure 8 in the manual).",
+        "Remove the 2 screws holding the mounting assembly to the body.",
+        "Install in reverse order."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Inside rear view mirror: install and tension",
+      "topic": "interior",
+      "parts": [
+        "inside rear view mirror",
+        "mirror stud",
+        "adjusting screw"
+      ],
+      "steps": [
+        "Install as shown in figure 9 in the manual.",
+        "Tighten the adjusting screw to increase mirror stud tension."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    }
+  ]
+}

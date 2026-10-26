@@ -1,0 +1,48 @@
+{
+  "page": 112,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-27",
+  "procedures": [
+    {
+      "title": "Resin kit repair (major damage)",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "resin repair kit",
+        "fiberglass cloth"
+      ],
+      "steps": [
+        "Soak the fiberglass layers in the mix (see figure 60 in the manual) and lay the laminate over the damage, smoothing out wrinkles and keeping the panel's contour (see figure 61 in the manual).",
+        "Heat the repair, preferably with heat lamps kept at least 12 inches away; let it cure 15 to 20 minutes, trimming the patch to shape while it is at the gel stage.",
+        "Once cured, grind, file or sand to contour (files other than body files may work better; use a belt sander with vacuum to limit dust), then featheredge and finish sand."
+      ],
+      "specs": [
+        {
+          "what": "heat lamp distance from repair",
+          "value": "at least 12\""
+        },
+        {
+          "what": "cure time",
+          "value": "15 to 20 minutes"
+        }
+      ],
+      "notes": [
+        "Caution (continued): keep all containers dry and clean, keep resin and hardener cans closed when not in use, never mix in waxed cups, and never let resin get into the hardener can or the reverse.",
+        "Small pits or irregularities may show in the finish after a resin repair; fix them with the Plastic Solder Repair Kit."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Scratched panels, spot refinishing",
+      "topic": "fiberglass-repair",
+      "parts": [
+        "body panel"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "Often a scratched panel only needs paint refinishing; figure 62 in the manual shows a fender top scratched through to the plastic. Steps follow on the next page.",
+        "Figure 43 on this page shows the folding top lid assembly (lid, cables, lock, control assembly, hinge, spring, weatherstrip)."
+      ],
+      "continues": true
+    }
+  ]
+}

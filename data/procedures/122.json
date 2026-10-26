@@ -1,0 +1,127 @@
+{
+  "page": 122,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-37",
+  "procedures": [
+    {
+      "title": "Hard top rear window: remove and install",
+      "topic": "hardtop",
+      "parts": [
+        "hard top rear window glass",
+        "upper reveal molding",
+        "lower reveal molding",
+        "lower inside garnish molding",
+        "shims",
+        "caulking"
+      ],
+      "steps": [
+        "Removal: take the hard top off the car and cover the headlining to protect it.",
+        "Mark where the right-hand upper reveal molding end sits (see figure 69 in the manual), then pry the molding off its retaining clips.",
+        "Do the same for the left-hand and the lower reveal moldings.",
+        "Take off the lower (inside) garnish molding: remove the 4 nuts on its fixed studs and ease the molding outward.",
+        "Remove the glass using steps 8 through 13 of the FRONT END--WINDSHIELD procedure.",
+        "Installation: set the new glass in the opening and check how it sits against the flange all the way around.",
+        "Make the overlap even all around, at least 3/16 inch.",
+        "If needed, put shims under the lower spacers to get the required overlap at the upper and lower flanges.",
+        "Once aligned, mark the glass position on the glass and the top surface with a grease pencil.",
+        "Install the glass using steps 16-22 of the FRONT END--WINDSHIELD procedure.",
+        "Press lightly on the glass so the caulking seats against the opening flanges; paddle the material where needed for a good seal.",
+        "Water test right away with a cold water spray; if it leaks, paddle caulking into the leak point from the inside using a flat-blade screwdriver or splint.",
+        "Reinstall the moldings removed earlier, working in reverse order."
+      ],
+      "specs": [
+        {
+          "what": "rear window glass overlap on flange (minimum, equal all around)",
+          "value": "3/16 inches"
+        }
+      ],
+      "notes": [
+        "Caution: while the caulking is still soft, do not aim a heavy stream of water straight at it.",
+        "Removal heading and REAR WINDOW title begin on the previous page (1B-36); see figures 67 and 68 in the manual for parts."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hard top attachments (locks, guides): adjust and remove",
+      "topic": "hardtop",
+      "parts": [
+        "hard top locks",
+        "header guide pins",
+        "rear pin housings",
+        "center trim plate",
+        "center lock",
+        "hexagonal latch bolts"
+      ],
+      "steps": [
+        "Remove the headlining first (see Headlinings).",
+        "To shift the left or right lock fore or aft, mark its original position, loosen its 2 mounting bolts and move it the desired way.",
+        "Make sure the lock is engaged in its serrations before tightening the mounting screws.",
+        "Adjust up or down by turning the hexagonal latch bolts clockwise or counterclockwise respectively.",
+        "Header guide pins and rear pin housings come off by removing the mounting screws at their flanges.",
+        "To remove the center trim plate, take off the center lock first, then its 4 retaining screws."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 68 in the manual for where the guides and lock mechanisms sit."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hard top headlining: remove and install",
+      "topic": "hardtop",
+      "parts": [
+        "headlining assembly",
+        "plastic fasteners",
+        "headlining retaining nuts"
+      ],
+      "steps": [
+        "Release the plastic fasteners around the hard top inner panel edge by prying outward carefully with fingers or a flat-blade tool.",
+        "If needed, split the removed headlining into its 3 parts by removing the retaining nuts on its inside surface.",
+        "To install, line the headlining up with the top before pushing the plastic fasteners in."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 68 in the manual for fastener locations."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hard top weatherstrip and drip molding: replace",
+      "topic": "weatherstrip",
+      "parts": [
+        "door window weatherstrip",
+        "drip molding",
+        "side outer weatherstrip",
+        "rear outer weatherstrip",
+        "inner forward weatherstrip",
+        "plastic retaining clips"
+      ],
+      "steps": [
+        "Door window weatherstrip and drip molding are held to the top with screws; remove the screws to replace them.",
+        "For side outer or rear outer weatherstrip, remove the 2 end screws, then pull carefully outward at each special plastic clip.",
+        "For inner forward weatherstrip, remove its mounting screws and release the special clips along its length."
+      ],
+      "specs": [],
+      "notes": [
+        "See figure 67 in the manual."
+      ],
+      "continues": false
+    },
+    {
+      "title": "Hard top vinyl covering: remove",
+      "topic": "hardtop",
+      "parts": [
+        "vinyl roof cover",
+        "weatherstrip assemblies",
+        "reveal moldings"
+      ],
+      "steps": [
+        "Remove the weatherstrip assemblies.",
+        "Remove the reveal moldings.",
+        "Before pulling the fabric cover, warm the cemented areas so the edges release more easily."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": true
+    }
+  ]
+}

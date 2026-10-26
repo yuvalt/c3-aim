@@ -1,0 +1,36 @@
+{
+  "page": 121,
+  "source": "1968 Chevrolet Chassis Service Manual, Corvette Body, p.1B-36",
+  "procedures": [
+    {
+      "title": "Hard top care and storage",
+      "topic": "hardtop",
+      "parts": [
+        "hard top",
+        "headlining"
+      ],
+      "steps": [
+        "Clean the inside headlining as described under Cleaning Soft Trim.",
+        "Store the hard top indoors, clean and dry, when it is off the car.",
+        "For long storage, cover it so dirt does not settle on the headlining or outer surface."
+      ],
+      "specs": [],
+      "notes": [],
+      "continues": false
+    },
+    {
+      "title": "Rear window",
+      "topic": "windows",
+      "parts": [
+        "rear window"
+      ],
+      "steps": [],
+      "specs": [],
+      "notes": [
+        "See figures 67 and 68 in the manual for parts identification; procedure continues on the next page.",
+        "Figures 59-64 (fiberglass repair photos) are on this page."
+      ],
+      "continues": true
+    }
+  ]
+}
