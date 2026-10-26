@@ -1,12 +1,19 @@
 {
- "pn": "271172",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "AIM name NUT ASM. No web hits for this number.",
- "confidence": "not_found",
- "sources": []
+  "pn": "271172",
+  "kind": "nut",
+  "thread": null,
+  "length": null,
+  "head": null,
+  "drive": null,
+  "finish": null,
+  "notes": "AIM name NUT ASM. Second pass (extended search, usage context, vendor/AMK angles): only hit is a Nova catalog naming it a door mounting bolt nut, no size.",
+  "confidence": "not_found",
+  "sources": [
+    {
+      "url": "https://rparts-sites.s3.amazonaws.com/2c4ad8f278fc59a27d14d38eb7e9513a/design/X2-Chevy-Parts-Catalog-Nova-68-79.pdf",
+      "title": "1968-1979 Chevy II/Nova catalog (search snippet; no size)",
+      "quote": "68-72 271172 Door Mounting Bolt Nut...2 req",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

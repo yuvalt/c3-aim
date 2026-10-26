@@ -1,12 +1,31 @@
 {
- "pn": "9418931",
- "kind": "nut",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No web hits for this number.",
- "confidence": "not_found",
- "sources": []
+  "pn": "9418931",
+  "kind": "nut",
+  "thread": "3/8-16",
+  "length": null,
+  "head": "hex",
+  "drive": null,
+  "finish": "phosphate",
+  "notes": "Grade 5 hex nut, 9/16 AF, .33 thick (forum). Zip sells it as clutch cross shaft ball stud nut, 1963-81, black finish. AMK equivalent B-12788. Second pass: found via extended search with 'GM' and AMK cross-reference.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7105",
+      "title": "Bulk Fasteners Listing - AMK Products (search snippet; page 403)",
+      "quote": "10 pk | Phosphate & Oil | (QX~) 118615 (Chry), 33799-S2, 9418931 | | B-12788 ... 3/8-16 GR5 FINISH HX NUT PHOS",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvetteforum.com/forums/c3-general/3378398-aim-rant.html",
+      "title": "AIM Rant - CorvetteForum (search snippet; page 403)",
+      "quote": "9418931-P48/59/70/113 3/8-16 GR5 9/16AF .33 thk AMK B-12788 (Phosp)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.zip-corvette.com/63-81-clutch-cross-shaft-frame-ball-stud-lock-washer-nut.html",
+      "title": "1963-1981 Corvette Clutch Cross Shaft Frame Ball Stud Lock Washer Nut (GM Part 9418931) - Zip",
+      "quote": "Original style 1963-1981 Corvette clutch cross shaft frame ball stud nut. ... Black finish.",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

@@ -1,0 +1,31 @@
+{
+ "pn": "9419400",
+ "kind": "screw",
+ "thread": "1/4-14 (#14 tapping)",
+ "length": "1/2",
+ "head": "hex washer, 3/8 AF, .5 OD",
+ "drive": "hex",
+ "finish": "phosphate & oil",
+ "notes": "Type AB tapping screw. AMK lists it as B-12093 (BA-26 drawer), and GMPartsWiki snippets cite AMK B-12095 (#14 X 1/2 HXWA AB, ZDC). Other uses: Camaro exhaust hanger bolt, Chevelle switch mounting bolt. Quotes come from search snippets (amkproducts, camaros.net, gmpartswiki all 403).",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/drawer/?product_id=BA-26",
+   "title": "AMK Drawer BA-26 hex washer tapping screws (search snippet)",
+   "quote": "#14 x 1/2 hex washer ... phosphate and oil ... (Q) 31497-S2, 55981-S2, 9419400 ... B-12093",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/page-2",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "AMK B-11104 (25) 9419400-P366 1/4-14X1/2 3/8AF .5 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/gmpart?gmpartno=9419400",
+   "title": "GMPartsWiki - 9419400 SCREW (search snippet)",
+   "quote": "AMK Products \u00b7 B-12095",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

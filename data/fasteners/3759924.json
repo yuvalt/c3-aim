@@ -1,0 +1,25 @@
+{
+ "pn": "3759924",
+ "kind": "nut",
+ "thread": "10-24",
+ "length": null,
+ "head": "conical keps (washer nut), 3/8 hex, .45 OD",
+ "drive": null,
+ "finish": "cadmium & wax",
+ "notes": "AMK lists it as B-13507; the camaros.net hardware list gives AMK B-10475 for it, but both give 10-24 and .45 OD. One AMK snippet also showed a 10-32 keps row near it, probably the next row. Vendors use it for parking lamp studs (63-67 Corvette), battery junction block, and circuit breaker. Both pages are 403/paywalled; quotes come from search snippets.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/product/b-13507/",
+   "title": "AMK B-13507 Keps Nuts - Conical & External (search snippet)",
+   "quote": "10-24 conical KEPS nut, .45 dia, .0002 cadmium & wax ... (KNX) 3759924 ... B-13507",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "AMK B-10475 (6) 3759924-P155 elect washer/nut 10-24 3/8AF .45 O.D.",
+   "accessed": "2026-10-26"
+  }
+ ]
+}

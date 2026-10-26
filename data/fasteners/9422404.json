@@ -6,7 +6,7 @@
  "head": null,
  "drive": null,
  "finish": null,
- "notes": "No web hits for this number.",
+ "notes": "Second pass (2026-10-26): no web hit ties 9422404 to a size. Tried bare number, GM/Corvette/console context, AMK catalog, GMPartsWiki snippets. A classicoldsmobile.com thread lists '9422404 firewall regulator' and seems to match it to AMK B-11069, but AMK lists B-11069 under OEM 9423354 (#6 hex washer), so it is not used. Thread page 403.",
  "confidence": "not_found",
  "sources": []
 }

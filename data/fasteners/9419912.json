@@ -1,0 +1,31 @@
+{
+  "pn": "9419912",
+  "kind": "nut",
+  "thread": "1/4-20",
+  "length": null,
+  "head": "hex",
+  "drive": null,
+  "finish": "phosphate",
+  "notes": "Single source (AMK cross-reference, seen only as search snippet). NSN 5310-01-157-9818 'Nut, Plain, Hexagon'. Corvette Pacifica lists GM 103319/9419912 as 69-72 A/C drier bracket nut kit (no size). A forum list puts 9419912-P103 next to a 1/4-20 air cleaner nut, but the line is ambiguous so not used.",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7105",
+      "title": "Bulk Fasteners Listing - AMK Products (search snippet; page 403)",
+      "quote": "10 pk Phosphate & Oil (WI~) 33795-S2, 9419912 B-12776 ... 1/4-20 FINISH HX NUT",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.parttarget.com/General-Motors-Corp_nsn-parts_9418932_9433353.html",
+      "title": "NSN Parts by General Motors Corp. (search snippet)",
+      "quote": "MFG SKU: 9419912. NSN: 5310-01-157-9818. Item Name: Nut, Plain, Hexagon.",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvettepacifica.com/products/34440/nut-kit-air-conditioning-drier-bracket-with-washers-4-pieces-69-72/",
+      "title": "Corvette Nut Kit Air Conditioning Drier Bracket With Washers 4 Pieces 69 72",
+      "quote": "GM PART # 103319 / 9419912",
+      "accessed": "2026-10-26"
+    }
+  ]
+}

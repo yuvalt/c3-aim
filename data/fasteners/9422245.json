@@ -1,19 +1,25 @@
 {
-  "pn": "9422245",
-  "kind": "screw",
-  "thread": null,
-  "length": null,
-  "head": null,
-  "drive": null,
-  "finish": null,
-  "notes": "1968 Camaro AIM lists 9422245 SCREW (no size); camaros.net poster says it is not in AMK catalog. Companion screw 3849634 is 8-18 x 5/8 but that is not a size for 9422245.",
-  "confidence": "not_found",
-  "sources": [
-    {
-      "url": "https://www.camaros.net/threads/type-of-screw-to-attach-base-rocker-moldings.182653/",
-      "title": "Type of screw to attach base rocker moldings? - camaros.net (search snippet)",
-      "quote": "that part number doesn't show on that page (nor any other)",
-      "accessed": "2026-10-24"
-    }
-  ]
+ "pn": "9422245",
+ "kind": "screw",
+ "thread": "#8",
+ "length": "3/8",
+ "head": "pan",
+ "drive": "phillips",
+ "finish": "phosphate & oil",
+ "notes": "AMK B-11143 (#8 x 3/8 Phillips pan tapping screw, 'BT' point) lists OEM 9422245. Found only as a search snippet (amkproducts.com 403). Another AMK snippet calls B-11143 '#8 X 3/8 PH PN TEK ZC' (zinc), so finish/point is uncertain. First-pass camaros.net note said it wasn't in AMK's catalog; AMK's current listing does have it. 1968 Camaro AIM lists 9422245 SCREW (no size); camaros.net poster says it is not in AMK catalog. Companion screw 3849634 is 8-18 x 5/8 but that is not a size for 9422245.",
+ "confidence": "medium",
+ "sources": [
+  {
+   "url": "https://www.camaros.net/threads/type-of-screw-to-attach-base-rocker-moldings.182653/",
+   "title": "Type of screw to attach base rocker moldings? - camaros.net (search snippet)",
+   "quote": "that part number doesn't show on that page (nor any other)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7230",
+   "title": "AMK Products - Tapping Screws - Pan Head (search snippet)",
+   "quote": "#8 X 3/8 PH PN BT PHOS. | Phosphate & Oil | 9422245 | B-11143",
+   "accessed": "2026-10-26"
+  }
+ ]
 }

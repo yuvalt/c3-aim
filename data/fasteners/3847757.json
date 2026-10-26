@@ -1,12 +1,31 @@
 {
- "pn": "3847757",
- "kind": "bolt",
- "thread": null,
- "length": null,
- "head": null,
- "drive": null,
- "finish": null,
- "notes": "No web hits. Neighbor 3847758 (1967 hood hinge screw asm) discussed on NCRS, not applicable.",
- "confidence": "not_found",
- "sources": []
+  "pn": "3847757",
+  "kind": "screw",
+  "thread": "5/16-18",
+  "length": "3/4-1 (sources differ; one says 7/8)",
+  "head": "indented hex, captured washer",
+  "drive": null,
+  "finish": null,
+  "notes": "Seat adjuster to floor screw (Pacifica, Dr. Rebuild) and many other uses. Thread from two independent sources; length 7/8 from one (camaros.net), other forum posts say 3/4-1 in. Tip style varies (pointed vs flat). First-pass neighbor note on 3847758 not applicable. Review: length shown as a range because sources disagree; thread is the high-confidence part.",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+      "title": "Original hardware - See Post #2 & #5 - camaros.net (search snippet; page gated)",
+      "quote": "pointed 3847757 - 5/16-18x7/8\" captured washer",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.yenko.net/forum/showthread.php?p=1223693",
+      "title": "Correct Factory D80 Spoiler Hardware 67-69 Camaros - The Supercar Registry (search snippet)",
+      "quote": "4 F 5/16-18 flat tip bolts (GM PT# 3847757)",
+      "accessed": "2026-10-26"
+    },
+    {
+      "url": "https://www.corvettepacifica.com/products/34653/bolt-kit-seat-adjuster-bracket-10-pieces-68-78/",
+      "title": "Corvette Bolt Kit Seat Adjuster Bracket 10 Pieces 68 78",
+      "quote": "GM PART # 3847757 ... Attaches seat adjuster to floor. 5 bolts rqrd. per seat.",
+      "accessed": "2026-10-26"
+    }
+  ]
 }

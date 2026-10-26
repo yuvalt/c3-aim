@@ -1,0 +1,37 @@
+{
+ "pn": "9419303",
+ "kind": "screw",
+ "thread": "#10-16",
+ "length": "1/2",
+ "head": "hex washer, 5/16 AF, .4 OD",
+ "drive": "hex",
+ "finish": "phosphate & oil",
+ "notes": "Type AB tapping screw. AMK B-12081 lists it with 3841230 and 9428469. GMPartsWiki says REPLACED BY 9419305. NSN 5305-01-197-2536 (tapping screw). Vendors use it for heater box Y-duct (63-67 Corvette), door access plate (68-82), and Camaro heater resistor. Quotes come from search snippets.",
+ "confidence": "high",
+ "sources": [
+  {
+   "url": "https://www.amkproducts.com/bulk-fasteners-listing/?codeforlookup=7220",
+   "title": "AMK Products bulk fasteners listing (search snippet)",
+   "quote": "#10 X 1/2 HXWA AB SCREW PHOS. 10 pk | Phosphate & Oil | (KTA) 3841230 (wax), 9419303, 9428469 (wax) | | B-12081",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.camaros.net/threads/original-hardware-see-post-2-5.321378/",
+   "title": "camaros.net - Original hardware (search snippet)",
+   "quote": "9419303-P52/72/187 10-16X1/2 5/16AF .4 O.D.",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "https://www.corvettepacifica.com/products/34130/screw-kit-heater-box-duct-y-screw-pair-63-67/",
+   "title": "Corvette Pacifica - Heater box Y duct screw kit",
+   "quote": "HEATER BOX \"Y\" DUCT SCREW KIT, GM PART # 9419303, INCLUDES 2 PIECES. 1963-67",
+   "accessed": "2026-10-26"
+  },
+  {
+   "url": "http://www.gmpartswiki.com/gmpart?gmpartno=9419303",
+   "title": "GMPartsWiki - 9419303 SCREW (search snippet)",
+   "quote": "REPLACED BY 9419305",
+   "accessed": "2026-10-26"
+  }
+ ]
+}
